@@ -1,5 +1,5 @@
 ---
-title: Australia: Finances
+title: Australia- Finances
 tags: australia plans
 author: Rob Nugen
 date: 1999-07-13

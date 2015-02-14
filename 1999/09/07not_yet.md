@@ -1,5 +1,5 @@
 ---
-title: Australia: Nope
+title: Australia- Nope
 tags: australia plans
 author: Rob Nugen
 date: 1999-09-07
