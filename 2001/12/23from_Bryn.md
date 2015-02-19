@@ -2,7 +2,7 @@
 title: from bryn
 tags: bryn
 author: Bryn
-date: 2001-12- 2
+date: 2001-12-23
 ---
 
 Date: Sun, 23 Dec 2001 19:39:12 -0800 (PST)

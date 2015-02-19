@@ -2,7 +2,7 @@
 title: driving
 tags: 
 author: Rob Nugen
-date: 2001-09-00
+date: 2001-08-31
 ---
 
 <p class=date>9:05 pm Friday 31 August 2001</p>

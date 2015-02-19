@@ -1,8 +1,8 @@
 ---
-title: 2Tears
+title: Tears
 tags: 
 author: Rob Nugen
-date: 2001-09- 2
+date: 2001-09-22
 ---
 
 ##5:32pm CDT Saturday 22 September 2001

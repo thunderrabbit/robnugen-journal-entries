@@ -1,8 +1,8 @@
 ---
-title: 0Begin
+title: Begin
 tags: 
 author: Rob Nugen
-date: 2001-09- 3
+date: 2001-09-30
 ---
 
 <p class=date>8:45am Sunday 30 September 2001</p>
