@@ -25,7 +25,7 @@ Namely, that he won't start.</p>
 <p>Amidst all this un-knowing, I will chill and study
 spanish.</p>
 
-<p>Puedo relajar y estuidar español.</p>
+<p>Puedo relajar y estuidar espaÃ±ol.</p>
 
 <p class=date>8:59 am</p>
 

@@ -31,17 +31,17 @@ and destruction have rocked us to the core.
 fury. No country deserved 
 such an act of terrorism. Where is God now? Where is
 Allah? Where is 
-Yhwh? Why don’t they do
+Yhwh? Why don't they do
 something?</FONT>&nbsp;<BR></BR></P>
 <P><FONT SIZE="3" FACE="Arial">A Sufi was praying when
 along came a 
 cripple, a beggar and a victim of assault. And seeing
 them, he cried, 
-“Great God, how is it that a loving creator can see
+"Great God, how is it that a loving creator can see
 such things and 
-yet do nothing about them?” And God said, “I did do
+yet do nothing about them?" And God said, "I did do
 something. I made 
-you.”</FONT>&nbsp;<BR></BR></P>
+you."</FONT>&nbsp;<BR></BR></P>
 <P><FONT SIZE="3" FACE="Arial">OK, God, what are we to
 do now? Retaliate? 
 Assassinate? Give up our freedom? We expect some
@@ -54,9 +54,9 @@ Muslims, and anyone who resembles them. Still, our
 trigger fingers are 
 ready to fire even while the other hand guards the
 safety. We want to 
-find some middle ground between “an eye for an eye”
-and “turn the other 
-cheek.” We want the world safe again for our children.
+find some middle ground between "an eye for an eye"
+and "turn the other 
+cheek." We want the world safe again for our children.
 What can we do?</FONT>&nbsp;<BR></BR>
 </P>
 <P><FONT SIZE="3" FACE="Arial">We have already begun
@@ -72,20 +72,20 @@ lose, that they
 were willing to take such desperate measures?
 </FONT>&nbsp;<BR></BR>
 </P>
-<P><FONT SIZE="3" FACE="Arial">We have been way “too
-busy” to pay much 
-attention to the world’s people. Millions starve while
+<P><FONT SIZE="3" FACE="Arial">We have been way "too
+busy" to pay much 
+attention to the world's people. Millions starve while
 we grab a bite 
 to eat or dine in quiet elegance. Refugees flee to
 crowded camps while 
 we crowd into concert halls and sports arenas. Cheap
 labor overseas 
-keeps our prices down and dividends high. And we’re
+keeps our prices down and dividends high. And we're
 surprised that people 
 hate us?</FONT>&nbsp;<BR></BR></P>
 <P><FONT SIZE="3" FACE="Arial">Officially, we have
 isolated ourselves 
-in dramatic ways — by walking out of the Middle East
+in dramatic ways: by walking out of the Middle East
 peace process, 
 challenging the nuclear test ban, refusing to sign the
 Kyoto Accord, 
@@ -115,7 +115,7 @@ must find a way to reach across our divisions until we
 root out the 
 sources of terrorism. This is too small a world for
 indiscriminate hatred. 
-We can no longer pretend this is someone else’s
+We can no longer pretend this is someone else's
 problem.</FONT>&nbsp;<BR></BR>
 </P>
 <P><FONT SIZE="3" FACE="Arial">I believe that
@@ -129,7 +129,7 @@ people.</FONT>&nbsp;<BR></BR></P>
 <P><FONT SIZE="3" FACE="Arial">God awaits our
 decisions.</FONT>&nbsp;<BR></BR>
 </P>
-<P><FONT SIZE="3" FACE="Arial"><I>• The Rev. Kathleen
+<P><FONT SIZE="3" FACE="Arial"><I>The Rev. Kathleen
 Ellis is a minister 
 of the Unitarian Universalist Fellowship in College
 Station.</I></FONT></P>

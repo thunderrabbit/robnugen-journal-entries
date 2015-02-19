@@ -61,7 +61,7 @@ up.' -Dan/Doc
 orgasms, you can give one to yourself but it's a
 helluvalot better when someone else gies it to you.'
 -me
-ok im gonna shut up now, i love you, Rob!      -laura!
+ok im gonna shut up now, i love you, Rob!Â Â Â Â Â Â -laura!
 </p>
 
 <p class=date>5:52 am</p>

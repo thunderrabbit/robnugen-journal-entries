@@ -18,7 +18,7 @@ are expanding the dining room area to allow for a
 bigger table in there (now it barely seats a 4 person
 table; it should handle a 6 or 8 person table when they
 are done).  Fred cooked eggs and we ate ice cream
-while sitting by our step sis Elisé on the futon as
+while sitting by our step sis ElisÃ© on the futon as
 she read <em>Fellowship of the Ring</em>
 She had read <em>The Hobbit</em> last night.</p>
 

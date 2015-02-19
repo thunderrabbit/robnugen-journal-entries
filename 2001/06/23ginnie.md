@@ -79,7 +79,7 @@ began) along the northern coast of France was
 excellent, i decided after really boring train rides
 that i would hitch-hike a little, and wow did i meet
 some great folks. i have started a short story about
-my last è car rides. i hope they will be my last
+my last Ã¨ car rides. i hope they will be my last
 automobile rides for a while. I worked on a delivery
 truck for a day, was even offered a position! We
 delivered stuff to the famious french bakeries,
@@ -91,7 +91,7 @@ here, it is amazing. A small but devine pleasure
 indeed. 
 
 I have been notified that my very good friend Dennis
-¨The Bird Man¨ Smith died a few weeks ago. He worked
+Â¨The Bird ManÂ¨ Smith died a few weeks ago. He worked
 with raptors, and could even talk with and understand
 those incredible birds; The day after i found out i
 found a variety of a barred owl dead on the side of

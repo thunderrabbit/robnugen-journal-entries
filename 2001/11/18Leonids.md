@@ -135,13 +135,13 @@ Derrick on a different line.  "Okay, you are live;
 you're connected," confirmed Ben.</p>
 
 <p>But then for about 45 seconds or a minute, we
-broadcast Derrick going, "hello....     hellooo..."
+broadcast Derrick going, "hello....Â Â Â Â Â hellooo..."
 with basketball game sounds in the background.  Justin
 tried using the 'talkback' button to tell them,
 "You're on the air."  Actually there are two buttons.
 "You're on the air, you're on the air, you're on the
 air, you're on the air."  Obviously he couldn't hear
-us.  "Hello....     hellooo."</p>
+us.  "Hello....Â Â Â Â Â hellooo."</p>
 
 <p>We still hadn't gotten their phone number in this
 case to tell him he was on the air.</p>

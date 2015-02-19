@@ -16,7 +16,7 @@ rubbed Wende's back a bit while she sat next to
 me.</p>
 
 <p>At the beginning of class, we paired up and
-interviewed our partners in español, then introduced
+interviewed our partners in espaÃ±ol, then introduced
 our new friend to the group.  I paired up with Maria
 and presented a few interesting things about her.</p>
 
@@ -25,11 +25,11 @@ aking stuff about me "why no shoes?" "where do you
 live?" etc.  Our instructor said, "tell her about one
 of your adventures."</p>
 
-<p>Cuando tengo cinco años, mis padres me da a los
+<p>Cuando tengo cinco aÃ±os, mis padres me da a los
 elefantes.  Vive con los elefantes todo vida.  Los
 elefantes comen cachuates, y yo come uvas.</p>
 
-<p>Un dia, cuando tengo cartorse años, fui con un mono
+<p>Un dia, cuando tengo cartorse aÃ±os, fui con un mono
 en un camionetta a la tienda.  Compre cereal, leche, y
 hielo for la leche.  El mono manejo la camionetta a
 regresar.</p>
@@ -38,7 +38,7 @@ regresar.</p>
 hielo, y el cereal, con los pies de los elefantes. 
 Vendimos las bebidas, y mucha gente les gustan las
 bebidas.  Gani mucho dinero, y dani el dinero a los
-niños pobres, por que soy un angel.</p>
+niÃ±os pobres, por que soy un angel.</p>
 
 <p>I know there are a lot of verb screwups in the
 story, but basically it says I was raised by

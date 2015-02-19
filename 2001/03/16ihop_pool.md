@@ -24,7 +24,7 @@ then emailing them to the world.  Bwuuahahaha!</p>
 
 <p>Tamara is too tired to type:</p>
 
-<p class=message>but I am ready to KICK ASS mañana as soon as I get a little
+<p class=message>but I am ready to KICK ASS maÃ±ana as soon as I get a little
 bit of grub in my tum-tum.</p>
 
 <p>Andy asked, "is this a public website?"</p>

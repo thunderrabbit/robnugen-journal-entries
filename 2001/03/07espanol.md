@@ -50,12 +50,12 @@ in.</p>
 <p>Back to my postcard.</p>
 
 <pre>
-¡Hola Luz Clarita!  (*)             7 March 2001
+Â¡Hola Luz Clarita!  (*)             7 March 2001
 
 Nosotros escribimos en papel hoy.  Te amo muchisimo.
-Estudio mis tarjetas de spañol hoy en me trabajo.
-Necesito comer esta noche con tigo.  Me elefante está
-sobre la mesa.  Me gusta que estudiamos español para
+Estudio mis tarjetas de spaÃ±ol hoy en me trabajo.
+Necesito comer esta noche con tigo.  Me elefante estÃ¡
+sobre la mesa.  Me gusta que estudiamos espaÃ±ol para
 nuestro vacaciones a Costa Rica.
 
        Con abrazos y besos
@@ -85,34 +85,34 @@ she is a spy.  Who and why is she here?</p>
 errors.</p>
 
 <p>Cuando soy feliz, canto, pero hoy estoy de mal
-humor.  Mi gato está enfermo, la television está roto,
-y está mañana mi café está terrible.  Hoy es lunes. 
-Trabajo a una libreria.  Dos personas estás en la
+humor.  Mi gato estÃ¡ enfermo, la television estÃ¡ roto,
+y estÃ¡ maÃ±ana mi cafÃ© estÃ¡ terrible.  Hoy es lunes. 
+Trabajo a una libreria.  Dos personas estÃ¡s en la
 tienda ahora, un hombre y una mujer.  El hombre es
-alto y busca para libros que no hay.  ¿Por que está
+alto y busca para libros que no hay.  Â¿Por que estÃ¡
 aqui?  La mujer es baja y flaca.  Compra el periodico
 aqui hoy.  A veces lee cinco o seis revistas antes. 
 Toda veces lleva gafas de sol y un sombrero grande. 
-Ella es misteriosa.  Creo ella es un espia.  ¿Quien es
-y por que ella está aqui?</p>
+Ella es misteriosa.  Creo ella es un espia.  Â¿Quien es
+y por que ella estÃ¡ aqui?</p>
 
 <p>And just because I'm nice, here is the corrected
 version:</p>
 
 <p>Cuando <font color="#FF0000">estoy</font> feliz,
-canto, pero hoy estoy de mal humor.  Mi gato está
-enfermo, la television está roto, y está mañana mi
-café está terrible.  Hoy es lunes.  Trabajo <font
+canto, pero hoy estoy de mal humor.  Mi gato estÃ¡
+enfermo, la television estÃ¡ roto, y estÃ¡ maÃ±ana mi
+cafÃ© estÃ¡ terrible.  Hoy es lunes.  Trabajo <font
 color="#FF0000">en</font> una libreria.  Dos personas
-<font color="#FF0000">están</font> en la tienda ahora,
+<font color="#FF0000">estÃ¡n</font> en la tienda ahora,
 un hombre y una mujer.  El hombre es alto y <font
 color="#FF0000">busca</font> libros que no existen. 
-¿Por que está aqui?  La mujer es baja y flaca.  Compra
+Â¿Por que estÃ¡ aqui?  La mujer es baja y flaca.  Compra
 el periodico aqui hoy.  A veces lee cinco o seis
 revistas antes.  <font color="#FF0000">Siempre</font>
 lleva gafas de sol y un sombrero grande.  Ella es
 misteriosa.  Creo <font color="#FF0000">que</font>
-ella es un espia.  ¿Quien es y por que ella está
+ella es un espia.  Â¿Quien es y por que ella estÃ¡
 aqui?</p>
 
 <p><img src="/images/rob/wL-ROB.gif"/></p>

@@ -123,7 +123,7 @@ It was the geeks.</p>
 was, and is, a 
 remarkable
            machine. Useless, but remarkable. It can
-walk on its own — 
+walk on its own --
 seeing
 with
            cameras, hearing with microphones, thinking
@@ -282,7 +282,7 @@ beam
 them, via infrared, to your PC.</p>
 
 <p>These pictures aren't what you'd call
-gargantuan — in fact,
+gargantuan -- in fact,
 they're 176 by 144 pixels, just over two inches
            square. But when you need to be
 surreptitious or 

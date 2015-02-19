@@ -11,18 +11,18 @@ date: 2001-05-17
 I wrote to Sally in an email into my journal.  Good
 random stuff.  In two languages.</p>
 
-<p>Aprendando español es bien, pero no estudio muy
+<p>Aprendando espaÃ±ol es bien, pero no estudio muy
 mucho. Estudio a veces.  (Is aprender "to learn"?  Is
 aprendando "learning"?  Can I say "learning spanish is
 good" that way?)</p>
 
 <p>Ayer, hablo con mi viejo amigo Francisco, quien
-hable español all his life (todo él life ? (todo él
+hable espaÃ±ol all his life (todo Ã©l life ? (todo Ã©l
 viv-something?)).  Dice que tengo que aprender uno
-palabra cada dia.  Hablando con amigos en español es
+palabra cada dia.  Hablando con amigos en espaÃ±ol es
 muy fun, y Luz Clarita (Wende's name en clase de
-español) y yo might comemos con Dude y Veronica, y
-hablamos en español.</p>
+espaÃ±ol) y yo might comemos con Dude y Veronica, y
+hablamos en espaÃ±ol.</p>
 
 <p>I'm guessing the sentence structure at the end of
 my
@@ -31,7 +31,7 @@ imperfect?  I have no idea what is the name of the
 type of speech I'm trying to write.  I know we haven't
 learned it yet.</p>
 
-<p>Dude and Veronica saben español muy bien, y son
+<p>Dude and Veronica saben espaÃ±ol muy bien, y son
 even
 mas buenos amigos que Francisco.</p>
 

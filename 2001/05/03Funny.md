@@ -37,10 +37,10 @@ Each survey takes about 15 minutes to complete and is completely
 anonymous and confidential.  Upward Feedback benefits you, your
 colleagues, and the firm.
 
-· You benefit by encouraging positive management and leadership styles
-· Your colleagues benefit from your encouragement to enhance their
+Â· You benefit by encouraging positive management and leadership styles
+Â· Your colleagues benefit from your encouragement to enhance their
   strengths and identify areas for coaching
-· The firm benefits by continuously developing the highest quality
+Â· The firm benefits by continuously developing the highest quality
 leadership
 
 Refer to the email you received from [us] last April 15/16

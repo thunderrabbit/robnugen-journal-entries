@@ -16,7 +16,7 @@ Greetings Space Creatures!   I am a walk away from the
 sea! although i have not laid my eyes upon it yet, the
 sky tells me the water is boldly crashing onto the
 beach.  It seems like i have been off my trail in
-Bretagnè for a month.  I can't really say i have been
+BretagnÃ¨ for a month.  I can't really say i have been
 lost, since i have never been where i am going, and
 the only time i retrace my steps are usually because
 of the threatening black berry bushes, and since i
@@ -48,7 +48,7 @@ gratitude i feel.
 Rennes, one of my favorite inhabited-by-human places
 yet and after a few days of doing my usual tour of all
 the cardnal directions on the map decided with a
-little help of a friendly post master in Plèchatel to
+little help of a friendly post master in PlÃ¨chatel to
 walk along the beautiful Vilaine River (means ugly in
 french).   I had not walked the river for 10 minutes
 before i had taken off my back pack and shoes and

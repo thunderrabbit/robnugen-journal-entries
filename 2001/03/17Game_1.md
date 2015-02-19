@@ -139,7 +139,7 @@ me.. But they totally ignored me and incurred the wrath."</p>
 <br>Whose name could not b besmurched
 <br>The lightning in the sky
 <br>Past us on bye
-<br>We hope u knok the next têam from their pirch.</p>
+<br>We hope u knok the next tÃªam from their pirch.</p>
 
 <pre>
  _

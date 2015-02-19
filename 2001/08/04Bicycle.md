@@ -8,7 +8,7 @@ date: 2001-08-04
 <p class=date>9:01 Saturday 4 August 2001</p>
 
 <p>I woke up what I believe is too late to ride to
-Maggie's today, <em>and</em> meet my dad, Karen, Elisé
+Maggie's today, <em>and</em> meet my dad, Karen, ElisÃ©
 at noon at Willowbrook.  So I'm just going to install
 the Slime Liner and maybe ride around downtown.</p>
 

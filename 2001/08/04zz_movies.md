@@ -8,7 +8,7 @@ date: 2001-08-04
 <p class=date>11:55pm Saturday 4 August 2001</p>
 
 <p>Today Wende and I scoped out <em>The Princess
-Diaries</em> with my dad, Karen and Elisé.  Movie was
+Diaries</em> with my dad, Karen and ElisÃ©.  Movie was
 cute; I cried a bit - just at the magnitude of what it
 might be like for a 15 year old to suddenly learn s/he
 was royalty.  That could be one of my YRUU youth.</p>
