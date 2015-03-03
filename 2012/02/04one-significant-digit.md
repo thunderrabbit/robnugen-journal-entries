@@ -1,5 +1,4 @@
 ---
-date: 2012-02-04 15:31:03
 slug: one-significant-digit
 title: one significant digit
 tags: journal

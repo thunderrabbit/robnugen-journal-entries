@@ -2,7 +2,6 @@
 title: Broke the crap out of my local hakyll repo
 tags: git
 author: Rob Nugen
-date: 2015-02-19 17:36 JST
 ---
 
 ##17:36 Thursday 19 February 2015 JST##

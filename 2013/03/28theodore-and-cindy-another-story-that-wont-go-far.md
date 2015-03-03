@@ -1,5 +1,4 @@
 ---
-date: 2013-03-28 22:12:23
 slug: theodore-and-cindy-another-story-that-wont-go-far
 title: Theodore and Cindy, another story that won't go far
 tags: books

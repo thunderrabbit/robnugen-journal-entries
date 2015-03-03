@@ -2,7 +2,6 @@
 title: Good small group lesson
 tags: kids
 author: Rob Nugen
-date: 2015-01-14
 ---
 
 ##10:32 Wednesday 14 January 2015 JST##

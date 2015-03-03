@@ -1,5 +1,4 @@
 ---
-date: 2013-04-10 20:56:37
 slug: tips-when-writing-a-diary
 title: tips when writing a diary
 tags: journal,lin

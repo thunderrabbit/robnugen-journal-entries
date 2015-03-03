@@ -1,5 +1,4 @@
 ---
-date: 2012-02-12 21:16:21
 slug: first-ride-along-tamagawa
 title: First ride along Tamagawa
 tags: journal

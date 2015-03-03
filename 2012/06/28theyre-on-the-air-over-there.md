@@ -1,5 +1,4 @@
 ---
-date: 2012-06-28 17:25:15
 slug: theyre-on-the-air-over-there
 title: they're on the air over there
 tags: journal

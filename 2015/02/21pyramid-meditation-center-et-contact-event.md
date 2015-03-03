@@ -2,7 +2,6 @@
 title: Pyramid Meditation Center ET Contact event
 tags: cseti
 author: Rob Nugen
-date: 2015-02-21 02:38 JST
 ---
 
 ##02:38 Sunday 22 February 2015 JST##

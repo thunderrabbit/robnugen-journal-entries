@@ -1,5 +1,4 @@
 ---
-date: 2012-02-04 21:00:36
 slug: after-shopping-all-day
 title: After shopping all day
 tags: shopping

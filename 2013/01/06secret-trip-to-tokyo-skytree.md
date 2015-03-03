@@ -1,5 +1,4 @@
 ---
-date: 2013-01-06 19:10:24
 slug: secret-trip-to-tokyo-skytree
 title: Secret trip to Tokyo Skytree
 tags: journal

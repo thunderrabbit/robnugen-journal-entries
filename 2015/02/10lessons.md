@@ -2,7 +2,6 @@
 title: Lessons
 tags: teaching
 author: Rob Nugen
-date: 2015-02-10
 ---
 
 ##18:24 Tuesday 10 February 2015 JST##

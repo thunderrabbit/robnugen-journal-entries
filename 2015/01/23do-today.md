@@ -2,7 +2,6 @@
 title: Do today
 tags: gtd
 author: Rob Nugen
-date: 2015-01-23
 ---
 
 ##09:08 Friday 23 January 2015 JST##

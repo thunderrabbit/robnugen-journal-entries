@@ -2,7 +2,6 @@
 title: Just realized something about my dream
 tags: wow
 author: Rob Nugen
-date: 2015-01-07
 ---
 
 ##07:55 Wednesday 07 January 2015 JST##

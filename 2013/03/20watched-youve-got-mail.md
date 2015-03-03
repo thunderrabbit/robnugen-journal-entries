@@ -1,5 +1,4 @@
 ---
-date: 2013-03-20 18:02:00
 slug: watched-youve-got-mail
 title: watched You've Got Mail
 tags: movies

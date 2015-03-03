@@ -1,5 +1,4 @@
 ---
-date: 2013-05-04 16:21:35
 slug: barefoot-hiking
 title: Barefoot "hiking"
 tags: journal

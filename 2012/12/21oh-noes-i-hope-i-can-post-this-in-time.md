@@ -1,5 +1,4 @@
 ---
-date: 2012-12-21 20:11:18
 slug: oh-noes-i-hope-i-can-post-this-in-time
 title: oh noes I hope I can post this in time!!
 tags: news

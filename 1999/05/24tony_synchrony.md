@@ -2,11 +2,10 @@
 title: Tony Synchrony
 tags: australia plans
 author: Rob Nugen
-date: 1999-05-24 11:00 CST
 ---
 <p><font size="-1">(transcribed from my diary)</font>
 
-##11am Sunday 24 May 1999
+##11am Sunday 24 May 1999 CST
 
 <p>Crazy!
 

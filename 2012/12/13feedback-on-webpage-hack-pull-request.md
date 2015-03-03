@@ -1,5 +1,4 @@
 ---
-date: 2012-12-13 18:01:51
 slug: feedback-on-webpage-hack-pull-request
 title: '"feedback" on webpage hack pull request'
 tags: internet

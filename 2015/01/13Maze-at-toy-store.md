@@ -2,7 +2,6 @@
 title: Maze toy at toy store
 tags: toys
 author: Rob Nugen
-date: 2015-01-13
 ---
 
 ##17:50 Tuesday 13 January 2015 JST##

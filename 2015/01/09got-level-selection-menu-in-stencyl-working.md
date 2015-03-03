@@ -2,7 +2,6 @@
 title: Got level selection menu in Stencyl working
 tags: bah
 author: Rob Nugen
-date: 2015-01-09
 ---
 
 ##03:52 Saturday 10 January 2015 JST##

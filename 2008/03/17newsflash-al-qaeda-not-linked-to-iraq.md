@@ -1,5 +1,4 @@
 ---
-date: 2008-03-17 18:16:24
 slug: newsflash-al-qaeda-not-linked-to-iraq
 title: 'newsflash: al Qaeda not linked to Iraq'
 tags: airplane day,news,terror

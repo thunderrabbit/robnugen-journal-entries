@@ -2,7 +2,6 @@
 title: moved all files to YYYY/MM directories
 tags: journal
 author: Rob Nugen
-date: 2015-02-18 16:52 JST
 ---
 
 ##16:52 Wednesday 18 February 2015 JST##

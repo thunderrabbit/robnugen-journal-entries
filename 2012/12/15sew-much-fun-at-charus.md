@@ -1,5 +1,4 @@
 ---
-date: 2012-12-15 21:53:43
 slug: sew-much-fun-at-charus
 title: sew much fun at Charu's
 tags: journal

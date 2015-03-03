@@ -1,5 +1,4 @@
 ---
-date: 2012-06-19 21:18:14
 slug: not-so-typhoony-yet
 title: not so typhoony (yet?)
 tags: journal

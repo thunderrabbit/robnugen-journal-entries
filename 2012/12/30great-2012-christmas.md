@@ -1,5 +1,4 @@
 ---
-date: 2012-12-30 22:55:56
 slug: great-2012-christmas
 title: great 2012 Christmas!
 tags: christmas,family

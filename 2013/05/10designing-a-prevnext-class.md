@@ -1,5 +1,4 @@
 ---
-date: 2013-05-10 18:28:24
 slug: designing-a-prevnext-class
 title: Designing a prevnext class
 tags: journal

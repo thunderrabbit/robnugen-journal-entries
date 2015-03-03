@@ -1,5 +1,4 @@
 ---
-date: 2012-12-07 19:43:34
 slug: silly-os-x
 title: silly OS X
 tags: technology

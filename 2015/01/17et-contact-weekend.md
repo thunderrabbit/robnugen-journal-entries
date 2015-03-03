@@ -2,7 +2,6 @@
 title: ET Contact weekend
 tags: cseti
 author: Rob Nugen
-date: 2015-01-17
 ---
 
 ##12:27 Saturday 17 January 2015 JST##

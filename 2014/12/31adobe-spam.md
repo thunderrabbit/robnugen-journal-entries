@@ -2,7 +2,6 @@
 title: Adobe spam
 tags: spam
 author: Rob Nugen
-date: 2014-12-31
 ---
 
 ##08:54 Wednesday 31 December 2014 JST##

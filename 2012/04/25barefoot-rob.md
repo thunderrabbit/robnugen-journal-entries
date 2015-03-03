@@ -1,5 +1,4 @@
 ---
-date: 2012-04-25 21:22:09
 slug: barefoot-rob
 title: Barefoot Rob
 tags: journal

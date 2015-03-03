@@ -2,7 +2,6 @@
 title: Helped JB website
 tags: web
 author: Rob Nugen
-date: 2015-01-07
 ---
 
 ##15:01 Wednesday 07 January 2015 JST##

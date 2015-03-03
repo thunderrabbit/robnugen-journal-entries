@@ -1,5 +1,4 @@
 ---
-date: 2012-12-25 19:23:03
 slug: chatted-with-fred-today
 title: chatted with Fred today
 tags: fred

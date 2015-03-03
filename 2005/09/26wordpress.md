@@ -1,5 +1,4 @@
 ---
-date: 2005-09-26 18:19:56
 slug: wordpress
 title: Wordpress
 tags: open source

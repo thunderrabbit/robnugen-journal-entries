@@ -1,5 +1,4 @@
 ---
-date: 2012-06-18 22:53:36
 slug: thunder-tigertail-moustache-miss-tiger-2000s-award-etcetera
 title: Thunder Tigertail moustache, Miss Tiger 2000s Award, etcetera
 tags: journal

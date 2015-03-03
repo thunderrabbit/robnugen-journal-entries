@@ -1,5 +1,4 @@
 ---
-date: 2012-12-06 21:27:39
 slug: news-at-work
 title: news at work
 tags: work

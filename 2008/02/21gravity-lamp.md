@@ -1,5 +1,4 @@
 ---
-date: 2008-02-21 17:57:30
 slug: gravity-lamp
 title: gravity lamp
 tags: green,news,technology

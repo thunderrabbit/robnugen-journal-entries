@@ -2,7 +2,6 @@
 title: AM lesson
 tags: lesson
 author: Rob Nugen
-date: 2015-02-17 10:30 JST
 ---
 
 ##10:30 Tuesday 17 February 2015 JST##

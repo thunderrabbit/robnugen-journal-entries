@@ -1,5 +1,4 @@
 ---
-date: 2013-04-04 18:38:17
 slug: proofread-your-newsletters-before-sending-them
 title: proofread your newsletters before sending them
 tags: guest writer,internet

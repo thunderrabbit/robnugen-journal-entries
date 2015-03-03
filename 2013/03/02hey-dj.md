@@ -1,5 +1,4 @@
 ---
-date: 2013-03-02 16:16:29
 slug: hey-dj
 title: hey DJ
 tags: internet,ktru

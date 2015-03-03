@@ -1,5 +1,4 @@
 ---
-date: 2008-04-15 18:54:27
 slug: waves-of-bankruptcies-in-the-us
 title: Waves of bankruptcies in the US
 tags: badnews,economy

@@ -1,5 +1,4 @@
 ---
-date: 2012-12-13 17:46:38
 slug: im-glad-apple-canned-googles-map-app-and-more-glad-that-googles-map-app-is-back
 title: I'm glad Apple canned Google's map app, and more glad that Google's map app
   is back

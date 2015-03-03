@@ -1,5 +1,4 @@
 ---
-date: 2008-02-07 16:15:43
 slug: ibusuki
 title: Ibusuki
 tags: news

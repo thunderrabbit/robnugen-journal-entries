@@ -1,5 +1,4 @@
 ---
-date: 2012-02-04 22:46:10
 slug: i-like-the-shelf
 title: I like the shelf
 tags: journal

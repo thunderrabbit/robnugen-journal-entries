@@ -2,7 +2,6 @@
 title: State of my life address
 tags: soml
 author: Rob Nugen
-date: 2015-02-04
 ---
 
 ##16:32 Wednesday 04 February 2015 JST##

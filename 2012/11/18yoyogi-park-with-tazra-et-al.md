@@ -1,5 +1,4 @@
 ---
-date: 2012-11-18 19:08:04
 slug: yoyogi-park-with-tazra-et-al
 title: Yoyogi Park with Tazra et. al.
 tags: journal

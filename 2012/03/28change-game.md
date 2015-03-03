@@ -1,5 +1,4 @@
 ---
-date: 2012-03-28 21:52:56
 slug: change-game
 title: change game
 tags: journal

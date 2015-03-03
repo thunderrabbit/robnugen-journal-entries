@@ -1,5 +1,4 @@
 ---
-date: 2013-02-10 23:39:38
 slug: five-stars-on-drawquest
 title: Five stars on drawquest
 tags: art

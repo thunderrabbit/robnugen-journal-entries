@@ -1,5 +1,4 @@
 ---
-date: 2008-03-17 18:31:54
 slug: the-struggle-against-the-wall-in-the-eyes-of-palestinian-children
 title: The struggle against the Wall in the eyes of Palestinian children
 tags: palestine,terror

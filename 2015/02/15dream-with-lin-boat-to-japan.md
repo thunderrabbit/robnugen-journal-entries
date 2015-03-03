@@ -2,7 +2,6 @@
 title: Dream with Lin boat to Japan
 tags: dream, lin
 author: Rob Nugen
-date: 2015-02-15 08:58 JST
 ---
 
 ##08:58 Sunday 15 February 2015 JST##

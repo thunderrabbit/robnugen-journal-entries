@@ -1,5 +1,4 @@
 ---
-date: 2012-02-23 16:42:08
 slug: firefox-11-0
 title: firefox 11.0
 tags: journal

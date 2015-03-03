@@ -2,7 +2,6 @@
 title: Dream
 tags: dream, religion
 author: Rob Nugen
-date: 2015-01-19
 ---
 
 ##09:25 Monday 19 January 2015 JST##

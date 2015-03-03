@@ -1,5 +1,4 @@
 ---
-date: 2012-01-28 17:56:03
 slug: blog-with-boo
 title: blog with boo
 tags: journal

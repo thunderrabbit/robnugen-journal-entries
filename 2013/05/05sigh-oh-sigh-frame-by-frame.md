@@ -1,5 +1,4 @@
 ---
-date: 2013-05-05 22:34:15
 slug: sigh-oh-sigh-frame-by-frame
 title: sigh oh sigh frame by frame
 tags: art,journal

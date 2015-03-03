@@ -2,7 +2,6 @@
 title: middleman
 tags: static
 author: Rob Nugen
-date: 2015-02-08
 ---
 
 ##18:40 Tuesday 10 February 2015 JST##

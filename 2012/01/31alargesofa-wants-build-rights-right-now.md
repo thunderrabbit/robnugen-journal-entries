@@ -1,5 +1,4 @@
 ---
-date: 2012-01-31 23:20:09
 slug: alargesofa-wants-build-rights-right-now
 title: alargesofa wants build rights right now
 tags: journal

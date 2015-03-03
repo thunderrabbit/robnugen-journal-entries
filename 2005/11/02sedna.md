@@ -1,5 +1,4 @@
 ---
-date: 2005-11-02 21:27:47
 slug: sedna
 title: Sedna
 tags: astronomy

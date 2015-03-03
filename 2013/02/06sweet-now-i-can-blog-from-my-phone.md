@@ -1,5 +1,4 @@
 ---
-date: 2013-02-06 20:56:19
 slug: sweet-now-i-can-blog-from-my-phone
 title: Sweet.  Now I can blog from my phone
 tags: phoney

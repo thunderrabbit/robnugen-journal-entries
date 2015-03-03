@@ -2,7 +2,6 @@
 title: AB site testing
 tags: ab, work
 author: Rob Nugen
-date: 2015-02-19 17:44 JST
 ---
 
 ##16:44 Thursday 19 February 2015 JST##

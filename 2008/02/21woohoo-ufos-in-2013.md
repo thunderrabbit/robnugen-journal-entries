@@ -1,5 +1,4 @@
 ---
-date: 2008-02-21 17:25:36
 slug: woohoo-ufos-in-2013
 title: woohoo!!  UFOs in 2013
 tags: disclosure,news,ufo

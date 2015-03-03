@@ -2,7 +2,6 @@
 title: GPG encrypted emails with Thunderbird
 tags: gpg
 author: Rob Nugen
-date: 2015-01-30
 ---
 
 ##10:40 Friday 30 January 2015 JST##

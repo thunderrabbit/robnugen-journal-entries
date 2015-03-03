@@ -2,7 +2,6 @@
 title: Turned in my key card
 tags: work
 author: Rob Nugen
-date: 2015-01-13
 ---
 
 ##17:09 Tuesday 13 January 2015 JST##

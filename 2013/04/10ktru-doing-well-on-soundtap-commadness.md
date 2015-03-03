@@ -1,5 +1,4 @@
 ---
-date: 2013-04-10 21:49:41
 slug: ktru-doing-well-on-soundtap-commadness
 title: KTRU doing well on soundtap.com/madness
 tags: ktru

@@ -1,5 +1,4 @@
 ---
-date: 2012-02-04 23:48:35
 slug: perfect-posture-chair
 title: perfect posture chair
 tags: journal

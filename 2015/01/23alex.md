@@ -2,7 +2,6 @@
 title: Alex
 tags: plant
 author: Rob Nugen
-date: 2015-01-23
 ---
 
 ##09:05 Friday 23 January 2015 JST##

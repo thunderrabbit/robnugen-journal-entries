@@ -1,5 +1,4 @@
 ---
-date: 2012-03-28 22:02:13
 slug: recent-pics
 title: Recent pics
 tags: journal

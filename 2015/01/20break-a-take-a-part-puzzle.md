@@ -2,7 +2,6 @@
 title: Break a take-a-part puzzle
 tags: puzzle
 author: Rob Nugen
-date: 2015-01-20
 ---
 
 ##18:42 Tuesday 20 January 2015 JST##

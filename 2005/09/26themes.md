@@ -1,5 +1,4 @@
 ---
-date: 2005-09-26 20:08:51
 slug: themes
 title: themes
 tags: open source

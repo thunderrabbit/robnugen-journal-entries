@@ -1,5 +1,4 @@
 ---
-date: 2005-11-20 19:02:43
 slug: leaving-palestine-tomorrow
 title: Leaving Palestine tomorrow...
 tags: palestine,terror,travel

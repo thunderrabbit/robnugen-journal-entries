@@ -1,5 +1,4 @@
 ---
-date: 2012-03-05 19:50:33
 slug: work-permissions
 title: Work permissions
 tags: journal

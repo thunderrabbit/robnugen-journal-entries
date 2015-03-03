@@ -1,5 +1,4 @@
 ---
-date: 2008-12-20 19:30:20
 slug: cellie-0183jpg
 title: cellie-0183.jpg
 tags: news

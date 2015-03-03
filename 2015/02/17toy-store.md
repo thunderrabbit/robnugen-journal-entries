@@ -2,7 +2,6 @@
 title: Toy store
 tags: shibata
 author: Rob Nugen
-date: 2015-02-17 18:40 JST
 ---
 
 ##18:40 Tuesday 17 February 2015 JST##

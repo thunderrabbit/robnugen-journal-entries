@@ -2,7 +2,6 @@
 title: Valer spam
 tags: spam
 author: Rob Nugen
-date: 2015-01-17
 ---
 
 ##01:17 Saturday 17 January 2015 JST##

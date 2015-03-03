@@ -2,7 +2,6 @@
 title: chillin in hot bath
 tags: bath
 author: Rob Nugen
-date: 2015-01-22
 ---
 
 ##19:37 Thursday 22 January 2015 JST##

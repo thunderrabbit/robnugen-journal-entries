@@ -2,7 +2,6 @@
 title: Drew a maze today
 tags: maze
 author: Rob Nugen
-date: 2015-01-20
 ---
 
 ##18:47 Tuesday 20 January 2015 JST##

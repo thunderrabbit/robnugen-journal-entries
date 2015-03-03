@@ -2,7 +2,6 @@
 title: en route to Pyramid meditation center
 tags: cseti
 author: Rob Nugen
-date: 2015-02-21 16:33 JST
 ---
 
 ##16:33 Saturday 21 February 2015 JST##

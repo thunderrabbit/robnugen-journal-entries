@@ -1,5 +1,4 @@
 ---
-date: 2012-12-10 22:57:16
 slug: super-proud-of-lin
 title: super proud of Lin!
 tags: journal,lin,travel

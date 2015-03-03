@@ -1,5 +1,4 @@
 ---
-date: 2012-02-04 18:34:45
 slug: hurt
 title: Hurt
 tags: journal

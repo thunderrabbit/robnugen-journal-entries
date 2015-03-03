@@ -1,5 +1,4 @@
 ---
-date: 2010-05-11 21:03:14
 slug: memory-man-joke
 title: memory man (joke)
 tags: news

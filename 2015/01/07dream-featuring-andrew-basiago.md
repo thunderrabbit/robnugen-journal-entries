@@ -2,7 +2,6 @@
 title: Dream featuring Andrew Basiago
 tags: dream
 author: Rob Nugen
-date: 2015-01-07
 ---
 
 ##06:31 Wednesday 07 January 2015 JST##

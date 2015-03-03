@@ -2,7 +2,6 @@
 title: Got story cards from toy store
 tags: learnin'
 author: Rob Nugen
-date: 2015-02-24 18:10 JST
 ---
 
 ##18:10 Tuesday 24 February 2015 JST##

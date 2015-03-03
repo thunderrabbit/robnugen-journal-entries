@@ -1,5 +1,4 @@
 ---
-date: 2013-05-08 19:27:32
 slug: lawnchair-to-solve-a-different-thing-at-work
 title: lawnchair to solve a different thing at work
 tags: journal,work

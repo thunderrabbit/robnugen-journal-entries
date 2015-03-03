@@ -2,7 +2,6 @@
 title: oh dammmmmmmmmmmmmnnnn
 tags: got
 author: Rob Nugen
-date: 2015-01-15
 ---
 
 ##01:46 Thursday 15 January 2015 JST##

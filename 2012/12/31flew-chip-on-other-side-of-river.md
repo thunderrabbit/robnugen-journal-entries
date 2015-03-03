@@ -1,5 +1,4 @@
 ---
-date: 2012-12-31 16:43:09
 slug: flew-chip-on-other-side-of-river
 title: flew Chip on other side of river
 tags: journal

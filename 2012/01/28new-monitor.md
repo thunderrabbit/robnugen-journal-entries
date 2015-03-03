@@ -1,5 +1,4 @@
 ---
-date: 2012-01-28 17:54:23
 slug: new-monitor
 title: new monitor
 tags: journal

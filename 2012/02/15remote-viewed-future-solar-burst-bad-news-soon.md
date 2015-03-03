@@ -1,5 +1,4 @@
 ---
-date: 2012-02-15 22:59:21
 slug: remote-viewed-future-solar-burst-bad-news-soon
 title: remote viewed future solar burst = bad news "soon"
 tags: journal

@@ -1,5 +1,4 @@
 ---
-date: 2008-01-10 17:08:05
 slug: us-society-is-coming-apart-at-the-seams
 title: US society is coming apart at the seams
 tags: rant

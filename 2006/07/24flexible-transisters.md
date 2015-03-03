@@ -1,5 +1,4 @@
 ---
-date: 2006-07-24 21:21:54
 slug: flexible-transisters
 title: flexible transisters
 tags: technology

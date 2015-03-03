@@ -1,5 +1,4 @@
 ---
-date: 2013-04-14 20:08:25
 slug: lin-met-aruna-today
 title: Lin met Aruna today
 tags: journal

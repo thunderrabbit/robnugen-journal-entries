@@ -2,7 +2,6 @@
 title: Headed back
 tags: back
 author: Rob Nugen
-date: 2015-01-18
 ---
 
 ##09:40 Monday 19 January 2015 JST##

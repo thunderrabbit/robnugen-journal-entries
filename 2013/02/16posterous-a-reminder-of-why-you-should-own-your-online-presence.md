@@ -1,5 +1,4 @@
 ---
-date: 2013-02-16 18:12:54
 slug: posterous-a-reminder-of-why-you-should-own-your-online-presence
 title: 'Posterous: A reminder of why you should own your online presence'
 tags: journal

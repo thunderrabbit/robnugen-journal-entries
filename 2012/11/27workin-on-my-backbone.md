@@ -1,5 +1,4 @@
 ---
-date: 2012-11-27 21:45:25
 slug: workin-on-my-backbone
 title: workin on my backbone
 tags: work

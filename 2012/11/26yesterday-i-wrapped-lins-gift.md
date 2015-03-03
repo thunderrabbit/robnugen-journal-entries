@@ -1,5 +1,4 @@
 ---
-date: 2012-11-26 22:27:47
 slug: yesterday-i-wrapped-lins-gift
 title: yesterday, I wrapped Lin's gift
 tags: gift,problem present

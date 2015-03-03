@@ -1,5 +1,4 @@
 ---
-date: 2013-05-10 22:25:11
 slug: out-with-lin-and-nonie
 title: Out with Lin and Nonie
 tags: nonie

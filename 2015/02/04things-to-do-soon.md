@@ -2,7 +2,6 @@
 title: Things to do soon
 tags: list, gtd
 author: Rob Nugen
-date: 2015-02-04
 ---
 
 ##19:26 Wednesday 04 February 2015 JST##

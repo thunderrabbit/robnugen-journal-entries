@@ -1,5 +1,4 @@
 ---
-date: 2012-05-19 18:14:28
 slug: solar-eclipse-live-update
 title: Solar eclipse live update
 tags: journal

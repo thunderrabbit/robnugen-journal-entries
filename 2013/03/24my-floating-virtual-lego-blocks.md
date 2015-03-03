@@ -1,5 +1,4 @@
 ---
-date: 2013-03-24 18:52:29
 slug: my-floating-virtual-lego-blocks
 title: my floating virtual lego blocks
 tags: art,internet,technology

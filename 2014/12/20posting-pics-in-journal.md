@@ -2,7 +2,6 @@
 title: posting pics in journal
 tags: journal
 author: Rob Nugen
-date: 2014-12-21
 ---
 
 ##03:37 Sunday 21 December 2014 JST##

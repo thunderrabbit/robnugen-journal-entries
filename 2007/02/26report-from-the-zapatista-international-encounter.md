@@ -1,5 +1,4 @@
 ---
-date: 2007-02-26 23:07:56
 slug: report-from-the-zapatista-international-encounter
 title: Report from the Zapatista International Encounter
 tags: guest writer,oaxaca,rochelle,terror

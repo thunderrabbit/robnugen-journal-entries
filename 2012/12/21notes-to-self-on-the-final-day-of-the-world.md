@@ -1,5 +1,4 @@
 ---
-date: 2012-12-21 18:43:04
 slug: notes-to-self-on-the-final-day-of-the-world
 title: notes to self on the final day of the world
 tags: journal,work

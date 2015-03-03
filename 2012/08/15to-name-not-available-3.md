@@ -1,5 +1,4 @@
 ---
-date: 2012-08-15 17:03:59
 slug: to-name-not-available-3
 title: 'To: name not available'
 tags: journal

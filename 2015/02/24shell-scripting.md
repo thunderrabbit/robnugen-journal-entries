@@ -2,7 +2,6 @@
 title: shell scripting
 tags: programming, shell
 author: Rob Nugen
-date: 2015-02-24 18:31 JST
 ---
 
 ##18:31 Tuesday 24 February 2015 JST##

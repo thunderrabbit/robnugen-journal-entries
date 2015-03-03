@@ -1,5 +1,4 @@
 ---
-date: 2012-04-10 19:58:27
 slug: state-of-my-life-address-2012-april-10
 title: State of My Life Address 2012-April-10
 tags: journal

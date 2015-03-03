@@ -1,5 +1,4 @@
 ---
-date: 2008-09-17 22:19:12
 slug: appetizer
 title: appetizer?
 tags: news

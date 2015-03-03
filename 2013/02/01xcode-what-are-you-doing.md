@@ -1,5 +1,4 @@
 ---
-date: 2013-02-01 20:46:16
 slug: xcode-what-are-you-doing
 title: Xcode, what are you doing?
 tags: rant,technology

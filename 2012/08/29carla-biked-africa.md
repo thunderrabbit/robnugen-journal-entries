@@ -1,5 +1,4 @@
 ---
-date: 2012-08-29 15:00:08
 slug: carla-biked-africa
 title: Carla Biked Africa
 tags: carla,travel

@@ -1,5 +1,4 @@
 ---
-date: 2013-04-21 22:31:26
 slug: apple-please-get-your-shit-straight
 title: Apple, please get your shit straight
 tags: apple,rant

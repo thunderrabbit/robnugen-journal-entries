@@ -1,5 +1,4 @@
 ---
-date: 2012-01-29 16:06:24
 slug: once-upon-the-13th-floor
 title: Once upon the 13th floor
 tags: journal

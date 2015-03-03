@@ -1,5 +1,4 @@
 ---
-date: 2012-11-24 21:20:37
 slug: this-url-will-not-exist-in-2022
 title: This URL will not exist in 2022
 tags: internet,technology

@@ -1,5 +1,4 @@
 ---
-date: 2008-05-11 21:49:51
 slug: cellie-0122jpg
 title: cellie-0122.jpg
 tags: news

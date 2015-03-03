@@ -1,5 +1,4 @@
 ---
-date: 2012-09-14 22:38:19
 slug: just-about-to-release-two-new-app-versions
 title: Just about to release two new app versions
 tags: journal

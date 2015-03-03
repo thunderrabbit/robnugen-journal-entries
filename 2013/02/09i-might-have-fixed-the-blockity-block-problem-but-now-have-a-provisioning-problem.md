@@ -1,5 +1,4 @@
 ---
-date: 2013-02-09 23:08:20
 slug: i-might-have-fixed-the-blockity-block-problem-but-now-have-a-provisioning-problem
 title: I *might* have fixed the blockity block problem but now have a provisioning
   problem.

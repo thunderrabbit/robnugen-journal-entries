@@ -1,5 +1,4 @@
 ---
-date: 2012-11-22 23:12:00
 slug: so-are-you-gonna-get-me-the-gift-for-christmas-or-not
 title: so are you gonna get me the gift for Christmas or not?
 tags: bear,dont-tell-lin,present

@@ -1,5 +1,4 @@
 ---
-date: 2008-06-06 19:13:57
 slug: permanent-iraq-bases-2
 title: permanent Iraq bases
 tags: news,terror

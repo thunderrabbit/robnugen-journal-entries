@@ -1,5 +1,4 @@
 ---
-date: 2012-02-27 18:57:05
 slug: work-3
 title: work
 tags: journal

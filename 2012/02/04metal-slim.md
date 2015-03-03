@@ -1,5 +1,4 @@
 ---
-date: 2012-02-04 22:40:45
 slug: metal-slim
 title: Metal Slim
 tags: journal

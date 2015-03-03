@@ -2,7 +2,6 @@
 title: AC lesson
 tags: lesson
 author: Rob Nugen
-date: 2015-02-12 09:26 JST
 ---
 
 ##09:26 Thursday 12 February 2015 JST##

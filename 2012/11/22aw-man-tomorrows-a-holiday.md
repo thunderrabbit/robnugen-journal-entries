@@ -1,5 +1,4 @@
 ---
-date: 2012-11-22 23:16:37
 slug: aw-man-tomorrows-a-holiday
 title: aw man, tomorrow's a holiday!!!
 tags: ショック

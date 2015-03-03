@@ -2,7 +2,6 @@
 title: Lessons at Toshiba
 tags: lessons
 author: Rob Nugen
-date: 2015-02-17 17:21 JST
 ---
 
 ##17:21 Tuesday 17 February 2015 JST##

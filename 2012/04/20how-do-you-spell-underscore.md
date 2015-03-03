@@ -1,5 +1,4 @@
 ---
-date: 2012-04-20 17:26:29
 slug: how-do-you-spell-underscore
 title: how do you spell underscore?
 tags: journal

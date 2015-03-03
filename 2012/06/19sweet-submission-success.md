@@ -1,5 +1,4 @@
 ---
-date: 2012-06-19 20:42:38
 slug: sweet-submission-success
 title: sweet submission success
 tags: journal

@@ -1,5 +1,4 @@
 ---
-date: 2012-07-24 17:57:48
 slug: fun-coding-but-moe-joe-its-all-proprietary
 title: fun coding, but moe joe, it's all proprietary!
 tags: journal

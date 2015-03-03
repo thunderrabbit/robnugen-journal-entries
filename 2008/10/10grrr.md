@@ -1,5 +1,4 @@
 ---
-date: 2008-10-10 15:47:19
 slug: grrr
 title: grrr
 tags: news,terror

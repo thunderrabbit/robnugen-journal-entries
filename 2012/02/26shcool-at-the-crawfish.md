@@ -1,5 +1,4 @@
 ---
-date: 2012-02-26 23:25:20
 slug: shcool-at-the-crawfish
 title: Shcool at The Crawfish
 tags: journal

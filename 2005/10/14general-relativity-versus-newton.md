@@ -1,5 +1,4 @@
 ---
-date: 2005-10-14 15:30:09
 slug: general-relativity-versus-newton
 title: General relativity versus Newton
 tags: astronomy

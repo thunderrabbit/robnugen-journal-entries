@@ -2,7 +2,6 @@
 title: Hour of Minecraft
 tags: minecraft
 author: Rob Nugen
-date: 2015-01-13
 ---
 
 ##23:09 Tuesday 13 January 2015 JST##

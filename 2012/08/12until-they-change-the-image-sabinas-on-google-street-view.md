@@ -1,5 +1,4 @@
 ---
-date: 2012-08-12 21:04:39
 slug: until-they-change-the-image-sabinas-on-google-street-view
 title: until they change the image(*), Sabina's on Google Street View
 tags: journal

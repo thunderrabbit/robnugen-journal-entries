@@ -2,7 +2,6 @@
 title: dang middleman error
 tags: middleman
 author: Rob Nugen
-date: 2015-02-18 18:53 JST
 ---
 
 ##18:53 Wednesday 18 February 2015 JST##

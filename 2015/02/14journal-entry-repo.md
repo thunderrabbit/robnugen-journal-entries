@@ -2,7 +2,6 @@
 title: Journal entry repo
 tags: static, site, journal
 author: Rob Nugen
-date: 2015-02-14 18:22 JST
 ---
 
 ##18:22 Saturday 14 February 2015 JST##

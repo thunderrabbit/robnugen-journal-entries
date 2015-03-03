@@ -1,5 +1,4 @@
 ---
-date: 2013-05-06 22:07:39
 slug: finally-learned-how-to-make-two-targets-in-xcode
 title: finally learned how to make two targets in xcode
 tags: journal,programming

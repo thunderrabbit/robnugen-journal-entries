@@ -1,5 +1,4 @@
 ---
-date: 2012-02-22 23:26:33
 slug: reading-deprivation-week
 title: reading deprivation week
 tags: journal

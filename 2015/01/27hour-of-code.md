@@ -2,7 +2,6 @@
 title: hour of code
 tags: code
 author: Rob Nugen
-date: 2015-01-27
 ---
 
 ##12:42 Tuesday 27 January 2015 JST##

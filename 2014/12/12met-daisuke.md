@@ -2,7 +2,6 @@
 title: Met Daisuke
 tags: first
 author: Rob Nugen
-date: 2014-12-13
 ---
 
 ##00:45 Saturday 13 December 2014 JST##

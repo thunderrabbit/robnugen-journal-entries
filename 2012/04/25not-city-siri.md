@@ -1,5 +1,4 @@
 ---
-date: 2012-04-25 18:52:07
 slug: not-city-siri
 title: Not city - Siri!
 tags: journal

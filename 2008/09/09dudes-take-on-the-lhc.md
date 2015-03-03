@@ -1,5 +1,4 @@
 ---
-date: 2008-09-09 22:36:26
 slug: dudes-take-on-the-lhc
 title: Dude's take on the LHC
 tags: lhc

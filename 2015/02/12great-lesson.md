@@ -2,7 +2,6 @@
 title: great lesson
 tags: lesson, akiba
 author: Rob Nugen
-date: 2015-02-12 20:23 JST
 ---
 
 ##20:23 Thursday 12 February 2015 JST##

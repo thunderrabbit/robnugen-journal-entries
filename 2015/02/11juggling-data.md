@@ -2,7 +2,6 @@
 title: juggling data
 tags: aws, ab
 author: Rob Nugen
-date: 2015-02-11
 ---
 
 ##09:33 Thursday 12 February 2015 JST##

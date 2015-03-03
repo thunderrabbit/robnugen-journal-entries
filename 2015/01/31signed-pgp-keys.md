@@ -2,7 +2,6 @@
 title: Signed PGP keys
 tags: pgp
 author: Rob Nugen
-date: 2015-01-31
 ---
 
 ##01:20 Sunday 01 February 2015 JST##

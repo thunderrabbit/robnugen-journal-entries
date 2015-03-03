@@ -2,7 +2,6 @@
 title: Say Cheese
 tags: cheese
 author: Rob Nugen
-date: 2015-01-05
 ---
 
 ##23:57 Monday 05 January 2015 JST##

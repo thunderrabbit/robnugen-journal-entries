@@ -1,5 +1,4 @@
 ---
-date: 2007-10-31 16:11:55
 slug: my-new-crocs-when-they-were-new
 title: My new Crocs... when they were new.
 tags: miscellaneous

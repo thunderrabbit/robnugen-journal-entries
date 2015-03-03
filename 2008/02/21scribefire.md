@@ -1,5 +1,4 @@
 ---
-date: 2008-02-21 17:18:25
 slug: scribefire
 title: Scribefire
 tags: news

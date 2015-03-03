@@ -1,5 +1,4 @@
 ---
-date: 2013-03-28 21:49:57
 slug: jeff-and-harriet-a-kids-story-that-didnt-pass
 title: Jeff and Harriet, a kids' story that didn't pass
 tags: books

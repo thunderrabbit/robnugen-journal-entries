@@ -2,7 +2,6 @@
 title: done today
 tags: md5, git, bittippers
 author: Rob Nugen
-date: 2015-02-23 23:07 JST
 ---
 
 ##23:07 Monday 23 February 2015 JST##

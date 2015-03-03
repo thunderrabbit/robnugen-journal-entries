@@ -1,5 +1,4 @@
 ---
-date: 2009-01-11 21:15:36
 slug: israel-created-hamas
 title: Israel created Hamas
 tags: news

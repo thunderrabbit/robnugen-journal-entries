@@ -1,5 +1,4 @@
 ---
-date: 2006-08-07 18:47:10
 slug: good-ol-tokyo
 title: Good ol' Tokyo
 tags: travel

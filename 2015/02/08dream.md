@@ -2,7 +2,6 @@
 title: Dream
 tags: spinning
 author: Rob Nugen
-date: 2015-02-08
 ---
 
 ##07:46 Sunday 08 February 2015 JST##

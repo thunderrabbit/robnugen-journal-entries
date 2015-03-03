@@ -2,7 +2,6 @@
 title: (probably) finished three fiverr orders
 tags: fiverr
 author: Rob Nugen
-date: 2015-02-24 21:54 JST
 ---
 
 ##21:54 Tuesday 24 February 2015 JST##

@@ -1,5 +1,4 @@
 ---
-date: 2012-01-28 17:48:36
 slug: thanks-tame-wassap-boo
 title: Thanks, Tame!  Wassap, Boo?
 tags: journal

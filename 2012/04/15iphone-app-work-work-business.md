@@ -1,5 +1,4 @@
 ---
-date: 2012-04-15 23:35:24
 slug: iphone-app-work-work-business
 title: iPhone app work work business
 tags: journal

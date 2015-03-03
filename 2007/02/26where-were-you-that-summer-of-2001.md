@@ -1,5 +1,4 @@
 ---
-date: 2007-02-26 23:04:10
 slug: where-were-you-that-summer-of-2001
 title: Where Were You That Summer of 2001?
 tags: airplane day,guest writer,terror

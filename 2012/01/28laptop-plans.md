@@ -1,5 +1,4 @@
 ---
-date: 2012-01-28 17:55:11
 slug: laptop-plans
 title: laptop plans
 tags: journal

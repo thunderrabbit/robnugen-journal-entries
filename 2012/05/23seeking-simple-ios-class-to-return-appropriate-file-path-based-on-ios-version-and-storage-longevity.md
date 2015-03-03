@@ -1,5 +1,4 @@
 ---
-date: 2012-05-23 20:41:35
 slug: seeking-simple-ios-class-to-return-appropriate-file-path-based-on-ios-version-and-storage-longevity
 title: seeking simple iOS class to return appropriate file path based on iOS version
   and storage longevity

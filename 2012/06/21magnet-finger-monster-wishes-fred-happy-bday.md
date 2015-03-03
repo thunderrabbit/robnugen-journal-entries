@@ -1,5 +1,4 @@
 ---
-date: 2012-06-21 17:01:18
 slug: magnet-finger-monster-wishes-fred-happy-bday
 title: Magnet finger monster wishes Fred happy bday
 tags: journal

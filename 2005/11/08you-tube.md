@@ -1,5 +1,4 @@
 ---
-date: 2005-11-08 18:32:22
 slug: you-tube
 title: YouTube
 tags: internet

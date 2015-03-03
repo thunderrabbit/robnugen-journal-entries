@@ -1,5 +1,4 @@
 ---
-date: 2005-10-14 15:18:36
 slug: kung-pow-enter-the-fist
 title: 'Kung Pow: Enter the Fist'
 tags: movies

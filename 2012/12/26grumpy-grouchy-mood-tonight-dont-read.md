@@ -1,5 +1,4 @@
 ---
-date: 2012-12-26 21:50:39
 slug: grumpy-grouchy-mood-tonight-dont-read
 title: grumpy grouchy mood tonight (don't read)
 tags: grumpy

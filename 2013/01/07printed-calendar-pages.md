@@ -1,5 +1,4 @@
 ---
-date: 2013-01-07 21:51:25
 slug: printed-calendar-pages
 title: printed calendar pages
 tags: internet

@@ -1,5 +1,4 @@
 ---
-date: 2012-02-05 18:10:33
 slug: new-table
 title: New table
 tags: journal

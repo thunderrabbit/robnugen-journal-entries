@@ -1,5 +1,4 @@
 ---
-date: 2012-01-28 17:52:33
 slug: updating-my-site
 title: updating my site
 tags: journal

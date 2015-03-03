@@ -2,7 +2,6 @@
 title: Yomiuriland with Lin
 tags: yomiuriland
 author: Rob Nugen
-date: 2015-01-02
 ---
 
 ##31 December 2014

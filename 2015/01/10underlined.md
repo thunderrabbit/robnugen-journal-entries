@@ -2,7 +2,6 @@
 title: Underlined
 tags: art
 author: Rob Nugen
-date: 2015-01-10
 ---
 
 ##20:25 Saturday 10 January 2015 JST##

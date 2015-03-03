@@ -2,7 +2,6 @@
 title: 日本語のmeetup
 tags: 日本語
 author: Rob Nugen
-date: 2015-02-20 21:45 JST
 ---
 
 ##21:45 Friday 20 February 2015 JST##

@@ -2,7 +2,6 @@
 title: At Fujizakurasou
 tags: late, journal
 author: Rob Nugen
-date: 2014-12-21
 ---
 
 ##03:18 Sunday 21 December 2014 JST##

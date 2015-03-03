@@ -2,7 +2,6 @@
 title: great GG lesson
 tags: lesson
 author: Rob Nugen
-date: 2015-02-19 20:28 JST
 ---
 
 ##20:28 Thursday 19 February 2015 JST##

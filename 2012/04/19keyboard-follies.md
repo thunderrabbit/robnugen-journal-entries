@@ -1,5 +1,4 @@
 ---
-date: 2012-04-19 20:35:52
 slug: keyboard-follies
 title: keyboard follies
 tags: journal

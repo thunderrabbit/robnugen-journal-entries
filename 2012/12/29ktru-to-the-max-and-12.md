@@ -1,5 +1,4 @@
 ---
-date: 2012-12-29 16:03:05
 slug: ktru-to-the-max-and-12
 title: KTRU to the max and 1/2
 tags: journal,ktru

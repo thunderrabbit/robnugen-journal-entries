@@ -2,7 +2,6 @@
 title: fun lesson and dinner
 tags: lesson
 author: Rob Nugen
-date: 2015-01-13
 ---
 
 ##23:03 Tuesday 13 January 2015 JST##

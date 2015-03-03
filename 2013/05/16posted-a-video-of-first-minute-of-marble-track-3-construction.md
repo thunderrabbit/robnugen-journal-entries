@@ -1,5 +1,4 @@
 ---
-date: 2013-05-16 20:23:45
 slug: posted-a-video-of-first-minute-of-marble-track-3-construction
 title: posted a video of first minute of Marble Track 3 construction
 tags: mt3

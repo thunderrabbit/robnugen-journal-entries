@@ -1,5 +1,4 @@
 ---
-date: 2012-12-12 21:01:21
 slug: why-thank-you
 title: why thank you
 tags: journal,technology

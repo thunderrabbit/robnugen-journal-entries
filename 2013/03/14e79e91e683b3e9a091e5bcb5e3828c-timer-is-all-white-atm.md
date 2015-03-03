@@ -1,5 +1,4 @@
 ---
-date: 2013-03-14 22:43:34
 slug: '%e7%9e%91%e6%83%b3%e9%a0%91%e5%bc%b5%e3%82%8c-timer-is-all-white-atm'
 title: 瞑想頑張れ timer is all white atm
 tags: meisogambare,my code,open source

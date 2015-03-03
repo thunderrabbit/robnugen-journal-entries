@@ -2,7 +2,6 @@
 title: zzzzz
 tags: zzzz
 author: Rob Nugen
-date: 2015-01-28
 ---
 
 ##23:17 Wednesday 28 January 2015 JST##

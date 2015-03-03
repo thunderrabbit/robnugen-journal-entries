@@ -1,5 +1,4 @@
 ---
-date: 2012-01-30 21:12:33
 slug: reasonable-hours
 title: reasonable hours
 tags: journal

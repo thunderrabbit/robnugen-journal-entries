@@ -1,5 +1,4 @@
 ---
-date: 2006-04-01 20:50:19
 slug: radio
 title: Radio
 tags: news

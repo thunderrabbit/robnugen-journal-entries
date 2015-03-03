@@ -2,7 +2,6 @@
 title: Today worked on AB DB
 tags: work, db
 author: Rob Nugen
-date: 2015-02-16 22:32 JST
 ---
 
 ##22:32 Monday 16 February 2015 JST##

@@ -1,5 +1,4 @@
 ---
-date: 2013-02-10 23:14:13
 slug: '%e8%87%aa%e7%94%b1%e3%81%8c%e4%b8%98-with-mikako-and-jana'
 title: 自由が丘 with Mikako and Jana
 tags: journal

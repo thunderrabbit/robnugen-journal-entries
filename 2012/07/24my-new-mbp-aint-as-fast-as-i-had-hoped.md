@@ -1,5 +1,4 @@
 ---
-date: 2012-07-24 18:00:44
 slug: my-new-mbp-aint-as-fast-as-i-had-hoped
 title: my new MBP ain't as fast as I had hoped
 tags: journal

@@ -1,5 +1,4 @@
 ---
-date: 2012-11-25 22:48:54
 slug: watched-kill-bill-1-and-2-with-lin
 title: watched Kill Bill 1 and 2 with Lin
 tags: journal,movies

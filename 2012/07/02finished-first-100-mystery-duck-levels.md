@@ -1,5 +1,4 @@
 ---
-date: 2012-07-02 18:25:09
 slug: finished-first-100-mystery-duck-levels
 title: Finished first 100 Mystery Duck levels
 tags: journal

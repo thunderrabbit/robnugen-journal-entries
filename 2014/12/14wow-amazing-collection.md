@@ -2,7 +2,6 @@
 title: wow amazing collection
 tags: wow, museum, stuff
 author: Rob Nugen
-date: 2014-12-14
 ---
 
 ##02:13 Sunday 21 December 2014 JST##

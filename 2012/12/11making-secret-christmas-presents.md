@@ -1,5 +1,4 @@
 ---
-date: 2012-12-11 22:40:05
 slug: making-secret-christmas-presents
 title: making secret Christmas presents!
 tags: art,journal

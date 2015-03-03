@@ -1,5 +1,4 @@
 ---
-date: 2012-04-28 17:06:23
 slug: free-bicycles-and-scooters
 title: Free bicycles and scooters
 tags: journal, river

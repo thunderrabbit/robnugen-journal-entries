@@ -1,5 +1,4 @@
 ---
-date: 2008-04-02 19:10:08
 slug: 3rd-grade-kill-teacher-plot-google-news
 title: 3rd grade kill teacher plot - Google News
 tags: news,terror

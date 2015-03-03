@@ -1,5 +1,4 @@
 ---
-date: 2012-12-05 15:36:56
 slug: pushed-72-commits-to-github
 title: pushed 72 commits to github
 tags: journal,work

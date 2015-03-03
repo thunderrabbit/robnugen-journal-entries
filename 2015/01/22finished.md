@@ -2,7 +2,6 @@
 title: Finished
 tags: cpc
 author: Rob Nugen
-date: 2015-01-22
 ---
 
 ##13:34 Thursday 22 January 2015 JST##

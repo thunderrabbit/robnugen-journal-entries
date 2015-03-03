@@ -2,7 +2,6 @@
 title: Added genres to CB DB
 tags: work
 author: Rob Nugen
-date: 2015-02-21 14:30 JST
 ---
 
 ##14:30 Saturday 21 February 2015 JST##

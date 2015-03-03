@@ -1,5 +1,4 @@
 ---
-date: 2007-11-08 23:39:25
 slug: new-castle-of-dreams-map
 title: new Castle of Dreams map
 tags: art,internet

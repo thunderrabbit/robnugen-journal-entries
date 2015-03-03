@@ -2,7 +2,6 @@
 title: Customer service win
 tags: csr, japan
 author: Rob Nugen
-date: 2015-02-04
 ---
 
 ##15:46 Wednesday 04 February 2015 JST##
