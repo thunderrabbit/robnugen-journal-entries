@@ -8,8 +8,8 @@ author: Rob Nugen
 
     HI Sam
     
-    On this URL: [https://my.atlassian.com/products/index](https://my.atlassian.com/products/index)
-    
+    On this URL: https://my.atlassian.com/products/index
+
     I see a sideways "Leave Feedback" button (div) on the right side
 	of my browser.
     
