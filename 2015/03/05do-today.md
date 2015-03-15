@@ -12,7 +12,7 @@ date: 2015-03-05 07:36 JST
 1. ~~pushups * 15~~
 1. ~~Clean kitty litter (5 mins)~~
 1. ~~post [daily meditation thread](http://www.reddit.com/r/BitTippers/comments/2xz10g/daily_meditation_thread_5_march_2015/) to bittippers~~
-1. ~~Redo work on #2401 after having received new set of images (1 hour hopefully)
+1. ~~Redo work on #2401 after having received new set of images (1 hour hopefully)~~
 1. ~~pushups * 15~~
 1. ~~Tell Lin to check her schedule (at noon)~~
 1. Study Japanese (1 hour)

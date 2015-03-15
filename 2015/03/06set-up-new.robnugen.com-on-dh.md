@@ -84,3 +84,16 @@ Now ssh into the site:
     ssh example
 
 Enter password for the ssh key and you should be in.
+
+## Fri Mar 6 22:32:43 2015 +0900
+
+    commit 5a081754d37deaccc79ebb26144ebdc4a63f32e5
+    Author: Rob Nugen
+    Date:   Fri Mar 6 22:32:43 2015 +0900
+    
+        Can now use 'middleman deploy' to deploy to new.robnugen.com
+
+And they say there will *never* be a hash collision on git, so I could
+just write "woohoo! check out the meta data at git hash
+5a081754d37deaccc79ebb26144ebdc4a63f32e5!" if there ever ends up being
+a master list of all git hashes created.
