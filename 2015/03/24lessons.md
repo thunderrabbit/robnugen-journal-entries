@@ -24,5 +24,5 @@ suck so much?  I take the photo, thn click the view photo button and
 the screen goes fuzzy and locks up until the phone boots after about a
 minutes.  Swear to Jeebuz I'm never buying Apple hardware again.
 
-Sarupapa took us out to dinner after the lesson and I'm headed hoe
+Sarupapa took us out to dinner after the lesson and I'm headed home
 now.
