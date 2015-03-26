@@ -35,6 +35,7 @@ to lock because its adjoining latch was on a frame that had been bent
 so that the door coudln't reach it anymrore. I guessed we had to leave
 that part open.
 </p>
+
 <p class="dream">
 I saw that Travis had picked up a lot of broken glass to clean up the
 place and I got a trtansmission from Marcel who was like, "dude are
@@ -46,6 +47,7 @@ so Marcel was talking to me to see the new thing I had found.  I
 told him I forgot to take pictures and he was like, "aw man I knew
 I should have contacted you sooner!"
 </p>
+
 <p class="dream">
 I stepped over a virtual tar pit  and started to wake up.
 </p>
