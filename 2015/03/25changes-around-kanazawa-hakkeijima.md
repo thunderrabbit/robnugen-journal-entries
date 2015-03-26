@@ -26,9 +26,6 @@ I guess those days are over!
 
 here are pics from the area
 
-
-[![lkj](/images/3/25cha/thumbs/](/images/3/25cha/)
-
 [![last day sign 金沢八景](/images/construction/buildings/kanazawa-hakkeijima/2015-03-25-site-overview/thumbs/last day sign 金沢八景 2015-03-25 16.00.55.jpg)](/images/construction/buildings/kanazawa-hakkeijima/2015-03-25-site-overview/last day sign 金沢八景 2015-03-25 16.00.55.jpg)
 [![new conveni tomorrow 金沢八景](/images/construction/buildings/kanazawa-hakkeijima/2015-03-25-site-overview/thumbs/new conveni tomorrow 金沢八景 2015-03-25 16.04.49.jpg)](/images/construction/buildings/kanazawa-hakkeijima/2015-03-25-site-overview/new conveni tomorrow 金沢八景 2015-03-25 16.04.49.jpg)
 [![overlooking lot 金沢八景](/images/construction/buildings/kanazawa-hakkeijima/2015-03-25-site-overview/thumbs/overlooking lot 金沢八景 2015-03-25 16.02.52.jpg)](/images/construction/buildings/kanazawa-hakkeijima/2015-03-25-site-overview/overlooking lot 金沢八景 2015-03-25 16.02.52.jpg)
