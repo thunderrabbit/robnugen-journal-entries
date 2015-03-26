@@ -74,3 +74,13 @@ See?
 give me this:
 
 <img src="/rob/wL-ROB.gif" />
+
+Hahahaha
+
+I forgot I have to add /images
+
+&lt;img src="/images/rob/wL-ROB.gif" /&gt;
+
+give me this:
+
+<img src="/images/rob/wL-ROB.gif" />
