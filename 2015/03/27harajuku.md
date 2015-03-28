@@ -8,7 +8,7 @@ date: 2015-03-27 18:18 JST
 ##18:18 Friday 27 March 2015 JST##
 
 I just walked through Harajuku, along Yoyogi Park, then through the
-web of streets near Center Street (which has been renamed but to what,
+web of streets near Center Street (which has been renamed, but to what,
 I've forgotten), across Shibuya Scramble and am now on Yamanote Line
 headed home.
 
