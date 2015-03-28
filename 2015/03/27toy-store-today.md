@@ -15,5 +15,5 @@ a puzzle, but it's just fiddly:
 
 The other is a puzzle called Quattro Formaggi:
 
-[![Quattro_Formaggi_solved](/images/puzzles/thumbs/Quattro_Formaggi_solution_2015-03-27_14.58.24.jpg)](/images/puzzles/Quattro_Formaggi_solution_2015-03-27_14.58.24.jpg)
+[Quattro Formaggi spoiler](/images/puzzles/Quattro_Formaggi_solution_2015-03-27_14.58.24.jpg)
 
