@@ -9,8 +9,8 @@ date: 2015-03-29T00:11:18+09:00
 
 So I'm looking at [Hugo](http://gohugo.io/) as possibly replacing Middleman.
 
-To do so, I've changed the date format in frontmatter from something
-like `2015-03-28 10:55 JST` to something like
+To do so, I have to change the date format in frontmatter from
+something like `2015-03-28 10:55 JST` to something like
 `2015-03-29T00:11:18+09:00`.
 
 Hopefully the new format will work with Middleman so I can use it in
