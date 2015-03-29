@@ -11,7 +11,7 @@ Before the lesson started, there was an announcement on PA system.  I
 couldn't really understand it,but they said "so don't use the
 elevators or escalators."
 
-Lessons were with Mutsumi, Mari, Manami, and Rin.
+Chapters were with Mutsumi, Mari, Manami, and Rin.
 
 Mutsumi explained that the van der graffe generator had been used a
 lot more than usual, so got a bit overheated, apparently setting off

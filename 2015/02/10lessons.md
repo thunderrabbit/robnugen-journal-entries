@@ -1,5 +1,5 @@
 ---
-title: Lessons
+title: Chapters
 tags: teaching
 author: Rob Nugen
 ---

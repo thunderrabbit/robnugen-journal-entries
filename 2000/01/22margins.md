@@ -2,11 +2,12 @@
 title: Margins
 tags: margins, funny
 author: Rob Nugen
+date: 2000-01-22
 ---
 
 <title>Margins</title>
 
-##5:59pm CST Saturday 22 January 2000
+## 5:59pm CST Saturday 22 January 2000
 
 ```
 How difficult could it be to write a message that automatically justifies

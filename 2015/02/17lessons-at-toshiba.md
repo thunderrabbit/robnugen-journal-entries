@@ -1,5 +1,5 @@
 ---
-title: Lessons at Toshiba
+title: Chapters at Toshiba
 tags: lessons
 author: Rob Nugen
 ---

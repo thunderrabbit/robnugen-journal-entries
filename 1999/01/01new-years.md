@@ -2,6 +2,7 @@
 title: New years
 tags: new years
 author: Rob Nugen
+date: 1999-01-01
 ---
 
 <p class=description>The moment 1999 arrived, I couldn't believe it.</p>

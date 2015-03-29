@@ -51,7 +51,7 @@ only 4 steps away from Amanda Peet!!!  Wow!  And really I have met Maz and
 he's cool and would pretty much remember me, so I'm only three steps away
 from Amanda Peet.  Wow!
 
-<p>The first trailer was for <em>UnbreakableK/em>. I was all, "Wende watch
+<p>The first trailer was for <em>Unbreakable</em>. I was all, "Wende watch
 this!!"  I didn't blink through the entire trailer; I love it!
 
 <p>Trailer for <em>Buying The Cow</em> looks pretty funny to Wende, and

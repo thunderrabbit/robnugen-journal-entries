@@ -7,7 +7,7 @@ date: 2015-03-24 23:34 JST
 
 ##23:34 Tuesday 24 March 2015 JST##
 
-Lessons with Muchan and Muchan were great tonight; Mucchan has been
+Chapters with Muchan and Muchan were great tonight; Mucchan has been
 working hard on his stuff and Muchan always works hard so it's
 lovely.  Sarupapa joined Muchan and explained some of the requirements
 for his fabric designs.  I'm actually writing with the design in front

@@ -23,6 +23,6 @@ Realizing there are cameras, I told them (Lin translated) that I had changed my 
 
 He was like, [in that case, just push this cancel button.]
 
-Lesson learned!  But it reveals another small unconfirmed weakness in the system: if someone leaves before their bicycle goes up, as Lin is wont to do sometimes, can someone else press cancel and get the bike?
+Chapter learned!  But it reveals another small unconfirmed weakness in the system: if someone leaves before their bicycle goes up, as Lin is wont to do sometimes, can someone else press cancel and get the bike?
 
 Granted the time window is pretty short, but I think I should test that tomorrow.
