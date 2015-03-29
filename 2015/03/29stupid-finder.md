@@ -40,7 +40,8 @@ think is the correct one I need to upload.
 
 Hahah the clock in the top bar of OSX has stopped at 9:59:28.
 
-So basically, the only things that are working correctly for me riht now are *not* Apple software:  Emacs, iTerm (not Terminal), Hugo..
+So basically, the only things that are working correctly for me right
+now are *not* Apple software: Emacs, iTerm (not Terminal), Hugo..
 
 And it shows me that I have spent 30 minutes
 trying/wanting/bitching-about-not-being-able to upload the image to
