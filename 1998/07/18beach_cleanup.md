@@ -39,5 +39,5 @@ technique while I and a couple other adults took the walk-slowly-precision-pick-
 
 <p>I collected about 1 trashbag worth of stuff and then took a wade with Wende, Shawn & Amy, and then I took a nap.
 
-<p>Drove home and chilled for like 1 hour and then Wende and I went to see <em>Lethal Weapon 4<em>.
+<p>Drove home and chilled for like 1 hour and then Wende and I went to see <em>Lethal Weapon 4</em>.
 </p>
