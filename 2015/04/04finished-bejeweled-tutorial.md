@@ -20,3 +20,12 @@ all noisy and stuff.
 
 Now I'm going to take a nap because I'm fasting today, and will head
 out to Japanese class at 6pm or so.
+
+## 19:10
+
+Nice nap, though I'm going to be a bit late to the lesson.  (I'm on
+the train now.)
+
+## 22:10
+
+Hmm.  Can't find any hits in offline docs for "sleep" "pause" "wait" to do what I want.. slow this game down!
