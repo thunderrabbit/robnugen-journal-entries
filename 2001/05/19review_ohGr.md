@@ -142,22 +142,22 @@ ul
  <tr style='height:23.25pt'>
   <td width=293 valign=top style='width:219.75pt;padding:0in 5.4pt 0in 5.4pt;
   height:23.25pt'>
-  <p class=MsoNormal>Artist: <b>ohGr</b><span style="mso-spacerun: yes"> 
+  <p class=MsoNormal>Artist: <b>ohGr</b><span style="mso-spacerun: yes">
   </span>label: <b>Spitfire Records</b></p>
-  <p class=MsoNormal>Title:<span style="mso-spacerun: yes">  </span><b
+  <p class=MsoNormal>Title:<span style="mso-spacerun: yes"> </span><b
   style='mso-bidi-font-weight:normal'>weLt</b></p>
   </td>
   <td width=150 valign=top style='width:112.5pt;padding:0in 5.4pt 0in 5.4pt;
   height:23.25pt'>
   <p class=MsoNormal align=right style='text-align:right'><span
-  style="mso-spacerun: yes"> </span>Rob Nugen<span style="mso-spacerun: yes"> 
+  style="mso-spacerun: yes"></span>Rob Nugen<span style="mso-spacerun: yes">
   </span>#75</p>
   <p class=MsoNormal align=right style='text-align:right'>19 May 2001</p>
   </td>
  </tr>
 </table>
 
-<p class=MsoNormal>//+, //, //-, /+, /, -<span style="mso-spacerun: yes">      
+<p class=MsoNormal>//+, //, //-, /+, /, -<span style="mso-spacerun: yes">
 </span>rec: playlist</p>
 
 <p class=MsoNormal><span style='font-size:8.0pt;mso-bidi-font-size:10.0pt'>from
@@ -181,16 +181,16 @@ or hideous.</p>
 
 <p class=MsoNormal><span style='font-size:8.0pt;mso-bidi-font-size:10.0pt'>I
 keep imagining a gentle version of Marilyn Manson as I listen to this
-disc.<span style="mso-spacerun: yes">  </span>Or electronic pop in the underworld.<span
-style="mso-spacerun: yes">  </span>Some of the lyrics try to be scary, but
+disc.<span style="mso-spacerun: yes"> </span>Or electronic pop in the underworld.<span
+style="mso-spacerun: yes"> </span>Some of the lyrics try to be scary, but
 they're not.<o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-size:8.0pt;mso-bidi-font-size:10.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-size:8.0pt;mso-bidi-font-size:10.0pt'>The
 music reaches into the brain for a foothold, using multiple personalities in
-each song to keep it interesting.<span style="mso-spacerun: yes">  </span>I
-believe this is love it or hate it music.<span style="mso-spacerun: yes"> 
+each song to keep it interesting.<span style="mso-spacerun: yes"> </span>I
+believe this is love it or hate it music.<span style="mso-spacerun: yes">
 </span><o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-size:8.0pt;mso-bidi-font-size:10.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
@@ -201,7 +201,7 @@ rating each of these as //(+).<o:p></o:p></span></p>
 <p class=MsoNormal><span style='font-size:8.0pt;mso-bidi-font-size:10.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
 
 <p class=MsoNormal>1. 4:27 <b>Water</b> grinding penetrating.<span
-style="mso-spacerun: yes">  </span>soothing outro</p>
+style="mso-spacerun: yes"> </span>soothing outro</p>
 
 <p class=MsoNormal>2. 4:37 <b>Devil</b> funk beat, buzzy music, barely tweaked
 vox</p>
@@ -214,7 +214,7 @@ british electronic pop.</p>
 <p class=MsoNormal>5. 3:50 <b>Lusid</b> depeche mode on speed</p>
 
 <p class=MsoNormal>6. 3:57 <b>Pore</b> Manic panic beats.<span
-style="mso-spacerun: yes">  </span>How does he talk so fast?</p>
+style="mso-spacerun: yes"> </span>How does he talk so fast?</p>
 
 <p class=MsoNormal>7. 4:08 <b>Chaos</b> deep slow organ, fuzzy goth</p>
 

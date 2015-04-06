@@ -106,30 +106,30 @@ div.Section1
  <tr style='height:23.25pt'>
   <td width=293 valign=top style='width:219.75pt;padding:0in 5.4pt 0in 5.4pt;
   height:23.25pt'>
-  <p class=MsoNormal>Artist: <b>Elevator</b><span style="mso-spacerun: yes"> 
+  <p class=MsoNormal>Artist: <b>Elevator</b><span style="mso-spacerun: yes">
   </span>label: <b>teenage USA<o:p></o:p></b></p>
-  <p class=MsoNormal>Title:<span style="mso-spacerun: yes">  </span><b
+  <p class=MsoNormal>Title:<span style="mso-spacerun: yes"> </span><b
   style='mso-bidi-font-weight:normal'>A taste of complete perspective</b></p>
   </td>
   <td width=150 valign=top style='width:112.5pt;padding:0in 5.4pt 0in 5.4pt;
   height:23.25pt'>
   <p class=MsoNormal align=right style='text-align:right'><span
-  style="mso-spacerun: yes"> </span>Rob Nugen<span style="mso-spacerun: yes"> 
+  style="mso-spacerun: yes"></span>Rob Nugen<span style="mso-spacerun: yes">
   </span>#72</p>
   <p class=MsoNormal align=right style='text-align:right'>18 April 2001</p>
   </td>
  </tr>
 </table>
 
-<p class=MsoNormal>All songs //(+)<span style="mso-spacerun: yes">    
+<p class=MsoNormal>All songs //(+)<span style="mso-spacerun: yes">
 </span>recommend: playlist</p>
 
 <p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
 
 <p class=MsoNormal>Layers of sound tie the whole album together.<span
-style="mso-spacerun: yes">  </span>Each song has its own signature.</p>
+style="mso-spacerun: yes"> </span>Each song has its own signature.</p>
 
-<p class=MsoNormal>Quite amazing variety.<span style="mso-spacerun: yes"> 
+<p class=MsoNormal>Quite amazing variety.<span style="mso-spacerun: yes">
 </span>Songs all overlap (except 9 &amp; 10)</p>
 
 <p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
@@ -141,13 +141,13 @@ intro guitar jam repeated w/ background vox over soundscape</p>
 guitar jammin</p>
 
 <p class=MsoNormal>3. 1:51 <b>Balance</b> crow, electronic helicopter, high hat
-jazzy riff.<span style="mso-spacerun: yes">  </span>m/f vox.</p>
+jazzy riff.<span style="mso-spacerun: yes"> </span>m/f vox.</p>
 
 <p class=MsoNormal>4. 2:50 <b>Oh Traveller Beyond</b> drums by overwound windup
 monkey</p>
 
 <p class=MsoNormal>5. 4:43 <b>A Taste of Complete Perspective</b> jammin'
-electronic bass,<span style="mso-spacerun: yes">  </span>smeared vox</p>
+electronic bass,<span style="mso-spacerun: yes"> </span>smeared vox</p>
 
 <p class=MsoNormal>6. 3:40 <b>I'm a Radio Station</b> accoustic with ghost
 electronic waves, a buzzy middle, and birds at the end.</p>
@@ -173,7 +173,7 @@ whispery voices, odd outro</p>
 sudden ending</p>
 
 <p class=MsoNormal>13. 15:01 <b>A Taste of the Great Beyond</b> wobbly first
-half w/ some shouted lyrics.<span style="mso-spacerun: yes">  </span>Birdsong
+half w/ some shouted lyrics.<span style="mso-spacerun: yes"> </span>Birdsong
 decorates middle, then rockin' roadtrip with slightly distorted vox. Really
 long outro of birds by highway then distorts into an echo chamber.</p>
 

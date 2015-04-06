@@ -143,21 +143,21 @@ ul
   <td width=293 valign=top style='width:219.75pt;padding:0in 5.4pt 0in 5.4pt;
   height:23.25pt'>
   <p class=MsoNormal>Artist: <b>brian and chris</b><span style="mso-spacerun:
-  yes">  </span>label: <b>Megalon</b></p>
-  <p class=MsoNormal>Title:<span style="mso-spacerun: yes">  </span><b
+  yes"> </span>label: <b>Megalon</b></p>
+  <p class=MsoNormal>Title:<span style="mso-spacerun: yes"> </span><b
   style='mso-bidi-font-weight:normal'>vectors</b></p>
   </td>
   <td width=150 valign=top style='width:112.5pt;padding:0in 5.4pt 0in 5.4pt;
   height:23.25pt'>
   <p class=MsoNormal align=right style='text-align:right'><span
-  style="mso-spacerun: yes"> </span>Rob Nugen<span style="mso-spacerun: yes"> 
+  style="mso-spacerun: yes"></span>Rob Nugen<span style="mso-spacerun: yes">
   </span>#76</p>
   <p class=MsoNormal align=right style='text-align:right'>19 May 2001</p>
   </td>
  </tr>
 </table>
 
-<p class=MsoNormal>//+, //, //-, /+, /, -<span style="mso-spacerun: yes">      
+<p class=MsoNormal>//+, //, //-, /+, /, -<span style="mso-spacerun: yes">
 </span>rec: playlist</p>
 
 <p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
@@ -165,11 +165,11 @@ ul
 <p class=MsoNormal><b>Remixes their from first album:<o:p></o:p></b></p>
 
 <p class=MsoNormal>1. // 5:57 <b>Northward Nimbus (Instrumental Version)</b><span
-style="mso-spacerun: yes">  </span>soothing strings with hand drums and outerspacial
+style="mso-spacerun: yes"> </span>soothing strings with hand drums and outerspacial
 samples (ends with the bell of track two)</p>
 
 <p class=MsoNormal>2. // 7:29 <b>Jakarta International Airport (Remix)</b><span
-style="mso-spacerun: yes">  </span>groovin' quickly. Sampled car keys at the
+style="mso-spacerun: yes"> </span>groovin' quickly. Sampled car keys at the
 end.</p>
 
 <p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
@@ -197,7 +197,7 @@ electric guitar, static, piano, stratchy vocals</p>
 <p class=MsoNormal><b>live tracks:<o:p></o:p></b></p>
 
 <p class=MsoNormal>7. //+ 5:46 <b>Katzenjammer</b> simple intro into jammin
-rock.<span style="mso-spacerun: yes">  </span>Fast outro</p>
+rock.<span style="mso-spacerun: yes"> </span>Fast outro</p>
 
 <p class=MsoNormal>8. // 4:07 (untitled) drums and groovin' bass with brief
 guitar solos</p>
