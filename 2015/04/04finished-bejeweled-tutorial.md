@@ -11,8 +11,10 @@ Play a
 [silent version of bejeweled](http://thunderrabbit.github.io/unity-bejeweled-via-noob-tuts/silent_bejeweled/),
 via [noobtuts bejeweled tutorial](http://noobtuts.com/unity/2d-bejeweled-game).
 
-The [code](https://github.com/thunderrabbit/unity-bejeweled-via-noob-tuts) is really wasteful, but it works faster than needed to be too
+The ~~[code](https://github.com/thunderrabbit/unity-bejeweled-via-noob-tuts)~~ is really wasteful, but it works faster than needed to be too
 fast for me to see what's going on!
+
+(( update: code has been deleted from github by request of the author.  (oops, sorry about that.) ))
 
 Here's the [original
 bejeweled](http://bejeweled.popcap.com/html5/0.9.12.9490/html5/Bejeweled.html),
