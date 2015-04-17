@@ -7,7 +7,7 @@ date: 2015-04-17T07:27:53+09:00
 
 ## 07:27 Friday 17 April 2015 JST
 
-#  GG long lesson
+###  GG long lesson
 
 <p class="dream">
 I looked up at the clock and stopped mid-sentence.  "What?  Is it
@@ -20,7 +20,7 @@ a lot and wondered how it could have happened!
 
 - - -
 
-# Cover Soness's lesson
+### Cover Soness's lesson
 
 <p class="dream">
 Soness was going to drop in on a lunch meeting with some organization
