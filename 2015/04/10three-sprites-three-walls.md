@@ -18,8 +18,8 @@ According to the third video, the type of game we are making is the
 4th (of 9?)th most difficult type of game to make.  Ah well screwit
 let's just see what happens.
 
-Anyway, version 2 features [three sprites and three walls](/samples/unity3d/ah/three-sprites-three-walls/).
+Anyway, version 2 features [three sprites and three walls](/samples/unity3d/ah/02-three-sprites-three-walls/).
 
 ## 22:59:56
 
-Here's version 3, in which [pieces keep coming](/samples/unity3d/ah/pieces-keep-coming/).
+Here's version 3, in which [pieces keep coming](/samples/unity3d/ah/03-pieces-keep-coming/).

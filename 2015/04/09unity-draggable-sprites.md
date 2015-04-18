@@ -8,7 +8,7 @@ date: 2015-04-09T22:55:07+09:00
 ## 22:55 Thursday 09 April 2015 JST
 
 I just created a version of AH (working title) which allows [dragging
-sprites](/samples/unity3d/ah/draggable-sprites/)
+sprites](/samples/unity3d/ah/01-draggable-sprites/)
 
 The relevant details: add a Collider  (BoxCollider2D in this case),
 and this script:
