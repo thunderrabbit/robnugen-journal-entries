@@ -12,3 +12,10 @@ after a bit, and I'm still optimistic that I won't have to powercycle
 it.  It's still a bit responsive, so I just want to close some
 programs and see if I can get it working again without shutting it
 down completely.
+
+## 12:50
+
+The Dell is responding again, but I didn't need to merge anything in
+git; I pushed from local MBP and then pulled, committed, and pushed on
+Dell and now pulled on MBP, so I'm back to 95% thinking I'll have to
+merge somewhere in the near future.  Somewhere?  sometime?
