@@ -60,3 +60,10 @@ Clicked start.
 It seems to have started okay.  Now I need to see if I can get it to
 serve web pages.  Hafta add to my local `/etc/hosts` file.
 
+## 12:58
+
+Boom.  I just added the entries to my local hosts file and the site
+loaded perfectly.  Noice!
+
+Next, I'll start copying the AB site to Dell machine, and while that's
+running, get back to my more-neglected-than-usual inbox.
