@@ -10,6 +10,6 @@ date: 2015-05-23T14:12:59+09:00
 [Rollerdog](http://www.krimms.com/download/rollerdog.pdf) is a book
 designed for little people growing up in the brave new world (order)
 of the 21st century. Rather than instilling fear in young minds, the
-storyline about Humphry the Rollerdog creates an image of
-hope. However, the pictures which are crafted for deeper
-interpretation by adult readers, compose a message of warning...
+storyline about Humphry the Rollerdog creates an image of hope.
+However, the pictures which are crafted for deeper interpretation by
+adult readers, compose a message of warning...
