@@ -23,3 +23,29 @@ around, he was immediately tagged and started counting.  Kinda tough
 when they only have a single room with one or two hiding spots (though
 there are some large structural columns, it's hard to hide "behind"
 them with all sides open.
+
+## 12pm
+
+planned schedule:
+
+~~By 15:15 bye Amma~~
+~~15:23 monorail~~
+~~15:33 KT Line~~
+~~16:00 Kawasaki~~
+~~16:10 ride home~~
+~~16:30 Get Dell, pet Jennie~~
+~~16:40 leave home~~
+~~17:00 bike place~~
+~~17:10 Kawasaki~~
+~~Tokaido Yamanote~~
+~~17:35 Akiba~~
+~~17:45 new wifi,~~ screws
+18:30 lesson
+
+## 17:58
+
+I got the wifi in Akihabara and now I'm chillin' at Famima, not
+studying Japanese for some reason, although I did write some sentences
+while on the bus.
+
+Okay okay I'll go back to Anki now.
