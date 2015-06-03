@@ -19,11 +19,11 @@ photos and were like, oh shit!
 
 Today I wrote a few new sentences.
 
-青森には急な形の屋根があります。　　　The roofs are steep in Aomori.
-日本の食べ物と飲み物は量が少ない。     Food and drink portions in Japan are small
-東京よりヒューストンの方が湿気が高い。  Houston's humidity is higher than Tokyo's
-ヒューストンの湿気は東京より高い。  Houston is more humid than Tokyo.
-アメリカでは野球が有名です。   Baseball is famous in the US.
-ヒューストンで育ちました。   I was raised in Houston.
-お桟橋と言うふとうはきれいな形でした。   Osanbashi pier has a beautiful shape.
+1. 青森には急な形の屋根があります。　　　The roofs are steep in Aomori.
+1. 日本の食べ物と飲み物は量が少ない。     Food and drink portions in Japan are small
+1. 東京よりヒューストンの方が湿気が高い。  Houston's humidity is higher than Tokyo's
+1. ヒューストンの湿気は東京より高い。  Houston is more humid than Tokyo.
+1. アメリカでは野球が有名です。   Baseball is famous in the US.
+1. ヒューストンで育ちました。   I was raised in Houston.
+1. お桟橋と言うふとうはきれいな形でした。   Osanbashi pier has a beautiful shape.
 
