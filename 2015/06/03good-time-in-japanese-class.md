@@ -7,7 +7,7 @@ date: 2015-06-03T22:43:41+09:00
 
 ## 22:43 Wednesday 03 June 2015 JST
 
-Just attending Japanese class in 80's Cafe.  It's the third time リサさん
+Just attended Japanese class in 80's Cafe.  It's the third time リサさん
 has attended, and the third time I've sat next to her.  I like her
 piercings and smile. :-)
 
