@@ -13,7 +13,7 @@ to die for" as MJG wrote in
 [Mr Ruins](http://www.amazon.com/Mr-Ruins-Thriller-War-Book-ebook/dp/B00MEI2BWQ),
 the fantastic start to a fantastic trilogy!
 
-[![Mei-An](/images/peeps/MJG/Mr_Ruins_sample.png)](/images/peeps/MJG/thumbs/Mr_Ruins_sample.png)
+[![Mei-An](/images/peeps/MJG/thumbs/Mr_Ruins_sample.png)](/images/peeps/MJG/Mr_Ruins_sample.png)
 
 Today she came late, so I didn't get to sit next to her until the end
 of class.  At the same table were Robin (Japanese+Dutch guy from
