@@ -1,5 +1,5 @@
 ---
-date: 2012-01-30 01:01:32
+date: 2012-01-30T01:01:32+09:00
 slug: hulu
 title: Hulu
 tags: journal

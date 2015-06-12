@@ -1,5 +1,5 @@
 ---
-date: 2008-12-05 09:10:06
+date: 2008-12-05T09:10:06+09:00
 slug: cellie-0178jpg
 title: cellie-0178.jpg
 tags: news

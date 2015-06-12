@@ -1,5 +1,5 @@
 ---
-date: 2005-10-28 03:19:15
+date: 2005-10-28T03:19:15+09:00
 slug: free-wi-fi
 title: Free Wi-Fi
 tags: internet,technology

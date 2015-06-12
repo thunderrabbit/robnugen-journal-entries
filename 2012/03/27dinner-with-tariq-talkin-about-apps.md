@@ -1,5 +1,5 @@
 ---
-date: 2012-03-27 00:41:36
+date: 2012-03-27T00:41:36+09:00
 slug: dinner-with-tariq-talkin-about-apps
 title: dinner with Tariq, talkin' about apps
 tags: journal

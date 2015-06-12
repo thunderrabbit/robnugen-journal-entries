@@ -1,5 +1,5 @@
 ---
-date: 2005-11-24 13:41:05
+date: 2005-11-24T13:41:05+09:00
 slug: google-click-to-call
 title: Google Click-to-Call
 tags: internet,news,technology

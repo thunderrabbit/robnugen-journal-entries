@@ -1,5 +1,5 @@
 ---
-date: 2013-01-21 00:14:24
+date: 2013-01-21T00:14:24+09:00
 slug: new-country-plans-have-shifted-to-a-new-country
 title: new country plans have shifted to a new country
 tags: journal

@@ -1,5 +1,5 @@
 ---
-date: 2005-10-21 01:05:21
+date: 2005-10-21T01:05:21+09:00
 slug: google-earth
 title: Google Earth
 tags: internet,technology

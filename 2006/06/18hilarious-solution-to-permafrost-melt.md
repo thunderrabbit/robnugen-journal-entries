@@ -1,5 +1,5 @@
 ---
-date: 2006-06-18 09:51:06
+date: 2006-06-18T09:51:06+09:00
 slug: hilarious-solution-to-permafrost-melt
 title: hilarious "solution" to permafrost melt
 tags: technology

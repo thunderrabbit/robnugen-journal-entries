@@ -1,5 +1,5 @@
 ---
-date: 2012-12-05 07:44:18
+date: 2012-12-05T07:44:18+09:00
 slug: omg-thank-you-google-finally
 title: OMG thank you Google!!  Finally!
 tags: step by step

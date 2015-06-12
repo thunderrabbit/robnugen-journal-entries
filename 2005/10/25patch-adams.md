@@ -1,5 +1,5 @@
 ---
-date: 2005-10-25 02:43:02
+date: 2005-10-25T02:43:02+09:00
 slug: patch-adams
 title: Patch Adams
 tags: movies

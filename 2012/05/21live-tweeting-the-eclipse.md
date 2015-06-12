@@ -1,5 +1,5 @@
 ---
-date: 2012-05-21 06:18:49
+date: 2012-05-21T06:18:49+09:00
 slug: live-tweeting-the-eclipse
 title: Live tweeting the eclipse
 tags: journal

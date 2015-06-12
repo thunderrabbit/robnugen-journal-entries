@@ -1,5 +1,5 @@
 ---
-date: 2008-12-22 09:51:05
+date: 2008-12-22T09:51:05+09:00
 slug: leaves-wont-leave
 title: leaves won't leave
 tags: news

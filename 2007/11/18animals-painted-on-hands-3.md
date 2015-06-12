@@ -1,5 +1,5 @@
 ---
-date: 2007-11-18 12:20:29
+date: 2007-11-18T12:20:29+09:00
 slug: animals-painted-on-hands-3
 title: Hand-painted palm-sized elephant
 tags: art,internet

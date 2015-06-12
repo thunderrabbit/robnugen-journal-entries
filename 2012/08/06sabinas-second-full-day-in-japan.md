@@ -1,5 +1,5 @@
 ---
-date: 2012-08-06 01:59:14
+date: 2012-08-06T01:59:14+09:00
 slug: sabinas-second-full-day-in-japan
 title: Sabina's second full day in Japan
 tags: journal

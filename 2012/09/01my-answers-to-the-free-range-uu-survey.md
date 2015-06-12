@@ -1,5 +1,5 @@
 ---
-date: 2012-09-01 13:53:42
+date: 2012-09-01T13:53:42+09:00
 slug: my-answers-to-the-free-range-uu-survey
 title: my answers to the Free Range UU Survey
 tags: journal,spiritual

@@ -1,5 +1,5 @@
 ---
-date: 2006-12-15 11:08:32
+date: 2006-12-15T11:08:32+09:00
 slug: had-to-flee-oaxaca
 title: had to flee Oaxaca
 tags: guest writer,oaxaca,rochelle,terror

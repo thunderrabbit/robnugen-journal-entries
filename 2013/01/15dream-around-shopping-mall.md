@@ -1,5 +1,5 @@
 ---
-date: 2013-01-15 05:16:56
+date: 2013-01-15T05:16:56+09:00
 slug: dream-around-shopping-mall
 title: dream around shopping mall
 tags: dream,journal

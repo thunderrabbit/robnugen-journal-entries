@@ -1,5 +1,5 @@
 ---
-date: 2005-07-19 02:18:15
+date: 2005-07-19T02:18:15+09:00
 slug: life-onboard
 title: Life onboard
 tags: peace boat,travel

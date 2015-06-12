@@ -1,5 +1,5 @@
 ---
-date: 2012-12-20 09:20:51
+date: 2012-12-20T09:20:51+09:00
 slug: windows-store-apps-support-the-iframe-element
 title: Windows Store apps support the >iframe< element
 tags: internet

@@ -1,5 +1,5 @@
 ---
-date: 2008-10-24 08:30:15
+date: 2008-10-24T08:30:15+09:00
 slug: thats-what-friends-are-for
 title: That's what friends are for
 tags: news

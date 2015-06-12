@@ -1,5 +1,5 @@
 ---
-date: 2008-01-30 12:47:12
+date: 2008-01-30T12:47:12+09:00
 slug: discovery-news-spy-satellite-could-crash-to-earth
 title: 'Discovery News : Spy Satellite Could Crash to Earth'
 tags: news,technology,terror

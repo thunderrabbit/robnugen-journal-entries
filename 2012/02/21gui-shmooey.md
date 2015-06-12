@@ -1,5 +1,5 @@
 ---
-date: 2012-02-21 14:07:52
+date: 2012-02-21T14:07:52+09:00
 slug: gui-shmooey
 title: gui shmooey
 tags: journal

@@ -1,5 +1,5 @@
 ---
-date: 2012-05-20 09:13:08
+date: 2012-05-20T09:13:08+09:00
 slug: here-comes-the-moon
 title: here comes the moon
 tags: journal

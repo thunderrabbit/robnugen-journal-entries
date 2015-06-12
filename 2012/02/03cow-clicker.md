@@ -1,5 +1,5 @@
 ---
-date: 2012-02-03 09:02:57
+date: 2012-02-03T09:02:57+09:00
 slug: cow-clicker
 title: cow clicker
 tags: journal

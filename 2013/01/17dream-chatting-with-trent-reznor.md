@@ -1,5 +1,5 @@
 ---
-date: 2013-01-17 03:40:28
+date: 2013-01-17T03:40:28+09:00
 slug: dream-chatting-with-trent-reznor
 title: dream chatting with trent reznor
 tags: dream,journal

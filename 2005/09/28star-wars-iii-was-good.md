@@ -1,5 +1,5 @@
 ---
-date: 2005-09-28 01:58:17
+date: 2005-09-28T01:58:17+09:00
 slug: star-wars-iii-was-good
 title: Star Wars III
 tags: movies

@@ -1,5 +1,5 @@
 ---
-date: 2005-09-29 04:51:49
+date: 2005-09-29T04:51:49+09:00
 slug: skype-the-whole-world-can-talk-for-free
 title: Skype - The whole world can talk for free.
 tags: internet

@@ -1,5 +1,5 @@
 ---
-date: 2012-02-14 05:52:30
+date: 2012-02-14T05:52:30+09:00
 slug: dream-2
 title: Dream
 tags: journal

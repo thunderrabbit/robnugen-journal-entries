@@ -1,5 +1,5 @@
 ---
-date: 2005-10-09 05:10:55
+date: 2005-10-09T05:10:55+09:00
 slug: jerusalem
 title: Jerusalem
 tags: palestine,travel

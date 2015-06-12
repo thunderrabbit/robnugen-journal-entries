@@ -1,5 +1,5 @@
 ---
-date: 2012-12-22 07:56:22
+date: 2012-12-22T07:56:22+09:00
 slug: dream-paolas-name-is-jane
 title: dream Paola's name is Jane
 tags: dream,journal

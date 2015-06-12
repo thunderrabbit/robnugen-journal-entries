@@ -1,5 +1,5 @@
 ---
-date: 2012-01-29 00:44:21
+date: 2012-01-29T00:44:21+09:00
 slug: recent-haps
 title: Recent haps
 tags: journal

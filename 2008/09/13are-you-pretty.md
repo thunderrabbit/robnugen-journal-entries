@@ -1,5 +1,5 @@
 ---
-date: 2008-09-13 11:38:21
+date: 2008-09-13T11:38:21+09:00
 slug: are-you-pretty
 title: Are you pretty?
 tags: news

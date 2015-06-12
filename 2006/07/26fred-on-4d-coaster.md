@@ -1,5 +1,5 @@
 ---
-date: 2006-07-26 13:03:17
+date: 2006-07-26T13:03:17+09:00
 slug: fred-on-4d-coaster
 title: Fred on 4D coaster
 tags: coasters,guest writer,reviews

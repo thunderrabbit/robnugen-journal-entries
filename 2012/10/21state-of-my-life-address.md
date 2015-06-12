@@ -1,5 +1,5 @@
 ---
-date: 2012-10-21 00:37:05
+date: 2012-10-21T00:37:05+09:00
 slug: state-of-my-life-address
 title: State of My Life Address
 tags: japan,state of my life address

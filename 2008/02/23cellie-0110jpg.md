@@ -1,5 +1,5 @@
 ---
-date: 2008-02-23 14:57:58
+date: 2008-02-23T14:57:58+09:00
 slug: cellie-0110jpg
 title: cellie-0110.jpg
 tags: news

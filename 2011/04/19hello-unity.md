@@ -1,5 +1,5 @@
 ---
-date: 2011-04-19 10:18:46
+date: 2011-04-19T10:18:46+09:00
 slug: hello-unity
 title: hello unity
 tags: news

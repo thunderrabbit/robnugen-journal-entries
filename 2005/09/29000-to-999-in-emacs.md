@@ -1,5 +1,5 @@
 ---
-date: 2005-09-29 05:06:40
+date: 2005-09-29T05:06:40+09:00
 slug: 000-to-999-in-emacs
 title: 000 to 999 in emacs
 tags: my code

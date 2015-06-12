@@ -1,5 +1,5 @@
 ---
-date: 2007-11-02 11:15:39
+date: 2007-11-02T11:15:39+09:00
 slug: venezuelan-troops-use-tear-gas-on-chavez-protesters-cnncom
 title: Venezuelan troops use tear gas on Chavez protesters - CNN.com
 tags: terror

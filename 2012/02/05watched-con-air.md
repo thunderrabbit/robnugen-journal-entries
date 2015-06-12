@@ -1,5 +1,5 @@
 ---
-date: 2012-02-05 04:00:25
+date: 2012-02-05T04:00:25+09:00
 slug: watched-con-air
 title: Watched Con Air
 tags: journal

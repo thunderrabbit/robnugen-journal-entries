@@ -1,5 +1,5 @@
 ---
-date: 2012-05-21 13:20:11
+date: 2012-05-21T13:20:11+09:00
 slug: solar-eclipsery-summary
 title: solar eclipsery summary
 tags: journal

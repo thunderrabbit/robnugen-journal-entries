@@ -1,5 +1,5 @@
 ---
-date: 2012-07-18 07:54:51
+date: 2012-07-18T07:54:51+09:00
 slug: voting-with-my-wallet-an-open-letter-to-apple
 title: voting with my wallet, an open letter to Apple
 tags: journal

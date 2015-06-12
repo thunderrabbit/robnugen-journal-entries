@@ -1,5 +1,5 @@
 ---
-date: 2012-01-29 04:06:14
+date: 2012-01-29T04:06:14+09:00
 slug: minecraftinh
 title: Minecrafting
 tags: journal

@@ -1,5 +1,5 @@
 ---
-date: 2012-08-25 11:34:33
+date: 2012-08-25T11:34:33+09:00
 slug: ready-for-wedding-party
 title: Ready for wedding party
 tags: journal

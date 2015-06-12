@@ -1,5 +1,5 @@
 ---
-date: 2007-09-26 02:04:34
+date: 2007-09-26T02:04:34+09:00
 slug: the-hindu-news-update-service
 title: The Hindu News Update Service
 tags: astronomy,technology

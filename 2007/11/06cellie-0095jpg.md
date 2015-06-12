@@ -1,5 +1,5 @@
 ---
-date: 2007-11-06 14:49:03
+date: 2007-11-06T14:49:03+09:00
 slug: cellie-0095jpg
 title: some guy lying on the sidewalk
 tags: japan,travel

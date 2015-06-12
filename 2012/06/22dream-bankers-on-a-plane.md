@@ -1,5 +1,5 @@
 ---
-date: 2012-06-22 07:05:49
+date: 2012-06-22T07:05:49+09:00
 slug: dream-bankers-on-a-plane
 title: dream bankers on a plane
 tags: journal

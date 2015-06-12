@@ -1,5 +1,5 @@
 ---
-date: 2012-06-22 06:57:09
+date: 2012-06-22T06:57:09+09:00
 slug: dream-bottle-shop
 title: dream bottle shop
 tags: journal

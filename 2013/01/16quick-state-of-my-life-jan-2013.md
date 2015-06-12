@@ -1,5 +1,5 @@
 ---
-date: 2013-01-16 07:58:15
+date: 2013-01-16T07:58:15+09:00
 slug: quick-state-of-my-life-jan-2013
 title: quick state of my life jan 2013
 tags: journal,state of my life address

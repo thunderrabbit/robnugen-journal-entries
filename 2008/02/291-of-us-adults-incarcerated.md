@@ -1,5 +1,5 @@
 ---
-date: 2008-02-29 11:35:17
+date: 2008-02-29T11:35:17+09:00
 slug: 1-of-us-adults-incarcerated
 title: '>1% of US adults incarcerated'
 tags: news,terror

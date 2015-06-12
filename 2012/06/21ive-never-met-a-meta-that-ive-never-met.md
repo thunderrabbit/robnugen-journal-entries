@@ -1,5 +1,5 @@
 ---
-date: 2012-06-21 14:16:42
+date: 2012-06-21T14:16:42+09:00
 slug: ive-never-met-a-meta-that-ive-never-met
 title: I've never met a meta that I've never met
 tags: journal

@@ -1,5 +1,5 @@
 ---
-date: 2012-01-29 12:23:28
+date: 2012-01-29T12:23:28+09:00
 slug: wind-whistling-2
 title: wind whistling
 tags: journal

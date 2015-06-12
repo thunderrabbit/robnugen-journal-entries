@@ -1,5 +1,5 @@
 ---
-date: 2007-07-15 14:04:52
+date: 2007-07-15T14:04:52+09:00
 slug: my-love-hate-relationship-with-english-by-akiko-shimada
 title: My Love-Hate Relationship With English, by Akiko Shimada
 tags: guest writer,miscellaneous

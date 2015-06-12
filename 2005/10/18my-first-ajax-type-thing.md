@@ -1,5 +1,5 @@
 ---
-date: 2005-10-18 06:23:25
+date: 2005-10-18T06:23:25+09:00
 slug: my-first-ajax-type-thing
 title: my first AJAX type thing
 tags: my code

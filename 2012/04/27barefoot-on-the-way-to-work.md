@@ -1,5 +1,5 @@
 ---
-date: 2012-04-27 08:59:30
+date: 2012-04-27T08:59:30+09:00
 slug: barefoot-on-the-way-to-work
 title: Barefoot on the way to work
 tags: journal

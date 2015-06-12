@@ -1,5 +1,5 @@
 ---
-date: 2012-04-15 14:34:26
+date: 2012-04-15T14:34:26+09:00
 slug: fishing-boots
 title: fishing boots
 tags: journal

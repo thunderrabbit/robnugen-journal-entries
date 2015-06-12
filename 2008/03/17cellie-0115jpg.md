@@ -1,5 +1,5 @@
 ---
-date: 2008-03-17 14:00:00
+date: 2008-03-17T14:00:00+09:00
 slug: cellie-0115jpg
 title: $800 shirt
 tags: fashion,pink,shirt

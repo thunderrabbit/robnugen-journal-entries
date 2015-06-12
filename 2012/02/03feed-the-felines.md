@@ -1,5 +1,5 @@
 ---
-date: 2012-02-03 08:39:43
+date: 2012-02-03T08:39:43+09:00
 slug: feed-the-felines
 title: feed the felines
 tags: journal

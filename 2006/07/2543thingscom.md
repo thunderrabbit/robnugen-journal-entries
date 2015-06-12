@@ -1,5 +1,5 @@
 ---
-date: 2006-07-25 02:10:50
+date: 2006-07-25T02:10:50+09:00
 slug: 43thingscom
 title: 43things.com
 tags: internet

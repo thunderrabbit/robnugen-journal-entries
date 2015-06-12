@@ -1,5 +1,5 @@
 ---
-date: 2008-02-22 03:32:19
+date: 2008-02-22T03:32:19+09:00
 slug: please-impeach-bush-and-cheney
 title: Please, impeach Bush and Cheney
 tags: impeach,news,terror

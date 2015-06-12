@@ -1,5 +1,5 @@
 ---
-date: 2006-10-02 11:18:02
+date: 2006-10-02T11:18:02+09:00
 slug: my-great-uncle-bill
 title: my Great Uncle Bill
 tags: news

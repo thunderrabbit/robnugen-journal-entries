@@ -1,5 +1,5 @@
 ---
-date: 2006-07-25 02:09:21
+date: 2006-07-25T02:09:21+09:00
 slug: youoscom
 title: youos.com
 tags: internet,open source

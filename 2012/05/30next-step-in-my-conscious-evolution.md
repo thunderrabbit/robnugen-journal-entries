@@ -1,5 +1,5 @@
 ---
-date: 2012-05-30 05:40:34
+date: 2012-05-30T05:40:34+09:00
 slug: next-step-in-my-conscious-evolution
 title: next step in my conscious evolution
 tags: journal

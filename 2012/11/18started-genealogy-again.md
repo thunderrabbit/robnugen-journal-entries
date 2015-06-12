@@ -1,5 +1,5 @@
 ---
-date: 2012-11-18 08:07:07
+date: 2012-11-18T08:07:07+09:00
 slug: started-genealogy-again
 title: started genealogy again
 tags: journal

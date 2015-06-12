@@ -1,5 +1,5 @@
 ---
-date: 2012-05-21 09:14:11
+date: 2012-05-21T09:14:11+09:00
 slug: silly-posterous
 title: Silly posterous
 tags: journal

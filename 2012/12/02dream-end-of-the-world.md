@@ -1,5 +1,5 @@
 ---
-date: 2012-12-02 07:57:17
+date: 2012-12-02T07:57:17+09:00
 slug: dream-end-of-the-world
 title: dream end of the world
 tags: end of world

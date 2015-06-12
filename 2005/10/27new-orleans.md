@@ -1,5 +1,5 @@
 ---
-date: 2005-10-27 00:03:43
+date: 2005-10-27T00:03:43+09:00
 slug: new-orleans
 title: New Orleans
 tags: news

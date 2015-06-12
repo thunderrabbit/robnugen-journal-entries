@@ -1,5 +1,5 @@
 ---
-date: 2012-12-02 08:16:27
+date: 2012-12-02T08:16:27+09:00
 slug: dream-helped-batman
 title: dream helped Batman
 tags: batman

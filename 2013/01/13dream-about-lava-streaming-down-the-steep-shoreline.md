@@ -1,5 +1,5 @@
 ---
-date: 2013-01-13 07:12:39
+date: 2013-01-13T07:12:39+09:00
 slug: dream-about-lava-streaming-down-the-steep-shoreline
 title: dream about lava streaming down the steep shoreline
 tags: dream,journal

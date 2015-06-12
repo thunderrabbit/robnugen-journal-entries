@@ -1,5 +1,5 @@
 ---
-date: 2012-11-21 13:14:14
+date: 2012-11-21T13:14:14+09:00
 slug: enjoying-backbone-js-quite-a-lot
 title: enjoying backbone.js quite a lot
 tags: journal

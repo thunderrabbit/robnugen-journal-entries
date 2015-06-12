@@ -1,5 +1,5 @@
 ---
-date: 2012-02-09 09:11:47
+date: 2012-02-09T09:11:47+09:00
 slug: do-people-fall-for-this
 title: do people fall for this?
 tags: journal

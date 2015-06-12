@@ -1,5 +1,5 @@
 ---
-date: 2012-12-04 10:23:44
+date: 2012-12-04T10:23:44+09:00
 slug: talked-to-kris-from-49
 title: talked to Kris from 49!
 tags: journal

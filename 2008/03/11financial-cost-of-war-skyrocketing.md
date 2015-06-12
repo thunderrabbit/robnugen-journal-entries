@@ -1,5 +1,5 @@
 ---
-date: 2008-03-11 10:38:25
+date: 2008-03-11T10:38:25+09:00
 slug: financial-cost-of-war-skyrocketing
 title: Financial Cost Of War Skyrocketing
 tags: news,terror

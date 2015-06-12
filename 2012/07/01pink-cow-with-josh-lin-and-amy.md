@@ -1,5 +1,5 @@
 ---
-date: 2012-07-01 10:07:19
+date: 2012-07-01T10:07:19+09:00
 slug: pink-cow-with-josh-lin-and-amy
 title: Pink Cow with Josh, Lin and Amy
 tags: journal

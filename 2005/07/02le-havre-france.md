@@ -1,5 +1,5 @@
 ---
-date: 2005-07-02 05:33:46
+date: 2005-07-02T05:33:46+09:00
 slug: le-havre-france
 title: Le Havre, France
 tags: peace boat,travel

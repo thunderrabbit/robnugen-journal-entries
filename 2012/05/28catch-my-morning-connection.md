@@ -1,5 +1,5 @@
 ---
-date: 2012-05-28 09:39:19
+date: 2012-05-28T09:39:19+09:00
 slug: catch-my-morning-connection
 title: Catch my morning connection
 tags: journal

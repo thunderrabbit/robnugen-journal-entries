@@ -1,5 +1,5 @@
 ---
-date: 2005-11-04 00:04:47
+date: 2005-11-04T00:04:47+09:00
 slug: offshore-wind-power
 title: offshore wind power
 tags: technology

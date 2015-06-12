@@ -1,5 +1,5 @@
 ---
-date: 2012-06-21 07:52:28
+date: 2012-06-21T07:52:28+09:00
 slug: watched-yes-man-last-night
 title: watched YES Man last night
 tags: journal

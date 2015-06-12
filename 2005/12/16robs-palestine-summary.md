@@ -1,5 +1,5 @@
 ---
-date: 2005-12-16 11:35:56
+date: 2005-12-16T11:35:56+09:00
 slug: robs-palestine-summary
 title: Rob's Palestine Summary
 tags: palestine,travel

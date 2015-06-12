@@ -1,5 +1,5 @@
 ---
-date: 2005-10-25 06:44:49
+date: 2005-10-25T06:44:49+09:00
 slug: flock-2
 title: Flock!!
 tags: internet

@@ -1,5 +1,5 @@
 ---
-date: 2005-10-08 00:45:05
+date: 2005-10-08T00:45:05+09:00
 slug: unveiling-the-high-energy-milky-way-reveals-dark-accelerators
 title: Unveiling the high energy Milky Way reveals 'dark accelerators
 tags: astronomy

@@ -1,5 +1,5 @@
 ---
-date: 2007-03-06 07:58:16
+date: 2007-03-06T07:58:16+09:00
 slug: oaxaca-report-back-in-olympia
 title: Oaxaca Report Back in Olympia
 tags: guest writer,oaxaca,rochelle,terror

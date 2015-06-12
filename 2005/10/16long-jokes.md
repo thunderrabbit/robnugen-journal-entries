@@ -1,5 +1,5 @@
 ---
-date: 2005-10-16 02:52:04
+date: 2005-10-16T02:52:04+09:00
 slug: long-jokes
 title: long jokes
 tags: miscellaneous

@@ -1,5 +1,5 @@
 ---
-date: 2012-05-03 13:23:31
+date: 2012-05-03T13:23:31+09:00
 slug: deeper-river
 title: Deeper river
 tags: journal

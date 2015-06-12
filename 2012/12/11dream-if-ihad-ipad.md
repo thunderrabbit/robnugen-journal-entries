@@ -1,5 +1,5 @@
 ---
-date: 2012-12-11 07:42:14
+date: 2012-12-11T07:42:14+09:00
 slug: dream-if-ihad-ipad
 title: dream if iHad iPad
 tags: dream,journal,technology

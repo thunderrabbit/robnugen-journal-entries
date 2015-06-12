@@ -1,5 +1,5 @@
 ---
-date: 2012-06-22 11:13:01
+date: 2012-06-22T11:13:01+09:00
 slug: hootsuite-fails-to-test-mass-email
 title: hootsuite fails to test mass email
 tags: journal

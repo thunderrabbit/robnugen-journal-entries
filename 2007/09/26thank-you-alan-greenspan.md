@@ -1,5 +1,5 @@
 ---
-date: 2007-09-26 02:33:41
+date: 2007-09-26T02:33:41+09:00
 slug: thank-you-alan-greenspan
 title: Thank you, Alan Greenspan!
 tags: airplane day,terror

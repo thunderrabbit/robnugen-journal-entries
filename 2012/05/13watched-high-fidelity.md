@@ -1,5 +1,5 @@
 ---
-date: 2012-05-13 03:20:40
+date: 2012-05-13T03:20:40+09:00
 slug: watched-high-fidelity
 title: watched high fidelity
 tags: journal

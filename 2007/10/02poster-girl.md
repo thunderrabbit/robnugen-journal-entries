@@ -1,5 +1,5 @@
 ---
-date: 2007-10-02 00:01:45
+date: 2007-10-02T00:01:45+09:00
 slug: poster-girl
 title: poster girl
 tags: miscellaneous

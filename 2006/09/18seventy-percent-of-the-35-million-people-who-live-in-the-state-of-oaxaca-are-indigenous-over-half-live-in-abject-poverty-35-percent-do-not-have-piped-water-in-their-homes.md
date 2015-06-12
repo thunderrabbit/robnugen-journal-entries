@@ -1,5 +1,5 @@
 ---
-date: 2006-09-18 10:41:45
+date: 2006-09-18T10:41:45+09:00
 slug: seventy-percent-of-the-35-million-people-who-live-in-the-state-of-oaxaca-are-indigenous-over-half-live-in-abject-poverty-35-percent-do-not-have-piped-water-in-their-homes
 title: Rochelle update from oaxaca
 tags: guest writer,news,oaxaca,rochelle,terror

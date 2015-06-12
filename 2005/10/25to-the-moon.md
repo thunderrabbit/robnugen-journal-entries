@@ -1,5 +1,5 @@
 ---
-date: 2005-10-25 06:45:01
+date: 2005-10-25T06:45:01+09:00
 slug: to-the-moon
 title: To the moon!
 tags: astronomy,technology

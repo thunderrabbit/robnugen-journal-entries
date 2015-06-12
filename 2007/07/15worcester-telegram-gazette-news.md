@@ -1,5 +1,5 @@
 ---
-date: 2007-07-15 14:05:19
+date: 2007-07-15T14:05:19+09:00
 slug: worcester-telegram-gazette-news
 title: Worcester Telegram & Gazette News
 tags: news,rant,terror

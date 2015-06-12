@@ -1,5 +1,5 @@
 ---
-date: 2005-06-06 05:45:52
+date: 2005-06-06T05:45:52+09:00
 slug: sri-lanka
 title: Sri Lanka
 tags: Peace Boat,travel

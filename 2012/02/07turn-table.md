@@ -1,5 +1,5 @@
 ---
-date: 2012-02-07 11:18:03
+date: 2012-02-07T11:18:03+09:00
 slug: turn-table
 title: Turn table
 tags: journal

@@ -1,5 +1,5 @@
 ---
-date: 2008-12-18 06:47:49
+date: 2008-12-18T06:47:49+09:00
 slug: above-train-doors
 title: Above train doors
 tags: news

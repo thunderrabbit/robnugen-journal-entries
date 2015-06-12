@@ -1,5 +1,5 @@
 ---
-date: 2012-02-10 10:57:04
+date: 2012-02-10T10:57:04+09:00
 slug: proof-of-concept-bowl
 title: proof of concept bowl
 tags: journal

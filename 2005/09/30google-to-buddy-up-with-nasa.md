@@ -1,5 +1,5 @@
 ---
-date: 2005-09-30 02:37:47
+date: 2005-09-30T02:37:47+09:00
 slug: google-to-buddy-up-with-nasa
 title: Google To Buddy Up With NASA
 tags: internet,news

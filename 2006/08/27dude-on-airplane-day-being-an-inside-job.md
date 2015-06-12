@@ -1,5 +1,5 @@
 ---
-date: 2006-08-27 13:45:56
+date: 2006-08-27T13:45:56+09:00
 slug: dude-on-airplane-day-being-an-inside-job
 title: 'Dude on airplane day being an inside job:'
 tags: airplane day,guest writer,news,terror

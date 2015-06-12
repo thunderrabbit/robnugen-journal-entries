@@ -1,5 +1,5 @@
 ---
-date: 2012-11-18 07:32:28
+date: 2012-11-18T07:32:28+09:00
 slug: tammys-birthday-i-think
 title: Tammy's birthday, I think
 tags: journal

@@ -1,5 +1,5 @@
 ---
-date: 2006-06-30 13:45:30
+date: 2006-06-30T13:45:30+09:00
 slug: 88slide
 title: 88Slide
 tags: internet

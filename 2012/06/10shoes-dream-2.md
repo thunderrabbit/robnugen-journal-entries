@@ -1,5 +1,5 @@
 ---
-date: 2012-06-10 03:09:12
+date: 2012-06-10T03:09:12+09:00
 slug: shoes-dream-2
 title: Shoes dream
 tags: journal

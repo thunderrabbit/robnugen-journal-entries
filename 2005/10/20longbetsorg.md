@@ -1,5 +1,5 @@
 ---
-date: 2005-10-20 06:55:04
+date: 2005-10-20T06:55:04+09:00
 slug: longbetsorg
 title: longbets.org
 tags: miscellaneous

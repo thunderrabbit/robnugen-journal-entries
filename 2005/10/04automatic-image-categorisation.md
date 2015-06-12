@@ -1,5 +1,5 @@
 ---
-date: 2005-10-04 03:39:28
+date: 2005-10-04T03:39:28+09:00
 slug: automatic-image-categorisation
 title: automatic image categorisation
 tags: internet,technology

@@ -1,5 +1,5 @@
 ---
-date: 2012-04-24 09:22:14
+date: 2012-04-24T09:22:14+09:00
 slug: rode-tj-bike-to-work-again-today
 title: rode TJ Bike to work again today
 tags: journal

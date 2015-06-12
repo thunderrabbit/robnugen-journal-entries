@@ -1,5 +1,5 @@
 ---
-date: 2012-07-26 09:14:57
+date: 2012-07-26T09:14:57+09:00
 slug: meteor-funding-announcement
 title: Meteor funding announcement
 tags: journal

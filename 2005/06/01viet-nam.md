@@ -1,5 +1,5 @@
 ---
-date: 2005-06-01 05:40:09
+date: 2005-06-01T05:40:09+09:00
 slug: viet-nam
 title: Viet Nam
 tags: Peace Boat,travel

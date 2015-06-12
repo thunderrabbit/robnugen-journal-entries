@@ -1,5 +1,5 @@
 ---
-date: 2013-01-18 07:23:01
+date: 2013-01-18T07:23:01+09:00
 slug: dinner-with-cecilia-last-night
 title: dinner with Cecilia last night
 tags: journal

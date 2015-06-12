@@ -1,5 +1,5 @@
 ---
-date: 2012-06-20 08:59:09
+date: 2012-06-20T08:59:09+09:00
 slug: bicycle-lesson
 title: Bicycle lesson
 tags: journal

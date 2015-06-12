@@ -1,5 +1,5 @@
 ---
-date: 2012-11-18 07:31:42
+date: 2012-11-18T07:31:42+09:00
 slug: dream-yelled-at-lin
 title: dream yelled at Lin
 tags: journal

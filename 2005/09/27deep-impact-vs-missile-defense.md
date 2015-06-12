@@ -1,5 +1,5 @@
 ---
-date: 2005-09-27 03:47:15
+date: 2005-09-27T03:47:15+09:00
 slug: deep-impact-vs-missile-defense
 title: "Dudeâ\x80\x99s Drivel Â» Deep Impact vs. Missile Defense"
 tags: technology

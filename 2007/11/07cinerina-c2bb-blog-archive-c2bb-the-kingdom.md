@@ -1,5 +1,5 @@
 ---
-date: 2007-11-07 13:47:09
+date: 2007-11-07T13:47:09+09:00
 slug: cinerina-%c2%bb-blog-archive-%c2%bb-the-kingdom
 title: Cinerina » Blog Archive » The Kingdom
 tags: movies,reviews

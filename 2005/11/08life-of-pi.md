@@ -1,5 +1,5 @@
 ---
-date: 2005-11-08 07:42:14
+date: 2005-11-08T07:42:14+09:00
 slug: life-of-pi
 title: Life of Pi
 tags: books

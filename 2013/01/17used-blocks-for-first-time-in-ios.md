@@ -1,5 +1,5 @@
 ---
-date: 2013-01-17 07:51:23
+date: 2013-01-17T07:51:23+09:00
 slug: used-blocks-for-first-time-in-ios
 title: used blocks for first time in iOS
 tags: journal,programming

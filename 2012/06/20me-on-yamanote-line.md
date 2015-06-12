@@ -1,5 +1,5 @@
 ---
-date: 2012-06-20 10:26:58
+date: 2012-06-20T10:26:58+09:00
 slug: me-on-yamanote-line
 title: Me on Yamanote line
 tags: journal

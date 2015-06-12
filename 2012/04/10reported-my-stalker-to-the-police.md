@@ -1,5 +1,5 @@
 ---
-date: 2012-04-10 01:53:25
+date: 2012-04-10T01:53:25+09:00
 slug: reported-my-stalker-to-the-police
 title: reported my stalker to the police
 tags: journal

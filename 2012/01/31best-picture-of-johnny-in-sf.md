@@ -1,5 +1,5 @@
 ---
-date: 2012-01-31 07:56:05
+date: 2012-01-31T07:56:05+09:00
 slug: best-picture-of-johnny-in-sf
 title: Best picture of Johnny in SF
 tags: travel

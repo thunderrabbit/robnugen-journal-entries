@@ -1,5 +1,5 @@
 ---
-date: 2008-02-25 10:37:27
+date: 2008-02-25T10:37:27+09:00
 slug: pythons-on-the-move
 title: Pythons on the move
 tags: news

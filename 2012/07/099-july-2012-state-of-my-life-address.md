@@ -1,5 +1,5 @@
 ---
-date: 2012-07-09 14:39:02
+date: 2012-07-09T14:39:02+09:00
 slug: 9-july-2012-state-of-my-life-address
 title: '9 July 2012: state of my life address'
 tags: journal

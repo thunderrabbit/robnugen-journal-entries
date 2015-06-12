@@ -1,5 +1,5 @@
 ---
-date: 2012-12-19 07:48:12
+date: 2012-12-19T07:48:12+09:00
 slug: a-bit-chilly
 title: a bit chilly
 tags: journal

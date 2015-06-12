@@ -1,5 +1,5 @@
 ---
-date: 2006-08-22 12:34:35
+date: 2006-08-22T12:34:35+09:00
 slug: snakes-on-a-plane
 title: Snakes on a Plane
 tags: movies,reviews

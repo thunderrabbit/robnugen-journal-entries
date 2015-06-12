@@ -1,5 +1,5 @@
 ---
-date: 2012-12-10 06:45:55
+date: 2012-12-10T06:45:55+09:00
 slug: dream-helping-at-uu-event
 title: dream helping at UU event
 tags: dream,journal

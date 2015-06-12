@@ -1,5 +1,5 @@
 ---
-date: 2009-02-06 03:21:31
+date: 2009-02-06T03:21:31+09:00
 slug: investigation
 title: investigation
 tags: news

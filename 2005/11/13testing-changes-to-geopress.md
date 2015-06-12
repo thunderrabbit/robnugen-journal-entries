@@ -1,5 +1,5 @@
 ---
-date: 2005-11-13 03:39:54
+date: 2005-11-13T03:39:54+09:00
 slug: testing-changes-to-geopress
 title: testing changes to geopress
 tags: my code
