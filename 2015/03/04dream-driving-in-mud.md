@@ -2,7 +2,7 @@
 title: dream driving in mud
 tags: dream
 author: Rob Nugen
-date: 2015-03-04 06:01 JST
+date: 2015-03-04T06:01:00+09:00
 ---
 
 ##06:01 Wednesday 04 March 2015 JST##

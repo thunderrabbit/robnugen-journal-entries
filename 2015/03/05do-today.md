@@ -2,7 +2,7 @@
 title: Do Today
 tags: todo, today
 author: Rob Nugen
-date: 2015-03-05 07:36 JST
+date: 2015-03-05T07:36:00+09:00
 ---
 
 ##07:36 Thursday 05 March 2015 JST##

@@ -2,7 +2,7 @@
 title: Recently
 tags: recently
 author: Rob Nugen
-date: 2015-03-03 08:57 JST
+date: 2015-03-03T08:57:00+09:00
 ---
 
 ##08:57 Tuesday 03 March 2015 JST##

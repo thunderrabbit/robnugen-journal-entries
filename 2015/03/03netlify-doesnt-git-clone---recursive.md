@@ -2,7 +2,7 @@
 title: Netlify doesn't git clone --recursive
 tags: netlify, git, journal
 author: Rob Nugen
-date: 2015-03-03 22:25 JST
+date: 2015-03-03T22:25:00+09:00
 ---
 
 ##22:25 Tuesday 03 March 2015 JST##
