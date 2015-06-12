@@ -2,7 +2,7 @@
 title: Chapter in language
 tags: language
 author: Rob Nugen
-date: 2015-03-24 10:11 JST
+date: 2015-03-24T10:11:00+09:00
 ---
 
 ##10:11 Tuesday 24 March 2015 JST##

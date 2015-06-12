@@ -2,7 +2,7 @@
 title: Set up new.robnugen.com on DH
 tags: dh, site
 author: Rob Nugen
-date: 2015-03-06 21:02 JST
+date: 2015-03-06T21:02:00+09:00
 ---
 
 ##21:02 Friday 06 March 2015 JST##

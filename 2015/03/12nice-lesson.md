@@ -2,7 +2,7 @@
 title: Nice lesson
 tags: lesson
 author: Rob Nugen
-date: 2015-03-12 20:31 JST
+date: 2015-03-12T20:31:00+09:00
 ---
 
 ##20:31 Thursday 12 March 2015 JST##

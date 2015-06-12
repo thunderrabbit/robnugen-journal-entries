@@ -2,7 +2,7 @@
 title: Former student now present student
 tags: nova, jb
 author: Rob Nugen
-date: 2015-03-24 11:32 JST
+date: 2015-03-24T11:32:00+09:00
 ---
 
 ##11:32 Tuesday 24 March 2015 JST##

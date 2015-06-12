@@ -2,7 +2,7 @@
 title: more easily make dream entries
 tags: journal
 author: Rob Nugen
-date: 2015-03-17 16:44 JST
+date: 2015-03-17T16:44:00+09:00
 ---
 
 ##16:44 Tuesday 17 March 2015 JST##

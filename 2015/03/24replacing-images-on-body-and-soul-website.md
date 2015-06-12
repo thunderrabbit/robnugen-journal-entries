@@ -2,7 +2,7 @@
 title: replacing images on Body and Soul website
 tags: work
 author: Rob Nugen
-date: 2015-03-24 13:11 JST
+date: 2015-03-24T13:11:00+09:00
 ---
 
 ##13:11 Tuesday 24 March 2015 JST##

@@ -2,7 +2,7 @@
 title: toy store today
 tags: toys
 author: Rob Nugen
-date: 2015-03-27 22:53 JST
+date: 2015-03-27T22:53:00+09:00
 ---
 
 ##22:53 Friday 27 March 2015 JST##

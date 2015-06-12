@@ -2,7 +2,7 @@
 title: slow day today
 tags: fast, first
 author: Rob Nugen
-date: 2015-03-22 20:35 JST
+date: 2015-03-22T20:35:00+09:00
 ---
 
 ##20:35 Sunday 22 March 2015 JST##

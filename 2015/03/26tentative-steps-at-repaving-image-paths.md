@@ -2,7 +2,7 @@
 title: tentative steps at repaving image paths
 tags: images,journal
 author: Rob Nugen
-date: 2015-03-26 14:22 JST
+date: 2015-03-26T14:22:00+09:00
 ---
 
 ##14:22 Thursday 26 March 2015 JST##

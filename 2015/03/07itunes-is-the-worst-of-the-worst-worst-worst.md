@@ -2,7 +2,7 @@
 title: iTunes is the worst of the worst worst worst
 tags: hate
 author: Rob Nugen
-date: 2015-03-07 10:33 JST
+date: 2015-03-07T10:33:00+09:00
 ---
 
 ##10:33 Saturday 07 March 2015 JST##

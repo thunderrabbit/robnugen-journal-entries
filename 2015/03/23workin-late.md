@@ -2,7 +2,7 @@
 title: Workin late
 tags: work
 author: Rob Nugen
-date: 2015-03-23 22:43 JST
+date: 2015-03-23T22:43:00+09:00
 ---
 
 ##22:43 Monday 23 March 2015 JST##

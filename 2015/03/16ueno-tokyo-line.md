@@ -2,7 +2,7 @@
 title: Ueno-Tokyo line
 tags: trains
 author: Rob Nugen
-date: 2015-03-16 13:39 JST
+date: 2015-03-16T13:39:00+09:00
 ---
 
 ##13:39 Monday 16 March 2015 JST##

@@ -2,7 +2,7 @@
 title: some more svg stuff
 tags: svg
 author: Rob Nugen
-date: 2015-03-22 11:02 JST
+date: 2015-03-22T11:02:00+09:00
 ---
 
 ##11:02 Sunday 22 March 2015 JST##

@@ -2,7 +2,7 @@
 title: Markdown css per paragraph?
 tags: markdown
 author: Rob Nugen
-date: 2015-03-07 11:45 JST
+date: 2015-03-07T11:45:00+09:00
 ---
 
 ##11:45 Saturday 07 March 2015 JST##

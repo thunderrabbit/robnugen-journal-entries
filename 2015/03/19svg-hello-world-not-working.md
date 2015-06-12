@@ -2,7 +2,7 @@
 title: svg hello world not working
 tags: hmmm
 author: Rob Nugen
-date: 2015-03-19 18:03 JST
+date: 2015-03-19T18:03:00+09:00
 ---
 
 ##18:03 Thursday 19 March 2015 JST##

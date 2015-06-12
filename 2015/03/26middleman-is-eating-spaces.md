@@ -2,7 +2,7 @@
 title: Middleman is eating spaces
 tags: middleman
 author: Rob Nugen
-date: 2015-03-26 17:22 JST
+date: 2015-03-26T17:22:00+09:00
 ---
 
 ##17:22 Thursday 26 March 2015 JST##

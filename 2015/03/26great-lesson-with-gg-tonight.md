@@ -2,7 +2,7 @@
 title: Great lesson with GG tonight
 tags: lesson, gg
 author: Rob Nugen
-date: 2015-03-26 20:35 JST
+date: 2015-03-26T20:35:00+09:00
 ---
 
 ##20:35 Thursday 26 March 2015 JST##

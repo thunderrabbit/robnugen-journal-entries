@@ -2,7 +2,7 @@
 title: Meditation timer finally finally done
 tags: simple, meditation
 author: Rob Nugen
-date: 2015-03-14 17:15 JST
+date: 2015-03-14T17:15:00+09:00
 ---
 
 ##17:15 Saturday 14 March 2015 JST##

@@ -2,7 +2,7 @@
 title: bit tips for live md5 count
 tags: haha
 author: Rob Nugen
-date: 2015-03-10 18:36 JST
+date: 2015-03-10T18:36:00+09:00
 ---
 
 ##18:36 Tuesday 10 March 2015 JST##

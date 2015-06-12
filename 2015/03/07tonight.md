@@ -2,7 +2,7 @@
 title: tonight
 tags: work
 author: Rob Nugen
-date: 2015-03-07 21:54 JST
+date: 2015-03-07T21:54:00+09:00
 ---
 
 ##21:54 Saturday 07 March 2015 JST##

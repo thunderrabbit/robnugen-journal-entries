@@ -2,7 +2,7 @@
 title: lessons
 tags: lessons
 author: Rob Nugen
-date: 2015-03-24 23:34 JST
+date: 2015-03-24T23:34:00+09:00
 ---
 
 ##23:34 Tuesday 24 March 2015 JST##

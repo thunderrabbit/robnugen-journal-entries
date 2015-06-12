@@ -2,7 +2,7 @@
 title: cramming
 tags: study
 author: Rob Nugen
-date: 2015-03-18 16:54 JST
+date: 2015-03-18T16:54:00+09:00
 ---
 
 ##16:54 Wednesday 18 March 2015 JST##

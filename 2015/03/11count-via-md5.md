@@ -2,7 +2,7 @@
 title: count via md5
 tags: yay
 author: Rob Nugen
-date: 2015-03-11 16:13 JST
+date: 2015-03-11T16:13:00+09:00
 ---
 
 ##16:13 Wednesday 11 March 2015 JST##

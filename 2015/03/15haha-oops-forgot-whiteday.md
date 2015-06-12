@@ -2,7 +2,7 @@
 title: Haha oops forgot White Day
 tags: oops
 author: Rob Nugen
-date: 2015-03-15 10:01 JST
+date: 2015-03-15T10:01:00+09:00
 ---
 
 ##10:01 Sunday 15 March 2015 JST##

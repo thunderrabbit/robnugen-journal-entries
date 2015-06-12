@@ -2,7 +2,7 @@
 title: Starting Over (movie)
 tags: movie, starting over
 author: Rob Nugen
-date: 2015-03-07 21:52 JST
+date: 2015-03-07T21:52:00+09:00
 ---
 
 ##21:52 Saturday 07 March 2015 JST##

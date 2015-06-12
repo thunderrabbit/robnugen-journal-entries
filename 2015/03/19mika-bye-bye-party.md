@@ -2,7 +2,7 @@
 title: Mika bye bye party
 tags: mika, kai
 author: Rob Nugen
-date: 2015-03-19 23:14 JST
+date: 2015-03-19T23:14:00+09:00
 ---
 
 ##23:14 Thursday 19 March 2015 JST##

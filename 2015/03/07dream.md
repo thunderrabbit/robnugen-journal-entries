@@ -2,7 +2,7 @@
 title: dreams, including being rich
 tags: dreams
 author: Rob Nugen
-date: 2015-03-07 06:01 JST
+date: 2015-03-07T06:01:00+09:00
 ---
 
 ##06:01 Saturday 07 March 2015 JST##

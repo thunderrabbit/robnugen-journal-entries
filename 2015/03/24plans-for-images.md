@@ -2,7 +2,7 @@
 title: plans for images
 tags: images, site
 author: Rob Nugen
-date: 2015-03-24 13:13 JST
+date: 2015-03-24T13:13:00+09:00
 ---
 
 ##13:13 Tuesday 24 March 2015 JST##

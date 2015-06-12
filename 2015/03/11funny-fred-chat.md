@@ -2,7 +2,7 @@
 title: funny Fred chat
 tags: fred
 author: Rob Nugen
-date: 2015-03-11 16:14 JST
+date: 2015-03-11T16:14:00+09:00
 ---
 
 ##16:14 Wednesday 11 March 2015 JST##

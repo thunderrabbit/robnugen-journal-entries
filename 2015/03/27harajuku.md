@@ -2,7 +2,7 @@
 title: harajuku
 tags: harajuku
 author: Rob Nugen
-date: 2015-03-27 18:18 JST
+date: 2015-03-27T18:18:00+09:00
 ---
 
 ##18:18 Friday 27 March 2015 JST##

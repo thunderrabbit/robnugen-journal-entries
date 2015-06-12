@@ -2,7 +2,7 @@
 title: Hello Unity
 tags: unity
 author: Rob Nugen
-date: 2015-03-23 16:23 JST
+date: 2015-03-23T16:23:00+09:00
 ---
 
 ##16:23 Monday 23 March 2015 JST##

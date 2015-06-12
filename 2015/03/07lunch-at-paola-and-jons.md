@@ -2,7 +2,7 @@
 title: Lunch at Paola and Jon's
 tags: lunch, pj, lin
 author: Rob Nugen
-date: 2015-03-07 11:12 JST
+date: 2015-03-07T11:12:00+09:00
 ---
 
 ##11:12 Saturday 07 March 2015 JST##

@@ -2,7 +2,7 @@
 title: language day
 tags: teaching, studying
 author: Rob Nugen
-date: 2015-03-28 10:55 JST
+date: 2015-03-28T10:55:00+09:00
 ---
 
 ##10:55 Saturday 28 March 2015 JST##

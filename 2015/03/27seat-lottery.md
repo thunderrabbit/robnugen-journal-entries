@@ -2,7 +2,7 @@
 title: seat lottery
 tags: trains
 author: Rob Nugen
-date: 2015-03-27 14:17 JST
+date: 2015-03-27T14:17:00+09:00
 ---
 
 ##14:17 Friday 27 March 2015 JST##

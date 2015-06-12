@@ -2,7 +2,7 @@
 title: uploaded apps
 tags: apps
 author: Rob Nugen
-date: 2015-03-16 13:42 JST
+date: 2015-03-16T13:42:00+09:00
 ---
 
 ##13:42 Monday 16 March 2015 JST##

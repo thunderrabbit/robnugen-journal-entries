@@ -2,7 +2,7 @@
 title: hit it with a hammer solution
 tags: code, perl
 author: Rob Nugen
-date: 2015-03-12 17:27 JST
+date: 2015-03-12T17:27:00+09:00
 ---
 
 ##17:27 Thursday 12 March 2015 JST##

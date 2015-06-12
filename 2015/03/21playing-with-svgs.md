@@ -2,7 +2,7 @@
 title: playing with SVGs
 tags: svg
 author: Rob Nugen
-date: 2015-03-21 22:05 JST
+date: 2015-03-21T22:05:00+09:00
 ---
 
 ##22:05 Saturday 21 March 2015 JST##

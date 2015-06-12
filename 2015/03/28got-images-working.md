@@ -2,7 +2,7 @@
 title: got images working
 tags: images, middleman
 author: Rob Nugen
-date: 2015-03-28 09:56 JST
+date: 2015-03-28T09:56:00+09:00
 ---
 
 ##09:56 Saturday 28 March 2015 JST##
