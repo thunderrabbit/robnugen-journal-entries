@@ -1,5 +1,4 @@
 ---
-date: 2013-03-02 10:17:47
 slug: first-state-of-my-life-address-in-2013
 title: first state of my life address in 2013
 tags: state of my life address

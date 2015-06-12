@@ -2,7 +2,7 @@
 title: Finished md5 cheater v1.0
 tags: md5, Perl
 author: Rob Nugen
-date: 2015-02-27 10:25 JST
+date: 2015-02-27T10:25:00+09:00
 ---
 
 ##14:25 Friday 27 February 2015 JST##

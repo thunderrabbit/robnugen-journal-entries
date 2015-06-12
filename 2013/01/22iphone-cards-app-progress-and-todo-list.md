@@ -1,5 +1,4 @@
 ---
-date: 2013-01-22 00:43:03
 slug: iphone-cards-app-progress-and-todo-list
 title: iPhone cards app progress and todo list
 tags: journal,programming

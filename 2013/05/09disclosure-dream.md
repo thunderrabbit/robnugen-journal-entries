@@ -1,5 +1,4 @@
 ---
-date: 2013-05-09 06:53:58
 slug: disclosure-dream
 title: disclosure dream
 tags: disclosure,dream,journal

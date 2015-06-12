@@ -1,5 +1,4 @@
 ---
-date: 2013-03-30 10:57:32
 slug: new-server-for-ab
 title: new server for AB
 tags: internet,work

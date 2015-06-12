@@ -1,5 +1,4 @@
 ---
-date: 2013-02-10 12:57:50
 slug: killer-snowman-on-drawquest
 title: killer snowman on DrawQuest
 tags: art,technology

@@ -1,5 +1,4 @@
 ---
-date: 2013-02-18 14:50:49
 slug: ycombinator-looks-down-from-here
 title: ycombinator looks down from here
 tags: internet

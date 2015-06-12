@@ -1,5 +1,4 @@
 ---
-date: 2013-01-21 00:07:43
 slug: recent-programming-summary
 title: recent programming summary
 tags: journal,programming

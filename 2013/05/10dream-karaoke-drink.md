@@ -1,5 +1,4 @@
 ---
-date: 2013-05-10 07:42:13
 slug: dream-karaoke-drink
 title: dream karaoke drink
 tags: dream,journal,music

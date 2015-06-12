@@ -1,5 +1,4 @@
 ---
-date: 2013-05-17 08:05:25
 slug: marble-track-3-had-its-first-accident
 title: Marble Track 3 had its first "accident"
 tags: mt3

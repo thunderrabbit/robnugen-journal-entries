@@ -1,5 +1,4 @@
 ---
-date: 2013-04-22 08:36:52
 slug: after-the-high-score-list-is-cleared
 title: After the high score list is cleared
 tags: journal
