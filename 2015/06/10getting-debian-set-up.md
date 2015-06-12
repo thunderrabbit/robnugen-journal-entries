@@ -18,9 +18,9 @@ Next steps in that direction are
 1. ~~download my work repos~~
 1. ~~connect the repos to virtualbox via SFTP in Sublimetext~~
 1. make some changes and fix some bugs
-1. download journal entries
+1. ~~download journal entries~~
 1. set up my middleman repo with git clone --recursive
-1. edit journal entry
+1. ~~edit journal entry~~
 1. set up my push, pull, publish script
 
 ## 15:14 Thursday 11 June 2015 JST
