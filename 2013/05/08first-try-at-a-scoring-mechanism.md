@@ -1,5 +1,5 @@
 ---
-date: 2013-05-08 06:57:09
+date: 2013-05-08T06:57:09+09:00
 slug: first-try-at-a-scoring-mechanism
 title: first try at a scoring mechanism
 tags: journal

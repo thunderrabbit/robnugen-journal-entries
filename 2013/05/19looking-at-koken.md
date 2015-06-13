@@ -1,5 +1,5 @@
 ---
-date: 2013-05-19 12:18:02
+date: 2013-05-19T12:18:02+09:00
 slug: looking-at-koken
 title: Looking at Koken
 tags: journal

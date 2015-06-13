@@ -1,5 +1,5 @@
 ---
-date: 2013-05-09 13:35:12
+date: 2013-05-09T13:35:12+09:00
 slug: awesome-example-requiring-temp-tables
 title: awesome example requiring temp tables
 tags: programming

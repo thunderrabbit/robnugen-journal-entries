@@ -1,5 +1,5 @@
 ---
-date: 2013-01-27 09:17:56
+date: 2013-01-27T09:17:56+09:00
 slug: 18000-cool-jokes-funny-typo
 title: 18000 cool jokes funny typo
 tags: apps,typos

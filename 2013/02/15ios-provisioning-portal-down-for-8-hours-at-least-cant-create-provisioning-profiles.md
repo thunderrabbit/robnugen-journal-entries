@@ -1,5 +1,5 @@
 ---
-date: 2013-02-15 07:42:40
+date: 2013-02-15T07:42:40+09:00
 slug: ios-provisioning-portal-down-for-8-hours-at-least-cant-create-provisioning-profiles
 title: ios provisioning portal down for 8 hours (at least) can't create provisioning
   profiles

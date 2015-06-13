@@ -1,5 +1,5 @@
 ---
-date: 2013-01-03 07:56:57
+date: 2013-01-03T07:56:57+09:00
 slug: colleens-painting-on-koalastothemax
 title: Colleen's painting on koalastothemax
 tags: internet

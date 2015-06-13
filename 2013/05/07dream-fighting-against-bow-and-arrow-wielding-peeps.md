@@ -1,5 +1,5 @@
 ---
-date: 2013-05-07 06:59:49
+date: 2013-05-07T06:59:49+09:00
 slug: dream-fighting-against-bow-and-arrow-wielding-peeps
 title: dream fighting against bow and arrow wielding peeps
 tags: dream,journal

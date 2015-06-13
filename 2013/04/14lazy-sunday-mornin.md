@@ -1,5 +1,5 @@
 ---
-date: 2013-04-14 11:24:10
+date: 2013-04-14T11:24:10+09:00
 slug: lazy-sunday-mornin
 title: lazy Sunday mornin
 tags: colleen

@@ -1,5 +1,5 @@
 ---
-date: 2013-01-02 14:44:08
+date: 2013-01-02T14:44:08+09:00
 slug: met-lins-family-today
 title: met Lin's family today
 tags: family,lunch

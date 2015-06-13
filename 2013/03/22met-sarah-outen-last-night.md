@@ -1,5 +1,5 @@
 ---
-date: 2013-03-22 11:19:39
+date: 2013-03-22T11:19:39+09:00
 slug: met-sarah-outen-last-night
 title: met Sarah Outen last night
 tags: journal

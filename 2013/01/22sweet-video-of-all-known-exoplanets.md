@@ -1,5 +1,5 @@
 ---
-date: 2013-01-22 11:20:15
+date: 2013-01-22T11:20:15+09:00
 slug: sweet-video-of-all-known-exoplanets
 title: sweet video of all known exoplanets
 tags: astronomy,technology
