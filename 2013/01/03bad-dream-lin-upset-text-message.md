@@ -1,4 +1,5 @@
 ---
+date: 2013-01-03 07:17:34
 slug: bad-dream-lin-upset-text-message
 title: bad dream Lin upset text message
 tags: dream,journal,lin

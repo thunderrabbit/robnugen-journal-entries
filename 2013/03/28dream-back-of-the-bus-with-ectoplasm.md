@@ -1,4 +1,5 @@
 ---
+date: 2013-03-28 06:31:10
 slug: dream-back-of-the-bus-with-ectoplasm
 title: dream back of the bus with ectoplasm
 tags: dream,journal

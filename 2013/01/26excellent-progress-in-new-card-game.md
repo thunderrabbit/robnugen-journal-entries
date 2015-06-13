@@ -1,4 +1,5 @@
 ---
+date: 2013-01-26 12:46:59
 slug: excellent-progress-in-new-card-game
 title: excellent progress in new card game
 tags: journal,programming,technology

@@ -1,4 +1,5 @@
 ---
+date: 2013-03-02 09:25:59
 slug: cornbread-day
 title: cornbread day
 tags: cornbread

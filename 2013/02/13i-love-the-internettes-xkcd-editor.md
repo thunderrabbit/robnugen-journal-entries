@@ -1,4 +1,5 @@
 ---
+date: 2013-02-13 13:14:02
 slug: i-love-the-internettes-xkcd-editor
 title: I love the internettes (xkcd editor)
 tags: internet

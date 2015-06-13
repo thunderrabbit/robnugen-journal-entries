@@ -1,4 +1,5 @@
 ---
+date: 2013-02-17 09:50:08
 slug: shawshank-and-a-i-yesterday
 title: Shawshank and A.I. yesterday
 tags: lin,movies

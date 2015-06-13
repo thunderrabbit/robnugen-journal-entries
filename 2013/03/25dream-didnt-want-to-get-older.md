@@ -1,4 +1,5 @@
 ---
+date: 2013-03-25 03:46:42
 slug: dream-didnt-want-to-get-older
 title: dream didn't want to get older
 tags: dream,journal
