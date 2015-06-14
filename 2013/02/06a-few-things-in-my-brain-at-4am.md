@@ -1,4 +1,5 @@
 ---
+date: 2013-02-06T06:11:42+09:00
 slug: a-few-things-in-my-brain-at-4am
 title: a few things in my brain at 4am
 tags: state of my life address

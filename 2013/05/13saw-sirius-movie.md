@@ -1,4 +1,5 @@
 ---
+date: 2013-05-13T01:07:24+09:00
 slug: saw-sirius-movie
 title: saw Sirius movie
 tags: disclosure

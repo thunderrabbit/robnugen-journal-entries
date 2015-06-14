@@ -1,4 +1,5 @@
 ---
+date: 2013-01-28T05:21:06+09:00
 slug: dream-sabina-traveler
 title: dream Sabina traveler
 tags: dream,journal

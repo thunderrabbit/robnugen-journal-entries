@@ -1,4 +1,5 @@
 ---
+date: 2013-05-18T07:04:17+09:00
 slug: using-duplicity-to-backup-marble-track-3
 title: using duplicity to backup Marble Track 3
 tags: mt3

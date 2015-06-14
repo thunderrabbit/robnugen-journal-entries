@@ -1,4 +1,5 @@
 ---
+date: 2013-03-30T08:00:30+09:00
 slug: time-to-post-an-xkcd-comic
 title: time to post an xkcd comic
 tags: internet,technology

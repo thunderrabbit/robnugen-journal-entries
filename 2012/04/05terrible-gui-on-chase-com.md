@@ -5,7 +5,7 @@ title: terrible GUI on Chase.com
 tags: rant
 ---
 
-##09:47 Thursday 05 April 2012
+## 09:47 Thursday 05 April 2012
 
 I may sound like Grampa on The Simpsons, but the interface to provide feedback to chase.com can be improved with just a few obvious tweaks.
 

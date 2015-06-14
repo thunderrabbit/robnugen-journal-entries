@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2015-03-11T16:14:00+09:00
 ---
 
-##16:14 Wednesday 11 March 2015 JST##
+## 16:14 Wednesday 11 March 2015 JST##
 
 Fred: Only 2 bands so far, right?
 

@@ -1,4 +1,5 @@
 ---
+date: 2013-04-16T08:54:31+09:00
 slug: shtuffs
 title: Shtuffs
 tags: journal

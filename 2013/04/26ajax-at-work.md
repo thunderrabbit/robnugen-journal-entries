@@ -1,4 +1,5 @@
 ---
+date: 2013-04-26T08:00:47+09:00
 slug: ajax-at-work
 title: ajax at work
 tags: work
