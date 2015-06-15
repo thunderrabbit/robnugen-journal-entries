@@ -24,3 +24,14 @@ and keep my progress synced across devices!!
 
 Oh, and I put some of our homemade yogurt into a towel, hung it in the
 fridge, and hope it will make cheese.  Let's see.
+
+Oh, and I made a maze for Katerina.
+
+- -
+
+Oh the one big thing I can't do yet is type Japanese on the Debian
+box.  I looked a the docs a bit and was like, ummmm..
+
+Hopefully tomorrow I'll use the new old Dell Debian box to make an
+edit to AB website.  T added a ticket today, and hopefully it will be
+an easy fix.
