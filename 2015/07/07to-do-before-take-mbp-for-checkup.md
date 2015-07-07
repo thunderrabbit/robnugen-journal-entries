@@ -8,7 +8,7 @@ date: 2015-07-07T08:38:30+09:00
 ## 08:38 Tuesday 07 July 2015 JST
 
 1. ~~write entry about delvin~~
-1. move all journal entries online
+1. ~~move all journal entries online~~
 1. get AB and CB sites working
 1. move Pong
 1. ~~archive all ssh keys~~
