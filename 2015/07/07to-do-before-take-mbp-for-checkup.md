@@ -9,9 +9,10 @@ date: 2015-07-07T08:38:30+09:00
 
 1. ~~write entry about delvin~~
 1. ~~move all journal entries online~~
-1. get AB and CB sites working
-1. move Pong
+1. ~~get AB site working locally~~
+1. ~~get CB site working locally~~
+1. confirm ~~move~~ed ~~Pong~~
 1. ~~archive all ssh keys~~
-1. make sure all Portal 2 builds are uploaded
-1. draw a maze
-1. upload maze
+1. ~~make sure all Portal 2 builds are uploaded~~
+1. ~~draw a maze~~
+1. ~~upload maze~~
