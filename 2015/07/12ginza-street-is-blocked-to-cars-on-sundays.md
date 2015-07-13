@@ -10,3 +10,5 @@ date: 2015-07-12T13:52:25+09:00
 After getting my computer, I walked up and down the street which had a
 few umbrella tables and lots of shoppers instead of cars.  It seemed
 like a good thing to post on Periscope, so I did.
+
+[https://twitter.com/thunderrabbit/status/620084902663356416](https://twitter.com/thunderrabbit/status/620084902663356416)
