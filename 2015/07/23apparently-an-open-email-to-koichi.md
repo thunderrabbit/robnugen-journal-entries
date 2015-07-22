@@ -22,6 +22,8 @@ At this point, I've cracked into the cards starting with 真っ
 1. 真っ赤　まっか 　pure red
 1. 真っ暗　まっくら　pitch dark
 1. 真っ黒　まっくろ　pitch black
+
+
 and those are okay, but these
 
 1. 苦い　にがい　bitter
@@ -32,7 +34,7 @@ and those are okay, but these
 6. 無駄　むだ　wasteful
 7. 無料　むり　impossible
 
-are makin' me crazy!   
+are makin' me crazy!
 
 How do you like squarespace?  How'd you make your [TextFugu stickers](http://store.tofugu.com/shop/sticker-pack-combo-pack?category=Goods)?  I want to do a similar thing with my mazes http://www.amazeaweek.net/ but blah blah blah
 
