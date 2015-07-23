@@ -11,8 +11,8 @@ Thanks Koichi!
 
 I think I'm in the honeymoon of conscious incompetence.
 
-I've been doing Anki each day as your book suggests, at 5am as your
-book suggests, and I've got between 70 and 100 cards queued up each
+I've been doing Anki each day as your book suggests, at 5am as [your
+book](http://www.textfugu.com/lessons/) suggests, and I've got between 70 and 100 cards queued up each
 day.  My latest progress is visible at http://www.robnugen.com (if you
 don't see any Japanese entries in the top page, it may mean progress
 has stopped progressing!)
