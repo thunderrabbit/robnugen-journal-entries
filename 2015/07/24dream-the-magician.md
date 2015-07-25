@@ -1,5 +1,5 @@
 ---
-title: Dream: The Magician
+title: Dream： The Magician
 tags: dream
 author: Rob Nugen
 date: 2015-07-24T09:13:02+09:00
