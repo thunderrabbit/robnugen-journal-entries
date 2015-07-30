@@ -15,3 +15,12 @@ entry to do so.
 Also poppopchaos.meteor.com will refresh to the new domain.  I didn't
 worry about moving data over because it woulda taken more time than
 it's worth.
+
+[Archive of the first alpha version of Pop Pop Chaos](https://archive.is/RlNik)
+
+## 23:07 Wednesday 29 July 2015 JST
+
+[Archive of the game after adding the leaderboard](https://archive.is/9vlpE)
+
+(looks like only one person has bothered to sign in.  I bet it was Fred.)
+
