@@ -22,3 +22,7 @@ https://archive.is/rVo0W/
 Next step is to get the balls moving!  Thanks to Joe's demo, I have a great
 chance of finishing it tonight.
 
+## 1am or so
+
+Haha I couldn't get the code to work at all.  It seems I'm not smart
+enough to combine Deps and whatever Joe is using to move the balls.
