@@ -36,3 +36,7 @@ subject: *pre-sales questions about Anker USB 3.0 9-Port Hub + 5V 2.1A Charging 
     
        Thanks!
         - Rob
+
+## 13:19 Wednesday 14 October 2015 JST
+
+Though I may have missed it, I don't think they answered.  Boo.
