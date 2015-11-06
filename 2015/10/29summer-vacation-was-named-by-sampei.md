@@ -1,5 +1,5 @@
 ---
-title: "Summer Vacation" was named by Sampei
+title: Summer Vacation was named by Sampei
 tags: art
 author: Rob Nugen
 date: 2015-10-29T17:48:55+09:00
