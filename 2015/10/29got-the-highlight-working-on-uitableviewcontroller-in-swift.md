@@ -13,7 +13,7 @@ override func tableView(tableView: UITableView, didSelectRowAtIndexPath indexPat
 }
 </pre>
 
-Now, I understand the code inside the function is a joke and 1/2, but
+Now, I understand the code inside the function is a laugh and 1/2, but
 it works and I'm leaving it until I know how to do it in a more
 canonical way.  But anyway, highlighting words in the word list will
 now cause the words' deets to be displayed on the detail pane.

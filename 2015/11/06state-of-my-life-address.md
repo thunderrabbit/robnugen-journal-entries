@@ -198,7 +198,7 @@ clock to wait for Lin.
     data separately; .. hmm maybe I'll try to install a SpiderOak
     client on my not-really-used Ubuntu machine which is essentially
     just wasting away on my desk.  (it's the one I got as a possible
-    (interim) replacement for this machine.
+    (interim) replacement for this machine.)
 
 37. I need to pee, but Lin's about to arrive in about 2 minutes haha
 
