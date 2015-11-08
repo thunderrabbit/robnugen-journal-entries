@@ -53,7 +53,7 @@ date: 2015-11-06T18:59:43+09:00
 41. I recently bought some new markers, but haven't used them yet!
 Hopefully I will like the colors.
 
-[![markers](/images/art/supplies/markers_2015-11-06_21.55.20.jpg)](/images/art/supplies/thumbs/markers_2015-11-06_21.55.20.jpg)
+    [![markers](/images/art/supplies/markers_2015-11-06_21.55.20.jpg)](/images/art/supplies/thumbs/markers_2015-11-06_21.55.20.jpg)
 
 9. I sent Fred's 2016 journal today.  He likes that late nights and
    weekend days get ample space for entries.
