@@ -12,8 +12,10 @@ date: 2015-11-09T16:29:23+09:00
 * ~~rejoice in how quickly Hugo updates my website~~
 * ~~move CB new header online~~
 * ~~email S~~
-* move AB new report thing online
-* update redmine
-* update eom spreadsheet
+* ~~move AB new report thing online~~
+* ~~update class for a few top pages on CB site~~
+* ~~email S~~
+* ~~update redmine~~
+* ~~update eom spreadsheet~~
 * work on Apple TV app
-* find an article for tomorrow's lesson
+* ~~find an article for tomorrow's lesson~~
