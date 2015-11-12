@@ -28,3 +28,9 @@ the corresponding summary-of-main-table records as needed.
 For the query I mentioned, I could simply define a query to do it,
 which I've done before, but all in code.  I wonder if I can set up a
 query in the DB, give it some meta-data and let the code write itself?
+
+## 15:28 Thursday 12 November 2015 JST
+
+So I wrote half the code to allow queries to be stored in the DB, but
+then abandoned it in favor of doing some other (higher priority (and
+higher paying)) tasks first.
