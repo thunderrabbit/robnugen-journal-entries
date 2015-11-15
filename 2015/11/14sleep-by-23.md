@@ -12,3 +12,8 @@ productive because my brain needs sleeeepppzzz.
 
 Tonight, though I realllly wanna stay up and keep working, I'm going
 to hop in bed and start sleeping.
+
+## 11:37am next day
+
+Yay!  I successfully xslept before 11pm last night.  Woke up at 6am to
+do laundry and work on AB website.
