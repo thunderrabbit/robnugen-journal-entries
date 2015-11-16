@@ -14,6 +14,6 @@ date: 2015-11-16T07:36:20+09:00
 9. ~~add audio to Apple TV app~~
 3. ~~upload new cb site to live~~
 7. ~~work on Summer Vacation~~
-8. work on AB site
+8. ~~work on AB site~~
 10. read PIT protocol
-6. go to I-group
+6. ~~go to I-group~~
