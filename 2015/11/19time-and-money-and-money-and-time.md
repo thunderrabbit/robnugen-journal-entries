@@ -12,3 +12,7 @@ will be worth the fear.
 
 It helps that I'm gainfully employed already.  I can afford for them
 to say "nope" and find somebody else.
+
+## Saturday
+
+yep; I got it. Yay!
