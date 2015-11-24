@@ -35,3 +35,8 @@ This is like the 100th extra nail in the already decrepit coffin for
 my relationship with Apple.
 
 I want a divorce, all my money back, plus damages for pain and suffering.
+
+### cause anyway
+
+Is it not bad enough that I can only use 32 characters for my
+password? I'd love to know why they decided to add that crappy limitation.
