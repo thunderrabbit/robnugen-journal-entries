@@ -47,5 +47,3 @@ good things will happen in my dreams.
 </p>
 
 And I woke up out of the dream
-
-[![dialog box: preparing to copy 9.2 million items](/images/software/bad/osx/10.11.1/thumbs/Preparing_to_copy_9.2_million_items_2015-12-01_at_8.54.32_AM.png)](/images/software/bad/osx/10.11.1/Preparing_to_copy_9.2_million_items_2015-12-01_at_8.54.32_AM.png)
