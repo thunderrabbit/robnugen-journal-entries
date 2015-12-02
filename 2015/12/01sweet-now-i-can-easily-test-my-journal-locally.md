@@ -15,10 +15,6 @@ date: 2015-12-01T08:43:17+09:00
    
    echo "building"
    hugo server --watch
-   
-   echo "coming back"
-   cd ~/journal
-   echo "back jack"
 ```
 
 The browser is
@@ -28,3 +24,8 @@ lightning speed.  After that, any changes I make a quickly refelcted
 on the localhost webpage.
 
 Hmm but [I can't yet see my images locally](https://discuss.gohugo.io/t/equivalent-to-htaccess-rewrite-on-localhost/2188)
+
+## 15:00 Wednesday 02 December 2015 JST
+
+Thanks to Travis for pointing out that I don't need to `cd ~` back to
+my original directory when running (most) shell scripts!
