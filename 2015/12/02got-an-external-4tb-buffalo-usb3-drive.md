@@ -16,7 +16,7 @@ I just bought an external drive featuring 4TB of storage space for $150.  Compar
 
 [28000](https://encrypted.google.com/search?hl=en&source=hp&q=4+TB+%2F+143+MB+%3D)
 
-## 13:58
+## 13:58 reason 8,145 to hate apple
 
 Nice one.  Fucking Apple.  Apple sucks.
 
