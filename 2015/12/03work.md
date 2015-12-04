@@ -17,3 +17,6 @@ Well, no I don't, and it is a bug, but it doesn't keep you from doing
 your job and doesn't require a phone call so you can keep me from
 doing my job.
 
+## 11:46 next day
+
+Even so, I got a lot of stuff done, and even more this morning.
