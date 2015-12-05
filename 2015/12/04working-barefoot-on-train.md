@@ -13,3 +13,4 @@ behind me and showing off the smudges on my screen!
 
 In other news, Tariq thinks he'll be able to format my 4TB drive (with
 old version of Disk Utility in old version of OS X.  10.8 I think he said.
+
