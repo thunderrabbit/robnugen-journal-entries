@@ -43,5 +43,4 @@ slopped together into a nice clean closure and now it works nicely.
 Pushups are counted locally and then saved to parse when clicking
 "save" at the bottom.  Still not displayed yet.
 
-http://new.robnugen.com/samples/javascript/pushup-counter-js/index.html
-(intentionally not linked because there's no login security yet)
+[//new.robnugen.com/samples/javascript/pushups-counter-js/](pushups counter)

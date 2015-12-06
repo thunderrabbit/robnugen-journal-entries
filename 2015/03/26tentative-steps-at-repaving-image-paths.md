@@ -61,7 +61,7 @@ on old site
 
 on new.robnugen.com
 
-[10 July 2000 dream](http://new.robnugen.com/journal/2000/07/10/Dream/)
+[10 July 2000 dream](//new.robnugen.com/journal/2000/07/10/Dream/)
 ([same page on archive.today](https://archive.today/i8K53))
 
 That "with love - ROB!" signature is actually hosted on b.robnugen.com
