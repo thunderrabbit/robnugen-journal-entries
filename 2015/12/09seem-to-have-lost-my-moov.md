@@ -12,3 +12,21 @@ Booooo.
 I had used my MOOV on the way to the toy store, but noticed it missing
 when I got back to Kawasaki.  It may have fallen off when I took of my
 shoes after the lesson.  I'm optimistic I'll get it back!
+
+
+### email to MOOV customer support:
+
+    I'm so sad!  I wonder if you have a perk like 1-free-replacement-
+    MOOV-to-those-who-bought-2-MOOVs-during-preorder-a-long-time-ago-
+	and-lost-one-recently
+    
+    In my mind, I've designed a kick-ass HEY_MOOV_DONT_MOVE wrapper to
+	keep my MOOV from moving too far.
+    
+    It will enclose the MOOV so even if it slips from the rubber
+	bracelet, it will be snuggly kept inside a little cloth wrapper.
+    
+    Can I at least get the preorder price again to replace my lost MOOV?
+    
+      xoxoxo
+       - Rob!
