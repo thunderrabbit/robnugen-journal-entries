@@ -30,3 +30,31 @@ shoes after the lesson.  I'm optimistic I'll get it back!
     
       xoxoxo
        - Rob!
+
+
+### MOOV wins!!!!
+
+    Hi Rob,
+    
+    I am sorry that didn’t work, but we’ve got a solution for you.
+    
+    We want to get you back to your fitness plan as quickly as
+    possible and as one of our very earliest backers, a replacement
+    core is typically $50, however, I am able to offer you a
+    replacement in the color of your choice at $30 along with free
+    shipping.
+    
+    Please let me know if you would like to proceed by filling out
+    this form and using the reference code (redacted).  Once the
+    form is filled out, we will send you a payment link via PayPal.
+    Once that is complete, we will get your new replacement out asap!
+    
+    I’m looking forward to getting you back up and mooving!
+    
+    Cheers,
+    Emma
+    
+    I am a fitness enthusiast who loves competing in triathlons.
+	My favorite Moov workout is Speed Endurance.
+    
+    For more answers, visit our FAQ.
