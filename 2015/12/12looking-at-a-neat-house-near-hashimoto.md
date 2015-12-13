@@ -27,3 +27,4 @@ The second place we looked at didn't catch my fancy; it looked
 sterile, with no grass out front (just concrete and decorative gravel
 for parking).  Inside stank of stale smoke so I didn't even venture
 past the 玄関前
+
