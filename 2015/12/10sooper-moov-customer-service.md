@@ -14,3 +14,9 @@ I had hoped to get the original price, but I got a discount on my
 replacement moov!  I've been using Lin's device (since she didn't use
 it as much as I used mine), so I'll be able to give hers back to her
 soon and get back onto my moovin' program!
+
+On their customer service feedback thing I wrote
+
+    I love you more than watching 50 dancing rabbits while eating
+    delicious ice cream on a sunny day in a field full of
+    non-allergenic flowers!
