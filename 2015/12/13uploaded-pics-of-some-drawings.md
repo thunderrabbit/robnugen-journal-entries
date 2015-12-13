@@ -7,7 +7,7 @@ date: 2015-12-13T20:49:02+09:00
 
 ## 20:49 Sunday 13 December 2015 JST
 
-### Three White Dots
+### White Dots
 
 [![the whiteout pen I bought to make white dots](//b.robnugen.com/art/drawing/2015/white_dots/thumbs/white_dotter_2015-11-19_17.49.20.jpg)](//b.robnugen.com/art/drawing/2015/white_dots/white_dotter_2015-11-19_17.49.20.jpg)
 [![several white dots and a couple lines](//b.robnugen.com/art/drawing/2015/white_dots/thumbs/pre_green_2015-12-03_16.34.35.jpg)](//b.robnugen.com/art/drawing/2015/white_dots/pre_green_2015-12-03_16.34.35.jpg)
