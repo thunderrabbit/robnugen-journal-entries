@@ -22,3 +22,8 @@ date: 2015-12-13T20:49:02+09:00
 
 [![three circles](//b.robnugen.com/art/drawing/2015/three_or_more_circles/thumbs/Three_or_more_Circles_2015-11-01_13.53.00.jpg)](//b.robnugen.com/art/drawing/2015/three_or_more_circles/Three_or_more_Circles_2015-11-01_13.53.00.jpg)
 [![more circles and some wavy lines](//b.robnugen.com/art/drawing/2015/three_or_more_circles/thumbs/Three_or_more_Circles_2015-11-01_13.57.23.jpg)](//b.robnugen.com/art/drawing/2015/three_or_more_circles/Three_or_more_Circles_2015-11-01_13.57.23.jpg)
+
+### One Teleport Maze
+
+[![colored dots with pairs connected by thin black tubes](//b.robnugen.com/art/drawing/2015/one_teleport_maze/thumbs/One_teleport_maze_2015-09-29_18.45.21.jpg)](//b.robnugen.com/art/drawing/2015/one_teleport_maze/One_teleport_maze_2015-09-29_18.45.21.jpg)
+[![with ribbon like lines](//b.robnugen.com/art/drawing/2015/one_teleport_maze/thumbs/One_teleport_maze_2015-09-29_19.24.02.jpg)](//b.robnugen.com/art/drawing/2015/one_teleport_maze/One_teleport_maze_2015-09-29_19.24.02.jpg)
