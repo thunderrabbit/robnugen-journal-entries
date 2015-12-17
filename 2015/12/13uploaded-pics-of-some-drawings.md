@@ -28,3 +28,13 @@ date: 2015-12-13T20:49:02+09:00
 
 [![colored dots with pairs connected by thin black tubes](//b.robnugen.com/art/drawing/2015/one_teleport_maze/thumbs/One_teleport_maze_2015-09-29_18.45.21.jpg)](//b.robnugen.com/art/drawing/2015/one_teleport_maze/One_teleport_maze_2015-09-29_18.45.21.jpg)
 [![with ribbon like lines](//b.robnugen.com/art/drawing/2015/one_teleport_maze/thumbs/One_teleport_maze_2015-09-29_19.24.02.jpg)](//b.robnugen.com/art/drawing/2015/one_teleport_maze/One_teleport_maze_2015-09-29_19.24.02.jpg)
+
+### [Summer Vacation](http://art.robnugen.com/sv15):
+
+[![The back of Summer Vacation](//b.robnugen.com/art/drawing/2015/summer_vacation/thumbs/000_back_of_Summer_Vacation_2015-12-16_10.51.06.jpg)](//b.robnugen.com/art/drawing/2015/summer_vacation/000_back_of_Summer_Vacation_2015-12-16_10.51.06.jpg)
+
+Here's the front:
+
+[![Summer Vacation as of 26 September 2015](//b.robnugen.com/art/drawing/2015/summer_vacation/thumbs/Summer_Vacation_2015-09-26_09.03.00.jpg)](//b.robnugen.com/art/drawing/2015/summer_vacation/Summer_Vacation_2015-09-26_09.03.00.jpg)
+[![Summer Vacation as of 12 November 2015](//b.robnugen.com/art/drawing/2015/summer_vacation/thumbs/Summer_Vacation_2015-11-12_13.00.31.jpg)](//b.robnugen.com/art/drawing/2015/summer_vacation/Summer_Vacation_2015-11-12_13.00.31.jpg)
+[![Summer Vacation finished 19 November 2015](//b.robnugen.com/art/drawing/2015/summer_vacation/thumbs/Summer_Vacation_2015-12-16_10.01.31.jpg)](//b.robnugen.com/art/drawing/2015/summer_vacation/Summer_Vacation_2015-12-16_10.01.31.jpg)
