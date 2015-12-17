@@ -16,4 +16,4 @@ added the squiggly yellow line that ended up being shaped something
 like the kanji for mountain: 山, and drew straight-ish lines under the
 yellow squiggle and under its kanji.
 
-[![nearly/maybe complete](//b.robnugen.com/art/drawing/2015/white_dots/thumbs/180white_dots_2015_12_15_400dpi.jpeg)](//b.robnugen.com/art/drawing/2015/white_dots/180white_dots_2015_12_15_400dpi.jpeg)
+[![nearly/maybe complete](//b.robnugen.com/art/drawing/2015/white_dots/thumbs/180white_dots_2015_12_15_400dpi.jpg)](//b.robnugen.com/art/drawing/2015/white_dots/180white_dots_2015_12_15_400dpi.jpg)
