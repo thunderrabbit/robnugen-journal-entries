@@ -9,9 +9,10 @@ date: 2015-12-13T20:49:02+09:00
 
 ### White Dots
 
-[![the whiteout pen I bought to make white dots](//b.robnugen.com/art/drawing/2015/white_dots/thumbs/white_dotter_2015-11-19_17.49.20.jpg)](//b.robnugen.com/art/drawing/2015/white_dots/white_dotter_2015-11-19_17.49.20.jpg)
-[![several white dots and a couple lines](//b.robnugen.com/art/drawing/2015/white_dots/thumbs/pre_green_2015-12-03_16.34.35.jpg)](//b.robnugen.com/art/drawing/2015/white_dots/pre_green_2015-12-03_16.34.35.jpg)
-[![more dots on white background](//b.robnugen.com/art/drawing/2015/white_dots/thumbs/more_dots_2015-12-05_10.00.17.jpg)](//b.robnugen.com/art/drawing/2015/white_dots/more_dots_2015-12-05_10.00.17.jpg)
+[![the whiteout pen I bought to make white dots](//b.robnugen.com/art/drawing/2015/white_dots/thumbs/050white_dotter_2015-11-19_17.49.20.jpg)](//b.robnugen.com/art/drawing/2015/white_dots/050white_dotter_2015-11-19_17.49.20.jpg)
+[![several white dots and a couple lines](//b.robnugen.com/art/drawing/2015/white_dots/thumbs/090pre_green_2015-12-03_16.34.35.jpg)](//b.robnugen.com/art/drawing/2015/white_dots/090pre_green_2015-12-03_16.34.35.jpg)
+[![more dots on white background](//b.robnugen.com/art/drawing/2015/white_dots/thumbs/140more_dots_2015-12-05_10.00.17.jpg)](//b.robnugen.com/art/drawing/2015/white_dots/140more_dots_2015-12-05_10.00.17.jpg)
+[![nearly/maybe complete](//b.robnugen.com/art/drawing/2015/white_dots/thumbs/180white_dots_2015_12_15_400dpi.jpeg)](//b.robnugen.com/art/drawing/2015/white_dots/180white_dots_2015_12_15_400dpi.jpeg)
 
 ### Busy Ring
 
