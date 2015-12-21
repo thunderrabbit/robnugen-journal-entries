@@ -1,6 +1,6 @@
 ---
 title: Lin's going to see another house in Hashimoto today
-tags: 888
+tags: house
 author: Rob Nugen
 date: 2015-12-15T08:20:51+09:00
 ---

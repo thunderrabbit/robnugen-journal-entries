@@ -9,8 +9,7 @@ date: 2015-12-19T22:26:59+09:00
 
 Overview:
 
-<span class="rune ehwaz" />
-(reversed)
+<span class="rune ehwaz reversed" />
 
 Challenge:
 

@@ -16,3 +16,9 @@ Sweet.  Now I can just do this, &lt;span class="rune uruz" />, and it
 shows up like this:
 
 <span class="rune uruz" />
+
+## 21:29
+
+nice!  Now I can just do this, &lt;span class="rune uruz reversed" />, and it shows up like this:
+
+<span class="rune uruz reversed" />
