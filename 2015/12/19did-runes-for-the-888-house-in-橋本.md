@@ -9,14 +9,15 @@ date: 2015-12-19T22:26:59+09:00
 
 Overview:
 
-# ᛖ ehwaz (reversed)
+<span class="rune ehwaz" />
+(reversed)
 
 Challenge:
 
-# ᚢ uruz
+<span class="rune uruz" />
 
 Appropriate action:
 
-# ᛊ sowilo
+<span class="rune sowelu" />
 
 So I took them to be saying "wait, don't worry, meditate"
