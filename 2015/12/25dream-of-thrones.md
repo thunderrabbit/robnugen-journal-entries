@@ -7,6 +7,7 @@ date: 2015-12-25T07:21:15+09:00
 
 ## 07:21 Friday 25 December 2015 JST
 
+<p class="dream">
 There was some graffitti painted on the gate near the spies camp
 inside the castle, something ke "The downfalll of W will be from the
 camp of R on the inside", where W and R were the initials of the
@@ -30,5 +31,6 @@ a window on the far side of the room.  I ran around a corner and jumped
 up toward the celing where I was able to see the tops of the walls as
 if the ceiling had been removed.  I thought that would be useful to
 walk across them to escape"
+</p>
 
 and I woke up
