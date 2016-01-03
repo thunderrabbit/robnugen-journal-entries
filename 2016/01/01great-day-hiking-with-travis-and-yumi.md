@@ -12,9 +12,6 @@ meter 滝子山, Mt Takigo, though I don't know from what elevation we
 started.  Great to chill (haha) with Travis and Yumi!
 
 [![barefoot rob on rock with Francois](//b.robnugen.com/journal/2016/new_years_day_mt_takigo_with_lin_travis_and_yumi/thumbs/barefoot_rob_on_rock_with_Francois.jpg)](//b.robnugen.com/journal/2016/new_years_day_mt_takigo_with_lin_travis_and_yumi/barefoot_rob_on_rock_with_Francois.jpg)
-
-
-[![barefoot rob on rock with Francois](//b.robnugen.com/journal/2016/new_years_day_mt_takigo_with_lin_travis_and_yumi/thumbs/barefoot_rob_on_rock_with_Francois.jpg)](//b.robnugen.com/journal/2016/new_years_day_mt_takigo_with_lin_travis_and_yumi/barefoot_rob_on_rock_with_Francois.jpg)
 [![barefoot rob on train](//b.robnugen.com/journal/2016/new_years_day_mt_takigo_with_lin_travis_and_yumi/thumbs/barefoot_rob_on_train.jpg)](//b.robnugen.com/journal/2016/new_years_day_mt_takigo_with_lin_travis_and_yumi/barefoot_rob_on_train.jpg)
 [![Francois at 1610 meters 2016-01-01 12](//b.robnugen.com/journal/2016/new_years_day_mt_takigo_with_lin_travis_and_yumi/thumbs/Francois_at_1610_meters_2016-01-01_12.53.15.jpg)](//b.robnugen.com/journal/2016/new_years_day_mt_takigo_with_lin_travis_and_yumi/Francois_at_1610_meters_2016-01-01_12.53.15.jpg)
 [![francois chillin on ice crystals](//b.robnugen.com/journal/2016/new_years_day_mt_takigo_with_lin_travis_and_yumi/thumbs/francois_chillin_on_ice_crystals.jpg)](//b.robnugen.com/journal/2016/new_years_day_mt_takigo_with_lin_travis_and_yumi/francois_chillin_on_ice_crystals.jpg)
