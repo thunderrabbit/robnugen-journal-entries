@@ -1,0 +1,31 @@
+---
+title: brute forcing American Tourister lock
+tags: lock
+author: Rob Nugen
+date: 2016-01-20T00:24:34+09:00
+---
+
+## 00:24 Wednesday 20 January 2016 JST
+
+I rotated one number on the lock while pressing the combination reset,
+and now I cannot unlock the lock.  Fuck fuck fuck.  Lin just bought
+this suitcase *today* and asked if I can set the combination to
+something other than 000.
+
+Done.
+
+## 01:24
+
+I have rolled through all the combinations with 2 zeroes, and I've
+gone through the first 110 or so consecutive combinations.
+
+I have tried making a [key for the lock](https://github.com/Xyl2k/TSA-Travel-Sentry-master-keys/blob/master/TSA007_stubby.stl) by cutting up a credit card
+sized card.  Not successful so far.
+
+Is it better to take the bag to an authorized place and pay 5000 yen
+to have them unlock it or keep going through combinations?
+
+## 02:16
+
+Got it.  I went through every combination (to no avail) but then tried
+0½0 and got it.  Now it seems to be reset to 000.
