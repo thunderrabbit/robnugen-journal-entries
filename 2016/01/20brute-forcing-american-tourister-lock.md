@@ -7,6 +7,11 @@ date: 2016-01-20T00:24:34+09:00
 
 ## 00:24 Wednesday 20 January 2016 JST
 
+Lin got a new suitcase!
+
+[![American Tourister case 2016-01-20 11.05.45](//b.robnugen.com/journal/2016/thumbs/American_Tourister_case_2016-01-20_11.05.45.jpg)](//b.robnugen.com/journal/2016/American_Tourister_case_2016-01-20_11.05.45.jpg)
+[![American Tourister interior 2016-01-20 11.04.57](//b.robnugen.com/journal/2016/thumbs/American_Tourister_interior_2016-01-20_11.04.57.jpg)](//b.robnugen.com/journal/2016/American_Tourister_interior_2016-01-20_11.04.57.jpg)
+
 I rotated one number on the lock while pressing the combination reset,
 and now I cannot unlock the lock.  Fuck fuck fuck.  Lin just bought
 this suitcase *today* and asked if I can set the combination to
