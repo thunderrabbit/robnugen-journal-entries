@@ -24,6 +24,9 @@ been on the wall over there.  She said they still have it!
 Long story short, they did *not* still had it; she and I were thinking
 of other things.  The thing they still have is *better*.
 
+[![Rob and Mai with soon to be new toy](//b.robnugen.com/house/2016_all_electric_yurigaoka/thumbs/2016-01-19_17.51.57_before_ownership_soon_to_be_new_toy.jpg)](//b.robnugen.com/house/2016_all_electric_yurigaoka/2016-01-19_17.51.57_before_ownership_soon_to_be_new_toy.jpg)
+
+
 AND, they said they'll happily give it to me if I simply take it.
 
 Sweet.  I know what will be the first decoration in our new house!!
