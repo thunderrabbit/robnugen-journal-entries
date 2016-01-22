@@ -12,7 +12,7 @@ before go
     ~~shave~~
     ~~pack~~
     ~~check cat water~~
-    buy blank 色紙
+    ~~buy blank 色紙~~
 
 ## pack:
 
@@ -87,10 +87,13 @@ To buy in the US:
 
     skates
     beef jerky for family
+	something for AB
+	soemthing for CB
+	something for JB
     something for Fukuura
     something for GG
     something for Sarus papa and mama
-    something for C & M
+    something for C & M thursday mornings
     something for Friday crew
 
 Do in US:
