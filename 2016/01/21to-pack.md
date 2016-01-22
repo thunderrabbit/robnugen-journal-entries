@@ -14,6 +14,12 @@ before go
     ~~check cat water~~
     buy blank 色紙
 
+## pack:
+
+Francois:
+
+    ~~Francois~~
+
 passport
 
     ~~Lin~~
@@ -60,9 +66,9 @@ art
 	
 computer:
 
-    computer
-	keyboard
-	mouse
+    ~~computer
+	~~keyboard
+	~~mouse
 	~~headphones~~
     ~~power supply~~
     ~~power supply cable~~
