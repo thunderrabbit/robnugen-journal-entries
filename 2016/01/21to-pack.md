@@ -10,7 +10,7 @@ date: 2016-01-21T21:02:12+09:00
 before go
 
     ~~shave~~
-    pack
+    ~~pack~~
     ~~check cat water~~
     buy blank 色紙
 
