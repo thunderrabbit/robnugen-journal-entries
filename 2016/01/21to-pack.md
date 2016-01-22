@@ -8,26 +8,31 @@ date: 2016-01-21T21:02:12+09:00
 ## 21:02 Thursday 21 January 2016 JST
 
 before go
+
     ~~shave~~
     pack
     ~~check cat water~~
     buy blank 色紙
 
 passport
+
     ~~Lin~~
     ~~Rob~~
     ~~Lin's visa info~~
 
 cash:
+
     ~~one meeeelion dollars~~
 
 puzzles:
+
     ~~3 that Mayumi gave me~~
     ~~bent nail puzzle~~
     ~~others in the wooden box~~
 
 
 clothes for wedding:
+
     ~~shirt~~
     ~~slacks~~
     ~~suit jacket (hopefully the one Sarupapa gave me)~~
@@ -35,10 +40,12 @@ clothes for wedding:
     ~~shoes for wedding~~
 
 prezzies
+
     ~~hyper-cool gum~~
     ~~miso soup~~
 
 other clothes (dependent on checking predicted weather):
+
     ~~2 shorts~~
     ~~3 shirts~~
     ~~3 undies~~
@@ -46,11 +53,13 @@ other clothes (dependent on checking predicted weather):
     ~~0 shoes~~
 
 art
+
     ~~highligher markers~~
     ~~thin markers~~
 	~~fat markers~~
 	
 computer:
+
     computer
 	keyboard
 	mouse
@@ -62,12 +71,13 @@ computer:
     ~~USB brick~~
 
 loo:
+
     ~~toothbrush~~
     ~~toothpaste~~
     ~~dental floss~~
     ~~cotton swabs~~
 
-To buy in the US
+To buy in the US:
 
     skates
     beef jerky for family
