@@ -32,7 +32,7 @@ clothes for wedding:
     ~~slacks~~
     ~~suit jacket (hopefully the one Sarupapa gave me)~~
     ~~socks for wedding~~
-    shoes for wedding
+    ~~shoes for wedding~~
 
 prezzies
     ~~hyper-cool gum~~
@@ -48,13 +48,13 @@ other clothes (dependent on checking predicted weather):
 art
     ~~highligher markers~~
     ~~thin markers~~
-	fat~~ markers~~
+	~~fat markers~~
 	
 computer:
     computer
 	keyboard
 	mouse
-	headphones
+	~~headphones~~
     ~~power supply~~
     ~~power supply cable~~
     ~~phone~~
@@ -79,6 +79,7 @@ To buy in the US
 
 Do in US:
 
+	Take photos of me barefoot!  (They'll be on Tokyo TV!!)
     See marriage ceremony
     Go see J and P
     Get marriage license
