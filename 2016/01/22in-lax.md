@@ -29,3 +29,13 @@ Email to ferp:
     
     We are due to arrive in Sandy Eigo at 1:47pm local time in
     America, the land of the free and home of the litigation!
+
+## 12:55
+
+At 12:56 we started walking to the gate which was just 20 meters
+away.
+
+Oh snap it's the gate to the *shuttle* to the gate!
+
+So we had to wait for the shuttle which had to wait for two planes,
+one of which crossed our path.
