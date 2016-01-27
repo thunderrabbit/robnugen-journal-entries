@@ -51,7 +51,7 @@ more apologetic, "I'm sorry they're in my *checked* baggage"
 she goes, "are you kidding me?"
 
 "Sorry; I've been barefoot for 7 years so I didn't really think about
-it."  I didn't explain further that when I was on Quantas, they didn't
+it."  I didn't explain further that when I was on Qantas, they didn't
 bug me.
 
 By the time we were seated (in row 40 because the rows are marked in a
