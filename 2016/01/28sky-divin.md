@@ -18,3 +18,10 @@ We decided to jump again ($99) and I realized having the camera guys
 there was kinda じゃま because the second time we just went up and
 jumped.  But on the other hand, having them ask questions prompted
 more enthusiasm, I guess... Kinda made it more exciting.
+
+## few minutes after uploading Lin's video
+
+[![three copyright claims](//b.robnugen.com/journal/2016/January_2016_trip_to_Cali_and_Austin/skydiving_in_San_Marcos_28_Jan/lin/thumbs/three_copyright_claims.png)](//b.robnugen.com/journal/2016/January_2016_trip_to_Cali_and_Austin/skydiving_in_San_Marcos_28_Jan/lin/three_copyright_claims.png)
+
+https://www.youtube.com/watch?v=GeI1_TqBLCg
+
