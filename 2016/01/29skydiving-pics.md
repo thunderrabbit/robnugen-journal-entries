@@ -50,3 +50,5 @@ Almost there
 Francois made it!
 
 [![208 Rob first skydive Rob Joe arrival](//b.robnugen.com/journal/2016/January_2016_trip_to_Cali_and_Austin/skydiving_in_San_Marcos_28_Jan/nathan_photographed_joe_and_rob/thumbs/208_Rob_first_skydive_Rob_Joe_arrival.jpg)](//b.robnugen.com/journal/2016/January_2016_trip_to_Cali_and_Austin/skydiving_in_San_Marcos_28_Jan/nathan_photographed_joe_and_rob/208_Rob_first_skydive_Rob_Joe_arrival.jpg)
+
+[Check out all the thumbnails](https://b.robnugen.com/journal/2016/January_2016_trip_to_Cali_and_Austin/skydiving_in_San_Marcos_28_Jan/nathan_photographed_joe_and_rob/)
