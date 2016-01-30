@@ -18,12 +18,12 @@ politics, to dogs, and everything in between.
 
 Dude:
 
-    Uber-style self driving car service will be availabe by 5 years.
+    Uber-style self driving car service will be available within 5 years.
     ubuquitous within 10 to 15 years.  (not by Jan 2026)
 
 Rob:
 
-    Uber-style self driving car service will be availabe by 4 years.
+    Uber-style self driving car service will be available within 4 years.
     ubuquitous within 7 to 9 years.  (by Jan 2025)
 
 ## 0:11
