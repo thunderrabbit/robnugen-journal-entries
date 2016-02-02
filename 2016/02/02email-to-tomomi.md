@@ -13,7 +13,7 @@ Our trip has been great, and I look forward to telling you lots of stories!! (*)
 
 See you soon!
 
-   - Rob
+Rob
 
 (*) story prompts:
 
