@@ -24,23 +24,23 @@ Things to do:
 1. ~~email Ma, Jon, Fred~~
 1. ~~email Dad and Karen~~
 1. ~~post on FB we arrived~~
-1. get images from Lin's phone
+1. ~~get images from Lin's phone~~
 1. ~~import images from my phone~~
 1. ~~pet Jennie~~
-1. pet Ted
-1. find barefoot images
-1. post them to my site
-1. check streaming site status
+1. pet Ted...   Ted seems to be missing  (;_;)
+1. ~~find barefoot images~~
+1. ~~post them to my site~~
+1. ~~check streaming site status~~
 1. finish January invoice
 1. send January invoice to Nate
 1. look at AB tickets
 1. fix bug on AB site
 1. send images to Tokyo TV
 1. look at CB tickets
-1. look up courses on Coursera
-1. look up courses on Udemy
-1. plan to do courses that are due soon
-1. start doing AWS courses again
-1. meet S on Friday for CB
+1. ~~look up courses on Coursera~~
+1. ~~look up courses on Udemy~~
+1. ~~plan to do courses that are due soon~~
+1. ~~start doing AWS courses again~~
+1. ~~meet S on Friday for CB~~
 1. post something to Patreon
 1. give prezzies to peeps
