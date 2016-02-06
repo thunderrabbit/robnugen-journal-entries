@@ -10,8 +10,8 @@ date: 2016-02-06T13:57:03+09:00
 Sweet!
 
 Thanks to
-https://acloud.guru/course/aws-certified-solutions-architect-associate/
-videos, I have created a proof of concept set of web servers connected
+https://acloud.guru/course/aws-certified-solutions-architect-associate/learn/ec2/load-balancers-health-checks
+I have created a proof of concept set of web servers connected
 by a load balancer which automatically scales depending on usage
 requirements.
 
