@@ -18,7 +18,7 @@ Things to do:
 1. ~~get three bags~~
 1. ~~go through customs~~
 1. ~~be interviewed by Tokyo TV guys~~
-1. get some monies out of ATM
+1. get some monies out of ATM (nm; I got paid by JB)
 1. ~~take Narita Express~~
 1. ~~SMS Tariq~~
 1. ~~email Ma, Jon, Fred~~
@@ -27,15 +27,15 @@ Things to do:
 1. ~~get images from Lin's phone~~
 1. ~~import images from my phone~~
 1. ~~pet Jennie~~
-1. pet Ted...   Ted seems to be missing  (;_;)
+1. ~~pet Ted...~~   he came back!!
 1. ~~find barefoot images~~
 1. ~~post them to my site~~
 1. ~~check streaming site status~~
-1. finish January invoice
-1. send January invoice to Nate
+1. ~~finish January invoice~~
+1. ~~send January invoice to Nate~~
 1. look at AB tickets
 1. fix bug on AB site
-1. send images to Tokyo TV
+1. ~~send images to Tokyo TV~~
 1. look at CB tickets
 1. ~~look up courses on Coursera~~
 1. ~~look up courses on Udemy~~
