@@ -43,4 +43,4 @@ Things to do:
 1. ~~start doing AWS courses again~~
 1. ~~meet S on Friday for CB~~
 1. post something to Patreon
-1. give prezzies to peeps
+1. ~~give prezzies to peeps~~
