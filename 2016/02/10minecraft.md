@@ -12,3 +12,5 @@ I donated to the
 thank them for keeping it going.
 
 [![delta moon donation 2016-02-07 at 7.10.58 AM](//b.robnugen.com/software/games/minecraft/delta/thumbs/delta_moon_donation_2016-02-07_at_7.10.58_AM.png)](//b.robnugen.com/software/games/minecraft/delta/delta_moon_donation_2016-02-07_at_7.10.58_AM.png)
+
+[![delta boots from c0de](//b.robnugen.com/software/games/minecraft/delta/thumbs/delta_boots_from_c0de.png)](//b.robnugen.com/software/games/minecraft/delta/delta_boots_from_c0de.png)
