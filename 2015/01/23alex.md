@@ -12,4 +12,4 @@ Normally we move him indoors when it rains, but since he's been above
 our heads, I haven't seen him to remember (and I guess Lin hasn't
 either).  I checked on him now, and he seems just fine.
 
-[![Alex](/images/2015/01/thumbs/Alex 2015-01-23 09.15.00.png)](/images/2015/01/Alex 2015-01-23 09.15.00.png)
+[![Alex 23 jan 2015](//b.robnugen.com/journal/2015/thumbs/Alex_23_jan_2015.jpg)](//b.robnugen.com/journal/2015/Alex_23_jan_2015.jpg)

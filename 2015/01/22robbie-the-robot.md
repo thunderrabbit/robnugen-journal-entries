@@ -12,6 +12,7 @@ then added a square tube and then realized I could make a short T
 shape and then realized there were enough pieces to make a tall T
 shape, and THEN realized that I could get inside.
 
-[![Robot construction kit](/images/2015/01/thumbs/Robot start 2015-01-22 18.46.37.png)](/images/2015/01/Robot start 2015-01-22 18.46.37.png)
-[![Robot frame](/images/2015/01/thumbs/Robot ready 2015-01-22 18.40.51.png)](/images/2015/01/Robot ready 2015-01-22 18.40.51.png)
-[![Robot!](/images/2015/01/thumbs/Robot complete 2015-01-22 18.42.14.png)](/images/2015/01/Robot complete 2015-01-22 18.42.14.png)
+
+[![Robot construction kit](//b.robnugen.com/journal/2015/thumbs/toys_22_jan_2015.jpg)](//b.robnugen.com/journal/2015/toys_22_jan_2015.jpg)
+[![ready to fly](//b.robnugen.com/journal/2015/thumbs/ready_to_fly_22_jan_2015.jpg)](//b.robnugen.com/journal/2015/ready_to_fly_22_jan_2015.jpg)
+[![airplane](//b.robnugen.com/journal/2015/thumbs/airplane_22_jan_2015.jpg)](//b.robnugen.com/journal/2015/airplane_22_jan_2015.jpg)
