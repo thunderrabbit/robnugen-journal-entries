@@ -14,6 +14,8 @@ cool some big players are encouraging it.
 I tried to sign up for their service and was spooked by their password
 restrictions.  Only 31 characters, and no 'special' characters.
 
+[![crappy password limitations 2016-02-17 at 8.15.09 PM](//b.robnugen.com/journal/2016/ibm_password/thumbs/crappy_password_limitations_2016-02-17_at_8.15.09_PM.png)](//b.robnugen.com/journal/2016/ibm_password/crappy_password_limitations_2016-02-17_at_8.15.09_PM.png)
+
 So I wrote them a little email:
 
     only 31 character passwords?
@@ -28,3 +30,8 @@ So I wrote them a little email:
     
     - Rob
 
+I got their response today.
+
+[![crappy ticket response 2016-02-21 at 9.39.05 AM](//b.robnugen.com/journal/2016/ibm_password/thumbs/crappy_ticket_response_2016-02-21_at_9.39.05_AM.png)](//b.robnugen.com/journal/2016/ibm_password/crappy_ticket_response_2016-02-21_at_9.39.05_AM.png)
+
+In addition to its errors, there is no answer to my main question.

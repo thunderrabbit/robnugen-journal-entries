@@ -1,5 +1,5 @@
 ---
-title: reason number N to stop using OS X
+title: reason number 8160 to stop using OS X
 tags: finder
 author: Rob Nugen
 date: 2016-02-21T09:43:53+09:00
@@ -28,3 +28,15 @@ Everything seems to be responding fine except Finder.
 sigh
 
 rebooting my machine now.
+
+## 10:04
+
+Okay, at least I know *why* it was happening.  I had stopped hitting
+Cancel on a series of modal popup windows requesting access to my
+keychain.  Skype and Messages and a bunch of apps that I don't always
+want to have access were repeatedly asking for it.  Anyway, it's a
+modal dialog in that it blocks Finder from doing anything else.  I had
+just shoved it off to the side to get it out of my way.
+
+After closing all my other windows, I saw it down there. gah fucking
+hell
