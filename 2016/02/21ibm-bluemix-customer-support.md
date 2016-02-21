@@ -35,3 +35,11 @@ I got their response today.
 [![crappy ticket response 2016-02-21 at 9.39.05 AM](//b.robnugen.com/journal/2016/ibm_password/thumbs/crappy_ticket_response_2016-02-21_at_9.39.05_AM.png)](//b.robnugen.com/journal/2016/ibm_password/crappy_ticket_response_2016-02-21_at_9.39.05_AM.png)
 
 In addition to its errors, there is no answer to my main question.
+
+So I submitted feedback
+
+[![feedback 2016-02-21 at 1.48.34 PM](//b.robnugen.com/journal/2016/ibm_password/thumbs/feedback_2016-02-21_at_1.48.34_PM.png)](//b.robnugen.com/journal/2016/ibm_password/feedback_2016-02-21_at_1.48.34_PM.png)
+
+and got this response:
+
+[![could not submit feedback 2016-02-21 at 1.48.09 PM](//b.robnugen.com/journal/2016/ibm_password/thumbs/could_not_submit_feedback_2016-02-21_at_1.48.09_PM.png)](//b.robnugen.com/journal/2016/ibm_password/could_not_submit_feedback_2016-02-21_at_1.48.09_PM.png)
