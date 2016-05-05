@@ -1,5 +1,5 @@
 ---
-title: PPSS lesson
+title: SS lesson
 tags: lesson
 author: Rob Nugen
 date: 2016-03-01T12:07:18+09:00
@@ -7,7 +7,7 @@ date: 2016-03-01T12:07:18+09:00
 
 ## 12:07 Tuesday 01 March 2016 JST
 
-At PPSS lesson, we described a picture, and practiced asking questions
+At SS lesson, we described a picture, and practiced asking questions
 based on the descriptions.  We then played a game where teams created
 questions for a new picture and then took turns asking as the other
 team answered (without looking at the picture).
