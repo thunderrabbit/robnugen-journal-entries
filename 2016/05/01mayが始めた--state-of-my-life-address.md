@@ -18,7 +18,9 @@ date: 2016-05-01T08:45:01+09:00
 9. Lin and I are moving soon!  This is almost certainly the last SOML that I'll write from 川崎区浜町.
 10. We're moving to 麻生区東百合ヶ丘
 
-## annnnd now it's Thursday
+## annnnd now it's Thursday 5 May
+
+Wow cinco de mayo!
 
 Today is the third holiday in a row of Golden Week; during which I
 have not needed to go to work.  I'm just going to ignore the little
@@ -31,3 +33,8 @@ I used
 
 We had 3 men in I-group this past Monday, and 3 men absent... so 6 all
 together!  That's great; we're up 100% since August.  Yay!
+
+And now I just used
+[.map() and .reduce() to do this](https://goo.gl/fq4rEU).  Thank you
+Travis, for having explained how they work that time while we were
+walking to the restaurant you liked.
