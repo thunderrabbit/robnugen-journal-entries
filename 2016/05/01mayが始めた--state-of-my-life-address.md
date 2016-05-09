@@ -26,7 +26,7 @@ Today is the third holiday in a row of Golden Week; during which I
 have not needed to go to work.  I'm just going to ignore the little
 detail that I went to an empty classroom on Tuesday; derp.
 
-Today I discovered freeCodeCamp, and have just finished exercise 253.
+Today I discovered freeCodeCamp, and have just finished exercise 253.  (most of the first ones were sooper easy.)
 
 I used
 [.reduce() to find the longest word in a sentence](https://goo.gl/k7Q7UQ)
