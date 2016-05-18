@@ -1,6 +1,6 @@
 ---
 title: best lesson ever
-tags: lesson
+tags: ss
 author: Rob Nugen
 date: 2016-05-10T13:28:53+09:00
 ---
