@@ -1,6 +1,3 @@
-<pre>
-From: Rob
-Date: Thu Jul 04, 2002  10:48:00  US/Central
 ---
 title: bronwyn
 tags: 
@@ -8,6 +5,9 @@ author: Rob Nugen
 date: 2002-07-01
 ---
 
+<pre>
+From: Rob
+Date: Thu Jul 04, 2002  10:48:00  US/Central
 To: Bronwyn
 Subject: Re: hello to you at 242
 

@@ -1,3 +1,9 @@
+---
+title: bryn
+tags: 
+author: Rob Nugen
+date: 2002-07-05
+---
 <pre>
 From: Bryn
 Date: Fri Jul 05, 2002  10:57:35 PM US/Pacific
@@ -64,11 +70,4 @@ away with a smile on your face.
 i love you
 smiles,
 me
----
-title: bryn
-tags: 
-author: Rob Nugen
-date: 2002-07-05
----
-
 </pre>

@@ -1,3 +1,9 @@
+---
+title: afternoon
+tags: 
+author: Rob Nugen
+date: 2002-07-03
+---
 <p class=date>3:50pm CDT Wednesday 3 July 2002</p>
 
 <p>Oh my gosh. I've been signing things as the 2nd of July.  Hmm.  Oh
@@ -36,7 +42,7 @@ do that?  Hmmm.</p>
 
 <p>- - - -</p>
 
-<p>Marta emailed me today.</p>
+<p>M emailed me today.</p>
 
 <pre>
 Subject: Weather Reports
@@ -66,12 +72,4 @@ treasure)</p>
 <p>I can feel myself drawn to her since she likes me, but I predict
 the relationship would end badly/prematurely if we start getting
 physical this soon.  I've known her only since April.</p>
-
----
-title: afternoon
-tags: 
-author: Rob Nugen
-date: 2002-07-03
----
-
 <p><img src="/images/rob/wL-ROB.gif"/></p>
