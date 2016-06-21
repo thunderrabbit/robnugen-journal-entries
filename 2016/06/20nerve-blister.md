@@ -29,3 +29,7 @@ along the path between the station and our house.
 I super doubt the doctor will suggest anything besides pain meds,
 which I will politely refuse... but I just wonder if there's anything
 to do with it besides wait.  I wish I could talk to Dr Cutie!!
+
+- - - -
+
+The recommended I go to a skin clinic, and gave me a map to the clinic.  Synchronistic: I had *just* walked "randomly" down near the skin clinic, so I knew exactly where it was and how to get there.
