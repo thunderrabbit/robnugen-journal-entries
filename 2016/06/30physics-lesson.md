@@ -25,3 +25,9 @@ the light by moving the magnets down the wire.
 
 However, I'm not sure if the battery will be strong (charged) enough
 to make a fun electromagnet.
+
+## afterward
+
+Yup, I got schooled.  The electromagnet worked, but the
+magnet-along-wire did *not* work!  GG still enjoyed the lesson, but
+it's back to books next week, with 2 new students joining the class!
