@@ -2,9 +2,10 @@
 title: Customer service win
 tags: csr, japan
 author: Rob Nugen
+date: 2015-02-04T15:07:37+09:00
 ---
 
-##15:46 Wednesday 04 February 2015 JST##
+## 15:46 Wednesday 04 February 2015 JST
 
 Last night I realized I must have left my computer power supply in Ebisu.
 

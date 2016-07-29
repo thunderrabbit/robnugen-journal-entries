@@ -2,9 +2,10 @@
 title: done today
 tags: md5, git, bittippers
 author: Rob Nugen
+date: 2015-02-23T23:07:37+09:00
 ---
 
-##23:07 Monday 23 February 2015 JST##
+## 23:07 Monday 23 February 2015 JST
 
 Today I made a repo to help find particular md5 strings for
 [Counting with md5sum](http://www.reddit.com/live/thjep4nr9895).  It's

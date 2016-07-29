@@ -2,9 +2,10 @@
 title: State of my life address
 tags: soml
 author: Rob Nugen
+date: 2015-02-04T16:07:37+09:00
 ---
 
-##16:32 Wednesday 04 February 2015 JST##
+## 16:32 Wednesday 04 February 2015 JST
 
 1. TL;DR: I'm really happy with my situation right now.
 

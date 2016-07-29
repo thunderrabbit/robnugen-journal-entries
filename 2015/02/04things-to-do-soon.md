@@ -2,9 +2,10 @@
 title: Things to do soon
 tags: list, gtd
 author: Rob Nugen
+date: 2015-02-04T19:07:37+09:00
 ---
 
-##19:26 Wednesday 04 February 2015 JST##
+## 19:26 Wednesday 04 February 2015 JST
 
 1. ~~walk home with Lin~~
 1. ~~write to JB list of students' names~~

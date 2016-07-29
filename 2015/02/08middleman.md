@@ -2,9 +2,10 @@
 title: middleman
 tags: static
 author: Rob Nugen
+date: 2015-02-10T18:07:37+09:00
 ---
 
-##18:40 Tuesday 10 February 2015 JST##
+## 18:40 Tuesday 10 February 2015 JST
 
 I spent the better part of the weekend playing with Middleman, hosted
 on netlify.

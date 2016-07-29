@@ -2,9 +2,10 @@
 title: Dream
 tags: spinning
 author: Rob Nugen
+date: 2015-02-08T07:07:37+09:00
 ---
 
-##07:46 Sunday 08 February 2015 JST##
+## 07:46 Sunday 08 February 2015 JST##
 
 In a large field with lots of peole as a spinning flying contraption came down.  It had a large ring on its owter borader so it whn it came down near me, I was able to grab it.  It had conventional fans to keep it aloft, but it was still intersting and a guy climbed onto it to see how it worked.  he shone his flashlight inside and saw chsts of drawers whcih surprised us, but then he got off and we let it go, but unfortunately  some kids had climbed onto it and they fel one by one.  They all survived, but were in a bit of shock.  No one came to help them, but they found each other and walked off haarm in arm.
 
