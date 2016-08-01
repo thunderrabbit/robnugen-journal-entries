@@ -15,7 +15,7 @@ my
 Also gave
 [10000 bit tip to a man](http://www.reddit.com/r/BitTippers/comments/2wthev/parenthood_giveaway/cou3aof)
 who
-[announced his wife was pregnant](http://www.reddit.com/r/BitTippers/comments/2wthev/parenthood_giveaway/http://www.reddit.com/r/BitTippers/comments/2wthev/parenthood_giveaway/).
+[announced his wife was pregnant](http://www.reddit.com/r/BitTippers/comments/2wthev/parenthood_giveaway/).
 
 And am working on a maze for Angelos, and printed a logo for a photo
 at Shibuya Crossing tomorrow.
