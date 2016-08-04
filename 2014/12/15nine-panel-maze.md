@@ -2,10 +2,10 @@
 title: Nine panel maze
 tags: art, npm14
 author: Rob Nugen
-date: 2014-12-15
+date: 2014-12-15T16:09:54+09:00
 ---
 
-##16:09 Monday 15 December 2014 JST##
+## 16:09 Monday 15 December 2014 JST
 
 Actually, it's not really a maze; there are no dead ends except for
 the start and finish points.  It's actually a puzzle to figure out how
@@ -19,18 +19,18 @@ Now I just need to draw all the black lines on the actual panels.
 
 Shortlink for this piece [http://art.robnugen.com/npm14](http://art.robnugen.com/npm14)
 
-##21:00 Monday 15 December 2014 JST##
+## 21:00 Monday 15 December 2014 JST
 
 I've filled in 4 of the 9 panels as planned, but on 2 other panels, I
 drew unplanned lines, which will now require some more planning.
 
 [![four panels OK; two panels have 'mistakes'](/images/2014/12/thumbs/4.5.5 panels done 2014-12-15 20.48.05.png)](/images/2014/12/4.5.5 panels done 2014-12-15 20.48.05.png)
 
-##22pm
+## 22pm
 
 Turns out it won't take much to repair the maze.
 
-##00:29 Tuesday 16 December 2014 JST##
+## 00:29 Tuesday 16 December 2014 JST
 
 Done.
 
