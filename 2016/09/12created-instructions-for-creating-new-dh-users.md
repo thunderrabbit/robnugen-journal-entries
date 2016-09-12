@@ -85,3 +85,6 @@ Now your password is 132 random characters.  It can be reset in control panel (t
 
     cd $HOME
     $HOME/new-DH-user-account/cleanup.sh
+
+I created these steps after my old Dreamhost account got hacked and
+needed to create new accounts.
