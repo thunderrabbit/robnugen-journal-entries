@@ -18,3 +18,11 @@ Featuring https, the latest version of Mediawiki, and an
 ["amazing" array of navigation routes](https://github.com/thunderrabbit/NavigationForPagesAsRooms/blob/master/NavigationForPagesAsRooms.php),
 [The Castle of Dreams](https://thunderrabbit.com/castle/The_Castle_Entrance)
 is ready for exploration!
+
+## 14:40
+
+Sweet.  Now if we visit via http it will refresh to https.  And I
+added a link from https://thunderrabbit.com/ top page to the Dragon
+run-way of the wiki.  Get it?  Run way?  Where dragons run?  If I did
+it again now I might make it "Dragon run way" without a hyphen, but
+I'm not going to change it right now.  I gotta run to next lesson.
