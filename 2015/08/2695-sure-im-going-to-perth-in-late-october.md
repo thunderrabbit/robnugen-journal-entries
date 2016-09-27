@@ -1,5 +1,5 @@
 ---
-title: 95% sure I'm going to Perth in late October
+title: 95 percent sure I'm going to Perth in late October
 tags: mkp, perth
 author: Rob Nugen
 date: 2015-08-26T01:02:33+09:00
