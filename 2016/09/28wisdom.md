@@ -34,3 +34,10 @@ now.  I know it's not 1/4 of the way to Niigata, but it's more than
 
 From here to Niigata is 74 hours on foot.  From here to work is 1.25
 hours on foot.
+
+## 14:48
+
+Aw man, it's raining!
+
+(And I have no rain cover for my backpack, the only part of me that's
+not waterproof.)
