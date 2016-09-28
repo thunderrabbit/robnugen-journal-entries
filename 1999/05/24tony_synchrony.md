@@ -29,3 +29,7 @@ date: 1999-05-24T11:00:00-06:00
 <p>Great stories he told of racing yachts and of Sydney and beaches and the whole fun lifestyle the Aussies live.  We only talked for like 10 minutes, but I gave him my card and he'll get me in touch with his homies.  So awesome.
 
 <p>Thank you Angels.
+
+## 13:29 Wednesday 28 September 2016 JST
+
+Yeah that never came to fruition.
