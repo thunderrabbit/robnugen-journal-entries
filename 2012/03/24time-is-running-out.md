@@ -1,4 +1,5 @@
 ---
+date: 2012-03-24T16:13:56+09:00
 slug: time-is-running-out
 title: Time is running out!
 tags: journal

@@ -1,4 +1,5 @@
 ---
+date: 2005-11-19T20:27:45+09:00
 slug: soml
 title: SoML
 tags: news

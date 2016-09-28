@@ -1,4 +1,5 @@
 ---
+date: 2013-04-10T21:45:17+09:00
 slug: good-day-at-work
 title: good day at work
 tags: work

@@ -1,4 +1,5 @@
 ---
+date: 2012-11-22T17:47:38+09:00
 slug: digging-through-tutorial
 title: digging through tutorial
 tags: journal

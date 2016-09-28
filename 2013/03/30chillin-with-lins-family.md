@@ -1,4 +1,5 @@
 ---
+date: 2013-03-30T19:11:32+09:00
 slug: chillin-with-lins-family
 title: Chillin' with Lin's family
 tags: family,journal

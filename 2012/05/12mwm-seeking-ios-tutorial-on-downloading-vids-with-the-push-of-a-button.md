@@ -1,4 +1,5 @@
 ---
+date: 2012-05-12T15:25:06+09:00
 slug: mwm-seeking-ios-tutorial-on-downloading-vids-with-the-push-of-a-button
 title: mwm seeking iOS tutorial on downloading vids with the push of a button
 tags: journal

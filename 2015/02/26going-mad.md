@@ -2,6 +2,7 @@
 title: going mad
 tags: code, design
 author: Rob Nugen
+date: 2015-02-26T17:39:00+09:00
 ---
 
 ##17:39 Thursday 26 February 2015 JST##

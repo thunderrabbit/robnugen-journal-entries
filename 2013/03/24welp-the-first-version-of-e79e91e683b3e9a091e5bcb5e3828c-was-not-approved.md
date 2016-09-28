@@ -1,4 +1,5 @@
 ---
+date: 2013-03-24T18:44:06+09:00
 slug: welp-the-first-version-of-%e7%9e%91%e6%83%b3%e9%a0%91%e5%bc%b5%e3%82%8c-was-not-approved
 title: welp, the first version of 瞑想頑張れ was not approved
 tags: meisogambare

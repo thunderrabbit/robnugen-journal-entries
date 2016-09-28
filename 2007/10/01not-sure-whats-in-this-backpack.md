@@ -1,4 +1,5 @@
 ---
+date: 2007-10-01T17:56:05+09:00
 slug: not-sure-whats-in-this-backpack
 title: Not sure what's in this backpack
 tags: miscellaneous

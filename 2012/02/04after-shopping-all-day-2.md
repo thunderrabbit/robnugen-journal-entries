@@ -1,4 +1,5 @@
 ---
+date: 2012-02-04T21:00:50+09:00
 slug: after-shopping-all-day-2
 title: After shopping all day
 tags: journal

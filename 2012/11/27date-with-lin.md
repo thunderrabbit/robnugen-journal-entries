@@ -1,4 +1,5 @@
 ---
+date: 2012-11-27T21:53:55+09:00
 slug: date-with-lin
 title: date with Lin
 tags: date,lin

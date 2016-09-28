@@ -1,4 +1,5 @@
 ---
+date: 2013-04-20T22:34:18+09:00
 slug: lazy-saturday
 title: lazy Saturday
 tags: minecraft

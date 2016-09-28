@@ -1,4 +1,5 @@
 ---
+date: 2013-03-16T16:58:50+09:00
 slug: just-submitted-%e7%9e%91%e6%83%b3%e9%a0%91%e5%bc%b5%e3%82%8c
 title: just submitted 瞑想頑張れ for the first time
 tags: apple,meisogambare

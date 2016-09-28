@@ -1,4 +1,5 @@
 ---
+date: 2013-02-12T23:43:54+09:00
 slug: redesign-for-side-menu-in-new-card-game
 title: redesign for side menu in new card game
 tags: programming

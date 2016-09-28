@@ -2,6 +2,7 @@
 title: made some new art pieces
 tags: art, npm14
 author: Rob Nugen
+date: 2014-12-13
 ---
 
 ##01:27 Saturday 13 December 2014 JST##

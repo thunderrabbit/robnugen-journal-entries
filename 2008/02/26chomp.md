@@ -1,4 +1,5 @@
 ---
+date: 2008-02-26T17:22:35+09:00
 slug: chomp
 title: chomp!
 tags: news,travel

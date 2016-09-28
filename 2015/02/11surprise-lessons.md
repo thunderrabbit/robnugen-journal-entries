@@ -2,6 +2,7 @@
 title: surprise lessons!
 tags: lessons
 author: Rob Nugen
+date: 2015-02-11
 ---
 
 ##09:40 Thursday 12 February 2015 JST##

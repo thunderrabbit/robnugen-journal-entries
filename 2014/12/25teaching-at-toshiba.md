@@ -2,6 +2,7 @@
 title: teaching at Toshiba
 tags: lesson
 author: Rob Nugen
+date: 2014-12-25
 ---
 
 ##00:09 Sunday 28 December 2014 JST##

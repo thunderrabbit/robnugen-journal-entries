@@ -2,6 +2,7 @@
 title: Dream flew quickly
 tags: dream
 author: Rob Nugen
+date: 2015-02-20T08:43:00+09:00
 ---
 
 ##08:43 Friday 20 February 2015 JST##

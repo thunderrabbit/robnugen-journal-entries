@@ -2,6 +2,7 @@
 title: Hung out with Soness
 tags: soness
 author: Rob Nugen
+date: 2015-01-15
 ---
 
 ##20:37 Thursday 15 January 2015 JST##

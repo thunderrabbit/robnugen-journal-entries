@@ -2,6 +2,7 @@
 title: Old Minecraft pics
 tags: minecraft, pics
 author: Rob Nugen
+date: 2015-01-14
 ---
 
 ##19:02 Wednesday 14 January 2015 JST##

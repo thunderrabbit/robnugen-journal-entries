@@ -1,4 +1,5 @@
 ---
+date: 2013-04-04T18:28:28+09:00
 slug: crappy-coughy-sick
 title: crappy coughy sick
 tags: journal

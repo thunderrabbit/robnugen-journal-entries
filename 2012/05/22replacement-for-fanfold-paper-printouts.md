@@ -1,4 +1,5 @@
 ---
+date: 2012-05-22T20:04:22+09:00
 slug: replacement-for-fanfold-paper-printouts
 title: replacement for fanfold paper printouts
 tags: journal

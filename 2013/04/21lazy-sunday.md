@@ -1,4 +1,5 @@
 ---
+date: 2013-04-21T22:34:10+09:00
 slug: lazy-sunday
 title: lazy Sunday
 tags: journal

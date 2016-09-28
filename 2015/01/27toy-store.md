@@ -2,6 +2,7 @@
 title: toy store
 tags: chaos game
 author: Rob Nugen
+date: 2015-01-27
 ---
 
 ##18:40 Tuesday 27 January 2015 JST##

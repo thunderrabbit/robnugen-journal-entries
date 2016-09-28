@@ -1,4 +1,5 @@
 ---
+date: 2012-02-04T18:44:07+09:00
 slug: pizza-meet-cheese
 title: Pizza, meet cheese.
 tags: journal

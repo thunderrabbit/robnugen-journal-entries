@@ -1,4 +1,5 @@
 ---
+date: 2012-06-28T18:05:03+09:00
 slug: a-force-is-a-force-of-course-of-course
 title: A force is a force of course of course
 tags: journal

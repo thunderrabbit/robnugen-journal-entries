@@ -1,4 +1,5 @@
 ---
+date: 2013-02-09T23:00:25+09:00
 slug: hung-out-at-mikarins-today
 title: hung out at Mikarin's today
 tags: family,journal

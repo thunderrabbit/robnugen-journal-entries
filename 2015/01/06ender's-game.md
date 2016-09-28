@@ -2,6 +2,7 @@
 title: Ender's Game
 tags: spoilers
 author: Rob Nugen
+date: 2015-01-06
 ---
 
 ##16:23 Tuesday 06 January 2015 JST##

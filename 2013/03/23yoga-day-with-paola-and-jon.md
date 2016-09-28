@@ -1,4 +1,5 @@
 ---
+date: 2013-03-23T22:52:51+09:00
 slug: yoga-day-with-paola-and-jon
 title: yoga day with Paola and Jon
 tags: yoga,yumyum

@@ -2,6 +2,7 @@
 title: up too late
 tags: minecraft
 author: Rob Nugen
+date: 2015-01-07
 ---
 
 ##02:56 Thursday 08 January 2015 JST##

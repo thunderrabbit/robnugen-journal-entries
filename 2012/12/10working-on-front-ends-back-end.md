@@ -1,4 +1,5 @@
 ---
+date: 2012-12-10T22:50:51+09:00
 slug: working-on-front-ends-back-end
 title: working on front end's back end
 tags: journal,work

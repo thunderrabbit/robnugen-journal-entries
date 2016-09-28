@@ -1,4 +1,5 @@
 ---
+date: 2012-03-24T17:01:30+09:00
 slug: weekend-trip-to-ito-by-car
 title: weekend trip to Ito by car
 tags: journal

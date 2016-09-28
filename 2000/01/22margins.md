@@ -2,7 +2,7 @@
 title: Margins
 tags: margins, funny
 author: Rob Nugen
-date: 2000-01-22
+date: 2000-01-22T17:59:00-06:00
 ---
 
 <title>Margins</title>

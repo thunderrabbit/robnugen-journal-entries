@@ -2,6 +2,7 @@
 title: Awake early
 tags: awake, dreams
 author: Rob Nugen
+date: 2014-12-15
 ---
 
 ##03:47 Monday 15 December 2014 JST##

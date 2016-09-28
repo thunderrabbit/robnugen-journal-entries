@@ -2,6 +2,7 @@
 title: Brighter than the sun
 tags: reflection
 author: Rob Nugen
+date: 2015-01-08
 ---
 
 ##18:54 Wednesday 14 January 2015 JST##

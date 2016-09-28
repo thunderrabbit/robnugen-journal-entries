@@ -2,6 +2,7 @@
 title: workout
 tags: workout
 author: Rob Nugen
+date: 2015-01-25
 ---
 
 ##08:55 Monday 26 January 2015 JST##

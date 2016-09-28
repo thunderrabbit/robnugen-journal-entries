@@ -2,6 +2,7 @@
 title: dream
 tags: dream
 author: Rob Nugen
+date: 2015-01-22
 ---
 
 ##04:30 Thursday 22 January 2015 JST##

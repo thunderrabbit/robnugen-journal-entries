@@ -1,4 +1,5 @@
 ---
+date: 2012-12-13T17:40:04+09:00
 slug: almost-won-git-lottery
 title: almost won git lottery
 tags: journal

@@ -2,6 +2,7 @@
 title: Done did today
 tags: work
 author: Rob Nugen
+date: 2015-02-20T18:05:00+09:00
 ---
 
 ##18:05 Friday 20 February 2015 JST##

@@ -1,4 +1,5 @@
 ---
+date: 2006-08-13T21:43:25+09:00
 slug: rochelle-in-oaxaca
 title: Rochelle in Oaxaca
 tags: guest writer,news,terror,travel

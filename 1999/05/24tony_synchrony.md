@@ -2,7 +2,7 @@
 title: Tony Synchrony
 tags: australia plans
 author: Rob Nugen
-date: 1999-05-24
+date: 1999-05-24T11:00:00-06:00
 ---
 <p><font size="-1">(transcribed from my diary)</font>
 

@@ -2,6 +2,7 @@
 title: Chez Soness features Studio Soness
 tags: soness
 author: Rob Nugen
+date: 2015-02-12T09:31:00+09:00
 ---
 
 ##09:31 Thursday 12 February 2015 JST##

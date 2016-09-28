@@ -1,4 +1,5 @@
 ---
+date: 2006-06-23T15:00:43+09:00
 slug: futurama-rules
 title: Futurama Rules!!!!
 tags: news

@@ -1,4 +1,5 @@
 ---
+date: 2013-03-20T18:05:51+09:00
 slug: caught-up-with-old-functionality-in-refactored-%e6%a5%bd%e3%81%97%e3%81%84%e7%99%ba%e9%9f%b3
 title: caught up with old functionality in refactored 楽しい発音
 tags: programming

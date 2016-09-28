@@ -2,6 +2,7 @@
 title: Disclosure message from Dr Steven Greer
 tags: disclosure
 author: Rob Nugen
+date: 2015-01-02
 ---
 
 ##12:30 Friday 02 January 2015 JST##

@@ -1,4 +1,5 @@
 ---
+date: 2012-03-24T16:43:18+09:00
 slug: lunch-with-anna-bananna
 title: Lunch with Anna Bananna
 tags: journal

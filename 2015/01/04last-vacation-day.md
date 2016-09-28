@@ -2,6 +2,7 @@
 title: last vacation day
 tags: chillin
 author: Rob Nugen
+date: 2015-01-04
 ---
 
 ##23:28 Sunday 04 January 2015 JST##

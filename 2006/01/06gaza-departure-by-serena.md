@@ -1,4 +1,5 @@
 ---
+date: 2006-01-06T20:38:22+09:00
 slug: gaza-departure-by-serena
 title: Gaza Departure by Serena
 tags: guest writer,news,palestine,serena,terror

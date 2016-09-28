@@ -1,4 +1,5 @@
 ---
+date: 2013-01-07T21:48:45+09:00
 slug: closed-some-redmine-tickets
 title: closed some redmine tickets
 tags: journal,work

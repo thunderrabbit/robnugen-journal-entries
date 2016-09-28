@@ -1,4 +1,5 @@
 ---
+date: 2012-02-03T16:42:33+09:00
 slug: magnet-art-shoe
 title: magnet art shoe
 tags: journal

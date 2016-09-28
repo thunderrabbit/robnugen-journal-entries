@@ -1,4 +1,5 @@
 ---
+date: 2013-02-08T20:39:27+09:00
 slug: blockity-blockity-block-block-blocked
 title: blockity blockity block block blocked
 tags: programming

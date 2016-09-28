@@ -1,4 +1,5 @@
 ---
+date: 2013-02-08T22:17:10+09:00
 slug: installed-an-aquarium-above-the-kitchen-sink
 title: installed an aquarium above the kitchen sink
 tags: technology

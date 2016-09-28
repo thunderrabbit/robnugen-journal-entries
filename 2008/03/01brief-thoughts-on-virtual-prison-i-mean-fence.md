@@ -1,4 +1,5 @@
 ---
+date: 2008-03-01T21:19:04+09:00
 slug: brief-thoughts-on-virtual-prison-i-mean-fence
 title: Brief thoughts on Virtual Prison, I mean Fence
 tags: news,terror,travel

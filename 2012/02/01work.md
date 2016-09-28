@@ -1,4 +1,5 @@
 ---
+date: 2012-02-01T20:15:23+09:00
 slug: work
 title: work
 tags: journal

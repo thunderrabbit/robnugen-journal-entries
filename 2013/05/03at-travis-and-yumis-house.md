@@ -1,4 +1,5 @@
 ---
+date: 2013-05-03T18:42:38+09:00
 slug: at-travis-and-yumis-house
 title: At Travis and Yumi's house
 tags: journal

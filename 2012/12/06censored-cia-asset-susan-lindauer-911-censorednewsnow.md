@@ -1,4 +1,5 @@
 ---
+date: 2012-12-06T21:28:54+09:00
 slug: censored-cia-asset-susan-lindauer-911-censorednewsnow
 title: 'CENSORED: CIA Asset Susan Lindauer - 911 @censorednewsnow'
 tags: airplane day,news,terror

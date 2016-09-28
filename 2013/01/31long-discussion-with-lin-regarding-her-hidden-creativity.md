@@ -1,4 +1,5 @@
 ---
+date: 2013-01-31T21:20:20+09:00
 published: false
 slug: long-discussion-with-lin-regarding-her-hidden-creativity
 title: long discussion with Lin regarding her hidden creativity

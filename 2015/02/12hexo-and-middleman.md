@@ -2,6 +2,7 @@
 title: Hexo and Middleman
 tags: hexo, middleman
 author: Rob Nugen
+date: 2015-02-12T17:15:00+09:00
 ---
 
 ##17:15 Thursday 12 February 2015 JST##

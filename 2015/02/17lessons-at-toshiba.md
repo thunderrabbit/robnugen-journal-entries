@@ -2,6 +2,7 @@
 title: Chapters at Toshiba
 tags: lessons
 author: Rob Nugen
+date: 2015-02-17T17:21:00+09:00
 ---
 
 ##17:21 Tuesday 17 February 2015 JST##

@@ -1,4 +1,5 @@
 ---
+date: 2008-05-18T16:54:27+09:00
 slug: cellie-0124jpg
 title: cellie-0124.jpg
 tags: news

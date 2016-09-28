@@ -1,4 +1,5 @@
 ---
+date: 2012-02-02T23:00:45+09:00
 slug: nabe-for-dinner
 title: Nabe for dinner
 tags: journal

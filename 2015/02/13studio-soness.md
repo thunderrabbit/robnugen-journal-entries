@@ -2,6 +2,7 @@
 title: Studio Soness
 tags: work, fun
 author: Rob Nugen
+date: 2015-02-13T20:54:00+09:00
 ---
 
 ##20:54 Friday 13 February 2015 JST##

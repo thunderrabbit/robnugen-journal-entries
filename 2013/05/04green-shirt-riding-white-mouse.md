@@ -1,4 +1,5 @@
 ---
+date: 2013-05-04T18:33:11+09:00
 slug: green-shirt-riding-white-mouse
 title: Green shirt riding white mouse
 tags: green

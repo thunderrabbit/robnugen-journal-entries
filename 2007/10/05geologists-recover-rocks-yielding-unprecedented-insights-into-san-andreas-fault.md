@@ -1,4 +1,5 @@
 ---
+date: 2007-10-05T18:52:59+09:00
 slug: geologists-recover-rocks-yielding-unprecedented-insights-into-san-andreas-fault
 title: Geologists recover rocks yielding unprecedented insights into San Andreas Fault
 tags: news,technology

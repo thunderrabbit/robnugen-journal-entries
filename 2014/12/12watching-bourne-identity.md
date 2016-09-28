@@ -2,6 +2,7 @@
 title: watching Bourne Identity
 tags: movie, hulu
 author: Rob Nugen
+date: 2014-12-13
 ---
 
 ##00:00 Saturday 13 December 2014 JST##

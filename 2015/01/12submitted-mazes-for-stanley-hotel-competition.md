@@ -2,6 +2,7 @@
 title: submitted mazes for Stanley Hotel competition
 tags: mazes
 author: Rob Nugen
+date: 2015-01-12
 ---
 
 ##00:24 Tuesday 13 January 2015 JST##

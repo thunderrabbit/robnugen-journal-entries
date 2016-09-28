@@ -2,6 +2,7 @@
 title: Reiki meetup in Matsudo
 tags: reiki
 author: Rob Nugen
+date: 2015-01-25
 ---
 
 ##16:09 Sunday 25 January 2015 JST##

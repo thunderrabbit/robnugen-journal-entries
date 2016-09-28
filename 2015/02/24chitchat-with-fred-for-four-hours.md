@@ -2,6 +2,7 @@
 title: Chitchat with Fred for four hours
 tags: fred
 author: Rob Nugen
+date: 2015-02-24T18:06:00+09:00
 ---
 
 ##18:06 Tuesday 24 February 2015 JST##

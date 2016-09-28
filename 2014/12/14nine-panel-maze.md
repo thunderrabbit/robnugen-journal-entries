@@ -2,6 +2,7 @@
 title: Nine panel maze
 tags: art, npm14
 author: Rob Nugen
+date: 2014-12-14
 ---
 
 ##03:38 Monday 15 December 2014 JST##

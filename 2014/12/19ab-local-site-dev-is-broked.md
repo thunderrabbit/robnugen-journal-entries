@@ -2,6 +2,7 @@
 title: AB local site dev is broked
 tags: dang
 author: Rob Nugen
+date: 2014-12-20
 ---
 
 ##09:54 Saturday 20 December 2014 JST##

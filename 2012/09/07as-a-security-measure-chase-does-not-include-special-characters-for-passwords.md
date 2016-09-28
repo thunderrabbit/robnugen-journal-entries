@@ -1,4 +1,5 @@
 ---
+date: 2012-09-07T19:42:12+09:00
 slug: as-a-security-measure-chase-does-not-include-special-characters-for-passwords
 title: As a security measure, Chase does not include special characters for passwords
 tags: journal

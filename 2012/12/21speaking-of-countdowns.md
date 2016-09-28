@@ -1,4 +1,5 @@
 ---
+date: 2012-12-21T22:40:58+09:00
 slug: speaking-of-countdowns
 title: speaking of countdowns
 tags: guest writer,internet

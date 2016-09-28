@@ -1,4 +1,5 @@
 ---
+date: 2005-11-08T20:39:14+09:00
 slug: origami
 title: origami
 tags: math / logic

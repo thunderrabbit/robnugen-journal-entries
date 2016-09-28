@@ -2,6 +2,7 @@
 title: daily meditation thread
 tags: meditation, reddit
 author: Rob Nugen
+date: 2015-02-17T18:50:00+09:00
 ---
 
 ##18:50 Tuesday 17 February 2015 JST##

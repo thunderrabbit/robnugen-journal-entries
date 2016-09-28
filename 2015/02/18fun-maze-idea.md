@@ -2,6 +2,7 @@
 title: Fun maze idea
 tags: maze
 author: Rob Nugen
+date: 2015-02-18T18:30:00+09:00
 ---
 
 ##18:30 Wednesday 18 February 2015 JST##
