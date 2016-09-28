@@ -2,6 +2,7 @@
 title: Netlify now does git clone --recursive!
 tags: netlify
 author: Rob Nugen
+date: 2015-03-07T07:16:00+09:00
 ---
 
 ##07:16 Saturday 07 March 2015 JST##
