@@ -1,0 +1,22 @@
+---
+title: Work
+tags: 
+author: Rob Nugen
+date: 2003-11-24
+---
+
+<p class=date>3:19pm JST Monday 24 November 2003</p>
+
+<p>Only three lessons before lunch today, but then only TWO lessons
+  after lunch.  Whoohoo!  I taught one student twice today.  Her name
+  is くみこ, which I decided I could remember cause I had her
+  >M&lt;.</p>
+
+<p>I don't remember her face really, but she was wearing a red
+  turtleneck sweater.</p>
+
+<p>I figured out how to remember ゆたか's name; it ends with か like
+  a question sentence.  So I can be like, "ゆたかですか" and it
+  rhymes and I'll be right.</p>
+
+<p>(wtf, right?  I guess I am learning this shit.)</p>
