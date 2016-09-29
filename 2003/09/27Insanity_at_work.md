@@ -2,7 +2,7 @@
 title: Insanity at work
 tags: work
 author: Rob Nugen
-date: 2003-09- 2
+date: 2003-09-27
 ---
 
 <p class=date>10:05am JST Saturday 27 September 2003</p>
