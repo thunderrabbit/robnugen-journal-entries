@@ -1,5 +1,5 @@
 ---
-title: 17000 days old today!
+title: 17000 days old on October 9th, 2016!
 tags: daysold
 author: Rob Nugen
 date: 2016-10-09T09:09:40+09:00
