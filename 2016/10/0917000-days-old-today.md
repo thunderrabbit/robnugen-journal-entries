@@ -14,3 +14,9 @@ considered rain in my book!
 
 Tonight after the workout I'm going to join Lin at her sisters for
 food and karaoke, which luckily landed on my 17000th day!
+
+## 17:52 Monday 10 October 2016 JST
+
+Karaoke was great!  It was Lin, Charu, and Mikako; we all had fun
+singing though by the end I was sooo tired I just lay down and
+listened.
