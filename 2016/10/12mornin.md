@@ -16,3 +16,11 @@ The restaurant had a Pepper robot in front, but it wouldn't follow me
 when I beckoned it.  It faced me, but didn't come with me.
 
 Gotta pack and bounce outta here.
+
+## 07:53 Wednesday 12 October 2016 JST
+
+I'm the first person in the departure lounge!
+
+The bus was pretty much full: full sized, and full of people.  Plus
+there was another bus which left at the same time.  Plenty of
+travelers woke up early in that hotel.
