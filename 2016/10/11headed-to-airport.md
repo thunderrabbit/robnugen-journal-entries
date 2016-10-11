@@ -25,3 +25,9 @@ Done.  Now working on days old page of website.
 
 Actually about to take a shower; I'm past the too tired to program
 well stage.
+
+Actually I'm at the "should I take a shower" stage.
+
+## 01:34 Wednesday 12 October 2016 JST
+
+Just took a shower.
