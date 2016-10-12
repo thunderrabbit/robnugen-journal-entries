@@ -1,6 +1,8 @@
 ---
 title: codin
 tags: days
+categories:
+  - "programming"
 author: Rob Nugen
 date: 2016-10-12T15:31:12+09:00
 ---

@@ -1,6 +1,8 @@
 ---
 title: flyin
 tags: flight
+categories:
+  - travel
 author: Rob Nugen
 date: 2016-10-12T10:19:21+09:00
 ---

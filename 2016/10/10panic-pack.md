@@ -1,6 +1,8 @@
 ---
 title: panic pack
 tags: oops
+categories:
+  - travel
 author: Rob Nugen
 date: 2016-10-10T17:51:28+09:00
 ---

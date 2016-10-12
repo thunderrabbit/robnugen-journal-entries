@@ -1,6 +1,8 @@
 ---
 title: 17000 days old today!
 tags: daysold
+categories:
+  - counting
 author: Rob Nugen
 date: 2016-10-09T09:09:40+09:00
 ---

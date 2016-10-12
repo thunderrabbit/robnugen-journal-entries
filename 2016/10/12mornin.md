@@ -1,6 +1,8 @@
 ---
 title: mornin
-tags: 
+tags: [ "lin", "breakfast", "hotel" ]
+categories:
+  - "travel"
 author: Rob Nugen
 date: 2016-10-12T05:56:35+09:00
 ---

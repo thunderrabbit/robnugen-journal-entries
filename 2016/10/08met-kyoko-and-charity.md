@@ -1,6 +1,8 @@
 ---
 title: met Hanako and Christy
-tags: austin
+tags: [ "austin", "meet", "first" ]
+categories:
+  - peeps
 author: Rob Nugen
 date: 2016-10-08T23:52:45+09:00
 ---

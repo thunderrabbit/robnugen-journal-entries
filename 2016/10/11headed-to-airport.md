@@ -1,6 +1,8 @@
 ---
 title: headed to airport
-tags: lin
+tags: [ "lin", "drive" ]
+categories:
+  - "travel"
 author: Rob Nugen
 date: 2016-10-11T23:37:54+09:00
 ---

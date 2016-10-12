@@ -1,6 +1,8 @@
 ---
 title: Jennie went outside
 tags: cat
+categories:
+  - home
 author: Rob Nugen
 date: 2016-10-10T17:54:50+09:00
 ---

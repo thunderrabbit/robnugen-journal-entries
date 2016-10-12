@@ -1,6 +1,8 @@
 ---
 title: waitin
 tags: hmm
+categories:
+  - travel
 author: Rob Nugen
 date: 2016-10-12T14:48:55+09:00
 ---

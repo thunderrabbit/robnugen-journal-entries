@@ -1,6 +1,8 @@
 ---
 title: headache
 tags: oof
+categories:
+  - "health"
 author: Rob Nugen
 date: 2016-10-11T11:42:46+09:00
 ---
