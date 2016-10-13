@@ -23,3 +23,6 @@ I have just discovered the
 [dateDiff](https://github.com/xrexonx/dateDiff) library I snagged
 doesn't allow dates from the 1800s.  Do I care?  Hmmmm.
 
+## 00:09 Thursday 13 October 2016 AWST
+
+I cared enough to make it handle dates from 1700 to 2599.  https://github.com/thunderrabbit/javascript-days-old-counter/commits/master/js/rDateDiff.min.js
