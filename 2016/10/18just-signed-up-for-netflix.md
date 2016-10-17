@@ -14,6 +14,7 @@ supports Netflix, not just Hulu which we've liked for a long while,
 Netflix is hella better than Hulu.
 
 1. can pause movies for a while without the stream being disconnected
+8. can fast forward and reverse with great control
 2. can see thumbnails larger than a postage stamp
 3. can see titles and descriptions in English
 4. can rate movies
