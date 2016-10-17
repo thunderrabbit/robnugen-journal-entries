@@ -21,5 +21,5 @@ Netflix is hella better than Hulu.
 6. seems like a lot more variety of things to watch
 7. 5% less expensive
 
-Just turned on Lock Stock and Two Smoking Barrels, and realize I've
+Just turned on *Lock Stock and Two Smoking Barrels*, and realize I've
 never seen it before!
