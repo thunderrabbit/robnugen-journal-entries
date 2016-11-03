@@ -1,5 +1,5 @@
 ---
-title: movie: The Magic of Belle Isle
+title: movie The Magic of Belle Isle
 tags: review
 author: Rob Nugen
 date: 2016-11-03T00:26:35+09:00
