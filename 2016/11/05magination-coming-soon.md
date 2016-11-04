@@ -9,7 +9,7 @@ date: 2016-11-05T01:13:30+09:00
 
 Hooray!!
 
-[![magination title](//b.robnugen.com/science/physics/magnetism/magination/thumbs/magination_title.png)](//b.robnugen.com/science/physics/magnetism/magination/magination_title.png)
+[![magination title](//b.robnugen.com/science/physics/magnetism/magination/thumbs/magination_title.png)](https://www.maginationgame.com/)
 
 ### Hi, L1-Rob Nugen
 
