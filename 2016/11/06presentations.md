@@ -19,4 +19,10 @@ http://www.pechakucha.org/cities/tokyo/events/581bfccc9831a6196b000002
 
 - Rob
 
+In other news, I'm planning to present Head Heart and Soul to anyone
+who wants a sense of what the men's group work is about.
 
+In other news, I'm scheduled to be filmed in mid December for TV show
+to air in late December.
+
+I gotta prep and part of me fears I'll sabotage it all.
