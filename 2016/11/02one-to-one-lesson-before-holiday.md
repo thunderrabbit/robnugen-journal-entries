@@ -11,3 +11,9 @@ My group lesson had only one student; I suggested http://newsinlevels.com and
 http://breakingnewsenglish.com as ways she can practice extensive reading.
 There are probably some free sites that are actually geared toward ER,
 but I don't have their domains memorized.
+
+## 11:42 Saturday 05 November 2016 JST
+
+Surprise! That turned out to be my last lesson there.  I had mentioned
+to them that it's a bit far for me to travel and then boom they got a
+new teacher.
