@@ -22,3 +22,9 @@ should be, and I don't see it.
 Good thing it's not possible to load them up with more than $200.
 
 Dang.
+
+## 07:35
+
+Found it on Jennie's cat tower.  I'll have to have a talk with her.
+
+&lt;what_cats_hear.png>
