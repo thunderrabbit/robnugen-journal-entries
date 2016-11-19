@@ -18,3 +18,7 @@ Check out that TLD!  https://quicksight.aws
 Yes, it's still cool.  Did Amazon create that for themselves?  I know
 Google did a few, but hadn't seen any other companies with top level
 domains.
+
+## 10:25 Thursday 17 November 2016 JST
+
+http://nic.aws/
