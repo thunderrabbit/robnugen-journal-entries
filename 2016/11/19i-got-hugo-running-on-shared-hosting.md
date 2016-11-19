@@ -22,3 +22,8 @@ hugo.
 
 I copied that to my shared host and it works, though it runs more
 slowly than on my local box.
+
+## 21:38 Saturday 19 November 2016 JST
+
+Okay now messing with https://gist.github.com/thomasfr/9691385 to see
+if I can get git hooks set up.
