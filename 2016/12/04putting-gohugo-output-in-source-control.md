@@ -29,4 +29,3 @@ Rebuild site with Hugo
     git add .
 	git commit -m "Changes from local"
     git push origin master
-
