@@ -28,7 +28,7 @@ But now the last two lines can be replaced with these, I think:
 
     cd public
     git add .
-	git commit -m "Published on `date"
+	git commit -m "Published on `date`"
 	git push origin master
 
 Let's see if it works.
