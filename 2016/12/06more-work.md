@@ -11,4 +11,4 @@ In addition to fixing the functionality of a survey thing, I watched
 an hour of David Blaine freak people out, and nearly got my ansible
 thing to install a website, but it's not working 100% due to an AJAX
 call returning 404 on the test system.  Is it due to the fact that
-I've got the domain set to the test IP locally?  Hmmm.
+I've got the domain set to the test IP locally?  Hmmm..
