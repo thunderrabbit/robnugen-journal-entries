@@ -1,5 +1,5 @@
 ---
-title: Today's schedule:
+title: Today's schedule：
 tags: plan
 author: Rob Nugen
 date: 2016-12-15T07:54:07+09:00
