@@ -29,4 +29,6 @@ the screen.
       node.removeFromParent()
     }
 
+[(source)](https://developer.apple.com/reference/spritekit/skfieldnode#1654415)
+
 Swift (along with SpriteKit) is pretty easy to work with for this kind of thing.
