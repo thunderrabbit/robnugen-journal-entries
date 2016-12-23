@@ -14,8 +14,5 @@ coffee.  She put the cup in her cup holder and fell asleep.
 Then we went up into the mountains and the pressure inside the cup
 gently squirted coffee out through the straw.
 
-I hope I remember to upload the photo.
-
-Stop fuckin around and remind me! ;-) (They were taken with my Little
-Blue Monkey iPhone 4S.)
+[![physics 2016-12-23 10.50.05](//b.robnugen.com/travel/japan/Niigata_2016/thumbs/physics_2016-12-23_10.50.05.jpg)](//b.robnugen.com/travel/japan/Niigata_2016/physics_2016-12-23_10.50.05.jpg)
 
