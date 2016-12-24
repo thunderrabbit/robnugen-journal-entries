@@ -1,5 +1,5 @@
 ---
-title: dream: brush teeth proudly
+title: dream： brush teeth proudly
 tags: dream
 author: Rob Nugen
 date: 2016-12-24T06:15:29+09:00
