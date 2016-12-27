@@ -26,8 +26,6 @@ into Finder for drag and drop.  I kinda think it will fail and I'll
 have to whip out the command line and actually copy and paste some
 directory names.
 
-0969
-
 ## 11:35
 
 Wow it finished without crashing!  273 MB in 38 minutes.  Finder never
