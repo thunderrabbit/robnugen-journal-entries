@@ -43,21 +43,12 @@ equally silly.
 
 It finished.  Now let's see if the images were actually copied.
 
-[![DSC 0942](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/thumbs/DSC_0942.jpg)](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/DSC_0942.jpg)
-[![DSC 0943](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/thumbs/DSC_0943.jpg)](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/DSC_0943.jpg)
-[![DSC 0944](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/thumbs/DSC_0944.jpg)](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/DSC_0944.jpg)
-[![DSC 0945](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/thumbs/DSC_0945.jpg)](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/DSC_0945.jpg)
-[![DSC 0946](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/thumbs/DSC_0946.jpg)](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/DSC_0946.jpg)
-[![DSC 0947](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/thumbs/DSC_0947.jpg)](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/DSC_0947.jpg)
-[![DSC 0948](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/thumbs/DSC_0948.jpg)](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/DSC_0948.jpg)
-[![DSC 0949](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/thumbs/DSC_0949.jpg)](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/DSC_0949.jpg)
-[![DSC 0950](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/thumbs/DSC_0950.jpg)](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/DSC_0950.jpg)
-[![DSC 0951](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/thumbs/DSC_0951.jpg)](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/DSC_0951.jpg)
-[![DSC 0952](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/thumbs/DSC_0952.jpg)](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/DSC_0952.jpg)
-[![DSC 0953](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/thumbs/DSC_0953.jpg)](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/DSC_0953.jpg)
-[![DSC 0954](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/thumbs/DSC_0954.jpg)](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/DSC_0954.jpg)
-[![DSC 0955](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/thumbs/DSC_0955.jpg)](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/DSC_0955.jpg)
-[![DSC 0956](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/thumbs/DSC_0956.jpg)](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/DSC_0956.jpg)
-[![DSC 0957](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/thumbs/DSC_0957.jpg)](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/DSC_0957.jpg)
-[![DSC 0958](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/thumbs/DSC_0958.jpg)](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/DSC_0958.jpg)
+## 11:51
 
+Nice.  They're all here
+http://b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/
+
+Here are the ones I like best:
+
+[![DSC 0969](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/thumbs/DSC_0969.jpg)](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/DSC_0969.jpg)
+[![DSC 1058](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/thumbs/DSC_1058.jpg)](//b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/DSC_1058.jpg)
