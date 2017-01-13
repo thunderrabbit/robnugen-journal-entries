@@ -13,6 +13,8 @@ lesson was fine, and then I-group online was equally fine.
 Went to lunch with Kai, and talked about our respective presentations
 while eating at Kung Fu Panda (?) in the food court.
 
+[![fortune 12 jan 2017](//b.robnugen.com/journal/2017/thumbs/fortune_12_jan_2017.jpg)](//b.robnugen.com/journal/2017/fortune_12_jan_2017.jpg)
+
 Had an extra hour before lesson at T, so I went to Unidy and got a
 hook for my wallet chain, because my previous hook broke.  The guy at
 the info desk spoke English more effectively than I would have
