@@ -1,5 +1,5 @@
 ---
-title: (solved) Ansible incorrect values in /usr/share/redmine/config/database.yml
+title: (solved) Ansible incorrect values in usr share redmine config database.yml
 tags: work
 author: Rob Nugen
 date: 2017-01-15T09:38:28+09:00
