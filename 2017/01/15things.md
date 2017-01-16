@@ -2,8 +2,20 @@
 title: (solved) Ansible incorrect values in usr share redmine config database.yml
 tags: work
 author: Rob Nugen
-date: 2017-01-15T09:38:28+09:00
+date: 2017-01-15T03:29:28+09:00
 ---
+
+## 03:29 Sunday 15 January 2017 JST
+
+now it's 3:29.  fuck this I'm going to bed.
+
+for some reason I can't figure out what command added the database config file that I want on my new server
+
+I have some old copies of the new server and on one of them the database is configured properly.  But when I ran through (what I thought were) the same steps again, the database is not configured.
+
+tomorrow I'm going to restart all the servers I have, grab copies of their .bash_history files and try to figure out if one of the servers had an extra step added or something.
+good night
+
 
 ## 09:38 Sunday 15 January 2017 JST
 
