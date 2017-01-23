@@ -26,3 +26,12 @@ Steps to fix
 2. Get it authorized for use
 3. Turn authentication back on (optional)
 4. Use it as the Development RSS feed for Instant Articles
+
+## 16:06 Monday 23 January 2017 JST
+
+Okay so it looks like we just have to figure out how to replace all
+&lt;br> tags with &lt;p>&lt/p> tags.  I'll just run a little regex and
+whoops no that didn't work, well how about..  oops no that won't work,
+maybe if we just scream
+
+FACEBOOK Y U NO BR TAGS?????
