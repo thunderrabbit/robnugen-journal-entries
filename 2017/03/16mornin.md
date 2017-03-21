@@ -23,4 +23,8 @@ date: 2017-03-16T07:35:33+09:00
 14. I just started bringing my disk to SOGO so we can throw a bit after workout.  Only one taker 12 days ago, but about 4 people this past Sunday.
 15. Student just arrived 11 minutes late.
 
+## 18:08 Thursday 16 March 2017 JST
 
+16. The morning weather was 2 degrees C, basically too cold for me to happily go barefoot, but it got up to 12 C today, which is relatively great barefoot weather.
+17. I really enjoy teaching students who enjoy learning.  I wonder how long I can do it.
+18. I've been watching Mythbusters on Netflix.  I'm up to Season 4 now I think.  Interesting that Scottie just vanished from episodes, replaced by Grant without fanfare.  I hope she left on good terms.
