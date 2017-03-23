@@ -7,7 +7,7 @@ date: 2017-03-23T15:33:02+09:00
 
 ## 15:33 Thursday 23 March 2017 JST
 
-Bleary eyed wake up with Noisy at 5:30am.
+Bleary eyed wake up with [Noisy](https://wiki.robnugen.com/wiki/Items:Noisy) at 5:30am.
 
 Was genki and dancing around by 6am to wake up Lin.
 
