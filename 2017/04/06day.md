@@ -32,3 +32,7 @@ will not get a seat, so go to the first train.  Or queue up for the
 GG lesson was great tonight.  We actually used the book to great
 effect.  And Y was inspired to ask a question.  I wonder if the book
 helped.
+
+## 20:34
+
+Wow I'm tired.  Fallin asleep on train.  bye!
