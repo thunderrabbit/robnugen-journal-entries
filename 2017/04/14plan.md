@@ -23,7 +23,23 @@ steps
 7. point DNS to new box
 8. activate SSL
 
+Step One requires
+
+1. ~~copy cron scripts from live server to local machine~~
+5. ~~Create role to deploy them on vagrant box~~
+6. ~~create playbook to run role~~
+2. ~~copy them into vagrant box (role/templates)~~
+3. ~~remove them from local machine~~
+4. ~~ansible-vault encrypt them on vagrant box~~
+10. ~~Create new mysql backup user~~
+11. ~~Create new mysql log_deleter user~~
+12. ~~Save changes that created users~~
+8. ~~tell role to copy scripts to server~~
+9. have the role create the crontab
+7. run playbook
+
 Step Two requires a few steps for me to feel comfortable with it
+
 1. change the domains to different test sub-domains
 2. ensure I can activate SSL on them
 3. run tests on the sites
