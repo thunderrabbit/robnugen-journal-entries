@@ -35,8 +35,16 @@ Step One requires
 11. ~~Create new mysql log_deleter user~~
 12. ~~Save changes that created users~~
 8. ~~tell role to copy scripts to server~~
-9. have the role create the crontab
-7. run playbook
+9. ~~have the role create the crontab~~
+7. ~~run playbook~~
+13. ~~test the script~~
+14. ~~install s3put command~~
+15. ~~create new s3 credentialed user on AWS Console~~
+16. Add credentials to new server
+17. fix GRANTS for mysql user
+18. test the script
+19. run the script for real
+20. see if it runs via cron
 
 Step Two requires a few steps for me to feel comfortable with it
 
