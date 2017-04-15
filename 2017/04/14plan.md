@@ -14,7 +14,8 @@ I'll finish it up in California and then move it over to Tokyo.
 
 steps
 
-1. add cron jobs
+1. ~~add cron jobs~~
+9. Make sure site works
 2. change the domains to correct domains
 3. make an AMI of the box
 4. copy it to Tokyo
@@ -40,19 +41,19 @@ Step One requires
 13. ~~test the script~~
 14. ~~install s3put command~~
 15. ~~create new s3 credentialed user on AWS Console~~
-16. Add credentials to new server
-17. fix GRANTS for mysql user
-18. test the script
-19. run the script for real
-20. see if it runs via cron
+16. ~~Add credentials to new server~~
+17. ~~fix GRANTS for mysql user~~
+18. ~~test the script~~
+19. ~~run the script for real~~
+20. ~~see if it runs via cron~~
 
-Step Two requires a few steps for me to feel comfortable with it
+Step Three requires a few steps for me to feel comfortable with it
 
 1. change the domains to different test sub-domains
 2. ensure I can activate SSL on them
 3. run tests on the sites
 4. change the domains to correct domains
 
-Step Six requires telling Ansible to talk to servers in a different
+Step Seven requires telling Ansible to talk to servers in a different
 region, which I can probably do in realtime without testing (because
 I won't have activated DNS on the box yet).
