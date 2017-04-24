@@ -15,3 +15,11 @@ work, nor sleep.
 
 I know this reaction is my problem.  I am going to sit (and meditate)
 a bit.
+
+## 09:46 Monday 24 April 2017 JST
+
+Meditation worked wonders.  My feelings shifted from "fuck you" to
+understanding that they have needed to get this fight out for a long
+time.  I gave Lin hugs and kisses when she finally came upstairs.
+They fought for over an hour.. must have been tiring!  She said they
+came to a good understanding, though.
