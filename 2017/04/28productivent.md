@@ -100,3 +100,36 @@ inside the VM.
 
 I am going to reboot my host machine and cross fingers and pray and
 shake my head when nothing changes when it all comes back up.
+
+## 17:29 Friday 28 April 2017 JST
+
+Rebooted, put laundry in wash, ate a banana and some nuts.
+
+## 18:07 Friday 28 April 2017 JST
+
+Upgraded Vagrant, Virtualbox, vagrant-vbguest, but still cannout mount /vagrant.  I'm going to move on.
+
+## 18:59 Friday 28 April 2017 JST
+
+Fantastic.  Got my mgmt box talking to local new box via these handy instructions: https://sysadmincasts.com/episodes/45-learning-ansible-with-vagrant-part-2-4
+
+## 21:03 Friday 28 April 2017 JST
+
+Moe Joe.  Everything was going fine until install mysql.
+
+    dependency problems prevent configuration of mysql-server:
+    mysql-server depends on mysql-server-5.5; however: Package
+    mysql-server-5.5 is not configured yet.
+
+## 22:30 Friday 28 April 2017 JST
+
+Thanks to this http://stackoverflow.com/a/32620242/194309 for getting
+past that error.
+
+Downloading data from S3 now.
+
+## 01:04 Saturday 29 April 2017 JST
+
+Had to import a few by hand and skip some of the big historical
+tables, but hooray I now have the frontend site working to the point
+that it shows the site and I can log in.
