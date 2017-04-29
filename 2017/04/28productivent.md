@@ -124,7 +124,12 @@ Moe Joe.  Everything was going fine until install mysql.
 ## 22:30 Friday 28 April 2017 JST
 
 Thanks to this http://stackoverflow.com/a/32620242/194309 for getting
-past that error.
+past that error.  (Needed to give more than 256MB memory to the
+machine.  I gave it 512MB and it worked.)
+
+          node.vm.provider "virtualbox" do |vb|
+            vb.memory = "512"
+          end
 
 Downloading data from S3 now.
 
