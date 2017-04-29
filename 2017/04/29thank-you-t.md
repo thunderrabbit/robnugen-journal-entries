@@ -44,3 +44,19 @@ output:
     <snip>
     🍺  /usr/local/Cellar/boost/1.64.0_1: 12,630 files, 404.4MB, built in 14 minutes 2 seconds
 
+## 10:09
+
+Okay, back to installing Packer.
+
+    brew install packer
+
+See that took like 5 seconds.  I was hoping for maybe 50 seconds to `brew upgrade`.
+
+Haha I just read they consider this an 'alternative' installation method.  I could have just downloaed a binary.
+
+## 10:40
+
+I read the items under
+[Getting Started on Packer](https://www.packer.io/intro/getting-started/install.html)'s
+site, but did not do more than create a few neural connections in my
+brain. Nothing on my computer except ~/<projects>/packer/README.ROB
