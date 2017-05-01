@@ -13,11 +13,11 @@ VM ever was:
 
 The new VM
 
-# can send emails
-# can easily have deploys target specific branches
-# uses domain names that differ from production by a single character (.cojp vs .co.jp)
-# uses Ubuntu 14
-# is fully deployed via Ansible
+1. can send emails
+2. can easily have deploys target specific branches
+3. uses domain names that differ from production by a single character (.cojp vs .co.jp)
+4. uses Ubuntu 14
+5. is fully deployed via Ansible
 
 and that last item means if I lose my physical computer, I can pretty
 quickly recreate my development environment, at least as far as that
