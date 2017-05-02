@@ -14,7 +14,7 @@ andddd made a [crappy livestream](https://youtu.be/3Iyx0IiKxrI).
 
 Now I am headed out to buy a couple of helpful items.
 
-* glue
-* wall
-* hooks
-* bearings  (hopefully)
+* ~~glue~~
+* ~~wall~~
+* ~~hooks~~
+* ~~bearings~~  (yay!)
