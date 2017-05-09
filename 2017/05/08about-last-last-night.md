@@ -45,4 +45,4 @@ but took a bit longer for the second.
 
 And Gurlene (sp) suggested there is an even *easier* way to solve it!
 
-So great to meet you and looking forward to frisbeen next time!
+So great to meet you and I'm looking forward to frisbee next time!
