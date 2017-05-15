@@ -31,6 +31,8 @@ some reason (between 57k/s and 200k/s)) and latest VirtualBox and
 latest guestadditions so hopefully the mount thing will be fixed this
 time.
 
+(*) not exactly the same
+
 ## 19:06 Monday 08 May 2017 JST
 
 It's only up to 64% downloaded so I am going to cancel the d/l and
