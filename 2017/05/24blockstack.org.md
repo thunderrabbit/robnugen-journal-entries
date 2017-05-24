@@ -24,6 +24,7 @@ Interestingly, I looked up rap.id (not available) and vap.id
 they go by name length (etc) to calculate the price.
 
 (*) The price for thunderrabbit.id claimed to be 0.008BTC, but now my
-blockstack wallet shows 0 BTC.
+blockstack wallet shows 0 BTC.  And blockchain.info shows something
+interesting https://blockchain.info/address/3AXaax3H6PfDdu76oTwKMTDVMoKUJBfo3k?show_adv=true
 
 [![bought thunderrabbit.id 2017-05-24 at 11.37.10](//b.robnugen.com/net/blockstack.org/2017/thumbs/after_buying_thunderrabbit.png)](//b.robnugen.com/net/blockstack.org/2017/after_buying_thunderrabbit.png)
