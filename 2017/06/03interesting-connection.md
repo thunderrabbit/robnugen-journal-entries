@@ -24,11 +24,11 @@ Guided via questions, it went something like this.
 <p class="dream">Who is there with you?</p>
 
     I am alone.  They left without me.  Actually I got lost.  I didn't
-	stay with the group and I got lost. &lt;tears>
+	stay with the group and I got lost. <tears>
 
 <p class="dream">Who found you?</p>
 
-    No one. I died. &lt;sobbing> I fucking got lost and I died. They
+    No one. I died. <sobbing> I fucking got lost and I died. They
     told me to stay with the group but I did not listen and I died.
 
 <p class="dream">Okay, what does this part of you need?</p>
