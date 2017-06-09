@@ -132,3 +132,17 @@ early.  I will arrive 2 minutes ahead of schedule assuming I get off
 at the correct station, which is in two stations from now.  And I got
 to write all this to air my dirty laundry in my online journal.
 Hopefully it benefits someone somehow.
+
+## 11:17 Friday 09 June 2017 JST
+
+Okay, it has been some days since this happened.  The session was
+Caroline helped resolve the issue in a huge way.  I have (for the past
+N+1 years) said I get pissed off when I think people don't listen to
+me.  This drives my behavior to not speak up, etc.
+
+Caroline helped me notice there is something deeper.  In The Case of
+The Hot Soup, she helped me note that there was fear lurking under the
+anger.  Fear that I won't catch the train to make it to my appointment
+on time.  But even deeper, sadness lurking under the anger.  Why
+didn't I feel this cared for when I was little??
+
