@@ -5,6 +5,11 @@ author: Rob Nugen
 date: 2017-06-10T17:38:10+09:00
 ---
 
+## Day before yesterday
+
+[![058 barefoot getting started](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/thumbs/058_barefoot_getting_started.jpg)](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/058_barefoot_getting_started.jpg)
+[![059 tired bike uncovered](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/thumbs/059_tired_bike_uncovered.jpg)](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/059_tired_bike_uncovered.jpg)
+
 ## Yesterday
 
 (written 17:38 Sunday 11 June 2017 JST)
@@ -16,6 +21,14 @@ We caught a ride with Lin on her way to work, and saw an interesting
 accident underneath 246.
 
 [![accident under 246](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/thumbs/060_accident.jpg)](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/060_accident.jpg)
+
+
+We walked for a bit on takeshita street, before it got crowded
+
+[![070 funny pic of simon in Harajuku](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/thumbs/070_funny_pic_of_simon_in_Harajuku.jpg)](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/070_funny_pic_of_simon_in_Harajuku.jpg)
+[![070 rich cat cafe](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/thumbs/070_rich_cat_cafe.jpg)](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/070_rich_cat_cafe.jpg)
+
+then went to Yoyogi park.
 
 He said Yoyogi park was great, and they have nothing like it in
 Osaka. Near the front of the park, we saw some people doing a
@@ -54,3 +67,31 @@ think. We walked briefly pass the Vietnamese festival, and then headed
 down the walkway next NHK, and turned right once we got into the back
 streets of Shibuya.
 
+[![084 rob in shibuya](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/thumbs/084_rob_in_shibuya.jpg)](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/084_rob_in_shibuya.jpg)
+
+Shibuya scramble
+
+[![085 rob in shibuya scramble](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/thumbs/085_rob_in_shibuya_scramble.jpg)](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/085_rob_in_shibuya_scramble.jpg)
+[![089 simon at shibuya scramble](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/thumbs/089_simon_at_shibuya_scramble.jpg)](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/089_simon_at_shibuya_scramble.jpg)
+[![093 rob in shibuya scramble](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/thumbs/093_rob_in_shibuya_scramble.jpg)](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/093_rob_in_shibuya_scramble.jpg)
+
+
+Walked to Roppongi to go to The Pink Cow, but they open at 5pm each
+day.  Simon wanted to go to Tokyo Tower.
+
+[![095 simon jumping to go to tokyo tower](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/thumbs/095_simon_jumping_to_go_to_tokyo_tower.jpg)](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/095_simon_jumping_to_go_to_tokyo_tower.jpg)
+
+Walked to the tower and had fun talking to two peeps we met in costume
+for Tokyo One Piece.  Did not get pictures, but they were
+entertaining.
+
+[![095 tokyo tower rob](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/thumbs/095_tokyo_tower_rob.jpg)](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/095_tokyo_tower_rob.jpg)
+[![096 tokyo tower simon](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/thumbs/096_tokyo_tower_simon.jpg)](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/096_tokyo_tower_simon.jpg)
+[![097 tokyo tower view](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/thumbs/097_tokyo_tower_view.jpg)](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/097_tokyo_tower_view.jpg)
+[![098 tokyo tower look down](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/thumbs/098_tokyo_tower_look_down.jpg)](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/098_tokyo_tower_look_down.jpg)
+
+My moov device said we walked nearly four hours.
+
+[![100 construction in Shibuya](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/thumbs/100_construction_in_Shibuya.jpg)](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/100_construction_in_Shibuya.jpg)
+[![110 nearly four hours detected by moov](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/thumbs/110_nearly_four_hours_detected_by_moov.jpg)](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/110_nearly_four_hours_detected_by_moov.jpg)
+[![120 end of day dirty foot](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/thumbs/120_end_of_day_dirty_foot.jpg)](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/120_end_of_day_dirty_foot.jpg)
