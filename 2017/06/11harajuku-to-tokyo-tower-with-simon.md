@@ -90,6 +90,8 @@ entertaining.
 [![097 tokyo tower view](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/thumbs/097_tokyo_tower_view.jpg)](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/097_tokyo_tower_view.jpg)
 [![098 tokyo tower look down](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/thumbs/098_tokyo_tower_look_down.jpg)](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/098_tokyo_tower_look_down.jpg)
 
+https://www.youtube.com/watch?v=esBSrbTPPeo
+
 My moov device said we walked nearly four hours.
 
 [![100 construction in Shibuya](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/thumbs/100_construction_in_Shibuya.jpg)](//b.robnugen.com/peeps/simon/2017_walked_from_harajuku_to_tokyo_tower/100_construction_in_Shibuya.jpg)
