@@ -18,3 +18,7 @@ follow their unwritten expectations or if they will say yeah nothing
 to do see you next week.
 
 I am just idliing and it sucks.
+
+## 14:41 Monday 12 June 2017 JST
+
+Yay they did not yell at me.
