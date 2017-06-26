@@ -1,3 +1,11 @@
+---
+title: cold hike
+tags: hike
+author: Rob Nugen
+date: 2013-12-21T11:42:48+09:00
+---
+
+
 ##12:17am Sunday 22 March 2015
 
 Here are notes I just found while cleaning up some e-junk.
