@@ -65,6 +65,6 @@ Because the version tester just looks for "v(%d)+-" at the beginning,
 so old style uniqids like `115952d2ee60c79` and `v1-115952d2ee60c79`
 will respond as type 1 ids.
 
-- -
+.........
 
 But I think really I am just losing my mojo for programming.
