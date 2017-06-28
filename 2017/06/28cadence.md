@@ -11,3 +11,6 @@ Third lesson today was good; some of the students seemed to really
 enjoy the cadence practice we did, focusing on matching the natural
 native-speed rhythm of my speech.  Finally I have found something that
 kinda gets their attention.  Mental note duly noted.
+
+Maybe I will try it with my next class, but I kinda doubt it will have
+the same effect.
