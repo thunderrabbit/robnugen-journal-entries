@@ -5,9 +5,7 @@ title: Marble Track 3 at 1:21
 tags: mt3
 ---
 
-##09:33 Saturday 18 May 2013
-
-**9:21am Saturday 18 May 2013**
+## 09:33 Saturday 18 May 2013
 
 I've finished a minute and 21 seconds worth of Marble Track 3 video.
 
@@ -26,5 +24,3 @@ The white guy with green head is about to pick up sticks to have them cut and cr
 Yellow guy with green backpack is going to take the cut pieces and place them as berms on the lower right 180 degree turn.  Pink and white guys are going to place the piece Pink is holding; it will be the second piece to cross over another track.
 
 But first, I'm going to the iOS meetup in Shiboooyah!
-
-
