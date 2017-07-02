@@ -17,6 +17,6 @@ Payday arrived yesterday and I bought a new marble track base (actually three ne
 
 Four and a half hours later, this is how far I've gotten. 
 
-[![20130511-202214.jpg](/images/2013/05/20130511-202214.jpg)](/images/2013/05/20130511-202214.jpg)
+[![20130511-202214](//b.robnugen.com/art/marble_track_3/2013/05/thumbs/20130511-202214.jpg)](//b.robnugen.com/art/marble_track_3/2013/05/20130511-202214.jpg)
 
 So far, there are two (2) pieces glued to the base.  Looks like this is going to take a while.  :-)

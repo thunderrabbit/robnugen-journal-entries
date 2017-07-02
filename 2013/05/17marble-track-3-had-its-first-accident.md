@@ -15,4 +15,5 @@ In the foreground, pink guy and green head guy have just placed two long sticks 
 
 In other words, the scene looks like this:
 
-[![IMG_2810](/images/2013/05/IMG_2810-1024x768.jpg)](/images/2013/05/IMG_2810.jpg)
+[![IMG 2810](//b.robnugen.com/art/marble_track_3/2013/05/thumbs/IMG_2810.jpg)](//b.robnugen.com/art/marble_track_3/2013/05/IMG_2810.jpg)
+

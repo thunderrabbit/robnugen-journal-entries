@@ -11,9 +11,7 @@ tags: mt3
 
 I've finished 56 seconds so far of Marble Track 3. The white and pink characters are gluing the 180 degree turn in the second corner (of four corners). I've got plans in mind for the two center tracks.. hmm maybe I can scribble a bit on a photo. brb.
 
-[![IMG_2802](/images/2013/05/IMG_2802-768x1024.jpg)](/images/2013/05/IMG_2802.jpg)
-
-
+[![IMG 2802](//b.robnugen.com/art/marble_track_3/2013/05/thumbs/IMG_2802.jpg)](//b.robnugen.com/art/marble_track_3/2013/05/IMG_2802.jpg)
 
 Okay so in the lower right corner, the white and pink guys are placing pieces for the second of four 180 degree turns in each corner.
 
