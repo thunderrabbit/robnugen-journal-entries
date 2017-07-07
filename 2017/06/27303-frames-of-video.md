@@ -1,6 +1,6 @@
 ---
 title: 303 frames of video
-tags: mt3
+tags: [ "mt3", "video", "" ]
 author: Rob Nugen
 date: 2017-06-27T19:42:35+09:00
 ---
