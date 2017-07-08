@@ -14,3 +14,8 @@ monitors are apparently on the same circuit, which seems weird, but I
 
 Oh, so while my computer battery is still fine, I cannot post the post
 while the router has no power.
+
+## 14:36 Saturday 08 July 2017 JST
+
+Nevermind.  It is the whole house.  I am just going to leave it off to
+save energy.
