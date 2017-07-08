@@ -19,3 +19,22 @@ while the router has no power.
 
 Nevermind.  It is the whole house.  I am just going to leave it off to
 save energy.
+
+## 16:35 Saturday 08 July 2017 JST
+
+The breakerbox has three types of breakers.  One type I have never
+seen before looks like a normal lightswitch, but also features two
+little buttons near it, red and white.  After leaving the power off
+for a while the first time, Lin pushed the white button and flipped
+the breaker back on.
+
+Just a moment ago, when she turned her AC on the breaker flipped
+again.  Now (after not waiting as long), when she pushed the white
+button, the big breaker still won't stay on.
+
+She is calling the company from which we bought the house, who offer 2
+years of support, like a maintenance contract.
+
+## 16:42
+
+Warranty covers different stuff like foundation shifts (earthquakes?)

@@ -52,3 +52,29 @@ The relevant code is here:
 
 How can I have emacs keep asking for tags until I enter an empty tag?
 
+## 18:46 Saturday 08 July 2017 JST
+
+Thank you /u/wasamasa!  https://www.reddit.com/r/emacs/comments/6lzpre/use_interactive_list_readstring_to_read_arbitrary/djxuzst/
+
+Easy, write a helper function that constructs such a list:
+
+    (defun my-read-tags ()
+      (let (tags tag done)
+        (while (not done)
+          (setq tag (read-string "Tag: "))
+          (if (string-empty-p tag)
+              (setq done t)
+            (push tag tags)))
+        (nreverse tags)))
+
+You can then use it in your command:
+
+    (defun my-test (title tags)
+      (interactive (list (read-string "Title: ") (my-read-tags)))
+      (message "%s: %s" title tags))
+
+## 20:55 Saturday 08 July 2017 JST
+
+Nice.
+
+I tweaked the code a bit and now I have multiple tags per journal entry.
