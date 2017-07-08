@@ -1,6 +1,6 @@
 ---
 title: got my Dragonframe bluetooth keypad
-tags: [ "mt3", "hardware", "" ]
+tags: [ "mt3", "hardware", "video" ]
 author: Rob Nugen
 date: 2017-07-07T10:51:23+09:00
 ---
