@@ -17,9 +17,7 @@ now.
 
 Yesterday I ended up with about 80 frames of completed video.
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/-tMTvzePnu0?rel=0" frameborder="0"
-allowfullscreen></iframe>
+{{< youtube -tMTvzePnu0 >}}
 
 I might redo them from a different camera angle, but that would mean
 (starting over and) making a new shelf (or something) to hold the

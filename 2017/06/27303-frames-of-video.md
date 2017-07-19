@@ -9,9 +9,7 @@ date: 2017-06-27T19:42:35+09:00
 
 I am pretty happy with this video.
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/aHiUTkYGOvo?rel=0" frameborder="0"
-allowfullscreen></iframe>
+{{< youtube aHiUTkYGOvo >}}
 
 I livestreamed its creation.
 

@@ -7,9 +7,7 @@ date: 2017-07-11T14:14:22+09:00
 
 ## 14:14 Tuesday 11 July 2017 JST
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/0kzGzSuhYag?rel=0" frameborder="0"
-allowfullscreen></iframe>
+{{< youtube 0kzGzSuhYag >}}
 
 Here is the livestream from today.
 
