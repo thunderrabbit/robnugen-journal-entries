@@ -13,7 +13,9 @@ Though I didn't know it at the time, this is as far as I would get on
 my third attempt to make Marble Track 3 before it all had to be packed
 up to move to our new house in 2013.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kSdHNDlQ1x8?rel=0" frameborder="0" allowfullscreen></iframe>
+{{< youtube kSdHNDlQ1x8 >}}
+
+
 
 
 
