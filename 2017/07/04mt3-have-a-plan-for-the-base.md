@@ -10,15 +10,12 @@ date: 2017-07-04T13:00:06+09:00
 Here is the video of just the frames of characters moving around.
 Red/white guy escapes the stage:
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/98mAchukT_4?rel=0" frameborder="0"
-allowfullscreen></iframe>
+
+{{< youtube 98mAchukT_4 >}}
 
 Here are all the still frames taken:
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/xIqI629wvT0?rel=0" frameborder="0"
-allowfullscreen></iframe>
+{{< youtube xIqI629wvT0 >}}
 
 Here is the livestream https://www.youtube.com/watch?v=bgxiGkFJhYs
 which features some audio pops and stuff at the beginning so watch
