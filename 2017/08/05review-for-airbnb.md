@@ -122,6 +122,10 @@ provided by Mrs Gunma"
 
 https://docs.google.com/document/d/1hPOAHKsGAHMCphKpLHj_5CzHvHDvFwdaOllQK1PKDCg/edit
 
+Though I no longer have access to the participant list on Google Docs,
+we were charged for one participant for two nights, though she only
+attended one night.
+
 R wanted to hurry so agreed to just pay the money at that moment
 instead of having some time to discuss.  We paid and went downstairs
 where Renee proceeded to tell R to shut up so Renee could address
