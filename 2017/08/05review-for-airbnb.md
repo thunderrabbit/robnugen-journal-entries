@@ -94,9 +94,9 @@ treatment with Dr Wada was nothing short of amazing.  But the fact
 that they took *much* longer than originally planned caused havoc the
 next morning with our schedule and ultimately, with tempers.
 
-Renee slept later than planned.  Our smoothies and waffles for
-breakfast started around 10am instead of ending at 9am as per the
-schedule.
+After having been up late, Renee slept later than planned.  Our
+smoothies and waffles for breakfast started around 10am instead of
+ending at 9am as per the schedule.
 
 Our group was anxious to get going on the tours as planned; some of
 them needed to get trains back to Tokyo.
