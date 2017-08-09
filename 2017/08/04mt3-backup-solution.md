@@ -27,3 +27,16 @@ duplicity to backup MT3</a>
     cd ~/mt3
     boto-rsync   --endpoint objects-us-west-1.dream.io . s3://mt3/mt3
 
+## 08:58 Wednesday 09 August 2017 JST
+
+Backup complete as of a couple days ago.
+
+I assume this will download the files:
+
+    mkdir ~/mt3testrestore
+    cd ~/mt3testrestore
+    boto-rsync   --endpoint objects-us-west-1.dream.io s3://mt3/mt3 .
+
+Let's try!
+
+Nice.  It works.
