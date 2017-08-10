@@ -20,7 +20,8 @@ effect of motion blur on the blades of my helicopter (flat bearing
 thing).
 
 It seems Dragonframe cannot do this, but the effect can be simulated
-by merging some images in post processing.  Here's a suggestion for
-how to handle the images in Dragonframe
+by merging some images in post processing.  At 4:38 in this video is a
+suggestion for how to handle the images in Dragonframe
 
-{{< youtube watch?v=5xEf3djRLg8&t=4m38s >}}
+{{< youtube watch?v=5xEf3djRLg8 >}}
+
