@@ -7,7 +7,7 @@ date: 2017-08-12T03:24:42+09:00
 
 ## 03:24 Saturday 12 August 2017 JST
 
-This 21 second clip took 6 hours to make.
+This 20 second clip took 6 hours to make.
 
 {{< youtube watch?v=1UomzKbhw9w >}}
 
@@ -16,3 +16,17 @@ http://www.grun1.com/utils/timeCalc.html?t1=34:03&t2=57:27&t3=60:14&t4=71:50&t5=
 )) so far.
 
 Today's livestream is here https://www.youtube.com/watch?v=LnMk9D6lhgA
+
+http://www.stopmotionanimation.com/profiles/blogs/my-first-flying-object
+
+    Using thread, I suspended a bearing plate from a broom over my
+    set.  I did not have a good way to adjust the length of the
+    thread, so I used several layers of thick cloth (socks) on one
+    side of the broom to allow the plate to descend toward the stage.
+
+    Using Dragonframe's increments on a bezier curve, I got the plate
+    to do some vaguely reasonable side to side motion as it came down.
+
+    Special thanks to my friend Kai for providing the toy skeleton to
+    be my RC bearing plate pilot!
+
