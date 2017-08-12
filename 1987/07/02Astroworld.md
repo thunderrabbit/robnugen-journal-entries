@@ -1,6 +1,6 @@
 ---
 title: Astroworld
-tags: 
+tags: astroworld
 author: Rob Nugen
 date: 1987-07-02
 ---

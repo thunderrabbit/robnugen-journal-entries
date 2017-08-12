@@ -1,6 +1,6 @@
 ---
 title: party
-tags: 
+tags: party
 author: Rob Nugen
 date: 1991-12-31
 ---

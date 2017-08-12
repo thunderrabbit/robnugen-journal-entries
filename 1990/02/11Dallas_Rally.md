@@ -1,6 +1,6 @@
 ---
 title: Dallas Rally
-tags: yruu, dallas
+tags: [ "yruu", "dallas", "rally" ]
 author: Rob Nugen
 date: 1990-02-11
 ---

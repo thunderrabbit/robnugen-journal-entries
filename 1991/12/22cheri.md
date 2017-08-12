@@ -1,6 +1,6 @@
 ---
 title: cheri
-tags: 
+tags: cheri
 author: Rob Nugen
 date: 1991-12-22
 ---

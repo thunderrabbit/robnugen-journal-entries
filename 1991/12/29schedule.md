@@ -1,6 +1,6 @@
 ---
 title: schedule
-tags: 
+tags: [ "bandecca", "raquetball", "cheri", "tammy", "girls", "schedule" ]
 author: Rob Nugen
 date: 1991-12-29
 ---

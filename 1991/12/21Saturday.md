@@ -5,13 +5,6 @@ author: Rob Nugen
 date: 1991-12-21
 ---
 
----
-title: Saturday
-tags: 
-author: Rob Nugen
-date: 1991-12-21
----
-
 <p class=date>7:30PM Saturday, Dec 21, 1991</p>
 
 <p class=note>(transcribed from Book Two of my diary)</p>

@@ -1,6 +1,6 @@
 ---
 title: New Year
-tags: 
+tags: [ "party", "1992", "newyear" ]
 author: Rob Nugen
 date: 1992-01-01
 ---

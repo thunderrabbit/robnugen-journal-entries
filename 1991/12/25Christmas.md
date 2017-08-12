@@ -1,6 +1,6 @@
 ---
 title: Christmas
-tags: 
+tags: [ "fred", "christmas", "1991" ]
 author: Rob Nugen
 date: 1991-12-25
 ---

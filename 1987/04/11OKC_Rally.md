@@ -1,6 +1,6 @@
 ---
 title: OKC Rally
-tags: yruu, rally
+tags: [ "yruu", "rally" ]
 author: Rob Nugen
 date: 1987-04-11
 ---

@@ -1,6 +1,6 @@
 ---
 title: friday
-tags: 
+tags: friday
 author: Rob Nugen
 date: 1991-12-27
 ---
