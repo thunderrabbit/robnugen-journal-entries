@@ -1,6 +1,6 @@
 ---
 title: Day
-tags: diary, church
+tags: [ "diary", "church" ]
 author: Rob Nugen
 date: 1987-03-29
 ---

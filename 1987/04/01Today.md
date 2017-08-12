@@ -1,6 +1,6 @@
 ---
 title: Today
-tags: 
+tags: [ "food", "hs", "handwriting" ]
 author: Rob Nugen
 date: 1987-04-01
 ---
@@ -14,7 +14,7 @@ and doesn't do much good.  1st Period - I wrote an outline for my
 research paper and I turned in a thesis statement.  Miss Carter wrote
 it (thesis) though.  2nd we graded tests.  Donald Martin graded mine.
 I got a 47 on it but he wrote it so it looked like a 97.  That's
-pretty neat I think.  I just hope Mrs. Roach doesn't notice.  3rd- we
+pretty neat I think.  I just hope Mrs. Roach doesn't notice.  3rd- (physics) we
 took a test.  We got back a previous test.  I got a 94 on the previous
 one.  Also on the previous one I solved the bonus and <em>no one</em>
 else did.  We had to show that the earth receives 1/(2 billionth) of

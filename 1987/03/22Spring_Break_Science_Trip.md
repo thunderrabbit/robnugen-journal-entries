@@ -1,6 +1,6 @@
 ---
 title: Spring Break Science Trip
-tags: travel, fun, science
+tags: [ "travel", "fun", "science" ]
 author: Rob Nugen
 date: 1987-03-22
 ---

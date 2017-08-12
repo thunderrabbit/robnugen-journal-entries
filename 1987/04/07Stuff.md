@@ -1,13 +1,13 @@
 ---
 title: Stuff
-tags: 
+tags: [ "synchronicity" ]
 author: Rob Nugen
 date: 1987-04-07
 ---
 
 <p class=note>(transcribed 6:14pm CST Saturday 25 January 2003)</p>
 
-<p class=date>Tuesday April 7 11:25PM</p>
+<p class=date>Tuesday April 7 11:25PM (1987)</p>
 
 <p>I been working out.  I've been using those hand squeezy things and
 doin' push-ups.  I'm gonna get strong.  English - I have a rough draft

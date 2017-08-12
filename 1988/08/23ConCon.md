@@ -1,6 +1,6 @@
 ---
 title: ConCon
-tags: yruu, concon
+tags: [ "yruu", "concon" ]
 author: Rob Nugen
 date: 1988-08-23
 ---

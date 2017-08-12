@@ -1,6 +1,6 @@
 ---
 title: Day
-tags: 
+tags: [ "girls", "letters", "hs" ]
 author: Rob Nugen
 date: 1987-04-05
 ---

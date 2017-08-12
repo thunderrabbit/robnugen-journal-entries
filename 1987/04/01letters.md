@@ -1,6 +1,6 @@
 ---
 title: letters
-tags: 
+tags: [ "letters", "christy", "erika", "lila", "girls" ]
 author: Rob Nugen
 date: 1987-04-01
 ---

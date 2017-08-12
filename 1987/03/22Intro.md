@@ -1,6 +1,6 @@
 ---
 title: Intro
-tags: 
+tags: [ "diary", "transcribed", "book1" ]
 author: Rob Nugen
 date: 1987-03-22
 ---

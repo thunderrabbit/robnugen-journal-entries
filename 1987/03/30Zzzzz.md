@@ -1,6 +1,6 @@
 ---
 title: Zzzzz
-tags: sleepy, 
+tags: sleepy
 author: Rob Nugen
 date: 1987-03-30
 ---

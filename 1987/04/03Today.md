@@ -1,6 +1,6 @@
 ---
 title: Today
-tags: 
+tags: [ "hs", "lila" ]
 author: Rob Nugen
 date: 1987-04-03
 ---

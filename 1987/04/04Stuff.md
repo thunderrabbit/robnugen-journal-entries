@@ -1,6 +1,6 @@
 ---
 title: Stuff
-tags: 
+tags: [ "erin", "charmain", "amanda", "mower", "fire" ]
 author: Rob Nugen
 date: 1987-04-04
 ---
