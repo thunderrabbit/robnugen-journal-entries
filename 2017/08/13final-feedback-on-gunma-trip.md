@@ -5,7 +5,24 @@ author: Rob Nugen
 date: 2017-08-13T13:08:52+09:00
 ---
 
+## several days ago
+
+Renee left me feedback after the weekend
+
+[![Thanks a million Rob 2017-08-15 at 10.49.37 PM](//b.robnugen.com/journal/2017/gunma/thumbs/21_Thanks_a_million_Rob_2017-08-15_at_10.49.37_PM.png)](//b.robnugen.com/journal/2017/gunma/21_Thanks_a_million_Rob_2017-08-15_at_10.49.37_PM.png)
+
+
 ## 13:08 Sunday 13 August 2017 JST
+
+Screenshots from my feedback (not including the text below)
+
+[![three of five stars 2017-08-12 at 11.23.34 AM](//b.robnugen.com/journal/2017/gunma/thumbs/01_three_of_five_stars_2017-08-12_at_11.23.34_AM.png)](//b.robnugen.com/journal/2017/gunma/01_three_of_five_stars_2017-08-12_at_11.23.34_AM.png)
+[![secluded residential quiet 2017-08-12 at 11.23.53 AM](//b.robnugen.com/journal/2017/gunma/thumbs/02_secluded_residential_quiet_2017-08-12_at_11.23.53_AM.png)](//b.robnugen.com/journal/2017/gunma/02_secluded_residential_quiet_2017-08-12_at_11.23.53_AM.png)
+[![standard necessities plain furnishing 2017-08-12 at 11.24.06 AM](//b.robnugen.com/journal/2017/gunma/thumbs/03_standard_necessities_plain_furnishing_2017-08-12_at_11.24.06_AM.png)](//b.robnugen.com/journal/2017/gunma/03_standard_necessities_plain_furnishing_2017-08-12_at_11.24.06_AM.png)
+[![clean but Dr Wada sessions were too long 2017-08-12 at 11.26.00 AM](//b.robnugen.com/journal/2017/gunma/thumbs/04_clean_but_Dr_Wada_sessions_were_too_long_2017-08-12_at_11.26.00_AM.png)](//b.robnugen.com/journal/2017/gunma/04_clean_but_Dr_Wada_sessions_were_too_long_2017-08-12_at_11.26.00_AM.png)
+[![too expensive for shared roooms 2017-08-12 at 11.27.32 AM](//b.robnugen.com/journal/2017/gunma/thumbs/05_too_expensive_for_shared_roooms_2017-08-12_at_11.27.32_AM.png)](//b.robnugen.com/journal/2017/gunma/05_too_expensive_for_shared_roooms_2017-08-12_at_11.27.32_AM.png)
+[![do one or the other 2017-08-12 at 11.27.51 AM](//b.robnugen.com/journal/2017/gunma/thumbs/06_do_one_or_the_other_2017-08-12_at_11.27.51_AM.png)](//b.robnugen.com/journal/2017/gunma/06_do_one_or_the_other_2017-08-12_at_11.27.51_AM.png)
+
 
     FEEDBACK from Co-coordinator no. 1 (responsible for finding,
     promoting to, communicating with, and bringing 18 people), with
@@ -85,3 +102,37 @@ date: 2017-08-13T13:08:52+09:00
     atmosphere of scarcity on Sunday morning. Or confusion with
     activities for the day.
     
+## 22:59 Tuesday 15 August 2017 JST
+
+Response from [Renee](https://www.airbnb.com/users/show/17654944):
+
+    Renee is requesting ¥ 21000
+
+    Jul 28-30 · Japanese Beauty near Hot Springs (Single bedroom)
+
+    Airbnb has been informed of the numerous damages caused to our
+    property's reputation in the area and misconduct of you, Rob, as
+    the responsible party for the unregistered guests you brought on
+    my property, and the post-stay time-consuming issues created by
+    slander on your and Rohini's part. They have a file on this case
+    and recommend that I put a financial amount to the intangible
+    damage incurred. If you choose not to pay the requested amount in
+    a timely manner, which is the stated damage deposit on your
+    reservation, they will intervene.
+
+[![Renee requests damages 2017-08-15 at 11.08.39 PM](//b.robnugen.com/journal/2017/gunma/thumbs/22_Renee_requests_damages_2017-08-15_at_11.08.39_PM.png)](//b.robnugen.com/journal/2017/gunma/22_Renee_requests_damages_2017-08-15_at_11.08.39_PM.png)
+[![damages claim closeup 2017-08-15 at 11.08.58 PM](//b.robnugen.com/journal/2017/gunma/thumbs/22_damages_claim_closeup_2017-08-15_at_11.08.58_PM.png)](//b.robnugen.com/journal/2017/gunma/22_damages_claim_closeup_2017-08-15_at_11.08.58_PM.png)
+
+Because the review no longer shows up on her profile, I assume they
+took it down because she disputed it.  Therefore any damages to her
+property's reputation are negligible.
+
+Given that
+[I already gave her 20,000 yen](/journal/2017/07/01/met-ren%C3%A9e/),
+I choose to call it even.
+
+This is what I wrote soon after the weekend, in case it matters: <a
+href="/journal/2017/07/30/gunma-weekend/">/2017/07/30/gunma-weekend</a>
+
+This is the day the weird stuff started: <a
+href="/journal/2017/07/14/going-to-renees-in-gunma-today/">/2017/07/14/going-to-renees-in-gunma-today</a>
