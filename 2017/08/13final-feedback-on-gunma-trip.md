@@ -136,3 +136,25 @@ href="/journal/2017/07/30/gunma-weekend/">/2017/07/30/gunma-weekend</a>
 
 This is the day the weird stuff started: <a
 href="/journal/2017/07/14/going-to-renees-in-gunma-today/">/2017/07/14/going-to-renees-in-gunma-today</a>
+
+## 10:27 Wednesday 16 August 2017 JST
+
+My response to Renee
+
+    HI Renee!
+
+    I was going to just pay it, but was unable to verify the credit
+    card information.  As far as I can tell, the review no longer
+    appears on your profile, so there is no damage to your property's
+    reputation.
+
+    Let's just call it even.
+
+    blessings
+    - Rob
+
+private message to AirBnB
+
+    If the review needs to come down, feel free to take it off AirBnB.
+
+[![declined to pay 2017-08-16 at 11.03.52 AM](//b.robnugen.com/journal/2017/gunma/thumbs/23_declined_to_pay_2017-08-16_at_11.03.52_AM.png)](//b.robnugen.com/journal/2017/gunma/23_declined_to_pay_2017-08-16_at_11.03.52_AM.png)
