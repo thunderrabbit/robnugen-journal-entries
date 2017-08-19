@@ -1,6 +1,6 @@
 ---
 title: Climbing trees in Yoyogi Park
-tags: zakky, kenji, satomi, ozan, sherry, sachiko
+tags: [ "zakky", "kenji", "satomi", "ozan", "sherry", "sachiko", "trees", "yoyogi", "fun", "first" ]
 author: Rob Nugen
 date: 2015-08-08T20:49:44+09:00
 ---
