@@ -31,4 +31,4 @@ two lanes.
 
 ## 19:45 Saturday 19 August 2017 JST
 
-89991 / 8288.9 out of traffic jam
+89991 / 8288.9 out of traffic jam.

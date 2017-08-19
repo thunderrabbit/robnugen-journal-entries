@@ -158,3 +158,16 @@ private message to AirBnB
     If the review needs to come down, feel free to take it off AirBnB.
 
 [![declined to pay 2017-08-16 at 11.03.52 AM](//b.robnugen.com/journal/2017/gunma/thumbs/23_declined_to_pay_2017-08-16_at_11.03.52_AM.png)](//b.robnugen.com/journal/2017/gunma/23_declined_to_pay_2017-08-16_at_11.03.52_AM.png)
+
+## 13:41 Saturday 19 August 2017 JST
+
+    Mai M, Aug 18, 23:41 CDT:
+    Hi Rob,
+    
+    I appreciate your reply and I understand you decision.
+    
+    Thank you.
+    
+    Regards,
+    
+    Mai
