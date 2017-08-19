@@ -11,7 +11,11 @@ date: 2017-08-19T19:00:56+09:00
 
 According to
 [Underneath It All (NIN podcast)](http://shoutengine.com/UnderneathItAllANineInchNailsPodcast/)
-I should listen to the [Phoenix 1991 Lollapalooza Nine Inch Nails](http://www.theninhotline.net/news/permalink/1280893981)
-show where something broke so they just destroyed everything.
+I should listen to the
+[Phoenix 1991 Lollapalooza Nine Inch Nails](http://www.theninhotline.net/news/permalink/1280893981)
+show where something melted and killed their audio so they just
+destroyed equipment.
 
-{{< youtube 8oX9wPOPnyM >}}
+https://vimeo.com/17074248
+
+http://ninlive.com/shows/1991/19910718.html
