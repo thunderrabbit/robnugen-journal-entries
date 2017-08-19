@@ -25,3 +25,10 @@ trip meter.
 We just got to traffic at 89970 / 8268.2.  Three lanes merged down to
 two lanes.
 
+## 19:12
+
+89977 / 8275.0 still in traffic.  Closing my computer now because low battery.
+
+## 19:45 Saturday 19 August 2017 JST
+
+89991 / 8288.9 out of traffic jam
