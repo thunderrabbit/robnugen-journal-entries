@@ -37,3 +37,7 @@ stripes in between both.
 
 Sensei fixed it after I gooped it all up, but I hope it works out
 nicely.
+
+## 23:15 Friday 18 August 2017 JST
+
+They are alright.
