@@ -23,3 +23,9 @@ the circle
 I have spent [1 day 14 hours](
 http://www.grun1.com/utils/timeCalc.html?t1=34:03&t2=57:27&t3=60:14&t4=71:50&t5=31:08&t6=78:05&t7=33:27&t8=62:46&t9=40:12&t10=94:51&t11=22:02&t12=2:41:39&t13=17:00&t14=28:17&t15=1:17:51&t16=1:31:40&t17=1:04:46&t18=2:02:43&t19=6:08:45&t20=2:00:00&c20=estimated%20(testing%20&t21=2:39:38&t22=1:15:42&t23=55:40&c23=deleted&t24=1:42:57&t25=2:19:23&t26=17:27&t27=1:31:35&mode=0&fs3=1&ft2=1&f3t1=1&f4t0=1&d=:&o3=1&fps=
 ) on MT3 so far.
+
+Notes to self:
+
+* don't have characters carry props that are too heavy for them
+* don't use permanent ink if characters cannot carry it
+* don't worry!
