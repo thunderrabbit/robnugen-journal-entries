@@ -14,5 +14,5 @@ http://www.grun1.com/utils/timeCalc.html?t1=34:03&t2=57:27&t3=60:14&t4=71:50&t5=
 ) on MT3 so far.
 
 
-Plus whatever I spent today (5 or 6 hours across two livestreams,
-including the first one where I replied to Jimmy's chats.
+Plus whatever I spent today (4 or 5 hours across two livestreams,
+including the first one where I replied to Jimmy's chats).
