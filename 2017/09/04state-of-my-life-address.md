@@ -39,7 +39,7 @@ an apartment for the next several months.  (by "got some rain" i mean
 it was really fucking rainy, high winds and zero visibility when
 passing 18-wheelers, and i had three inches of rain inside my car for
 four days.)
-23. 
+23. AB said I did some work for them which was my idea and not their request.  I still haven't learned what work they mean.  (Upgrading Ubunutu server?)
 
 
 
