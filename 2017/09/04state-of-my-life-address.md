@@ -32,8 +32,14 @@ date: 2017-09-04T05:37:18+09:00
 19. I just saw about 0.5 cubic meters of food being removed from that convenience store, in a garbage bag.
 20. Why don't we have teleporters which can send food to places that it's needed?
 21. I haven't talked to Fred in a bit.  I'll email him now.
-
-
+22. From Fred: We were fine, got some rain and my car smelled like
+mildew for a few days, and that was it. Dad was also fine. Katy's
+house in Houston flooded, as you may have seen on FB, and they are in
+an apartment for the next several months.  (by "got some rain" i mean
+it was really fucking rainy, high winds and zero visibility when
+passing 18-wheelers, and i had three inches of rain inside my car for
+four days.)
+23. 
 
 
 
