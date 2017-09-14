@@ -26,3 +26,10 @@ developing for Apple.
 
 [![XCode download slow 2017-09-14](//b.robnugen.com/net/apple.com/thumbs/XCode_download_slow_2017-09-14.png)](//b.robnugen.com/net/apple.com/XCode_download_slow_2017-09-14.png)
 [![XCode download slow since 2011](//b.robnugen.com/net/apple.com/thumbs/XCode_download_slow_since_2011.png)](//b.robnugen.com/net/apple.com/XCode_download_slow_since_2011.png)
+
+## 23:38
+
+10 hours remain, but I leave in 5.5 hours so I killed the download.
+
+Erica is right, and I
+will [wait for the final .dmg](http://ericasadun.com/2016/03/22/xcode-upgrades-lessons-learned/)
