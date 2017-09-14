@@ -20,3 +20,9 @@ train.  Oh snap I better download the latest XCode.
 
 Oh it is still GM Seed (whatever that means), but I will download it
 anyway, just in case.
+
+Good grief it is slow to download.  And it's not just me.  egad I hate
+developing for Apple.
+
+[![XCode download slow 2017-09-14](//b.robnugen.com/net/apple.com/thumbs/XCode_download_slow_2017-09-14.png)](//b.robnugen.com/net/apple.com/XCode_download_slow_2017-09-14.png)
+[![XCode download slow since 2011](//b.robnugen.com/net/apple.com/thumbs/XCode_download_slow_since_2011.png)](//b.robnugen.com/net/apple.com/XCode_download_slow_since_2011.png)
