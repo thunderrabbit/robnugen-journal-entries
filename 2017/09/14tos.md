@@ -1,6 +1,6 @@
 ---
-title: tos
-tags: ["tos" , "" ]
+title: tos for transferwise
+tags: ["tos" , "transferwise" ]
 author: Rob Nugen
 date: 2017-09-14T08:21:50+09:00
 ---
@@ -9,7 +9,7 @@ date: 2017-09-14T08:21:50+09:00
 
 The following are the Terms of Service for Transferwise.
 
-Tethre are a few weird translations I noticed:
+There are a few weird translations I noticed:
 
 * "transfer unnecessary" instead of "forwarding prohibited"
 * "electromagnetic" instead of "electronic"
