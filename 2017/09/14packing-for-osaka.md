@@ -13,3 +13,10 @@ skates are way too big to fit in my backpack, so I am taking a
 suitcase to hold them and my helmet.  I never ended up getting wrist
 guards so I will skate gently and not fall down.
 
+I will take my computer and get some iOS programming done on the
+train.  Oh snap I better download the latest XCode.
+
+## 22:58
+
+Oh it is still GM Seed (whatever that means), but I will download it
+anyway, just in case.
