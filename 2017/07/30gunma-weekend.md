@@ -123,3 +123,15 @@ now arriving in Ueno.  Though I originally bought a ticket for Omiya,
 I will go one more stop to Tokyo; according to Google Maps that is the
 fastest way to go (well, fastest I can afford), and I should be home
 by 9pm.
+
+## 11:54 Saturday 16 September 2017 JST
+
+Here are pics I took on the weekend.
+
+[![2017 07 29 lisa and instrument](//b.robnugen.com/travel/japan/Gunma_2017_wisdom/thumbs/2017_07_29_lisa_and_instrument.jpg)](//b.robnugen.com/travel/japan/Gunma_2017_wisdom/2017_07_29_lisa_and_instrument.jpg)
+[![2017 07 29 lisa teaches yoga](//b.robnugen.com/travel/japan/Gunma_2017_wisdom/thumbs/2017_07_29_lisa_teaches_yoga.jpg)](//b.robnugen.com/travel/japan/Gunma_2017_wisdom/2017_07_29_lisa_teaches_yoga.jpg)
+[![2017 07 30 dont fall please](//b.robnugen.com/travel/japan/Gunma_2017_wisdom/thumbs/2017_07_30_dont_fall_please.jpg)](//b.robnugen.com/travel/japan/Gunma_2017_wisdom/2017_07_30_dont_fall_please.jpg)
+[![2017 07 30 from up on dam](//b.robnugen.com/travel/japan/Gunma_2017_wisdom/thumbs/2017_07_30_from_up_on_dam.jpg)](//b.robnugen.com/travel/japan/Gunma_2017_wisdom/2017_07_30_from_up_on_dam.jpg)
+[![2017 07 30 lake love](//b.robnugen.com/travel/japan/Gunma_2017_wisdom/thumbs/2017_07_30_lake_love.jpg)](//b.robnugen.com/travel/japan/Gunma_2017_wisdom/2017_07_30_lake_love.jpg)
+[![2017 07 30 rob and cat](//b.robnugen.com/travel/japan/Gunma_2017_wisdom/thumbs/2017_07_30_rob_and_cat.jpg)](//b.robnugen.com/travel/japan/Gunma_2017_wisdom/2017_07_30_rob_and_cat.jpg)
+[![2017 07 30 up on dam.j](//b.robnugen.com/travel/japan/Gunma_2017_wisdom/thumbs/2017_07_30_up_on_dam.jpg)](//b.robnugen.com/travel/japan/Gunma_2017_wisdom/thumbs/2017_07_30_up_on_dam.jpg))](//b.robnugen.com/travel/japan/Gunma_2017_wisdom/thumbs/2017_07_30_up_on_dam.jpg)](//b.robnugen.com/travel/japan/Gunma_2017_wisdom/thumbs/2017_07_30_up_on_dam.jpg)))](//b.robnugen.com/travel/japan/Gunma_2017_wisdom/thumbs/2017_07_30_up_on_dam.jpg)](//b.robnugen.com/travel/japan/Gunma_2017_wisdom/thumbs/2017_07_30_up_on_dam.jpg))](//b.robnugen.com/travel/japan/Gunma_2017_wisdom/thumbs/2017_07_30_up_on_dam.jpg)](//b.robnugen.com/travel/japan/Gunma_2017_wisdom/2017_07_30_up_on_dam.jpg)))

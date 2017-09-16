@@ -30,3 +30,8 @@ sometime.
 Talked about internet and stuff until after dark and then headed back
 to the station.  His shoes were gone from where he had put them.  We
 found a security guard who led us to them down in their office.
+
+[![michael on backflow stopper 8 sep 2017](//b.robnugen.com/peeps/michael/noborito_2017/thumbs/michael_on_backflow_stopper_8_sep_2017.jpg)](//b.robnugen.com/peeps/michael/noborito_2017/michael_on_backflow_stopper_8_sep_2017.jpg)
+[![domes over tower](//b.robnugen.com/peeps/michael/noborito_2017/thumbs/domes_over_tower.jpg)](//b.robnugen.com/peeps/michael/noborito_2017/domes_over_tower.jpg)
+[![guy locking door 8 sep 2017](//b.robnugen.com/peeps/michael/noborito_2017/thumbs/guy_locking_door_8_sep_2017.jpg)](//b.robnugen.com/peeps/michael/noborito_2017/guy_locking_door_8_sep_2017.jpg)
+
