@@ -6,93 +6,96 @@ date: 1987-03-22
 ---
 
 <p class=note>(transcribed 5:50pm CST Monday 20 January 2003 - 11:ish Wednesday 22 January 2003)</p>
+<p class=note>(reformatted for Hugo 20 October 2017)</p>
 
-<pre>
-Mr. Hamm
-Mr. Cowan
-Beth Ahlborn
-Renae Ahlborn
-Pam Tacquard
-Julia Eckhardt
-Trace' Dutson
-David Osborne
-Kevin Hollenshead
-Wade Johnson
-Barry Nelson
-Robert Nugen
-David Osborne
-Gary Picou
-Eric Shafer
-Brian Thigpen
-Allen Torgesen
-Carl Torgesen
-Charles
-Mike Hurt
-Glen Wilson
-Eric Likins
-John
-Tim Oestrich
-Doug
-</pre>
+    Mr. Hamm
+    Mr. Cowan
+    Beth Ahlborn
+    Renae Ahlborn
+    Pam Tacquard
+    Julia Eckhardt
+    Trace' Dutson
+    David Osborne
+    Kevin Hollenshead
+    Wade Johnson
+    Barry Nelson
+    Robert Nugen
+    David Osborne
+    Gary Picou
+    Eric Shafer
+    Brian Thigpen
+    Allen Torgesen
+    Carl Torgesen
+    Charles
+    Mike Hurt
+    Glen Wilson
+    Eric Likins
+    John
+    Tim Oestrich
+    Doug
 
-<pre>
+
+
                    ITINERARY
                   Spring Trip
 
-Sunday-March 22:
-     11:00 AM-leave Tomball
-     2:00 PM-snack-roadside park near Bastrop
-     4:00 PM-supper in Austin
-     5:30 PM-arrive Inks Lake State Park. (205mi)
-
-Monday-March 23:
-     7:00 AM breakfast
-     8:00 AM leave Inks Lake for canoe trip on Colorado River
-     12:00 PM-lunch on river
-     5:00 PM-return to Inks Lake S.P.
-     6:00 PM-supper in Burnet
-     8:00 PM-return Inks Lake S.P.
-
-Tuesday-March 24:
-     7:00 AM-breakfast
-     11:00 AM-Vanishing Texas River Cruise
-     4:30 PM-return Inks Lakes S.P.
-     6:00 PM-supper in Burnet
-
-Wednesday-March 25:
-     7:00 AM-breakfast
-     8:30 AM-leave Inks for Enchanted Rock
-     10:30 AM-spelunking
-     12:00 lunch
-     1:30 PM-rappelling
-     6:00 PM-supper in Frederickburg
-
-Thursday-March 26:
-     7:00 AM-breakfast
-     8:30 AM-leave Enchanted Rock for Waco
-     11:30 AM-archeological dig site
-     4:00 PM-leave for Mother Neff S.P.
-     6:00 PM-supper
-
-Friday-March 27:
-     7:00 AM-breakfast
-     8:00 AM-leave Mother Neff S.P. for Tomball
-     3:30 PM-arrive Tomball
-</pre>
+    Sunday-March 22:
+         11:00 AM-leave Tomball
+         2:00 PM-snack-roadside park near Bastrop
+         4:00 PM-supper in Austin
+         5:30 PM-arrive Inks Lake State Park. (205mi)
+    
+    Monday-March 23:
+         7:00 AM breakfast
+         8:00 AM leave Inks Lake for canoe trip on Colorado River
+         12:00 PM-lunch on river
+         5:00 PM-return to Inks Lake S.P.
+         6:00 PM-supper in Burnet
+         8:00 PM-return Inks Lake S.P.
+    
+    Tuesday-March 24:
+         7:00 AM-breakfast
+         11:00 AM-Vanishing Texas River Cruise
+         4:30 PM-return Inks Lakes S.P.
+         6:00 PM-supper in Burnet
+    
+    Wednesday-March 25:
+         7:00 AM-breakfast
+         8:30 AM-leave Inks for Enchanted Rock
+         10:30 AM-spelunking
+         12:00 lunch
+         1:30 PM-rappelling
+         6:00 PM-supper in Frederickburg
+    
+    Thursday-March 26:
+         7:00 AM-breakfast
+         8:30 AM-leave Enchanted Rock for Waco
+         11:30 AM-archeological dig site
+         4:00 PM-leave for Mother Neff S.P.
+         6:00 PM-supper
+    
+    Friday-March 27:
+         7:00 AM-breakfast
+         8:00 AM-leave Mother Neff S.P. for Tomball
+         3:30 PM-arrive Tomball
 
 <p class=date>My trip to Ink's Lake - Mar. 22 - Mar. 27, 1987</p>
 
-<p>It was to be a fun trip.  We were going to go to Ink's lake, go
+It was to be a fun trip.  We were going to go to Ink's lake, go
 spelunking, canoing, rappelling, climbing, and a whole bunch of fun
 stuff.  It was pretty fun. Now it is March 29, and I just relayed the
-whole trip to a tape recorder.  Here's how it went: We left Tomball, A
+whole trip to a tape recorder.  Here's how it went:
+
+We left Tomball, A
 little late, but we left.  All our stuff was cram-packed in the back
 of the bus.  I was in the furthest seat back with Wade Johnson.  We
 were talkin' and listening to tapes and stuff.. just messing around.
 Then 3 of the girls decided to take a nap on our stuff.  Throughout
 the trip, it got more crowded back there every day.  It was Pam,
 Renae, and Beth who went back.  I'm going to go through the trip
-faster than this.  We rented canoes along the way; while we were
+faster than this.
+
+We rented canoes along the way; while we were
 there, we chunked a little pink cloth frisbee around. We stopped for a
 snack near Bastrop, and had supper at McDonalds in Austin.  I called
 Christy Deans from there, well, I tried.  She wasn't there.  We
@@ -114,7 +117,9 @@ people climbing up and jumping off a branch.  Eventualy we all got
 tired and everyone but a few people lay down under that tree. We
 watched shooting stars, told stories, and jokes, we sang some.  I
 played mercy with Mike Hurt.  We were perfectly matched.  We slept at
-about 2:30am.  At 3:00 it started raining.  We all jumped up and went
+about 2:30am.
+
+At 3:00 it started raining.  We all jumped up and went
 to a cabin.  It started raining hard, then.  Wind was blowin' it right
 in the screen.  We were totally crammed against the wall under the
 screen.  Barry then got up and got a tarp to put on the windows
@@ -127,7 +132,9 @@ some double stunts - stand on someones shoulders -, played on some
 see-saws, a slide, and swings.  I learned how to flip out of a swing.
 Not from my back, but sitting.  The trick is to hold on to the chains
 until you are rightside up.  Mike and Renae taught me how.  I did
-double stunts with Pam.  We went on the canoe trip. I was with Mike
+double stunts with Pam.
+
+We went on the canoe trip. I was with Mike
 Hamm and Wade.  We jumped in and were cruisin'.  Wade was humming the
 theme from Hawaii 5-0.  The wind was blowin' so hard that Pam, Beth,
 Renae got dumped over. Wade and I helped them.  Then came some rapids.
@@ -147,7 +154,9 @@ to a dock Wade had run to.  We got there, dumped it out, and were
 freezin'.  There was an old dude watching us.  It was his dock.  Then
 we went across the river to where the Torgesens and Glen were.  We
 tied up and waited for the others. I lay out on a rock gettin' a tan
-during that time.  After about another hour, everyone was there and we
+during that time.
+
+After about another hour, everyone was there and we
 played some games and told jokes.  I learned the 7 game then.  Later,
 the camper got there and we chunked a football and 2 tennis balls
 around.  We waited some more and then went back to camp.  Mike Hurt
@@ -159,6 +168,7 @@ magazines, and messed around.  Mike juggled some things, like boxes of
 raisins, or cans of peas.  We just had a good time.  I slept in the
 crazy group.  Not the Ahlborns' clan, but Glen, John, Brian, Dave,
 Eric (not Shafer), and Tim.  We gambled and ate M&M and crackerjacks.
+
 We read Tim's National Enquirerer- all the STUPID things in it.  We
 slept at about 12:00 and Brian and I woke at about 6:00 to get warm
 showers.  It worked.  By this time, I had lost a shirt, a pair of
@@ -169,27 +179,35 @@ bucks.  We all just layed out on the top deck and got some sleep.
 Mike Hurt and I took everything off except shorts to get a tan.  We
 saw some water falls, Spanish Daggers (that's what's in our front
 yard), some Spanish goats, and some double crested Camerons.  Glen
-called them Double Breasted... whatever.  The narrator? of the cruise
+called them Double Breasted... whatever.
+
+The narrator? of the cruise
 came up a few times to compliment our good behavior.  The last time we
 were singing the theme from Giligan's Island.  Then later in the
 afternoon, we went rappeling.  That was scary!  Getting over the edge
 was against all instincts.  I was the first to go after Mike Hurt
 did. (He was a college councilor for the trip).  We went swimming.
-The wind had slowed some so it wasn't too bad.  We had supper in
+The wind had slowed some so it wasn't too bad.
+
+We had supper in
 Burnet again.  this time at Mr. Gatti's.  We were getting a little
 wild here, but not too bad.  I had one piece of Eric Shafer's Pizza,
 and I bought some cinamon bread sticks.  I was the last to order
 anything and Brian and I were the last people in there.  We were
 talking to the girl working there.  She had blonde hair and looked
 like that girl on "Heart of the City."  She was really pretty.  then
-we crusied back to the camp.  I was in the crazy group again.  We were
+we crusied back to the camp.
+
+I was in the crazy group again.  We were
 messin' around outside.  We threw rocks at the Alhborns' group's
 cabin.  Glen pissed in a can of Dr. Pepper and threw it on the roof.
 Then we played Gastapo until about 12:30.  I slept outside with Eric
 Shafer, Gary Picou, Mike hurt, Mike Hamm, and me.  I woke up, showered
 (warm) and went to the breakfast cabin.  I asked Mr. Cowan what day it
 was, and he said "Wednesday the 25th."  If he hadn't said "25th" I
-would not have remembered my B-day.  That day we went to West Cave and
+would not have remembered my B-day.
+
+That day we went to West Cave and
 Enchanted rock.  West Cave was neat.  We went down into a canyon by a
 river.  We followed a little creek upstream to a horseshoe shaped
 waterfall.  You could walk under the horseshoe behind the waterfall.
@@ -198,7 +216,9 @@ On one side of the HorseShoe, the water had fallen for so long
 was truly awesome. Then we went to Enchanted Rock.  On the way we
 stopped at another horseshoe shaped falls.  This one was bigger,
 though, and much prettier.  The water was _<b>crystal</b>_ blue.  So
-beautiful!!!  We ate lunch there.  I sat with Renae, Pam, Beth, Allan,
+beautiful!!!
+
+We ate lunch there.  I sat with Renae, Pam, Beth, Allan,
 and Wade.  Renae dropped her apple into the water twice.  I walked
 aroud behind the waterfall, where Carl was.  Then we all went back and
 finished our trip to Enchanted Rock.  Enchanted R. was great.  I did a
@@ -210,7 +230,9 @@ tough!  Only Beth and Mike Hurt could do it.  Barry couldn't ven.  I
 tried hard though, and got some good scratches trying, but nope.  I
 was unable to form a fist in a certain crack to pull myself up with,
 and Mike was not there to show me another way.  But, it was a noble
-effort.  We went to Dairy Queen that night for supper.  the girl
+effort.
+
+We went to Dairy Queen that night for supper.  the girl
 working there asked us for our name when we ordered to make it more
 personal. I said Ted for my name.  I got a hamburger and water and a
 blizzard with M&M's in it.  Brian got cold fajitas.  That was funny.
@@ -218,7 +240,9 @@ Later I went up there with Dave and ordered a blizzard.  We went down
 the whole list, rejecting each item that was offered to put in it.
 Then I said, "How 'bout French Fries?"  the girl sorta grossed out
 then said sure.  I decided not, although everyone said Goforit!  I
-just got M&Ms again.  We went to camp after that and slept, got up the
+just got M&Ms again.
+
+We went to camp after that and slept, got up the
 next morning, took showers, and left for Waco.  We at breakfast and
 McD's.  We were fairly wild then.  I got about 12 straws.  We played
 outside some and then continued on.  We got to Waco, stopped had lunch
@@ -235,7 +259,9 @@ didn't touch it because it was a grave), solid gold coins (too heavy
 to carry), a complete shark skeleton (it was buried so I couldn't dig
 it up), and a pteredactyl (it flew away).  So I didn't come back with
 much to show for my finds.  Oh Yeah- a piece of the Rosetta Stone (it
-fell out of a hole in my pocket) Oh, well.  We went to Mother Neff
+fell out of a hole in my pocket) Oh, well.
+
+We went to Mother Neff
 that evening.  We played the ABC game along the way.  I helped cook
 ribs with Mike Hurt that night.  I slept with the Alhborns' group
 again that night. I learned how to play murder and I got to talk to
@@ -247,7 +273,9 @@ have to hurry.  There was plenty of hot water for showers.  There were
 only 2 showers though.  Barry and I were in the shower part of the
 bathroom at the same time.  We sang Lean On Me, and the national
 anthem.  Wade and the Torgesens were bangin' on the door to tell us to
-hurry.  After that we ate breakfast and played washers.  I took some
+hurry.
+
+After that we ate breakfast and played washers.  I took some
 pictures, and played frisbee.  John, Glen and I got a frisbee triangle
 going.  Then we left.  We played the ABC game.  Only Me Glen John and
 Tim made it all the way through.  Our list was, Australo-Burilicus,
@@ -259,6 +287,7 @@ Supercalifragilisticexpialidoches, Thermo-molecular cumulo-rhumbic
 with a linear postulation in section four on the left hand side,
 Urinary passage, Vortices, Winnie the Pooh, Xenophobic nightmares,
 Yugoslavian barbaric eras of time, and Zambia.  Pretty awesome, huh?
+
 We went crazy at McD's.  We all ordered from one register, about
 $70. I got a Big Mac, a hamburger, ice water, ice cream cone, apple
 pie, and a medium Dr. Pepper.  Then I went back for a shake and
@@ -270,6 +299,6 @@ friend could take about 8 of us.  I hope I can go.  Tim's mom took me
 and Dave home, and that's it.  It was fun. We got home Friday- of
 course.  I told Fred some of my jokes.  I think I'm going to reserve
 some pages in here for jokes and stories.  They may be the first pages
-listed in my table of contents.</p>
+listed in my table of contents.
 
 
