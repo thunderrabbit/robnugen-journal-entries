@@ -7,15 +7,7 @@ date: 2017-09-22T20:35:13+09:00
 
 ## 17:44 Friday 22 September 2017 JST
 
-[Playlist for Marble Track 3](https://www.youtube.com/watch?v=-KjsYc4Mb5g&list=PL0osPGt21FB48UwuhtCUoi9JndC9YDHAZ) now has four videos.
-
-{{< youtube SVULwDx6hgY >}}
-
-Once I got the screwdriver upright, it went quite quickly to get all
-the screws in.  Even so, it took two hours to do the screwdriver part
-in the video above.
-
-Here is the livestream: https://youtu.be/UCiYZ17Yhe4
+The [playlist for Marble Track 3](https://www.youtube.com/watch?v=-KjsYc4Mb5g&list=PL0osPGt21FB48UwuhtCUoi9JndC9YDHAZ) now has four videos.
 
 ## 20:35 Friday 22 September 2017 JST
 
