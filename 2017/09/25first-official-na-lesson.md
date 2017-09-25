@@ -23,3 +23,6 @@ Got it sorted out after I started doing role plays, in which,
 fortunately, I was able to incorporate some of the words we had gone
 over before.  Yay for winging it!
 
+In other news; it looks like a boat race place is being built in
+Roppongi!  Ain't water for miles around but the signs at a
+construction site were all about boat racing.
