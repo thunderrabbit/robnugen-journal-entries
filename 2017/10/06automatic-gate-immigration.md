@@ -1,13 +1,13 @@
 ---
 title: automatic gate immigration
-tags: [ "immigration", "japan", "automatic", "qr", "" ]
+tags: [ "immigration", "japan", "automatic", "qr", "funny" ]
 author: Rob Nugen
 date: 2017-10-06T08:29:14+09:00
 ---
 
 ## 08:29 Friday 06 October 2017 JST
 
-Here is my QR code which apparently lets me through the customs gate
+Here is my QR code which apparently lets me through the immigration gate
 in a breeze.  So nice that they have this service!  On my way out of
 Narita, the lines to go through the human powered checkpoints were
 quite long compared to the lack of lines in the automated gates.
