@@ -1,11 +1,15 @@
 ---
 title: godot
-tags: [ "godot", "" ]
+tags: [ "godot", "bug" ]
 author: Rob Nugen
 date: 2017-10-11T05:46:51+09:00
 ---
 
 ## 05:46 Wednesday 11 October 2017 JST
+
+Last night I decided to look at using [Godot](https://godotengine.org)
+to develop our next game.  I downloaded and opened it up, but it could
+not open the list of templates.
 
 **Operating system or device, Godot version:**
 
@@ -17,7 +21,7 @@ Run Godot first time, the Project Manager window appears, but cannot connect to 
 
     Can't connect to host: https://godotengine.org/asset-library/api
 
-Looks like the same as #7545, but on OS X instead of Windows
+Looks like the same as [#7545](https://github.com/godotengine/godot/issues/7545), but on OS X instead of Windows
 
 **Steps to reproduce:**
 
