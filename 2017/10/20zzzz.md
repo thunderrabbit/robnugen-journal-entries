@@ -19,3 +19,9 @@ Anyway, I cleaned up the
 little so it has less code related to the Time Calculator.  The writer
 of Time Calculator hasn't responded to my request for a suggested
 License, so I guess I will leave the license off.
+
+## 00:08 Saturday 21 October 2017 JST
+
+Just for the record, I am completely ready for bed: showered,
+flossed+brushed teeth, dried hair (doesn't take much)... but I am just
+sitting in front of my computer like bluh. gtf to bed!
