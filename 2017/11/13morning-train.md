@@ -18,3 +18,5 @@ and type with good posture.
 
 Ah here in Yoyogi-Uehara, most people got off the train and now I have
 room on both sides for elbows.
+
+Brrr but now I'm cold.
