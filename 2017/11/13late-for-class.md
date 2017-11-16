@@ -18,3 +18,7 @@ date: 2017-11-13T16:51:07+09:00
     say HI with donuts if it's convenient for you!
     
     The class starts at 12:00 so I would have to leave at 11:30 at the latest.
+
+## 18:00 Thursday 16 November 2017 JST
+
+Might end up meeting each week before class!
