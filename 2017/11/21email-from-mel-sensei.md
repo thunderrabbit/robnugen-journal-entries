@@ -23,11 +23,10 @@ I tried to make the above sufficiently polite + understandable!
 
 I sometimes post my Japanese homework in my journal under the tag 日本語; feel free to check it out and see if I have any consistent mistakes that I should learn to correct!
 
+Rob!
 
-   - Rob!
 
-
-    2017-11-20 23:39 GMT+09:00 Mel
+    2017-11-20 23:39 GMT+09:00 Mel wrote:
     
     ロブさん、こんにちは。
     今週の木曜日のレッスンでは、何を練習したいですか？
