@@ -21,3 +21,21 @@ both sides of the track.
 35 more minutes during this break to let the glue dry, and then I will
 hopefully get the second half of this track glued today and have the M
 Dropper working yay!
+
+## 15:32
+
+Well I haven't yet glued the second half, but I did get to the point
+where I need to clip the first half, so I just bought some clippers
+(whereas I had hoped to buy a saw blade for my drill).
+
+## 17:31 Saturday 25 November 2017 JST
+
+The new clippers are pretty great!
+
+Now three of four points are glued on the M dropper.
+
+{{< youtube jmGdVsuxa7M >}}
+
+This video has Jennie in 6 or so frames near the end.
+
+https://youtu.be/Yn5x7M6uZ_A
