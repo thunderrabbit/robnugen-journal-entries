@@ -21,4 +21,6 @@ itself, but for now I want to keep from doing that.
 I will likely have to break, trim, and reglue the piece, but it should
 not be too difficult once I put both of its supports down.
 
-
+[![2017 nov 23 collapse before install m dropper](//b.robnugen.com/art/marble_track_3/construction/2017/thumbs/2017_nov_23_collapse_before_install_m_dropper.jpg)](//b.robnugen.com/art/marble_track_3/construction/2017/2017_nov_23_collapse_before_install_m_dropper.jpg)
+[![2017 nov 24 closeup half glued half m dropper](//b.robnugen.com/art/marble_track_3/construction/2017/thumbs/2017_nov_24_closeup_half_glued_half_m_dropper.jpg)](//b.robnugen.com/art/marble_track_3/construction/2017/2017_nov_24_closeup_half_glued_half_m_dropper.jpg)
+[![2017 nov 24 overview half glued half m dropper](//b.robnugen.com/art/marble_track_3/construction/2017/thumbs/2017_nov_24_overview_half_glued_half_m_dropper.jpg)](//b.robnugen.com/art/marble_track_3/construction/2017/2017_nov_24_overview_half_glued_half_m_dropper.jpg)

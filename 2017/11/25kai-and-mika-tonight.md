@@ -18,6 +18,8 @@ walked to Tokyo station by way of her English speaking dentist.  We
 met a man in the station who is apparently an 江戸子(sp), and talked
 about how his ggggrandfather was a samurai.
 
+[![funny guy](//b.robnugen.com/journal/2017/thumbs/funny_guy.jpg)](//b.robnugen.com/journal/2017/funny_guy.jpg)
+
 Kai and I took the second oldest subway in Tokyo to the busiest train
 station in Japan (the world?) and I jumped into a picture with some
 guys who were posing next to a sign featuring Snoopy and large text
