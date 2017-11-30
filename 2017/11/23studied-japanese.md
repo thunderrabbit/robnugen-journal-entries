@@ -15,11 +15,11 @@ trouble with pesky くれる and もらう.  Whereas I had tried
 時間があれば、私の日本語の勉強しましたの日記みたいな文を読んでくれてい
 いですか。
 
-she suggested one of these
+she suggested <del>one of these</del> this
 
 時間があれば、私の日本語を勉強した日記見たいな文を
 
-- 読んでくれて嬉しいです。
+- <del>読んでくれて嬉しいです。</del>  (cannot use this unless I received it already)
 - 読んでもらっていいですか。
 
 We studied more, but my mind is focused on tax preparation.
