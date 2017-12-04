@@ -39,6 +39,8 @@ date: 2017-12-03T15:06:00+09:00
 25. 朱抹は忙しかったですけど仕事のやつできました。
 26. よくできました！
 
+English versions of the sentences above, just in case they are needed.
+
 1. This is the first time I have written an SOML in Japanese.
 2. I can write it with my computer, but will I be able to read it later?
 3. I was able to finish work in 10 hours today
