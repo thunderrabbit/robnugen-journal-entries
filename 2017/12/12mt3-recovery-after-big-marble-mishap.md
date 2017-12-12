@@ -17,13 +17,22 @@ At this point:
 the ramp base, after which the gluer will lift the base and glue the
 pieces to it.
 
+[![2017 dec 12 about to cut ramp base](//b.robnugen.com/art/marble_track_3/construction/2017/thumbs/2017_dec_12_about_to_cut_ramp_base.jpg)](//b.robnugen.com/art/marble_track_3/construction/2017/2017_dec_12_about_to_cut_ramp_base.jpg)
+
 2. Mr Reversable is kicking the big marble around to the ramp, up
 which it will be rolled back onto the stage.
+
+[![2017 dec 12 pushing big marble](//b.robnugen.com/art/marble_track_3/construction/2017/thumbs/2017_dec_12_pushing_big_marble.jpg)](//b.robnugen.com/art/marble_track_3/construction/2017/2017_dec_12_pushing_big_marble.jpg)
 
 3. Little brother is beginning to spin in circles on the topmost part
 of the track.
 
+[![2017 dec 12 spinning on top](//b.robnugen.com/art/marble_track_3/construction/2017/thumbs/2017_dec_12_spinning_on_top.jpg)](//b.robnugen.com/art/marble_track_3/construction/2017/2017_dec_12_spinning_on_top.jpg)
+
 4. Mr Green, Big brother, and the other guy are inspecting the area
    where the large marble went off the track.
+
+[![2017 dec 12 inspecting problem area 0](//b.robnugen.com/art/marble_track_3/construction/2017/thumbs/2017_dec_12_inspecting_problem_area_0.jpg)](//b.robnugen.com/art/marble_track_3/construction/2017/2017_dec_12_inspecting_problem_area_0.jpg)
+[![2017 dec 12 inspecting problem area 1](//b.robnugen.com/art/marble_track_3/construction/2017/thumbs/2017_dec_12_inspecting_problem_area_1.jpg)](//b.robnugen.com/art/marble_track_3/construction/2017/2017_dec_12_inspecting_problem_area_1.jpg)
 
 {{< youtube PLWWsdLyqV8 >}}

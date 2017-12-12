@@ -20,10 +20,10 @@ http://grun1.com/utils/timeCalc.html?t1=4:14:42&c1=June%202017%204:14:42&t2=10:1
 
 [![2017 sep 27 bought marbles](//b.robnugen.com/art/marble_track_3/set/thumbs/2017_sep_27_bought_marbles.jpg)](//b.robnugen.com/art/marble_track_3/set/2017_sep_27_bought_marbles.jpg)
 
-[![2017 nov 03 still shot](//b.robnugen.com/art/marble_track_3/construction/thumbs/2017_nov_03_still_shot.jpg)](//b.robnugen.com/art/marble_track_3/construction/2017_nov_03_still_shot.jpg)
-[![2017 nov 13 deck of small track](//b.robnugen.com/art/marble_track_3/construction/thumbs/2017_nov_13_deck_of_small_track.jpg)](//b.robnugen.com/art/marble_track_3/construction/2017_nov_13_deck_of_small_track.jpg)
-[![2017 nov 13 posing by small track](//b.robnugen.com/art/marble_track_3/construction/thumbs/2017_nov_13_posing_by_small_track.jpg)](//b.robnugen.com/art/marble_track_3/construction/2017_nov_13_posing_by_small_track.jpg)
-[![2017 nov 13 small track](//b.robnugen.com/art/marble_track_3/construction/thumbs/2017_nov_13_small_track.jpg)](//b.robnugen.com/art/marble_track_3/construction/2017_nov_13_small_track.jpg)
-[![2017 nov 17 about to push up two 180 degree turns](//b.robnugen.com/art/marble_track_3/construction/thumbs/2017_nov_17_about_to_push_up_two_180_degree_turns.jpg)](//b.robnugen.com/art/marble_track_3/construction/2017_nov_17_about_to_push_up_two_180_degree_turns.jpg)
-[![2017 nov 17 boys in the back](//b.robnugen.com/art/marble_track_3/construction/thumbs/2017_nov_17_boys_in_the_back.jpg)](//b.robnugen.com/art/marble_track_3/construction/2017_nov_17_boys_in_the_back.jpg)
-[![2017 nov 17 glue dried on third angled wall](//b.robnugen.com/art/marble_track_3/construction/thumbs/2017_nov_17_glue_dried_on_third_angled_wall.jpg)](//b.robnugen.com/art/marble_track_3/construction/2017_nov_17_glue_dried_on_third_angled_wall.jpg)
+[![2017 nov 03 still shot](//b.robnugen.com/art/marble_track_3/construction/2017/thumbs/2017_nov_03_still_shot.jpg)](//b.robnugen.com/art/marble_track_3/construction/2017/2017_nov_03_still_shot.jpg)
+[![2017 nov 13 deck of small track](//b.robnugen.com/art/marble_track_3/construction/2017/thumbs/2017_nov_13_deck_of_small_track.jpg)](//b.robnugen.com/art/marble_track_3/construction/2017/2017_nov_13_deck_of_small_track.jpg)
+[![2017 nov 13 posing by small track](//b.robnugen.com/art/marble_track_3/construction/2017/thumbs/2017_nov_13_posing_by_small_track.jpg)](//b.robnugen.com/art/marble_track_3/construction/2017/2017_nov_13_posing_by_small_track.jpg)
+[![2017 nov 13 small track](//b.robnugen.com/art/marble_track_3/construction/2017/thumbs/2017_nov_13_small_track.jpg)](//b.robnugen.com/art/marble_track_3/construction/2017/2017_nov_13_small_track.jpg)
+[![2017 nov 17 about to push up two 180 degree turns](//b.robnugen.com/art/marble_track_3/construction/2017/thumbs/2017_nov_17_about_to_push_up_two_180_degree_turns.jpg)](//b.robnugen.com/art/marble_track_3/construction/2017/2017_nov_17_about_to_push_up_two_180_degree_turns.jpg)
+[![2017 nov 17 boys in the back](//b.robnugen.com/art/marble_track_3/construction/2017/thumbs/2017_nov_17_boys_in_the_back.jpg)](//b.robnugen.com/art/marble_track_3/construction/2017/2017_nov_17_boys_in_the_back.jpg)
+[![2017 nov 17 glue dried on third angled wall](//b.robnugen.com/art/marble_track_3/construction/2017/thumbs/2017_nov_17_glue_dried_on_third_angled_wall.jpg)](//b.robnugen.com/art/marble_track_3/construction/2017/2017_nov_17_glue_dried_on_third_angled_wall.jpg)
