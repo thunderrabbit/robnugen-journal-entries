@@ -19,6 +19,8 @@ BUT, my `_on_Control_input_event` function does *not* work.
 
 ## 08:25 Friday 15 December 2017
 
+https://github.com/thunderrabbit/robdot_leswiz
+
 Yay!  I started a new Godot project, basing its core on
 https://github.com/RodZill4/godot_inventory.git  Now I have
 functions which respond to mouse clicks and mouse entry/exit.
