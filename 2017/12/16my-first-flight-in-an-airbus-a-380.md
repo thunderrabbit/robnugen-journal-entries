@@ -13,10 +13,12 @@ Last night was my (and Lin's) first time to travel in an
 was around 15 hours from Dubai to São Paulo on Emirates, which is
 apparently Airbus' largest A380 customer.
 
-I was impressed with how relatively quiet the plane was (sitting just
-at the trailing edge of the wings) during the entire flight.  We had a
-hard landing with a bounce, but the aircraft came to a stop very
-quickly and smoothly.
+I was impressed with how relatively quiet the plane was during the
+entire flight.  (I had a window seat just at the trailing edge of the
+wings.)
+
+We had a hard landing with a bounce, but the aircraft came to a stop
+very quickly and smoothly.
 
 [![full console](//b.robnugen.com/travel/world/Brazil/2017/flights/thumbs/full_console.jpg)](//b.robnugen.com/travel/world/Brazil/2017/flights/full_console.jpg)
 [![view from tail](//b.robnugen.com/travel/world/Brazil/2017/flights/thumbs/view_from_tail.jpg)](//b.robnugen.com/travel/world/Brazil/2017/flights/view_from_tail.jpg)
