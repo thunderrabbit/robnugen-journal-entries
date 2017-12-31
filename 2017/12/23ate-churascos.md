@@ -1,7 +1,6 @@
 ---
 title: "Ate churascos"
 tags: [ "brazil", "vacation", "churrascos", "beach", "fortaleza", "travel", "" ]
-draft: true
 author: Rob Nugen
 date: 2017-12-23T14:19:30+09:00
 ---

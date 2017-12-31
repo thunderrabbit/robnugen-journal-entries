@@ -1,7 +1,6 @@
 ---
 title: "my first flight in an Airbus A-380"
 tags: [ "a380", "first", "travel", "big", "airbus" ]
-draft: true
 author: Rob Nugen
 date: 2017-12-16T07:37:40+09:00
 ---

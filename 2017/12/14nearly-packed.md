@@ -1,7 +1,6 @@
 ---
 title: "Nearly packed"
 tags: [ "packed", "" ]
-draft: true
 author: Rob Nugen
 date: 2017-12-14T10:59:58+09:00
 ---

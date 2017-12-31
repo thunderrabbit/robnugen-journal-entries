@@ -1,7 +1,6 @@
 ---
 title: "barefoot in Haneda"
 tags: [ "haneda", "aiport", "barefoot" ]
-draft: true
 author: Rob Nugen
 date: 2017-12-14T20:43:27+09:00
 ---

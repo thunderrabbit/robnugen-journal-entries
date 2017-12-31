@@ -1,7 +1,6 @@
 ---
 title: "lukewarm jacuzzi"
 tags: [ "jacuzzi", "lukewarm", "fun" ]
-draft: true
 author: Rob Nugen
 date: 2017-12-25T23:30:40+09:00
 ---

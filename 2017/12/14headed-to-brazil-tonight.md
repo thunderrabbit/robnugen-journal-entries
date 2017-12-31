@@ -1,7 +1,6 @@
 ---
 title: "Headed to Brazil tonight"
 tags: [ "brazil", "trip", "rushed", "" ]
-draft: true
 author: Rob Nugen
 date: 2017-12-14T08:01:33+09:00
 ---

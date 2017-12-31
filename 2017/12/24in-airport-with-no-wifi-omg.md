@@ -1,7 +1,6 @@
 ---
 title: "in airport with NO WIFI OMG"
 tags: [ "wifi", "airport", "fortaleza", "" ]
-draft: true
 author: Rob Nugen
 date: 2017-12-24T09:02:15+09:00
 ---

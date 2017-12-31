@@ -1,7 +1,6 @@
 ---
 title: "headed to GRU airport"
 tags: [ "airport", "brazil", "lin" ]
-draft: true
 author: Rob Nugen
 date: 2017-12-19T10:43:05+09:00
 ---

@@ -1,7 +1,6 @@
 ---
 title: "lost my goggles"
 tags: [ "glasses", "" ]
-draft: true
 author: Rob Nugen
 date: 2017-12-23T21:46:55+09:00
 ---

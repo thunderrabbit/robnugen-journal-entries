@@ -1,7 +1,6 @@
 ---
 title: "long flight to Dubai"
 tags: [ "travel", "plane", "" ]
-draft: true
 author: Rob Nugen
 date: 2017-12-15T08:40:50+09:00
 ---

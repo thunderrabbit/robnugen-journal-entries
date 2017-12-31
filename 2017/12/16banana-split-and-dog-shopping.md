@@ -1,7 +1,6 @@
 ---
 title: "banana split and dog shopping"
 tags: [ "dog", "shopping", "split", "" ]
-draft: true
 author: Rob Nugen
 date: 2017-12-16T11:57:58+09:00
 ---

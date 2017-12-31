@@ -1,7 +1,6 @@
 ---
 title: "last full day in Brazil in 2017"
 tags: [ "last", "brazil", "vacation", "" ]
-draft: true
 author: Rob Nugen
 date: 2017-12-29T14:24:19+09:00
 ---

@@ -1,7 +1,6 @@
 ---
 title: "in Akihabara for last lesson of 2017"
 tags: [ "last", "lesson", "work", "gg", "akihabara", "2017" ]
-draft: true
 author: Rob Nugen
 date: 2017-12-14T17:54:40+09:00
 ---
