@@ -10,7 +10,7 @@ date: 2017-12-10T08:20:17+09:00
 ### There are probably errors in the Japanese notes below!
 
 イーマックスで日記のポーストを書きます。新しいポースト書きたかったら、
-キーボードでC-c nを書くと「日本語を番協しました」のタイトルのポースト
+キーボードでC-c nを書くと「日本語を勉強しました」のタイトルのポースト
 を始まります。
 
 I write journal entries with Emacs.  When I want to start a new entry,
@@ -21,13 +21,13 @@ started (created).
 
 Each post has tags.
 
-今日からたくさんタッグを入られます。
+今日からたくさんタッグを入れられます。
 
 Starting today, I can add many (multiple) tags.
 
-前のもらったCオード使って、たくさんタッグを入れます。
+前にもらったコード使って、たくさんタッグを入れます。
 
 Using code I received before, I can add many (multiple) tags.
 
-自入るタッグはまだできない。
+自動でタッグはまだ入れられない。
 I cannot add pre-populated tags to Japanese posts (nor dream posts).
