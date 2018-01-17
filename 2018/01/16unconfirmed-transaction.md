@@ -22,4 +22,5 @@ will be haha.
 
 ## 11:38 Wednesday 17 January 2018 JST
 
-The transaction confirmed after nearly 24 hours.  Maybe 20 or 22 hours.
+The transaction confirmed after nearly 24 hours.  </del>Maybe 20 or 22
+hours.</del> Apparently 1207 minutes, so 20 hours, 7 minutes.
