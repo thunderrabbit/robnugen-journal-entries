@@ -17,4 +17,9 @@ https://blockchain.info/tx/b92c3e8166a44fecef691a14fb20f5f94088b66c2dc4009dee4f5
 Now that I have this problem, I see https://bitcoinfees.earn.com/
 suggests fees to get transactions through quickly.
 
-So I will use that next time, but ... dang not sure when next time will be haha.
+So I will use that next time, but ... dang not sure when next time
+will be haha.
+
+## 11:38 Wednesday 17 January 2018 JST
+
+The transaction confirmed after nearly 24 hours.  Maybe 20 or 22 hours.
