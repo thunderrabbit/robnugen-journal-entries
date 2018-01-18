@@ -12,9 +12,9 @@ correct kanji for 僕
 
 I just finished work and cannot quite bear to think in Japanese.
 
-仕事おわたばっかりからまだ日本語であまり書きたくない。
+仕事がおわったばっかりだからまだ日本語であまり書きたくない。
 
-電車乗りますので寝ちゃうかも知らない。
+電車乗りますので寝ちゃうかも知れない。
 
 I am on the train so I will probably fall asleep.
 
