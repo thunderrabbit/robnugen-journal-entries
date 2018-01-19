@@ -123,7 +123,7 @@ and see this:
 
 <span style="color:blue"><ruby>根気</ruby>がある人はもっと専門的な物も作ります。</span>
 
-Next, shall we write the furigana?
+No change, but shall we write the furigana?
 
 > &#x3C;ruby&#x3E;根気こんき&#x3C;/ruby&#x3E;がある人はもっと専門的な物も作ります。
 
