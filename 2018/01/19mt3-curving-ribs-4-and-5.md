@@ -35,3 +35,5 @@ http://grun1.com/utils/timeCalc.html?t1=4:14:42&c1=June%202017%204:14:42&t2=10:1
 The resulting videos available via https://mt3s.robnugen.com/ are
 [7 minutes 51 seconds](http://grun1.com/utils/timeCalc.html?t1=1:08&c1=skeleton%20arrives&t2=1:40&c2=oops%20after%20drawing%20circle%20on%20stage&t3=1:31&c3=attached%20bearing%20to%20stage&t4=2:03&c4=big%20curve%20ball&t5=1:29&c5=curving%20ribs%204%20and%205&mode=0&fs3=1&ft2=1&f3t1=1&f4t0=1&d=:&o1=1&fps=)
 long.
+
+Close to a ratio of 1/1000
