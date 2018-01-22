@@ -14,3 +14,9 @@ cool stuff like elevators and batteries, and elevators that run on
 batteries.  We studied up in their cafeteria on the 4th floor, and
 then I went down the escalator to the third floor and went out the
 exit I had never gone out before (but had seen many times).  Neat!
+
+## the next day
+
+I discovered their wide screen TV wall is run via HDMI.
+
+[![big hdmi screen](//b.robnugen.com/journal/2018/work/thumbs/2018_jan_big_hdmi_screen.jpg)](//b.robnugen.com/journal/2018/work/2018_jan_big_hdmi_screen.jpg)
