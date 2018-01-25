@@ -45,7 +45,7 @@ mountains would be nice.. No problem.
 People with patience can make technical things.  Someone made a
 clock.  It's surprising, but you can make a calculator.
 
-<ruby><rb>作事</rb><rt>さくじ</rt></ruby>もできるし、<ruby><rb>破壊
+<ruby><rb>作る事</rb><rt>つくること</rt></ruby>もできるし、<ruby><rb>破壊
 </rb><rt>はかい</rt></ruby>する<ruby><rb>事</rb><rt>こと</rt></ruby>も
 できる。ゾンビや<ruby><rb>魔女</rb><rt>まじょ</rt></ruby>、<ruby><rb>
 鬼</rb><rt>おに</rt></ruby>、か<ruby><rb>他</rb><rt>ほか</rt></ruby>の
