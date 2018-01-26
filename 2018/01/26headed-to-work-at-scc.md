@@ -12,3 +12,8 @@ Three hours of lessons in SCC today; looking forward to it!
 On the way there, I hope to figure out why my local version of
 mypowercircle.org will not compile with Hugo.  bah.  it was supposed
 to be easy!!
+
+Ah. I had gotten stuck trying to add Japanese language version of the
+site, but never got it working.  It's better to just have an actual
+Japanese speaker make the Japanese site, so I cut out the Japanese
+content from the site and now it's working again.
