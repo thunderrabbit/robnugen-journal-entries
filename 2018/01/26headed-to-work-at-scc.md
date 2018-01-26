@@ -1,0 +1,14 @@
+---
+title: "headed to work at SCC"
+tags: [ "scc", "work", "jb", "" ]
+author: Rob Nugen
+date: 2018-01-26T12:55:17+09:00
+---
+
+## 12:55 Friday 26 January 2018 JST
+
+Three hours of lessons in SCC today; looking forward to it!
+
+On the way there, I hope to figure out why my local version of
+mypowercircle.org will not compile with Hugo.  bah.  it was supposed
+to be easy!!
