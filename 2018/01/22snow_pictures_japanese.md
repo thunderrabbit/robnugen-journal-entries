@@ -11,8 +11,8 @@ date: 2018-01-22T23:14:09+09:00
 
 今日は雪ようく吹いた。帰るの時写真をたくさん取った。
 
-[![駅の近い足道](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/thumbs/lightly_sprinkled.jpg)](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/lightly_sprinkled.jpg)
-駅の近い足道
+[![駅に近い歩道う](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/thumbs/lightly_sprinkled.jpg)](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/lightly_sprinkled.jpg)
+駅に近い歩道う
 
 [![walked through rail](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/thumbs/walking_through_rail.jpg)](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/walking_through_rail.jpg)
 walked through rail
