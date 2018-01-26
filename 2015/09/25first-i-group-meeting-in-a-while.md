@@ -1,6 +1,6 @@
 ---
-title: first i-group meeting in a while
-tags: mkp, igroup
+title: first integration group meeting in a while
+tags: ["mkp", "integration-group"]
 author: Rob Nugen
 date: 2015-09-25T20:51:52+09:00
 ---
@@ -20,7 +20,7 @@ to do
 1. look for mkp men in Tokyo
 1. Look for lists of email lists
 1. ask to be on leadership email lists
-1. Announce myself as point person for Tokyo i-group
+1. Announce myself as point person for Tokyo integration group
 1. Next meeting 23 October
 
 contact me for deets.  tokyo-mkp at this domain
