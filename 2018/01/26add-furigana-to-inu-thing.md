@@ -7,15 +7,15 @@ date: 2018-01-26T17:27:16+09:00
 
 ## 17:27 Friday 26 January 2018 JST
 
-<ruby><rb>犬</rb><rt></rt></ruby>はなぜ、これほど<ruby><rb>人間
-</rb><rt></rt></ruby>に<ruby><rb>愛</rb><rt></rt></ruby>される
+<ruby><rb>犬</rb><rt>いぬ</rt></ruby>はなぜ、これほど<ruby><rb>人間
+</rb><rt>にんげん</rt></ruby>に<ruby><rb>愛</rb><rt>あい</rt></ruby>される
 <ruby><rb>存在</rb><rt></rt></ruby>になったのか。<ruby><rb>人
-</rb><rt></rt></ruby>の４<ruby><rb>倍</rb><rt></rt></ruby>の<ruby><rb>
-視力</rb><rt></rt></ruby>と６０<ruby><rb>倍</rb><rt></rt></ruby>の
+</rb><rt>ひと</rt></ruby>の４<ruby><rb>倍</rb><rt>ばい</rt></ruby>の<ruby><rb>
+視力</rb><rt></rt></ruby>と６０<ruby><rb>倍</rb><rt>ばい</rt></ruby>の
 <ruby><rb>聴力</rb><rt></rt></ruby>を<ruby><rb>持</rb><rt></rt></ruby>
-ち、<ruby><rb>人</rb><rt></rt></ruby>の<ruby><rb>心
-</rb><rt></rt></ruby>を<ruby><rb>瞬時</rb><rt></rt></ruby>に<ruby><rb>
-読</rb><rt></rt></ruby>むことができる<ruby><rb>犬</rb><rt></rt></ruby>。
+ち、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>心
+</rb><rt>こころ</rt></ruby>を<ruby><rb>瞬時</rb><rt></rt></ruby>に<ruby><rb>
+読</rb><rt></rt></ruby>むことができる<ruby><rb>犬</rb><rt>いぬ</rt></ruby>。
 その<ruby><rb>驚</rb><rt></rt></ruby>きの<ruby><rb>能力
 </rb><rt></rt></ruby>を<ruby><rb>解明</rb><rt></rt></ruby>する
 <ruby><rb>科学</rb><rt></rt></ruby>ドキュメント。
