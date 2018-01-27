@@ -1,7 +1,6 @@
 ---
 title: "headed to work at SCC"
-tags:
-[ "scc", "work", "jb", "miyako", "yuki", "first", "naoko", "mizuho", "liliko", "tomoe" ]
+tags: [ "scc", "work", "jb", "miyako", "yuki", "first", "naoko", "mizuho", "liliko", "tomoe" ]
 author: Rob Nugen
 date: 2018-01-26T12:55:17+09:00
 ---
