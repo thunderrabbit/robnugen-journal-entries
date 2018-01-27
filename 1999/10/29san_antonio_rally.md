@@ -1,6 +1,6 @@
 ---
 title: san antonio rally
-tags: yruu, slug, ktru, sanan
+tags: ["yruu", "slug", "ktru", "sanan" ]
 author: Rob Nugen
 date: 1999-10-29
 ---
@@ -11,23 +11,44 @@ date: 1999-10-29
 
 <p>5:31am Saturday 30 October 1999
 
-<p>Oh my god it's 5:21 am.  I'm at San Antonio Rally.  After work I was all "Ohshit! I didn't get the van!" [it would be a very unfortunate situation to have 12 youth ready to go to San Antonio and me have to say, "um, I forgot to pick up the van from the rental place."]  Called the place and they were still open until 6pm.  It was 4:45.  I went and got it no problem.  All the arrangements had been made by Rog, and it was beautifully easy for me.
+<p>Oh my god it's 5:21 am.  I'm at San Antonio Rally.  After work I
+was all "Ohshit! I didn't get the van!"
+[it would be a very unfortunate situation to have 12 youth ready to go to San Antonio and me have to say, "um, I forgot to pick up the van from the rental place."]
+Called the place and they were still open until 6pm.  It was 4:45.  I
+went and got it no problem.  All the arrangements had been made by
+Rog, and it was beautifully easy for me.
 
 <p>Drove back to work to get my CDs because there's a CD player in the rental van!!!!!
 
-<p>Then to KTRU to spin Side 1 of "The Bear That Wasn't" on Jonathan and Sabrina's show. I got permission from the music director to spin one side per week! [there are eight sides on 4 disks in this story-album]  Jonathan and Sabrina gave me phat props on the air afterward. Nice!
+<p>Then to KTRU to spin Side 1 of "The Bear That Wasn't" on Jonathan
+and Sabrina's show. I got permission from the music director to spin
+one side per week!
+[there are eight sides on 4 disks in this story-album] Jonathan and
+Sabrina gave me phat props on the air afterward. Nice!
 
-((Feb 2015: if I remember correctly, the record was a 45 rpm disk, but the turntables didn't support that speed, so to make it sound natural, I spun the record by hand at the right speed.))
+((Feb 2015: if I remember correctly, the record was a 45 rpm disk, but
+the turntables didn't support that speed, so to make it sound natural,
+I spun the record by hand at the right speed.))
 
-<p>Home and packed for the rally, shaved my head, shaved my faced, fixed spelling of Mondro's name on my dj_shadow.html entry and then drove to church, picked up youth and drove to San Antonio.
+<p>Home and packed for the rally, shaved my head, shaved my faced,
+fixed spelling of Mondro's name on my dj_shadow.html entry and then
+drove to church, picked up youth and drove to San Antonio.
 
-<p>[We left around 8:25pm and stopped by the bus station in downtown to pick up Nathan and Ashley. Left the city around 8:50pm. On the way there, we stopped once for gas (had used a quarter tank) and munchies.  Mostly just listened to music all the way.]
+<p>[We left around 8:25pm and stopped by the bus station in downtown to
+pick up Nathan and Ashley. Left the city around 8:50pm. On the way
+there, we stopped once for gas (had used a quarter tank) and munchies.
+Mostly just listened to music all the way.]
 
-<p>Arrived around 12:30am and play play play (re)learning more names: Zara, Dara, Joanna, Hillary, Patrick, Travis, JoJo, Sam, Karen, Adam, Oliver.. [if I left someone out that means I forgot you or I for sure know your name!]
+<p>Arrived around 12:30am and play play play (re)learning more names:
+Zara, Dara, Joanna, Hillary, Patrick, Travis, JoJo, Sam, Karen, Adam,
+Oliver.. [if I left someone out that means I forgot you or I for sure know your name!]
 
-<p>I just realize for the second time that I don't need a huge DSL-enabled unix laptop to be able to write these entries! Any laptop with floppy would be great!
+<p>I just realize for the second time that I don't need a huge
+DSL-enabled unix laptop to be able to write these entries! Any laptop
+with floppy would be great!
 
-<p>Talking to Austin - funny stuff: a pogo stick with a hugenormous spring that would let us bounce hundreds of feet into the air..
+<p>Talking to Austin - funny stuff: a pogo stick with a hugenormous
+spring that would let us bounce hundreds of feet into the air..
 
 <p>Maia came up, "hey Rob, where's the other half of your brain?"
 
@@ -41,9 +62,12 @@ date: 1999-10-29
 
 <p>3+ am Sunday 31 Oct 1999
 
-<p>YAC meeting was great today.  Joined by Mark Westerburg (sp) who had super insightful comments and suggestions - great fantastic to have his input.
+<p>YAC meeting was great today.  Joined by Mark Westerburg (sp) who
+had super insightful comments and suggestions - great fantastic to
+have his input.
 
-<p>We got a pretty big lot accomplished - my portion is to help with website - help Zara update it.
+<p>We got a pretty big lot accomplished - my portion is to help with
+website - help Zara update it.
 
 <p>Highlights of the day [not at YAC meeting] as I remember them:
 
