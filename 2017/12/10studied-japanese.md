@@ -1,6 +1,6 @@
 ---
 title: "日本語を勉強しました"
-tags: [ "日本語", "tags", "" ]
+tags: [ "日本語", "tags" ]
 author: Rob Nugen
 date: 2017-12-10T08:20:17+09:00
 ---

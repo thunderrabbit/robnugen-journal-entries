@@ -1,6 +1,6 @@
 ---
 title: mt3 got another track glued down
-tags: [ "mt3", "video", "battery", "adapter", "" ]
+tags: [ "mt3", "video", "battery", "adapter" ]
 author: Rob Nugen
 date: 2017-10-20T15:43:16+09:00
 ---

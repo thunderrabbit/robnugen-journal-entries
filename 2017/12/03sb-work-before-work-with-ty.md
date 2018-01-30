@@ -1,6 +1,6 @@
 ---
 title: "sb work before work with Ty"
-tags: [ "work", "" ]
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-12-03T09:01:35+09:00
 ---

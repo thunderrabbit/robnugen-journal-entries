@@ -1,6 +1,6 @@
 ---
 title: "42 minutes to Dubai"
-tags: [ "flight", "dubai", "travel", "" ]
+tags: [ "flight", "dubai", "travel" ]
 author: Rob Nugen
 date: 2017-12-31T14:45:15+09:00
 ---

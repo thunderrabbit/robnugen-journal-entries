@@ -1,6 +1,6 @@
 ---
 title: great hot workout with SOGO
-tags: [ "hot", "sogo", "workout", "yoyogi", "" ]
+tags: [ "hot", "sogo", "workout", "yoyogi" ]
 author: Rob Nugen
 date: 2017-08-27T14:46:08+09:00
 ---

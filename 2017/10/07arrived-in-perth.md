@@ -1,6 +1,6 @@
 ---
 title: Arrived in Perth
-tags: [ "etai", "perth", "" ]
+tags: [ "etai", "perth" ]
 author: Rob Nugen
 date: 2017-10-07T01:43:49+09:00
 ---

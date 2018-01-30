@@ -1,6 +1,6 @@
 ---
 title: "mt3: spinning again while adding 6th rib"
-tags: [ "mt3", "video", "" ]
+tags: [ "mt3", "video" ]
 author: Rob Nugen
 date: 2018-01-28T21:53:25+09:00
 ---

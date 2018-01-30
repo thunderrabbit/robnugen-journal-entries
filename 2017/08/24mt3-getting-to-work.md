@@ -1,6 +1,6 @@
 ---
 title: mt3 getting to work
-tags: [ "mt3", "video", "" ]
+tags: [ "mt3", "video" ]
 author: Rob Nugen
 date: 2017-08-24T16:46:25+09:00
 ---

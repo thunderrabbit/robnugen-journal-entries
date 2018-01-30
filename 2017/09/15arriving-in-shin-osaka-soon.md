@@ -1,6 +1,6 @@
 ---
 title: Arriving in Shin Osaka soon
-tags: [ "shin", "" ]
+tags: [ "shin" ]
 author: Rob Nugen
 date: 2017-09-15T08:34:08+09:00
 ---

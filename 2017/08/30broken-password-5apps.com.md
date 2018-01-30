@@ -1,6 +1,6 @@
 ---
 title: broken password 5apps.com
-tags: [ "password", "software", "bad", "" ]
+tags: [ "password", "software", "bad" ]
 author: Rob Nugen
 date: 2017-08-30T01:37:53+09:00
 ---

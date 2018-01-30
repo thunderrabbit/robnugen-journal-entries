@@ -1,6 +1,6 @@
 ---
 title: dream time stops
-tags: [ "dream", "" ]
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2017-09-06T05:22:52+09:00
 ---

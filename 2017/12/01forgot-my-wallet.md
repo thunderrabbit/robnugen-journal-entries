@@ -1,6 +1,6 @@
 ---
 title: "forgot my wallet"
-tags: [ "wallet", "oops", "help", "forgot", "" ]
+tags: [ "wallet", "oops", "help", "forgot" ]
 author: Rob Nugen
 date: 2017-12-01T13:16:38+09:00
 ---

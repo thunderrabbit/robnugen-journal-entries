@@ -1,6 +1,6 @@
 ---
 title: Francois with Kan
-tags: [ "kan", "francois", "image", "" ]
+tags: [ "kan", "francois", "image" ]
 author: Rob Nugen
 date: 2012-10-27T11:54:35+09:00
 ---

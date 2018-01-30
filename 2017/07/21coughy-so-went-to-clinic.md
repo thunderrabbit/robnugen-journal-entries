@@ -1,6 +1,6 @@
 ---
 title: coughy so went to clinic
-tags: [ "clinic", "sick", "cough", "" ]
+tags: [ "clinic", "sick", "cough" ]
 author: Rob Nugen
 date: 2017-07-21T10:24:44+09:00
 ---

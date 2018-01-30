@@ -1,6 +1,6 @@
 ---
 title: "game knows names of swipes"
-tags: [ "godot", "swipe", "" ]
+tags: [ "godot", "swipe" ]
 author: Rob Nugen
 date: 2017-12-26T16:51:17+09:00
 ---

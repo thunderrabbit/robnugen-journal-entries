@@ -1,6 +1,6 @@
 ---
 title: chillin in Osaka
-tags: [ "yo", "fun", "" ]
+tags: [ "yo", "fun" ]
 draft: true
 author: Rob Nugen
 date: 2017-09-15T22:33:28+09:00

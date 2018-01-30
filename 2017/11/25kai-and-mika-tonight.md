@@ -1,6 +1,6 @@
 ---
 title: "Kai and Mika tonight"
-tags: [ "kai", "mika", "bubbys", "dinner", "fun", "" ]
+tags: [ "kai", "mika", "bubbys", "dinner", "fun" ]
 author: Rob Nugen
 date: 2017-11-25T00:42:59+09:00
 ---

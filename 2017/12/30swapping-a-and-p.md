@@ -1,6 +1,6 @@
 ---
 title: "swapping A and P"
-tags: [ "am", "pm", "jetlag", "sleep", "travel", "" ]
+tags: [ "am", "pm", "jetlag", "sleep", "travel" ]
 author: Rob Nugen
 date: 2017-12-30T16:40:49+09:00
 ---

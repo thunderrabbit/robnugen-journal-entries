@@ -1,6 +1,6 @@
 ---
 title: Tall man in Ueno station
-tags: [ "barefoot", "tv", "respect", "" ]
+tags: [ "barefoot", "tv", "respect" ]
 author: Rob Nugen
 date: 2017-07-27T17:58:13+09:00
 ---

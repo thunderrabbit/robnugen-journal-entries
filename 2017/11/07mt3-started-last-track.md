@@ -1,6 +1,6 @@
 ---
 title: mt3 started last track
-tags: [ "mt3", "video", "last", "" ]
+tags: [ "mt3", "video", "last" ]
 author: Rob Nugen
 date: 2017-11-07T22:57:34+09:00
 ---

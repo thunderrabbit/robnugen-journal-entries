@@ -1,6 +1,6 @@
 ---
 title: typhoon coming
-tags: [ "typhoon", "tokyo", "night", "" ]
+tags: [ "typhoon", "tokyo", "night" ]
 author: Rob Nugen
 date: 2017-10-22T21:45:32+09:00
 ---

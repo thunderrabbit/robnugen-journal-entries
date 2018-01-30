@@ -1,6 +1,6 @@
 ---
 title: uploadcare email
-tags: [ "uploadcare", "email", "draft", "" ]
+tags: [ "uploadcare", "email", "draft" ]
 author: Rob Nugen
 date: 2017-08-19T18:56:40+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: "mt3: added stairs in back"
-tags: [ "mt3", "video", "steps", "" ]
+tags: [ "mt3", "video", "steps" ]
 author: Rob Nugen
 date: 2017-11-10T16:40:56+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: "mt3: big curve ball"
-tags: [ "mt3", "video", "" ]
+tags: [ "mt3", "video" ]
 author: Rob Nugen
 date: 2017-11-03T16:29:43+09:00
 ---

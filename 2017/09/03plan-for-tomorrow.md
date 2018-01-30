@@ -1,6 +1,6 @@
 ---
 title: plan for tomorrow
-tags: [ "il", "work", "" ]
+tags: [ "il", "work" ]
 author: Rob Nugen
 date: 2017-09-03T21:28:33+09:00
 ---

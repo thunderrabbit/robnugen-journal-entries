@@ -1,6 +1,6 @@
 ---
 title: "walkin around barefoot"
-tags: [ "barefoot", "日本語", "裸足", "" ]
+tags: [ "barefoot", "日本語", "裸足" ]
 author: Rob Nugen
 date: 2017-12-06T18:00:36+09:00
 ---

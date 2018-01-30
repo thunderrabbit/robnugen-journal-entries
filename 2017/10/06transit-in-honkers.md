@@ -1,6 +1,6 @@
 ---
 title: transit in Honkers
-tags: [ "hkg", "" ]
+tags: [ "hkg" ]
 author: Rob Nugen
 date: 2017-10-06T13:10:51+09:00
 ---

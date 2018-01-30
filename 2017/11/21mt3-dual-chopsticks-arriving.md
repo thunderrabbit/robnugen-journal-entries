@@ -1,6 +1,6 @@
 ---
 title: "mt3: dual chopsticks arriving"
-tags: [ "mt3", "video", "" ]
+tags: [ "mt3", "video" ]
 author: Rob Nugen
 date: 2017-11-21T13:01:35+09:00
 ---

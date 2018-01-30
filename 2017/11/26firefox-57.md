@@ -1,6 +1,6 @@
 ---
 title: "Firefox 57"
-tags: [ "firefox", "57", "software", "" ]
+tags: [ "firefox", "57", "software" ]
 author: Rob Nugen
 date: 2017-11-26T14:58:45+09:00
 ---

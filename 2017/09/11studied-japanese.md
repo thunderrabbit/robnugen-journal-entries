@@ -1,6 +1,6 @@
 ---
 title: Studied Japanese
-tags: [ "japanese", "日本語", "" ]
+tags: [ "japanese", "日本語" ]
 author: Rob Nugen
 date: 2017-09-11T19:19:51+09:00
 ---

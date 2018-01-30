@@ -1,6 +1,6 @@
 ---
 title: "Tile shape matching algorithm"
-tags: [ "tile", "game", "match", "shape", "algorithm", "" ]
+tags: [ "tile", "game", "match", "shape", "algorithm" ]
 author: Rob Nugen
 date: 2017-12-21T08:27:46+09:00
 ---

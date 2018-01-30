@@ -1,6 +1,6 @@
 ---
 title: Liz English School
-tags: [ "liz", "work", "maybe", "first", "" ]
+tags: [ "liz", "work", "maybe", "first" ]
 author: Rob Nugen
 date: 2017-10-24T13:05:14+09:00
 ---

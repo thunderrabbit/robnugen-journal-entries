@@ -1,6 +1,6 @@
 ---
 title: "Shane died"
-tags: [ "charlie", "family", "cousin", "last", "" ]
+tags: [ "charlie", "family", "cousin", "last" ]
 author: Rob Nugen
 date: 2017-11-20T06:12:06+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: noborito construction
-tags: [ "trains", "japan", "construction", "noborito", "" ]
+tags: [ "trains", "japan", "construction", "noborito" ]
 author: Rob Nugen
 date: 2017-10-06T00:07:06+09:00
 ---

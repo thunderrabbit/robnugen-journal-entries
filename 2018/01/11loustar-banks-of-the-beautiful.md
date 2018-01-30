@@ -1,6 +1,6 @@
 ---
 title: "LouStar Banks of the Beautiful"
-tags: [ "loustar", "music", "happy", "" ]
+tags: [ "loustar", "music", "happy" ]
 author: Rob Nugen
 date: 2018-01-11T10:06:02+09:00
 ---

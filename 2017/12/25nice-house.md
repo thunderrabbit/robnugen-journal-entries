@@ -1,6 +1,6 @@
 ---
 title: "nice house"
-tags: [ "house", "nice", "moe joe", "" ]
+tags: [ "house", "nice", "moe joe" ]
 author: Rob Nugen
 date: 2017-12-25T20:29:23+09:00
 ---

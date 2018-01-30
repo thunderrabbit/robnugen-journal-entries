@@ -1,6 +1,6 @@
 ---
 title: "mt3: pics and toothpicks"
-tags: [ "pics", "video", "mt3", "" ]
+tags: [ "pics", "video", "mt3" ]
 author: Rob Nugen
 date: 2018-01-09T15:59:39+09:00
 ---

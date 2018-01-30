@@ -1,6 +1,6 @@
 ---
 title: https on mt3.robnugen.com
-tags: [ "web", "" ]
+tags: [ "web" ]
 author: Rob Nugen
 date: 2017-08-09T09:47:42+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: "prevent unauthorized root access in OS X High Sierra"
-tags: [ "root", "oops", "bug", "osx", "" ]
+tags: [ "root", "oops", "bug", "osx" ]
 author: Rob Nugen
 date: 2017-12-01T23:18:55+09:00
 ---

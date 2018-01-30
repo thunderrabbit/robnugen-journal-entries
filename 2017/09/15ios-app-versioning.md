@@ -1,6 +1,6 @@
 ---
 title: iOS app versioning
-tags: [ "apple", "ios", "versioning", "frustrating", "" ]
+tags: [ "apple", "ios", "versioning", "frustrating" ]
 author: Rob Nugen
 date: 2017-09-15T07:18:07+09:00
 ---

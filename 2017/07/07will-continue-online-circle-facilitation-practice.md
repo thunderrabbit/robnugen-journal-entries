@@ -1,6 +1,6 @@
 ---
 title: Will continue online circle facilitation practice
-tags: [ "mkp", "online", "" ]
+tags: [ "mkp", "online" ]
 author: Rob Nugen
 date: 2017-07-07T09:26:37+09:00
 ---

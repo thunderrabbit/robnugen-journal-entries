@@ -1,6 +1,6 @@
 ---
 title: Inbox Zero status
-tags: [ "zero", "" ]
+tags: [ "zero" ]
 author: Rob Nugen
 date: 2017-07-10T14:25:32+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: "LINE stickers idea"
-tags: [ "line", "idea", "" ]
+tags: [ "line", "idea" ]
 author: Rob Nugen
 date: 2017-11-15T14:03:53+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: mt3 Attached bearing to stage
-tags: [ "mt3", "video", "" ]
+tags: [ "mt3", "video" ]
 author: Rob Nugen
 date: 2017-09-22T20:35:13+09:00
 ---

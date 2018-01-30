@@ -1,6 +1,6 @@
 ---
 title: fireworks from highway
-tags: [ "fireworks", "traffic", "" ]
+tags: [ "fireworks", "traffic" ]
 author: Rob Nugen
 date: 2017-08-19T19:00:56+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: blarg stupid paperclips
-tags: [ "idle", "paperclip", "game", "" ]
+tags: [ "idle", "paperclip", "game" ]
 author: Rob Nugen
 date: 2017-10-27T19:40:51+09:00
 ---

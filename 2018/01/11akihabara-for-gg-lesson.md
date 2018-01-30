@@ -1,6 +1,6 @@
 ---
 title: "Akihabara for GG lesson"
-tags: [ "gg", "work", "jb", "lesson", "" ]
+tags: [ "gg", "work", "jb", "lesson" ]
 author: Rob Nugen
 date: 2018-01-11T18:02:54+09:00
 ---

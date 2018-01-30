@@ -1,6 +1,6 @@
 ---
 title: mt3 drilled one hole
-tags: [ "mt3", "video", "" ]
+tags: [ "mt3", "video" ]
 author: Rob Nugen
 date: 2017-09-12T11:58:07+09:00
 ---

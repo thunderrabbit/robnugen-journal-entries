@@ -1,6 +1,6 @@
 ---
 title: Aquarium in Shinagawa
-tags: [ "crowds", "shinagawa", "aquarium", "photos coming soon", "" ]
+tags: [ "crowds", "shinagawa", "aquarium", "photos coming soon" ]
 author: Rob Nugen
 date: 2017-08-13T16:09:29+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: work waves
-tags: [ "work", "" ]
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-07-13T09:06:45+09:00
 ---

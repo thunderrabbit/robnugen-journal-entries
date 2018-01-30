@@ -1,6 +1,6 @@
 ---
 title: "Co-gender circle meets on Mondays"
-tags: [ "mkp", "tokyo", "ww", "" ]
+tags: [ "mkp", "tokyo", "ww" ]
 author: Rob Nugen
 date: 2018-01-26T13:21:11+09:00
 ---

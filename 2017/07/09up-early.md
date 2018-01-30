@@ -1,6 +1,6 @@
 ---
 title: up early
-tags: [ "work", "early", "productive", "cool", "" ]
+tags: [ "work", "early", "productive", "cool" ]
 author: Rob Nugen
 date: 2017-07-09T03:03:27+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: "hey, ya wanna make a quick 800 bucks?"
-tags: [ "dang", "" ]
+tags: [ "dang" ]
 author: Rob Nugen
 date: 2017-11-08T12:11:07+09:00
 ---

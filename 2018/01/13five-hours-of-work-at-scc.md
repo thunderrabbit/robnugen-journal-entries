@@ -1,6 +1,6 @@
 ---
 title: "five hours of work at SCC"
-tags: [ "work", "jb", "scc", "liliko", "first", "" ]
+tags: [ "work", "jb", "scc", "liliko", "first" ]
 author: Rob Nugen
 date: 2018-01-13T02:33:31+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: "mt3: guy fell off stage after ramp was overturned"
-tags: [ "mt3", "video", "" ]
+tags: [ "mt3", "video" ]
 author: Rob Nugen
 date: 2017-11-29T15:39:28+09:00
 ---

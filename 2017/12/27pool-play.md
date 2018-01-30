@@ -1,6 +1,6 @@
 ---
 title: "pool play"
-tags: [ "pool", "fun", "" ]
+tags: [ "pool", "fun" ]
 author: Rob Nugen
 date: 2017-12-27T19:51:32+09:00
 ---

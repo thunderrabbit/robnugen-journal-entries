@@ -1,6 +1,6 @@
 ---
 title: co-gender group tonight
-tags: [ "mkp", "ww", "" ]
+tags: [ "mkp", "ww" ]
 author: Rob Nugen
 date: 2017-07-11T16:36:56+09:00
 ---

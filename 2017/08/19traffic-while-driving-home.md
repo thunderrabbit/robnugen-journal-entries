@@ -1,6 +1,6 @@
 ---
 title: traffic while driving home
-tags: [ "traffic", "" ]
+tags: [ "traffic" ]
 author: Rob Nugen
 date: 2017-08-19T17:52:56+09:00
 ---

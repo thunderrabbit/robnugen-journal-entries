@@ -1,6 +1,6 @@
 ---
 title: "how to get photos while building my speaker bio"
-tags: [ "bysb", "umm", "" ]
+tags: [ "bysb", "umm" ]
 author: Rob Nugen
 date: 2018-01-27T10:23:14+09:00
 ---

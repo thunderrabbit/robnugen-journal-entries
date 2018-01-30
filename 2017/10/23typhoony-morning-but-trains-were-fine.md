@@ -1,6 +1,6 @@
 ---
 title: typhoony morning but trains were fine
-tags: [ "typhoon", "train", "morning", "" ]
+tags: [ "typhoon", "train", "morning" ]
 author: Rob Nugen
 date: 2017-10-23T14:40:25+09:00
 ---

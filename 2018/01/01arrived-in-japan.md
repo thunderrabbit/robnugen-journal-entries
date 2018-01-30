@@ -1,6 +1,6 @@
 ---
 title: "arrived in Japan"
-tags: [ "taxi", "late", "safe", "yay", "" ]
+tags: [ "taxi", "late", "safe", "yay" ]
 author: Rob Nugen
 date: 2018-01-01T23:56:26+09:00
 ---

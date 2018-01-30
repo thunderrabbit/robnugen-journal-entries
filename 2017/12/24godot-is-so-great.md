@@ -1,6 +1,6 @@
 ---
 title: "Godot is so great"
-tags: [ "godot", "queue", "great", "game", "engine", "" ]
+tags: [ "godot", "queue", "great", "game", "engine" ]
 author: Rob Nugen
 date: 2017-12-24T14:02:33+09:00
 ---

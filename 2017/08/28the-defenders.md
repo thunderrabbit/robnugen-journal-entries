@@ -1,6 +1,6 @@
 ---
 title: the defenders
-tags: [ "tv", "netflix", "defenders", "" ]
+tags: [ "tv", "netflix", "defenders" ]
 author: Rob Nugen
 date: 2017-08-28T17:12:30+09:00
 ---

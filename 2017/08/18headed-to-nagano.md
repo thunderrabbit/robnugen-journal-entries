@@ -1,6 +1,6 @@
 ---
 title: Headed to Nagano
-tags: [ "today", "nagano", "drive", "" ]
+tags: [ "today", "nagano", "drive" ]
 author: Rob Nugen
 date: 2017-08-18T07:54:47+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: "lovely day"
-tags: [ "mkp", "weather", "" ]
+tags: [ "mkp", "weather" ]
 author: Rob Nugen
 date: 2018-01-25T14:03:42+09:00
 ---

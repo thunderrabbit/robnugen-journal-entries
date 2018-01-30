@@ -1,6 +1,6 @@
 ---
 title: caught express train
-tags: [ "train", "seat", "" ]
+tags: [ "train", "seat" ]
 author: Rob Nugen
 date: 2017-10-30T06:30:38+09:00
 ---

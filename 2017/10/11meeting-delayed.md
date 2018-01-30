@@ -1,6 +1,6 @@
 ---
 title: meeting standby
-tags: [ "meeting", "delay", "work", "" ]
+tags: [ "meeting", "delay", "work" ]
 author: Rob Nugen
 date: 2017-10-11T17:42:11+09:00
 ---

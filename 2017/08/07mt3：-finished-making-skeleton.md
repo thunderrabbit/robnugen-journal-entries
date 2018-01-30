@@ -1,6 +1,6 @@
 ---
 title: mt3： finished making skeleton
-tags: [ "mt3", "skeleton", "video", "" ]
+tags: [ "mt3", "skeleton", "video" ]
 author: Rob Nugen
 date: 2017-08-07T05:26:56+09:00
 ---

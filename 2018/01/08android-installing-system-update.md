@@ -1,6 +1,6 @@
 ---
 title: "Android Installing system update"
-tags: [ "android", "update", "" ]
+tags: [ "android", "update" ]
 author: Rob Nugen
 date: 2018-01-08T13:24:30+09:00
 ---

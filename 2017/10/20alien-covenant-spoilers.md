@@ -1,6 +1,6 @@
 ---
 title: Alien Covenant spoilers
-tags: [ "movie", "review", "spoiler", "alien covenant", "" ]
+tags: [ "movie", "review", "spoiler", "alien covenant" ]
 author: Rob Nugen
 date: 2017-10-20T23:54:40+09:00
 ---

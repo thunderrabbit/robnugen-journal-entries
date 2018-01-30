@@ -1,6 +1,6 @@
 ---
 title: "The Saint's Rise"
-tags: [ "mjg", "sen", "" ]
+tags: [ "mjg", "sen" ]
 author: Rob Nugen
 date: 2017-11-13T06:44:34+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: "bus 23 left before bus 22"
-tags: [ "bus", "" ]
+tags: [ "bus" ]
 author: Rob Nugen
 date: 2017-11-15T14:07:11+09:00
 ---

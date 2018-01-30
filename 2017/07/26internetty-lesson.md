@@ -1,6 +1,6 @@
 ---
 title: internetty lesson
-tags: [ "work", "lesson", "" ]
+tags: [ "work", "lesson" ]
 author: Rob Nugen
 date: 2017-07-26T09:07:29+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: tweaked Kai's presentation
-tags: [ "kai", "work", "lesson", "" ]
+tags: [ "kai", "work", "lesson" ]
 author: Rob Nugen
 date: 2017-07-24T14:15:33+09:00
 ---

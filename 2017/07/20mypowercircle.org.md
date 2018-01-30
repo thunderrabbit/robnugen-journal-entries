@@ -1,6 +1,6 @@
 ---
 title: mypowercircle.org
-tags: [ "mpc", "tokyo", "" ]
+tags: [ "mpc", "tokyo" ]
 author: Rob Nugen
 date: 2017-07-20T21:18:53+09:00
 ---

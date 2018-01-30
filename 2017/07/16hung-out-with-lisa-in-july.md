@@ -1,6 +1,6 @@
 ---
 title: Hung out with Lisa in July
-tags: [ "lisa", "francois", "lin", "" ]
+tags: [ "lisa", "francois", "lin" ]
 author: Rob Nugen
 date: 2017-07-16T00:11:31+09:00
 ---

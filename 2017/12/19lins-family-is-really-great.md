@@ -1,6 +1,6 @@
 ---
 title: "Lin's family is really great"
-tags: [ "family", "" ]
+tags: [ "family" ]
 author: Rob Nugen
 date: 2017-12-19T07:36:53+09:00
 ---

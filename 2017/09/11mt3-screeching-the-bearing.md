@@ -1,6 +1,6 @@
 ---
 title: mt3 screeching the bearing
-tags: [ "mt3", "video", "" ]
+tags: [ "mt3", "video" ]
 author: Rob Nugen
 date: 2017-09-11T18:35:25+09:00
 ---

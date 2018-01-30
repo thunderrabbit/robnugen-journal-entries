@@ -1,6 +1,6 @@
 ---
 title: braces
-tags: [ "braces", "" ]
+tags: [ "braces" ]
 author: Rob Nugen
 date: 2017-10-06T12:34:59+09:00
 ---

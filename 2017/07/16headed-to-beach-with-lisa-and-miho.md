@@ -1,6 +1,6 @@
 ---
 title: headed to beach with Lisa and Miho
-tags: [ "beach", "lin", "lisa", "miho", "missed-sogo", "" ]
+tags: [ "beach", "lin", "lisa", "miho", "missed-sogo" ]
 author: Rob Nugen
 date: 2017-07-16T10:13:23+09:00
 ---

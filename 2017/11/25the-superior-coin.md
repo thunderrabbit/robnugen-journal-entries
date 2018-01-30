@@ -1,6 +1,6 @@
 ---
 title: "The Superior Coin"
-tags: [ "ico", "" ]
+tags: [ "ico" ]
 author: Rob Nugen
 date: 2017-11-25T12:06:38+09:00
 ---

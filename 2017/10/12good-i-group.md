@@ -1,6 +1,6 @@
 ---
 title: good i-group
-tags: [ "mkp", "ty", "fack", "wow", "" ]
+tags: [ "mkp", "ty", "fack", "wow" ]
 author: Rob Nugen
 date: 2017-10-12T14:09:20+09:00
 ---

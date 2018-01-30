@@ -1,6 +1,6 @@
 ---
 title: "recently"
-tags: [ "bus", "old", "recent", "soml", "" ]
+tags: [ "bus", "old", "recent", "soml" ]
 author: Rob Nugen
 date: 2017-11-28T13:43:23+09:00
 ---

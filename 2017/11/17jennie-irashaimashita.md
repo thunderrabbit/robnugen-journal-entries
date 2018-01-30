@@ -1,6 +1,6 @@
 ---
 title: "Jennie irashaimashita"
-tags: [ "cat", "" ]
+tags: [ "cat" ]
 author: Rob Nugen
 date: 2017-11-17T11:13:37+09:00
 ---

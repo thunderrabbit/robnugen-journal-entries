@@ -1,6 +1,6 @@
 ---
 title: university pics scanned by Christine in 2011
-tags: [ "images", "pics", "college", "christine", "suzanne", "ziggy", "maggie", "molly", "" ]
+tags: [ "images", "pics", "college", "christine", "suzanne", "ziggy", "maggie", "molly" ]
 author: Rob Nugen
 date: 2017-07-10T14:09:42+09:00
 ---

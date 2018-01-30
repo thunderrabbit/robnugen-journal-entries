@@ -1,6 +1,6 @@
 ---
 title: "unconfirmed transaction"
-tags: [ "bah", "btc", "" ]
+tags: [ "bah", "btc" ]
 author: Rob Nugen
 date: 2018-01-16T23:34:06+09:00
 ---

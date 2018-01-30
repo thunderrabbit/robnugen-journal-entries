@@ -10,7 +10,7 @@ date: 2017-07-07T10:44:32+09:00
 Nice.  I can still only read one tag, but now at least my function
 writes (e.g.)
 
-    tags: [ "journal", "" ]
+    tags: [ "journal" ]
 
 instead of
 

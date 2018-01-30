@@ -1,6 +1,6 @@
 ---
 title: "dream scheduling conflict"
-tags: [ "dream", "schedule", "conflic", "nate", "lin", "tora", "yumi", "" ]
+tags: [ "dream", "schedule", "conflic", "nate", "lin", "tora", "yumi" ]
 author: Rob Nugen
 date: 2017-12-23T04:49:53+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: "app plans for new game with Tariq"
-tags: [ "app", "tariq", "" ]
+tags: [ "app", "tariq" ]
 author: Rob Nugen
 date: 2017-11-17T20:36:47+09:00
 ---

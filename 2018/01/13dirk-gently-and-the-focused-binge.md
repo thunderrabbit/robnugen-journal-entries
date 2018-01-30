@@ -1,6 +1,6 @@
 ---
 title: "Dirk Gently and the focused binge"
-tags: [ "tv", "binge", "oops", "late", "zzzz", "sleepy", "" ]
+tags: [ "tv", "binge", "oops", "late", "zzzz", "sleepy" ]
 author: Rob Nugen
 date: 2018-01-13T02:29:22+09:00
 ---

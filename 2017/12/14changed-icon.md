@@ -1,6 +1,6 @@
 ---
 title: "changed icon"
-tags: [ "work", "nate", "ico", "" ]
+tags: [ "work", "nate", "ico" ]
 author: Rob Nugen
 date: 2017-12-14T22:15:57+09:00
 ---

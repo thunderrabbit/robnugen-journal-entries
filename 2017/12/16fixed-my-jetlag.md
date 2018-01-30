@@ -1,6 +1,6 @@
 ---
 title: "Fixed my jetlag"
-tags: [ "jetlag", "fix", "" ]
+tags: [ "jetlag", "fix" ]
 author: Rob Nugen
 date: 2017-12-16T07:29:30+09:00
 ---

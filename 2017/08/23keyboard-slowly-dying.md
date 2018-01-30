@@ -1,6 +1,6 @@
 ---
 title: keyboard slowly dying
-tags: [ "keyboard", "hardware", "" ]
+tags: [ "keyboard", "hardware" ]
 author: Rob Nugen
 date: 2017-08-23T08:21:09+09:00
 ---

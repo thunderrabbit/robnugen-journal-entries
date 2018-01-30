@@ -1,6 +1,6 @@
 ---
 title: "mt3: cut vertical piece"
-tags: [ "mt3", "video", "vertical", "" ]
+tags: [ "mt3", "video", "vertical" ]
 author: Rob Nugen
 date: 2017-11-24T08:37:43+09:00
 ---

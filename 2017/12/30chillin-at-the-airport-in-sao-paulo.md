@@ -1,6 +1,6 @@
 ---
 title: "chillin at the airport in Sao Paulo"
-tags: [ "time", "hmmm", "chillin", "airport", "travel", "" ]
+tags: [ "time", "hmmm", "chillin", "airport", "travel" ]
 author: Rob Nugen
 date: 2017-12-30T23:16:11+09:00
 ---

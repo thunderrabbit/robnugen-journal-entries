@@ -1,6 +1,6 @@
 ---
 title: guaranteed seat to Shinjuku
-tags: [ "train", "work", "" ]
+tags: [ "train", "work" ]
 author: Rob Nugen
 date: 2017-09-04T05:26:33+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: "speaker bio draft"
-tags: [ "bio", "first", "speaker", "bysb", "" ]
+tags: [ "bio", "first", "speaker", "bysb" ]
 author: Rob Nugen
 date: 2018-01-17T13:14:08+09:00
 ---

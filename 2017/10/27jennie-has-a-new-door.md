@@ -1,6 +1,6 @@
 ---
 title: Jennie has a new door
-tags: [ "jennie", "cat", "door", "glass", "" ]
+tags: [ "jennie", "cat", "door", "glass" ]
 author: Rob Nugen
 date: 2017-10-27T15:12:39+09:00
 ---

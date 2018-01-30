@@ -1,6 +1,6 @@
 ---
 title: River(s) of 000000 in Collatz series
-tags: [ "math", "collatz", "" ]
+tags: [ "math", "collatz" ]
 author: Rob Nugen
 date: 2017-08-25T18:15:30+09:00
 ---

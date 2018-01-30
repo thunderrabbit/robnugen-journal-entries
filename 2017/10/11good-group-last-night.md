@@ -1,6 +1,6 @@
 ---
 title: Good group last night
-tags: [ "mpc", "" ]
+tags: [ "mpc" ]
 author: Rob Nugen
 date: 2017-10-10T22:25:35+09:00
 ---

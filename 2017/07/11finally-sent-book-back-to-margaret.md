@@ -1,6 +1,6 @@
 ---
 title: Finally sent book back to Margaret
-tags: [ "book", "finally", "" ]
+tags: [ "book", "finally" ]
 author: Rob Nugen
 date: 2017-07-11T16:32:52+09:00
 ---

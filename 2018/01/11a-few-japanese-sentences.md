@@ -1,6 +1,6 @@
 ---
 title: "A few Japanese sentences"
-tags: [ "日本語", "" ]
+tags: [ "日本語" ]
 author: Rob Nugen
 date: 2018-01-11T22:34:47+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Oh Reddit, you make me laugh"
-tags: [ "reddit", "screenshot", "fake internet points", "" ]
+tags: [ "reddit", "screenshot", "fake internet points" ]
 author: Rob Nugen
 date: 2017-12-02T09:38:53+09:00
 ---

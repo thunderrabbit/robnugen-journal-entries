@@ -1,6 +1,6 @@
 ---
 title: "Godot is quite reliable"
-tags: [ "godot", "moe", "joe", "" ]
+tags: [ "godot", "moe", "joe" ]
 author: Rob Nugen
 date: 2017-12-28T14:56:10+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: aunt and uncle in town
-tags: [ "kc", "family", "dinner", "" ]
+tags: [ "kc", "family", "dinner" ]
 author: Rob Nugen
 date: 2017-10-15T08:46:59+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: mt3 first roll celebration
-tags: [ "mt3", "video", "first", "" ]
+tags: [ "mt3", "video", "first" ]
 author: Rob Nugen
 date: 2017-10-10T13:11:43+09:00
 ---

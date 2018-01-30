@@ -1,6 +1,6 @@
 ---
 title: first official NA lesson
-tags: [ "na", "work", "lesson", "" ]
+tags: [ "na", "work", "lesson" ]
 author: Rob Nugen
 date: 2017-09-25T10:14:06+09:00
 ---

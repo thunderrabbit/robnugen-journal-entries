@@ -1,6 +1,6 @@
 ---
 title: "work"
-tags: [ "jb", "work", "english", "" ]
+tags: [ "jb", "work", "english" ]
 author: Rob Nugen
 date: 2018-01-17T18:34:31+09:00
 ---

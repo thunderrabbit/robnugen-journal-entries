@@ -1,6 +1,6 @@
 ---
 title: "party like it's 2017"
-tags: [ "hny", "travel", "airport", "dubai", "hotel", "oops", "" ]
+tags: [ "hny", "travel", "airport", "dubai", "hotel", "oops" ]
 author: Rob Nugen
 date: 2018-01-01T04:25:22+09:00
 ---

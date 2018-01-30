@@ -1,6 +1,6 @@
 ---
 title: "integration group council meeting"
-tags: [ "mkp", "integration group", "great", "" ]
+tags: [ "mkp", "integration group", "great" ]
 author: Rob Nugen
 date: 2018-01-26T11:38:53+09:00
 ---

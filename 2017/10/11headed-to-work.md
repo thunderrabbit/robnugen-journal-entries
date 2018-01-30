@@ -1,6 +1,6 @@
 ---
 title: headed to work
-tags: [ "train", "sleep", "" ]
+tags: [ "train", "sleep" ]
 author: Rob Nugen
 date: 2017-10-11T07:27:29+09:00
 ---

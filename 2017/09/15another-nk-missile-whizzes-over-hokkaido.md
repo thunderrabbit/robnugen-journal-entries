@@ -1,6 +1,6 @@
 ---
 title: another NK missile whizzes over Hokkaido
-tags: [ "missle", "nk", "" ]
+tags: [ "missle", "nk" ]
 author: Rob Nugen
 date: 2017-09-15T08:30:33+09:00
 ---

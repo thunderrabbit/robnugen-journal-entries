@@ -1,6 +1,6 @@
 ---
 title: "students leveled up real quick"
-tags: [ "class", "work", "peer pressure", "" ]
+tags: [ "class", "work", "peer pressure" ]
 author: Rob Nugen
 date: 2017-12-06T17:47:10+09:00
 ---

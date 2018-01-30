@@ -1,6 +1,6 @@
 ---
 title: timing
-tags: [ "fack", "" ]
+tags: [ "fack" ]
 author: Rob Nugen
 date: 2017-10-29T17:50:49+09:00
 ---

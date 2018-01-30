@@ -1,6 +1,6 @@
 ---
 title: "bought 2 orgonite pyramids"
-tags: [ "orgonite", "first", "pyramid", "" ]
+tags: [ "orgonite", "first", "pyramid" ]
 author: Rob Nugen
 date: 2017-12-16T11:43:56+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: "woke up early with no alarm"
-tags: [ "early", "work", "" ]
+tags: [ "early", "work" ]
 author: Rob Nugen
 date: 2017-11-30T07:00:08+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: "connect mouse events in Godot"
-tags: [ "godot", "mouse", "" ]
+tags: [ "godot", "mouse" ]
 author: Rob Nugen
 date: 2017-12-14T23:13:06+09:00
 ---

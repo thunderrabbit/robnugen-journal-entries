@@ -1,6 +1,6 @@
 ---
 title: MT3： begin assembling the characters
-tags: [ "mt3", "video", "characters", "" ]
+tags: [ "mt3", "video", "characters" ]
 author: Rob Nugen
 date: 2017-07-22T22:09:08+09:00
 ---

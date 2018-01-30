@@ -1,6 +1,6 @@
 ---
 title: "two hour lesson with Tomoko"
-tags: [ "scc", "tomoko", "work", "lesson", "jb", "" ]
+tags: [ "scc", "tomoko", "work", "lesson", "jb" ]
 author: Rob Nugen
 date: 2018-01-11T17:59:27+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: "morning train"
-tags: [ "train", "" ]
+tags: [ "train" ]
 author: Rob Nugen
 date: 2017-11-13T06:39:52+09:00
 ---

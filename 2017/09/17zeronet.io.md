@@ -1,6 +1,6 @@
 ---
 title: zeronet.io
-tags: [ "zeronet", "first", "interesting", "huh", "" ]
+tags: [ "zeronet", "first", "interesting", "huh" ]
 author: Rob Nugen
 date: 2017-09-17T01:41:38+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Chillin in Tullys"
-tags: [ "tullys", "work", "aws", "" ]
+tags: [ "tullys", "work", "aws" ]
 author: Rob Nugen
 date: 2017-11-20T15:55:34+09:00
 ---

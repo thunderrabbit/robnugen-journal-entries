@@ -1,6 +1,6 @@
 ---
 title: "arrived in São Paulo"
-tags: [ "brazil", "taxi", "" ]
+tags: [ "brazil", "taxi" ]
 author: Rob Nugen
 date: 2017-12-15T18:55:55+09:00
 ---

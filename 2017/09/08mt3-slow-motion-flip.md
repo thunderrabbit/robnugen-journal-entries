@@ -1,6 +1,6 @@
 ---
 title: mt3 slow motion flip
-tags: [ "mt3", "video", "nice", "" ]
+tags: [ "mt3", "video", "nice" ]
 author: Rob Nugen
 date: 2017-09-08T11:28:11+09:00
 ---

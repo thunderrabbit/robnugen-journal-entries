@@ -1,6 +1,6 @@
 ---
 title: Lisa came over today
-tags: [ "lisa", "" ]
+tags: [ "lisa" ]
 author: Rob Nugen
 date: 2017-09-17T23:22:21+09:00
 ---

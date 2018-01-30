@@ -1,6 +1,6 @@
 ---
 title: "met Tariq"
-tags: [ "tariq", "godot", "" ]
+tags: [ "tariq", "godot" ]
 author: Rob Nugen
 date: 2018-01-08T13:22:25+09:00
 ---

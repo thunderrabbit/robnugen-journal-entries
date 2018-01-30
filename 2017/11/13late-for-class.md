@@ -1,6 +1,6 @@
 ---
 title: "late for class near C's place"
-tags: [ "wtf", "work", "late", "" ]
+tags: [ "wtf", "work", "late" ]
 author: Rob Nugen
 date: 2017-11-13T16:51:07+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Two pix from Christmas at Jill's 2011
-tags: [ "images", "lin", "fred", "jon", "ma", "jill", "" ]
+tags: [ "images", "lin", "fred", "jon", "ma", "jill" ]
 author: Rob Nugen
 date: 2011-12-25T12:46:02+09:00
 ---

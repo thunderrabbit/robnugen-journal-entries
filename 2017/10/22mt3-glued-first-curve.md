@@ -1,6 +1,6 @@
 ---
 title: mt3 glued first curve
-tags: [ "mt3", "curve", "kick", "" ]
+tags: [ "mt3", "curve", "kick" ]
 author: Rob Nugen
 date: 2017-10-22T21:13:07+09:00
 ---

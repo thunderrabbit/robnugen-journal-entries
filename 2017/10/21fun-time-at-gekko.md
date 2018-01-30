@@ -1,6 +1,6 @@
 ---
 title: fun time at Gekko
-tags: [ "gekko", "food", "friends", "" ]
+tags: [ "gekko", "food", "friends" ]
 author: Rob Nugen
 date: 2017-10-21T18:09:14+09:00
 ---

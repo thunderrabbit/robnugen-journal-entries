@@ -1,6 +1,6 @@
 ---
 title: mt3： curiosity
-tags: [ "mt3", "video", "" ]
+tags: [ "mt3", "video" ]
 author: Rob Nugen
 date: 2017-08-15T11:09:19+09:00
 ---

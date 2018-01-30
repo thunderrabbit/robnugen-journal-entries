@@ -1,6 +1,6 @@
 ---
 title: Noborito station is getting a new southbound line
-tags: [ "trains", "noborito", "construction", "japan", "" ]
+tags: [ "trains", "noborito", "construction", "japan" ]
 author: Rob Nugen
 date: 2017-08-27T18:34:19+09:00
 ---

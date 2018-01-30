@@ -1,6 +1,6 @@
 ---
 title: "More Meetings"
-tags: [ "mkp", "tokyo", "men", "" ]
+tags: [ "mkp", "tokyo", "men" ]
 author: Rob Nugen
 date: 2018-01-17T12:22:49+09:00
 ---

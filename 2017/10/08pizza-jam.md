@@ -1,6 +1,6 @@
 ---
 title: pizza jam
-tags: [ "pizza", "jam", "funny", "" ]
+tags: [ "pizza", "jam", "funny" ]
 author: Rob Nugen
 date: 2017-10-08T23:32:12+09:00
 ---

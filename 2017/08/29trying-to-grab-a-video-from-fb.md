@@ -1,6 +1,6 @@
 ---
 title: before / during Harvey flood on Cypresswood
-tags: [ "fb", "video", "flood", "houston", "harvey", "" ]
+tags: [ "fb", "video", "flood", "houston", "harvey" ]
 author: Rob Nugen
 date: 2017-08-29T08:46:06+09:00
 ---

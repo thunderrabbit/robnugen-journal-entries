@@ -1,6 +1,6 @@
 ---
 title: "State of My Life Address"
-tags: [ "soml", "recently", "" ]
+tags: [ "soml", "recently" ]
 author: Rob Nugen
 date: 2017-12-03T10:02:44+09:00
 ---

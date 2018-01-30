@@ -1,6 +1,6 @@
 ---
 title: "Office Hours with Soness"
-tags: [ "soness", "bysb", "" ]
+tags: [ "soness", "bysb" ]
 author: Rob Nugen
 date: 2018-01-13T14:23:37+09:00
 ---

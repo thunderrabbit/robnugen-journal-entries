@@ -1,6 +1,6 @@
 ---
 title: "pre jetlag?"
-tags: [ "jetlag", "travel", "" ]
+tags: [ "jetlag", "travel" ]
 author: Rob Nugen
 date: 2017-12-29T05:37:12+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: "haha glass door"
-tags: [ "glass", "oops", "" ]
+tags: [ "glass", "oops" ]
 author: Rob Nugen
 date: 2017-12-30T11:09:32+09:00
 ---

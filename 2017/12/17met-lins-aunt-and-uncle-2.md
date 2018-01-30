@@ -1,6 +1,6 @@
 ---
 title: "Met Lin's aunt and uncle 2"
-tags: [ "first", "2", "brother", "uncle", "" ]
+tags: [ "first", "2", "brother", "uncle" ]
 author: Rob Nugen
 date: 2017-12-17T16:33:10+09:00
 ---

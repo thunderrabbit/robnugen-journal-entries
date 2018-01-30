@@ -1,6 +1,6 @@
 ---
 title: dream rage at a guy
-tags: [ "dream", "anger", "" ]
+tags: [ "dream", "anger" ]
 author: Rob Nugen
 date: 2017-08-09T07:46:17+09:00
 ---

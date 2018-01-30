@@ -1,6 +1,6 @@
 ---
 title: Linux on the in-flight system
-tags: [ "linux", "pics", "" ]
+tags: [ "linux", "pics" ]
 author: Rob Nugen
 date: 2017-10-06T13:06:34+09:00
 ---

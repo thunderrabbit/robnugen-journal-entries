@@ -1,6 +1,6 @@
 ---
 title: hardlinks on DH
-tags: [ "images", "francois", "dreamhost", "" ]
+tags: [ "images", "francois", "dreamhost" ]
 author: Rob Nugen
 date: 2017-07-10T12:03:49+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cropped blue background
-tags: [ "fusion", "mt3", "" ]
+tags: [ "fusion", "mt3" ]
 author: Rob Nugen
 date: 2017-08-14T23:17:05+09:00
 ---

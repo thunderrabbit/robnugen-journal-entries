@@ -1,6 +1,6 @@
 ---
 title: Alex progeny
-tags: [ "alex", "photos", "journal", "catchup", "" ]
+tags: [ "alex", "photos", "journal", "catchup" ]
 author: Rob Nugen
 date: 2017-09-16T11:58:19+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cookie Clicker bugs
-tags: [ "funny", "screenshot", "cookieclicker", "" ]
+tags: [ "funny", "screenshot", "cookieclicker" ]
 author: Rob Nugen
 date: 2017-07-09T08:09:01+09:00
 ---

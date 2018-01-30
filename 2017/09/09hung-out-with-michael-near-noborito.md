@@ -1,6 +1,6 @@
 ---
 title: hung out with Michael near Noborito
-tags: [ "noborito", "chillin", "river", "michael", "first", "" ]
+tags: [ "noborito", "chillin", "river", "michael", "first" ]
 author: Rob Nugen
 date: 2017-09-09T00:08:05+09:00
 ---

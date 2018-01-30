@@ -1,6 +1,6 @@
 ---
 title: "mt3: recovery after big marble mishap"
-tags: [ "mt3", "video", "recover", "" ]
+tags: [ "mt3", "video", "recover" ]
 author: Rob Nugen
 date: 2017-12-12T09:51:29+09:00
 ---

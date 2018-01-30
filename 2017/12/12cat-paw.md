@@ -1,6 +1,6 @@
 ---
 title: "cat paw"
-tags: [ "jennie", "cat", "clinic", "paw", "" ]
+tags: [ "jennie", "cat", "clinic", "paw" ]
 author: Rob Nugen
 date: 2017-12-12T13:59:06+09:00
 ---

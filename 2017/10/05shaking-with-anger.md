@@ -1,6 +1,6 @@
 ---
 title: shaking with anger
-tags: [ "anger", "station", "groper", "" ]
+tags: [ "anger", "station", "groper" ]
 author: Rob Nugen
 date: 2017-10-05T13:10:30+09:00
 ---

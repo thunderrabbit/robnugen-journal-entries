@@ -1,6 +1,6 @@
 ---
 title: skeleton escapades
-tags: [ "mt3", "video", "skeleton", "haha", "" ]
+tags: [ "mt3", "video", "skeleton", "haha" ]
 author: Rob Nugen
 date: 2017-08-01T11:52:05+09:00
 ---

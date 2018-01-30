@@ -1,6 +1,6 @@
 ---
 title: money tracker
-tags: [ "finance", "tracker", "" ]
+tags: [ "finance", "tracker" ]
 author: Rob Nugen
 date: 2017-10-19T21:35:16+09:00
 ---

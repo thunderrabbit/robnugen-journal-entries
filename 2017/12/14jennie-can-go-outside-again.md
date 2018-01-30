@@ -1,6 +1,6 @@
 ---
 title: "Jennie can go outside again"
-tags: [ "cat", "paw", "" ]
+tags: [ "cat", "paw" ]
 author: Rob Nugen
 date: 2017-12-14T11:01:07+09:00
 ---

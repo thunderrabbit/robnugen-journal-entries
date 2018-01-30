@@ -1,6 +1,6 @@
 ---
 title: "co-gender group"
-tags: [ "mkp", "" ]
+tags: [ "mkp" ]
 author: Rob Nugen
 date: 2017-11-28T22:34:08+09:00
 ---

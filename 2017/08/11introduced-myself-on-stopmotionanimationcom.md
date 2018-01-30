@@ -1,6 +1,6 @@
 ---
 title: Wondering how to add a blur effect
-tags: [ "mt3", "" ]
+tags: [ "mt3" ]
 author: Rob Nugen
 date: 2017-08-11T05:12:48+09:00
 ---

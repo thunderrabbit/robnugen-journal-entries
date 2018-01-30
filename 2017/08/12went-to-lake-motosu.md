@@ -1,6 +1,6 @@
 ---
 title: went to Lake Motosu
-tags: [ "lake", "daytrip", "japan", "" ]
+tags: [ "lake", "daytrip", "japan" ]
 author: Rob Nugen
 date: 2017-08-12T15:51:36+09:00
 ---

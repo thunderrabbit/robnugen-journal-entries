@@ -1,6 +1,6 @@
 ---
 title: "mt3: three angled walls"
-tags: [ "mt3", "video", "subtle", "" ]
+tags: [ "mt3", "video", "subtle" ]
 author: Rob Nugen
 date: 2017-11-17T10:46:29+09:00
 ---

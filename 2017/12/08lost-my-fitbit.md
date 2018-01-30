@@ -1,6 +1,6 @@
 ---
 title: "lost my FitBit"
-tags: [ "sad", "fitbit", "lost", "" ]
+tags: [ "sad", "fitbit", "lost" ]
 author: Rob Nugen
 date: 2017-12-08T01:53:00+09:00
 ---

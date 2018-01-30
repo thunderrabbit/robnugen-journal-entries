@@ -1,6 +1,6 @@
 ---
 title: morning lesson
-tags: [ "jb", "sh", "work", "" ]
+tags: [ "jb", "sh", "work" ]
 author: Rob Nugen
 date: 2017-10-25T09:13:23+09:00
 ---

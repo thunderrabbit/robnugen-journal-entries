@@ -1,6 +1,6 @@
 ---
 title: good v-group
-tags: [ "mkp", "" ]
+tags: [ "mkp" ]
 author: Rob Nugen
 date: 2017-10-13T18:19:03+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: XCode do you hate me
-tags: [ "xcode", "apple", "rant", "" ]
+tags: [ "xcode", "apple", "rant" ]
 author: Rob Nugen
 date: 2017-08-11T19:27:53+09:00
 ---

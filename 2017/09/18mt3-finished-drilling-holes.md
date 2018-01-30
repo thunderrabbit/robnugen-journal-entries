@@ -1,6 +1,6 @@
 ---
 title: mt3 finished drilling holes
-tags: [ "mt3", "video", "" ]
+tags: [ "mt3", "video" ]
 author: Rob Nugen
 date: 2017-09-18T18:12:55+09:00
 ---

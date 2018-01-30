@@ -1,6 +1,6 @@
 ---
 title: three lessons
-tags: [ "lessons", "kids", "jb", "" ]
+tags: [ "lessons", "kids", "jb" ]
 author: Rob Nugen
 date: 2017-10-11T17:37:38+09:00
 ---

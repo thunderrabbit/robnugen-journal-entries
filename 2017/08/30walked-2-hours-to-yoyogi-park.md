@@ -1,6 +1,6 @@
 ---
 title: walked 2 hours to Yoyogi Park
-tags: [ "walk", "exercise", "fun", "" ]
+tags: [ "walk", "exercise", "fun" ]
 author: Rob Nugen
 date: 2017-08-30T01:41:52+09:00
 ---

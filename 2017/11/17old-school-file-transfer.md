@@ -1,6 +1,6 @@
 ---
 title: "old school file transfer"
-tags: [ "owncloud", "mjg", "" ]
+tags: [ "owncloud", "mjg" ]
 author: Rob Nugen
 date: 2017-11-17T20:34:40+09:00
 ---

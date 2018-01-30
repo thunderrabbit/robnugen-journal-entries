@@ -1,6 +1,6 @@
 ---
 title: "dug a hole on the beach"
-tags: [ "beach", "transcribed", "hole", "haha", "" ]
+tags: [ "beach", "transcribed", "hole", "haha" ]
 author: Rob Nugen
 date: 2017-12-23T14:53:59+09:00
 ---

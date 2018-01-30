@@ -1,6 +1,6 @@
 ---
 title: Ma is here
-tags: [ "ma", "" ]
+tags: [ "ma" ]
 author: Rob Nugen
 date: 2017-08-10T00:09:44+09:00
 ---

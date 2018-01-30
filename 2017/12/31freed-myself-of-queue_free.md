@@ -1,6 +1,6 @@
 ---
 title: "freed myself of queue_free"
-tags: [ "godot", "queue_free", "crash", "" ]
+tags: [ "godot", "queue_free", "crash" ]
 author: Rob Nugen
 date: 2017-12-31T05:07:19+09:00
 ---

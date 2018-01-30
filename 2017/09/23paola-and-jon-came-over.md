@@ -1,6 +1,6 @@
 ---
 title: Paola and Jon came over
-tags: [ "paola", "jon", "first", "" ]
+tags: [ "paola", "jon", "first" ]
 author: Rob Nugen
 date: 2017-09-23T20:20:27+09:00
 ---

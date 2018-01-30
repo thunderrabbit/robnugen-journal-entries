@@ -1,6 +1,6 @@
 ---
 title: "Relaxing on the beach in Fortaleza"
-tags: [ "beach", "fortaleza", "brazil", "relax", "" ]
+tags: [ "beach", "fortaleza", "brazil", "relax" ]
 author: Rob Nugen
 date: 2017-12-20T14:46:04+09:00
 ---

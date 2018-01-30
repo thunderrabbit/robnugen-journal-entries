@@ -1,6 +1,6 @@
 ---
 title: beads for sale
-tags: [ "glass", "making", "beads", "first", "" ]
+tags: [ "glass", "making", "beads", "first" ]
 author: Rob Nugen
 date: 2017-08-18T19:30:48+09:00
 ---

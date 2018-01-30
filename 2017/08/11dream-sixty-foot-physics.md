@@ -1,6 +1,6 @@
 ---
 title: Dream sixty foot physics
-tags: [ "dream", "" ]
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2017-08-11T03:58:23+09:00
 ---

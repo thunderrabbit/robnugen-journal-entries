@@ -1,6 +1,6 @@
 ---
 title: dear /r/emacs
-tags: [ "emacs", "" ]
+tags: [ "emacs" ]
 author: Rob Nugen
 date: 2017-07-08T14:23:30+09:00
 ---
@@ -17,7 +17,7 @@ My functions ask me for Title, Tag, and date..  then produce output like this:
 
     ---
     title: reddit emacs
-    tags: [ "emacs", "" ]
+    tags: [ "emacs" ]
     author: Rob Nugen
     date: 2017-07-08T14:23:30+09:00
     ---

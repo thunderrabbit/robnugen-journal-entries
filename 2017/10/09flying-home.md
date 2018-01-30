@@ -1,6 +1,6 @@
 ---
 title: flying home
-tags: [ "flight", "per", "" ]
+tags: [ "flight", "per" ]
 author: Rob Nugen
 date: 2017-10-09T10:46:22+09:00
 ---

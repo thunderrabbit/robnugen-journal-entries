@@ -1,6 +1,6 @@
 ---
 title: First co-gender group after initial 8 meetings
-tags: [ "group", "" ]
+tags: [ "group" ]
 author: Rob Nugen
 date: 2017-09-27T00:10:34+09:00
 ---

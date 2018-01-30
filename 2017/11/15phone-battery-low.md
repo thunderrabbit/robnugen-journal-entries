@@ -1,6 +1,6 @@
 ---
 title: "phone battery low"
-tags: [ "battery", "low", "phone", "" ]
+tags: [ "battery", "low", "phone" ]
 author: Rob Nugen
 date: 2017-11-15T21:11:02+09:00
 ---

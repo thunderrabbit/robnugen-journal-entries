@@ -1,6 +1,6 @@
 ---
 title: "past week"
-tags: [ "holiday", "2018", "january", "new years", "" ]
+tags: [ "holiday", "2018", "january", "new years" ]
 author: Rob Nugen
 date: 2018-01-08T13:27:14+09:00
 ---

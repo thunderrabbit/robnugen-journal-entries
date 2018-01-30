@@ -1,6 +1,6 @@
 ---
 title: ordered an AC
-tags: [ "ac", "work", "" ]
+tags: [ "ac", "work" ]
 author: Rob Nugen
 date: 2017-08-11T18:44:50+09:00
 ---

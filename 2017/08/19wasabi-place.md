@@ -1,6 +1,6 @@
 ---
 title: wasabi place
-tags: [ "wasabi", "azumino", "" ]
+tags: [ "wasabi", "azumino" ]
 author: Rob Nugen
 date: 2017-08-19T16:51:00+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: ab work
-tags: [ "ab", "work", "" ]
+tags: [ "ab", "work" ]
 author: Rob Nugen
 date: 2017-09-14T13:52:29+09:00
 ---

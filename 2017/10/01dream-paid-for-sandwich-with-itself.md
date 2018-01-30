@@ -1,6 +1,6 @@
 ---
 title: dream paid for sandwich with itself
-tags: [ "dream", "sandwich", "0125", "" ]
+tags: [ "dream", "sandwich", "0125" ]
 author: Rob Nugen
 date: 2017-10-01T04:40:29+09:00
 ---

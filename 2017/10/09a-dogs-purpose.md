@@ -1,6 +1,6 @@
 ---
 title: A Dog's Purpose
-tags: [ "movie", "dog", "purpose", "comedy", "" ]
+tags: [ "movie", "dog", "purpose", "comedy" ]
 author: Rob Nugen
 date: 2017-10-09T11:36:16+09:00
 ---

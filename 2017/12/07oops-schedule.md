@@ -1,6 +1,6 @@
 ---
 title: "oops schedule"
-tags: [ "work", "oops", "schedule", "" ]
+tags: [ "work", "oops", "schedule" ]
 author: Rob Nugen
 date: 2017-12-07T18:15:23+09:00
 ---

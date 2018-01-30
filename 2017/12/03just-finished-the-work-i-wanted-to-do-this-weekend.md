@@ -1,6 +1,6 @@
 ---
 title: "just finished the work I wanted to do this weekend"
-tags: [ "work", "yay", "" ]
+tags: [ "work", "yay" ]
 author: Rob Nugen
 date: 2017-12-03T19:44:02+09:00
 ---

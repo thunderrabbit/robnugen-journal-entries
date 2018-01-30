@@ -1,6 +1,6 @@
 ---
 title: free lunch after lesson at NB
-tags: [ "nb", "work", "lunch", "" ]
+tags: [ "nb", "work", "lunch" ]
 author: Rob Nugen
 date: 2017-08-30T01:40:41+09:00
 ---

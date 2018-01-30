@@ -1,6 +1,6 @@
 ---
 title: lesson at TB
-tags: [ "tb", "lesson", "work", "" ]
+tags: [ "tb", "lesson", "work" ]
 author: Rob Nugen
 date: 2017-10-11T17:34:45+09:00
 ---

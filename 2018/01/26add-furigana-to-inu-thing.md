@@ -1,6 +1,6 @@
 ---
 title: "add furigana to inu thing"
-tags: [ "日本語", "犬", "勉強", "" ]
+tags: [ "日本語", "犬", "勉強" ]
 author: Rob Nugen
 date: 2018-01-26T17:27:16+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: bah my phone is slow
-tags: [ "phone", "connectivity", "" ]
+tags: [ "phone", "connectivity" ]
 author: Rob Nugen
 date: 2017-07-30T20:08:41+09:00
 ---

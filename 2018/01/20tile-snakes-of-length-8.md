@@ -1,6 +1,6 @@
 ---
 title: "tile snakes of length 8"
-tags: [ "tile", "game", "" ]
+tags: [ "tile", "game" ]
 author: Rob Nugen
 date: 2018-01-20T16:50:34+09:00
 ---

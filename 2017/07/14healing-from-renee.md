@@ -1,6 +1,6 @@
 ---
 title: Healing from Renee
-tags: [ "renee", "healing", "pastlife", "" ]
+tags: [ "renee", "healing", "pastlife" ]
 author: Rob Nugen
 date: 2017-07-14T18:58:39+09:00
 ---

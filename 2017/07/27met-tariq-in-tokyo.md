@@ -1,6 +1,6 @@
 ---
 title: met Tariq in Tokyo
-tags: [ "ios", "" ]
+tags: [ "ios" ]
 author: Rob Nugen
 date: 2017-07-27T20:46:01+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: mt3 let's get ready to wrangle
-tags: [ "mt3", "video", "" ]
+tags: [ "mt3", "video" ]
 author: Rob Nugen
 date: 2017-09-02T00:15:51+09:00
 ---

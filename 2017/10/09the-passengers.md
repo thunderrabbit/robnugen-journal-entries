@@ -1,6 +1,6 @@
 ---
 title: I could not watch The Passengers
-tags: [ "movie", "passengers", "space", "" ]
+tags: [ "movie", "passengers", "space" ]
 author: Rob Nugen
 date: 2017-10-09T10:59:36+09:00
 ---

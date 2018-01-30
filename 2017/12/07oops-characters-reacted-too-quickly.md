@@ -1,6 +1,6 @@
 ---
 title: "oops characters reacted too quickly"
-tags: [ "mt3", "blooper", "video", "" ]
+tags: [ "mt3", "blooper", "video" ]
 author: Rob Nugen
 date: 2017-12-07T20:56:11+09:00
 ---

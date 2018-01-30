@@ -1,6 +1,6 @@
 ---
 title: "playing with AWS for sbs.net"
-tags: [ "aws", "work", "" ]
+tags: [ "aws", "work" ]
 author: Rob Nugen
 date: 2017-11-15T12:27:25+09:00
 ---

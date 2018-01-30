@@ -1,6 +1,6 @@
 ---
 title: "leaving Fortaleza soon"
-tags: [ "brazil", "fortaleza", "last", "" ]
+tags: [ "brazil", "fortaleza", "last" ]
 author: Rob Nugen
 date: 2017-12-24T06:17:54+09:00
 ---

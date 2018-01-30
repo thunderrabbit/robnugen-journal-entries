@@ -1,6 +1,6 @@
 ---
 title: working on (shinkansen)
-tags: [ "work", "train", "shinkansen", "" ]
+tags: [ "work", "train", "shinkansen" ]
 author: Rob Nugen
 date: 2017-09-15T06:51:37+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: "u-cows old business cards"
-tags: [ "u-cow", "" ]
+tags: [ "u-cow" ]
 author: Rob Nugen
 date: 2017-11-24T10:33:02+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: second time I gave blood in Japan
-tags: [ "blood", "give", "pic", "" ]
+tags: [ "blood", "give", "pic" ]
 author: Rob Nugen
 date: 2017-09-10T00:08:10+09:00
 ---

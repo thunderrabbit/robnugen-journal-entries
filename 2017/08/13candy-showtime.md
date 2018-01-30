@@ -1,6 +1,6 @@
 ---
 title: candy showtime
-tags: [ "harajuku", "candy", "" ]
+tags: [ "harajuku", "candy" ]
 author: Rob Nugen
 date: 2017-08-13T13:16:44+09:00
 ---

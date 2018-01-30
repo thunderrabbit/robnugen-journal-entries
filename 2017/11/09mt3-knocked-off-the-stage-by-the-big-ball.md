@@ -1,6 +1,6 @@
 ---
 title: "mt3: knocked off the stage by the big ball"
-tags: [ "mt3", "video", "hilarious", "if i do say so myself", "" ]
+tags: [ "mt3", "video", "hilarious", "if i do say so myself" ]
 author: Rob Nugen
 date: 2017-11-09T15:43:34+09:00
 ---

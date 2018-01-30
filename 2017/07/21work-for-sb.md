@@ -1,6 +1,6 @@
 ---
 title: work for sb
-tags: [ "sb", "work", "cms", "" ]
+tags: [ "sb", "work", "cms" ]
 author: Rob Nugen
 date: 2017-07-21T22:33:33+09:00
 ---

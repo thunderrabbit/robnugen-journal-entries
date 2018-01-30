@@ -1,6 +1,6 @@
 ---
 title: mt3 wrong direction
-tags: [ "mt3", "video", "" ]
+tags: [ "mt3", "video" ]
 author: Rob Nugen
 date: 2017-09-14T16:04:39+09:00
 ---

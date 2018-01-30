@@ -1,6 +1,6 @@
 ---
 title: "Email from Mel-sensei"
-tags: [ "日本語", "メル", "plan", "" ]
+tags: [ "日本語", "メル", "plan" ]
 author: Rob Nugen
 date: 2017-11-21T06:25:23+09:00
 ---

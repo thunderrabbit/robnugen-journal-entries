@@ -1,6 +1,6 @@
 ---
 title: new lesson
-tags: [ "work", "lesson", "nb", "first", "" ]
+tags: [ "work", "lesson", "nb", "first" ]
 author: Rob Nugen
 date: 2017-07-18T17:52:31+09:00
 ---

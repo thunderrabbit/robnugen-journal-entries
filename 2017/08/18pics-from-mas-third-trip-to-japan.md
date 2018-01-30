@@ -1,6 +1,6 @@
 ---
 title: pics from Mas third trip to Japan
-tags: [ "ma", "pics", "lin", "francois", "" ]
+tags: [ "ma", "pics", "lin", "francois" ]
 author: Rob Nugen
 date: 2017-08-18T00:09:59+09:00
 ---

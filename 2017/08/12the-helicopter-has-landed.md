@@ -1,6 +1,6 @@
 ---
 title: The helicopter has landed
-tags: [ "mt3", "video", "" ]
+tags: [ "mt3", "video" ]
 author: Rob Nugen
 date: 2017-08-12T03:24:42+09:00
 ---

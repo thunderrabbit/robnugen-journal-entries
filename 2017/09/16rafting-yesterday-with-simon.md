@@ -1,6 +1,6 @@
 ---
 title: rafting yesterday with Simon
-tags: [ "rafting", "first", "" ]
+tags: [ "rafting", "first" ]
 author: Rob Nugen
 date: 2017-09-16T08:35:37+09:00
 ---

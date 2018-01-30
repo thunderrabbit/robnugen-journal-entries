@@ -1,6 +1,6 @@
 ---
 title: "mt3: started other small tracks"
-tags: [ "mt3", "video", "" ]
+tags: [ "mt3", "video" ]
 author: Rob Nugen
 date: 2017-11-06T22:30:56+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: first stage moving first stage into place
-tags: [ "mt3", "video", "" ]
+tags: [ "mt3", "video" ]
 author: Rob Nugen
 date: 2017-07-11T14:14:22+09:00
 ---

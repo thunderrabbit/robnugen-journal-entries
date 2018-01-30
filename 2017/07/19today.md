@@ -1,6 +1,6 @@
 ---
 title: today
-tags: [ "toe", "injury", "work", "tired", "" ]
+tags: [ "toe", "injury", "work", "tired" ]
 author: Rob Nugen
 date: 2017-07-19T23:38:08+09:00
 ---

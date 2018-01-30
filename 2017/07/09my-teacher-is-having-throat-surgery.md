@@ -1,6 +1,6 @@
 ---
 title: my teacher is having throat surgery
-tags: [ "ouch", "moejoe", "" ]
+tags: [ "ouch", "moejoe" ]
 author: Rob Nugen
 date: 2017-07-09T21:45:11+09:00
 ---

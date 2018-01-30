@@ -1,6 +1,6 @@
 ---
 title: Nagano View Hotel
-tags: [ "nagano", "hotel", "" ]
+tags: [ "nagano", "hotel" ]
 author: Rob Nugen
 date: 2017-08-18T15:27:39+09:00
 ---

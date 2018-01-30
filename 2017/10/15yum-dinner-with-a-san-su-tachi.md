@@ -1,6 +1,6 @@
 ---
 title: yum dinner with a-san-su-tachi
-tags: [ "dinner", "buffet", "a-san-su", "a-san-su-mei", "" ]
+tags: [ "dinner", "buffet", "a-san-su", "a-san-su-mei" ]
 author: Rob Nugen
 date: 2017-10-15T21:53:27+09:00
 ---

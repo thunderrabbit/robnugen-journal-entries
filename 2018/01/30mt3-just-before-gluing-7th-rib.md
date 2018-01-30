@@ -1,6 +1,6 @@
 ---
 title: "mt3: just before gluing 7th rib"
-tags: [ "mt3", "video", "" ]
+tags: [ "mt3", "video" ]
 author: Rob Nugen
 date: 2018-01-30T10:54:48+09:00
 ---

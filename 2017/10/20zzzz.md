@@ -1,6 +1,6 @@
 ---
 title: zzzz
-tags: [ "sleepy", "" ]
+tags: [ "sleepy" ]
 author: Rob Nugen
 date: 2017-10-20T23:49:34+09:00
 ---

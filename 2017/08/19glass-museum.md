@@ -1,6 +1,6 @@
 ---
 title: glass museum
-tags: [ "glass", "museum", "time", "" ]
+tags: [ "glass", "museum", "time" ]
 author: Rob Nugen
 date: 2017-08-19T17:46:50+09:00
 ---

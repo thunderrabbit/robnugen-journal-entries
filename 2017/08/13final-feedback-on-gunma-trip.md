@@ -1,6 +1,6 @@
 ---
 title: final feedback on gunma trip
-tags: [ "gunma", "feedback", "" ]
+tags: [ "gunma", "feedback" ]
 author: Rob Nugen
 date: 2017-08-13T13:08:52+09:00
 ---

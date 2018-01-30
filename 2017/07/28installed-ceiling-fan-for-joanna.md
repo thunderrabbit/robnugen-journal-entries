@@ -1,6 +1,6 @@
 ---
 title: installed ceiling fan for Joanna
-tags: [ "handy", "fan", "" ]
+tags: [ "handy", "fan" ]
 author: Rob Nugen
 date: 2017-07-28T15:53:29+09:00
 ---

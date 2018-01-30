@@ -1,6 +1,6 @@
 ---
 title: "wrote japanese"
-tags: [ "html", "" ]
+tags: [ "html" ]
 author: Rob Nugen
 date: 2018-01-19T11:56:23+09:00
 ---

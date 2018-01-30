@@ -1,6 +1,6 @@
 ---
 title: "beach day"
-tags: [ "beach", "brazil", "fortaleza", "tts", "" ]
+tags: [ "beach", "brazil", "fortaleza", "tts" ]
 author: Rob Nugen
 date: 2017-12-21T22:12:06+09:00
 ---

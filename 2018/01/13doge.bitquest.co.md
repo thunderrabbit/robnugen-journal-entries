@@ -1,6 +1,6 @@
 ---
 title: "doge.bitquest.co"
-tags: [ "minecraft", "doge", "bitquest.co", "" ]
+tags: [ "minecraft", "doge", "bitquest.co" ]
 author: Rob Nugen
 date: 2018-01-13T20:43:05+09:00
 ---

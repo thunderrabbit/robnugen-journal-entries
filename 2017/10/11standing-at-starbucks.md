@@ -1,6 +1,6 @@
 ---
 title: standing at starbucks
-tags: [ "standing", "table", "" ]
+tags: [ "standing", "table" ]
 author: Rob Nugen
 date: 2017-10-11T10:07:27+09:00
 ---

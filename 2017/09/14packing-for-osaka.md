@@ -1,6 +1,6 @@
 ---
 title: Packing for Osaka
-tags: [ "pack", "" ]
+tags: [ "pack" ]
 author: Rob Nugen
 date: 2017-09-14T22:52:39+09:00
 ---

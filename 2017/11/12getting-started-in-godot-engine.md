@@ -1,6 +1,6 @@
 ---
 title: "Getting started in Godot Engine"
-tags: [ "godot", "first", "" ]
+tags: [ "godot", "first" ]
 author: Rob Nugen
 date: 2017-11-12T06:37:40+09:00
 ---

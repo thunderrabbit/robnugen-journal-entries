@@ -1,6 +1,6 @@
 ---
 title: "ate at a churrascuria"
-tags: [ "lunch", "churrasco", "full", "omg", "" ]
+tags: [ "lunch", "churrasco", "full", "omg" ]
 author: Rob Nugen
 date: 2017-12-27T15:40:51+09:00
 ---

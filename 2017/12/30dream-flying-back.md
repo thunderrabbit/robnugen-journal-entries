@@ -1,6 +1,6 @@
 ---
 title: "dream flying back"
-tags: [ "dream", "airplane", "strange", "1999", "" ]
+tags: [ "dream", "airplane", "strange", "1999" ]
 author: Rob Nugen
 date: 2017-12-30T20:47:50+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: last virtual I-group
-tags: [ "mkp", "virtual", "igroup", "" ]
+tags: [ "mkp", "virtual", "igroup" ]
 author: Rob Nugen
 date: 2017-08-25T11:35:22+09:00
 ---

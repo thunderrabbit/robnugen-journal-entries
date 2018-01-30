@@ -1,6 +1,6 @@
 ---
 title: "today"
-tags: [ "today", "mkp", "work", "scotty", "" ]
+tags: [ "today", "mkp", "work", "scotty" ]
 author: Rob Nugen
 date: 2017-11-16T13:18:54+09:00
 ---

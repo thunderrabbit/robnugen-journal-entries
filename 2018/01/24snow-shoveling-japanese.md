@@ -1,6 +1,6 @@
 ---
 title: "snow shoveling japanese"
-tags: [ "おととい", "日本語", "雪", "雪かき", "" ]
+tags: [ "おととい", "日本語", "雪", "雪かき" ]
 author: Rob Nugen
 date: 2018-01-24T09:56:31+09:00
 ---

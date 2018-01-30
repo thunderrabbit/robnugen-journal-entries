@@ -1,6 +1,6 @@
 ---
 title: made pottery
-tags: [ "pottery", "ma", "lin", "francois", "make", "art", "fun", "nagano", "japan", "2017", "aug", "19", "" ]
+tags: [ "pottery", "ma", "lin", "francois", "make", "art", "fun", "nagano", "japan", "2017", "aug", "19" ]
 author: Rob Nugen
 date: 2017-08-19T11:04:24+09:00
 ---

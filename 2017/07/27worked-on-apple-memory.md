@@ -1,6 +1,6 @@
 ---
 title: worked on Apple Memory
-tags: [ "ios", "app", "apple-memory", "" ]
+tags: [ "ios", "app", "apple-memory" ]
 author: Rob Nugen
 date: 2017-07-27T17:51:38+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: "4 hours to Haneda"
-tags: [ "time", "" ]
+tags: [ "time" ]
 author: Rob Nugen
 date: 2018-01-01T19:06:56+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: "testing exim"
-tags: [ "exim", "work", "test", "" ]
+tags: [ "exim", "work", "test" ]
 author: Rob Nugen
 date: 2017-12-13T21:51:14+09:00
 ---

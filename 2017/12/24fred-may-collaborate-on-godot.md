@@ -1,6 +1,6 @@
 ---
 title: "Fred may collaborate on conswi"
-tags: [ "godot", "fred", "conswi", "" ]
+tags: [ "godot", "fred", "conswi" ]
 author: Rob Nugen
 date: 2017-12-24T14:09:46+09:00
 ---

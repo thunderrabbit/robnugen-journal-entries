@@ -1,6 +1,6 @@
 ---
 title: "bought some puzzles"
-tags: [ "puzzles", "mayumi", "" ]
+tags: [ "puzzles", "mayumi" ]
 author: Rob Nugen
 date: 2017-12-16T18:17:21+09:00
 ---

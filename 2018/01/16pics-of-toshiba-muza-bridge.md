@@ -1,6 +1,6 @@
 ---
 title: "pics of Toshiba Muza bridge"
-tags: [ "bridge", "construction", "toshiba", "muza", "" ]
+tags: [ "bridge", "construction", "toshiba", "muza" ]
 author: Rob Nugen
 date: 2018-01-16T09:22:05+09:00
 ---

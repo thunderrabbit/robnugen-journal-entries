@@ -1,6 +1,6 @@
 ---
 title: "meeting vif"
-tags: [ "meeting", "blah", "" ]
+tags: [ "meeting", "blah" ]
 author: Rob Nugen
 date: 2018-01-18T09:35:18+09:00
 ---

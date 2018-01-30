@@ -1,6 +1,6 @@
 ---
 title: meeting prepped I hope
-tags: [ "work", "meeting", "api", "" ]
+tags: [ "work", "meeting", "api" ]
 author: Rob Nugen
 date: 2017-10-30T05:58:55+09:00
 ---

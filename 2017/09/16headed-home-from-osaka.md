@@ -1,6 +1,6 @@
 ---
 title: headed home from Osaka
-tags: [ "train", "shinkansen", "osaka", "tokyo", "simon", "" ]
+tags: [ "train", "shinkansen", "osaka", "tokyo", "simon" ]
 author: Rob Nugen
 date: 2017-09-16T21:10:06+09:00
 ---

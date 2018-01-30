@@ -1,6 +1,6 @@
 ---
 title: it all started here
-tags: [ "mt3", "video", "first", "" ]
+tags: [ "mt3", "video", "first" ]
 author: Rob Nugen
 date: 2007-06-27T10:07:34+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: fell asleep during dental cleaning
-tags: [ "dentist", "nobue", "" ]
+tags: [ "dentist", "nobue" ]
 author: Rob Nugen
 date: 2017-07-10T20:19:25+09:00
 ---

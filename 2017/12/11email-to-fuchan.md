@@ -1,6 +1,6 @@
 ---
 title: "email to fuchan"
-tags: [ "日本語", "study", "japanese", "" ]
+tags: [ "日本語", "study", "japanese" ]
 author: Rob Nugen
 date: 2017-12-11T15:55:56+09:00
 ---

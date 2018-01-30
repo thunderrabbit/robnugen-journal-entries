@@ -1,6 +1,6 @@
 ---
 title: "getting back to work in 2018"
-tags: [ "work", "back", "2018", "" ]
+tags: [ "work", "back", "2018" ]
 author: Rob Nugen
 date: 2018-01-10T08:44:46+09:00
 ---

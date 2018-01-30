@@ -1,6 +1,6 @@
 ---
 title: great meetings
-tags: [ "work", "meetings", "cb", "sb", "" ]
+tags: [ "work", "meetings", "cb", "sb" ]
 author: Rob Nugen
 date: 2017-10-30T21:06:48+09:00
 ---

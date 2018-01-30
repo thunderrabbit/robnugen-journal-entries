@@ -1,6 +1,6 @@
 ---
 title: Letterman and the fast
-tags: [ "fast", "feast", "" ]
+tags: [ "fast", "feast" ]
 author: Rob Nugen
 date: 2017-09-19T11:37:22+09:00
 ---

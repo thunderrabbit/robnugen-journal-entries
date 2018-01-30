@@ -1,6 +1,6 @@
 ---
 title: budget software
-tags: [ "budget", "android", "" ]
+tags: [ "budget", "android" ]
 author: Rob Nugen
 date: 2017-10-17T22:52:07+09:00
 ---

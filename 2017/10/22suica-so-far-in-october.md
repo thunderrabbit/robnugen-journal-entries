@@ -1,6 +1,6 @@
 ---
 title: Suica so far in October
-tags: [ "suica", "finance", "" ]
+tags: [ "suica", "finance" ]
 author: Rob Nugen
 date: 2017-10-22T16:05:30+09:00
 ---

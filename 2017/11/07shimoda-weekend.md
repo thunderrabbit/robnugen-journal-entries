@@ -1,6 +1,6 @@
 ---
 title: Shimoda Weekend
-tags: [ "13", "alyson", "babychan", "christine", "erik", "jorge", "leiya", "lisa", "michael", "naoshi", "patrick", "peeps", "rohini", "will", "shimoda", "first", "" ]
+tags: [ "13", "alyson", "babychan", "christine", "erik", "jorge", "leiya", "lisa", "michael", "naoshi", "patrick", "peeps", "rohini", "will", "shimoda", "first" ]
 author: Rob Nugen
 date: 2017-11-07T13:39:45+09:00
 ---

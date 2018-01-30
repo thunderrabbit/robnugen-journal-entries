@@ -1,6 +1,6 @@
 ---
 title: "coding in the mall"
-tags: [ "mall", "" ]
+tags: [ "mall" ]
 author: Rob Nugen
 date: 2017-12-24T11:08:55+09:00
 ---

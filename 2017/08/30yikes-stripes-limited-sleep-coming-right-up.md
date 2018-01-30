@@ -1,6 +1,6 @@
 ---
 title: yikes stripes limited sleep coming right up
-tags: [ "zzzz", "work", "uh-oh", "" ]
+tags: [ "zzzz", "work", "uh-oh" ]
 author: Rob Nugen
 date: 2017-08-30T01:48:11+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Note to self: do not bite cashew shells"
-tags: [ "oops", "haha", "cashew", "contact dermatitis", "" ]
+tags: [ "oops", "haha", "cashew", "contact dermatitis" ]
 author: Rob Nugen
 date: 2017-12-20T09:14:33+09:00
 ---

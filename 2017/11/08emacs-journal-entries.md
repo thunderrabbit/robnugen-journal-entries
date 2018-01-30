@@ -1,6 +1,6 @@
 ---
 title: "Hugo journal entries with Emacs"
-tags: [ "emacs", "journal", "quotes", "hugo", "" ]
+tags: [ "emacs", "journal", "quotes", "hugo" ]
 author: Rob Nugen
 date: 2017-11-08T13:42:06+09:00
 ---
@@ -13,7 +13,7 @@ the date, and get the following YAML meta data for the entry:
 
     ---
     title: "Hugo journal entries with Emacs"
-    tags: [ "emacs", "journal", "quotes", "hugo", "" ]
+    tags: [ "emacs", "journal", "quotes", "hugo" ]
     author: Rob Nugen
     date: 2017-11-08T13:42:06+09:00
     ---

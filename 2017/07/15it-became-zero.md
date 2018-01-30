@@ -1,6 +1,6 @@
 ---
 title: it became zero
-tags: [ "lin", "renee", "shungite", "" ]
+tags: [ "lin", "renee", "shungite" ]
 author: Rob Nugen
 date: 2017-07-15T18:31:26+09:00
 ---

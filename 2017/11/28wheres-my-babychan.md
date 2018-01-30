@@ -1,6 +1,6 @@
 ---
 title: "late"
-tags: [ "lin", "late", "" ]
+tags: [ "lin", "late" ]
 author: Rob Nugen
 date: 2017-11-28T22:35:59+09:00
 ---

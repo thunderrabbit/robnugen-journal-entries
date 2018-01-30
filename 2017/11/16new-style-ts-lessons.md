@@ -1,6 +1,6 @@
 ---
 title: "new style TS lessons"
-tags: [ "ts", "new", "first", "lesson", "work", "" ]
+tags: [ "ts", "new", "first", "lesson", "work" ]
 author: Rob Nugen
 date: 2017-11-16T17:56:10+09:00
 ---

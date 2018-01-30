@@ -1,6 +1,6 @@
 ---
 title: project management
-tags: [ "work", "ab", "" ]
+tags: [ "work", "ab" ]
 author: Rob Nugen
 date: 2017-09-01T16:41:09+09:00
 ---

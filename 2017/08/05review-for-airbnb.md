@@ -1,6 +1,6 @@
 ---
 title: review for airbnb
-tags: [ "renee", "review", "" ]
+tags: [ "renee", "review" ]
 author: Rob Nugen
 date: 2017-08-05T10:27:01+09:00
 ---

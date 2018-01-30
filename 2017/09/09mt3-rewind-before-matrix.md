@@ -1,6 +1,6 @@
 ---
 title: mt3 rewind before Matrix
-tags: [ "mt3", "video", "matrix", "rewind", "dragonframe", "" ]
+tags: [ "mt3", "video", "matrix", "rewind", "dragonframe" ]
 author: Rob Nugen
 date: 2017-09-09T20:25:13+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: mt3： first rails and marbles
-tags: [ "mt3", "video", "" ]
+tags: [ "mt3", "video" ]
 author: Rob Nugen
 date: 2017-09-28T15:41:47+09:00
 ---

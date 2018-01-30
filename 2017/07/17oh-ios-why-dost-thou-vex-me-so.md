@@ -1,6 +1,6 @@
 ---
 title: Oh iOS why dost thou vex me so
-tags: [ "ios", "moejoe", "" ]
+tags: [ "ios", "moejoe" ]
 author: Rob Nugen
 date: 2017-07-17T08:50:36+09:00
 ---

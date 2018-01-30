@@ -1,6 +1,6 @@
 ---
 title: productivitaint
-tags: [ "bah", "" ]
+tags: [ "bah" ]
 author: Rob Nugen
 date: 2017-08-05T19:21:28+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: weights
-tags: [ "weights", "first", "simon", "" ]
+tags: [ "weights", "first", "simon" ]
 author: Rob Nugen
 date: 2017-09-16T18:50:13+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: feedback
-tags: [ "gunma", "" ]
+tags: [ "gunma" ]
 author: Rob Nugen
 date: 2017-08-12T11:52:32+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Godot coding"
-tags: [ "godot", "sweet", "easy", "omg", "joy", "" ]
+tags: [ "godot", "sweet", "easy", "omg", "joy" ]
 author: Rob Nugen
 date: 2017-12-12T17:16:29+09:00
 ---

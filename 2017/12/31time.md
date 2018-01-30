@@ -1,6 +1,6 @@
 ---
 title: "time"
-tags: [ "10.5", "time", "" ]
+tags: [ "10.5", "time" ]
 author: Rob Nugen
 date: 2017-12-31T04:54:56+09:00
 ---

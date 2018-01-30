@@ -1,6 +1,6 @@
 ---
 title: mt3 glued some small track
-tags: [ "mt3", "video", "small", "" ]
+tags: [ "mt3", "video", "small" ]
 author: Rob Nugen
 date: 2017-10-17T12:38:59+09:00
 ---

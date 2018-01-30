@@ -1,6 +1,6 @@
 ---
 title: today
-tags: [ "jorge", "paola", "lisa", "babychan", "ice cream", "work", "" ]
+tags: [ "jorge", "paola", "lisa", "babychan", "ice cream", "work" ]
 author: Rob Nugen
 date: 2017-09-12T23:57:26+09:00
 ---

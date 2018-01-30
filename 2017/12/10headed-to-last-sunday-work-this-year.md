@@ -1,6 +1,6 @@
 ---
 title: "headed to last Sunday work this year"
-tags: [ "ty", "work", "" ]
+tags: [ "ty", "work" ]
 author: Rob Nugen
 date: 2017-12-10T07:51:48+09:00
 ---

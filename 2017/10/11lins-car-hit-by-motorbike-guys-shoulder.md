@@ -1,6 +1,6 @@
 ---
 title: Lins car hit by motorbike guys shoulder
-tags: [ "lin", "accident", "pic", "blood", "" ]
+tags: [ "lin", "accident", "pic", "blood" ]
 author: Rob Nugen
 date: 2017-10-11T22:47:55+09:00
 ---

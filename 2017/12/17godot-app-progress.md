@@ -1,6 +1,6 @@
 ---
 title: "godot app progress"
-tags: [ "godot", "" ]
+tags: [ "godot" ]
 author: Rob Nugen
 date: 2017-12-17T07:44:46+09:00
 ---

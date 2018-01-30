@@ -1,6 +1,6 @@
 ---
 title: 日本語を勉強しました
-tags: [ "日本語", "勉強", "study", "japanese", "" ]
+tags: [ "日本語", "勉強", "study", "japanese" ]
 author: Rob Nugen
 date: 2017-09-06T12:08:48+09:00
 ---

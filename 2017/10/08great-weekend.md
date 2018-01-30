@@ -1,6 +1,6 @@
 ---
 title: great weekend
-tags: [ "mkp", "st1", "" ]
+tags: [ "mkp", "st1" ]
 author: Rob Nugen
 date: 2017-10-08T23:29:20+09:00
 ---

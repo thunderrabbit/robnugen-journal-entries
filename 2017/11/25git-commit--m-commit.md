@@ -1,6 +1,6 @@
 ---
 title: "git commit -m commit"
-tags: [ "git", "commit messages", "funny", "" ]
+tags: [ "git", "commit messages", "funny" ]
 author: Rob Nugen
 date: 2017-11-25T17:33:39+09:00
 ---

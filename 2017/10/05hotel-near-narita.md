@@ -1,6 +1,6 @@
 ---
 title: hotel near Narita
-tags: [ "hotel", "narita", "" ]
+tags: [ "hotel", "narita" ]
 author: Rob Nugen
 date: 2017-10-05T21:57:02+09:00
 ---

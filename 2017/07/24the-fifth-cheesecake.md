@@ -1,6 +1,6 @@
 ---
 title: The fifth cheesecake
-tags: [ "wifi", "wired", "日本語", "" ]
+tags: [ "wifi", "wired", "日本語" ]
 author: Rob Nugen
 date: 2017-07-24T11:57:42+09:00
 ---

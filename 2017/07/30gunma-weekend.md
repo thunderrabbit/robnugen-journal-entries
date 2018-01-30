@@ -1,6 +1,6 @@
 ---
 title: Gunma weekend
-tags: [ "sad", "joy", "jill", "lisa", "rohini", "will", "jorge", "alison", "renee", "drwada", "haruna", "fuck", "" ]
+tags: [ "sad", "joy", "jill", "lisa", "rohini", "will", "jorge", "alison", "renee", "drwada", "haruna", "fuck" ]
 author: Rob Nugen
 date: 2017-07-30T18:47:31+09:00
 ---

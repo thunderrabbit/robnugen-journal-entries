@@ -1,6 +1,6 @@
 ---
 title: "SB DNS"
-tags: [ "sb", "work", "" ]
+tags: [ "sb", "work" ]
 author: Rob Nugen
 date: 2017-11-29T22:54:45+09:00
 ---

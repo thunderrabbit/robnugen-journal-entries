@@ -1,6 +1,6 @@
 ---
 title: SOGO
-tags: [ "sogo", "workout", "lin", "ma", "" ]
+tags: [ "sogo", "workout", "lin", "ma" ]
 author: Rob Nugen
 date: 2017-08-13T13:12:38+09:00
 ---
