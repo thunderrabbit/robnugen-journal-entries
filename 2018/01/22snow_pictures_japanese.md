@@ -9,27 +9,33 @@ date: 2018-01-22T23:14:09+09:00
 
 ### There are probably errors in the Japanese notes below!
 
-今日は雪ようく吹いた。帰るの時写真をたくさん取った。
+今日は雪たくさん<ruby><rb>降</rb><rt>ふ</rt></ruby>った。<ruby><rb>帰</rb><rt>か</rt></ruby>りの時写真をたくさん<ruby><rb>取</rb><rt>と</rt></ruby>った。
 
 [![駅に近い歩道う](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/thumbs/lightly_sprinkled.jpg)](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/lightly_sprinkled.jpg)
-駅に近い歩道う
+駅に近い歩道
 
 [![walked through rail](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/thumbs/walking_through_rail.jpg)](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/walking_through_rail.jpg)
-walked through rail
+フェンスを<ruby><rb>跨</rb><rt>また</rt></ruby>いだ
 
 [![walking up street](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/thumbs/walking_up_street.jpg)](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/walking_up_street.jpg)
-walking up street
+<ruby><rb>坂道</rb><rt></rt></ruby>を<ruby><rb>上</rb><rt></rt></ruby>る
 
 [![jingle all the way](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/thumbs/jingle_all_the_way.jpg)](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/jingle_all_the_way.jpg)
-jingle all the way
+もみの<ruby><rb>木</rb>き<rt></rt></ruby>
+
 [![kids enjoying snow day](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/thumbs/kids_enjoying_snow_day.jpg)](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/kids_enjoying_snow_day.jpg)
-kids enjoying snow day
+雪の日を楽しんでる子供
+
 [![looking around corner](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/thumbs/looking_around_corner.jpg)](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/looking_around_corner.jpg)
-looking around corner
+曲がり角のあたり
+曲がり角　まがりかど
+
 [![looking down street](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/thumbs/looking_down_street.jpg)](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/looking_down_street.jpg)
-looking down street
+この道の先を見る
+
 [![looking down the wall](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/thumbs/looking_down_the_wall.jpg)](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/looking_down_the_wall.jpg)
-looking down the wall
+この塀の先を見る
+
 [![looking down the way](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/thumbs/looking_down_the_way.jpg)](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/looking_down_the_way.jpg)
 looking down the way
 [![looking over dip](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/thumbs/looking_over_dip.jpg)](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/looking_over_dip.jpg)
