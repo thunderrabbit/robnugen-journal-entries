@@ -17,7 +17,7 @@ date: 2018-01-26T17:27:16+09:00
 </rb><rt>こころ</rt></ruby>を<ruby><rb>瞬時</rb><rt>しゅんじ</rt></ruby>に<ruby><rb>
 読</rb><rt>よ</rt></ruby>むことができる<ruby><rb>犬</rb><rt>いぬ</rt></ruby>。
 その<ruby><rb>驚</rb><rt>おどろ</rt></ruby>きの<ruby><rb>能力
-</rb><rt>のうりょく</rt></ruby>を<ruby><rb>解明</rb><rt></rt>かいめい</ruby>する
+</rb><rt>のうりょく</rt></ruby>を<ruby><rb>解明</rb><rt>かいめい</rt></ruby>する
 <ruby><rb>科学</rb><rt>かがく</rt></ruby>ドキュメント。
 
 <ruby><rb>断崖絶壁</rb><rt>だんがいぜっぺき</rt></ruby>の<ruby><rb>
