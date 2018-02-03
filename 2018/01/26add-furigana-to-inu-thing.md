@@ -54,3 +54,15 @@ date: 2018-01-26T17:27:16+09:00
 かな<ruby><rb>表情</rb><rt>ひょうじょう</rt></ruby>も<ruby><rb>優
 </rb><rt>すぐ</rt></ruby>れたアングルで<ruby><rb>捉</rb><rt>とら</rt></ruby>え
 た！
+
+## 09:35 Saturday 03 February 2018 JST
+
+Great to get such glowing feedback from Mel!
+
+    ふりがな書いたんですね！
+    さっき見ました☆彡
+    すばらし〜い
+    （＾∇＾）（＾∇＾）（＾∇＾）
+    
+    来週(らいしゅう)の木曜日、楽しみにしてまーす！
+
