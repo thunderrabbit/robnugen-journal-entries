@@ -9,7 +9,7 @@ date: 2018-01-22T23:14:09+09:00
 
 ### There are probably errors in the Japanese notes below!
 
-今日は雪たくさん<ruby><rb>降</rb><rt>ふ</rt></ruby>った。<ruby><rb>帰</rb><rt>か</rt></ruby>りの時写真をたくさん<ruby><rb>取</rb><rt>と</rt></ruby>った。
+今日は雪たくさん<ruby><rb>降</rb><rt>ふ</rt></ruby>った。<ruby><rb>帰</rb><rt>かえ</rt></ruby>りの時写真をたくさん<ruby><rb>撮る</rb><rt>と</rt></ruby>った。
 
 [![駅に近い歩道う](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/thumbs/lightly_sprinkled.jpg)](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/lightly_sprinkled.jpg)
 駅に近い歩道
@@ -21,7 +21,7 @@ date: 2018-01-22T23:14:09+09:00
 <ruby><rb>坂道</rb><rt></rt></ruby>を<ruby><rb>上</rb><rt></rt></ruby>る
 
 [![jingle all the way](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/thumbs/jingle_all_the_way.jpg)](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/jingle_all_the_way.jpg)
-もみの<ruby><rb>木</rb>き<rt></rt></ruby>
+もみの<ruby><rb>木</rb><rt>き</rt></ruby>
 
 [![kids enjoying snow day](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/thumbs/kids_enjoying_snow_day.jpg)](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/kids_enjoying_snow_day.jpg)
 雪の日を楽しんでる子供
@@ -37,13 +37,14 @@ date: 2018-01-22T23:14:09+09:00
 この塀の先を見る
 
 [![looking down the way](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/thumbs/looking_down_the_way.jpg)](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/looking_down_the_way.jpg)
-looking down the way
+他の塀の先を見る
+
 [![looking over dip](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/thumbs/looking_over_dip.jpg)](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/looking_over_dip.jpg)
-looking over dip
+下り坂途中。また上り坂が始まる。
 [![looking past the park](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/thumbs/looking_past_the_park.jpg)](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/looking_past_the_park.jpg)
-looking past the park
+公園の前の道
 [![looking up at park](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/thumbs/looking_up_at_park.jpg)](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/looking_up_at_park.jpg)
-looking up at park
+公園の木
 
 [![階段の上から](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/thumbs/looking_down_steps.jpg)](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/looking_down_steps.jpg)
 階段の上から
@@ -51,21 +52,26 @@ looking up at park
 階段の下から
 
 [![looking up street](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/thumbs/looking_up_street.jpg)](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/looking_up_street.jpg)
-looking up street
+道を見上げる
 [![looking up the wall](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/thumbs/looking_up_the_wall.jpg)](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/looking_up_the_wall.jpg)
-looking up the wall
+壁を見上げる
+
 [![looking way down street](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/thumbs/looking_way_down_street.jpg)](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/looking_way_down_street.jpg)
-looking way down street
+坂のずっと下を見てる
+
 [![parked cars at park](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/thumbs/parked_cars_at_park.jpg)](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/parked_cars_at_park.jpg)
-parked cars at park
+<ruby><rb>駐車</rb><rt>ちゅうしゃ</rt></ruby>してある<ruby><rb>車両</rb><rt>しゃりょう</rt></ruby>
+
 [![slightly covered car](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/thumbs/slightly_covered_car.jpg)](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/slightly_covered_car.jpg)
-slightly covered car
+雪をかぶっちゃた車
+
 [![slightly leaning tree](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/thumbs/slightly_leaning_tree.jpg)](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/slightly_leaning_tree.jpg)
-slightly leaning tree
+眠い木
 [![nope](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/thumbs/nope.jpg)](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/nope.jpg)
-nope
+目立つ
+
 [![still nope](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/thumbs/still_nope.jpg)](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/still_nope.jpg)
-still nope
+寒そう
 
 
 [![パノラマ 1](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/thumbs/pano_1.jpg)](//b.robnugen.com/home/tokyo/2018/january_snow_day/2018_jan_22/pano_1.jpg)

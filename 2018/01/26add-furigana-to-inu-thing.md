@@ -42,7 +42,7 @@ date: 2018-01-26T17:27:16+09:00
 <ruby><rb>常</rb><rt>つね</rt></ruby>にリーダーと<ruby><rb>行動
 </rb><rt>こうどう</rt></ruby>をともにし、<ruby><rb>仲間</rb><rt>なかま</rt></ruby>を
 <ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>本能</rb><rt>ほんのう</rt></ruby>
-を<ruby><rb>持</rb><rt>もち</rt></ruby>ち、<ruby><rb>人間
+を<ruby><rb>持</rb><rt>も</rt></ruby>ち、<ruby><rb>人間
 </rb><rt>にんげん</rt></ruby>の<ruby><rb>表情</rb><rt>ひょうじょう</rt></ruby>や<ruby><rb>
 動作</rb><rt>どうさ</rt></ruby>を<ruby><rb>察</rb><rt>さっ</rt></ruby>し、
 <ruby><rb>状況判断</rb><rt>じょうきょうはんだん</rt></ruby>に<ruby><rb>優
