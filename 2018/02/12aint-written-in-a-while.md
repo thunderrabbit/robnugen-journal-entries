@@ -1,5 +1,5 @@
 ---
-title: "aint written in a while"
+title: "aint written in a while (warning blood) NSFL"
 tags: [ "stuff", "journal" ]
 author: Rob Nugen
 date: 2018-02-12T15:04:25+09:00
