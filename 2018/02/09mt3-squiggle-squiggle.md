@@ -1,5 +1,5 @@
 ---
-title: "mt3: <del>squiggle squiggle</del> calling for help"
+title: "mt3: calling for help"
 tags: [ "video", "mt3", "brer" ]
 author: Rob Nugen
 date: 2018-02-12T12:03:22+09:00
