@@ -2,10 +2,12 @@
 title: "おとといおっとっと"
 tags: [ "日本語", "足", "血", "写真" ]
 author: Rob Nugen
-date: 2018-02-14T09:43:38+09:00
+date: 2018-02-11T14:43:38+09:00
 ---
 
-## 09:43 Wednesday 14 February 2018 JST
+## 14:43 Sunday 11 February 2018 JST
+
+(written 09:43 Wednesday 14 February 2018 JST)
 
 おととい帰りながら、足の親指を潰しました。
 
