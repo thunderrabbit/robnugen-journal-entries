@@ -13,4 +13,5 @@ inventory on the shelves.  The guy at the register said they are
 closing next week (at 7am on Tuesday) and he didn't know if it would
 ever reopen.
 
-Even worse, [we are the threat](https://criticaltheoryresearchnetwork.com/2018/02/14/threat-reflections-near-term-human-extinction/).
+Even worse,
+[we are the threat](https://criticaltheoryresearchnetwork.com/2018/02/14/threat-reflections-near-term-human-extinction/).
