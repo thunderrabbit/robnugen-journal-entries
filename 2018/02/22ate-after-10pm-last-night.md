@@ -7,7 +7,7 @@ date: 2018-02-22T09:02:06+09:00
 
 ## 09:02 Thursday 22 February 2018 JST
 
-Yeah so last night against my better judgement, I ate last night.  I
+Yeah so last night against my better judgement, I ate at night.  I
 mean it wasn't a ton, but maybe 1/2 kg, including a bunch of sugar.
 
 This morning my stomach is like "ugh with a big fat ball of fat"
