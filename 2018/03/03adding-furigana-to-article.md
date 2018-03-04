@@ -18,7 +18,7 @@ https://www3.nhk.or.jp/news/html/20180303/k10011350251000.html
 <ruby><rb>工事</rb><rt>こうじ</rt></ruby>が終わり、３
 日朝、<ruby><rb>開通式</rb><rt>かいつうしき</rt></ruby>が開かれました。
 
-東京・新宿と<ruby><rb>多摩</rb><rt>たまちき地域</rt></ruby>や川崎市な
+東京・新宿と<ruby><rb>多摩地域</rb><rt>たまちき</rt></ruby>や川崎市な
 どを<ruby><rb>結</rb><rt>むす</rt></ruby>ぶ小田急小田原線では、
 <ruby><rb>上り下り</rb><rt>あがりさがり</rt></ruby>ともに線路を２本ず
 つにする複々線化が<ruby><rb>進</rb><rt>すす</rt></ruby>められ、３日
