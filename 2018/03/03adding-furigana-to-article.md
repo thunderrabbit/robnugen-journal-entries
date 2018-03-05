@@ -35,9 +35,16 @@ https://www3.nhk.or.jp/news/html/20180303/k10011350251000.html
 <ruby><rb>関係者</rb><rt>かんけいしゃ</rt></ruby>が
 テープカットを<ruby><rb>行</rb><rt>おこな</rt></ruby>いました。
 
-小田急電鉄は複々線化に伴って今月１７日にダイヤを改正し、朝のラッシュ時
-に列車の本数をおよそ１．３倍に増やす予定で、混雑率は昨年度の１９２％か
-ら１５０％程度に改善されるとしています。
+小田急<ruby><rb>電鉄</rb><rt>でんてつ</rt></ruby>は複々線化に
+<ruby><rb>伴</rb><rt>ともな</rt></ruby>って今月１７日にダイヤを
+<ruby><rb>改正</rb><rt>かいせい</rt></ruby>し、朝のラッシュ時に
+<ruby><rb>列車</rb><rt>れっしゃ</rt></ruby>の<ruby><rb>本数</rb>ほんす
+う<rt></rt></ruby>をおよそ１．３<ruby><rb>倍</rb><rt>ばい</rt></ruby>
+に<ruby><rb>増</rb><rt>ふ</rt></ruby>やす予定で、<ruby><rb>混雑率
+</rb><rt>こんざつりつ</rt></ruby>は<ruby><rb>昨</rb><rt>さく
+</rt></ruby>年<ruby><rb>度</rb><rt>ど</rt></ruby>の１９２％から１５０
+％<ruby><rb>程度</rb><rt>ていど</rt></ruby>に<ruby><rb>改善</rb><rt>か
+いぜん</rt></ruby>されるとしています。
 
 また、快速急行を増やすことなどで新宿までの所要時間は登戸からは最大で９
 分短縮されて１８分に、町田からは最大で１２分短縮されて３７分になるとい
