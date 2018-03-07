@@ -46,9 +46,18 @@ https://www3.nhk.or.jp/news/html/20180303/k10011350251000.html
 ％<ruby><rb>程度</rb><rt>ていど</rt></ruby>に<ruby><rb>改善</rb><rt>か
 いぜん</rt></ruby>されるとしています。
 
-また、快速急行を増やすことなどで新宿までの所要時間は登戸からは最大で９
-分短縮されて１８分に、町田からは最大で１２分短縮されて３７分になるとい
+また、<ruby><rb>快速</rb><rt>かいそく</rt></ruby>急行を<ruby><rb>増
+</rb><rt>ふ</rt></ruby>やすことなどで新宿までの<ruby><rb>所要</rb><rt>
+しょよう</rt></ruby>時間は登戸からは<ruby><rb>最大</rb><rt>さいだい
+</rt></ruby>で９分<ruby><rb>短縮</rb><rt>たんしゅく</rt></ruby>されて
+１８分に、町田からは<ruby><rb>最大</rb><rt>さいだい</rt></ruby>で１２
+分<ruby><rb>短縮</rb><rt>たんしゅく</rt></ruby>されて３７分になるとい
 うことです。
 
-小田急電鉄の星野晃司社長は「３０年かかった大工事がやっと終わり感慨深い。
-快適でスピーディーな小田原線を利用してもらいたい」と話していました。
+小田急<ruby><rb>電鉄</rb><rt>でんてつ</rt></ruby>の<ruby><rb>星野
+</rb><rt>ほしの</rt></ruby><ruby><rb>晃司</rb><rt>こうじ
+</rt></ruby><ruby><rb>社長</rb><rt>しゃちょう</rt></ruby>は「３０年か
+かった<ruby><rb>大工事</rb><rt>だいこうじ</rt></ruby>がやっと終わり
+<ruby><rb>感慨深</rb><rt>かんがいぶかい</rt></ruby>い。<ruby><rb>快適
+</rb><rt>かいてき</rt></ruby>でスピーディーな小田原線を<ruby><rb>利用
+</rb>りよう<rt></rt></ruby>してもらいたい」と話していました。
