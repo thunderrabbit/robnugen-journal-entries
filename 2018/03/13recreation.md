@@ -42,8 +42,7 @@ and petting Radar and that began to let me focus on the forward moving
 I recognized that by focusing on fear (and pulling in to myself) I
 went further into the reverse timeline where everything was my fault,
 all leading to the ultimate stuck alone in hell experience, repeatedly
-experiencing all my choices are wrong and I cannot make the correct
-choice.
+experiencing all-my-choices-are-wrong and I-cannot-make-the-correct-choice.
 
 So with that realization, I got my first experiencial *knowing*:
 
@@ -109,7 +108,8 @@ as I write the in Portland time...  and as I try to figure out what to
 write I still wrote the wrong geography for a second. )))
 
 ((( me now at 10:19am Portland time: at some point while I was texting
-Jimmy, I had the second big realization+knowing, that feelings are important.
+Jimmy, I had the second big realization+knowing, that feelings are
+important. )))
 
 ### feelings are important
 
@@ -125,12 +125,10 @@ At the long text I wrote two timestamps:
 
 1:14 and 1;17
 
-I felt it coming on ((((
+I felt it coming on (
 Those timestamps, I mean, were accurate at the moment I wrote each
 one.
-
-
-)))) I felt the cold before because I had been outside helping my
+) I felt the cold before because I had been outside helping my
 (ghost) haha I typed host and my phone thought typed ghost
 
 I had be outside helping my host with s can construction project when
