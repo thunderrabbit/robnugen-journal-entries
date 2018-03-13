@@ -206,3 +206,7 @@ stacking up on each other like momentum of goodness.
 Okay I am going to try to sleep for a bit.  Still a bit more than an
 hour until boarding.
 
+## 16:04 Tuesday 13 March 2018 JST
+
+Back in Tokyo, headed to men's group, all the time dialation effects
+are worn off.
