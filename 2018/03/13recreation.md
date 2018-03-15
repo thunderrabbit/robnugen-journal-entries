@@ -35,7 +35,7 @@ in a number line.
     0  0.001 0.002 0.003
     0  0.0000000...
 
-I was able to get out of that hell by focusing on Radar, Wally's dog,
+I was able to get out of that hell by focusing on Radar, my host's dog,
 and petting Radar and that began to let me focus on the forward moving
 "correct" timeline.
 
