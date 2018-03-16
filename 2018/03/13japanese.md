@@ -15,7 +15,7 @@ entire time.  I spoke Japanese with some people who had lived in
 Japan.
 
 びっくりしたけど、リチャードゲージさん会いました。彼はインターネットで
-何回か見て知ていた。ちょー嬉しかった！
+何回か見て知っていた。ちょー嬉しかった！
 
 Surprisngly, I met Richard Gage who I knew from videos online. Really
 happy to meet him!
