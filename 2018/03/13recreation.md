@@ -18,11 +18,24 @@ Portland, waiting for my flight back to Narita.
 
 The most interesting aspect about the experience itself was the time
 stretching.  For a few chrono minutes, I experienced one timeline in
-reverse and another forward.  That was the bad part of trip; I was
-experiencing each choice I made as the *wrong* choice, and they went
-all the way back to the beginning of the universe in which I created
-heaven and hell *so that* I could have the experience of saying "yes,
-you were right" to the devil, "you (Devil) *can* do anything you want, and
+reverse and another forward.  In the reverse timeline, it was like
+causality was reversed.  I got out an umbrella so it started raining.
+I had created the ampersand symbol so that I could try to &amp;help
+myself out of this situation now. But that doesn't make sense because
+if I did that, then I would have had to create computers, which would
+mean I had to create electricity, therefore earth, therefore the
+galaxy, all the way back to creating time.
+
+I That was the bad part of trip; I was experiencing each choice I made
+as the *wrong* choice, leading myself to having fallen into this
+infinitely recursive spiraling infinity of loss, which happened at
+every moment going forward, during which each moment had me
+experiencing fear all the way from the beginning of time like watching
+a car wreck in slow motion after having already lived it.  Each time
+they went all the way back to the beginning of the universe in which I
+created heaven and hell *so that* I could have the experience right
+*now* of saying "yes, you were right" to the devil, "you (Devil) *can*
+do anything you want (including run time two directions at one), and
 hell *is* real."
 
 The backwards timeline was both infinite and infinitesimal, with
@@ -31,26 +44,35 @@ in a number line.
 
     0  1
     0  0.5   1
-    0  0.1 0.2 0.3 0.4
-    0  0.001 0.002 0.003
-    0  0.0000000...
+    0  0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1
+    0  0.001 0.002 0.003 0.004 0.005 0.006 0.007 0.008 0.009 1
+    0  0.000001 0.000002 0.000003 0.000004 0.000005 0.000006 ...
 
-I was able to get out of that hell by focusing on Radar, my host's dog,
-and petting Radar and that began to let me focus on the forward moving
+My host became the devil and was smiling at me as he had trapped me.
+Every decision I made including having come to this place was a trap
+of his design.  I realized if every choice I made was the wrong
+choice, I might as well do something good for something while I am at
+it, so I started to pet Radar, my host's dog who gave me some kisses.
+I kept petting Radar and the backwards timeline had less sway in my
+thinking and that began to let me focus on the forward moving
 "correct" timeline.
 
-I recognized that by focusing on fear (and pulling in to myself) I
-went further into the reverse timeline where everything was my fault,
-all leading to the ultimate stuck alone in hell experience, repeatedly
-experiencing all-my-choices-are-wrong and I-cannot-make-the-correct-choice.
+In that moment, I recognized that by focusing on fear (and feeling
+sorry for myself) I went further into the reverse timeline where
+everything was my fault, all leading to the ultimate stuck alone in
+hell experience, repeatedly experiencing all-my-choices-are-wrong and
+I-cannot-make-the-correct-choice.
 
 So with that realization, I got my first experiencial *knowing*:
 
 ### 1) focusing on loving others brings me out of pain.
 
-As I focused on loving others, I wrote to Jimmy, replying to his
-question from a few days ago.  The convo below is paraphrased.  J is
-for Jimmy and 私 marks things I wrote:
+My host led me to the guest bedroom by way of the restroom to brush my
+teeth.  I was able to floss, but not brush.  I remember asking if I
+had already brushed as I couldn't remember if I had.  I lay down on
+the couch bed and started texting Jimmy, replying to his question from
+a few days ago.  The convo below is paraphrased.  J is for Jimmy and
+私 marks things I wrote:
 
 ## March 8th
 
