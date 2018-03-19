@@ -22,7 +22,7 @@ wrangle it.
 In waking reality, I stopped to let the glue dry after I placed the
 medium/small marble splitter track (the track which will have the
 medium sized marble veer to the left while small marbles continue
-forward.
+forward).
 
 [![2018 mar 18 small curvy track](//b.robnugen.com/art/marble_track_3/construction/2018/thumbs/2018_mar_18_small_curvy_track.jpg)](//b.robnugen.com/art/marble_track_3/construction/2018/2018_mar_18_small_curvy_track.jpg)
 [![2018 mar 18 top view of split](//b.robnugen.com/art/marble_track_3/construction/2018/thumbs/2018_mar_18_top_view_of_split.jpg)](//b.robnugen.com/art/marble_track_3/construction/2018/2018_mar_18_top_view_of_split.jpg)
