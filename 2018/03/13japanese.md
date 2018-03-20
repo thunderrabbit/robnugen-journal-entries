@@ -25,5 +25,4 @@ happy to meet him!
 しき</rt></ruby>の<ruby><rb>設立者</rb><rt>せつりつしゃ</rt></ruby>で
 す。
 
-
-He is the founder of Architects and Engineers for 9/11 Truth.
+He is the founder of Architects and Engineers for 9&#47;11 Truth.

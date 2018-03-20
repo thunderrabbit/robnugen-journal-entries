@@ -99,7 +99,7 @@ It's 22:25 and that took a small lifetime
 私: Okay I got up and went to the bathroom. 01:14 now. Then I came back
 and took shower. I bought the soap from the soap factory I had
 established in the 1800s to cause world trade center to be destroyed
-so I could meet the guy behind a&mp;e911truth. Then I got busy with the
+so I could meet the guy behind A&#38;E9&#47;11truth. Then I got busy with the
 American revolution before the one that started in 1776. And now I am
 sitting in the bathroom at 01:17
 
