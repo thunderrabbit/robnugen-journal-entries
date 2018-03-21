@@ -61,3 +61,8 @@ date: 2018-03-20T11:46:41+09:00
     I will stick it in my navel.
 	このガームを続けたいのでご飯食べ間に
 	へいそにガームを貼ります。
+
+## 10:43 Wednesday 21 March 2018 JST
+
+    読めにくい文をタイプしました。何回も「と思います」は「と思ます」手で書いちゃった。すみません。
+    I typed the difficult-to-read text.  Oops I wrote "I think" as "I thnk" many times.
