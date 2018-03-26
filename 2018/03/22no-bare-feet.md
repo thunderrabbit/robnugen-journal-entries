@@ -21,5 +21,4 @@ barefoot on the surface.  It feels really nice to me!  I am glad I
 walked on it before seeing the sign.  When I saw it, I was like, HA!
 They have no clue what they are talking about.
 
-
-
+[![circular green field in lazona](//b.robnugen.com/journal/2018/feet/outside/thumbs/circular_green_field_in_lazona.jpg)](//b.robnugen.com/journal/2018/feet/outside/circular_green_field_in_lazona.jpg)
