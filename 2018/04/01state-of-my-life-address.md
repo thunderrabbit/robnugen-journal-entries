@@ -60,6 +60,7 @@ date: 2018-04-01T15:25:24+09:00
 17. I got rid of my iPhone and now use a waterproof Android phone,
     (which was waterproof before any iPhones were waterproof.)
 18. running out of steam in this SOML.
-	
+19. Oh, I have been using [Complice](https://complice.co/?r=pgej30cphu) to get stuff done.  It is
+    thanks to Complice that I remembered I need to write an SOML today.
 
 
