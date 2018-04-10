@@ -15,3 +15,5 @@ and 100 caches before placing my own.  Bah.  I guess I will find a
 couple others before I place one.  But the other crummy thing is the
 place I wanted to place a cache is apparently too close to the cache I
 found.
+
+[![2018 april first geocache](//b.robnugen.com/journal/2018/thumbs/2018_april_first_geocache.jpg)](//b.robnugen.com/journal/2018/2018_april_first_geocache.jpg)
