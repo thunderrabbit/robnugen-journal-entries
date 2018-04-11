@@ -21,3 +21,8 @@ definitely not small.  Hmmm.
 So far, I only know a couple commands in Fossil and they seem longer
 than equivalent git commands, but I have not read even a, well, I have
 read a fraction of the Fossil docs, but not a lot.
+
+Goofing around with Fossil, I discovered my commit message project has
+been going for a bit over a year.
+
+[![2018 april a year plus](//b.robnugen.com/journal/2018/thumbs/2018_april_a_year_plus.png)](//b.robnugen.com/journal/2018/2018_april_a_year_plus.png)
