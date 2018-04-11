@@ -26,3 +26,11 @@ Goofing around with Fossil, I discovered my commit message project has
 been going for a bit over a year.
 
 [![2018 april a year plus](//b.robnugen.com/journal/2018/thumbs/2018_april_a_year_plus.png)](//b.robnugen.com/journal/2018/2018_april_a_year_plus.png)
+
+## 23:13 Wednesday 11 April 2018 JST
+
+Ack I can't start Fossil on ConSwi right now because I have a bunch of
+unstaged/uncommitted changes as I do open heart surgery on the project
+
+I need to go to sleep instead of trying to think about how to sort
+this out right now.
