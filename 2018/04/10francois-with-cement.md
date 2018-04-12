@@ -7,7 +7,7 @@ date: 2018-04-10T15:30:25+09:00
 
 ## 15:30 Tuesday 10 April 2018 JST
 
-うちのところで新しいアパートを作られます。　New apartments are
+うちのと近くに新しいアパートが作られます。　New apartments are
 being built near our house.
 
 今日、そこで写真を撮りました。  Today, I took pictures there.
@@ -31,7 +31,10 @@ being built near our house.
 私は生徒に違う時間にレッスンに来られた。 My students trickled in to
 class (interrupting the class each time).
 
-（私は）六本木で裸足歩いた時<ruby><rb>警察官</rb><rt>けいさつかん
+生徒は私に「コラッ」と言われました。 <ruby><rb>My students got yelled
+at by me.</rb><rt>I yelled at my students.</rt></ruby>
+
+（私は）六本木で裸足で歩いた時<ruby><rb>警察官</rb><rt>けいさつかん
 </rt></ruby>に質問をされてカバンの中を<ruby><rb>探</rb><rt>さが</rt></ruby>された。While
 walking barefoot in <ruby><rb>Roppongi</rb><rt>六本木</rt></ruby>, I was questioned by cops and they looked
 through my bag.
