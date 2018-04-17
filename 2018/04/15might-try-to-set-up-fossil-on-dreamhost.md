@@ -88,4 +88,16 @@ but
 
     git fast-export --all | fossil import --git -A tr journal.fossil
 
+I think this will help me update the fossil repo again by creating
+files to link the leaves and nodes of the two repos (or something)
+
+    fossil export --git --export-marks fossil.marks journal.fossil |    \
+        git fast-import --export-marks=git.marks
+
+And now after I `git commit` I can run this to get the latest into
+fossil (I think)
+
+    git fast-export --import-marks=git.marks  --export-marks=git.marks  \
+        --all | fossil import --git --incremental --import-marks        \
+        fossil.marks --export-marks fossil.marks journal.fossil
 
