@@ -71,4 +71,21 @@ account.)
 
 Oh cool it works!
 
-https://fossil.chatforest.com/repos/
+[https://fossil.chatforest.com/repos/](https://fossil.chatforest.com/repos/)
+
+## 09:49 Tuesday 17 April 2018 JST
+
+Okay, now I have kinda figured out a system for adding my journal git
+repo to fossil:
+
+Move to my existing git repo on local machine:
+
+    cd ~/journal
+
+[Export git into a new Fossil repo](https://fossil-scm.org/index.html/doc/trunk/www/inout.wiki)
+but
+[added -A USERNAME to specify admin user](https://fossil-scm.org/index.html/help/init)
+
+    git fast-export --all | fossil import --git -A tr journal.fossil
+
+
