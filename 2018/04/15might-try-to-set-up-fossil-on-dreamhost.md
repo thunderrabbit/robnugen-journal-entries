@@ -83,10 +83,8 @@ Move to my existing git repo on local machine:
     cd ~/journal
 
 [Export git into a new Fossil repo](https://fossil-scm.org/index.html/doc/trunk/www/inout.wiki)
-but
-[added -A USERNAME to specify admin user](https://fossil-scm.org/index.html/help/init)
 
-    git fast-export --all | fossil import --git -A tr journal.fossil
+    git fast-export --all | fossil import --git journal.fossil
 
 I think this will help me update the fossil repo again by creating
 files to link the leaves and nodes of the two repos (or something)

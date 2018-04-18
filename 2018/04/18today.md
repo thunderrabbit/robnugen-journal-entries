@@ -1,6 +1,6 @@
 ---
 title: "today"
-tags: [ "work", "lesson" ]
+tags: [ "work", "lesson", "git" ]
 author: Rob Nugen
 date: 2018-04-18T10:22:13+09:00
 ---
@@ -18,3 +18,32 @@ Halloween, Tanabata, White Day, etc.
 
 Now I am in a cafe on ground floor of Muza watching pigeons and peeps
 walk, fly, and or meander through the breezeway.
+
+## 10:43 Wednesday 18 April 2018 JST
+
+Oh dang I just realized I messed up the commit messages on the last
+few commits so I blew them away with `git push --force`.
+
+Bad:
+
+    * 30cbf1c (HEAD -> master, bitbucket/master) h
+    * 3506fbc h
+    * 3962445 .
+    * 6a436d4 .
+    * 69409ec h
+    * b961113 t
+    * 054caad t
+    * 1201bc1 p
+    * 7cfcb9a s
+    * 0cdde35 colon
+
+Good:
+
+    * 86a5a58 (HEAD -> master, bitbucket/master) uhh..
+    * 69409ec h
+    * b961113 t
+    * 054caad t
+    * 1201bc1 p
+    * 7cfcb9a s
+    * 0cdde35 colon
+
