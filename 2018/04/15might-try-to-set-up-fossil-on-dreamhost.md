@@ -101,3 +101,15 @@ fossil (I think)
         --all | fossil import --git --incremental --import-marks        \
         fossil.marks --export-marks fossil.marks journal.fossil
 
+I was then able to scp the journal.fossil file to
+[https://fossil.chatforest.com/repos/](https://fossil.chatforest.com/repos/),
+then change the password for thunderrabbit from its default.
+
+Now, how do I add the remote to my local Fossil so I can push changes
+to it?
+
+    fossil sync --ssl-identity ~/.ssh/fossil.chatforest.com ssh://USERNAME@fossil.chatforest.com/path/to/journal.fossil
+
+And set up auto synchronization
+
+    fossil set autosync
