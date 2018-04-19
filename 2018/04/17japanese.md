@@ -7,7 +7,12 @@ date: 2018-04-17T22:19:53+09:00
 
 ## 22:19 Tuesday 17 April 2018 JST
 
-ダイエットをしたいけどアイスは誘惑すぎる。 I want to diet, but ice cream is too tempting.
+ダイエットをしたいけどアイスは<ruby><rb>魅力的</rb><rt>みりょくてき</rt></ruby>すぎる。 I want to diet, but ice cream is too tempting.
+
+アイスを食べずにはいられない
+
+日本語が難しすぎて泣かずにはいられない
+
 
 ## 21:16 Thursday 19 April 2018 JST
 
