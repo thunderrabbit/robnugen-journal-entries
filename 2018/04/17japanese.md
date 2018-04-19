@@ -13,11 +13,14 @@ date: 2018-04-17T22:19:53+09:00
 
 日本語が難しすぎて泣かずにはいられない
 
+黒ヤギさんからお手紙着いた。
+シロヤギさんたら食べずにはいられなくて食べた。
+
 
 ## 21:16 Thursday 19 April 2018 JST
 
-今日なんとか下着を聞こえましたけど言葉が和さられた。  Today I heard something-underwear, but the word has slipped my mind.
+今日なんとか下着を聞きましたけど言葉を忘れた。  Today I heard something-underwear, but I forgot the word.
 
-まだ面白い日本語あまり書けられない。
+まだ面白い日本語があまり書けない。
 
-建築家が階段の会談は面白い。
+<ruby><rb>建築家</rb><rt>けんちくか</rt></ruby>の<ruby><rb>階段</rb><rt>かいだん</rt></ruby>の<ruby><rb>会談</rb><rt>かいだん</rt></ruby>は面白い。
