@@ -15,7 +15,7 @@ date: 2018-04-13T09:24:09+09:00
 
 [![placekitten800x615](//b.robnugen.com/journal/2018/placekitten800x615.jpg)](https://placekitten.com/800/615)
 
-[子猫の写真を反映する事ができるサイト](https://placekitten.com/)はプレースキッテンと言ます。 A [site which allows posting kitten pics](https://placekitten.com/) is called placekitten.
+[子猫の写真を反映する事ができるサイト](https://placekitten.com/)はプレースキッテンと言います。 A [site which allows posting kitten pics](https://placekitten.com/) is called placekitten.
 
 今日ジオキャッシュを探す時間がないので探さない。 I don't have time to look for geocaches today, so I won't find any.
 
