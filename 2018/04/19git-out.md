@@ -21,7 +21,7 @@ date: 2018-04-19T00:15:53+09:00
 * 8be74d2 w
 * afebd29 dot
 
-
+The above shows a weird thing that happened to my git repo while I was messing with Fossil.  The commit 6086901 is the first, and the commit 354c77e is the last, but it was shown right in a row.
 
 * 009ce03 (HEAD -> master, bitbucket/master)
 * 423fc12 Uh,
@@ -39,3 +39,14 @@ date: 2018-04-19T00:15:53+09:00
 * 481d694 w
 * d77032a w
 * 6dd65ea dot
+
+This is the current top of the commit. Turns out the weird append was due to two different branches having identical, but non-related histories.
+
+I `git push --force` to break it and fix it again.  Not sure if I went
+with the original history or a new one.
+
+## 00:25 Sunday 22 April 2018 JST
+
+I wrote the comments above to fix the layout of the commits.
+
+For some reason when I `fossil push` it says wrong project, and it pushes the project properly.
