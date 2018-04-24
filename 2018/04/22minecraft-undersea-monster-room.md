@@ -12,8 +12,20 @@ I decided to recreate this
 in Minecraft, but for some reason it is all dark when I view it from
 the outside.  Not sure how to make the underwater view look lighter.
 
-I did it the lazy way with a fill command, decided to expand it, and made a huge
-dark area where tons of monsters instantly spawned.
+I created the tank using a fill command, decided to expand it, and made a huge
+area...
+
+I think the command was something like this
+
+    /fill 4000 46 -5000 4050 50 -4800 glass_blocks 0 hollow
+
+Then I carpeted the area with grass using something like this
+
+    /fill 4000 46 -5000 4050 46 -4800 grass
+
+... a huge dark area  where tons of monsters instantly spawned.
+
+Oops.
 
 I filled it in with torches so *more* monsters will not spawn, but am
 leaving these here for Fred and I to kill when we come back to the
