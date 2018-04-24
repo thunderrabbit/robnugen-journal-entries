@@ -8,7 +8,7 @@ date: 2018-04-23T09:57:28+09:00
 ## 09:57 Monday 23 April 2018 JST
 
 Good lesson at IL this morning, though only two students attended.  I
-prased the students who came 35 minutes late to thank her for
+praised the student who came 35 minutes late to thank her for
 attending even though it was apparently a challenge to join.
 
 Next week's lesson is canceled due to a week of holidays, so on May
