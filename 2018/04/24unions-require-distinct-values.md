@@ -2,6 +2,7 @@
 title: "work"
 tags: [ "mysql", "work" ]
 author: Rob Nugen
+draft: true
 date: 2018-04-24T12:30:14+09:00
 ---
 
