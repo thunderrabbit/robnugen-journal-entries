@@ -14,7 +14,7 @@ she works at [Gonpachi](http://gonpachi.jp/?page_id=22),
 [aka the Kill Bill restaurant](https://thecitylane.com/tokyo-gonpachi-aka-kill-bill-restaurant/).
 She invited me to come by, so I did around 1:45pm.
 
-[![gonpachi 2 april 2018](//b.robnugen.com/journal/2018/thumbs/gonpachi_2_april_2018.jpg)](//b.robnugen.com/journal/2018/gonpachi_2_april_2018.jpg)
+[![gonpachi 2 April 2018](//b.robnugen.com/journal/2018/thumbs/gonpachi_2_april_2018.jpg)](//b.robnugen.com/journal/2018/gonpachi_2_april_2018.jpg)
 
 She must have been busy or the message did not get to her, but no
 Nono.  I left her a note; I hope that gets to her.  I forgot to draw a

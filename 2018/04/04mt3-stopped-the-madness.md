@@ -17,7 +17,7 @@ I did not exactly predict the current situation; I just knew the
 chopstick poking off the edge of the track should do something.  It
 ended up knocking over a bridge, which knocked the switch into fast
 mode which caused some havoc including Candy Cane Mom and Green Cutter
-to lean toward the center of the stage to offset centrifigual force
+to lean toward the center of the stage to offset centrifugal force
 due to the rotational velocity.  (I think my terms are correct here).
 
 Once the stage was stopped, they fell on their faces, and the large
