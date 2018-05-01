@@ -58,3 +58,5 @@ After that, I realized the article I had found and the article Yuri
 had found were different.
 
 [![early 2016 japanese practice 2](//b.robnugen.com/learnin/japanese/2016/thumbs/early_2016_japanese_practice_2.jpg)](//b.robnugen.com/learnin/japanese/2016/early_2016_japanese_practice_2.jpg)
+
+{{< youtube Vvs3sKYYh5k >}}
