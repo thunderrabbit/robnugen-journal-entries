@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-05-01T08:45:33+09:00
 ---
 
-## 08:45 Tuesday 01 May 2018 JST
+## early 2016
 
 今日品川で英語の従業を四つ教えた。
 
