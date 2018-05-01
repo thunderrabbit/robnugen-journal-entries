@@ -41,3 +41,8 @@ date: 2018-05-01T15:50:57+09:00
     and whatever it's called when writin' an apostrophe instead of a
     g.
 32. 5pm.  Gotta start going to Tokyo Men's Circle.
+33. 22:40pm  Great circle tonight, with one new man joining (out of 3 who said they would, and 3 others who said they might).
+34. I've been doing pushups and planks on a semi-regular basis.
+34. After reading [Habits by James Clear](https://jamesclear.com/habits), I have some new ideas about how to build new habits. The cycle of habit forming is interesting, but the habits based on personality is even more interesting.  Instead of "I won't buy junk food," try "I am a person who eats healthily"
+35. Lin and I are scheduled to go do something tomorrow; I wonder what we will end up doing.
+36. I wonder if gravity is part of electromagnetism.  Magnets attract over distance; gravity attracts over distance.  Electromagnetic radiation and gravity both propogate at the same speed.  Hmmm.
