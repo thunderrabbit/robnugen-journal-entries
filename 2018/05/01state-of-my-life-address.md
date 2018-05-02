@@ -46,3 +46,4 @@ date: 2018-05-01T15:50:57+09:00
 34. After reading [Habits by James Clear](https://jamesclear.com/habits), I have some new ideas about how to build new habits. The cycle of habit forming is interesting, but the habits based on personality is even more interesting.  Instead of "I won't buy junk food," try "I am a person who eats healthily"
 35. Lin and I are scheduled to go do something tomorrow; I wonder what we will end up doing.
 36. I wonder if gravity is part of electromagnetism.  Magnets attract over distance; gravity attracts over distance.  Electromagnetic radiation and gravity both propogate at the same speed.  Hmmm.
+37. (next day)  I just spent 49 minutes redoing a single piece on Marble Track 3, and am really happy with the result.
