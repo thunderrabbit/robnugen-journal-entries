@@ -27,13 +27,28 @@ Okay first things first: I will
 But first first I will finish this entry.
 
 After being unimpressed with the パン祭り, we walked a long way home
-to look for some geocaches.  Went by two and got really really close
-to the area but were unable to find them.  The first one had been
-found recently.
+to look for some geocaches.
+
+But first we had lunch in a park.
+
+[![2018 may 03 Francois in park](//b.robnugen.com/journal/2018/babychan/thumbs/2018_may_03_Francois_in_park.jpg)](//b.robnugen.com/journal/2018/babychan/2018_may_03_Francois_in_park.jpg)
+
+[![2018 may 03 babychan in park](//b.robnugen.com/journal/2018/babychan/thumbs/2018_may_03_babychan_in_park.jpg)](//b.robnugen.com/journal/2018/babychan/2018_may_03_babychan_in_park.jpg)
+[![2018 may 03 Rob in park](//b.robnugen.com/journal/2018/babychan/thumbs/2018_may_03_Rob_in_park.jpg)](//b.robnugen.com/journal/2018/babychan/2018_may_03_Rob_in_park.jpg)
+
+After lunch and sending some MarcoPolos to Karina, we went looking for
+geocaches.  We got really really close to two of them but were unable
+to find them.  The first one had been found recently.
 
 [3 May 2018, DNF](https://www.geocaching.com/seek/log.aspx?LUID=d7c480f8-2b70-4b70-b433-9bed6ccd05c2) [Crane Tortoise Pine](https://coord.info/GC2KDQJ)
 
-DNF [Mujinagaike park](https://coord.info/GC2KDWJ), but did not log it
+I also DNF [Mujinagaike park](https://coord.info/GC2KDWJ), but did not log it
 because I didn't look allll that very long.  I did find a turtle,
 though.  I couldn't determine if the turtle was alive without
 disturbing it, so I left it alone.
+
+On the way home, Lin's sandals were chafing her feet so she went
+barefoot for a bit.  Maybe 45 seconds until she stepped on a tiny
+little rock.
+
+[![2018 may 03 Lin barefooting](//b.robnugen.com/journal/2018/babychan/thumbs/2018_may_03_Lin_barefooting.jpg)](//b.robnugen.com/journal/2018/babychan/2018_may_03_Lin_barefooting.jpg)
