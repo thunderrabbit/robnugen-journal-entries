@@ -51,4 +51,8 @@ On the way home, Lin's sandals were chafing her feet so she went
 barefoot for a bit.  Maybe 45 seconds until she stepped on a tiny
 little rock.
 
+[![2018 may 03 lin barefoot 0239](//b.robnugen.com/journal/2018/babychan/thumbs/2018_may_03_lin_barefoot_0239.jpg)](//b.robnugen.com/journal/2018/babychan/2018_may_03_lin_barefoot_0239.jpg)
+[![2018 may 03 lin barefoot 0238](//b.robnugen.com/journal/2018/babychan/thumbs/2018_may_03_lin_barefoot_0238.jpg)](//b.robnugen.com/journal/2018/babychan/2018_may_03_lin_barefoot_0238.jpg)
+[![2018 may 03 lin barefoot 0240](//b.robnugen.com/journal/2018/babychan/thumbs/2018_may_03_lin_barefoot_0240.jpg)](//b.robnugen.com/journal/2018/babychan/2018_may_03_lin_barefoot_0240.jpg)
+[![2018 may 03 lin barefoot 0241](//b.robnugen.com/journal/2018/babychan/thumbs/2018_may_03_lin_barefoot_0241.jpg)](//b.robnugen.com/journal/2018/babychan/2018_may_03_lin_barefoot_0241.jpg)
 [![2018 may 03 Lin barefooting](//b.robnugen.com/journal/2018/babychan/thumbs/2018_may_03_Lin_barefooting.jpg)](//b.robnugen.com/journal/2018/babychan/2018_may_03_Lin_barefooting.jpg)
