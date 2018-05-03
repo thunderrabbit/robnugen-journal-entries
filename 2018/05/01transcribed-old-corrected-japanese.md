@@ -49,7 +49,7 @@ Soon I will be on a TV show called "Whatcha Doin in Japan", but I do not know wh
 
 覚えるために記事の文書を黒ヤギ郵便の歌で歌った。
 
-その後問題に気づいた、ゆり先生が見つけった記事と私が見つけった記事は違ってた。
+その後問題に気づいた、ゆり先生が見つけた記事と私が見つけた記事は違ってた。
 
 For homework, on mcha.jp, I searched for "Meiji Era" and found an
 article.
