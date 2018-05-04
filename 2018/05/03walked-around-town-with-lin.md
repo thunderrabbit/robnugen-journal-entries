@@ -56,3 +56,7 @@ little rock.
 [![2018 may 03 lin barefoot 0240](//b.robnugen.com/journal/2018/babychan/thumbs/2018_may_03_lin_barefoot_0240.jpg)](//b.robnugen.com/journal/2018/babychan/2018_may_03_lin_barefoot_0240.jpg)
 [![2018 may 03 lin barefoot 0241](//b.robnugen.com/journal/2018/babychan/thumbs/2018_may_03_lin_barefoot_0241.jpg)](//b.robnugen.com/journal/2018/babychan/2018_may_03_lin_barefoot_0241.jpg)
 [![2018 may 03 Lin barefooting](//b.robnugen.com/journal/2018/babychan/thumbs/2018_may_03_Lin_barefooting.jpg)](//b.robnugen.com/journal/2018/babychan/2018_may_03_Lin_barefooting.jpg)
+
+## 13:14 Friday 04 May 2018 JST
+
+Turns out the first cache was missing.  [Turbo-7 replaced it this morning](https://www.geocaching.com/seek/log.aspx?LUID=495be967-d9af-46df-ad40-562ac001d4fa).
