@@ -19,3 +19,5 @@ Oh, and I went to SOGO this morning.  Raisu was back, now living in
 Japan so will attend more often.  Kay had to bounce early and Thanuja
 was not there at all, but Oliver came!  Yay!  Had not seen him in over
 a year.
+
+Oh, and I spent a good bit of time working on ConSwi.
