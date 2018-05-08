@@ -25,3 +25,11 @@ real mvp, etc.  Then my seat went impossibly outside a column, which freaked me 
 then my seat went outside into the larger park where Lin was there walking around
 as she had already noped off the ride. I learned how to drive it
 around the park so we rode together for a bit. until I woke up.</p>
+
+遊園地で弟と妻と円形の乗り物に乗って　At an amusement park, my little brother, wife, and I were on a ride.
+
+乗り物の部屋が小さすぎて怖かった。  The room was too small for the ride so it was scary.
+
+右往左往ぽいで回り回って鉾の人と挨拶した。　As we spun around, I greeted other riders.
+
+妻がお最近に下りて部屋の外であった。　My wife got off first, and I saw her outside the rooom.
