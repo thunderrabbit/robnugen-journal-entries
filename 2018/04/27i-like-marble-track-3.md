@@ -15,7 +15,7 @@ Southpark, and the brothers' fight is meant to look like a cartoon
 dust cloud with random feet and other extremities poking out of the
 cloud as it hovers in mid air.
 
-I the the fight will continue for a while, but I am not sure if I can
+I think the fight will continue for a while, but I am not sure if I can
 do anything interesting with it, nor how to end it.
 
 But, I like the video as it stands for now and am looking forward to

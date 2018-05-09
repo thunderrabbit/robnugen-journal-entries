@@ -1,6 +1,6 @@
 ---
 title: "mt3: moving chopstick"
-tags: [ "mt3", "video" ]
+tags: [ "mt3", "video", "日本語" ]
 author: Rob Nugen
 date: 2018-04-17T13:53:29+09:00
 ---

@@ -20,4 +20,5 @@ from last week attended again and had great insights on the problem I
 presented to the circle.
 
 I read several pages of Planet on Purpose, which inspired me to be a
-more transparent leader in the circle.
+more transparent leader in the circle, specifically, admitting when I
+wasn't able to complete a task I had set for myself.
