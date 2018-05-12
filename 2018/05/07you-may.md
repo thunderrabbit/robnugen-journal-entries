@@ -7,7 +7,7 @@ date: 2018-05-07T05:01:18+09:00
 
 ## 05:01 Monday 07 May 2018 JST
 
-今朝４時ごろ長く見て夢が終わった。 This morning I had a long dream which finished at 4am.
+今朝４時ごろ長く見ていた夢が終わった。 This morning I had a long dream which finished at 4am.
 
 今朝長く夢を見て４時ごろ起きた。 This morning I woke up from a long dream at 4am.
 
@@ -26,10 +26,10 @@ then my seat went outside into the larger park where Lin was there walking aroun
 as she had already noped off the ride. I learned how to drive it
 around the park so we rode together for a bit. until I woke up.</p>
 
-遊園地で弟と妻と円形の乗り物に乗って　At an amusement park, my little brother, wife, and I were on a ride.
+遊園地で弟と妻と円形の乗り物に乗った。　At an amusement park, my little brother, wife, and I were on a circular ride.
 
 乗り物の部屋が小さすぎて怖かった。  The room was too small for the ride so it was scary.
 
-右往左往ぽいで回り回って鉾の人と挨拶した。　As we spun around, I greeted other riders.
+右往左往っぽく回り回って他の人と挨拶した。　As we spun around, I greeted other riders.
 
-妻がお最近に下りて部屋の外であった。　My wife got off first, and I saw her outside the rooom.
+妻が近に降りて部屋の外で会った。　My wife got off first, and I saw her outside the rooom.

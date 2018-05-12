@@ -14,11 +14,11 @@ fighting the big brother; the manager has just placed a little
 toothpick rail on the small marble track that meanders down from the
 ball splitter.
 
-今日５６分くらいだけMT3を作られて、ボンドが乾いたの待ちました。I worked on MT3 for just 56 minutes before waiting for glue to dry.
+今日５６分くらいだけMT3を作って、ボンドが乾くのを待ちました。I worked on MT3 for just 56 minutes before waiting for glue to dry.
 
 二人が大きいビー玉をステージに上げました。Two characters lifted the big marble onto the stage.
 
-弟はまたステージの上登って、お兄と <ruby><rb>健康</rb><rt>けんこう</rt></ruby>します。The little brother is back on the stage to fight the big brother.
+弟はまたステージの上に登って、兄と喧嘩を始めた。 <ruby><rb>健康</rb><rt>けんこう</rt></ruby>します。The little brother is back on the stage to fight the big brother.
 
 {{< youtube -rtNIse3mqo >}}
 

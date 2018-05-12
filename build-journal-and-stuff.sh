@@ -28,4 +28,5 @@ echo "pushing"
 git push --force origin master
 
 cd ~/journal
-./g2f.sh
+echo skipping ./g2f.sh
+echo because it needs the password which I do not have handy

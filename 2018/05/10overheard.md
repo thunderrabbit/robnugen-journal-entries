@@ -22,7 +22,7 @@ A: そうだったんですね！
 今日手首が痛いからパソコンを使いすぎかなと思う。 My wrist hurts today
 so I wonder if I have been computering too much.
 
-今猫がlapに寝るから動けないから日本語を書きましょう。 My cat is on my
+今猫が膝の上に寝てるから動けないから日本語を書きましょう。 My cat is on my
 lap so I cannot move.
 
-MT３を作りはずした。  I was supposed to be working on MT3.
+MT３を作るはずでした。  I was supposed to be working on MT3.

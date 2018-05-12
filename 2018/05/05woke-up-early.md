@@ -7,14 +7,14 @@ date: 2018-05-05T05:43:28+09:00
 
 ## 05:43 Saturday 05 May 2018 JST
 
-今朝５時に起きて、お姉さんカリナのマーコポーロを見ました。 I
+今朝５時に起きて、カリナお姉さんからもらったマルコポーロを見ました。 I
 woke up at 5am and watched the Marco Polo I received from my big
 sister Karina.
 
-実は友達ですけど漁師いんが結婚しまして、兄弟になりました。 Actually
+実は友達ですけど両親が結婚しまして、兄弟になりました。 Actually
 she was my friend but our parents got married so she became a sibling.
 
-「しょうがない」のスペールを聞きました。 She asked me how to spell
+「しょうがない」のスペルを聞きました。 She asked me how to spell
 shoganai.
 
 [https://hinative.com/ja/questions/745569](https://hinative.com/ja/questions/745569)
