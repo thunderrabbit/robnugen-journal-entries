@@ -13,3 +13,5 @@ now.
 
 I went to the clinic and the doctor took x-rays and said there is some
 calcification on the bones in my wrist.  Here are some pictures.
+
+((( oops got sidetracked )))
