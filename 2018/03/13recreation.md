@@ -232,3 +232,13 @@ hour until boarding.
 
 Back in Tokyo, headed to men's group, all the time dialation effects
 are worn off.
+
+## 16:46 Sunday 13 May 2018 JST
+
+I just found this, which kinda describes it perfectly
+
+https://imgur.com/gallery/241rVp7
+
+backup: https://b.robnugen.com/funny/reddit/back_in_time_again.mp4
+
+sauce: https://www.youtube.com/watch?v=8I3zWYa7l1I
