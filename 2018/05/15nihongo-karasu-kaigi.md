@@ -14,7 +14,7 @@ this morning.
 trash collection area, eggshells, noodles, etc were pulled out of a
 hole in a trashbag.
 
-火曜日時間があるから掃除しました。I have time on Tuesdays so I helped
+火曜日時間があるから掃除しました。I have time on Tuesdays so I started to
 clean it up.
 
 隣人一人が掃除してくれた。　A neighbor helped clean it up.
