@@ -35,3 +35,11 @@ people.
 
 He gave me some exercises to help strengthen the joint and kind of
 get it back into the right position.
+
+## 2018 May 15
+
+Yuji wrote about my wrist!
+
+[手首の痛みをハンバーガーを食べながら治す](https://ameblo.jp/shonanphysio/entry-12375468009.html)
+
+[手首の痛み 其の弐](https://ameblo.jp/shonanphysio/entry-12376096616.html)
