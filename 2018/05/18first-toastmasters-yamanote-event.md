@@ -13,4 +13,3 @@ included lots of mini-presentations and presentations about
 presentations and an overview presentation of the evening of
 presentations.
 
-Thanks to P who gave all her presentations in English.  :-)

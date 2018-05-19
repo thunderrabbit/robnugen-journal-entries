@@ -19,4 +19,8 @@ if that's true, but we had a good time talking to him.
 美佳さんと佳依さんと日本語でも英語でも喋りました。I spoke in Japanese
 and English with Kai and Mika.
 
+戸からピンポン音はピッザヂリベリかたが来た。みんながびっくりした。笑
+Everyone was surprised when we heard a knock at the door; it was a
+pizza delivery guy. haha
+
 佳依さんと同じ電車で帰りましたけど彼女が先に降りました。Kai and I took the same train home, but she got off first.
