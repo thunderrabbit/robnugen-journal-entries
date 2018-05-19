@@ -11,9 +11,9 @@ date: 2018-05-13T11:25:21+09:00
 
 [![2018 may Japanese signs 0281](//b.robnugen.com/learnin/japanese/2018/thumbs/2018_may_Japanese_signs_0281.jpg)](//b.robnugen.com/learnin/japanese/2018/2018_may_Japanese_signs_0281.jpg)
 
-https://www.reddit.com/r/picrequests/で<ruby><rb>はんえ
-</rb><rt>wait, what?</rt></ruby>して、
-[/u/-Dolomite-](https://www.reddit.com/user/-Dolomite-)さん直してくれた。
+https://www.reddit.com/r/picrequests/で<ruby><rb>反映
+</rb><rt>はんえい</rt></ruby>して、
+[/u/-Dolomite-](https://www.reddit.com/user/-Dolomite-)さんが直してくれた。
 　Thanks to [/u/-Dolomite-](https://www.reddit.com/user/-Dolomite-) for
 straightening the image!
 
@@ -23,10 +23,10 @@ Thanks to [jisho.org radical search](https://jisho.org/#radical), I was able to 
 
 So here is a transcription of the sign:
 
-    防犯上の理由より
+    <ruby><rb>防犯上</rb><rt>ぼうはんじょう</rt></ruby>の理由により
     ０時３０分〜６時３０分までの間
-    イートインスペースの使用は
-    中断させていただきます
+    イートインスペースの<ruby><rb>使用</rb><rt>しよう</rt></ruby>は
+    中<ruby><rb>断</rb><rt>だん</rt></ruby>させていただきます
 
 And my translation:
 
