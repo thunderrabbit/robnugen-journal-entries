@@ -66,3 +66,6 @@ date: 2018-03-20T11:46:41+09:00
 
     読めにくい文をタイプしました。何回も「と思います」は「と思ます」手で書いちゃった。すみません。
     I typed the difficult-to-read text.  Oops I wrote "I think" as "I thnk" many times.
+
+    従業の間みてくれてありがとうございます。
+    Thank you for checking between lessons!
