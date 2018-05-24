@@ -10,7 +10,7 @@ date: 2018-05-22T10:33:10+09:00
 先日勉強した言葉を使いたいけど突然エネルギーがなくなった。 I wanted to
 use my new vocab, but I suddenly have no energy.
 
-日本語を考えと突然なんか食べたい。 When I think in Japanese, I suddenly
+日本語で考えると突然なんかを食べたくなる。 When I think in Japanese, I suddenly
 want to eat something.
 
-あっ、文書突然やめた。 Oh, the sentences suddenly stopped.
+あっ、文章が突然なくなた。 Oh, the sentences suddenly stopped.
