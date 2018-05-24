@@ -17,4 +17,4 @@ morning I had 35 minutes so I figured I'd write something, and started
 an article called "quickly"
 
 「hayaku」を読んで「俳句」を思い出して、俳句を書きました。I saw the
-word "haiyaku" and thought of the word "haiku" so I wrote a haiku.
+word "hayaku" and thought of the word "haiku" so I wrote a haiku.

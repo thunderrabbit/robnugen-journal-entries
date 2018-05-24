@@ -13,4 +13,4 @@ use my new vocab, but I suddenly have no energy.
 日本語で考えると突然なんかを食べたくなる。 When I think in Japanese, I suddenly
 want to eat something.
 
-あっ、文章が突然なくなた。 Oh, the sentences suddenly stopped.
+あっ、文章が突然なくなった。 Oh, the sentences suddenly stopped.
