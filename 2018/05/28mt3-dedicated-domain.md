@@ -44,4 +44,3 @@ date: 2018-05-28T15:58:32+09:00
     
     love and light
     - Rob
-    
