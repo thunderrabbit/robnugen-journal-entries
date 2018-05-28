@@ -1,6 +1,6 @@
 ---
 title: "mt3 dedicated domain"
-tags: [ "mt3", "site", "email" ]
+tags: [ "mt3", "site", "email", "nathan" ]
 author: Rob Nugen
 date: 2018-05-09T11:57:48+09:00
 ---
@@ -55,3 +55,7 @@ date: 2018-05-09T11:57:48+09:00
 ## 21:35 Sunday 13 May 2018 JST
 
 no reply yet
+
+## 15:56 Monday 28 May 2018 JST
+
+Still none.  I wrote to Jackie.
