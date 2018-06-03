@@ -15,3 +15,21 @@ My student Misato attended and joined our little outing to find a
 I napped for 30 minutes in the tent that went largely unused.
 
 12 or so peeps in attendance; cozy and fun!
+
+[![2018 May 20 JB bbq IMG 0929](//b.robnugen.com/work/JB/parties/may_2018_bbq/thumbs/2018_May_20_JB_bbq_IMG_0929.jpg)](//b.robnugen.com/work/JB/parties/may_2018_bbq/2018_May_20_JB_bbq_IMG_0929.jpg)
+[![2018 May 20 JB bbq IMG 0927](//b.robnugen.com/work/JB/parties/may_2018_bbq/thumbs/2018_May_20_JB_bbq_IMG_0927.jpg)](//b.robnugen.com/work/JB/parties/may_2018_bbq/2018_May_20_JB_bbq_IMG_0927.jpg)
+[![2018 May 20 JB bbq IMG 0932](//b.robnugen.com/work/JB/parties/may_2018_bbq/thumbs/2018_May_20_JB_bbq_IMG_0932.jpg)](//b.robnugen.com/work/JB/parties/may_2018_bbq/2018_May_20_JB_bbq_IMG_0932.jpg)
+[![2018 May 20 JB bbq IMG 0933](//b.robnugen.com/work/JB/parties/may_2018_bbq/thumbs/2018_May_20_JB_bbq_IMG_0933.jpg)](//b.robnugen.com/work/JB/parties/may_2018_bbq/2018_May_20_JB_bbq_IMG_0933.jpg)
+[![2018 May 20 JB bbq IMG 0934](//b.robnugen.com/work/JB/parties/may_2018_bbq/thumbs/2018_May_20_JB_bbq_IMG_0934.jpg)](//b.robnugen.com/work/JB/parties/may_2018_bbq/2018_May_20_JB_bbq_IMG_0934.jpg)
+[![2018 May 20 JB bbq IMG 0935](//b.robnugen.com/work/JB/parties/may_2018_bbq/thumbs/2018_May_20_JB_bbq_IMG_0935.jpg)](//b.robnugen.com/work/JB/parties/may_2018_bbq/2018_May_20_JB_bbq_IMG_0935.jpg)
+[![2018 May 20 JB bbq IMG 0936](//b.robnugen.com/work/JB/parties/may_2018_bbq/thumbs/2018_May_20_JB_bbq_IMG_0936.jpg)](//b.robnugen.com/work/JB/parties/may_2018_bbq/2018_May_20_JB_bbq_IMG_0936.jpg)
+[![2018 May 20 JB bbq IMG 0937](//b.robnugen.com/work/JB/parties/may_2018_bbq/thumbs/2018_May_20_JB_bbq_IMG_0937.jpg)](//b.robnugen.com/work/JB/parties/may_2018_bbq/2018_May_20_JB_bbq_IMG_0937.jpg)
+[![2018 May 20 JB bbq 41463777765](//b.robnugen.com/work/JB/parties/may_2018_bbq/thumbs/2018_May_20_JB_bbq_41463777765.jpg)](//b.robnugen.com/work/JB/parties/may_2018_bbq/2018_May_20_JB_bbq_41463777765.jpg)
+[![2018 May 20 JB bbq 41463775325](//b.robnugen.com/work/JB/parties/may_2018_bbq/thumbs/2018_May_20_JB_bbq_41463775325.jpg)](//b.robnugen.com/work/JB/parties/may_2018_bbq/2018_May_20_JB_bbq_41463775325.jpg)
+[![2018 May 20 JB bbq 41463779165](//b.robnugen.com/work/JB/parties/may_2018_bbq/thumbs/2018_May_20_JB_bbq_41463779165.jpg)](//b.robnugen.com/work/JB/parties/may_2018_bbq/2018_May_20_JB_bbq_41463779165.jpg)
+[![2018 May 20 JB bbq 1527847558141](//b.robnugen.com/work/JB/parties/may_2018_bbq/thumbs/2018_May_20_JB_bbq_1527847558141.jpg)](//b.robnugen.com/work/JB/parties/may_2018_bbq/2018_May_20_JB_bbq_1527847558141.jpg)
+[![2018 May 20 JB bbq 1527847532642](//b.robnugen.com/work/JB/parties/may_2018_bbq/thumbs/2018_May_20_JB_bbq_1527847532642.jpg)](//b.robnugen.com/work/JB/parties/may_2018_bbq/2018_May_20_JB_bbq_1527847532642.jpg)
+[![2018 May 20 JB bbq 1527847542217](//b.robnugen.com/work/JB/parties/may_2018_bbq/thumbs/2018_May_20_JB_bbq_1527847542217.jpg)](//b.robnugen.com/work/JB/parties/may_2018_bbq/2018_May_20_JB_bbq_1527847542217.jpg)
+[![2018 May 20 JB bbq 1527847551436](//b.robnugen.com/work/JB/parties/may_2018_bbq/thumbs/2018_May_20_JB_bbq_1527847551436.jpg)](//b.robnugen.com/work/JB/parties/may_2018_bbq/2018_May_20_JB_bbq_1527847551436.jpg)
+[![2018 May 20 JB bbq 1527847561350](//b.robnugen.com/work/JB/parties/may_2018_bbq/thumbs/2018_May_20_JB_bbq_1527847561350.jpg)](//b.robnugen.com/work/JB/parties/may_2018_bbq/2018_May_20_JB_bbq_1527847561350.jpg)
+[![2018 May 20 JB bbq 1527847547828](//b.robnugen.com/work/JB/parties/may_2018_bbq/thumbs/2018_May_20_JB_bbq_1527847547828.jpg)](//b.robnugen.com/work/JB/parties/may_2018_bbq/2018_May_20_JB_bbq_1527847547828.jpg)

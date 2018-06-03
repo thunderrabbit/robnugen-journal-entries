@@ -63,3 +63,10 @@ nope
 * What action can you take after watching this talk?
 
 Always remember to never forget.  (not sure)
+
+* What elements do you think make this a “quintessential” talk?
+* What’s your opinion on this talk?
+* How would you summarize this talk in a sentence?
+* Why do you think this idea was chosen as an idea worth spreading?
+* Had you seen this talk before? If so, what effect has it had on you?
+* What action can you take after watching this talk?
