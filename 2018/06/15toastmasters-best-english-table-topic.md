@@ -14,3 +14,5 @@ which I actually used as "marvel us"
 The speech topic was anything, based on an item taken from a bag.  I
 took out a piece of chocolate so did a sales pitch on it, basically
 saying how its dimensions and mass could be used a measurment units.
+
+[![best table topic 2018 june 15](//b.robnugen.com/journal/2018/thumbs/best_table_topic_2018_june_15.jpg)](//b.robnugen.com/journal/2018/best_table_topic_2018_june_15.jpg)
