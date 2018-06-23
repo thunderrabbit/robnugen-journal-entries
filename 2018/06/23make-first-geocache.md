@@ -22,12 +22,12 @@ index, and I cannot figure out how to override the Hugo index the way
 I want.
 
 <del>I plan to create a (repo with a) page for (each of) my geocache(s),
-and am working on that now.
+and am working on that now.</del>
 
-I plan for it to be available at https://robnugen.com/geocaching/xxxx
+<del>I plan for it to be available at https://robnugen.com/geocaching/xxxx
 where xxxx is the code given to me by Geocaching website once I place
-the cache.  For now, my domain is prefixed with new, so it will likely
-be at https://new.robnugen.com/geocaching/ and then the code.</del>
+the cache.</del>  For now, my domain is prefixed with new, so it will likely
+be at https://new.robnugen.com/geocaching/ and then the code.
 
 ## 00:18 Sunday 24 June 2018 JST
 
