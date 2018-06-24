@@ -10,7 +10,7 @@ date: 2018-06-24T10:17:06+09:00
 昨日、初めのジオキャッシュを作って隠した。 Yesterday I made my first
 geocache and hid it.
 
-https://geocaching.comで登録したけど、まだハンネイしていない。I
+[https://geocaching.com](https://geocaching.com)で登録したけど、まだハンネイしていない。I
 registered it on https://geocaching.com, but it hasn't been published
 yet.
 
