@@ -1,5 +1,5 @@
 ---
-title: "nihongo geocache dekita"
+title: "geocache dekita"
 tags: [ "geocaching", "first" ]
 author: Rob Nugen
 date: 2018-06-24T10:17:06+09:00
