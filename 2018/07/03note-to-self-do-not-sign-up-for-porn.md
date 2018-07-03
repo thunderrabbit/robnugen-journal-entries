@@ -63,9 +63,9 @@ Up Date : Apr 13 2018
 22:28 <font color="red">KHD-Mercy A.:</font> Regarding for the other charges. Please call our Resolution Department so they can further investigate on your concern. Their toll free number is 1-877-729-3306. Please feel free to contact them.<br><br><br>
 22:28 <font color="red">KHD-Mercy A.:</font> None sir<br>
 22:28 <font color="blue">Rob Nugen:</font> I was told the same thing last month, that everything has been taken care of.<br>
-22:28 <font color="red">KHD-Mercy A.:</font> You can also email our Resolution Department at <a href="mailto:cs@resolutiondept.com" target="_blank">cs@resolutiondept.com</a><br>
+22:28 <font color="red">KHD-Mercy A.:</font> You can also email our Resolution Department at cs@r........t.com<br>
 22:28 <font color="blue">Rob Nugen:</font> Are there any charges that were made after May 24th?<br>
-22:29 <font color="blue">Rob Nugen:</font> Do you believe emailing <a href="mailto:cs@resolutiondept.com" target="_blank">cs@resolutiondept.com</a> will be as effective as contact you via chat?<br>
+22:29 <font color="blue">Rob Nugen:</font> Do you believe emailing cs@r............t.com will be as effective as contact you via chat?<br>
 22:31 <font color="red">KHD-Mercy A.:</font> You were billed $49.95 on May 24 2018 and it's already refunded<br>
 22:31 <font color="blue">Rob Nugen:</font> Are you able to remove the charges for April as well?<br>
 22:34 <font color="red">KHD-Mercy A.:</font>  Regarding for the other charges. Please call our Resolution Department so they can further investigate on your concern. Their toll free number is 1-877-729-3306. Please feel free to contact them.<br><br><br>
