@@ -1,5 +1,5 @@
 ---
-title: "note to self: do not sign up for porn"
+title: "cancelled porn charges"
 tags: [ "porn", "credit card", "customer service" ]
 author: Rob Nugen
 date: 2018-05-29T10:43:37+09:00
