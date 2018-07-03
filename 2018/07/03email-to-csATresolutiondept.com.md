@@ -49,3 +49,16 @@ Please remove all the charges listed above and any other similar charges from my
 
 Sincerely,<br>
 Rob Nugen
+
+<div style="display:none">
+Rob Nugen,
+
+Thank you for contacting us. This is an automated response confirming the receipt of your ticket. Our team will get back to you within 24 hours.
+
+   Ticket ID: QGG-145-58382
+   Subject: Fwd: CSVentures - Live Chat on 02 July 2018
+
+Kind regards,
+
+Customer Support
+</div>
