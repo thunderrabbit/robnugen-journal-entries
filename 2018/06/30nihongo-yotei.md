@@ -12,9 +12,9 @@ a bird.
 
 やばい。   yabai
 
-鳥は行きてたしまだ飛べましたから大丈夫みたいです。  The bird seemed
+鳥は生きてたしまだ飛べましたから大丈夫みたいです。  The bird seemed
 fine and could even fly so I think he is okay.
 
-ティシャツでcoverしてゆくりで外であけました。　I covered him with a
+Tシャツで<ruby><rb>包</rb><rt>くる</rt></ruby>んでゆくり外に出しました。　I covered him with a
 T-shirt then let him outside slowly.
 
