@@ -19,7 +19,7 @@
 # set these values
 
 year=${1:-2018}
-mt3_dest_dir=~/mt3s/site/blog
+mt3_dest_dir=~/mt3/site/blog
 export mt3_dest_dir
 
 # return value is an exit status
