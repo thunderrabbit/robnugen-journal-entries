@@ -15,10 +15,12 @@
 
 # set variable values.
 # also set values inside is_mt3 and process_files.
-year=2017
-year=${1:-$year}
 
+# set these values
 
+year=${1:-2018}
+mt3_dest_dir=~/mt3s/site/blog
+export mt3_dest_dir
 
 # return value is an exit status
 is_mt3() {
@@ -28,13 +30,10 @@ is_mt3() {
   local num_lines=3
   local string="mt3"
 
-  # grep's exit code is 
+  # grep's exit code tells if we want file
   head -n$num_lines "$f" |grep "$string" >/dev/null
-  local status=$?
 
-  if [ $status == 0 ]; then return 1; fi   # yes mt3 was found
-  if [ $status == 1 ]; then return 0; fi   # no, mt3 was not found
-  return 0;                                # error code
+  return $?;                                # grep's exit code
 }
   
 
@@ -42,9 +41,6 @@ is_mt3() {
 process_file() {
   local g="$1"
    
-  # set these values 
-  local mt3_dest_dir=mt3s
-    
   if is_mt3 "$g"   # need quotes in case filename has whitespace
   then
     # crude echo command, that does NOT escape anything!
@@ -53,9 +49,10 @@ process_file() {
   fi
 }
 
+
 export -f is_mt3
 export -f process_file
-export -v mt3_dest_dir
+
 
 echo mkdir -p \"$mt3_dest_dir\"
  
