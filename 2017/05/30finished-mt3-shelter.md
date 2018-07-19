@@ -1,6 +1,6 @@
 ---
 title: finished mt3 shelter
-tags: mt3
+tags: [ "mt3" ]
 author: Rob Nugen
 date: 2017-05-30T20:46:10+09:00
 ---

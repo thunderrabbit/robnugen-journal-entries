@@ -1,6 +1,6 @@
 ---
 title: started on MT3
-tags: mt3
+tags: [ "mt3" ]
 author: Rob Nugen
 date: 2017-05-02T13:32:35+09:00
 ---

@@ -1,5 +1,5 @@
 ---
-title: mt3： Have a plan for the base
+title: "mt3： Have a plan for the base"
 tags: [ "mt3", "video" ]
 author: Rob Nugen
 date: 2017-07-04T13:00:06+09:00

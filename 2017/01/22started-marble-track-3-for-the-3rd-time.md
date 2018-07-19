@@ -1,6 +1,6 @@
 ---
 title: Started Marble Track 3 (for the 3rd(?) time)
-tags: mt3
+tags: [ "mt3" ]
 author: Rob Nugen
 date: 2017-01-22T15:59:38+09:00
 ---

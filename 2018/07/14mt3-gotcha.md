@@ -30,3 +30,20 @@ halfway into the thing on both sides.
 I was going to write the totals, but for some reason, pages 2 and 3 of
 my videos on Youtube say there are no videos.  Pages 4 and beyond are
 okay...
+
+## 13:05 Thursday 19 July 2018 JST
+
+* 2018 July 19 https://www.youtube.com/watch?v=yIzAj-Gp24o MT3: redelivered marbles     1:54
+* 2018 July 18 https://www.youtube.com/watch?v=NT-43Me_ek4 live stream 1:35:02
+* 2018 July 18 https://www.youtube.com/watch?v=7cTvh9k311U live stream 1:09:53
+* 2018 July 14 https://www.youtube.com/watch?v=sV9zeRSxWqs MT3: gotcha                  1:51
+* 2018 July 13 https://www.youtube.com/watch?v=ETLYb0Zggcg live stream 1:47:51
+* 2018 July 12 https://www.youtube.com/watch?v=SvWjMK7kKuE MT3: ready to test           1:50
+* 2018 July 11 https://www.youtube.com/watch?v=VOhyiOgwHdo live stream 30:45
+* 2018 July 09 https://www.youtube.com/watch?v=du_mnmbFRCA live stream 57:08
+* 2018 July 08 https://www.youtube.com/watch?v=-2PIQFMPv0w MT3: reversible guy reversed 1:46
+
+two pages missing
+
+* 2018 June 25 https://www.youtube.com/watch?v=OIxRHh1risM live stream 1:07:59
+* 2018 June 24 https://www.youtube.com/watch?v=fr9iKDeYB3Q MT3: snake powered fall      1:40

@@ -19,7 +19,7 @@
 # set these values
 
 year=${1:-2018}
-mt3_dest_dir=~/mt3/site/blog
+mt3_dest_dir=~/mt3/site/content/blog
 export mt3_dest_dir
 
 # return value is an exit status
@@ -56,11 +56,14 @@ process_file() {
     # Output is very vulnerable to funny chars in filename [;"\/]
     # Need a year/month from the file's subdir, in the dest dir.
     #
-    # Crude but effective to mkdir the destination each time;
-    # when you modify this script to accept all years in advance,
-    # you can also have it make all the dest dirs in advance.
-    echo
-    echo mkdir -p \"$mt3_ddd\"
+    # Test if directory exists.
+    # Note during debug, directories will seem to be repeatedly created
+    # because they do not yet exist
+    if [ ! -d "$mt3_ddd" ]
+    then
+       echo
+       echo mkdir -p \"$mt3_ddd\"
+    fi
     echo cp \"$g\"    \"$mt3_ddd\"
   fi
 }
