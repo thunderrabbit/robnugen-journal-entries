@@ -27,11 +27,17 @@ is_mt3() {
   local f="$1"
     
   # set these values
-  local num_lines=3
+  local num_lines=4
   local string="mt3"
 
-  # grep's exit code tells if we want file
-  head -n$num_lines "$f" |grep "$string" >/dev/null
+  # grep's exit code tells if we want this file,
+  # meaning, has a line that:
+  #   starts with "tags"
+  #   contains $string
+  head -n$num_lines "$f"   \
+    |grep ^tags            \
+    |grep "$string"        \
+    >/dev/null
 
   return $?;                                # grep's exit code
 }
@@ -43,13 +49,25 @@ process_file() {
    
   if is_mt3 "$g"   # need quotes in case filename has whitespace
   then
-    # crude echo command, that does NOT escape anything!
-    # output is very vulnerable to funny chars in filename [;"\/]
-    echo cp \"$g\"    \"$mt3_dest_dir\"
+    local d=`dirname "$g"`
+    local mt3_ddd="$mt3_dest_dir/$d"
+
+    # Crude echo command, that does NOT escape anything!
+    # Output is very vulnerable to funny chars in filename [;"\/]
+    # Need a year/month from the file's subdir, in the dest dir.
+    #
+    # Crude but effective to mkdir the destination each time;
+    # when you modify this script to accept all years in advance,
+    # you can also have it make all the dest dirs in advance.
+    echo
+    echo mkdir -p \"$mt3_ddd\"
+    echo cp \"$g\"    \"$mt3_ddd\"
   fi
 }
 
 
+# these must be exported, so the bash command in the "find" below
+# has access to them.
 export -f is_mt3
 export -f process_file
 
