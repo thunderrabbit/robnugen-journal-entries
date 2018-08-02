@@ -13,4 +13,4 @@ What did the light bulbs say when they broke?
 
 ## 05:25 Monday 30 July 2018 JST
 
-先生のメールのため「起きました。」 はグーグルメールの三番目おすすめな返事です。  Based on your email, Google Mail's third suggested reply was "woke up"
+先生のメールのため「起きました。」 はグーグルメールの三番目におすすめな返事です。  Based on your email, Google Mail's third suggested reply was "woke up"
