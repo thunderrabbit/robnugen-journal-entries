@@ -30,7 +30,13 @@ date: 2018-08-02T09:42:21+09:00
    GG lesson in Akihabara at 6:30pm, head home for Japanese lesson at
    10pm, finish right on time for English lesson with Aki's friend Y
    at 11pm.
-9. 
+9. I have realized that I need support promoting the men's circle; I
+   don't really write on FB to invite people nor even announce
+   upcoming interesting presentations, etc.
+10. I may have found the backpack that will replace the backpack I
+    have had for a while and have kept repairing as it rips in various
+    places.
+
 
 
 
