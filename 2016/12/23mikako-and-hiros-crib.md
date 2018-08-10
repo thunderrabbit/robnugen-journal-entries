@@ -18,6 +18,15 @@ and/or eat at a buffet, and/or play magination, and/or take a nap.
 We played with magnets and now taking a nap.  They are; I'm not.  I'm
 uploading photos and stuff.
 
+(finally posted photos 11:15 Friday 10 August 2018 JST)
+
+[![fish 2016-12-24 at 7.27.01 PM 44](//b.robnugen.com/journal/2016/dec_friends/thumbs/fish_2016-12-24_at_7.27.01_PM_44.jpg)](//b.robnugen.com/journal/2016/dec_friends/fish_2016-12-24_at_7.27.01_PM_44.jpg)
+[![fish 2016-12-24 at 7.27.01 PM 45](//b.robnugen.com/journal/2016/dec_friends/thumbs/fish_2016-12-24_at_7.27.01_PM_45.jpg)](//b.robnugen.com/journal/2016/dec_friends/fish_2016-12-24_at_7.27.01_PM_45.jpg)
+[![flowers 2016-12-24 at 7.27.01 PM 41](//b.robnugen.com/journal/2016/dec_friends/thumbs/flowers_2016-12-24_at_7.27.01_PM_41.jpg)](//b.robnugen.com/journal/2016/dec_friends/flowers_2016-12-24_at_7.27.01_PM_41.jpg)
+[![good morning 2016-12-24 at 7.27.01 PM 40](//b.robnugen.com/journal/2016/dec_friends/thumbs/good_morning_2016-12-24_at_7.27.01_PM_40.jpg)](//b.robnugen.com/journal/2016/dec_friends/good_morning_2016-12-24_at_7.27.01_PM_40.jpg)
+[![telescope zoom 2016-12-24 at 7.27.01 PM 45](//b.robnugen.com/journal/2016/dec_friends/thumbs/telescope_zoom_2016-12-24_at_7.27.01_PM_45.jpg)](//b.robnugen.com/journal/2016/dec_friends/telescope_zoom_2016-12-24_at_7.27.01_PM_45.jpg)
+
+
 ## 21:35 Friday 23 December 2016 JST
 
 We rented two movies: Transcendence with Johnny Depp, and San Andreas

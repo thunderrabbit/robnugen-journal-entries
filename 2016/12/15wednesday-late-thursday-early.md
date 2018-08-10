@@ -15,3 +15,13 @@ I'll try that next year when the schedule resumes after the holidays.
 
 Today I'm pretty tired, have a headache, and didn't enjoy the crowded
 train on the way here.  (if I'm awake and 元気 it doesn't phase me)
+
+## 11:10 Friday 10 August 2018 JST
+
+Not saying these are related, but they are not entirely not related.
+
+[![climbing 2016-12-24 at 7.35.08 PM](//b.robnugen.com/journal/2016/climb_scaffold/thumbs/climbing_2016-12-24_at_7.35.08_PM.jpg)](//b.robnugen.com/journal/2016/climb_scaffold/climbing_2016-12-24_at_7.35.08_PM.jpg)
+[![climbing 2016-12-24 at 7.35.08 PM 2](//b.robnugen.com/journal/2016/climb_scaffold/thumbs/climbing_2016-12-24_at_7.35.08_PM_2.jpg)](//b.robnugen.com/journal/2016/climb_scaffold/climbing_2016-12-24_at_7.35.08_PM_2.jpg)
+[![climbing 2016-12-24 at 7.35.08 PM 3](//b.robnugen.com/journal/2016/climb_scaffold/thumbs/climbing_2016-12-24_at_7.35.08_PM_3.jpg)](//b.robnugen.com/journal/2016/climb_scaffold/climbing_2016-12-24_at_7.35.08_PM_3.jpg)
+[![climbing 2016-12-24 at 7.35.08 PM 4](//b.robnugen.com/journal/2016/climb_scaffold/thumbs/climbing_2016-12-24_at_7.35.08_PM_4.jpg)](//b.robnugen.com/journal/2016/climb_scaffold/climbing_2016-12-24_at_7.35.08_PM_4.jpg)
+[![climbing 2016-12-24 at 7.35.08 PM 5](//b.robnugen.com/journal/2016/climb_scaffold/thumbs/climbing_2016-12-24_at_7.35.08_PM_5.jpg)](//b.robnugen.com/journal/2016/climb_scaffold/climbing_2016-12-24_at_7.35.08_PM_5.jpg)
