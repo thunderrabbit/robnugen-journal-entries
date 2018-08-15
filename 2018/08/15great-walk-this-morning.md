@@ -1,5 +1,5 @@
 ---
-title: "great walk this morning"
+title: "great walk this morning (#2)"
 tags: [ "walk", "exercise", "545-719" ]
 author: Rob Nugen
 date: 2018-08-15T07:19:40+09:00
