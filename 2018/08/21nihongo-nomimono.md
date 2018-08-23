@@ -1,5 +1,5 @@
 ---
-title: "nihongo nomimono"
+title: "nomimono"
 tags: [ "akari", "日本語", "あかり" ]
 author: Rob Nugen
 date: 2018-08-20T12:35:13+09:00
