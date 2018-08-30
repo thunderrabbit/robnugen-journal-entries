@@ -41,6 +41,11 @@ at the right height.
 
 [![2018 aug 6 height adjusted](//b.robnugen.com/journal/2018/vertical_labyrinth/thumbs/2018_aug_6_height_adjusted.jpg)](//b.robnugen.com/journal/2018/vertical_labyrinth/2018_aug_6_height_adjusted.jpg)
 
-Mounted on the wall!
+Once I knew how high to place them, I added the supports
+
+[![2018 aug 23 one support](//b.robnugen.com/journal/2018/vertical_labyrinth/thumbs/2018_aug_23_one_support.jpg)](//b.robnugen.com/journal/2018/vertical_labyrinth/2018_aug_23_one_support.jpg)
+[![2018 aug 23 two supports](//b.robnugen.com/journal/2018/vertical_labyrinth/thumbs/2018_aug_23_two_supports.jpg)](//b.robnugen.com/journal/2018/vertical_labyrinth/2018_aug_23_two_supports.jpg)
+
+And mounted it on the wall!
 
 [![2018 aug 7 installed](//b.robnugen.com/journal/2018/vertical_labyrinth/thumbs/2018_aug_7_installed.jpg)](//b.robnugen.com/journal/2018/vertical_labyrinth/2018_aug_7_installed.jpg)
