@@ -1,5 +1,5 @@
 ---
-title: "nihongo stinky cheese"
+title: "stinky cheese"
 tags: [ "日本語", "チーズ" ]
 author: Rob Nugen
 date: 2018-08-31T08:02:31+09:00
