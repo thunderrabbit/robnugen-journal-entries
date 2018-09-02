@@ -31,11 +31,10 @@ date: 2018-09-03T06:12:06+09:00
    TOML file in any of my repos, but now I think I will, for a couple
    of reasons.
    * One, so I can show you my
-   [TOML file of all Marble Track 3 videos](sorry I am writing without
-   wifi at the moment)
+   [TOML file of all Marble Track 3 videos](https://github.com/marbletracks/marbletrack3.com/blob/master/data/playlists/knownvideos.toml)
    * Two, so the website for Marble Track 3 is easier to recreate
    (without installing <del>Go</del> <ins>extra libraries</ins>)
-   * Three, so I can have a history of the file, which currently is *not* sorted by Publish Date, though I would like it to be
+   * Three, so I can have a [history of the file]()https://github.com/marbletracks/marbletrack3.com/commit/16c9e0acfbebcccf8de83e94ae738e61efdc1f47, which currently is *not* sorted by Publish Date, though I would like it to be
      because that would make it easier to figure out what to name the
      livestreams that did not get unique names.
  
