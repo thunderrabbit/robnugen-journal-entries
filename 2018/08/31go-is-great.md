@@ -9,9 +9,10 @@ date: 2018-08-31T21:50:51+09:00
 
 Wow [Go](https://golang.org/) is great.  The compiler doesn't let you
 fuck around too much.  "Hey you're wasting variables!"  "Hey those are
-different!"
+different!" "Hey you already did that!"  "Don't include it if you
+don't need it!"  "Don't use it if you didn't include it"
 
-I can imagine what Travis meant when he said if a Hakyll program
+I can imagine what Travis meant when he said if a <del>Hakyll</del> <ins>Haskell</ins> program
 compiles, it probably works correctly.  Even with all the side effects
 available in Go, I am *much* more confident that my code works than
 with any PHP code.
@@ -71,3 +72,10 @@ Just two hours later (including dinner with Lin) and bingo I got the Durations a
 Not bad for my first day messing around with Go.
 
 https://github.com/marbletracks/go-get-video-durations/blob/36426e31be42c7c16f7a6f1e705c1106a111a789/my_uploads.go
+
+## 08:56 Sunday 02 September 2018 JST
+
+A day later, I spruced it up some, including adding video types and
+limiting superfluous calls to Youtube API.
+
+https://github.com/marbletracks/go-get-video-durations/blob/d95c8218322e6a7718ecae172f8d09c33a0d2564/my_uploads.go
