@@ -38,5 +38,51 @@ date: 2018-09-03T06:12:06+09:00
      because that would make it easier to figure out what to name the
      livestreams that did not get unique names.
  
-6. 
+6. I have just linked git commits both directions from Marble Track 3
+   source to my journal entries, and from my journal entries to Marble
+   Track 3 source.  Which ones will break first?
 
+7. I am halfway through Anikiko's Shift Your Shit program, subtitled
+   Own and Sell Your Gifts, or something.  It has been great, giving
+   me several good ideas, which I am beginning to implement.  Oh, that
+   reminds me, I need to write to John Gaughan, re: volunteer burnout
+
+8. I am using a water Android phone from a couple years ago, an Aquos
+   something something.  I am using my Macbook from more than a couple
+   years ago, perhaps 5 years (therefore 50 laptop-years).  I got a
+   new backpack with wheels and a hard plastic cover for my computer.
+
+9. I have not been wearing shoes in Tokyo for 8 years now.  That is 1
+   year more than I was barefoot in Houston.  That's a strange thought
+   for me.
+
+10. Lin and I still do not have kids, but we have our cat Jennie, who
+    is maybe 5 years old.  6?  Lin still likes to keep Jennie inside
+    at night, even though Jennie climbs around on Lin's head at night,
+    meowing (to be let outside, I think).
+
+11. I have started taking walks in the morning, though I did not walk
+    the past couple of days.  Tomorrow I will walk for sure!  I walk
+    for about an hour, trying to find a new street or new area I have
+    not previously seen.  This search has turned up a pizza place, a
+    hidden grave yard, a brick fish tank, and a nice path along the
+    nearby recycling center.
+
+12. I have started eating less, and for shorter durations during the
+    day.  Lin is interested in doing similarly as a *concept*, but not
+    always interested in doing it in *practice*.  I have been hearing
+    more and more about intermittant fasting and its benefits.  Most
+    recently, I heard that it's good to eat only during a 10 hour
+    window each day.  I am not quite there yet, but close.
+
+13. I am headed to Akabanebashi now for IL lesson.  Then walk to Nishi
+    Azabu for UG lesson featuring Akari, Emi, Kazu, Kenji, Masa,
+    Ryuya, Shinji, and Taka (in ABC order).
+
+
+14. It looks like co-gender group will not happen tonight.
+
+15. Just arrived in Shinjuku.  Changing trains now.
+
+16. Oh, that reminds me, I have been keeping track of my finances,
+    down to the yen, since July of this year.
