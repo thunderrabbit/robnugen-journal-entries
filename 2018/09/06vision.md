@@ -16,52 +16,59 @@ experience, if I follow my fear I will be headed in the right
 direction in life.
 
 For me these fears result in me dying alone.  There is a process
-called What's at Risk which I learned from Mankind Project.  "What's
-at risk if I do it?"
+called What's at Risk which I learned from Mankind Project.
 
-"people might not like it."
+"What's at risk if I do it?"
 
-WAR if they do not like it?
+"People might not like it."
 
-They will not like me.
+"What's at Risk if they do not like it?"
 
-WAR if they do not like you?
+"They will not like me."
 
-They will leave me.
+"What's at Risk if they do not like you?"
 
-wAR   etc until I die alone.
+"They will leave me."
+
+"What's at Risk if they leave you?"
+
+"I will eventually die alone."
+
+Once we get to the bottom, we start over with the other option as a
+starting point.
 
 
-Okay, What's at risk if I don't do it?"
+"What's at risk if I don't do it?""
 
-I will lead a pointless life
+"I will lead a pointless life"
 
-WAR oint
+"What's at Risk if you lead a pointless life?"
 
-I will have no enthusiasm
+"I will have no enthusiasm"
 
-WAR
+"What's at Risk if you have no enthusiasm?"
 
-I will have no connection to friends
+"I will have no connection to friends"
 
-WAR .....
+"What's at Risk if you have no connection to friends?"
 
-die alone
+"I will die alone"
 
-I have been through this chain of broken logic countless times.  I
-believe the
-point of the exercise is to point out the logical fallacy.  Somewehre
-there is a mis-step in logic.
+I have been through this chain of broken logic countless times.  In my
+case, when I follow the what's at risk line of questions, I always end up dying alone.
+
+I believe the point of the exercise is to point out the logical
+fallacy.  Somewehre there is a mis-step in logic.
 
 Let's try it again:
 
-WAR if you do it?
+"What's at Risk if you do it?"
 
-People might not like it?
+"People might not like it."
 
-WAR pmnli
+"What's at Risk if people might not like it?"
 
-I will adjust it and try again
+"I will adjust it and try again"
 
 Aha!  That was quick.  Because my excitement is merged in with the
 fear, coming from a core *knowing* that this is the right way to go.
@@ -99,3 +106,5 @@ still have time; the postcard says to do it by July 18th"
 
 Turns out, that date didn't matter.  It was the date actually *in my
 passport* that mattered.
+
+To be Continued ....
