@@ -13,7 +13,7 @@ hugo
 echo "deploying"
 echo "changing directory"
 cd public
-git reset 72aff30
+git reset 4407b13
 echo "sleeping"
 sleep 2
 echo "adding"
