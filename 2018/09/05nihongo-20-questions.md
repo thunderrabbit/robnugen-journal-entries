@@ -1,5 +1,5 @@
 ---
-title: "nihongo 20 questions"
+title: "20 questions"
 tags: [ "日本語", "デレーナ" ]
 author: Rob Nugen
 date: 2018-09-05T11:27:17+09:00

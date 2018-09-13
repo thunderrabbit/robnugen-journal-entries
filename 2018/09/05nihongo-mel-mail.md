@@ -1,5 +1,5 @@
 ---
-title: "nihongo mel no mail"
+title: "mel no mail"
 tags: [ "日本語", "メル", "メール" ]
 author: Rob Nugen
 date: 2018-09-05T10:48:59+09:00
