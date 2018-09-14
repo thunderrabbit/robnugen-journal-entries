@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-08-21T23:38:53+09:00
 ---
 
-## 23:38 Tuesday 21 August 2018 JST
+##### 23:38 Tuesday 21 August 2018 JST
 
 Audible requests too many permissions on Android Audible app.
 

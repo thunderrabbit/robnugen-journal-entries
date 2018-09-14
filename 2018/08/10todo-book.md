@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-08-10T09:46:31+09:00
 ---
 
-## 09:46 Friday 10 August 2018 JST
+##### 09:46 Friday 10 August 2018 JST
 
 I bought a book that has become my todo book.  It's as portable as my
 phone and even more reliable in terms of battery power.  I bought it

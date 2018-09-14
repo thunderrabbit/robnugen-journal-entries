@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-08-02T09:42:21+09:00
 ---
 
-## 09:42 Thursday 02 August 2018 JST
+##### 09:42 Thursday 02 August 2018 JST
 
 1. It's hotter in Tokyo this summer than summers in my memory.  It's
    been getting up to 34 - 35 degrees Celcius as the high, with some hot spots

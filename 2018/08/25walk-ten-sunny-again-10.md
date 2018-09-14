@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-08-25T07:30:41+09:00
 ---
 
-## 07:30 Saturday 25 August 2018 JST
+##### 07:30 Saturday 25 August 2018 JST
 
 Lin joined me at first but then bailed. I did not walk far, but talked
 to Delayna and Richard while walking.  Told them both about

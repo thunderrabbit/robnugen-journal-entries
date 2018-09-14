@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-08-19T22:20:01+09:00
 ---
 
-## 22:20 Sunday 19 August 2018 JST
+##### 22:20 Sunday 19 August 2018 JST
 
 A couple of years ago I received a vertical labyrinth game from the
 toy store I used to frequent in Harajuku on the way to my lesson with

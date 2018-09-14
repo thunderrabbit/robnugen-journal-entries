@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-08-16T06:25:47+09:00
 ---
 
-## 06:25 Thursday 16 August 2018 JST
+##### 06:25 Thursday 16 August 2018 JST
 
 Just before 5am, Lin let Jennie outside for her morning adventures.
 Soon thereafter we could hear her catching up with another cat.  I

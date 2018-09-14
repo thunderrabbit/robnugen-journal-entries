@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-08-29T22:24:36+09:00
 ---
 
-## 22:24 Wednesday 29 August 2018 JST
+##### 22:24 Wednesday 29 August 2018 JST
 
     I have begun to unpack my life mission: to create a world of
     safety, love, and connection by teaching, inviting, and sharing.

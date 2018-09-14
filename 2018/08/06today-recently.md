@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-08-06T22:27:39+09:00
 ---
 
-## 22:27 Monday 06 August 2018 JST
+##### 22:27 Monday 06 August 2018 JST
 
 I contacted the organizer of TEDx Roppongi, which is scheduled for
 November 3rd of this year.  I'm not sure if I will end up helping with

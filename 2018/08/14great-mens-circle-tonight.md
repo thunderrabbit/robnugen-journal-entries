@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-08-14T22:50:52+09:00
 ---
 
-## 22:50 Tuesday 14 August 2018 JST
+##### 22:50 Tuesday 14 August 2018 JST
 
 Four men in the circle tonight, including two relatively newcomers.  I
 experienced beautiful facilitation to help me get the courage to

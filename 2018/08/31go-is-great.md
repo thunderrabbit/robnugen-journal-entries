@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-08-31T21:50:51+09:00
 ---
 
-## 21:50 Friday 31 August 2018 JST
+##### 21:50 Friday 31 August 2018 JST
 
 Wow [Go](https://golang.org/) is great.  The compiler doesn't let you
 fuck around too much.  "Hey you're wasting variables!"  "Hey those are

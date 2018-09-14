@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-08-20T05:20:01+09:00
 ---
 
-## 05:20 Monday 20 August 2018 JST
+##### 05:20 Monday 20 August 2018 JST
 
 Lin and I walked together yesterday on a completely new route.
 

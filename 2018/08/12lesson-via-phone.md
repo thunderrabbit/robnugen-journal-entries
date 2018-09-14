@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-08-12T20:16:12+09:00
 ---
 
-## 20:16 Sunday 12 August 2018 JST
+##### 20:16 Sunday 12 August 2018 JST
 
 Today Lin and I are at her sister's house, but they do not have strong
 wifi so I cannot use Skype.  At least not in this quiet room.  Maybe

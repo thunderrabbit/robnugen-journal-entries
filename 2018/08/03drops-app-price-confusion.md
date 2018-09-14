@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-08-03T21:45:05+09:00
 ---
 
-## 21:45 Friday 03 August 2018 JST
+##### 21:45 Friday 03 August 2018 JST
 
 Apparently there is a big sale on [Drops](https://languagedrops.com/).
 

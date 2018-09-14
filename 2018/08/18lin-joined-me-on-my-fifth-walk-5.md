@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-08-18T09:19:54+09:00
 ---
 
-## 09:19 Saturday 18 August 2018 JST
+##### 09:19 Saturday 18 August 2018 JST
 
 Lin and I got off to a later start than I had originally planned, but
 we walked an hour around our neighborhood, finding some new streets we

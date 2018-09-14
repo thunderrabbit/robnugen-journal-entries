@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-08-12T08:25:50+09:00
 ---
 
-## 08:25 Sunday 12 August 2018 JST
+##### 08:25 Sunday 12 August 2018 JST
 
 After watching
 "[A Journey Towards Inner Beauty](https://www.youtube.com/watch?v=POZI6GaXCSY),"

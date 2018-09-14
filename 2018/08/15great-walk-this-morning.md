@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-08-15T07:19:40+09:00
 ---
 
-## 07:19 Wednesday 15 August 2018 JST
+##### 07:19 Wednesday 15 August 2018 JST
 
 I woke up several times last night like 3am, 4am, and then ended up
 waking up at 5:30am instead of 5am for my walk.  Got out of the house

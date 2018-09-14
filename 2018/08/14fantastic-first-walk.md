@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-08-14T11:05:38+09:00
 ---
 
-## 11:05 Tuesday 14 August 2018 JST
+##### 11:05 Tuesday 14 August 2018 JST
 
 I have decided to wake up at 5am each day, and on the five days I do not
 have to immediately go to work (for which I have already been waking

@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-08-29T05:40:32+09:00
 ---
 
-## 05:40 Wednesday 29 August 2018 JST
+##### 05:40 Wednesday 29 August 2018 JST
 
 The Mission Workshop was a great success last night, with 8 men in
 attendance.  We tapped in to our Little Boys Deepest needs, then

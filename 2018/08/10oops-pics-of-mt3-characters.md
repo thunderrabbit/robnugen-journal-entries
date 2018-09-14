@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-08-10T10:32:00+09:00
 ---
 
-## 10:32 Friday 10 August 2018 JST
+##### 10:32 Friday 10 August 2018 JST
 
 I took pics of the MT3 workers, but decided not to use them because
 the white pipe cleaner in the background kinda mucks up the picture.

@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-08-24T21:51:46+09:00
 ---
 
-## 21:51 Friday 24 August 2018 JST
+##### 21:51 Friday 24 August 2018 JST
 
 I took the course tonight with my ex-crush new-coach Anikiko.  She
 created the course 7 (seven) days ago and it started tonight.  It will

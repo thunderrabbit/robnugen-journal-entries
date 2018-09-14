@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-08-17T07:21:12+09:00
 ---
 
-## 07:21 Friday 17 August 2018 JST
+##### 07:21 Friday 17 August 2018 JST
 
 I have been writing in Japanese about the walk.
 

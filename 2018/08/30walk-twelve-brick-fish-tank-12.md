@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-08-30T06:32:01+09:00
 ---
 
-## 06:32 Thursday 30 August 2018 JST
+##### 06:32 Thursday 30 August 2018 JST
 
 I heard some water trickling and noticed a fountain flowing into a
 basin made of bricks.  There were a couple fish inside, effectively

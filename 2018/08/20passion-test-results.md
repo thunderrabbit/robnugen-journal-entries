@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-08-20T17:42:15+09:00
 ---
 
-## 17:42 Monday 20 August 2018 JST
+##### 17:42 Monday 20 August 2018 JST
 
 Today I took the [Passion Test](https://thepassiontest.com/) with Eri (, who
 is still looking for participants, if you're interested).

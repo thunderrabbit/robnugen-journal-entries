@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-08-17T05:06:13+09:00
 ---
 
-## 05:06 Friday 17 August 2018 JST
+##### 05:06 Friday 17 August 2018 JST
 
 <del>毎朝５時に起きて、歩く始まりました四日目前。</del>
 

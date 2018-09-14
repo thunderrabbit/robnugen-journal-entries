@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-08-17T09:31:45+09:00
 ---
 
-## 9:31 Friday 17 August 2018 JST
+##### 9:31 Friday 17 August 2018 JST
 
 I just finished having my stomach checked. It was different than I expected. They put some kind of anesthetic in my mouth which for a moment maybe not be able to swallow which was weird. I couldn't breathe through my mouth.
 

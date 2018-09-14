@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-08-21T08:55:47+09:00
 ---
 
-## 08:55 Tuesday 21 August 2018 JST
+##### 08:55 Tuesday 21 August 2018 JST
 
     Robさん、こんにちは！
     ９月のレッスンの予約を入れられます。

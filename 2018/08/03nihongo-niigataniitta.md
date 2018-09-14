@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-08-03T09:37:29+09:00
 ---
 
-## 09:37 Friday 03 August 2018 JST
+##### 09:37 Friday 03 August 2018 JST
 
 先週末、妻と妻の友達と一緒に新潟に行きました。
 

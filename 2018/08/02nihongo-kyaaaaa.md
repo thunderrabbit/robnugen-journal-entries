@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-08-02T21:38:57+09:00
 ---
 
-## 21:38 Thursday 02 August 2018 JST
+##### 21:38 Thursday 02 August 2018 JST
 
 モージョー、また木曜日まで日本語で何も書いてない。
 
