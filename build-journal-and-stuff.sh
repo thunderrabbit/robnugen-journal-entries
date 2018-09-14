@@ -13,7 +13,6 @@ hugo
 echo "deploying"
 echo "changing directory"
 cd public
-git reset 4407b13
 echo "sleeping"
 sleep 2
 echo "adding"
@@ -25,7 +24,7 @@ git commit -m "Published on `date`"
 echo "sleeping"
 sleep 2
 echo "pushing"
-git push --force origin master
+git push origin master
 
 cd ~/journal
 echo skipping ./g2f.sh
