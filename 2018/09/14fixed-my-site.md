@@ -5,6 +5,8 @@ author: Rob Nugen
 date: 2018-09-14T16:12:02+09:00
 ---
 
+##### 16:12 Friday 14 September 2018 JST
+
 I broke my upload process, but I think it is fixed now.
 
 Yep.  It took 65 seconds to process and upload to my server, but it
@@ -23,4 +25,4 @@ What if I make them small like this:
 
 ##### 16:19 Friday 14 September 2018 JST
 
-I guess it is an h5 tag, cause I put five # marks in front.
+I<del> guess i</del>t will be an h5 tag, cause I put five # marks in front.
