@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-09-05T07:13:15+09:00
 ---
 
-## 07:13 Wednesday 05 September 2018 JST
+##### 07:13 Wednesday 05 September 2018 JST
 
 Yesterday a typhoon grazed Tokyo.  We got some wind, but hardly any
 rain.  I left early for men's group to make sure I would be there even

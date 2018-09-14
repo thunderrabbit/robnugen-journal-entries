@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-09-06T06:35:43+09:00
 ---
 
-## 06:35 Thursday 06 September 2018 JST
+##### 06:35 Thursday 06 September 2018 JST
 
 A man has two lives.  The second one begins when he realized he only
 has one life.

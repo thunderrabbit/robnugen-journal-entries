@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-09-06T13:27:12+09:00
 ---
 
-## 13:27 Thursday 06 September 2018 JST
+##### 13:27 Thursday 06 September 2018 JST
 
 Today I won best Table Topics speech for making backronyms for JEBI,
 the name of the typhoon that just blew through.

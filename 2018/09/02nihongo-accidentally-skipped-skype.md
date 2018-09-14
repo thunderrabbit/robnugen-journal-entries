@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-09-02T08:54:50+09:00
 ---
 
-## 08:54 Sunday 02 September 2018 JST
+##### 08:54 Sunday 02 September 2018 JST
 
 毎週末、母とスカイプで喋る。　　I talk to my mom each weekend via Skype.
 

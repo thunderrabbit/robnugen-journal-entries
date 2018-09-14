@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-09-06T20:31:29+09:00
 ---
 
-## 20:31 Thursday 06 September 2018 JST
+##### 20:31 Thursday 06 September 2018 JST
 
 I'm excited when I think about my vision, and I'm scared what I think
 about implementing it.

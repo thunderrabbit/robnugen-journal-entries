@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-09-08T21:36:59+09:00
 ---
 
-## 21:36 Saturday 08 September 2018 JST
+##### 21:36 Saturday 08 September 2018 JST
 
 I have been taking Soness's Step On The Red Dot course, part of
 https://www.yourspeakingjourney.com/

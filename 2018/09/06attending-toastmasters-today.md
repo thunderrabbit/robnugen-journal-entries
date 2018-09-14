@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2018-09-06T09:57:03+09:00
 ---
 
-## 09:57 Thursday 06 September 2018 JST
+##### 09:57 Thursday 06 September 2018 JST
 
 Had a quick livestream today during which Reversible Guy (apparently)
 glued a single toothpick and G Choppy cut two others which I had hoped
