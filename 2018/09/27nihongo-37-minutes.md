@@ -32,3 +32,7 @@ Thanks to Mayumi and her sister Miyako for being the first fans of Marble Track 
 たくさんワイワイと助かりました。
 
 Countless ideas and suggestions have helped shape the construction process itself!
+
+##### 22:26 Thursday 27 September 2018 JST
+
+悲しいです。悪い生徒になりましたから先生はもういいになったと思います。
