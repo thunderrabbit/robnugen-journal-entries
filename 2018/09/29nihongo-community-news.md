@@ -1,5 +1,5 @@
 ---
-title: "nihongo community news"
+title: "community news"
 tags: [ "日本語", "news" ]
 author: Rob Nugen
 date: 2018-09-29T06:55:24+09:00

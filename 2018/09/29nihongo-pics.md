@@ -1,5 +1,5 @@
 ---
-title: "nihongo pics"
+title: "pics"
 tags: [ "日本語", "pics", "写真" ]
 author: Rob Nugen
 date: 2018-09-29T06:51:18+09:00
