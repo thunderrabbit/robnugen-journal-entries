@@ -4,8 +4,13 @@ git push bitbucket master
 git push norigin master
 
 echo "not pulling"
-cd ~/journal-hugo
+# cd ~/journal-hugo/
 # git submodule foreach git pull
+
+cd ~/journal-hugo/content/journal
+git pull
+
+cd ~/journal-hugo/
 
 echo "building"
 hugo
@@ -26,6 +31,6 @@ sleep 2
 echo "pushing"
 git push origin master
 
-cd ~/journal
-echo skipping ./g2f.sh
-echo because it needs the password which I do not have handy
+# cd ~/journal
+# echo skipping ./g2f.sh
+# echo because it needs the password which I do not have handy
