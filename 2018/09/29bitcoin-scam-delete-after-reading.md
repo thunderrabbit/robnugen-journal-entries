@@ -65,7 +65,8 @@ addresses.
 * http://www.consumerblitz.com/account-issue-extortion-attempt/
 * https://linustechtips.com/main/topic/975917-first-of-the-ncix-leaked-info-scam-letters-going-out/
 * https://www.weston-tech.com/blog/entry/don-t-pay-for-the-password-blackmail-scam-but-do-change-your-passwords
-
+* https://www.schneier.com/blog/archives/2018/07/reasonably_clev.html
+* https://krebsonsecurity.com/2018/07/sextortion-scam-uses-recipients-hacked-passwords/
 
 It is apparently working.  damn.
 
@@ -74,3 +75,5 @@ It is apparently working.  damn.
 * https://www.blockchain.com/btc/address/1DuDhqSWdmRxJjaRRSpa9wRH7yf9ncgw56
 * https://www.blockchain.com/btc/address/13Uw4tqt31ar8RauE8AEtdTxYe52wD9Y3Z
 * https://www.blockchain.com/btc/address/1DzM9y4fRgWqpZZCsvf5Rx4HupbE5Q5r4y
+* https://www.blockchain.com/btc/address/1Dvd7Wb72JBTbAcfTrxSJCZZuf4tsT8V72
+* https://www.blockchain.com/btc/address/169rDGiiDxTKknBYgLPDq4sCQJjKgejkni
