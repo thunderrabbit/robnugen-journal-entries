@@ -3,9 +3,9 @@ echo "pushing"
 git push bitbucket master
 git push norigin master
 
-echo "pulling"
+echo "not pulling"
 cd ~/journal-hugo
-git submodule foreach git pull
+# git submodule foreach git pull
 
 echo "building"
 hugo
