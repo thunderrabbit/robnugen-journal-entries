@@ -60,9 +60,17 @@ addresses.
 
 * https://botcrawl.com/your-account-was-hacked-by-an-international-hacker-group-email-scam/
 * https://www.reddit.com/r/Scams/comments/9j5mqg/im_a_member_of_an_international_hacker_group/
+* https://www.itsc.cuhk.edu.hk/en-gb/it-announcement/is-alerts-news-and-events/2018/884-phishing-20180928b
+* https://itnerd.blog/2018/09/26/a-brand-new-extortion-phishing-scam-is-making-the-rounds-heres-how-not-to-become-a-victim/
+* http://www.consumerblitz.com/account-issue-extortion-attempt/
+* https://linustechtips.com/main/topic/975917-first-of-the-ncix-leaked-info-scam-letters-going-out/
+* https://www.weston-tech.com/blog/entry/don-t-pay-for-the-password-blackmail-scam-but-do-change-your-passwords
+
 
 It is apparently working.  damn.
 
 * https://www.blockchain.com/btc/address/1Lughwk11SAsz54wZJ3bpGbNqGfVanMWzk
 * https://www.blockchain.com/btc/address/18QGMXBte2fVodcq9xCwvPWiBEd98LwHwS
 * https://www.blockchain.com/btc/address/1DuDhqSWdmRxJjaRRSpa9wRH7yf9ncgw56
+* https://www.blockchain.com/btc/address/13Uw4tqt31ar8RauE8AEtdTxYe52wD9Y3Z
+* https://www.blockchain.com/btc/address/1DzM9y4fRgWqpZZCsvf5Rx4HupbE5Q5r4y
