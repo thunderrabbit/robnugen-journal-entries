@@ -16,3 +16,5 @@ date: 2018-10-22T20:11:48+09:00
 分かるように写真を取りました。
 
 分かりたいから勉強するように写真を取りました。
+
+[![2018 nov 03 tokaido interruption](//b.robnugen.com/journal/2018/thumbs/2018_nov_03_tokaido_interruption.jpg)](//b.robnugen.com/journal/2018/2018_nov_03_tokaido_interruption.jpg)
