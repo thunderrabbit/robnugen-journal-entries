@@ -13,4 +13,4 @@ date: 2018-12-21T09:10:08+09:00
 
 書いたいけどもうなくなた。
 
-[![monkey show](https://store.line.me/stickershop/product/1065753/)](//b.robnugen.com/journal/2018/monkey_show.png)
+[![monkey show](//b.robnugen.com/journal/2018/monkey_show.png)](https://store.line.me/stickershop/product/1065753/)
