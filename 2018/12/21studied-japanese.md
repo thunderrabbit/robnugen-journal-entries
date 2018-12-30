@@ -12,3 +12,9 @@ date: 2018-12-21T09:10:08+09:00
 書いたいけどもうなくなた。
 
 [![monkey show](//b.robnugen.com/journal/2018/monkey_show.png)](https://store.line.me/stickershop/product/1065753/)
+
+先生のかげ日本語が好きでした昨日。
+
+今日、[J-CATのテスト](http://www.j-cat.org/)を登録しました。
+
+只今「登録」の言葉を覚えました。やった！
