@@ -49,3 +49,18 @@ absolutely barebones for launching in a city as expensive as Tokyo. We
 are going to make this happen and hope men from all over the world can
 soon staff at NWTAs in Japan or simply sit in the circle with
 us. Please join us in changing the world, one nation at a time.
+
+{{< youtube Sc2y9ux4rGA >}}
+
+<!--
+
+Hey what are you doing here?  Well, for entertainment purposes, here
+are other takes:
+
+* https://www.youtube.com/watch?v=nhmQGr6vh20
+* https://www.youtube.com/watch?v=e6X_OklhjD8
+* https://www.youtube.com/watch?v=x0nB0msM1bk
+* https://www.youtube.com/watch?v=T6oNkl4UW50
+* https://www.youtube.com/watch?v=IM0e1HBmPMI
+
+-->
