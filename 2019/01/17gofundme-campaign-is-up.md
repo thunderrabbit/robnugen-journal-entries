@@ -7,8 +7,10 @@ date: 2019-01-17T20:41:44+09:00
 
 ##### 20:41 Thursday 17 January 2019 JST
 
-Just to confirm it is really me, I am posting the first person version
-of the GoFundme text here on my journal:
+Just to confirm it is really me, I am posting a first person version
+of the ManKind Project Japan GoFundme campaign
+"[Launching ManKind Project Operations in Japan](https://www.gofundme.com/launching-mankind-project-operations-in-japan)"
+text here on my journal:
 
 [ManKind Project](https://mankindproject.org/) challenges each man to
 find and develop his own life’s mission, and to live that mission
