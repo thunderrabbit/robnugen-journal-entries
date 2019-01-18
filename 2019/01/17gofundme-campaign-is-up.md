@@ -7,6 +7,9 @@ date: 2019-01-17T20:41:44+09:00
 
 ##### 20:41 Thursday 17 January 2019 JST
 
+TL;DR:
+https://www.gofundme.com/launching-mankind-project-operations-in-japan
+
 Just to confirm it is really me, I am posting a first person version
 of the ManKind Project Japan GoFundme campaign
 "[Launching ManKind Project Operations in Japan](https://www.gofundme.com/launching-mankind-project-operations-in-japan)"
