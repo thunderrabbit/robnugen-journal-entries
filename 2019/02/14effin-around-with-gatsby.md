@@ -59,3 +59,24 @@ making the marble track itself.
     
     Error: Command failed: npm install
 
+
+##### 20:56 Thursday 14 February 2019 JST
+
+Okay I got this Hello World running.
+
+https://www.gatsbyjs.org/tutorial/part-zero/
+
+    hey hmmmm no autorefresh
+    Hello world!
+
+##### 21:01
+
+Oh it refreshes if I updated the .js, but not if I update the .html in
+public/.  Fair enough.
+
+    hey hmmmm no autorefresh
+    Jello world!
+
+
+
+4iy9IJOvT4DcoYJ2jrsreHZhj3Xqm3jZsUiMuyFVXqc3sYHzYh3tRNB17f3lDF4V2CxjOhYmarqx6SOc3X7XBtfJSmjv2hNxEA8a
