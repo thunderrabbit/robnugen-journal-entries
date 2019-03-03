@@ -52,4 +52,7 @@ getting pricey!
 10. I had a killer headache this past Monday from too much
     computering, I think.  I can feel another coming on, but I will
     head to be soon.
-11. 
+11. I am shutting my computer down now/soon and will let the battery run alll the way down
+12. I think I have a way to fix ConSwi without relying on physics to
+    keep bricks from going through each other.
+13. I wanted to work on it today, but did lots of MKP stuff
