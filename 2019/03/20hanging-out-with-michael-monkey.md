@@ -12,6 +12,8 @@ out at Michael Monkey's in Houston.  Thanks to Great Granny Good Witch
 for driving me to the store today to buy clothes and toiletries which
 should last a good while.
 
+She has a lot lot lotta masks from around the world!
+
 I have made a good start on the puzzle in the dining room, first
 expanding the table, then adding more white backing, then rotating the
 inner white backing to reduce waste.
