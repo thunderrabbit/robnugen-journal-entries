@@ -1,7 +1,6 @@
 ---
 title: "pictures from Texas"
-tags:
-[ "texas", "pics", "sally", "fred", "ma", "francois", "dad", "monkey", "mask" ]
+tags: [ "texas", "pics", "sally", "fred", "ma", "francois", "dad", "monkey", "mask" ]
 author: Rob Nugen
 date: 2019-03-25T16:32:04+09:00
 ---
