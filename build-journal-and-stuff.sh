@@ -1,7 +1,8 @@
 #!/bin/bash
 echo "pushing"
 git push bitbucket master
-git push norigin master
+git push norigin master &
+git push github master &
 
 echo "not pulling"
 # cd ~/journal-hugo/
