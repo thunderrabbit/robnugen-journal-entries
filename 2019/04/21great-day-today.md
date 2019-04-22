@@ -17,14 +17,5 @@ We walked our decrepit bicycles to a local shop.  Mine had to get a
 new chain; Lin's bicycle needed a new valve stem and new seat.
 
 While the bicycles were being fixed, we walked to the station to get a
-case for Lin's new work phone.
-
-Upon riding back home I found one of my Japanese teachers had suggested
-learning through songs, so I have decided to learn this song (found by
-searching "Japanese songs learning" or something)
-
-{{< youtube C35DrtPlUbc >}}
-
-
- 
-
+case for Lin's new work phone.   Walked back to the bicycle shop and
+road our renewed rides back home.
