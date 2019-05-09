@@ -17,3 +17,5 @@ onsent was the same one I had been to when my wife drove, but was
 surprised it turned out to be a different one.
 
 私の人生は忙しいすぎるかもしらない。たくさんプロジェクトありますけど全部できない。例えば、今日、からくり第三弾の生配信をしたかったんだけど、日本語の授業の準備しなければならない。日本語の書くの前、別のミータップのエヴェントもアンナウンスしないといけない。あっ、猫がお腹が空いたそうです。猫に養なっければならない。
+
+あっ。やばい。本気の仕事にもいかなキュア！
