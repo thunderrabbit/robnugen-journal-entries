@@ -1,5 +1,5 @@
 ---
-title: "omfg wait what Lucifer Season 4 Episode 1 (slight spoilers)"
+title: "omfg, wait what? Lucifer Season 4 Episode 1 (slight spoilers)"
 tags: [ "lucifer" ]
 author: Rob Nugen
 date: 2019-05-10T13:21:24+09:00
