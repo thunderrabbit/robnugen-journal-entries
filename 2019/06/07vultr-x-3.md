@@ -8,7 +8,7 @@ date: 2019-06-07T17:40:05+09:00
 ##### 17:40 Friday 07 June 2019 JST
 
 Today I spun up three (3) different instances on
-[Vultr.com]https://www.vultr.com/?ref=8151506)
+[Vultr.com](https://www.vultr.com/?ref=8151506)
 
 I spun up 1GB, 2GB, and 4GB RAM instances, with 25GB, 55GB, and 80GB
 SSD storage,
