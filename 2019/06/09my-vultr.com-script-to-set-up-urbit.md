@@ -15,7 +15,8 @@ Vultr allows me to easily create startup scripts; I see them in
 Linode, but the click click GUI UX is not as easy for me.
 
 Here is my script to set up swap space, create a passwordless sudoer
-user, and 
+user, and it can just about set up Urbit as well.  I am going to test
+it now.
 
     #!/bin/sh
     
