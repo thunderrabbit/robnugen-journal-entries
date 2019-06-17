@@ -25,12 +25,7 @@ with `git rebase 68a8c08`.  Now the top of `git log --oneline --graph --decorate
     * 8f33818 he
     * 7ce3602 was
 
-After writing this, I composed a message on [english.stackexchange.com](https://english.stackexchange.com/)
-but ended up not posting it as there are several answers already.
-
-* https://english.stackexchange.com/questions/199471/is-using-a-comma-as-a-pause-correct
-* https://english.stackexchange.com/questions/402440/is-the-old-saying-put-a-comma-where-you-pause-a-reliable-way-to-punctuate-sent
-
+After writing this, I started composing a message on [english.stackexchange.com](https://english.stackexchange.com/)
 
     I am writing a story in which an US American man is being
     interviewed.  The man is relaying a story which happened in the
@@ -48,3 +43,8 @@ but ended up not posting it as there are several answers already.
     or
     
     B. that was back some well, several, years ago when he was still ...
+
+but ended up not posting it as there are several answers already.
+
+* https://english.stackexchange.com/questions/199471/is-using-a-comma-as-a-pause-correct
+* https://english.stackexchange.com/questions/402440/is-the-old-saying-put-a-comma-where-you-pause-a-reliable-way-to-punctuate-sent
