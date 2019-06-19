@@ -1,6 +1,6 @@
 ---
 title: Australia
-tags: australia
+tags: [ "australia" ]
 author: Rob Nugen
 date: 1985-06-12
 ---
