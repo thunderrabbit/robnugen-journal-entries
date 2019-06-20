@@ -1,6 +1,6 @@
 ---
 title: programmatically added slider not respected
-tags: sleepy, unity3d, joint, slider, 2d-physics
+tags: [ "sleepy", "unity3d", "joint", "slider", "2d-physics" ]
 author: Rob Nugen
 date: 2015-04-11T01:29:36+09:00
 ---

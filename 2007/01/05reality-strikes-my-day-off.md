@@ -2,7 +2,7 @@
 date: 2007-01-05T08:36:05+09:00
 slug: reality-strikes-my-day-off
 title: Reality strikes my day off...
-tags: guest writer,news,palestine,suzy xx,terror
+tags: [ "guest writer", "news", "palestine", "suzy xx", "terror" ]
 ---
 
 ##08:36 Friday 05 January 2007

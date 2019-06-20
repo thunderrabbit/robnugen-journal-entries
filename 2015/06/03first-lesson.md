@@ -1,6 +1,6 @@
 ---
 title: first lesson
-tags: first, TEM, first TEM, yeah, i remember my first tem
+tags: [ "first", "TEM", "first TEM", "yeah", "i remember my first tem" ]
 author: Rob Nugen
 date: 2015-06-03T12:23:15+09:00
 ---

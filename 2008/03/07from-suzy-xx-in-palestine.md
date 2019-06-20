@@ -2,7 +2,7 @@
 date: 2008-03-07T18:08:18+09:00
 slug: from-suzy-xx-in-palestine
 title: From Suzy xx in Palestine
-tags: guest writer,palestine,suzy xx,terror,travel
+tags: [ "guest writer", "palestine", "suzy xx", "terror", "travel" ]
 ---
 
 ##18:08 Friday 07 March 2008

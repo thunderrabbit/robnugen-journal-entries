@@ -1,6 +1,6 @@
 ---
 title: Chapter this morning
-tags: lesson, reflection, tree, water, indoors
+tags: [ "lesson", "reflection", "tree", "water", "indoors" ]
 author: Rob Nugen
 date: 2014-11-20
 ---

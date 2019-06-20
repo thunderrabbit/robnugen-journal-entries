@@ -1,6 +1,6 @@
 ---
 title: New Years lunch with Ma and Fred in Japan 3 Jan 2013
-tags: new years, fred, ma, family, japan
+tags: [ "new years", "fred", "ma", "family", "japan" ]
 author: Rob Nugen
 date: 2013-01-03
 ---
