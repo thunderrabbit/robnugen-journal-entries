@@ -1,6 +1,6 @@
 ---
 title: Meeting Mikai in Kawasaki
-tags: 二人
+tags: [ "二人" ]
 author: Rob Nugen
 date: 2014-11-19
 ---

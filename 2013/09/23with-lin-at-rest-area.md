@@ -1,6 +1,6 @@
 ---
 title: With Lin at rest area
-tags: mt-fuji
+tags: [ "mt-fuji" ]
 author: Rob Nugen
 date: 2013-09-23
 ---

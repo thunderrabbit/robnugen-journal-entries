@@ -1,6 +1,6 @@
 ---
 title: Hopefully made the repo palatable
-tags: hakyll-journal
+tags: [ "hakyll-journal" ]
 author: Rob Nugen
 date: 2014-11-03
 ---

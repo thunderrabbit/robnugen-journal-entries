@@ -1,6 +1,6 @@
 ---
 title: Next I-group meetings
-tags: i-group
+tags: [ "i-group" ]
 Author: Rob Nugen
 date: 2015-10-23T20:51:39+09:00
 ---

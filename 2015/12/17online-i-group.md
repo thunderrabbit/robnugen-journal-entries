@@ -1,6 +1,6 @@
 ---
 title: online I-group
-tags: i-group
+tags: [ "i-group" ]
 author: Rob Nugen
 date: 2015-12-17T13:59:09+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Nice meditation
-tags: 瞑想
+tags: [ "瞑想" ]
 author: Rob Nugen
 date: 2015-11-21T17:50:32+09:00
 ---
