@@ -15,3 +15,11 @@ the way to go these days.
 
 So happy to get another subscriber on Youtube, and enthralling to see
 her enthralled with the process of animating the construction!
+
+For example, when she watched how I made the part with Spoonhead and
+Candy Mama lifting and sending small orange marbles down the Triple
+Splitter Small Feeder, she realized that the marbles have to be placed
+in exactly  spots in order to appear to be rolling.  She also asked
+the very important question: do marbles really roll down the track?
+
+Great question, and yes.
