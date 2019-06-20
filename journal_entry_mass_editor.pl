@@ -31,6 +31,10 @@ sub edits() {
         my @lines = <FILE>;
         close FILE;
         for my $line ( @lines ) {
+
+#  single tag, including spaces          if ( $line =~ /tags:\s*([\w ]*\w+)$/  ) {      # look for 'tags: tag, double tag, tag3, up, to, seven, tags' (with no quotes)
+#  single tag              $line = "tags: [ \"$1\" ]\n";       # wrap tags with quotes and brackets
+
             if ( $line =~ /tags:\s+([^",]*),\s*([^",]*),\s*([^",]*),\s*([^",]*),\s*([^",]*),\s*([^",]*),\s*([^"\n,]*)$/  ) {      # look for 'tags: tag, double tag, tag3, up, to, seven, tags' (with no quotes)
                 $edited = 1;
                 print "$line\n";
