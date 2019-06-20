@@ -1,6 +1,6 @@
 ---
 title: Zzzz Bobbi is gone
-tags: sleepy
+tags: [ "sleepy" ]
 author: Rob Nugen
 date: 1992-09-21
 ---

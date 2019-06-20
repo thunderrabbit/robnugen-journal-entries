@@ -3,7 +3,7 @@ title: book babes HOP
 events: skipped Lori's party, ultimate, HOP with Jeanine
 people: Lori, Suzanne, Diane, Jeanine, Angela
 locations: Univeristy of Houston, House of Pies
-tags: HOP
+tags: [ "hop" ]
 author: Rob Nugen
 date: 1993-12-04
 ---

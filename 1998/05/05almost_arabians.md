@@ -1,6 +1,6 @@
 ---
 title: almost arabians
-tags: gymnastics
+tags: [ "gymnastics" ]
 author: Rob Nugen
 date: 1998-05-05
 ---

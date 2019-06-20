@@ -1,6 +1,6 @@
 ---
 title: skate George R Brown disc perceptions
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 1994-06-14
 ---

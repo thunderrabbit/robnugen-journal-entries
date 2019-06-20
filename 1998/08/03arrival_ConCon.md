@@ -1,6 +1,6 @@
 ---
 title: arrival ConCon
-tags: Con Con, YRUU
+tags: [ "concon", "con-con", "arrival" ]
 author: Rob Nugen
 date: 1998-08-03
 ---

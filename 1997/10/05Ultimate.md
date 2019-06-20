@@ -1,6 +1,6 @@
 ---
 title: Ultimate!
-tags: ultimate
+tags: [ "ultimate" ]
 author: Rob Nugen
 date: 1997-10-05
 ---

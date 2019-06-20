@@ -1,6 +1,6 @@
 ---
 title: lethal weapon 4
-tags: movies
+tags: [ "movies" ]
 author: Rob Nugen
 date: 1998-07-18
 ---

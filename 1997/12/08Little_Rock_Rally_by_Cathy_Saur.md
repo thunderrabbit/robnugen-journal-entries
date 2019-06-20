@@ -1,6 +1,6 @@
 ---
 title: Little Rock Rally by Cathy Saur
-tags: YRUU
+tags: [ "YRUU" ]
 author: Rob Nugen
 date: 1997-12-08
 ---

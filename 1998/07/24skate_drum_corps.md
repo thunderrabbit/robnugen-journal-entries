@@ -1,6 +1,6 @@
 ---
 title: skate drum corps
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 1998-07-24
 ---

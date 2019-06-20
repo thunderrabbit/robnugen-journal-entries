@@ -1,6 +1,6 @@
 ---
 title: gymnastics back handsprings
-tags: gymnastics
+tags: [ "gymnastics" ]
 author: Rob Nugen
 date: 1998-03-24
 ---

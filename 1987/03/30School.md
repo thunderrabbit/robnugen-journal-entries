@@ -1,6 +1,6 @@
 ---
 title: School
-tags: school
+tags: [ "school" ]
 author: Rob Nugen
 date: 1987-03-30
 ---

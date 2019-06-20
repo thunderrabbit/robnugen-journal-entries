@@ -1,6 +1,6 @@
 ---
 title: Long Entry
-tags: long, reverb
+tags: [ "long", "reverb", "gymnastics" ]
 events: all-nighter graphics, gymnastics, wading fountain reverb
 people: Dave, Maggie, John, Katy, Heather, Marcel, Christine, Laura, Chris, Fred, Dawn, Amanda, Britt
 locations: Univeristy of Houston, West Gray #3

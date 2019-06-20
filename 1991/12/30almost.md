@@ -1,6 +1,6 @@
 ---
 title: almost
-tags: schedule
+tags: [ "schedule" ]
 author: Rob Nugen
 date: 1991-12-30
 ---

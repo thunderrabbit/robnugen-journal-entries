@@ -1,6 +1,6 @@
 ---
 title: skate frisbee job search
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 1996-08-02
 ---

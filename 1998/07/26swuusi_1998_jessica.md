@@ -1,6 +1,6 @@
 ---
 title: swuusi 1998 jessica
-tags: swuusi, YRUU
+tags: [ "swuusi", "yruu" ]
 author: Rob Nugen
 date: 1998-07-26
 ---

@@ -1,6 +1,6 @@
 ---
 title: random skate stories
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 1996-04-01
 ---

@@ -1,6 +1,6 @@
 ---
 title: Zzzz homework blockade Bobbi in Chicago
-tags: sleepy
+tags: [ "sleepy" ]
 author: Rob Nugen
 date: 1992-09-20
 ---

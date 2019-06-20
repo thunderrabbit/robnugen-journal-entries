@@ -1,6 +1,6 @@
 ---
 title: Candie gymnastics
-tags: gymnastics
+tags: [ "gymnastics" ]
 author: Rob Nugen
 date: 1987-05-05
 ---

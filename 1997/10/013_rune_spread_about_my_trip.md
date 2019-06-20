@@ -1,6 +1,6 @@
 ---
 title: 3 rune spread about my trip
-tags: runes
+tags: [ "runes" ]
 author: Rob Nugen
 date: 1997-10-01
 ---

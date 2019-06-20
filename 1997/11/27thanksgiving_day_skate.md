@@ -1,6 +1,6 @@
 ---
 title: thanksgiving day skate
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 1997-11-27
 ---

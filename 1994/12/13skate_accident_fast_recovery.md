@@ -1,6 +1,6 @@
 ---
 title: skate accident fast recovery
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 1994-12-13
 ---

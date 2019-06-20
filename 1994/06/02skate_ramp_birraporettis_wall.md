@@ -1,6 +1,6 @@
 ---
 title: skate ramp birraporettis wall
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 1994-06-02
 ---

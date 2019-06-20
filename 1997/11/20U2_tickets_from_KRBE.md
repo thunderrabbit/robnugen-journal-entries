@@ -1,6 +1,6 @@
 ---
 title: U2 tickets from KRBE
-tags: krbe
+tags: [ "krbe" ]
 author: Rob Nugen
 date: 1997-11-20
 ---

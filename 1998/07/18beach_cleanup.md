@@ -1,6 +1,6 @@
 ---
 title: beach cleanup
-tags: YRUU
+tags: [ "YRUU" ]
 author: Rob Nugen
 date: 1998-07-18
 ---

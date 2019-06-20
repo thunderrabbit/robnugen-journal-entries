@@ -1,6 +1,6 @@
 ---
 title: centex pics
-tags: ultimate
+tags: [ "ultimate" ]
 author: Rob Nugen
 date: 1998-03-22
 ---

@@ -1,6 +1,6 @@
 ---
 title: Austin Rally by Sean Murray
-tags: YRUU
+tags: [ "YRUU" ]
 author: Sean Murray
 date: 1998-03-09
 ---

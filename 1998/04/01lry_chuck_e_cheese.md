@@ -1,6 +1,6 @@
 ---
 title: lry chuck e cheese
-tags: YRUU
+tags: [ "YRUU" ]
 author: Rob Nugen
 date: 1998-04-01
 ---

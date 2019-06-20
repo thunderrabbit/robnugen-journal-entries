@@ -1,6 +1,6 @@
 ---
 title: hey thats my name
-tags: robert
+tags: [ "robert" ]
 author: Rob Nugen
 date: 1998-08-18
 ---

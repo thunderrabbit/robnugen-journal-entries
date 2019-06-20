@@ -1,6 +1,6 @@
 ---
 title: Rifle Camp
-tags: rifles
+tags: [ "rifles" ]
 author: Rob Nugen
 date: 1987-07-10
 ---

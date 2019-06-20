@@ -1,6 +1,6 @@
 ---
 title: Haunted House LRY Lock-in!
-tags: YRUU
+tags: [ "YRUU" ]
 author: Rob Nugen
 date: 1997-10-25
 ---

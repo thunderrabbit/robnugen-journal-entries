@@ -1,6 +1,6 @@
 ---
 title: car surfing skate
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 1996-07-19
 ---

@@ -1,6 +1,6 @@
 ---
 title: Gymnastics!
-tags: gymnastics
+tags: [ "gymnastics" ]
 author: Rob Nugen
 date: 1998-02-19
 ---

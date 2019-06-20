@@ -1,6 +1,6 @@
 ---
 title: cluster kickoff
-tags: YRUU
+tags: [ "YRUU" ]
 author: Rob Nugen
 date: 1998-05-10
 ---

@@ -1,6 +1,6 @@
 ---
 title: pulling skaters is good for your legs
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 1996-04-05
 ---

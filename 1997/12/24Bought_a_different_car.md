@@ -1,6 +1,6 @@
 ---
 title: Bought a different car!
-tags: car
+tags: [ "car" ]
 author: Rob Nugen
 date: 1997-12-24
 ---

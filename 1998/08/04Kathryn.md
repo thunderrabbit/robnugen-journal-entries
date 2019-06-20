@@ -1,6 +1,6 @@
 ---
 title: Kathryn
-tags: Con Con, YRUU
+tags: [ "concon", "con-con", "kathryn" ]
 author: Rob Nugen
 date: 1998-08-04
 ---

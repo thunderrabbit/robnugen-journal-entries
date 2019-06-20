@@ -1,6 +1,6 @@
 ---
 title: host with the most
-tags: YRUU
+tags: [ "YRUU" ]
 author: Rob Nugen
 date: 1996-01-17
 ---

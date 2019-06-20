@@ -1,6 +1,6 @@
 ---
 title: unproductive blues
-tags: bah
+tags: [ "bah" ]
 author: Rob Nugen
 date: 1997-09-29
 ---

@@ -1,6 +1,6 @@
 ---
 title: skate with diane
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 1998-05-14
 ---

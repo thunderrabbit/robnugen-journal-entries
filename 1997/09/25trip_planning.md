@@ -1,6 +1,6 @@
 ---
 title: trip planning
-tags: plans
+tags: [ "plans" ]
 author: Rob Nugen
 date: 1997-09-25
 ---

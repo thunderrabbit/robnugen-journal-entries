@@ -1,6 +1,6 @@
 ---
 title: skate and imax
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 1998-07-11
 ---

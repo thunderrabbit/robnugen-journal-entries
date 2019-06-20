@@ -1,6 +1,6 @@
 ---
 title: Spring Conference Baton Rouge
-tags: yruu
+tags: [ "yruu" ]
 author: Rob Nugen
 date: 1987-04-29
 ---

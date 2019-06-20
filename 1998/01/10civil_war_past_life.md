@@ -1,6 +1,6 @@
 ---
 title: civil war past life
-tags: past life
+tags: [ "past", "past-life", "civil-war", "kathy-fey", "forest" ]
 author: Rob Nugen
 date: 1998-01-10
 ---

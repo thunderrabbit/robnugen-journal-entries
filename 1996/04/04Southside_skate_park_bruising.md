@@ -1,6 +1,6 @@
 ---
 title: Southside skate park bruising
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 1996-04-04
 ---

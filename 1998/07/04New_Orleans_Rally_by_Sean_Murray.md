@@ -1,6 +1,6 @@
 ---
 title: New Orleans Rally by Sean Murray
-tags: YRUU
+tags: [ "YRUU" ]
 author: Sean Murray
 date: 1998-07-04
 ---

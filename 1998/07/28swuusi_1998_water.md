@@ -1,6 +1,6 @@
 ---
 title: swuusi 1998 water
-tags: swuusi, YRUU
+tags: [ "swuusi", "yruu", "water" ]
 author: Rob Nugen
 date: 1998-07-28
 ---

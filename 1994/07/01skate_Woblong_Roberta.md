@@ -1,6 +1,6 @@
 ---
 title: skate Woblong Roberta
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 1994-07-01
 ---

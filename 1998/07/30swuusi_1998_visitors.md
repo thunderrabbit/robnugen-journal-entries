@@ -1,6 +1,6 @@
 ---
 title: swuusi 1998 visitors
-tags: swuusi, YRUU
+tags: [ "swuusi", "yruu", "visitors" ]
 author: Rob Nugen
 date: 1998-07-30
 ---

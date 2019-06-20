@@ -1,6 +1,6 @@
 ---
 title: skate recovery
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 1994-10-05
 ---

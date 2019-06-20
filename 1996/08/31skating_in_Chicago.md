@@ -1,6 +1,6 @@
 ---
 title: skating in Chicago
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 1996-08-31
 ---

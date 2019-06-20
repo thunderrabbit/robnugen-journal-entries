@@ -1,6 +1,6 @@
 ---
 title: third annual Thanksgiving Eve skate
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 1997-11-26
 ---

@@ -1,6 +1,6 @@
 ---
 title: gymnastics closer layout
-tags: gymnastics
+tags: [ "gymnastics" ]
 author: Rob Nugen
 date: 1998-07-14
 ---

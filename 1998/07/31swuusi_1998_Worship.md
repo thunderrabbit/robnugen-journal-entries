@@ -1,6 +1,6 @@
 ---
 title: swuusi 1998 Worship
-tags: swuusi, YRUU
+tags: [ "swuusi", "yruu", "worship" ]
 author: Rob Nugen
 date: 1998-07-31
 ---

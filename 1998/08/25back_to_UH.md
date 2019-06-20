@@ -1,6 +1,6 @@
 ---
 title: back to UH
-tags: uh
+tags: [ "uh" ]
 author: Rob Nugen
 date: 1998-08-25
 ---

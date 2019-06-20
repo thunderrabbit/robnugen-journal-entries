@@ -1,6 +1,6 @@
 ---
 title: Dream 09am
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 people: Madonna
 locations: West Gray #3

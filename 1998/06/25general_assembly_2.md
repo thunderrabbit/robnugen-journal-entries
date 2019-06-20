@@ -1,6 +1,6 @@
 ---
 title: general assembly 2
-tags: YRUU
+tags: [ "YRUU" ]
 author: Rob Nugen
 date: 1998-06-25
 ---

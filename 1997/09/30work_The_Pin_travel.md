@@ -1,6 +1,6 @@
 ---
 title: work The Pin travel
-tags: writing
+tags: [ "writing" ]
 author: Rob Nugen
 date: 1997-09-30
 ---

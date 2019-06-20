@@ -1,6 +1,6 @@
 ---
 title: Youth planning and dinner
-tags: YRUU
+tags: [ "YRUU" ]
 author: Rob Nugen
 date: 1997-10-17
 ---

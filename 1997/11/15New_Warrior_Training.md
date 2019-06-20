@@ -1,6 +1,6 @@
 ---
 title: New Warrior Training
-tags: mkp
+tags: [ "mkp" ]
 author: Rob Nugen
 date: 1997-11-15
 ---

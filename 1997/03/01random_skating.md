@@ -1,6 +1,6 @@
 ---
 title: random skating
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 1997-03-01
 ---

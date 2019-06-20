@@ -1,6 +1,6 @@
 ---
 title: skate road rash
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 1995-01-20
 ---

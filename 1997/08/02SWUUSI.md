@@ -1,6 +1,6 @@
 ---
 title: SWUUSI
-tags: SWUUSI, YRUU
+tags: [ "swuusi", "yruu" ]
 author: Rob Nugen
 date: 1997-08-02
 ---

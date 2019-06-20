@@ -1,6 +1,6 @@
 ---
 title: SWUUSI by Maia Cudhea
-tags: swuusi, YRUU
+tags: [ "swuusi", "yruu", "maia" ]
 author: Maia Cudhea
 date: 1998-07-25
 ---

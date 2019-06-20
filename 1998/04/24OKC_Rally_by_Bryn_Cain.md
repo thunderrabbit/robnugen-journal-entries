@@ -1,6 +1,6 @@
 ---
 title: OKC Rally by Bryn Cain
-tags: YRUU
+tags: [ "YRUU" ]
 author: Bryn Cain
 date: 1998-04-24
 ---

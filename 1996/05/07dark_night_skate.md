@@ -1,6 +1,6 @@
 ---
 title: dark night skate
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 1996-05-07
 ---

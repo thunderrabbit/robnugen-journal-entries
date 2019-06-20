@@ -1,6 +1,6 @@
 ---
 title: zzz after Ultimate
-tags: sleepy
+tags: [ "sleepy" ]
 author: Rob Nugen
 date: 1997-10-18
 ---

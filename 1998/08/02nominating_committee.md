@@ -1,6 +1,6 @@
 ---
 title: nominating committee
-tags: swuusi, YRUU
+tags: [ "swuusi", "yruu", "nominating" ]
 author: Rob Nugen
 date: 1998-08-02
 ---

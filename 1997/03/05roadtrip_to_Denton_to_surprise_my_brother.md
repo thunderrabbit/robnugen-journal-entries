@@ -1,6 +1,6 @@
 ---
 title: roadtrip to Denton to surprise my brother
-tags: surprise, fred
+tags: [ "surprise", "fred", "denton" ]
 author: Rob Nugen
 date: 1997-03-05
 ---

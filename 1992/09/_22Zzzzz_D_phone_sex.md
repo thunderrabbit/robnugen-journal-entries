@@ -1,6 +1,6 @@
 ---
 title: ZZzzz NSFW
-tags: sleepy
+tags: [ "sleepy" ]
 author: Rob Nugen
 date: 1992-09-23
 ---

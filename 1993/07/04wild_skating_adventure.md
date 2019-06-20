@@ -1,6 +1,6 @@
 ---
 title: wild skating adventure
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 1993-07-04
 ---

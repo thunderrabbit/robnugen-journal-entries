@@ -1,6 +1,6 @@
 ---
 title: Runes Tarot say do not buy the car!
-tags: rune
+tags: [ "rune" ]
 author: Rob Nugen
 date: 1997-12-03
 ---

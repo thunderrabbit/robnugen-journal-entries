@@ -1,6 +1,6 @@
 ---
 title: rally houston 1998
-tags: YRUU
+tags: [ "YRUU" ]
 author: Rob Nugen
 date: 1998-01-18
 ---

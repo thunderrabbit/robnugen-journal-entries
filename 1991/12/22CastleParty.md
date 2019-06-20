@@ -1,6 +1,6 @@
 ---
 title: CastleParty
-tags: cod
+tags: [ "cod" ]
 author: Rob Nugen
 date: 1991-12-22
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dreams
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 1987-03-31
 ---

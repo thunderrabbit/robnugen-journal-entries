@@ -1,6 +1,6 @@
 ---
 title: before YAC lock-in
-tags: YRUU
+tags: [ "YRUU" ]
 author: Rob Nugen
 date: 1997-09-25
 ---

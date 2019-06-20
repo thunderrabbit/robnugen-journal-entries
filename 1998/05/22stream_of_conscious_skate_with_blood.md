@@ -1,6 +1,6 @@
 ---
 title: stream of conscious skate with blood
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 1998-05-22
 ---

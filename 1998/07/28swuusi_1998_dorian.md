@@ -1,6 +1,6 @@
 ---
 title: swuusi 1998 dorian
-tags: swuusi, YRUU
+tags: [ "swuusi", "yruu", "dorian" ]
 author: Rob Nugen
 date: 1998-07-28
 ---

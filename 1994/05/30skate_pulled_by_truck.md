@@ -1,6 +1,6 @@
 ---
 title: skate pulled by truck
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 1994-05-30
 ---

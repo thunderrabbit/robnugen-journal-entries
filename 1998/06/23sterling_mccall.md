@@ -1,6 +1,6 @@
 ---
 title: sterling mccall
-tags: letter, lugnuts
+tags: [ "letter", "lugnuts" ]
 author: Rob Nugen
 date: 1998-06-23
 ---

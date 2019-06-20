@@ -1,6 +1,6 @@
 ---
 title: LRY dinner at Chuck E. Cheese!
-tags: YRUU
+tags: [ "YRUU" ]
 author: Rob Nugen
 date: 1997-12-03
 ---

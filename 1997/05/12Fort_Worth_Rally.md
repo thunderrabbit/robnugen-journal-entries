@@ -1,6 +1,6 @@
 ---
 title: Fort Worth Rally
-tags: YRUU
+tags: [ "YRUU" ]
 author: Rob Nugen
 date: 1997-05-12
 ---

@@ -1,6 +1,6 @@
 ---
 title: Schlitterbahn in New Braunfels
-tags: schlitterbahn, water park
+tags: [ "schlitterbahn", "fun", "park", "water" ]
 author: Rob Nugen
 date: 1997-06-28
 ---

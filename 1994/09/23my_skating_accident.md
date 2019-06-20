@@ -1,6 +1,6 @@
 ---
 title: my skating accident
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 1994-09-23
 ---

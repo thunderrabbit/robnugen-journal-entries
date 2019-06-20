@@ -1,6 +1,6 @@
 ---
 title: windows 98
-tags: windows 98
+tags: [ "windows", "windows-98" ]
 author: Rob Nugen
 date: 1998-07-20
 ---

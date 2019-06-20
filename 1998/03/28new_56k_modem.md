@@ -1,6 +1,6 @@
 ---
 title: new 56k modem
-tags: zoom
+tags: [ "zoom" ]
 author: Rob Nugen
 date: 1998-03-28
 ---

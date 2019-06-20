@@ -1,6 +1,6 @@
 ---
 title: Skate with Roberta
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 1995-01-13
 ---

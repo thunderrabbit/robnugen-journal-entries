@@ -1,6 +1,6 @@
 ---
 title: centex rod
-tags: ultimate
+tags: [ "ultimate" ]
 author: Rod Meek
 date: 1998-03-22
 ---

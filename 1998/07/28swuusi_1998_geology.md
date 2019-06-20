@@ -1,6 +1,6 @@
 ---
 title: swuusi 1998 geology
-tags: swuusi, YRUU
+tags: [ "swuusi", "yruu", "geology" ]
 author: Rob Nugen
 date: 1998-07-28
 ---

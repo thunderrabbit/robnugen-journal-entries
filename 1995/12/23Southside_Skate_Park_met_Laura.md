@@ -1,6 +1,6 @@
 ---
 title: Southside Skate Park met Laura
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 1995-12-23
 ---

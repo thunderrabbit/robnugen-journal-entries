@@ -1,6 +1,6 @@
 ---
 title: Airplane to ConCon
-tags: Con Con, YRUU
+tags: [ "concon", "con-con", "flight", "yruu" ]
 author: Rob Nugen
 date: 1998-08-03
 ---

@@ -1,11 +1,10 @@
 ---
-title: School
-tags: 
+title: school
+tags: [ "vax" ]
 author: Rob Nugen
 date: 1993-11-23
 ---
 
-<!-- tags: VAX -->
 <!-- events: -->
 <!-- people: Maggie, Marcel, Laura -->
 <!-- locations: Univeristy of Houston -->

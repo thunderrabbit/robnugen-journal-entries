@@ -1,6 +1,6 @@
 ---
 title: swuusi 1998 completion
-tags: swuusi, YRUU
+tags: [ "swuusi", "yruu", "completion", "row", "senior" ]
 author: Rob Nugen
 date: 1998-07-31
 ---

@@ -1,6 +1,6 @@
 ---
 title: SWUUSI by Dane Dormio
-tags: YRUU, SWUUSI
+tags: [ "swuusi", "yruu", "dane" ]
 author: Rob Nugen
 date: 1997-08-02
 ---

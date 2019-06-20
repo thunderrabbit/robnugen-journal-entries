@@ -1,6 +1,6 @@
 ---
 title: ConCon first am
-tags: Con Con, YRUU
+tags: [ "concon", "con-con", "first", "morning" ]
 author: Rob Nugen
 date: 1998-08-04
 ---

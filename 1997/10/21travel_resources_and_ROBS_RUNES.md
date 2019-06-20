@@ -1,6 +1,6 @@
 ---
 title: travel resources and ROBS RUNES
-tags: runes
+tags: [ "runes" ]
 author: Rob Nugen
 date: 1997-10-21
 ---

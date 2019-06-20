@@ -1,6 +1,6 @@
 ---
 title: Day
-tags: lazy
+tags: [ "lazy" ]
 author: Rob Nugen
 date: 1987-03-28
 ---

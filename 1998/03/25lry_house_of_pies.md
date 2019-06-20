@@ -1,6 +1,6 @@
 ---
 title: lry house of pies
-tags: YRUU
+tags: [ "YRUU" ]
 author: Rob Nugen
 date: 1998-03-25
 ---

@@ -1,6 +1,6 @@
 ---
 title: San Antonio Rally by Mike Moren
-tags: YRUU
+tags: [ "YRUU" ]
 author: Rob Nugen
 date: 1997-11-01
 ---

@@ -1,6 +1,6 @@
 ---
 title: Houston Rally by Jason Fricke
-tags: YRUU, poetry
+tags: [ "YRUU", "poetry" ]
 author: Jason Fricke
 date: 1998-01-19
 ---

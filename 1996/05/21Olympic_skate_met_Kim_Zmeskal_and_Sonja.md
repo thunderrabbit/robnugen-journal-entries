@@ -1,6 +1,6 @@
 ---
 title: Olympic skate met Kim Zmeskal and Sonja
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 1996-05-21
 ---

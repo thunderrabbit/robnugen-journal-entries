@@ -1,6 +1,6 @@
 ---
 title: lry macaroni grill
-tags: YRUU
+tags: [ "YRUU" ]
 author: Rob Nugen
 date: 1998-03-18
 ---

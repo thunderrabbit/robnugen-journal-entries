@@ -1,6 +1,6 @@
 ---
 title: swuusi 1998 scorpion
-tags: swuusi, YRUU
+tags: [ "swuusi", "yruu", "scorpion", "pain" ]
 author: Rob Nugen
 date: 1998-07-27
 ---

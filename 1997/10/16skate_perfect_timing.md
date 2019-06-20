@@ -1,6 +1,6 @@
 ---
 title: skate perfect timing
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 1997-10-16
 ---

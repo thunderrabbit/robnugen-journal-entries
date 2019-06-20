@@ -1,6 +1,6 @@
 ---
 title: Stripped lugnuts
-tags: lugnuts, cancel
+tags: [ "lugnuts", "cancel", "stripped" ]
 author: Rob Nugen
 date: 1998-06-23
 ---
@@ -24,7 +24,7 @@ appointment and all that.
 <p>The last people to mess with the lugnuts were in the service
 department of Sterling McCall Toyota, so I wrote them a letter.
 
-<p>On about 6 July, I got this <a href="/cgi-local/journal.pl?date=1998/07/03#sterling_response0">response</a>.
+<p>On about 6 July, I got this <a href="/journal/1998/07/03sterling_response">response</a>.
 
 <p>I was pleased I had written, and part of me thought, "you shoulda asked for more."  But overall, I think it's all good.
 </p>

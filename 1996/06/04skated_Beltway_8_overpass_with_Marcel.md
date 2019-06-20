@@ -1,6 +1,6 @@
 ---
 title: skated Beltway 8 overpass with Marcel
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 1996-06-04
 ---

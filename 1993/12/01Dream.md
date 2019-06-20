@@ -1,6 +1,6 @@
 ---
 title: Dream
-tags: dream
+tags: [ "dream" ]
 events: dream kissing lotsa girls
 author: Rob Nugen
 date: 1993-12-01

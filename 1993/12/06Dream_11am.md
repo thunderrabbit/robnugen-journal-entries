@@ -1,6 +1,6 @@
 ---
 title: Dream 11am
-tags: dream
+tags: [ "dream" ]
 people: Melanie, Maggie
 locations: West Gray #3
 author: Rob Nugen

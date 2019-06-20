@@ -1,11 +1,10 @@
 ---
-title: SQL instead of Catherine Wheel
-tags: 
+title: "SQL instead of Catherine Wheel"
+tags: [ "sql" ]
 author: Rob Nugen
 date: 1993-11-29
 ---
 
-<!-- tags: SQL, disc -->
 <!-- events: only 30 people at Catherine Wheel show -->
 <!-- people: Danny, Cathy -->
 <!-- locations: Univeristy of Houston -->

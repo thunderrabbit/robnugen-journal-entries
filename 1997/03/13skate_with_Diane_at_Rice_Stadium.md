@@ -1,6 +1,6 @@
 ---
 title: skate with Diane at Rice Stadium
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 1997-03-13
 ---

@@ -1,6 +1,6 @@
 ---
 title: State of my life address
-tags: soml
+tags: [ "soml" ]
 author: Rob Nugen
 locations: West Gray #3
 date: 1993-12-05
