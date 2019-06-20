@@ -1,6 +1,6 @@
 ---
 title: hiking day
-tags: rohini, hadashi, barefoot, mitake, hike, mark, esther
+tags: [ "rohini", "hadashi", "barefoot", "mitake", "hike", "mark", "esther" ]
 author: Rob Nugen
 date: 2015-04-19T21:37:54+09:00
 ---

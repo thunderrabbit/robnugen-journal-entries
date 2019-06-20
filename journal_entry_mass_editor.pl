@@ -22,8 +22,8 @@ sub edits() {
     }
 
     my $edited = 0;
-    if ($seen < 1000 and -f and /.md/ ) {
-        print "Processing file: $File::Find::name\n";
+    if ($seen < 500000 and -f and /.md/ ) {
+  #      print "Processing file: $File::Find::name\n";
         $seen++;
         $edited = 0;
         my $file = $_;
@@ -31,10 +31,10 @@ sub edits() {
         my @lines = <FILE>;
         close FILE;
         for my $line ( @lines ) {
-            if ( $line =~ /tags:\s+(\w+)/  ) {      # look for 'tags: tag' (with no quotes)
+            if ( $line =~ /tags:\s+([^",]*),\s*([^",]*),\s*([^",]*),\s*([^",]*),\s*([^",]*),\s*([^",]*),\s*([^"\n,]*)$/  ) {      # look for 'tags: tag, double tag, tag3, up, to, seven, tags' (with no quotes)
                 $edited = 1;
-                print $1;
-                $line = "tags: [ \"$1\" ]\n";       # wrap tag with quotes and brackets
+                print "$line\n";
+                $line = "tags: [ \"$1\", \"$2\", \"$3\", \"$4\", \"$5\", \"$6\", \"$7\" ]\n";       # wrap tags with quotes and brackets
                 print $line;
             }
 #            if ( $line =~ /moment 1999 arrived/ ) {
