@@ -1,6 +1,6 @@
 ---
 title: Great day
-tags: on-track
+tags: [ "on-track" ]
 author: Rob Nugen
 date: 2017-01-27T23:28:22+09:00
 ---

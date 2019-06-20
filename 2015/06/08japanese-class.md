@@ -1,6 +1,6 @@
 ---
 title: Japanese class
-tags: りさ
+tags: [ "りさ" ]
 author: Rob Nugen
 date: 2015-06-08T23:04:33+09:00
 ---

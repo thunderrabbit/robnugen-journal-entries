@@ -1,6 +1,6 @@
 ---
 title: Enjoy Soulful Living
-tags: 名刺
+tags: [ "名刺" ]
 author: Rob Nugen
 date: 2016-01-14T20:57:43+09:00
 ---

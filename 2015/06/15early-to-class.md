@@ -1,6 +1,6 @@
 ---
 title: early to class
-tags: 和田さん
+tags: [ "和田さん" ]
 author: Rob Nugen
 date: 2015-06-15T18:08:35+09:00
 ---
