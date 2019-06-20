@@ -1,6 +1,6 @@
 ---
 title: Site design
-tags: uh-oh
+tags: [ "uh-oh" ]
 author: Rob Nugen
 date: 2015-11-18T19:06:17+09:00
 ---
