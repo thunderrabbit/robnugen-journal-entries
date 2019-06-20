@@ -1,6 +1,6 @@
 ---
 title: Trouble to get iOS app validated
-tags: ios, moe joe
+tags: [ "ios", "moe joe" ]
 author: Rob Nugen
 date: 2014-10-31
 ---

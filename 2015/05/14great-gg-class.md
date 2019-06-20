@@ -1,6 +1,6 @@
 ---
 title: great GG class
-tags: gg, lesson
+tags: [ "gg", "lesson" ]
 author: Rob Nugen
 date: 2015-05-14T20:21:42+09:00
 ---

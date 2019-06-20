@@ -1,6 +1,6 @@
 ---
 title: good shite
-tags: work, hip hop
+tags: [ "work", "hip hop" ]
 author: Rob Nugen
 date: 2015-06-16T18:08:26+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Can't remember how I made journal entries on Debian
-tags: debina, bah
+tags: [ "debina", "bah" ]
 author: Rob Nugen
 date: 2015-09-30T11:25:12+09:00
 ---

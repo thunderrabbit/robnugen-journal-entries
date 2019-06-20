@@ -1,6 +1,6 @@
 ---
 title: ktru ultimate
-tags: ktru, ultimate
+tags: [ "ktru", "ultimate" ]
 author: Rob Nugen
 date: 1999-04-08
 ---

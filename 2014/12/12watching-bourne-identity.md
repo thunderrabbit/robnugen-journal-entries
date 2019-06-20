@@ -1,6 +1,6 @@
 ---
 title: watching Bourne Identity
-tags: movie, hulu
+tags: [ "movie", "hulu" ]
 author: Rob Nugen
 date: 2014-12-13
 ---

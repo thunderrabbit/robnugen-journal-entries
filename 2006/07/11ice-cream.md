@@ -2,7 +2,7 @@
 date: 2006-07-11T02:41:28+09:00
 slug: ice-cream
 title: Ice Cream!!!!!!
-tags: internet,miscellaneous
+tags: [ "internet", "miscellaneous" ]
 ---
 
 ##02:41 Tuesday 11 July 2006

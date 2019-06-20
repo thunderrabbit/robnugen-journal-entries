@@ -1,6 +1,6 @@
 ---
 title: Miraikan
-tags: miraikan, lunch
+tags: [ "miraikan", "lunch" ]
 author: Rob Nugen
 date: 2015-04-05T12:57:05+09:00
 ---

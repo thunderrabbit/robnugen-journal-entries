@@ -2,7 +2,7 @@
 date: 2013-01-24T08:20:25+09:00
 slug: received-lip-piercings-in-my-dream
 title: received lip piercings in my dream
-tags: dream,journal
+tags: [ "dream", "journal" ]
 ---
 
 ##08:20 Thursday 24 January 2013

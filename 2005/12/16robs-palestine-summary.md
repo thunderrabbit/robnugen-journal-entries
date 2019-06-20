@@ -2,7 +2,7 @@
 date: 2005-12-16T11:35:56+09:00
 slug: robs-palestine-summary
 title: Rob's Palestine Summary
-tags: palestine,travel
+tags: [ "palestine", "travel" ]
 ---
 
 ##11:35 Friday 16 December 2005

@@ -1,6 +1,6 @@
 ---
 title: Netlify doesn't git clone --recursive
-tags: netlify, git, journal
+tags: [ "netlify", "git", "journal" ]
 author: Rob Nugen
 date: 2015-03-03T22:25:00+09:00
 ---

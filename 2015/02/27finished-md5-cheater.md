@@ -1,6 +1,6 @@
 ---
 title: Finished md5 cheater v1.0
-tags: md5, Perl
+tags: [ "md5", "Perl" ]
 author: Rob Nugen
 date: 2015-02-27T10:25:00+09:00
 ---

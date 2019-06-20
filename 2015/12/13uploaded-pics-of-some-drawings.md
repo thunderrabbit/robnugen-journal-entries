@@ -1,6 +1,6 @@
 ---
 title: Uploaded pics of some drawings
-tags: art, images
+tags: [ "art", "images" ]
 author: Rob Nugen
 date: 2015-12-13T20:49:02+09:00
 ---

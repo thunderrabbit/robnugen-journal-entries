@@ -1,6 +1,6 @@
 ---
 title: zzz mac
-tags: sleepy, 
+tags: [ "sleepy" ]
 author: Rob Nugen
 date: 2002-06-14
 ---

@@ -2,7 +2,7 @@
 date: 2012-10-21T00:37:05+09:00
 slug: state-of-my-life-address
 title: State of My Life Address
-tags: japan,state of my life address
+tags: [ "japan", "state of my life address" ]
 ---
 
 ##00:37 Sunday 21 October 2012

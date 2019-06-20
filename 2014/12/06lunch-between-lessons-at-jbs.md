@@ -1,6 +1,6 @@
 ---
 title: lunch between lessons at JBs
-tags: wow, lunch
+tags: [ "wow", "lunch" ]
 author: Rob Nugen
 date: 2014-12-06
 ---

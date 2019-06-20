@@ -2,7 +2,7 @@
 date: 2012-10-12T06:18:06+09:00
 slug: dream-about-andy-at-the-pink-cow
 title: Dream about Andy at The Pink Cow
-tags: dream,journal
+tags: [ "dream", "journal" ]
 ---
 
 ##06:18 Friday 12 October 2012

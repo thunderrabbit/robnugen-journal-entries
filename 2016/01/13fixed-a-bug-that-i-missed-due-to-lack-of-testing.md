@@ -1,6 +1,6 @@
 ---
 title: fixed a bug that I missed due to lack of testing
-tags: bug, work
+tags: [ "bug", "work" ]
 author: Rob Nugen
 date: 2016-01-13T18:50:53+09:00
 ---

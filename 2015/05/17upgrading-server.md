@@ -1,6 +1,6 @@
 ---
 title: upgrading server
-tags: upgrade, notes
+tags: [ "upgrade", "notes" ]
 author: Rob Nugen
 date: 2015-05-17T06:34:12+09:00
 ---

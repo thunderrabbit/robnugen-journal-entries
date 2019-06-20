@@ -1,6 +1,6 @@
 ---
 title: So we are thinking about PhoneGap
-tags: ios, phonegap
+tags: [ "ios", "phonegap" ]
 author: Rob Nugen
 date: 2014-10-31
 ---

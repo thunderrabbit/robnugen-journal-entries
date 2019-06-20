@@ -2,7 +2,7 @@
 date: 2013-01-10T03:03:14+09:00
 slug: late-late-final-night-before-ma-and-fred-go-home
 title: late late final night before Ma and Fred go home
-tags: internet,journal,travel
+tags: [ "internet", "journal", "travel" ]
 ---
 
 ##03:03 Thursday 10 January 2013

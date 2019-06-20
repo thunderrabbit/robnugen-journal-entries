@@ -1,6 +1,6 @@
 ---
 title: Fixed default values when creating new entries
-tags: emacs, interactive
+tags: [ "emacs", "interactive" ]
 author: Rob Nugen
 date: 2014-12-01
 ---

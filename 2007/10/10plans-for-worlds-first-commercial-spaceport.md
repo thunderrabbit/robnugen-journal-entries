@@ -2,7 +2,7 @@
 date: 2007-10-10T12:37:58+09:00
 slug: plans-for-worlds-first-commercial-spaceport
 title: Plans for World's First Commercial Spaceport
-tags: astronomy,technology
+tags: [ "astronomy", "technology" ]
 ---
 
 ##12:37 Wednesday 10 October 2007

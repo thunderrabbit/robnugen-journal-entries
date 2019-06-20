@@ -1,6 +1,6 @@
 ---
 title: adaptive images
-tags: images, site, wow
+tags: [ "images", "site", "wow" ]
 author: Rob Nugen
 date: 2015-03-22T23:52:00+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: mutsumi lesson
-tags: lesson, mutsumi
+tags: [ "lesson", "mutsumi" ]
 author: Rob Nugen
 date: 2015-04-07T21:48:40+09:00
 ---

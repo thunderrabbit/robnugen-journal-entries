@@ -2,7 +2,7 @@
 date: 2013-01-07T21:46:06+09:00
 slug: installed-alfred-app
 title: installed Alfred app
-tags: internet,journal
+tags: [ "internet", "journal" ]
 ---
 
 ##21:46 Monday 07 January 2013

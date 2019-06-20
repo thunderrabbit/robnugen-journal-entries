@@ -1,6 +1,6 @@
 ---
 title: my redmine question on superuser
-tags: redmine, oops
+tags: [ "redmine", "oops" ]
 author: Rob Nugen
 date: 2015-07-11T19:48:24+09:00
 ---

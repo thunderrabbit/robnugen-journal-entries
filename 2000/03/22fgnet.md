@@ -1,6 +1,6 @@
 ---
 title: fgnet
-tags: fgn, ktru
+tags: [ "fgn", "ktru" ]
 author: Rob Nugen
 date: 2000-03-22
 ---

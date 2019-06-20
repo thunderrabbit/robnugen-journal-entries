@@ -1,6 +1,6 @@
 ---
 title: Selenium
-tags: testing, work
+tags: [ "testing", "work" ]
 author: Rob Nugen
 date: 2015-10-28T19:16:05+09:00
 ---

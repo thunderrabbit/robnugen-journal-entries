@@ -1,6 +1,6 @@
 ---
 title: One Teleport Maze
-tags: maze, art
+tags: [ "maze", "art" ]
 author: Rob Nugen
 date: 2015-09-29T19:36:12+09:00
 ---

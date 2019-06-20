@@ -2,7 +2,7 @@
 date: 2006-08-12T11:14:20+09:00
 slug: its-a-fucking-bus
 title: It's a fucking bus
-tags: airplane day,guest writer,news,terror
+tags: [ "airplane day", "guest writer", "news", "terror" ]
 ---
 
 ##11:14 Saturday 12 August 2006

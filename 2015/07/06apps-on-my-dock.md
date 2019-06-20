@@ -1,6 +1,6 @@
 ---
 title: Apps on my Dock
-tags: apps, backup
+tags: [ "apps", "backup" ]
 author: Rob Nugen
 date: 2015-07-06T22:58:27+09:00
 ---

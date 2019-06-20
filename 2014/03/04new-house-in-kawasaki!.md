@@ -1,6 +1,6 @@
 ---
 title: New house in Kawasaki!
-tags: house, japan
+tags: [ "house", "japan" ]
 author: Rob Nugen
 date: 2014-03-04
 ---

@@ -1,6 +1,6 @@
 ---
 title: lost Portal 2 edits
-tags: hmm, ux
+tags: [ "hmm", "ux" ]
 author: Rob Nugen
 date: 2015-06-30T08:41:27+09:00
 ---

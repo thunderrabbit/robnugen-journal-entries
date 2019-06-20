@@ -1,6 +1,6 @@
 ---
 title: Started Phase 3 of AB website
-tags: ab, work
+tags: [ "ab", "work" ]
 author: Rob Nugen
 date: 2014-01-29
 ---

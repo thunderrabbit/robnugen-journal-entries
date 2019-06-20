@@ -2,7 +2,7 @@
 date: 2012-12-29T16:03:05+09:00
 slug: ktru-to-the-max-and-12
 title: KTRU to the max and 1/2
-tags: journal,ktru
+tags: [ "journal", "ktru" ]
 ---
 
 ##16:03 Saturday 29 December 2012

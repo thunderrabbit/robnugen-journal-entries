@@ -1,6 +1,6 @@
 ---
 title: IAP tangled up
-tags: iap, ios
+tags: [ "iap", "ios" ]
 author: Rob Nugen
 date: 2014-12-02
 ---

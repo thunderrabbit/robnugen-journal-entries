@@ -2,7 +2,7 @@
 date: 2008-11-17T12:50:26+09:00
 slug: wheels-who-needs-em
 title: wheels?  who needs 'em?
-tags: news,travel
+tags: [ "news", "travel" ]
 ---
 
 ##12:50 Monday 17 November 2008

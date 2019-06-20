@@ -2,7 +2,7 @@
 date: 2005-10-09T05:10:55+09:00
 slug: jerusalem
 title: Jerusalem
-tags: palestine,travel
+tags: [ "palestine", "travel" ]
 ---
 
 ##05:10 Sunday 09 October 2005

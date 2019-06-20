@@ -1,6 +1,6 @@
 ---
 title: Mika bye bye party
-tags: mika, kai
+tags: [ "mika", "kai" ]
 author: Rob Nugen
 date: 2015-03-19T23:14:00+09:00
 ---

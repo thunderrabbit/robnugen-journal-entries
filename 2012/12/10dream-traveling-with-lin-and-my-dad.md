@@ -2,7 +2,7 @@
 date: 2012-12-10T06:39:05+09:00
 slug: dream-traveling-with-lin-and-my-dad
 title: dream traveling with Lin and my dad
-tags: dream,journal
+tags: [ "dream", "journal" ]
 ---
 
 ##06:39 Monday 10 December 2012

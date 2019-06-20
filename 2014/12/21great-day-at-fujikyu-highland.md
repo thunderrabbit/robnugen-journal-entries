@@ -1,6 +1,6 @@
 ---
 title: Great day at Fujikyu Highland
-tags: fujiq, lin
+tags: [ "fujiq", "lin" ]
 author: Rob Nugen
 date: 2014-12-21
 ---

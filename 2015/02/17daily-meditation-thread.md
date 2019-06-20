@@ -1,6 +1,6 @@
 ---
 title: daily meditation thread
-tags: meditation, reddit
+tags: [ "meditation", "reddit" ]
 author: Rob Nugen
 date: 2015-02-17T18:50:00+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: YM lesson
-tags: ym, lesson
+tags: [ "ym", "lesson" ]
 author: Rob Nugen
 date: 2015-06-16T21:49:17+09:00
 ---

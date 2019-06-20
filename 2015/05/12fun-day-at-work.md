@@ -1,6 +1,6 @@
 ---
 title: Fun day at work
-tags: work, yay
+tags: [ "work", "yay" ]
 author: Rob Nugen
 date: 2015-05-12T17:35:08+09:00
 ---

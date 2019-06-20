@@ -1,6 +1,6 @@
 ---
 title: sample json over https
-tags: json, https
+tags: [ "json", "https" ]
 author: Rob Nugen
 date: 2015-10-05T09:16:50+09:00
 ---

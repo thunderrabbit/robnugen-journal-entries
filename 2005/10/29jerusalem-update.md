@@ -2,7 +2,7 @@
 date: 2005-10-29T04:53:42+09:00
 slug: jerusalem-update
 title: Jerusalem Update!
-tags: palestine,terror,travel
+tags: [ "palestine", "terror", "travel" ]
 ---
 
 ##04:53 Saturday 29 October 2005

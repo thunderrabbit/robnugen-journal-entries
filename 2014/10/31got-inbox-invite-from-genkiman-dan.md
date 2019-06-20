@@ -1,6 +1,6 @@
 ---
 title: Got Inbox invite from Genkiman Dan!!
-tags: gmail, genkiman, excited
+tags: [ "gmail", "genkiman", "excited" ]
 author: Rob Nugen
 date: 2014-10-31
 ---

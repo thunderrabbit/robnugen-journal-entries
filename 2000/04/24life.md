@@ -1,6 +1,6 @@
 ---
 title: life
-tags: journal, life
+tags: [ "journal", "life" ]
 author: Rob Nugen
 date: 2000-04-24
 ---

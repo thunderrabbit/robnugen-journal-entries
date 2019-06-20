@@ -1,6 +1,6 @@
 ---
 title: Added building to Minecraft world
-tags: minecraft, mcedit
+tags: [ "minecraft", "mcedit" ]
 author: Rob Nugen
 date: 2014-11-17
 ---

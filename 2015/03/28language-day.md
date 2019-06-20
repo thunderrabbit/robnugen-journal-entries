@@ -1,6 +1,6 @@
 ---
 title: language day
-tags: teaching, studying
+tags: [ "teaching", "studying" ]
 author: Rob Nugen
 date: 2015-03-28T10:55:00+09:00
 ---

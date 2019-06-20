@@ -1,6 +1,6 @@
 ---
 title: A reasonable(?) way to insert images
-tags: images, emacs, hakyll
+tags: [ "images", "emacs", "hakyll" ]
 author: Rob Nugen
 date: 2014-11-07
 ---

@@ -1,6 +1,6 @@
 ---
 title: Trying sculpin and pelican
-tags: static, journal
+tags: [ "static", "journal" ]
 author: Rob Nugen
 date: 2014-10-31
 ---

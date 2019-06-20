@@ -1,6 +1,6 @@
 ---
 title: Chigasaki bound
-tags: train, before
+tags: [ "train", "before" ]
 author: Rob Nugen
 date: 2014-11-14
 ---

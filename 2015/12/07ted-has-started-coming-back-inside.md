@@ -1,6 +1,6 @@
 ---
 title: Ted has started coming back inside
-tags: ted, lin, pic
+tags: [ "ted", "lin", "pic" ]
 author: Rob Nugen
 date: 2015-12-07T01:19:31+09:00
 ---

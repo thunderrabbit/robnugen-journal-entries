@@ -1,6 +1,6 @@
 ---
 title: fun working day and met Scean
-tags: work, fun
+tags: [ "work", "fun" ]
 author: Rob Nugen
 date: 2015-04-13T18:30:10+09:00
 ---

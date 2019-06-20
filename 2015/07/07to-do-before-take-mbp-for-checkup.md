@@ -1,6 +1,6 @@
 ---
 title: to do before take MBP for checkup
-tags: mbp, apple
+tags: [ "mbp", "apple" ]
 author: Rob Nugen
 date: 2015-07-07T08:38:30+09:00
 ---

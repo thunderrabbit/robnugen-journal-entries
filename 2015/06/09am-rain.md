@@ -1,6 +1,6 @@
 ---
 title: AM rain
-tags: am, rain
+tags: [ "am", "rain" ]
 author: Rob Nugen
 date: 2015-06-09T07:50:57+09:00
 ---

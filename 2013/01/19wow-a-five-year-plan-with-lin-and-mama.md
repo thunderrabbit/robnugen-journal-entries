@@ -3,7 +3,7 @@ date: 2013-01-19T08:43:18+09:00
 published: false
 slug: wow-a-five-year-plan-with-lin-and-mama
 title: wow!  a five year plan with Lin and Mama!
-tags: family,journal,state of my life address
+tags: [ "family", "journal", "state of my life address" ]
 ---
 
 ##08:43 Saturday 19 January 2013

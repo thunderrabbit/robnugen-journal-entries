@@ -1,6 +1,6 @@
 ---
 title: Got the highlight working on UITableViewController in Swift
-tags: swift, programming
+tags: [ "swift", "programming" ]
 author: Rob Nugen
 date: 2015-10-29T17:58:26+09:00
 ---

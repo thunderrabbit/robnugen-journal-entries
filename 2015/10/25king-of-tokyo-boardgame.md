@@ -1,6 +1,6 @@
 ---
 title: King of Tokyo board game
-tags: analog, game
+tags: [ "analog", "game" ]
 author: Rob Nugen
 date: 2015-10-25T16:27:24+09:00
 ---

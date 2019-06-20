@@ -1,6 +1,6 @@
 ---
 title: gymnastics crunch
-tags: gymnastics, oops
+tags: [ "gymnastics", "oops" ]
 author: Rob Nugen
 date: 1998-10-21
 ---

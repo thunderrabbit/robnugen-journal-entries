@@ -1,6 +1,6 @@
 ---
 title: note from Bryn
-tags: bryn, yruu
+tags: [ "bryn", "yruu" ]
 author: Bryn
 date: 2000-06-04
 ---

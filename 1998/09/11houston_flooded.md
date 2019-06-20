@@ -1,6 +1,6 @@
 ---
 title: wasabi with Amanda
-tags: amanda, manda, wasabi
+tags: [ "amanda", "manda", "wasabi" ]
 author: Rob Nugen
 date: 1998-09-11
 ---

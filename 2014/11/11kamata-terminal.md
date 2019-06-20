@@ -1,6 +1,6 @@
 ---
 title: kamata terminal
-tags: trains, first world problems
+tags: [ "trains", "first world problems" ]
 author: Rob Nugen
 date: 2014-11-11
 ---

@@ -1,6 +1,6 @@
 ---
 title: dream youth group
-tags: dream, silent football, Laura, Nick
+tags: [ "dream", "silent football", "Laura", "Nick" ]
 author: Rob Nugen
 date: 2015-06-16T07:12:00+09:00
 ---

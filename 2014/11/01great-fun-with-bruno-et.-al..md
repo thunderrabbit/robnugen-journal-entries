@@ -1,6 +1,6 @@
 ---
 title: Great fun with Bruno et. al.
-tags: mutsumi, bruno
+tags: [ "mutsumi", "bruno" ]
 author: Rob Nugen
 date: 2014-11-01
 ---

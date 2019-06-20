@@ -2,7 +2,7 @@
 date: 2012-12-21T22:40:58+09:00
 slug: speaking-of-countdowns
 title: speaking of countdowns
-tags: guest writer,internet
+tags: [ "guest writer", "internet" ]
 ---
 
 ##22:40 Friday 21 December 2012

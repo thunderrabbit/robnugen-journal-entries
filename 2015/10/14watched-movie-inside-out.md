@@ -1,6 +1,6 @@
 ---
 title: Watched movie Inside Out
-tags: movie, inside out, emotions
+tags: [ "movie", "inside out", "emotions" ]
 author: Rob Nugen
 date: 2015-10-14T18:10:11+09:00
 ---

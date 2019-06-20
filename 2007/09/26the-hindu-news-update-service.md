@@ -2,7 +2,7 @@
 date: 2007-09-26T02:04:34+09:00
 slug: the-hindu-news-update-service
 title: The Hindu News Update Service
-tags: astronomy,technology
+tags: [ "astronomy", "technology" ]
 ---
 
 ##02:04 Wednesday 26 September 2007

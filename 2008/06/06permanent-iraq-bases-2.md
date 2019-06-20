@@ -2,7 +2,7 @@
 date: 2008-06-06T19:13:57+09:00
 slug: permanent-iraq-bases-2
 title: permanent Iraq bases
-tags: news,terror
+tags: [ "news", "terror" ]
 ---
 
 ##19:13 Friday 06 June 2008

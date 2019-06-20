@@ -1,6 +1,6 @@
 ---
 title: reflection of jack
-tags: jack, cat, reflection, sun
+tags: [ "jack", "cat", "reflection", "sun" ]
 author: Rob Nugen
 date: 2014-11-21
 ---

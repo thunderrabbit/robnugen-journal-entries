@@ -2,7 +2,7 @@
 date: 2005-06-01T05:40:09+09:00
 slug: viet-nam
 title: Viet Nam
-tags: Peace Boat,travel
+tags: [ "Peace Boat", "travel" ]
 ---
 
 ##05:40 Wednesday 01 June 2005

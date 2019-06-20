@@ -1,6 +1,6 @@
 ---
 title: great lesson
-tags: lesson, akiba
+tags: [ "lesson", "akiba" ]
 author: Rob Nugen
 date: 2015-02-12T20:23:00+09:00
 ---

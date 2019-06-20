@@ -1,6 +1,6 @@
 ---
 title: interesting login thing
-tags: clef, login
+tags: [ "clef", "login" ]
 author: Rob Nugen
 date: 2015-06-19T10:56:53+09:00
 ---

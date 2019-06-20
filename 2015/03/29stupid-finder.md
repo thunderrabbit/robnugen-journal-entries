@@ -1,6 +1,6 @@
 ---
 title: stupid Finder
-tags: osx, rant, finder, bah
+tags: [ "osx", "rant", "finder", "bah" ]
 author: Rob Nugen
 date: 2015-03-29T10:15:43+09:00
 ---

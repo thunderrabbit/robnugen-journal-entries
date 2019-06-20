@@ -1,6 +1,6 @@
 ---
 title: Trying Debian
-tags: travis, debian
+tags: [ "travis", "debian" ]
 author: Rob Nugen
 date: 2015-05-22T11:50:01+09:00
 ---

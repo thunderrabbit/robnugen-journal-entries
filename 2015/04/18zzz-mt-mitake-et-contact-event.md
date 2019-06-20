@@ -1,6 +1,6 @@
 ---
 title: Mt Mitake ET Contact Event
-tags: cseti, sleepy
+tags: [ "cseti", "sleepy" ]
 author: Rob Nugen
 date: 2015-04-19T02:59:52+09:00
 ---

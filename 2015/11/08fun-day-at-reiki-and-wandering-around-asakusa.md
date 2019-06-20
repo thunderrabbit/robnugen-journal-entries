@@ -1,6 +1,6 @@
 ---
 title: Fun day at reiki and wandering around Asakusa
-tags: reiki, jon
+tags: [ "reiki", "jon" ]
 author: Rob Nugen
 date: 2015-11-08T19:49:42+09:00
 ---

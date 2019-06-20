@@ -2,7 +2,7 @@
 date: 2005-09-30T02:37:47+09:00
 slug: google-to-buddy-up-with-nasa
 title: Google To Buddy Up With NASA
-tags: internet,news
+tags: [ "internet", "news" ]
 ---
 
 ##02:37 Friday 30 September 2005

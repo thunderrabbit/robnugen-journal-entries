@@ -1,6 +1,6 @@
 ---
 title: Got basic pong AI working
-tags: pong, unity
+tags: [ "pong", "unity" ]
 author: Rob Nugen
 date: 2015-05-08T01:29:46+09:00
 ---

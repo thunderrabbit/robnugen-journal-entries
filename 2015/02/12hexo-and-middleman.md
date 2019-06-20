@@ -1,6 +1,6 @@
 ---
 title: Hexo and Middleman
-tags: hexo, middleman
+tags: [ "hexo", "middleman" ]
 author: Rob Nugen
 date: 2015-02-12T17:15:00+09:00
 ---

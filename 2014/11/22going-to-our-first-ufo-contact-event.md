@@ -1,6 +1,6 @@
 ---
 title: Going to our first UFO contact event
-tags: ufo, contact
+tags: [ "ufo", "contact" ]
 author: Rob Nugen
 date: 2014-11-22
 ---

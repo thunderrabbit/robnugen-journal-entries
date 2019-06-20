@@ -2,7 +2,7 @@
 date: 2012-11-26T22:27:47+09:00
 slug: yesterday-i-wrapped-lins-gift
 title: yesterday, I wrapped Lin's gift
-tags: gift,problem present
+tags: [ "gift", "problem present" ]
 ---
 
 ##22:27 Monday 26 November 2012

@@ -1,6 +1,6 @@
 ---
 title: Early Thursday lesson
-tags: lesson, jb
+tags: [ "lesson", "jb" ]
 author: Rob Nugen
 date: 2014-11-06
 ---

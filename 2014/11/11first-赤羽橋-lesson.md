@@ -1,6 +1,6 @@
 ---
 title: First 赤羽橋 lesson
-tags: first, teaching
+tags: [ "first", "teaching" ]
 author: Rob Nugen
 date: 2014-11-11
 ---

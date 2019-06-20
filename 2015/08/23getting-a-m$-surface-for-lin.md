@@ -1,6 +1,6 @@
 ---
 title: Getting a M$ Surface for Lin
-tags: surface, shoppin
+tags: [ "surface", "shoppin" ]
 author: Rob Nugen
 date: 2015-08-23T17:38:57+09:00
 ---

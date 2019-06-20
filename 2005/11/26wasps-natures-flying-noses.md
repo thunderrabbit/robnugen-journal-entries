@@ -2,7 +2,7 @@
 date: 2005-11-26T00:44:43+09:00
 slug: wasps-natures-flying-noses
 title: 'Wasps: nature''s flying noses'
-tags: miscellaneous,news
+tags: [ "miscellaneous", "news" ]
 ---
 
 ##00:44 Saturday 26 November 2005

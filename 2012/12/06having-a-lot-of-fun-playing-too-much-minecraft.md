@@ -2,7 +2,7 @@
 date: 2012-12-06T21:19:53+09:00
 slug: having-a-lot-of-fun-playing-too-much-minecraft
 title: having a lot of fun playing (too much) Minecraft
-tags: internet,journal,minecraft
+tags: [ "internet", "journal", "minecraft" ]
 ---
 
 ##21:19 Thursday 06 December 2012

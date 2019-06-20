@@ -1,6 +1,6 @@
 ---
 title: finished Summer Vacation
-tags: art, summer-vacation
+tags: [ "art", "summer-vacation" ]
 author: Rob Nugen
 date: 2015-11-19T07:43:10+09:00
 ---

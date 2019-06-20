@@ -2,7 +2,7 @@
 date: 2012-12-12T21:01:21+09:00
 slug: why-thank-you
 title: why thank you
-tags: journal,technology
+tags: [ "journal", "technology" ]
 ---
 
 ##21:01 Wednesday 12 December 2012

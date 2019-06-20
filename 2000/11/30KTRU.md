@@ -1,6 +1,6 @@
 ---
 title:  !!KTRU!!
-tags: ktru, oh no
+tags: [ "ktru", "oh no" ]
 author: Rob Nugen
 date: 2000-11-30
 ---

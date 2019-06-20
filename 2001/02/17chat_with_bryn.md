@@ -1,6 +1,6 @@
 ---
 title: chat with Bryn
-tags: bryn, oz
+tags: [ "bryn", "oz" ]
 author: Rob Nugen
 date: 2001-02-17
 ---

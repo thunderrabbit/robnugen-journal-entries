@@ -1,6 +1,6 @@
 ---
 title: install.sh
-tags: install, git
+tags: [ "install", "git" ]
 author: Rob Nugen
 date: 2014-11-26
 ---

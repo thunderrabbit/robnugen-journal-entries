@@ -1,6 +1,6 @@
 ---
 title: Yamanote celebrates Tokyo Station 100th with brown makeover
-tags: trains, yamanote
+tags: [ "trains", "yamanote" ]
 author: Rob Nugen
 date: 2014-10-15
 ---

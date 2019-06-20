@@ -2,7 +2,7 @@
 date: 2012-12-23T05:25:13+09:00
 slug: went-through-a-teleporter-without-being-told
 title: went through a teleporter without being told
-tags: dream,journal
+tags: [ "dream", "journal" ]
 ---
 
 ##05:25 Sunday 23 December 2012

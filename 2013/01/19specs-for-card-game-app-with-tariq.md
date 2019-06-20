@@ -2,7 +2,7 @@
 date: 2013-01-19T00:59:10+09:00
 slug: specs-for-card-game-app-with-tariq
 title: specs for card game app with Tariq
-tags: journal,programming
+tags: [ "journal", "programming" ]
 ---
 
 ##00:59 Saturday 19 January 2013

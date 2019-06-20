@@ -1,6 +1,6 @@
 ---
 title: A quick cry before kids lesson
-tags: kids, :-o
+tags: [ "kids", ":-o" ]
 author: Rob Nugen
 date: 2014-11-12
 ---

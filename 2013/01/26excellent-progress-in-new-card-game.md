@@ -2,7 +2,7 @@
 date: 2013-01-26T12:46:59+09:00
 slug: excellent-progress-in-new-card-game
 title: excellent progress in new card game
-tags: journal,programming,technology
+tags: [ "journal", "programming", "technology" ]
 ---
 
 ##12:46 Saturday 26 January 2013

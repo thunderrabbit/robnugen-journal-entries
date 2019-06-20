@@ -2,7 +2,7 @@
 date: 2013-05-09T06:53:58+09:00
 slug: disclosure-dream
 title: disclosure dream
-tags: disclosure,dream,journal
+tags: [ "disclosure", "dream", "journal" ]
 ---
 
 ##06:53 Thursday 09 May 2013

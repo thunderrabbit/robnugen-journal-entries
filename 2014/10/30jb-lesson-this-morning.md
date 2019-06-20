@@ -1,6 +1,6 @@
 ---
 title: JB lesson this morning
-tags: jb, lesson
+tags: [ "jb", "lesson" ]
 author: Rob Nugen
 date: 2014-10-30
 ---

@@ -1,6 +1,6 @@
 ---
 title: Old Minecraft pics
-tags: minecraft, pics
+tags: [ "minecraft", "pics" ]
 author: Rob Nugen
 date: 2015-01-14
 ---

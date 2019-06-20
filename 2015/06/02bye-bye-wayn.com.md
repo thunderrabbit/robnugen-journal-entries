@@ -1,6 +1,6 @@
 ---
 title: bye bye wayn.com
-tags: wayn, ux
+tags: [ "wayn", "ux" ]
 author: Rob Nugen
 date: 2015-06-02T09:06:00+09:00
 ---

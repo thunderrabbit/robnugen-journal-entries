@@ -1,6 +1,6 @@
 ---
 title: Back to my old surgeon
-tags: anniversary, synchronicity
+tags: [ "anniversary", "synchronicity" ]
 author: Rob Nugen
 date: 2015-06-04T11:15:31+09:00
 ---

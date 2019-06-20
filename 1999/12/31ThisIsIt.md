@@ -1,6 +1,6 @@
 ---
 title: ThisIsIt!
-tags: new years, end of world, party like 1999
+tags: [ "new years", "end of world", "party like 1999" ]
 author: Rob Nugen
 date: 1999-12-31
 ---

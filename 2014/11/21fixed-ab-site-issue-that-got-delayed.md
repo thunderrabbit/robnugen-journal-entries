@@ -1,6 +1,6 @@
 ---
 title: Fixed AB site issue that got delayed
-tags: fix, ab
+tags: [ "fix", "ab" ]
 author: Rob Nugen
 date: 2014-11-21
 ---

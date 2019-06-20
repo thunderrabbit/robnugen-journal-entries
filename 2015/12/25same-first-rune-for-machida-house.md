@@ -1,6 +1,6 @@
 ---
 title: Same first rune for Machida house
-tags: runes, house
+tags: [ "runes", "house" ]
 author: Rob Nugen
 date: 2015-12-25T20:05:32+09:00
 ---

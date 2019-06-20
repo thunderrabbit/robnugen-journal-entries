@@ -1,6 +1,6 @@
 ---
 title: Hakyll journal
-tags: hakyll, journal
+tags: [ "hakyll", "journal" ]
 author: Rob Nugen
 date: 2014-10-27
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pre meeting
-tags: rohini, cseti
+tags: [ "rohini", "cseti" ]
 author: Rob Nugen
 date: 2014-11-22
 ---

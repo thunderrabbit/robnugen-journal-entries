@@ -1,6 +1,6 @@
 ---
 title: let the merging begin!
-tags: journal, debian
+tags: [ "journal", "debian" ]
 author: Rob Nugen
 date: 2015-05-23T12:40:36+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Get Sync; it loooks quite interesting!
-tags: bittorrent, getsync, wow
+tags: [ "bittorrent", "getsync", "wow" ]
 author: Rob Nugen
 date: 2014-11-14
 ---

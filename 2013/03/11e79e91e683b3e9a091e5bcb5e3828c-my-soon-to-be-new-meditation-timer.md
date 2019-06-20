@@ -2,7 +2,7 @@
 date: 2013-03-11T23:11:04+09:00
 slug: '%e7%9e%91%e6%83%b3%e9%a0%91%e5%bc%b5%e3%82%8c-my-soon-to-be-new-meditation-timer'
 title: 瞑想頑張れ, my soon to be new meditation timer
-tags: meisogambare,open source,programming,technology
+tags: [ "meisogambare", "open source", "programming", "technology" ]
 ---
 
 ##23:11 Monday 11 March 2013

@@ -1,6 +1,6 @@
 ---
 title: Giant Post Hole Digger!
-tags: excited, construction
+tags: [ "excited", "construction" ]
 author: Rob Nugen
 date: 2015-07-29T16:17:20+09:00
 ---

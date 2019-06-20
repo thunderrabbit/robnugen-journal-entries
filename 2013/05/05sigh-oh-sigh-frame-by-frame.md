@@ -2,7 +2,7 @@
 date: 2013-05-05T22:34:15+09:00
 slug: sigh-oh-sigh-frame-by-frame
 title: sigh oh sigh frame by frame
-tags: art,journal
+tags: [ "art", "journal" ]
 ---
 
 ##22:34 Sunday 05 May 2013

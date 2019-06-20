@@ -2,7 +2,7 @@
 date: 2012-12-22T07:56:22+09:00
 slug: dream-paolas-name-is-jane
 title: dream Paola's name is Jane
-tags: dream,journal
+tags: [ "dream", "journal" ]
 ---
 
 ##07:56 Saturday 22 December 2012

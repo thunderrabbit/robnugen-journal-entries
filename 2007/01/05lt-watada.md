@@ -2,7 +2,7 @@
 date: 2007-01-05T09:03:38+09:00
 slug: lt-watada
 title: Lt Watada justly refuses an unjust war
-tags: airplane day,news,terror
+tags: [ "airplane day", "news", "terror" ]
 ---
 
 ##09:03 Friday 05 January 2007

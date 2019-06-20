@@ -1,6 +1,6 @@
 ---
 title: linux grr
-tags: linux, grr
+tags: [ "linux", "grr" ]
 author: Rob Nugen
 date: 1999-05-27
 ---

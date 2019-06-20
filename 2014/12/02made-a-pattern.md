@@ -1,6 +1,6 @@
 ---
 title: made a pattern
-tags: pattern, gimp
+tags: [ "pattern", "gimp" ]
 author: Rob Nugen
 date: 2014-12-02
 ---

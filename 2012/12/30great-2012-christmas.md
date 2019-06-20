@@ -2,7 +2,7 @@
 date: 2012-12-30T22:55:56+09:00
 slug: great-2012-christmas
 title: great 2012 Christmas!
-tags: christmas,family
+tags: [ "christmas", "family" ]
 ---
 
 ##22:55 Sunday 30 December 2012

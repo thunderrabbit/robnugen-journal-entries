@@ -1,6 +1,6 @@
 ---
 title: Did some coding for AB site
-tags: oops, late
+tags: [ "oops", "late" ]
 author: Rob Nugen
 date: 2014-11-10
 ---

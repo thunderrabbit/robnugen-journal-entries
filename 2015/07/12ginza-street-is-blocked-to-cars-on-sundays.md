@@ -1,6 +1,6 @@
 ---
 title: Ginza street is blocked to cars on Sundays
-tags: ginza, periscope
+tags: [ "ginza", "periscope" ]
 author: Rob Nugen
 date: 2015-07-12T13:52:25+09:00
 ---

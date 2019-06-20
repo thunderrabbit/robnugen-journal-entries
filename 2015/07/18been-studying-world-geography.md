@@ -1,6 +1,6 @@
 ---
 title: been studying world geography
-tags: anki, countries
+tags: [ "anki", "countries" ]
 author: Rob Nugen
 date: 2015-07-18T12:28:01+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: made some new art pieces
-tags: art, npm14
+tags: [ "art", "npm14" ]
 author: Rob Nugen
 date: 2014-12-13
 ---

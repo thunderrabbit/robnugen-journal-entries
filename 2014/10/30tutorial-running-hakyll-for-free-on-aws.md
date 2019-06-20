@@ -1,6 +1,6 @@
 ---
 title: Tutorial- running Hakyll for free on AWS
-tags: tutorial, hakyll, aws
+tags: [ "tutorial", "hakyll", "aws" ]
 author: Rob Nugen
 date: 2014-10-30
 ---

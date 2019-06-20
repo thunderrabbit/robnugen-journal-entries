@@ -1,6 +1,6 @@
 ---
 title: Solved a couple puzzles today
-tags: chain tree, tetrahedron
+tags: [ "chain tree", "tetrahedron" ]
 author: Rob Nugen
 date: 2015-10-13T18:40:47+09:00
 ---

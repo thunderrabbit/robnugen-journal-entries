@@ -1,6 +1,6 @@
 ---
 title: Minecraft pics
-tags: minecraft, images, pyramid, rail
+tags: [ "minecraft", "images", "pyramid", "rail" ]
 author: Rob Nugen
 date: 2014-11-21
 ---

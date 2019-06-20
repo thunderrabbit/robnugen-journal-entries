@@ -2,7 +2,7 @@
 date: 2006-08-13T21:43:25+09:00
 slug: rochelle-in-oaxaca
 title: Rochelle in Oaxaca
-tags: guest writer,news,terror,travel
+tags: [ "guest writer", "news", "terror", "travel" ]
 ---
 
 ##21:43 Sunday 13 August 2006

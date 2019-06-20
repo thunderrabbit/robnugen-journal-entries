@@ -1,6 +1,6 @@
 ---
 title: Customer service win
-tags: csr, japan
+tags: [ "csr", "japan" ]
 author: Rob Nugen
 date: 2015-02-04T15:07:37+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dream
-tags: dream, religion
+tags: [ "dream", "religion" ]
 author: Rob Nugen
 date: 2015-01-19
 ---

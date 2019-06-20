@@ -1,6 +1,6 @@
 ---
 title: astroworld exclusive ride time
-tags: ert, mr innocent, dont try this at home
+tags: [ "ert", "mr innocent", "dont try this at home" ]
 author: Rob Nugen
 date: 1998-09-26
 ---

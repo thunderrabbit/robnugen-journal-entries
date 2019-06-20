@@ -2,7 +2,7 @@
 date: 2012-12-11T22:40:05+09:00
 slug: making-secret-christmas-presents
 title: making secret Christmas presents!
-tags: art,journal
+tags: [ "art", "journal" ]
 ---
 
 ##22:40 Tuesday 11 December 2012

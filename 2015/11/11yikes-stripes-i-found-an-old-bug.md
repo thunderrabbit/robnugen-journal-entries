@@ -1,6 +1,6 @@
 ---
 title: Yikes stripes I found an old bug
-tags: bug, oops
+tags: [ "bug", "oops" ]
 author: Rob Nugen
 date: 2015-11-11T15:45:40+09:00
 ---

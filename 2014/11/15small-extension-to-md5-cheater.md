@@ -1,6 +1,6 @@
 ---
 title: Small extension to md5 cheater
-tags: code, crap, md5
+tags: [ "code", "crap", "md5" ]
 author: Rob Nugen
 date: 2014-11-15
 ---

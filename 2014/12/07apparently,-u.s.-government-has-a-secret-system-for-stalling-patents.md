@@ -1,6 +1,6 @@
 ---
 title: Apparently, U.S. Government Has a Secret System for Stalling Patents
-tags: oops, da man
+tags: [ "oops", "da man" ]
 author: Rob Nugen
 date: 2014-12-07
 ---

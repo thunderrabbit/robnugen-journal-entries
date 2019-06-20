@@ -1,6 +1,6 @@
 ---
 title: GG lesson
-tags: lesson, gg
+tags: [ "lesson", "gg" ]
 author: Rob Nugen
 date: 2015-07-30T20:34:37+09:00
 ---

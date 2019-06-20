@@ -1,6 +1,6 @@
 ---
 title: Alex outside
-tags: alex, plant, kalanchoe tomentosa
+tags: [ "alex", "plant", "kalanchoe tomentosa" ]
 author: Rob Nugen
 date: 2014-10-30
 ---

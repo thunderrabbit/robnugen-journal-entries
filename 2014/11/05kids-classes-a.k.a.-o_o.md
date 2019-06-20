@@ -1,6 +1,6 @@
 ---
 title: Kids classes (a.k.a. O_o)
-tags: kids, jb, first
+tags: [ "kids", "jb", "first" ]
 author: Rob Nugen
 date: 2014-11-05
 ---

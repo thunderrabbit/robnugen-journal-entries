@@ -1,6 +1,6 @@
 ---
 title: Dream Tariq died
-tags: dream, tariq
+tags: [ "dream", "tariq" ]
 author: Rob Nugen
 date: 2015-12-01T06:18:08+09:00
 ---

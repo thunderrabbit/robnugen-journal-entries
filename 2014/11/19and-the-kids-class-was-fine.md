@@ -1,6 +1,6 @@
 ---
 title: And the kids class was fine
-tags: kids, lesson
+tags: [ "kids", "lesson" ]
 author: Rob Nugen
 date: 2014-11-19
 ---

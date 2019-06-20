@@ -1,6 +1,6 @@
 ---
 title: Aggie Ring
-tags: wende, aggies
+tags: [ "wende", "aggies" ]
 author: Rob Nugen
 date: 2000-02-18
 ---

@@ -1,6 +1,6 @@
 ---
 title: Awake early
-tags: awake, dreams
+tags: [ "awake", "dreams" ]
 author: Rob Nugen
 date: 2014-12-15
 ---

@@ -1,6 +1,6 @@
 ---
 title: super dinner at Paola and Jon's
-tags: dinner, yum
+tags: [ "dinner", "yum" ]
 author: Rob Nugen
 date: 2014-12-27
 ---

@@ -1,6 +1,6 @@
 ---
 title: juggling data
-tags: aws, ab
+tags: [ "aws", "ab" ]
 author: Rob Nugen
 date: 2015-02-11
 ---

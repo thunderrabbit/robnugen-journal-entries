@@ -2,7 +2,7 @@
 date: 2013-02-17T10:27:15+09:00
 slug: safari-has-become-better-for-searching-but-harder-for-sharing
 title: Safari has become better for searching, but harder for sharing
-tags: internet,links
+tags: [ "internet", "links" ]
 ---
 
 ##10:27 Sunday 17 February 2013

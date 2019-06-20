@@ -1,6 +1,6 @@
 ---
 title: Drew three mazes
-tags: love, mazes
+tags: [ "love", "mazes" ]
 author: Rob Nugen
 date: 2015-01-09
 ---

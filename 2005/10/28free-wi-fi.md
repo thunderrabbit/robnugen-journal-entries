@@ -2,7 +2,7 @@
 date: 2005-10-28T03:19:15+09:00
 slug: free-wi-fi
 title: Free Wi-Fi
-tags: internet,technology
+tags: [ "internet", "technology" ]
 ---
 
 ##03:19 Friday 28 October 2005

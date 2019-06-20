@@ -1,6 +1,6 @@
 ---
 title: chilled with Chris
-tags: chris, chillin
+tags: [ "chris", "chillin" ]
 author: Rob Nugen
 date: 2015-07-22T05:23:12+09:00
 ---

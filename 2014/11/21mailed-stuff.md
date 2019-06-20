@@ -1,6 +1,6 @@
 ---
 title: Mailed stuff to Fred and Soness
-tags: soness, stuff
+tags: [ "soness", "stuff" ]
 author: Rob Nugen
 date: 2014-11-21
 ---

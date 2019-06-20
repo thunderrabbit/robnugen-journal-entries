@@ -1,6 +1,6 @@
 ---
 title: area code
-tags: ten-digit dialing, 832
+tags: [ "ten-digit dialing", "832" ]
 author: Rob Nugen
 date: 1998-10-02
 ---

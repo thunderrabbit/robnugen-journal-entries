@@ -1,6 +1,6 @@
 ---
 title: Kaori lesson
-tags: lesson, kaori
+tags: [ "lesson", "kaori" ]
 author: Rob Nugen
 date: 2015-07-16T12:07:42+09:00
 ---

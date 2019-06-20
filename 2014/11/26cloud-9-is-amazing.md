@@ -1,6 +1,6 @@
 ---
 title: Cloud 9 is amazing!
-tags: cloud 9, c9
+tags: [ "cloud 9", "c9" ]
 author: Rob Nugen
 date: 2014-11-26
 ---

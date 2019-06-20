@@ -2,7 +2,7 @@
 date: 2012-12-21T18:43:04+09:00
 slug: notes-to-self-on-the-final-day-of-the-world
 title: notes to self on the final day of the world
-tags: journal,work
+tags: [ "journal", "work" ]
 ---
 
 ##18:43 Friday 21 December 2012

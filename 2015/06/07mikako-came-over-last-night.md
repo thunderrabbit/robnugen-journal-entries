@@ -1,6 +1,6 @@
 ---
 title: Mikako came over last night
-tags: lin, mikako
+tags: [ "lin", "mikako" ]
 author: Rob Nugen
 date: 2015-06-07T11:49:57+09:00
 ---

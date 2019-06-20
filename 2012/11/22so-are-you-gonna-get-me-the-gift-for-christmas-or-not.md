@@ -2,7 +2,7 @@
 date: 2012-11-22T23:12:00+09:00
 slug: so-are-you-gonna-get-me-the-gift-for-christmas-or-not
 title: so are you gonna get me the gift for Christmas or not?
-tags: bear,dont-tell-lin,present
+tags: [ "bear", "dont-tell-lin", "present" ]
 ---
 
 ##23:12 Thursday 22 November 2012

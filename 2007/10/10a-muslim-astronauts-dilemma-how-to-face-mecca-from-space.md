@@ -2,7 +2,7 @@
 date: 2007-10-10T12:40:48+09:00
 slug: a-muslim-astronauts-dilemma-how-to-face-mecca-from-space
 title: 'A Muslim Astronaut''s Dilemma: How to Face Mecca From Space'
-tags: news,rant
+tags: [ "news", "rant" ]
 ---
 
 ##12:40 Wednesday 10 October 2007

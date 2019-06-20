@@ -1,6 +1,6 @@
 ---
 title: missed the point
-tags: bug, aws, s3
+tags: [ "bug", "aws", "s3" ]
 author: Rob Nugen
 date: 2016-01-13T16:33:22+09:00
 ---

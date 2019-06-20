@@ -2,7 +2,7 @@
 date: 2008-02-26T17:22:35+09:00
 slug: chomp
 title: chomp!
-tags: news,travel
+tags: [ "news", "travel" ]
 ---
 
 ##17:22 Tuesday 26 February 2008

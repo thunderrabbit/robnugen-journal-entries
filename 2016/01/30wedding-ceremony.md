@@ -1,6 +1,6 @@
 ---
 title: wedding ceremony!
-tags: lin, wedding
+tags: [ "lin", "wedding" ]
 author: Rob Nugen
 date: 2016-01-30T17:17:34+09:00
 ---

@@ -2,7 +2,7 @@
 date: 2013-03-28T06:31:10+09:00
 slug: dream-back-of-the-bus-with-ectoplasm
 title: dream back of the bus with ectoplasm
-tags: dream,journal
+tags: [ "dream", "journal" ]
 ---
 
 ##06:31 Thursday 28 March 2013

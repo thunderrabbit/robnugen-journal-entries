@@ -1,6 +1,6 @@
 ---
 title: First client for Rapid Rabbit
-tags: rapid rabbit, client, soness
+tags: [ "rapid rabbit", "client", "soness" ]
 author: Rob Nugen
 date: 2014-11-19
 ---

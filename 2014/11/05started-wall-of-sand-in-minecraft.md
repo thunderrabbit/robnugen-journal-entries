@@ -1,6 +1,6 @@
 ---
 title: started wall of sand in Minecraft
-tags: minecraft, silly
+tags: [ "minecraft", "silly" ]
 author: Rob Nugen
 date: 2014-11-05
 ---

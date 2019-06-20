@@ -2,7 +2,7 @@
 date: 2006-12-15T10:50:53+09:00
 slug: the-soldiers-reply-to-the-desperate-question-where-shall-we-live-we-gave-you-a-tent-last-time
 title: Life in Walajah
-tags: guest writer,palestine,suzy xx,terror
+tags: [ "guest writer", "palestine", "suzy xx", "terror" ]
 ---
 
 ##10:50 Friday 15 December 2006

@@ -2,7 +2,7 @@
 date: 2013-03-24T18:52:29+09:00
 slug: my-floating-virtual-lego-blocks
 title: my floating virtual lego blocks
-tags: art,internet,technology
+tags: [ "art", "internet", "technology" ]
 ---
 
 ##18:52 Sunday 24 March 2013

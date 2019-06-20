@@ -1,6 +1,6 @@
 ---
 title: Today worked on AB DB
-tags: work, db
+tags: [ "work", "db" ]
 author: Rob Nugen
 date: 2015-02-16T22:32:00+09:00
 ---

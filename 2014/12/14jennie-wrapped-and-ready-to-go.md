@@ -1,6 +1,6 @@
 ---
 title: Jennie wrapped and ready to go
-tags: cat, lin
+tags: [ "cat", "lin" ]
 author: Rob Nugen
 date: 2014-12-14
 ---

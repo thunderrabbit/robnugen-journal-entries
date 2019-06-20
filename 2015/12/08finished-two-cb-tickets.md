@@ -1,6 +1,6 @@
 ---
 title: Finished two CB tickets
-tags: cb, work
+tags: [ "cb", "work" ]
 author: Rob Nugen
 date: 2015-12-08T17:00:18+09:00
 ---

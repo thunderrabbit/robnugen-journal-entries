@@ -1,6 +1,6 @@
 ---
 title: guess I'm not getting meerkat
-tags: ios8, meercant
+tags: [ "ios8", "meercant" ]
 author: Rob Nugen
 date: 2015-05-28T17:53:41+09:00
 ---

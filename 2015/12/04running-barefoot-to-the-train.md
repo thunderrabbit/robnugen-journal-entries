@@ -1,6 +1,6 @@
 ---
 title: running barefoot to the train
-tags: run, barefoot
+tags: [ "run", "barefoot" ]
 author: Rob Nugen
 date: 2015-12-04T17:18:58+09:00
 ---

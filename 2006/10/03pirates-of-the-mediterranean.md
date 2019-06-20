@@ -2,7 +2,7 @@
 date: 2006-10-03T01:26:19+09:00
 slug: pirates-of-the-mediterranean
 title: Pirates of the Mediterranean
-tags: airplane day,guest writer,terror
+tags: [ "airplane day", "guest writer", "terror" ]
 ---
 
 ##01:26 Tuesday 03 October 2006

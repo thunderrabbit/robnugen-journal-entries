@@ -1,6 +1,6 @@
 ---
 title: Starting Over (movie)
-tags: movie, starting over
+tags: [ "movie", "starting over" ]
 author: Rob Nugen
 date: 2015-03-07T21:52:00+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lin on bicycle got hit by a car
-tags: busy, accident, moe joe
+tags: [ "busy", "accident", "moe joe" ]
 author: Rob Nugen
 date: 2015-04-27T13:21:34+09:00
 ---

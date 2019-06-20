@@ -1,6 +1,6 @@
 ---
 title: plans for images
-tags: images, site
+tags: [ "images", "site" ]
 author: Rob Nugen
 date: 2015-03-24T13:13:00+09:00
 ---

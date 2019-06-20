@@ -1,6 +1,6 @@
 ---
 title: Simon finished Rollerdog!
-tags: krimms, rollerdog
+tags: [ "krimms", "rollerdog" ]
 author: Rob Nugen
 date: 2015-05-23T14:12:59+09:00
 ---

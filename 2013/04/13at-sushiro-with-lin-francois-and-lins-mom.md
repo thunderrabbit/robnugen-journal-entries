@@ -2,7 +2,7 @@
 date: 2013-04-13T17:39:20+09:00
 slug: at-sushiro-with-lin-francois-and-lins-mom
 title: At sushiro with Lin, Francois, and Lin's mom
-tags: francois,sushi
+tags: [ "francois", "sushi" ]
 ---
 
 ##17:39 Saturday 13 April 2013

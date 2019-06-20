@@ -1,6 +1,6 @@
 ---
 title: Minecraft for Fred on 14 November
-tags: minecraft, fred
+tags: [ "minecraft", "fred" ]
 author: Rob Nugen
 date: 2015-11-14T19:53:15+09:00
 ---

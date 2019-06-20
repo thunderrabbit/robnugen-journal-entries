@@ -1,6 +1,6 @@
 ---
 title: done today
-tags: md5, git, bittippers
+tags: [ "md5", "git", "bittippers" ]
 author: Rob Nugen
 date: 2015-02-23T23:07:37+09:00
 ---

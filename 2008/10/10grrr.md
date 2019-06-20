@@ -2,7 +2,7 @@
 date: 2008-10-10T15:47:19+09:00
 slug: grrr
 title: grrr
-tags: news,terror
+tags: [ "news", "terror" ]
 ---
 
 ##15:47 Friday 10 October 2008

@@ -1,6 +1,6 @@
 ---
 title: Perl hack to create plaid SVG files
-tags: perl, svg
+tags: [ "perl", "svg" ]
 author: Rob Nugen
 date: 2015-03-31T15:02:07+09:00
 ---

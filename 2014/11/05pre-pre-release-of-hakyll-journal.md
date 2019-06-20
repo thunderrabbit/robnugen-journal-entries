@@ -1,6 +1,6 @@
 ---
 title: pre pre-release of hakyll-journal
-tags: hakyll, journal, travis
+tags: [ "hakyll", "journal", "travis" ]
 author: Rob Nugen
 date: 2014-11-05
 ---

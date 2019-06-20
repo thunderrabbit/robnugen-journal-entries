@@ -1,6 +1,6 @@
 ---
 title: Relaxing hot baths
-tags: bath, boof
+tags: [ "bath", "boof" ]
 author: Rob Nugen
 date: 2014-11-22
 ---

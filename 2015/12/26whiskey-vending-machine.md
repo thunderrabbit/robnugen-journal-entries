@@ -1,6 +1,6 @@
 ---
 title: whiskey vending machine
-tags: vending, japan
+tags: [ "vending", "japan" ]
 author: Rob Nugen
 date: 2015-12-26T23:13:44+09:00
 ---

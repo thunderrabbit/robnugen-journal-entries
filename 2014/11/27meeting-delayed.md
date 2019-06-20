@@ -1,6 +1,6 @@
 ---
 title: meeting delayed
-tags: oops, train
+tags: [ "oops", "train" ]
 author: Rob Nugen
 date: 2014-11-27
 ---

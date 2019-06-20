@@ -1,6 +1,6 @@
 ---
 title: houston flooded 3
-tags: houston flood, pics
+tags: [ "houston flood", "pics" ]
 author: Rob Nugen
 date: 1998-10-09
 ---

@@ -2,7 +2,7 @@
 date: 2013-02-10T12:57:50+09:00
 slug: killer-snowman-on-drawquest
 title: killer snowman on DrawQuest
-tags: art,technology
+tags: [ "art", "technology" ]
 ---
 
 ##12:57 Sunday 10 February 2013

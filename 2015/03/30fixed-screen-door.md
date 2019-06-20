@@ -1,6 +1,6 @@
 ---
 title: fixed screen door
-tags: cats, screen
+tags: [ "cats", "screen" ]
 author: Rob Nugen
 date: 2015-03-30T13:57:54+09:00
 ---

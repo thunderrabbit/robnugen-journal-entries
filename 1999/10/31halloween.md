@@ -1,6 +1,6 @@
 ---
 title: halloween
-tags: silent football, halloween
+tags: [ "silent football", "halloween" ]
 author: Rob Nugen
 date: 1999-10-31
 ---

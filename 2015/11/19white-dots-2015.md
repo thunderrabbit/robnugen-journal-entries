@@ -1,6 +1,6 @@
 ---
 title: White Dots 2015
-tags: art, whitedots2015
+tags: [ "art", "whitedots2015" ]
 author: Rob Nugen
 date: 2015-11-19T17:42:24+09:00
 ---

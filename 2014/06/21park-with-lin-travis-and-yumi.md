@@ -1,6 +1,6 @@
 ---
 title: Park with Lin, Travis, and Yumi
-tags: park, mimosa, frisbee
+tags: [ "park", "mimosa", "frisbee" ]
 author: Rob Nugen
 date: 2014-06-21
 ---

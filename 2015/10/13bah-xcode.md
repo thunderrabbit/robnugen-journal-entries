@@ -1,6 +1,6 @@
 ---
 title: Bah Xcode
-tags: bah, xcode
+tags: [ "bah", "xcode" ]
 author: Rob Nugen
 date: 2015-10-13T23:40:47+09:00
 ---

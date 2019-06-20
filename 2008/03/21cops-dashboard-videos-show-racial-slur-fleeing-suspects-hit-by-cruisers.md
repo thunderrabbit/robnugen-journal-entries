@@ -2,7 +2,7 @@
 date: 2008-03-21T16:23:39+09:00
 slug: cops-dashboard-videos-show-racial-slur-fleeing-suspects-hit-by-cruisers
 title: Cops Dashboard Videos Show Racial Slur, Fleeing Suspects Hit By Cruisers
-tags: cops,video
+tags: [ "cops", "video" ]
 ---
 
 ##16:23 Friday 21 March 2008

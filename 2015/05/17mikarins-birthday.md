@@ -1,6 +1,6 @@
 ---
 title: Mikarin's birthday
-tags: twelve, mikarin
+tags: [ "twelve", "mikarin" ]
 author: Rob Nugen
 date: 2015-05-17T20:30:33+09:00
 ---

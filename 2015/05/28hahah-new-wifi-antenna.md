@@ -1,6 +1,6 @@
 ---
 title: hahah new wifi antenna
-tags: usb, ちっちゃい!
+tags: [ "usb", "ちっちゃい!" ]
 author: Rob Nugen
 date: 2015-05-28T17:47:23+09:00
 ---

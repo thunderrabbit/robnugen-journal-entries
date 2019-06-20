@@ -2,7 +2,7 @@
 date: 2006-08-24T11:37:33+09:00
 slug: olyrafahsolidarity-struggle-persists
 title: Oaxaca struggle persists
-tags: guest writer,oaxaca,rochelle,terror
+tags: [ "guest writer", "oaxaca", "rochelle", "terror" ]
 ---
 
 ##11:37 Thursday 24 August 2006

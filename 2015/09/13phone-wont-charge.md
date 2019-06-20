@@ -1,6 +1,6 @@
 ---
 title: phone wont charge
-tags: iphone 4s, little blue monkey
+tags: [ "iphone 4s", "little blue monkey" ]
 author: Rob Nugen
 date: 2015-09-13T16:19:21+09:00
 ---

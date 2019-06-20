@@ -2,7 +2,7 @@
 date: 2007-11-08T23:39:25+09:00
 slug: new-castle-of-dreams-map
 title: new Castle of Dreams map
-tags: art,internet
+tags: [ "art", "internet" ]
 ---
 
 ##23:39 Thursday 08 November 2007

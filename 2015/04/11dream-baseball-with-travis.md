@@ -1,6 +1,6 @@
 ---
 title: Dream baseball with Travis
-tags: dream, baseball, travis
+tags: [ "dream", "baseball", "travis" ]
 author: Rob Nugen
 date: 2015-04-11T07:59:35+09:00
 ---

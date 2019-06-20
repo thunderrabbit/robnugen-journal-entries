@@ -1,6 +1,6 @@
 ---
 title: house closing
-tags: house, wende
+tags: [ "house", "wende" ]
 author: Rob Nugen
 date: 2002-03-19
 ---

@@ -2,7 +2,7 @@
 date: 2012-11-29T10:57:04+09:00
 slug: dreamed-i-dreamt-about-carla
 title: Dreamed I dreamt about Carla
-tags: carla,pb
+tags: [ "carla", "pb" ]
 ---
 
 ##10:57 Thursday 29 November 2012

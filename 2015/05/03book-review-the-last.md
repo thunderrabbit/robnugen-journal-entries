@@ -1,6 +1,6 @@
 ---
 title: book review The Last
-tags: the last, review, book
+tags: [ "the last", "review", "book" ]
 author: Rob Nugen
 date: 2015-05-03T17:45:24+09:00
 ---

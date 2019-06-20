@@ -1,6 +1,6 @@
 ---
 title: Finished 3D maze
-tags: maze, 3d, stereogram
+tags: [ "maze", "3d", "stereogram" ]
 author: Rob Nugen
 date: 2014-11-03
 ---

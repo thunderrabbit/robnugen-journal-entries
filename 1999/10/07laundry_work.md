@@ -1,6 +1,6 @@
 ---
 title: laundry work
-tags: work, ktru, laundry
+tags: [ "work", "ktru", "laundry" ]
 author: Rob Nugen
 date: 1999-10-07
 ---

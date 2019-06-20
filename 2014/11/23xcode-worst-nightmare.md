@@ -1,6 +1,6 @@
 ---
 title: xcode worst nightmare
-tags: xcode, sucks
+tags: [ "xcode", "sucks" ]
 author: Rob Nugen
 date: 2014-11-23
 ---

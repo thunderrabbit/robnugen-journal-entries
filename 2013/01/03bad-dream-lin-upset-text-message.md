@@ -2,7 +2,7 @@
 date: 2013-01-03T07:17:34+09:00
 slug: bad-dream-lin-upset-text-message
 title: bad dream Lin upset text message
-tags: dream,journal,lin
+tags: [ "dream", "journal", "lin" ]
 ---
 
 ##07:17 Thursday 03 January 2013

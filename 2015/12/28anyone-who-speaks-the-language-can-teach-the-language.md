@@ -1,6 +1,6 @@
 ---
 title: Anyone who speaks the language can teach the language
-tags: false, 
+tags: [ "false" ]
 author: Rob Nugen
 date: 2015-12-28T23:49:56+09:00
 ---

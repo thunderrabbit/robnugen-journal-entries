@@ -1,6 +1,6 @@
 ---
 title: Studio Soness
-tags: work, fun
+tags: [ "work", "fun" ]
 author: Rob Nugen
 date: 2015-02-13T20:54:00+09:00
 ---

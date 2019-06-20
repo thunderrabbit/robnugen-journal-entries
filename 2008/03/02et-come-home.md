@@ -2,7 +2,7 @@
 date: 2008-03-02T13:29:44+09:00
 slug: et-come-home
 title: ET come home
-tags: disclosure,ufo
+tags: [ "disclosure", "ufo" ]
 ---
 
 ##13:29 Sunday 02 March 2008

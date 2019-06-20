@@ -1,6 +1,6 @@
 ---
 title: Get a big voice memo off my iPhone
-tags: iphone, voice memo
+tags: [ "iphone", "voice memo" ]
 author: Rob Nugen
 date: 2014-11-24
 ---

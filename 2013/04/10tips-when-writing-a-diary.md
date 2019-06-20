@@ -2,7 +2,7 @@
 date: 2013-04-10T20:56:37+09:00
 slug: tips-when-writing-a-diary
 title: tips when writing a diary
-tags: journal,lin
+tags: [ "journal", "lin" ]
 ---
 
 ##20:56 Wednesday 10 April 2013

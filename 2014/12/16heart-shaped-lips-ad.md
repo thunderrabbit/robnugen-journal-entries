@@ -1,6 +1,6 @@
 ---
 title: heart shaped lips ad
-tags: heart, ad
+tags: [ "heart", "ad" ]
 author: Rob Nugen
 date: 2014-12-16
 ---

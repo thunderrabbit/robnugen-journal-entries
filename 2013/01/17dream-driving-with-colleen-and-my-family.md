@@ -2,7 +2,7 @@
 date: 2013-01-17T07:39:07+09:00
 slug: dream-driving-with-colleen-and-my-family
 title: dream driving with Colleen and my family
-tags: dream,journal
+tags: [ "dream", "journal" ]
 ---
 
 ##07:39 Thursday 17 January 2013

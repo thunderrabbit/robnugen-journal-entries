@@ -1,6 +1,6 @@
 ---
 title: Dream with Lin boat to Japan
-tags: dream, lin
+tags: [ "dream", "lin" ]
 author: Rob Nugen
 date: 2015-02-15T08:58:00+09:00
 ---

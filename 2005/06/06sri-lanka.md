@@ -2,7 +2,7 @@
 date: 2005-06-06T05:45:52+09:00
 slug: sri-lanka
 title: Sri Lanka
-tags: Peace Boat,travel
+tags: [ "Peace Boat", "travel" ]
 ---
 
 ##05:45 Monday 06 June 2005

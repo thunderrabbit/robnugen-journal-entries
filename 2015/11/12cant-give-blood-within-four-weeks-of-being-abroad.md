@@ -1,6 +1,6 @@
 ---
 title: can't give blood within four weeks of being abroad
-tags: boo, blood
+tags: [ "boo", "blood" ]
 author: Rob Nugen
 date: 2015-11-12T16:28:01+09:00
 ---

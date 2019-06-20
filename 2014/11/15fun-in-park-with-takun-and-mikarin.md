@@ -1,6 +1,6 @@
 ---
 title: Fun in park with Takun and Mikarin
-tags: park, games, takunball
+tags: [ "park", "games", "takunball" ]
 author: Rob Nugen
 date: 2014-11-15
 ---

@@ -1,6 +1,6 @@
 ---
 title: Made a cat disuader
-tags: cats, home, handy
+tags: [ "cats", "home", "handy" ]
 author: Rob Nugen
 date: 2014-11-06
 ---

@@ -1,6 +1,6 @@
 ---
 title: sold a design!!
-tags: yay, art
+tags: [ "yay", "art" ]
 author: Rob Nugen
 date: 2014-12-24
 ---

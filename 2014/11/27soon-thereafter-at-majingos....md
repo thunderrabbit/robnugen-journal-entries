@@ -1,6 +1,6 @@
 ---
 title: soon thereafter, at Majingos...
-tags: majingos, omg, eyes
+tags: [ "majingos", "omg", "eyes" ]
 author: Rob Nugen
 date: 2014-11-27
 ---

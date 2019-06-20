@@ -1,6 +1,6 @@
 ---
 title: AB site updates
-tags: work, ab
+tags: [ "work", "ab" ]
 author: Rob Nugen
 date: 2015-06-29T21:20:32+09:00
 ---

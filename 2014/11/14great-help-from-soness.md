@@ -1,6 +1,6 @@
 ---
 title: Great help from Soness!
-tags: soness, kids, better
+tags: [ "soness", "kids", "better" ]
 author: Rob Nugen
 date: 2014-11-14
 ---

@@ -1,6 +1,6 @@
 ---
 title: headed to GG class now
-tags: gg, lesson
+tags: [ "gg", "lesson" ]
 author: Rob Nugen
 date: 2015-06-11T17:15:43+09:00
 ---

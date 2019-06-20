@@ -2,7 +2,7 @@
 date: 2013-05-08T06:43:31+09:00
 slug: yesterday-at-work
 title: yesterday at work
-tags: journal,work
+tags: [ "journal", "work" ]
 ---
 
 ##06:43 Wednesday 08 May 2013

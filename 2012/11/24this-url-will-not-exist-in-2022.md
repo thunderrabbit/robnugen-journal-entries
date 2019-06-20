@@ -2,7 +2,7 @@
 date: 2012-11-24T21:20:37+09:00
 slug: this-url-will-not-exist-in-2022
 title: This URL will not exist in 2022
-tags: internet,technology
+tags: [ "internet", "technology" ]
 ---
 
 ##21:20 Saturday 24 November 2012

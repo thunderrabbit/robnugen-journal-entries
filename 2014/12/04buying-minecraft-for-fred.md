@@ -1,6 +1,6 @@
 ---
 title: buying Minecraft for Fred
-tags: xmas, present, list
+tags: [ "xmas", "present", "list" ]
 author: Rob Nugen
 date: 2014-12-04
 ---

@@ -1,6 +1,6 @@
 ---
 title: Things to do soon
-tags: list, gtd
+tags: [ "list", "gtd" ]
 author: Rob Nugen
 date: 2015-02-04T19:07:37+09:00
 ---

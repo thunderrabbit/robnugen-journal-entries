@@ -1,6 +1,6 @@
 ---
 title: Yay AB defined_report thing works for a few different reports
-tags: work, ab
+tags: [ "work", "ab" ]
 author: Rob Nugen
 date: 2015-12-06T16:11:09+09:00
 ---

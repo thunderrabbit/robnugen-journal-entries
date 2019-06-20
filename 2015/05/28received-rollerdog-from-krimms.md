@@ -1,6 +1,6 @@
 ---
 title: Received Rollerdog from Krimms
-tags: book, rollerdog, krimms
+tags: [ "book", "rollerdog", "krimms" ]
 author: Rob Nugen
 date: 2015-05-28T16:57:07+09:00
 ---

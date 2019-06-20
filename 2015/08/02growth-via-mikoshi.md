@@ -1,6 +1,6 @@
 ---
 title: Growth via mikoshi
-tags: japanese, mikoshi
+tags: [ "japanese", "mikoshi" ]
 author: Rob Nugen
 date: 2015-08-02T00:07:12+09:00
 ---

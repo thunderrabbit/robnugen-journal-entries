@@ -1,6 +1,6 @@
 ---
 title: AB site testing
-tags: ab, work
+tags: [ "ab", "work" ]
 author: Rob Nugen
 date: 2015-02-19T17:44:00+09:00
 ---

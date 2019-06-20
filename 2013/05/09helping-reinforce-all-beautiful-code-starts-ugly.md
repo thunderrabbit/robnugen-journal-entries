@@ -2,7 +2,7 @@
 date: 2013-05-09T18:06:50+09:00
 slug: helping-reinforce-all-beautiful-code-starts-ugly
 title: helping reinforce 'all beautiful code starts ugly
-tags: journal,programming
+tags: [ "journal", "programming" ]
 ---
 
 ##18:06 Thursday 09 May 2013

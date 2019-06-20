@@ -1,6 +1,6 @@
 ---
 title: zzz out
-tags: sleepy, 
+tags: [ "sleepy" ]
 author: Rob Nugen
 date: 2002-08-04
 ---

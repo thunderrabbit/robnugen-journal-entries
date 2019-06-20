@@ -1,6 +1,6 @@
 ---
 title: KTRU
-tags: ktru, oops
+tags: [ "ktru", "oops" ]
 author: Rob Nugen
 date: 2000-06-22
 ---

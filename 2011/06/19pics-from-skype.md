@@ -1,6 +1,6 @@
 ---
 title: pics from skype with Ma, Jon, me, and Lin
-tags: skype, ma, jon
+tags: [ "skype", "ma", "jon" ]
 author: Rob Nugen
 date: 2011-06-19
 ---

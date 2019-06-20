@@ -1,6 +1,6 @@
 ---
 title: Ultimate Unicycle
-tags: ultimate, unicycle
+tags: [ "ultimate", "unicycle" ]
 author: Rob Nugen
 date: 2000-02-17
 ---

@@ -1,6 +1,6 @@
 ---
 title: going mad
-tags: code, design
+tags: [ "code", "design" ]
 author: Rob Nugen
 date: 2015-02-26T17:39:00+09:00
 ---

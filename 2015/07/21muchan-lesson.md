@@ -1,6 +1,6 @@
 ---
 title: muchan and yochan lessons
-tags: muchan, yochan
+tags: [ "muchan", "yochan" ]
 author: Rob Nugen
 date: 2015-07-21T21:48:10+09:00
 ---

@@ -2,7 +2,7 @@
 date: 2005-11-20T19:02:43+09:00
 slug: leaving-palestine-tomorrow
 title: Leaving Palestine tomorrow...
-tags: palestine,terror,travel
+tags: [ "palestine", "terror", "travel" ]
 ---
 
 ##19:02 Sunday 20 November 2005

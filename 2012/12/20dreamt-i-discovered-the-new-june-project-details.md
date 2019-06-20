@@ -2,7 +2,7 @@
 date: 2012-12-20T05:55:04+09:00
 slug: dreamt-i-discovered-the-new-june-project-details
 title: dreamt I discovered the new June project details
-tags: dream,journal
+tags: [ "dream", "journal" ]
 ---
 
 ##05:55 Thursday 20 December 2012

@@ -1,6 +1,6 @@
 ---
 title: Jason invited me to OZ
-tags: australia plans, jason
+tags: [ "australia plans", "jason" ]
 author: Rob Nugen
 date: 1999-04-17
 ---

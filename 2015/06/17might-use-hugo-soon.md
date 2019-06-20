@@ -1,6 +1,6 @@
 ---
 title: might use hugo soon
-tags: journal, hugo
+tags: [ "journal", "hugo" ]
 author: Rob Nugen
 date: 2015-06-17T16:14:45+09:00
 ---

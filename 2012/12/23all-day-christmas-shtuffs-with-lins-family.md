@@ -2,7 +2,7 @@
 date: 2012-12-23T00:51:09+09:00
 slug: all-day-christmas-shtuffs-with-lins-family
 title: all day Christmas shtuffs with Lin's family
-tags: journal,lin
+tags: [ "journal", "lin" ]
 ---
 
 ##00:51 Sunday 23 December 2012

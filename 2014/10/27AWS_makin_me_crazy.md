@@ -1,6 +1,6 @@
 ---
 title: AWS makin' me crazy
-tags: aws, ux
+tags: [ "aws", "ux" ]
 author: Rob Nugen
 date: 2014-10-27
 ---

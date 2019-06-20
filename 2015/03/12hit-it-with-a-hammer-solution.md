@@ -1,6 +1,6 @@
 ---
 title: hit it with a hammer solution
-tags: code, perl
+tags: [ "code", "perl" ]
 author: Rob Nugen
 date: 2015-03-12T17:27:00+09:00
 ---

@@ -2,7 +2,7 @@
 date: 2005-10-04T03:39:28+09:00
 slug: automatic-image-categorisation
 title: automatic image categorisation
-tags: internet,technology
+tags: [ "internet", "technology" ]
 ---
 
 ##03:39 Tuesday 04 October 2005

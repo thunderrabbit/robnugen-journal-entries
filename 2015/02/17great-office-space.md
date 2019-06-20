@@ -1,6 +1,6 @@
 ---
 title: Great office space
-tags: work, remote
+tags: [ "work", "remote" ]
 author: Rob Nugen
 date: 2015-02-17T12:30:00+09:00
 ---

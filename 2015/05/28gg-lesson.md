@@ -1,6 +1,6 @@
 ---
 title: GG lesson
-tags: gg, lesson, barefoot
+tags: [ "gg", "lesson", "barefoot" ]
 author: Rob Nugen
 date: 2015-05-28T20:44:31+09:00
 ---

@@ -2,7 +2,7 @@
 date: 2005-11-22T02:20:16+09:00
 slug: how-the-bush-administration-got-spooked-tomdispatchcom
 title: How The Bush Administration Got Spooked (tomdispatch.com)
-tags: airplane day,news,terror
+tags: [ "airplane day", "news", "terror" ]
 ---
 
 ##02:20 Tuesday 22 November 2005

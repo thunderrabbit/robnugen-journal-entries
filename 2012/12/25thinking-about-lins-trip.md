@@ -2,7 +2,7 @@
 date: 2012-12-25T06:27:33+09:00
 slug: thinking-about-lins-trip
 title: thinking about Lin's trip
-tags: journal,lin,spiritual
+tags: [ "journal", "lin", "spiritual" ]
 ---
 
 ##06:27 Tuesday 25 December 2012

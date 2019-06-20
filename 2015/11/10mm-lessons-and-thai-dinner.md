@@ -1,6 +1,6 @@
 ---
 title: MM lessons and Thai dinner
-tags: lessons, mkp
+tags: [ "lessons", "mkp" ]
 author: Rob Nugen
 date: 2015-11-10T22:27:14+09:00
 ---

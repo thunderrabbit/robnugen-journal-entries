@@ -1,6 +1,6 @@
 ---
 title: shell scripting
-tags: programming, shell
+tags: [ "programming", "shell" ]
 author: Rob Nugen
 date: 2015-02-24T18:31:00+09:00
 ---

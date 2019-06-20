@@ -1,6 +1,6 @@
 ---
 title: Yay Travis and Yumi are staying in Tokyo!
-tags: travis, yumi, excited
+tags: [ "travis", "yumi", "excited" ]
 author: Rob Nugen
 date: 2014-11-06
 ---

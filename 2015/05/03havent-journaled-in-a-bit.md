@@ -1,6 +1,6 @@
 ---
 title: state of my life address
-tags: journal, soml
+tags: [ "journal", "soml" ]
 author: Rob Nugen
 date: 2015-05-03T13:40:49+09:00
 ---

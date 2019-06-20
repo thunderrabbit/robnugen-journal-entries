@@ -1,6 +1,6 @@
 ---
 title: Bitcoin lesson this morning
-tags: bitcoin, lesson
+tags: [ "bitcoin", "lesson" ]
 author: Rob Nugen
 date: 2014-12-04
 ---

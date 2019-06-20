@@ -1,6 +1,6 @@
 ---
 title: Harrod's bear for Lin
-tags: bear, christmas
+tags: [ "bear", "christmas" ]
 author: Rob Nugen
 date: 2014-12-24
 ---

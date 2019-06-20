@@ -1,6 +1,6 @@
 ---
 title: Imported all entries from my Wordpress into Hakyll
-tags: journal, wordpress, export, hakyll
+tags: [ "journal", "wordpress", "export", "hakyll" ]
 author: Rob Nugen
 date: 2014-11-08
 ---

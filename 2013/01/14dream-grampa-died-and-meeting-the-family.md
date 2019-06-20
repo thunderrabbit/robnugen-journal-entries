@@ -2,7 +2,7 @@
 date: 2013-01-14T06:48:43+09:00
 slug: dream-grampa-died-and-meeting-the-family
 title: dream grampa died and meeting the family
-tags: dream,journal
+tags: [ "dream", "journal" ]
 ---
 
 ##06:48 Monday 14 January 2013

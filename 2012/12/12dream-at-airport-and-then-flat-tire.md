@@ -2,7 +2,7 @@
 date: 2012-12-12T05:39:01+09:00
 slug: dream-at-airport-and-then-flat-tire
 title: dream at airport and then flat tire
-tags: dream,journal
+tags: [ "dream", "journal" ]
 ---
 
 ##05:39 Wednesday 12 December 2012

@@ -2,7 +2,7 @@
 date: 2012-12-16T07:45:33+09:00
 slug: dream-sent-back-to-1978
 title: dream sent back to 1978
-tags: dream,journal
+tags: [ "dream", "journal" ]
 ---
 
 ##07:45 Sunday 16 December 2012

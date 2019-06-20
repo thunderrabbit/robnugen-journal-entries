@@ -1,6 +1,6 @@
 ---
 title: three lessons at Toshiba
-tags: first, lesson
+tags: [ "first", "lesson" ]
 author: Rob Nugen
 date: 2014-11-11
 ---

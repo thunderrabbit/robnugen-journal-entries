@@ -1,6 +1,6 @@
 ---
 title: Lost my phone
-tags: japan, phone
+tags: [ "japan", "phone" ]
 author: Rob Nugen
 date: 2014-11-02
 ---

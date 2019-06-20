@@ -1,6 +1,6 @@
 ---
 title: Pop Pop Chaos can be played anonymously
-tags: yay, poppopchaos
+tags: [ "yay", "poppopchaos" ]
 author: Rob Nugen
 date: 2015-09-04T13:54:09+09:00
 ---

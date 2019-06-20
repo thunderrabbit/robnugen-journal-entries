@@ -1,6 +1,6 @@
 ---
 title: Jennie got out and it was pretty much my fault
-tags: jennie, doh
+tags: [ "jennie", "doh" ]
 author: Rob Nugen
 date: 2015-04-17T12:10:36+09:00
 ---

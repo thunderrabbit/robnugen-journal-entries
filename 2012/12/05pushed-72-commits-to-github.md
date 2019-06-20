@@ -2,7 +2,7 @@
 date: 2012-12-05T15:36:56+09:00
 slug: pushed-72-commits-to-github
 title: pushed 72 commits to github
-tags: journal,work
+tags: [ "journal", "work" ]
 ---
 
 ##15:36 Wednesday 05 December 2012

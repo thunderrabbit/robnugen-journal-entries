@@ -1,6 +1,6 @@
 ---
 title: response to Thespoian
-tags: meta, md5, cheater
+tags: [ "meta", "md5", "cheater" ]
 author: Rob Nugen
 date: 2015-03-11T18:44:00+09:00
 ---

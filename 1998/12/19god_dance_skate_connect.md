@@ -1,6 +1,6 @@
 ---
 title: god dance skate connect
-tags: dance, skate
+tags: [ "dance", "skate" ]
 author: Rob Nugen
 date: 1998-12-19
 ---

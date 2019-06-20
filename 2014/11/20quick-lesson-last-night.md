@@ -1,6 +1,6 @@
 ---
 title: Quick lesson last night
-tags: lesson, cancel, rain
+tags: [ "lesson", "cancel", "rain" ]
 author: Rob Nugen
 date: 2014-11-20
 ---

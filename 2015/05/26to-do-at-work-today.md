@@ -1,6 +1,6 @@
 ---
 title: to do at work today
-tags: todo, work
+tags: [ "todo", "work" ]
 author: Rob Nugen
 date: 2015-05-26T10:42:29+09:00
 ---

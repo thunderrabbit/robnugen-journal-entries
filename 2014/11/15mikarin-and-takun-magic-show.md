@@ -1,6 +1,6 @@
 ---
 title: Mikarin and Takun magic show
-tags: birthday, magic
+tags: [ "birthday", "magic" ]
 author: Rob Nugen
 date: 2014-11-15
 ---

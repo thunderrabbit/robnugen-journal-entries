@@ -1,6 +1,6 @@
 ---
 title: huggin Amma
-tags: 3rd hug, amma
+tags: [ "3rd hug", "amma" ]
 author: Rob Nugen
 date: 2015-05-28T11:51:17+09:00
 ---

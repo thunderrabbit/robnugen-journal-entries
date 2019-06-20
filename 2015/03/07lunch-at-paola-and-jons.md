@@ -1,6 +1,6 @@
 ---
 title: Lunch at Paola and Jon's
-tags: lunch, pj, lin
+tags: [ "lunch", "pj", "lin" ]
 author: Rob Nugen
 date: 2015-03-07T11:12:00+09:00
 ---

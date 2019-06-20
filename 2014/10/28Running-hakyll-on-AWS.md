@@ -1,6 +1,6 @@
 ---
 title: Running Hakyll on AWS
-tags: hakyll, aws
+tags: [ "hakyll", "aws" ]
 author: Rob Nugen
 date: 2014-10-28
 ---

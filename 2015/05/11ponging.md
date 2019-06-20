@@ -1,6 +1,6 @@
 ---
 title: ponging
-tags: pong, unity, game
+tags: [ "pong", "unity", "game" ]
 author: Rob Nugen
 date: 2015-05-11T22:51:21+09:00
 ---

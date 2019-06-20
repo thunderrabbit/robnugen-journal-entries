@@ -1,6 +1,6 @@
 ---
 title: to do today
-tags: todo, maybe
+tags: [ "todo", "maybe" ]
 author: Rob Nugen
 date: 2015-05-16T10:31:12+09:00
 ---

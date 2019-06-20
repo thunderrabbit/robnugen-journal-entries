@@ -1,6 +1,6 @@
 ---
 title: last day at HN school
-tags: hn, last
+tags: [ "hn", "last" ]
 author: Rob Nugen
 date: 2015-07-15T11:56:33+09:00
 ---

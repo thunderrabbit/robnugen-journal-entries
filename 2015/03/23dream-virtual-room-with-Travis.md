@@ -1,6 +1,6 @@
 ---
 title: Dream virtual room with Travis
-tags: dream, travis, marcel
+tags: [ "dream", "travis", "marcel" ]
 author: Rob Nugen
 date: 2015-03-23T06:39:00+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: pre youth council
-tags: yruu, yc
+tags: [ "yruu", "yc" ]
 author: Rob Nugen
 date: 1999-07-23
 ---

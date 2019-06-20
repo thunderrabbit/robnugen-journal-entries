@@ -1,6 +1,6 @@
 ---
 title: Former student now present student
-tags: nova, jb
+tags: [ "nova", "jb" ]
 author: Rob Nugen
 date: 2015-03-24T11:32:00+09:00
 ---

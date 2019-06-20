@@ -2,7 +2,7 @@
 date: 2013-03-30T19:11:32+09:00
 slug: chillin-with-lins-family
 title: Chillin' with Lin's family
-tags: family,journal
+tags: [ "family", "journal" ]
 ---
 
 ##19:11 Saturday 30 March 2013

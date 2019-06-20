@@ -1,6 +1,6 @@
 ---
 title: Getting Debian lined up
-tags: aligned, debian
+tags: [ "aligned", "debian" ]
 author: Rob Nugen
 date: 2015-06-12T15:11:55+09:00
 ---

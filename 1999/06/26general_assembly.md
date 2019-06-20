@@ -1,6 +1,6 @@
 ---
 title: general assembly
-tags: uu, ga, ya, yruu
+tags: [ "uu", "ga", "ya", "yruu" ]
 author: Rob Nugen
 date: 1999-06-26
 ---

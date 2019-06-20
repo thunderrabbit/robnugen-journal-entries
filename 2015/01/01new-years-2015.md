@@ -1,6 +1,6 @@
 ---
 title: New Years 2015
-tags: new years, 2015
+tags: [ "new years", "2015" ]
 author: Rob Nugen
 date: 2015-01-01
 ---

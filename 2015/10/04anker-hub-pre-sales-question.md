@@ -1,6 +1,6 @@
 ---
 title: Anker hub pre sales question
-tags: anker, usb, hub
+tags: [ "anker", "usb", "hub" ]
 author: Rob Nugen
 date: 2015-10-04T00:15:45+09:00
 ---

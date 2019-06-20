@@ -1,6 +1,6 @@
 ---
 title: I've been voluntold by Karina
-tags: haha, karina
+tags: [ "haha", "karina" ]
 author: Rob Nugen
 date: 2015-12-30T15:06:16+09:00
 ---

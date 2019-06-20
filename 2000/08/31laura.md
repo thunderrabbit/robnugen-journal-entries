@@ -1,6 +1,6 @@
 ---
 title: laura!
-tags: wende, laura, excited
+tags: [ "wende", "laura", "excited" ]
 author: Rob Nugen
 date: 2000-08-31
 ---

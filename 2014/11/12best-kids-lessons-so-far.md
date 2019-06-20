@@ -1,6 +1,6 @@
 ---
 title: Best kids lessons so far
-tags: kids, :-O
+tags: [ "kids", ":-O" ]
 author: Rob Nugen
 date: 2014-11-12
 ---

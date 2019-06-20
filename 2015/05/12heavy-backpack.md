@@ -1,6 +1,6 @@
 ---
 title: heavy backpack
-tags: heavy, ３台
+tags: [ "heavy", "３台" ]
 author: Rob Nugen
 date: 2015-05-12T21:44:11+09:00
 ---

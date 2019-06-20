@@ -1,6 +1,6 @@
 ---
 title: Plan to do today
-tags: todo, today
+tags: [ "todo", "today" ]
 author: Rob Nugen
 date: 2015-03-29T10:42:31+09:00
 ---

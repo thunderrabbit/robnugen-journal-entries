@@ -1,6 +1,6 @@
 ---
 title: Fixed emacs hakyll.el
-tags: emacs, journal
+tags: [ "emacs", "journal" ]
 author: Rob Nugen
 date: 2014-10-30
 ---

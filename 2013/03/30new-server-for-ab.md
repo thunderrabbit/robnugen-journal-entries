@@ -2,7 +2,7 @@
 date: 2013-03-30T10:57:32+09:00
 slug: new-server-for-ab
 title: new server for AB
-tags: internet,work
+tags: [ "internet", "work" ]
 ---
 
 ##10:57 Saturday 30 March 2013

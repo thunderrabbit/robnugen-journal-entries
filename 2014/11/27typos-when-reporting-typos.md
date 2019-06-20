@@ -1,6 +1,6 @@
 ---
 title: typos when reporting typos
-tags: sony, news, typo
+tags: [ "sony", "news", "typo" ]
 author: Rob Nugen
 date: 2014-11-27
 ---

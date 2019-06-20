@@ -1,6 +1,6 @@
 ---
 title: Importing journal entries from Perl journal
-tags: journal, import
+tags: [ "journal", "import" ]
 author: Rob Nugen
 date: 2014-11-08
 ---

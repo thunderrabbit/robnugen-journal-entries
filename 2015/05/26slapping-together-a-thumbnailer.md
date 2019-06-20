@@ -1,6 +1,6 @@
 ---
 title: slapping together a thumbnailer
-tags: images, b.robnugen.com
+tags: [ "images", "b.robnugen.com" ]
 author: Rob Nugen
 date: 2015-05-26T21:37:12+09:00
 ---

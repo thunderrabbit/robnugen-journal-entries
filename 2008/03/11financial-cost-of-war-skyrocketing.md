@@ -2,7 +2,7 @@
 date: 2008-03-11T10:38:25+09:00
 slug: financial-cost-of-war-skyrocketing
 title: Financial Cost Of War Skyrocketing
-tags: news,terror
+tags: [ "news", "terror" ]
 ---
 
 ##10:38 Tuesday 11 March 2008

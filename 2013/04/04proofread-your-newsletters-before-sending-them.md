@@ -2,7 +2,7 @@
 date: 2013-04-04T18:38:17+09:00
 slug: proofread-your-newsletters-before-sending-them
 title: proofread your newsletters before sending them
-tags: guest writer,internet
+tags: [ "guest writer", "internet" ]
 ---
 
 ##18:38 Thursday 04 April 2013

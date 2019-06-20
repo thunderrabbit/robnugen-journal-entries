@@ -1,6 +1,6 @@
 ---
 title: Nine panel maze
-tags: art, npm14
+tags: [ "art", "npm14" ]
 author: Rob Nugen
 date: 2014-12-14
 ---

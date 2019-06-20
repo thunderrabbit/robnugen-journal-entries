@@ -1,6 +1,6 @@
 ---
 title: At Fujizakurasou
-tags: late, journal
+tags: [ "late", "journal" ]
 author: Rob Nugen
 date: 2014-12-21
 ---

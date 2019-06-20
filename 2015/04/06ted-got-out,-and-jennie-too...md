@@ -1,6 +1,6 @@
 ---
 title: Ted got out, and Jennie too..
-tags: cats, ted, jennie
+tags: [ "cats", "ted", "jennie" ]
 author: Rob Nugen
 date: 2015-04-06T22:19:55+09:00
 ---

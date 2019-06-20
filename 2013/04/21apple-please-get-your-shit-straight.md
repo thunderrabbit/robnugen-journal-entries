@@ -2,7 +2,7 @@
 date: 2013-04-21T22:31:26+09:00
 slug: apple-please-get-your-shit-straight
 title: Apple, please get your shit straight
-tags: apple,rant
+tags: [ "apple", "rant" ]
 ---
 
 ##22:31 Sunday 21 April 2013

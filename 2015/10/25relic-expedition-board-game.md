@@ -1,6 +1,6 @@
 ---
 title: relic expedition board game
-tags: analog, game
+tags: [ "analog", "game" ]
 author: Rob Nugen
 date: 2015-10-25T16:49:02+09:00
 ---

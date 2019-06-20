@@ -1,6 +1,6 @@
 ---
 title: Finally figured out how I want tags to be entered
-tags: journal, tags
+tags: [ "journal", "tags" ]
 author: Rob Nugen
 date: 2015-12-27T12:45:54+09:00
 ---
@@ -13,7 +13,7 @@ the top of each file, which in the case of this file, looks like this:
 
     ---
     title: Finally figured out how I want tags to be entered
-    tags: journal, tags
+tags: [ "journal", "tags" ]
     author: Rob Nugen
     date: 2015-12-27T12:45:54+09:00
     ---

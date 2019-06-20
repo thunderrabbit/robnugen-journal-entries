@@ -1,6 +1,6 @@
 ---
 title: Thanks to Travis for refactoring the code!
-tags: refactor, travis, excited, journal
+tags: [ "refactor", "travis", "excited", "journal" ]
 author: Rob Nugen
 date: 2014-11-01
 ---

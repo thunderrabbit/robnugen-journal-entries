@@ -2,7 +2,7 @@
 date: 2013-01-21T00:07:43+09:00
 slug: recent-programming-summary
 title: recent programming summary
-tags: journal,programming
+tags: [ "journal", "programming" ]
 ---
 
 ##00:07 Monday 21 January 2013

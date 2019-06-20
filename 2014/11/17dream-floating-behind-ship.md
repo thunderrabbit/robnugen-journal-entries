@@ -1,6 +1,6 @@
 ---
 title: Dream- floating behind ship
-tags: dream, floating
+tags: [ "dream", "floating" ]
 author: Rob Nugen
 date: 2014-11-17
 ---

@@ -1,6 +1,6 @@
 ---
 title: got images working
-tags: images, middleman
+tags: [ "images", "middleman" ]
 author: Rob Nugen
 date: 2015-03-28T09:56:00+09:00
 ---

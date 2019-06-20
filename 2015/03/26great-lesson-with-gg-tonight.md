@@ -1,6 +1,6 @@
 ---
 title: Great lesson with GG tonight
-tags: lesson, gg
+tags: [ "lesson", "gg" ]
 author: Rob Nugen
 date: 2015-03-26T20:35:00+09:00
 ---

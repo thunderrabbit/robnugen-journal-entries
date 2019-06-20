@@ -1,6 +1,6 @@
 ---
 title: Set up new.robnugen.com on DH
-tags: dh, site
+tags: [ "dh", "site" ]
 author: Rob Nugen
 date: 2015-03-06T21:02:00+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: images bah
-tags: images, bah
+tags: [ "images", "bah" ]
 author: Rob Nugen
 date: 2015-10-13T18:45:30+09:00
 ---

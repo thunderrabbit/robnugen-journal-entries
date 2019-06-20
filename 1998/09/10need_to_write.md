@@ -1,6 +1,6 @@
 ---
 title: need to write
-tags: journal, questions
+tags: [ "journal", "questions" ]
 author: Rob Nugen
 date: 1998-09-10
 ---

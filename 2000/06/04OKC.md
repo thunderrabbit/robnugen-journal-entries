@@ -1,6 +1,6 @@
 ---
 title: OKC
-tags: yruu, okc
+tags: [ "yruu", "okc" ]
 author: Rob Nugen
 date: 2000-06-04
 ---

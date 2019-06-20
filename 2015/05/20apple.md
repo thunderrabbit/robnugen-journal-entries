@@ -1,6 +1,6 @@
 ---
 title: apple
-tags: apple, crap
+tags: [ "apple", "crap" ]
 author: Rob Nugen
 date: 2015-05-20T15:56:24+09:00
 ---

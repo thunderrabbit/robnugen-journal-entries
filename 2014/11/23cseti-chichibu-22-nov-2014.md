@@ -1,6 +1,6 @@
 ---
 title: CSETI Chichibu 22 Nov 2014
-tags: cseti, cold, flash, sleepy
+tags: [ "cseti", "cold", "flash", "sleepy" ]
 author: Rob Nugen
 date: 2014-11-23
 ---

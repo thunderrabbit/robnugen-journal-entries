@@ -1,6 +1,6 @@
 ---
 title: wow amazing collection
-tags: wow, museum, stuff
+tags: [ "wow", "museum", "stuff" ]
 author: Rob Nugen
 date: 2014-12-14
 ---

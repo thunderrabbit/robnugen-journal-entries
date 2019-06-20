@@ -1,6 +1,6 @@
 ---
 title: tried to login to family mart free wifi
-tags: wifi, free
+tags: [ "wifi", "free" ]
 author: Rob Nugen
 date: 2015-05-14T18:20:42+09:00
 ---

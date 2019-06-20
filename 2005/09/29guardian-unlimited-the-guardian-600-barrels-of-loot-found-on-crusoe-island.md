@@ -2,7 +2,7 @@
 date: 2005-09-29T14:04:11+09:00
 slug: guardian-unlimited-the-guardian-600-barrels-of-loot-found-on-crusoe-island
 title: 600 barrels of loot found on Crusoe island
-tags: news,technology
+tags: [ "news", "technology" ]
 ---
 
 ##14:04 Thursday 29 September 2005

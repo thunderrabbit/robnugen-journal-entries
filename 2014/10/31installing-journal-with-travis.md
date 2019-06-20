@@ -1,6 +1,6 @@
 ---
 title: Installing journal with Travis
-tags: travis, journal
+tags: [ "travis", "journal" ]
 author: Rob Nugen
 date: 2014-10-31
 ---
