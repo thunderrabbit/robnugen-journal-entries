@@ -1,6 +1,6 @@
 ---
 title: Got story cards from toy store
-tags: learnin'
+tags: [ "learnin'" ]
 author: Rob Nugen
 date: 2015-02-24T18:10:00+09:00
 ---
