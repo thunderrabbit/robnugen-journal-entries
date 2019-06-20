@@ -2,7 +2,7 @@
 date: 2005-10-17T02:04:49+09:00
 slug: the-carpet-problem
 title: The Carpet Problem
-tags: math / logic
+tags: [ "math", "logic" ]
 ---
 
 ##02:04 Monday 17 October 2005
