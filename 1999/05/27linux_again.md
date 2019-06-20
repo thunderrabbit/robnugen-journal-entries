@@ -1,6 +1,6 @@
 ---
 title: linux again
-tags: linux
+tags: [ "linux" ]
 author: Rob Nugen
 date: 1999-05-27
 ---

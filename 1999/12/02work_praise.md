@@ -1,6 +1,6 @@
 ---
 title: work praise
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 1999-12-02
 ---

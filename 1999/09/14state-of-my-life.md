@@ -1,6 +1,6 @@
 ---
 title: state-of-my-lif
-tags: soml
+tags: [ "soml" ]
 author: Rob Nugen
 date: 1999-09-14
 ---

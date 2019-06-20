@@ -1,6 +1,6 @@
 ---
 title: ultimate catch
-tags: ultimate
+tags: [ "ultimate" ]
 author: Rob Nugen
 date: 1999-10-04
 ---

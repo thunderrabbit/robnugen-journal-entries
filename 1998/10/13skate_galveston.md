@@ -1,6 +1,6 @@
 ---
 title: skate galveston
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 1998-10-13
 ---

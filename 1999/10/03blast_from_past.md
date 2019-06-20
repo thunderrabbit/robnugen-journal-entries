@@ -1,6 +1,6 @@
 ---
 title: blast from past
-tags: movie
+tags: [ "movie" ]
 author: Rob Nugen
 date: 1999-10-03
 ---

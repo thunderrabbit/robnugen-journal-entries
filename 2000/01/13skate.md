@@ -1,6 +1,6 @@
 ---
 title: skate
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 2000-01-13
 ---

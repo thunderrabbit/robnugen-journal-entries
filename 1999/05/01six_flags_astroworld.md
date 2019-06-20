@@ -1,6 +1,6 @@
 ---
 title: six flags astroworld
-tags: coasters
+tags: [ "coasters" ]
 author: Rob Nugen
 date: 1999-05-01
 ---

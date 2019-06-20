@@ -1,6 +1,6 @@
 ---
 title: trauma
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2000-03-08
 ---

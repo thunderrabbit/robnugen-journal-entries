@@ -1,6 +1,6 @@
 ---
 title: youth caucus
-tags: YRUU
+tags: [ "YRUU" ]
 author: Rob Nugen
 date: 1998-11-15
 ---

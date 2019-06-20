@@ -1,6 +1,6 @@
 ---
 title: Wende
-tags: wende
+tags: [ "wende" ]
 author: Rob Nugen
 date: 2000-05-12
 ---

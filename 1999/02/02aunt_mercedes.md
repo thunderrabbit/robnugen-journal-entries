@@ -1,6 +1,6 @@
 ---
 title: aunt mercedes
-tags: cancer
+tags: [ "cancer" ]
 author: Rob Nugen
 date: 1999-02-02
 ---

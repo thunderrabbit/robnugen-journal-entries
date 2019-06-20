@@ -1,6 +1,6 @@
 ---
 title: letter from g
-tags: fred
+tags: [ "fred" ]
 author: Rob Nugen
 date: 1999-12-03
 ---

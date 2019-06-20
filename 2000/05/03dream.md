@@ -1,6 +1,6 @@
 ---
 title: dream back to apartment
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2000-05-03
 ---

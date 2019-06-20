@@ -1,6 +1,6 @@
 ---
 title: investment Club
-tags: money
+tags: [ "money" ]
 author: Rob Nugen
 date: 2000-02-25
 ---

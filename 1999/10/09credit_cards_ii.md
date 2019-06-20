@@ -1,6 +1,6 @@
 ---
 title: credit cards ii
-tags: money
+tags: [ "money" ]
 author: Rob Nugen
 date: 1999-10-09
 ---

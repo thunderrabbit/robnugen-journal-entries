@@ -1,6 +1,6 @@
 ---
 title: from Fred
-tags: fred
+tags: [ "fred" ]
 author: Rob Nugen
 date: 2000-02-21
 ---

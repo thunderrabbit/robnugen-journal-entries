@@ -1,6 +1,6 @@
 ---
 title: twisted christmas
-tags: dance
+tags: [ "dance" ]
 author: Rob Nugen
 date: 1998-12-30
 ---

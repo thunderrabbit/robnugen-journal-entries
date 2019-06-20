@@ -1,6 +1,6 @@
 ---
 title: youth council
-tags: yruu
+tags: [ "yruu" ]
 author: Rob Nugen
 date: 1999-04-14
 ---

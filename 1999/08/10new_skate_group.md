@@ -1,6 +1,6 @@
 ---
 title: new skate group
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 1999-08-10
 ---

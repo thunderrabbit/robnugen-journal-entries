@@ -1,6 +1,6 @@
 ---
 title: serial thriller
-tags: coasters
+tags: [ "coasters" ]
 author: Rob Nugen
 date: 1999-05-29
 ---

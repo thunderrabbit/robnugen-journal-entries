@@ -1,6 +1,6 @@
 ---
 title: jen in town
-tags: jen
+tags: [ "jen" ]
 author: Rob Nugen
 date: 1999-04-28
 ---

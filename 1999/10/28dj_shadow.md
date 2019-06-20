@@ -1,6 +1,6 @@
 ---
 title: dj shadow
-tags: concert
+tags: [ "concert" ]
 author: Rob Nugen
 date: 1999-10-28
 ---

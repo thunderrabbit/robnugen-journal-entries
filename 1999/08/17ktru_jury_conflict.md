@@ -1,6 +1,6 @@
 ---
 title: ktru jury conflict
-tags: ktru
+tags: [ "ktru" ]
 author: Rob Nugen
 date: 1999-08-17
 ---

@@ -1,6 +1,6 @@
 ---
 title: SFoT
-tags: coasters
+tags: [ "coasters" ]
 author: Rob Nugen
 date: 1999-04-18
 ---

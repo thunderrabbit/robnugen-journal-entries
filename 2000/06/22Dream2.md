@@ -1,6 +1,6 @@
 ---
 title: Dream Wende
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2000-06-22
 ---

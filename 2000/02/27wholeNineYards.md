@@ -1,6 +1,6 @@
 ---
 title: whole Nine Yards
-tags: movie
+tags: [ "movie" ]
 author: Rob Nugen
 date: 2000-02-27
 ---

@@ -1,6 +1,6 @@
 ---
 title: yay linux
-tags: linux
+tags: [ "linux" ]
 author: Rob Nugen
 date: 1999-06-02
 ---

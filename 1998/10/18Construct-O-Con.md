@@ -1,6 +1,6 @@
 ---
 title: Construct-O-Con
-tags: YRUU
+tags: [ "YRUU" ]
 author: Rob Nugen
 date: 1998-10-18
 ---

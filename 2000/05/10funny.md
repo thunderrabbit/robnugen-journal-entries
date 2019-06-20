@@ -1,6 +1,6 @@
 ---
 title: funny
-tags: funny
+tags: [ "funny" ]
 author: Rob Nugen
 date: 2000-05-10
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dream3.57
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2000-07-24
 ---

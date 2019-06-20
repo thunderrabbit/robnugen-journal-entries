@@ -1,6 +1,6 @@
 ---
 title: no manda
-tags: manda
+tags: [ "manda" ]
 author: Rob Nugen
 date: 1999-02-09
 ---

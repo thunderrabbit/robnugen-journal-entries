@@ -1,6 +1,6 @@
 ---
 title: gymnastics beanie babies
-tags: gymnastics
+tags: [ "gymnastics" ]
 author: Rob Nugen
 date: 1998-11-03
 ---

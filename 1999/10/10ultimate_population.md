@@ -1,6 +1,6 @@
 ---
 title: ultimate population
-tags: ultimate
+tags: [ "ultimate" ]
 author: Rob Nugen
 date: 1999-10-10
 ---

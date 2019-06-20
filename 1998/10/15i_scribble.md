@@ -1,6 +1,6 @@
 ---
 title: i scribble
-tags: gif
+tags: [ "gif" ]
 author: Rob Nugen
 date: 1998-10-15
 ---

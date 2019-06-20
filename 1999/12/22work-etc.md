@@ -1,6 +1,6 @@
 ---
 title: work-etc
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 1999-12-22
 ---

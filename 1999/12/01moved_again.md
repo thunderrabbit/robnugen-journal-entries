@@ -1,6 +1,6 @@
 ---
 title: moved again
-tags: move
+tags: [ "move" ]
 author: Rob Nugen
 date: 1999-12-01
 ---

@@ -1,6 +1,6 @@
 ---
 title: late
-tags: wende
+tags: [ "wende" ]
 author: Rob Nugen
 date: 1999-12-07
 ---

@@ -1,6 +1,6 @@
 ---
 title: spot
-tags: spot
+tags: [ "spot" ]
 author: Rob Nugen
 date: 2000-04-27
 ---

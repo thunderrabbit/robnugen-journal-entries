@@ -1,6 +1,6 @@
 ---
 title: Dream1.52
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2000-07-07
 ---

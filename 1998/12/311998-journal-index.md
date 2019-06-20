@@ -1,6 +1,6 @@
 ---
 title: 1998 journal index looked like this when I maintained it by hand back in the day
-tags: journal
+tags: [ "journal" ]
 author: Rob Nugen
 date: 1998-12-31
 ---

@@ -1,6 +1,6 @@
 ---
 title: fred summer
-tags: fred
+tags: [ "fred" ]
 author: Rob Nugen
 date: 1999-05-04
 ---

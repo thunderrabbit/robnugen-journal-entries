@@ -1,6 +1,6 @@
 ---
 title: amazone
-tags: ktru
+tags: [ "ktru" ]
 author: Rob Nugen
 date: 1999-10-16
 ---

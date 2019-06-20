@@ -1,6 +1,6 @@
 ---
 title: dream Project
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2000-02-25
 ---

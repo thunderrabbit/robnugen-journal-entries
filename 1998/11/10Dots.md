@@ -1,6 +1,6 @@
 ---
 title: Dots
-tags: dots
+tags: [ "dots" ]
 author: Rob Nugen
 date: 1998-11-10
 ---

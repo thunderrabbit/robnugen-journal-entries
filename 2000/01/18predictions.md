@@ -1,6 +1,6 @@
 ---
 title: predictions
-tags: predictions
+tags: [ "predictions" ]
 author: Rob Nugen
 date: 2000-01-18
 ---

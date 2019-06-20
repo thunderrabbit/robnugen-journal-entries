@@ -1,6 +1,6 @@
 ---
 title: christmas
-tags: christmas
+tags: [ "christmas" ]
 author: Rob Nugen
 date: 1999-12-25
 ---

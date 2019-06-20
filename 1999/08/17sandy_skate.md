@@ -1,6 +1,6 @@
 ---
 title: sandy skate
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 1999-08-17
 ---

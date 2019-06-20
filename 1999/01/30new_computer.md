@@ -1,6 +1,6 @@
 ---
 title: new computer
-tags: computer
+tags: [ "computer" ]
 author: Rob Nugen
 date: 1999-01-30
 ---

@@ -1,6 +1,6 @@
 ---
 title: skate tired
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 1999-10-08
 ---

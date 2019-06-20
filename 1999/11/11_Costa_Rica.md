@@ -1,6 +1,6 @@
 ---
 title:  Costa Rica
-tags: travel
+tags: [ "travel" ]
 author: Rob Nugen
 date: 1999-11-11
 ---

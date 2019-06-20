@@ -1,6 +1,6 @@
 ---
 title: skate to uh
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 1998-11-11
 ---

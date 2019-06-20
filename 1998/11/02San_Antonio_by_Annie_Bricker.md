@@ -1,6 +1,6 @@
 ---
 title: San Antonio by Annie Bricker
-tags: YRUU
+tags: [ "YRUU" ]
 author: Annie Bricker
 date: 1998-11-02
 ---

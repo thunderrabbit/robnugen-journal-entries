@@ -1,6 +1,6 @@
 ---
 title: ktru application
-tags: KTRU
+tags: [ "KTRU" ]
 author: Rob Nugen
 date: 1998-12-21
 ---

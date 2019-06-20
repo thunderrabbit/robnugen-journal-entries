@@ -1,6 +1,6 @@
 ---
 title: beastie boys
-tags: planetarium
+tags: [ "planetarium" ]
 author: Rob Nugen
 date: 1999-01-30
 ---

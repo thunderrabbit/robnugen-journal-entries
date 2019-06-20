@@ -1,6 +1,6 @@
 ---
 title: pre Dallas rally
-tags: yruu
+tags: [ "yruu" ]
 author: Rob Nugen
 date: 2000-02-04
 ---

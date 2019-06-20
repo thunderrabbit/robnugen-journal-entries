@@ -1,6 +1,6 @@
 ---
 title: the seige
-tags: movie
+tags: [ "movie" ]
 author: Rob Nugen
 date: 1998-11-08
 ---

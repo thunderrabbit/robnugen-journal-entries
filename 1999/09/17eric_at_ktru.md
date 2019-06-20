@@ -1,6 +1,6 @@
 ---
 title: eric at ktru
-tags: ktru
+tags: [ "ktru" ]
 author: Rob Nugen
 date: 1999-09-17
 ---

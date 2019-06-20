@@ -1,6 +1,6 @@
 ---
 title: skate late
-tags: skate
+tags: [ "skate" ]
 author: Rob Nugen
 date: 1999-08-20
 ---

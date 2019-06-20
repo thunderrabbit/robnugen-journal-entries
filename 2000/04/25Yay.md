@@ -1,6 +1,6 @@
 ---
 title: Yay!!!
-tags: excited
+tags: [ "excited" ]
 author: Rob Nugen
 date: 2000-04-25
 ---

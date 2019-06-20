@@ -1,6 +1,6 @@
 ---
 title: susan b anthony
-tags: coins
+tags: [ "coins" ]
 author: Rob Nugen
 date: 1999-01-31
 ---

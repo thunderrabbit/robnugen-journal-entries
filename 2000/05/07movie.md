@@ -1,6 +1,6 @@
 ---
 title: movie
-tags: movie
+tags: [ "movie" ]
 author: Rob Nugen
 date: 2000-05-07
 ---

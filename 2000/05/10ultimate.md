@@ -1,6 +1,6 @@
 ---
 title: ultimate
-tags: ultimate
+tags: [ "ultimate" ]
 author: Rob Nugen
 date: 2000-05-10
 ---

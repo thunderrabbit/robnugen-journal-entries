@@ -1,6 +1,6 @@
 ---
 title: pixels
-tags: funny
+tags: [ "funny" ]
 author: Rob Nugen
 date: 1998-09-30
 ---

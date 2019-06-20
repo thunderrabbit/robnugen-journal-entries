@@ -1,6 +1,6 @@
 ---
 title: six flags great america
-tags: coasters
+tags: [ "coasters" ]
 author: Rob Nugen
 date: 1999-05-08
 ---

@@ -1,6 +1,6 @@
 ---
 title: eyes
-tags: eyes
+tags: [ "eyes" ]
 author: Rob Nugen
 date: 2000-03-01
 ---

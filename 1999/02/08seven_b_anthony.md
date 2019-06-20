@@ -1,6 +1,6 @@
 ---
 title: seven b anthony
-tags: coins
+tags: [ "coins" ]
 author: Rob Nugen
 date: 1999-02-08
 ---

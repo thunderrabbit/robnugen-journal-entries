@@ -1,6 +1,6 @@
 ---
 title: unicycling
-tags: unicycle
+tags: [ "unicycle" ]
 author: Rob Nugen
 date: 2000-01-20
 ---

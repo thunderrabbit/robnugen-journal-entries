@@ -1,6 +1,6 @@
 ---
 title: halloween carnival
-tags: YRUU
+tags: [ "YRUU" ]
 author: Rob Nugen
 date: 1998-10-25
 ---

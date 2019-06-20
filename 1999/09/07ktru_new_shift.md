@@ -1,6 +1,6 @@
 ---
 title: ktru new shift
-tags: ktru
+tags: [ "ktru" ]
 author: Rob Nugen
 date: 1999-09-07
 ---

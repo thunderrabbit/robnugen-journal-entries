@@ -1,6 +1,6 @@
 ---
 title: PPultimate
-tags: ultimate
+tags: [ "ultimate" ]
 author: Rob Nugen
 date: 2000-04-22
 ---

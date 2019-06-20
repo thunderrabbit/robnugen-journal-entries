@@ -1,6 +1,6 @@
 ---
 title: San Antonio by Nancy Deardorff
-tags: YRUU
+tags: [ "YRUU" ]
 author: Nancy Deardorff
 date: 1998-11-02
 ---

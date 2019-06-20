@@ -1,6 +1,6 @@
 ---
 title: pre-rally
-tags: yruu
+tags: [ "yruu" ]
 author: Rob Nugen
 date: 2000-01-14
 ---
