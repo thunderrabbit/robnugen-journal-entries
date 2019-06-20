@@ -8,42 +8,44 @@ use File::Slurp;
 use File::Find;
 
 my $dir = "/Users/thunderrabbit/journal/";
-my $seen = 0;
+my $seen = 0;               # sanity checker
 
-find(\&edits, $dir);
+find(\&edits, $dir);        # I think this runs find on the directory and pushes it through edits()
 
 sub edits() {
 
     # kill any files ending with ~
     if ( /~$/ ) {
-	print "Deleting backup file: $File::Find::name\n";
-	unlink $_;
-	return;
+        print "Deleting backup file: $File::Find::name\n";
+        unlink $_;
+        return;
     }
-    
+
     my $edited = 0;
     if ($seen < 1000 and -f and /.md/ ) {
-	print "Processing file: $File::Find::name\n";
+        print "Processing file: $File::Find::name\n";
         $seen++;
-	$edited = 0;
+        $edited = 0;
         my $file = $_;
         open FILE, $file;
         my @lines = <FILE>;
         close FILE;
         for my $line ( @lines ) {
-#            if ( $line =~ /date:/  ) {
-#		$edited = 1;
-#	        print $line;
+            if ( $line =~ /tags:\s+(\w+)/  ) {      # look for 'tags: tag' (with no quotes)
+                $edited = 1;
+                print $1;
+                $line = "tags: [ \"$1\" ]\n";       # wrap tag with quotes and brackets
+                print $line;
+            }
+#            if ( $line =~ /moment 1999 arrived/ ) {
+#                print $File::Find::name;
 #            }
-	    if ( $line =~ /moment 1999 arrived/ ) {
-		print $File::Find::name;
-	    }
         }
-	if($edited) {
-            open FILE, ">$file";
-            print FILE @lines;
-            close FILE;
-	}
+        if($edited) {
+            open FILE, ">$file";                    # overwrite the same file
+            print FILE @lines;                      # with the new lines
+            close FILE;                             # save in place
+        }
     }
     
 }
