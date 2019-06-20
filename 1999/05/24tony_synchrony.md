@@ -1,6 +1,6 @@
 ---
 title: Tony Synchrony
-tags: australia plans
+tags: [ "australia plans" ]
 author: Rob Nugen
 date: 1999-05-24T11:00:00-06:00
 ---

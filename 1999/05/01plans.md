@@ -1,6 +1,6 @@
 ---
 title: Australia plans
-tags: australia plans
+tags: [ "australia plans" ]
 author: Rob Nugen
 date: 1999-05-01
 ---

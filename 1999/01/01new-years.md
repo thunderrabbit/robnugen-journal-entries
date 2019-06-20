@@ -1,6 +1,6 @@
 ---
 title: New years
-tags: new years
+tags: [ "new years" ]
 author: Rob Nugen
 date: 1999-01-01
 ---

@@ -1,6 +1,6 @@
 ---
 title: amanda miss houston
-tags: miss houston
+tags: [ "miss houston" ]
 author: Rob Nugen
 date: 1999-01-26
 ---
