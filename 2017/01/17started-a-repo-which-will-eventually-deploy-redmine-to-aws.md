@@ -1,6 +1,6 @@
 ---
 title: Started a repo which will eventually deploy Redmine to AWS
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-01-17T01:29:03+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: how to kill an external hard drive for only a few dollars
-tags: oops
+tags: [ "oops" ]
 author: Rob Nugen
 date: 2015-12-01T12:31:54+09:00
 ---

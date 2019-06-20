@@ -1,6 +1,6 @@
 ---
 title: hour of code
-tags: code
+tags: [ "code" ]
 author: Rob Nugen
 date: 2015-01-27
 ---

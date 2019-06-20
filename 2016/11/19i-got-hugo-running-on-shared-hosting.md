@@ -1,6 +1,6 @@
 ---
 title: I got hugo running on shared hosting
-tags: hugo
+tags: [ "hugo" ]
 author: Rob Nugen
 date: 2016-11-19T18:16:21+09:00
 ---

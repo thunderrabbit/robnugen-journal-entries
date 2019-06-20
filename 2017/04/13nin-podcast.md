@@ -1,6 +1,6 @@
 ---
 title: nin podcast
-tags: music
+tags: [ "music" ]
 author: Rob Nugen
 date: 2017-04-13T17:48:13+09:00
 ---

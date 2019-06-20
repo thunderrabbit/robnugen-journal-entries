@@ -1,6 +1,6 @@
 ---
 title: bryn
-tags: bryn
+tags: [ "bryn" ]
 author: Rob Nugen
 date: 2002-03-27
 ---

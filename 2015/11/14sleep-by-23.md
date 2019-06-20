@@ -1,6 +1,6 @@
 ---
 title: Sleep by 23
-tags: early
+tags: [ "early" ]
 author: Rob Nugen
 date: 2015-11-14T22:47:37+09:00
 ---

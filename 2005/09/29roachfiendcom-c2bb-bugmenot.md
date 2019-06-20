@@ -2,7 +2,7 @@
 date: 2005-09-29T04:23:38+09:00
 slug: roachfiendcom-%c2%bb-bugmenot
 title: roachfiend.com Â» BugMeNot
-tags: internet
+tags: [ "internet" ]
 ---
 
 ##04:23 Thursday 29 September 2005

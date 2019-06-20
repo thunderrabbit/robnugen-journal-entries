@@ -1,6 +1,6 @@
 ---
 title: tonight
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2015-03-07T21:54:00+09:00
 ---

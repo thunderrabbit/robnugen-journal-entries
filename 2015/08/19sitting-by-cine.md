@@ -1,6 +1,6 @@
 ---
 title: Sitting by Cine
-tags: cine
+tags: [ "cine" ]
 author: Rob Nugen
 date: 2015-08-19T18:44:31+09:00
 ---

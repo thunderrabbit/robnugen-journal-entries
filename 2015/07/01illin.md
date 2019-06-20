@@ -1,6 +1,6 @@
 ---
 title: Illin
-tags: sick
+tags: [ "sick" ]
 author: Rob Nugen
 date: 2015-07-01T15:36:11+09:00
 ---

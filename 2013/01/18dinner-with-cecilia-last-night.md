@@ -2,7 +2,7 @@
 date: 2013-01-18T07:23:01+09:00
 slug: dinner-with-cecilia-last-night
 title: dinner with Cecilia last night
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##07:23 Friday 18 January 2013

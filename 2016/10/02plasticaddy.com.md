@@ -1,6 +1,6 @@
 ---
 title: plasticaddy.com
-tags: new
+tags: [ "new" ]
 author: Rob Nugen
 date: 2016-10-02T00:34:58+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tuesday morning lesson shakeup
-tags: lesson
+tags: [ "lesson" ]
 author: Rob Nugen
 date: 2015-04-22T10:28:33+09:00
 ---

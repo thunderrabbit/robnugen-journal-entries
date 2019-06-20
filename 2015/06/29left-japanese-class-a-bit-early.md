@@ -1,6 +1,6 @@
 ---
 title: left Japanese class a bit early
-tags: bye
+tags: [ "bye" ]
 author: Rob Nugen
 date: 2015-06-29T21:17:29+09:00
 ---

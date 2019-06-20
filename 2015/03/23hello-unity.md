@@ -1,6 +1,6 @@
 ---
 title: Hello Unity
-tags: unity
+tags: [ "unity" ]
 author: Rob Nugen
 date: 2015-03-23T16:23:00+09:00
 ---

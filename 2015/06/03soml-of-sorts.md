@@ -1,6 +1,6 @@
 ---
 title: soml of sorts
-tags: soml
+tags: [ "soml" ]
 author: Rob Nugen
 date: 2015-06-03T12:26:03+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Almost creating thumbnails
-tags: images
+tags: [ "images" ]
 author: Rob Nugen
 date: 2015-05-27T10:55:45+09:00
 ---

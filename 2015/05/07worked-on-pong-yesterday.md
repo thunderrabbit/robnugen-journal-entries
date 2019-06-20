@@ -1,6 +1,6 @@
 ---
 title: worked on pong yesterday
-tags: pong
+tags: [ "pong" ]
 author: Rob Nugen
 date: 2015-05-07T10:07:39+09:00
 ---

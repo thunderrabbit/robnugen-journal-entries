@@ -1,6 +1,6 @@
 ---
 title: lesson at hs
-tags: lesson
+tags: [ "lesson" ]
 author: Rob Nugen
 date: 2015-07-11T09:44:45+09:00
 ---

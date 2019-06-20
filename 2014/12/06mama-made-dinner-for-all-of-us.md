@@ -1,6 +1,6 @@
 ---
 title: Mama made dinner for all of us
-tags: dinner
+tags: [ "dinner" ]
 author: Rob Nugen
 date: 2014-12-06
 ---

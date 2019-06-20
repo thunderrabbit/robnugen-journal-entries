@@ -2,7 +2,7 @@
 date: 2012-11-27T21:45:25+09:00
 slug: workin-on-my-backbone
 title: workin on my backbone
-tags: work
+tags: [ "work" ]
 ---
 
 ##21:45 Tuesday 27 November 2012

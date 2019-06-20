@@ -1,6 +1,6 @@
 ---
 title: First lesson in a month
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2016-01-21T07:04:46+09:00
 ---

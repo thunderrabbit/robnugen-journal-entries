@@ -1,6 +1,6 @@
 ---
 title: Headed to TEDx Waseda today
-tags: tedx
+tags: [ "tedx" ]
 author: Rob Nugen
 date: 2016-06-25T08:06:30+09:00
 ---

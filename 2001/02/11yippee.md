@@ -1,6 +1,6 @@
 ---
 title: yippee!!
-tags: excited
+tags: [ "excited" ]
 author: Rob Nugen
 date: 2001-02-11
 ---

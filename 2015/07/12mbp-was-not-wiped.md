@@ -1,6 +1,6 @@
 ---
 title: MBP was not wiped
-tags: yay
+tags: [ "yay" ]
 author: Rob Nugen
 date: 2015-07-12T13:06:51+09:00
 ---

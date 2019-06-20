@@ -1,6 +1,6 @@
 ---
 title: Accident maggie
-tags: sleepy
+tags: [ "sleepy" ]
 author: Rob Nugen
 date: 2002-07-15
 ---

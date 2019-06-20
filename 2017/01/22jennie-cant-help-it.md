@@ -1,6 +1,6 @@
 ---
 title: jennie can't help it
-tags: cat
+tags: [ "cat" ]
 author: Rob Nugen
 date: 2017-01-22T09:57:41+09:00
 ---

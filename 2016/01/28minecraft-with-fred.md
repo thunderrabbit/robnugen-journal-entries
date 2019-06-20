@@ -1,6 +1,6 @@
 ---
 title: minecraft with Fred
-tags: fred
+tags: [ "fred" ]
 author: Rob Nugen
 date: 2016-01-28T03:03:06+09:00
 ---

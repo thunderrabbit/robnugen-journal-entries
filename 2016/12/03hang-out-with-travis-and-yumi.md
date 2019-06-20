@@ -1,6 +1,6 @@
 ---
 title: hang out with Travis and Yumi
-tags: travis
+tags: [ "travis" ]
 author: Rob Nugen
 date: 2016-12-03T23:08:49+09:00
 ---

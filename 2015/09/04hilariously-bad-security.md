@@ -1,6 +1,6 @@
 ---
 title: hilariously bad security
-tags: insecure
+tags: [ "insecure" ]
 author: Rob Nugen
 date: 2015-09-04T13:54:26+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: back to Ma's house
-tags: ma
+tags: [ "ma" ]
 author: Rob Nugen
 date: 2016-01-28T18:59:01+09:00
 ---

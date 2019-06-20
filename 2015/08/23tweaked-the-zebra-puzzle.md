@@ -1,6 +1,6 @@
 ---
 title: Tweaked the Zebra puzzle
-tags: puzzles
+tags: [ "puzzles" ]
 author: Rob Nugen
 date: 2015-08-23T17:35:40+09:00
 ---

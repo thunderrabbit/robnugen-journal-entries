@@ -1,6 +1,6 @@
 ---
 title: train work
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2016-08-02T10:14:45+09:00
 ---

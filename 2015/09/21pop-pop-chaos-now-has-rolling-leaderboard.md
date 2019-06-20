@@ -1,6 +1,6 @@
 ---
 title: Pop Pop Chaos now has rolling leaderboard
-tags: poppopchaos
+tags: [ "poppopchaos" ]
 author: Rob Nugen
 date: 2015-09-21T20:00:47+09:00
 ---

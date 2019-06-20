@@ -1,6 +1,6 @@
 ---
 title: AC lesson
-tags: lesson
+tags: [ "lesson" ]
 author: Rob Nugen
 date: 2015-02-12T09:26:00+09:00
 ---

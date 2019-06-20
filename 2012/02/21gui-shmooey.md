@@ -2,7 +2,7 @@
 date: 2012-02-21T14:07:52+09:00
 slug: gui-shmooey
 title: gui shmooey
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##14:07 Tuesday 21 February 2012

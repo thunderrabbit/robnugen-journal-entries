@@ -1,6 +1,6 @@
 ---
 title: creativity
-tags: art
+tags: [ "art" ]
 author: Rob Nugen
 date: 2016-06-21T17:00:53+09:00
 ---

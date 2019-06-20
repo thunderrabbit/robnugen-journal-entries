@@ -1,6 +1,6 @@
 ---
 title: Looking at an all-electric house near 新百合ケ丘
-tags: house
+tags: [ "house" ]
 author: Rob Nugen
 date: 2016-01-16T13:21:55+09:00
 ---

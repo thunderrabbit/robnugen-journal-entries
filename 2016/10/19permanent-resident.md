@@ -1,6 +1,6 @@
 ---
 title: permanent resident
-tags: wow
+tags: [ "wow" ]
 author: Rob Nugen
 date: 2016-10-19T22:46:45+09:00
 ---

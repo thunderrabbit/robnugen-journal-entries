@@ -1,6 +1,6 @@
 ---
 title: from bryn
-tags: bryn
+tags: [ "bryn" ]
 author: Bryn
 date: 2001-12-23
 ---

@@ -1,6 +1,6 @@
 ---
 title: time and money and money and time
-tags: lessons
+tags: [ "lessons" ]
 author: Rob Nugen
 date: 2015-11-19T17:22:37+09:00
 ---

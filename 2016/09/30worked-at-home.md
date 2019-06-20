@@ -1,6 +1,6 @@
 ---
 title: worked at home
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2016-09-30T20:22:20+09:00
 ---

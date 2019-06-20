@@ -1,6 +1,6 @@
 ---
 title: brute forcing American Tourister lock
-tags: lock
+tags: [ "lock" ]
 author: Rob Nugen
 date: 2016-01-20T00:24:34+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: seat lottery
-tags: trains
+tags: [ "trains" ]
 author: Rob Nugen
 date: 2015-03-27T14:17:00+09:00
 ---

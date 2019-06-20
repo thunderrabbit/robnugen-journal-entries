@@ -1,6 +1,6 @@
 ---
 title: new game at toy store
-tags: selection
+tags: [ "selection" ]
 author: Rob Nugen
 date: 2015-05-19T18:43:23+09:00
 ---

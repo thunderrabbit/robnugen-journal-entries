@@ -1,6 +1,6 @@
 ---
 title: Japanese notes from a month ago
-tags: late
+tags: [ "late" ]
 author: Rob Nugen
 date: 2017-03-26T23:45:11+09:00
 ---

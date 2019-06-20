@@ -1,6 +1,6 @@
 ---
 title: reason 8,144 to hate Apple
-tags: blarg
+tags: [ "blarg" ]
 author: Rob Nugen
 date: 2015-12-01T10:52:47+09:00
 ---

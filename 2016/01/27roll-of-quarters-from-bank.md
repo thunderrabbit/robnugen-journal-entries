@@ -1,6 +1,6 @@
 ---
 title: roll of quarters from bank
-tags: numismatic
+tags: [ "numismatic" ]
 author: Rob Nugen
 date: 2016-01-27T13:49:15+09:00
 ---

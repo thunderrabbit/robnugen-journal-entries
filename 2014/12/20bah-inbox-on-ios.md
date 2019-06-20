@@ -1,6 +1,6 @@
 ---
 title: Bah Inbox on iOS
-tags: ux
+tags: [ "ux" ]
 author: Rob Nugen
 date: 2014-12-20
 ---

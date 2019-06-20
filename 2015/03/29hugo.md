@@ -1,6 +1,6 @@
 ---
 title: Hugo
-tags: site
+tags: [ "site" ]
 author: Rob Nugen
 date: 2015-03-29T00:11:18+09:00
 ---

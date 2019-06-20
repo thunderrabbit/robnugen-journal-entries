@@ -1,6 +1,6 @@
 ---
 title: my computer is done
-tags: mysterious future
+tags: [ "mysterious future" ]
 author: Rob Nugen
 date: 2015-07-11T21:53:46+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: amazingly sore after SOGO
-tags: sogo
+tags: [ "sogo" ]
 author: Rob Nugen
 date: 2016-08-30T12:10:15+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: great GG lesson
-tags: lesson
+tags: [ "lesson" ]
 author: Rob Nugen
 date: 2015-02-19T20:28:00+09:00
 ---

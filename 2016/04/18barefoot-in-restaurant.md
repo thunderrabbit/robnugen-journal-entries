@@ -1,6 +1,6 @@
 ---
 title: barefoot in restaurant
-tags: feet
+tags: [ "feet" ]
 author: Rob Nugen
 date: 2016-04-18T05:17:00+09:00
 ---

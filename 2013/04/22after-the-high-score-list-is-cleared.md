@@ -2,7 +2,7 @@
 date: 2013-04-22T08:36:52+09:00
 slug: after-the-high-score-list-is-cleared
 title: After the high score list is cleared
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##08:36 Monday 22 April 2013

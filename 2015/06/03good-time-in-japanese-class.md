@@ -1,6 +1,6 @@
 ---
 title: Good time in Japanese class
-tags: class
+tags: [ "class" ]
 author: Rob Nugen
 date: 2015-06-03T22:43:41+09:00
 ---

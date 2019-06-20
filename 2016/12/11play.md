@@ -1,6 +1,6 @@
 ---
 title: play
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2016-12-11T10:26:47+09:00
 ---

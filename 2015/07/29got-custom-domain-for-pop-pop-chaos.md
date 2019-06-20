@@ -1,6 +1,6 @@
 ---
 title: Got custom domain for Pop Pop Chaos
-tags: poppopchaos
+tags: [ "poppopchaos" ]
 author: Rob Nugen
 date: 2015-07-29T10:52:53+09:00
 ---

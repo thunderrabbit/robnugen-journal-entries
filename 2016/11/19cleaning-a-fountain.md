@@ -1,6 +1,6 @@
 ---
 title: cleaning a fountain
-tags: fount
+tags: [ "fount" ]
 author: Rob Nugen
 date: 2016-11-19T18:46:27+09:00
 ---

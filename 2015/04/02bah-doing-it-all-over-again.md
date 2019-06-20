@@ -1,6 +1,6 @@
 ---
 title: bah doing it all over again
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2015-04-02T17:50:13+09:00
 ---

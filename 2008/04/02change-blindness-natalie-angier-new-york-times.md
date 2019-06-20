@@ -2,7 +2,7 @@
 date: 2008-04-02T16:28:09+09:00
 slug: change-blindness-natalie-angier-new-york-times
 title: Change Blindness - Natalie Angier - New York Times
-tags: news
+tags: [ "news" ]
 ---
 
 ##16:28 Wednesday 02 April 2008

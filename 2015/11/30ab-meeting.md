@@ -1,6 +1,6 @@
 ---
 title: AB meeting
-tags: ab
+tags: [ "ab" ]
 author: Rob Nugen
 date: 2015-11-30T14:15:17+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: zzz talked to dad
-tags: sleepy
+tags: [ "sleepy" ]
 author: Rob Nugen
 date: 2001-09-21
 ---

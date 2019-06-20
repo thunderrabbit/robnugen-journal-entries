@@ -1,6 +1,6 @@
 ---
 title: optimal environment
-tags: plans
+tags: [ "plans" ]
 author: Rob Nugen
 date: 2002-03-27
 ---

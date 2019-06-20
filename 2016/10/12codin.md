@@ -1,6 +1,6 @@
 ---
 title: codin
-tags: days
+tags: [ "days" ]
 categories:
   - "programming"
 author: Rob Nugen

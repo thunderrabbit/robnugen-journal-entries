@@ -1,6 +1,6 @@
 ---
 title: bit tips for live md5 count
-tags: haha
+tags: [ "haha" ]
 author: Rob Nugen
 date: 2015-03-10T18:36:00+09:00
 ---

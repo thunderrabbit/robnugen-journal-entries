@@ -1,6 +1,6 @@
 ---
 title: watched Kung Fu Panda
-tags: movie
+tags: [ "movie" ]
 author: Rob Nugen
 date: 2016-12-03T23:26:20+09:00
 ---

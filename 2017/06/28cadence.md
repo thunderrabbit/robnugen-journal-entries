@@ -1,6 +1,6 @@
 ---
 title: cadence
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-06-28T18:49:44+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dream6.18
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2000-07-26
 ---

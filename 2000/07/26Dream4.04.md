@@ -1,6 +1,6 @@
 ---
 title: Dream4.04
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2000-07-26
 ---

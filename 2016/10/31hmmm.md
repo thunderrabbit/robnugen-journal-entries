@@ -1,6 +1,6 @@
 ---
 title: scp
-tags: hi
+tags: [ "hi" ]
 author: Rob Nugen
 date: 2016-10-31T07:35:58+09:00
 ---

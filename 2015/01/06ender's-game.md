@@ -1,6 +1,6 @@
 ---
 title: Ender's Game
-tags: spoilers
+tags: [ "spoilers" ]
 author: Rob Nugen
 date: 2015-01-06
 ---

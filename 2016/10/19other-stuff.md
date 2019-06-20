@@ -1,6 +1,6 @@
 ---
 title: other stuff
-tags: stuff
+tags: [ "stuff" ]
 author: Rob Nugen
 date: 2016-10-19T22:48:13+09:00
 ---

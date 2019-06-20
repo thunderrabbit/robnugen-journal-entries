@@ -1,6 +1,6 @@
 ---
 title: Been playing minecraft a bit
-tags: minecraft
+tags: [ "minecraft" ]
 author: Rob Nugen
 date: 2015-11-09T21:46:21+09:00
 ---

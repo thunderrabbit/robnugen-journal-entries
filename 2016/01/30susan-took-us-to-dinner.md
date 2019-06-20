@@ -1,6 +1,6 @@
 ---
 title: susan took us to dinner
-tags: susan
+tags: [ "susan" ]
 author: Rob Nugen
 date: 2016-01-30T21:17:10+09:00
 ---

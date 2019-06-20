@@ -1,6 +1,6 @@
 ---
 title: Headed to look at a house or two near 鶴川駅
-tags: house
+tags: [ "house" ]
 author: Rob Nugen
 date: 2015-12-27T13:01:25+09:00
 ---

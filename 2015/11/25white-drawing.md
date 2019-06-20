@@ -1,6 +1,6 @@
 ---
 title: White drawing
-tags: white
+tags: [ "white" ]
 author: Rob Nugen
 date: 2015-11-25T15:25:43+09:00
 ---

@@ -2,7 +2,7 @@
 date: 2006-06-30T13:45:30+09:00
 slug: 88slide
 title: 88Slide
-tags: internet
+tags: [ "internet" ]
 ---
 
 ##13:45 Friday 30 June 2006

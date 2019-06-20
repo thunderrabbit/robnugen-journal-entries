@@ -1,6 +1,6 @@
 ---
 title: thanks Dr Fred!
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-03-26T22:23:16+09:00
 ---

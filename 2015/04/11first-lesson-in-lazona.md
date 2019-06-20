@@ -1,6 +1,6 @@
 ---
 title: first lesson in Lazona
-tags: lesson
+tags: [ "lesson" ]
 author: Rob Nugen
 date: 2015-04-11T08:14:03+09:00
 ---

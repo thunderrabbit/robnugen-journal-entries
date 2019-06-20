@@ -2,7 +2,7 @@
 date: 2012-11-18T08:07:07+09:00
 slug: started-genealogy-again
 title: started genealogy again
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##08:07 Sunday 18 November 2012

@@ -1,6 +1,6 @@
 ---
 title: still learning trains in Fujisawa
-tags: trains
+tags: [ "trains" ]
 author: Rob Nugen
 date: 2016-06-22T19:19:54+09:00
 ---

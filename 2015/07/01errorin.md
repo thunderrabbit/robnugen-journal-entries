@@ -1,6 +1,6 @@
 ---
 title: Errorin
-tags: oops
+tags: [ "oops" ]
 author: Rob Nugen
 date: 2015-07-01T15:42:56+09:00
 ---

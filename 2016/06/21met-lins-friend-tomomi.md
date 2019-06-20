@@ -1,6 +1,6 @@
 ---
 title: met Lin's friend Tomomi
-tags: tomomi
+tags: [ "tomomi" ]
 author: Rob Nugen
 date: 2016-06-21T16:55:42+09:00
 ---

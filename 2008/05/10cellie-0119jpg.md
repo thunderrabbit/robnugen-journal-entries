@@ -2,7 +2,7 @@
 date: 2008-05-10T10:36:14+09:00
 slug: cellie-0119jpg
 title: cellie-0119.jpg
-tags: news
+tags: [ "news" ]
 ---
 
 ##10:36 Saturday 10 May 2008

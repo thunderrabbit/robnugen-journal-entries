@@ -1,6 +1,6 @@
 ---
 title: Valentine's Day
-tags: lin
+tags: [ "lin" ]
 author: Rob Nugen
 date: 2016-02-15T15:39:34+09:00
 ---

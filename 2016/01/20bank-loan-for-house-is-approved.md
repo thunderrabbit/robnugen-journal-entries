@@ -1,6 +1,6 @@
 ---
 title: bank loan for house is approved!
-tags: new house in da house
+tags: [ "new house in da house" ]
 author: Rob Nugen
 date: 2016-01-20T13:10:03+09:00
 ---

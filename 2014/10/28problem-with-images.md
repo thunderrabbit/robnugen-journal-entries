@@ -1,6 +1,6 @@
 ---
 title: A funny thing happened during my lesson
-tags: funny
+tags: [ "funny" ]
 author: Rob Nugen
 date: 2014-10-28
 ---

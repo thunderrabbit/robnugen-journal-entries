@@ -1,6 +1,6 @@
 ---
 title: Thunder Rabbit
-tags: name
+tags: [ "name" ]
 author: Rob Nugen
 date: 2016-10-15T23:06:50+09:00
 ---

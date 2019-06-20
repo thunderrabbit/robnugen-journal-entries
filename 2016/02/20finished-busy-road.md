@@ -1,6 +1,6 @@
 ---
 title: Finished Busy Road
-tags: art
+tags: [ "art" ]
 author: Rob Nugen
 date: 2016-02-20T15:04:07+09:00
 ---

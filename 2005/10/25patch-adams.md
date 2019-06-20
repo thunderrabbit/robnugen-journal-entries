@@ -2,7 +2,7 @@
 date: 2005-10-25T02:43:02+09:00
 slug: patch-adams
 title: Patch Adams
-tags: movies
+tags: [ "movies" ]
 ---
 
 ##02:43 Tuesday 25 October 2005

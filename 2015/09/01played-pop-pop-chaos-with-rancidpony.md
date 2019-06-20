@@ -1,6 +1,6 @@
 ---
 title: Played Pop Pop Chaos with rancidpony
-tags: bug
+tags: [ "bug" ]
 author: Rob Nugen
 date: 2015-09-01T18:29:52+09:00
 ---

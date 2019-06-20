@@ -1,6 +1,6 @@
 ---
 title: Cool toy store near Lotus dealer
-tags: toys
+tags: [ "toys" ]
 author: Rob Nugen
 date: 2014-10-28
 ---

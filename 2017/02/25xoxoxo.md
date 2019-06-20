@@ -1,6 +1,6 @@
 ---
 title: xoxoxo
-tags: mkp
+tags: [ "mkp" ]
 author: Rob Nugen
 date: 2017-02-25T09:04:29+09:00
 ---

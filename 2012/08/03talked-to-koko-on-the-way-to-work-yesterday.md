@@ -2,7 +2,7 @@
 date: 2012-08-03T11:40:47+09:00
 slug: talked-to-koko-on-the-way-to-work-yesterday
 title: Talked to Koko on the way to work yesterday
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##11:40 Friday 03 August 2012

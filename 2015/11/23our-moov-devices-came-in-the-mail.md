@@ -1,6 +1,6 @@
 ---
 title: our MOOV devices came in the mail!
-tags: moov
+tags: [ "moov" ]
 author: Rob Nugen
 date: 2015-11-23T23:59:41+09:00
 ---

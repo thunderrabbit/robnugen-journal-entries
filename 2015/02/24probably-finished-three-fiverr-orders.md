@@ -1,6 +1,6 @@
 ---
 title: (probably) finished three fiverr orders
-tags: fiverr
+tags: [ "fiverr" ]
 author: Rob Nugen
 date: 2015-02-24T21:54:00+09:00
 ---

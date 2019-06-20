@@ -1,6 +1,6 @@
 ---
 title: new cb site
-tags: cb
+tags: [ "cb" ]
 author: Rob Nugen
 date: 2015-11-16T15:04:26+09:00
 ---

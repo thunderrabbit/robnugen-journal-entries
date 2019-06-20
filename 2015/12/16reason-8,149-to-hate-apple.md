@@ -1,6 +1,6 @@
 ---
 title: Reason 8,149 to hate apple
-tags: xcode
+tags: [ "xcode" ]
 author: Rob Nugen
 date: 2015-12-16T16:23:44+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dream Godfather
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2002-12-25
 ---

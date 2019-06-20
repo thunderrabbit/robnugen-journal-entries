@@ -2,7 +2,7 @@
 date: 2013-05-13T21:38:26+09:00
 slug: finished-56-seconds-of-marble-track-3
 title: finished 56 seconds of Marble Track 3
-tags: mt3
+tags: [ "mt3" ]
 ---
 
 ##21:38 Monday 13 May 2013

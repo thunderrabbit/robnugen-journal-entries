@@ -2,7 +2,7 @@
 date: 2007-10-23T12:52:29+09:00
 slug: is-it-all-over-for-nova-the-japan-times-online
 title: Is it all over for Nova? | The Japan Times Online
-tags: news
+tags: [ "news" ]
 ---
 
 ##12:52 Tuesday 23 October 2007

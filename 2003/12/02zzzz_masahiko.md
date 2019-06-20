@@ -1,6 +1,6 @@
 ---
 title: zzzz masahiko
-tags: sleepy
+tags: [ "sleepy" ]
 author: Rob Nugen
 date: 2003-12-02
 ---

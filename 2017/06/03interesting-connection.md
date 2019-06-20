@@ -1,6 +1,6 @@
 ---
 title: interesting connection
-tags: lives
+tags: [ "lives" ]
 author: Rob Nugen
 date: 2017-06-03T23:56:37+09:00
 ---

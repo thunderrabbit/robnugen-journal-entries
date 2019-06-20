@@ -1,6 +1,6 @@
 ---
 title: Maki, Kaori, Yohan, Yukari, Yumi, Lin, and I
-tags: travis
+tags: [ "travis" ]
 author: Rob Nugen
 date: 2016-10-18T13:56:06+09:00
 ---

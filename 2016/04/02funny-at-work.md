@@ -1,6 +1,6 @@
 ---
 title: funny at work
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2016-04-02T11:32:27+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: met Kai and Mika for St Patrick's Day
-tags: yay
+tags: [ "yay" ]
 author: Rob Nugen
 date: 2017-03-17T23:37:00+09:00
 ---

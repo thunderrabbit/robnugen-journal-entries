@@ -1,6 +1,6 @@
 ---
 title: prepping for Head Heart and Soul workshop
-tags: hhs
+tags: [ "hhs" ]
 author: Rob Nugen
 date: 2017-01-02T12:00:44+09:00
 ---

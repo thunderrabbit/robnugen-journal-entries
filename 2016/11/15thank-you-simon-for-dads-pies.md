@@ -1,6 +1,6 @@
 ---
 title: thank you, Simon, for Dad's Pies!
-tags: simon
+tags: [ "simon" ]
 author: Rob Nugen
 date: 2016-11-15T09:14:24+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Headed to lesson for JB
-tags: lesson
+tags: [ "lesson" ]
 author: Rob Nugen
 date: 2015-12-02T15:54:15+09:00
 ---

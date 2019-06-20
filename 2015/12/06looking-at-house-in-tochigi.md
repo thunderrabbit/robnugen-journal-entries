@@ -1,6 +1,6 @@
 ---
 title: Looking at house in Tochigi
-tags: house hunting
+tags: [ "house hunting" ]
 author: Rob Nugen
 date: 2015-12-06T12:23:23+09:00
 ---

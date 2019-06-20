@@ -2,7 +2,7 @@
 date: 2012-02-05T04:00:25+09:00
 slug: watched-con-air
 title: Watched Con Air
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##04:00 Sunday 05 February 2012

@@ -1,6 +1,6 @@
 ---
 title: before lesson
-tags: am
+tags: [ "am" ]
 author: Rob Nugen
 date: 2017-06-05T07:38:08+09:00
 ---

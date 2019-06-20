@@ -2,7 +2,7 @@
 date: 2005-11-13T01:36:30+09:00
 slug: geotagged-post
 title: geotagged post?
-tags: internet
+tags: [ "internet" ]
 ---
 
 ##01:36 Sunday 13 November 2005

@@ -1,6 +1,6 @@
 ---
 title: late and early
-tags: lesson
+tags: [ "lesson" ]
 author: Rob Nugen
 date: 2016-12-19T19:40:28+09:00
 ---

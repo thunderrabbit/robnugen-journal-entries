@@ -1,6 +1,6 @@
 ---
 title: today
-tags: sleepy
+tags: [ "sleepy" ]
 author: Rob Nugen
 date: 2016-11-01T00:46:49+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Narita Express
-tags: nex
+tags: [ "nex" ]
 author: Rob Nugen
 date: 2016-02-03T16:26:15+09:00
 ---

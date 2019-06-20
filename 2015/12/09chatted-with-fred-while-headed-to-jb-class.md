@@ -1,6 +1,6 @@
 ---
 title: chatted with Fred while headed to JB class
-tags: fred
+tags: [ "fred" ]
 author: Rob Nugen
 date: 2015-12-09T16:46:06+09:00
 ---

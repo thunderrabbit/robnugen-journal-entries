@@ -1,6 +1,6 @@
 ---
 title: Valer spam
-tags: spam
+tags: [ "spam" ]
 author: Rob Nugen
 date: 2015-01-17
 ---

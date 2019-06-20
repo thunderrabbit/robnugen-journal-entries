@@ -1,6 +1,6 @@
 ---
 title: stateOfMyLife
-tags: soml
+tags: [ "soml" ]
 author: Rob Nugen
 date: 2001-02-11
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dream.505
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2000-08-30
 ---

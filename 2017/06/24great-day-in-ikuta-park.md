@@ -1,6 +1,6 @@
 ---
 title: Great day in Ikuta park
-tags: park
+tags: [ "park" ]
 author: Rob Nugen
 date: 2017-06-24T21:36:05+09:00
 ---

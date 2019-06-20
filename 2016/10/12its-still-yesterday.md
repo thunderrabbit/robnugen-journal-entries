@@ -1,6 +1,6 @@
 ---
 title: It's still yesterday
-tags: perth
+tags: [ "perth" ]
 author: Rob Nugen
 date: 2016-10-12T23:59:32+08:00
 ---

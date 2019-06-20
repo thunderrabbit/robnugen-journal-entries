@@ -1,6 +1,6 @@
 ---
 title: one to one lesson before holiday
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2016-11-02T21:05:11+09:00
 ---

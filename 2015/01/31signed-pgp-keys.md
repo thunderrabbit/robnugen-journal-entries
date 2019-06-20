@@ -1,6 +1,6 @@
 ---
 title: Signed PGP keys
-tags: pgp
+tags: [ "pgp" ]
 author: Rob Nugen
 date: 2015-01-31
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hop to it
-tags: portal 2
+tags: [ "portal 2" ]
 author: Rob Nugen
 date: 2015-06-24T16:10:12+09:00
 ---

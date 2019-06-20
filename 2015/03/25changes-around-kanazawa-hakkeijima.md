@@ -1,6 +1,6 @@
 ---
 title: changes around 金沢八景
-tags: construction
+tags: [ "construction" ]
 author: Rob Nugen
 date: 2015-03-25T16:14:00+09:00
 ---

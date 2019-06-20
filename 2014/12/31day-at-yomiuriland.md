@@ -1,6 +1,6 @@
 ---
 title: Yomiuriland with Lin
-tags: yomiuriland
+tags: [ "yomiuriland" ]
 author: Rob Nugen
 date: 2015-01-02
 ---

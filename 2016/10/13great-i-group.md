@@ -1,6 +1,6 @@
 ---
 title: great i-group
-tags: yay
+tags: [ "yay" ]
 author: Rob Nugen
 date: 2016-10-13T11:02:48+09:00
 ---

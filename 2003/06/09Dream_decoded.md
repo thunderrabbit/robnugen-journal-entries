@@ -1,6 +1,6 @@
 ---
 title: Dream decoded
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2003-06-09
 ---

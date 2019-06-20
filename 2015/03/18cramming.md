@@ -1,6 +1,6 @@
 ---
 title: cramming
-tags: study
+tags: [ "study" ]
 author: Rob Nugen
 date: 2015-03-18T16:54:00+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Saw Interstellar
-tags: movie
+tags: [ "movie" ]
 author: Rob Nugen
 date: 2014-11-29
 ---

@@ -1,6 +1,6 @@
 ---
 title: oh dammmmmmmmmmmmmnnnn
-tags: got
+tags: [ "got" ]
 author: Rob Nugen
 date: 2015-01-15
 ---

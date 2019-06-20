@@ -1,6 +1,6 @@
 ---
 title: maze for Darcey
-tags: maze
+tags: [ "maze" ]
 author: Rob Nugen
 date: 2015-05-11T22:48:05+09:00
 ---

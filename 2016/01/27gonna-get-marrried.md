@@ -1,6 +1,6 @@
 ---
 title: gonna get marrried
-tags: texas
+tags: [ "texas" ]
 author: Rob Nugen
 date: 2016-01-27T10:35:41+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Drew a maze today
-tags: maze
+tags: [ "maze" ]
 author: Rob Nugen
 date: 2015-01-20
 ---

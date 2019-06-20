@@ -1,6 +1,6 @@
 ---
 title: bitching
-tags: sad
+tags: [ "sad" ]
 author: Rob Nugen
 date: 2017-04-23T22:01:20+09:00
 ---

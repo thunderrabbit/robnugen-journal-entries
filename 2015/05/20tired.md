@@ -1,6 +1,6 @@
 ---
 title: tired
-tags: tired
+tags: [ "tired" ]
 author: Rob Nugen
 date: 2015-05-20T19:38:33+09:00
 ---

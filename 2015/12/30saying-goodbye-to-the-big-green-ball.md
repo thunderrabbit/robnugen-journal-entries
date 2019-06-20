@@ -1,6 +1,6 @@
 ---
 title: saying goodbye to the big green ball
-tags: ballin
+tags: [ "ballin" ]
 author: Rob Nugen
 date: 2015-12-30T15:08:04+09:00
 ---

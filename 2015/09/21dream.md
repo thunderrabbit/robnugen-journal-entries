@@ -1,6 +1,6 @@
 ---
 title: Dream in vampire bat movie
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2015-09-21T07:01:12+09:00
 ---

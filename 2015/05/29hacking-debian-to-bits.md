@@ -1,6 +1,6 @@
 ---
 title: hacking Debian to bits
-tags: debian
+tags: [ "debian" ]
 author: Rob Nugen
 date: 2015-05-29T11:24:38+09:00
 ---

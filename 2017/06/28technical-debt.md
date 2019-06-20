@@ -1,6 +1,6 @@
 ---
 title: technical debt
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-06-28T10:40:52+09:00
 ---

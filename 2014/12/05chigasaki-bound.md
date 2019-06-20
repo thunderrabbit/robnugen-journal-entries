@@ -1,6 +1,6 @@
 ---
 title: Chigasaki bound
-tags: plans
+tags: [ "plans" ]
 author: Rob Nugen
 date: 2014-12-05
 ---

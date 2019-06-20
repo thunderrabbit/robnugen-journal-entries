@@ -1,6 +1,6 @@
 ---
 title: Added genres to CB DB
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2015-02-21T14:30:00+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sooper MOOV customer service!!
-tags: moov
+tags: [ "moov" ]
 author: Rob Nugen
 date: 2015-12-10T22:11:12+09:00
 ---

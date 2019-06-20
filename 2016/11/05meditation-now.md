@@ -1,6 +1,6 @@
 ---
 title: meditation now
-tags: meditation
+tags: [ "meditation" ]
 author: Rob Nugen
 date: 2016-11-05T09:59:08+09:00
 ---

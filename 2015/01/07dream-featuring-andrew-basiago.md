@@ -1,6 +1,6 @@
 ---
 title: Dream featuring Andrew Basiago
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2015-01-07
 ---

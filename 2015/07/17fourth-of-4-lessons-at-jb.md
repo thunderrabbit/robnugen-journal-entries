@@ -1,6 +1,6 @@
 ---
 title: fourth of 4 lessons at JB
-tags: lesson
+tags: [ "lesson" ]
 author: Rob Nugen
 date: 2015-07-17T12:21:48+09:00
 ---

@@ -2,7 +2,7 @@
 date: 2012-05-03T13:23:31+09:00
 slug: deeper-river
 title: Deeper river
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##13:23 Thursday 03 May 2012

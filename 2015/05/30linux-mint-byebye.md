@@ -1,6 +1,6 @@
 ---
 title: Linux Mint byebye
-tags: mint
+tags: [ "mint" ]
 author: Rob Nugen
 date: 2015-05-30T08:30:36+09:00
 ---

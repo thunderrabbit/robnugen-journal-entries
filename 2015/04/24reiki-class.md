@@ -1,6 +1,6 @@
 ---
 title: reiki class
-tags: reiki
+tags: [ "reiki" ]
 author: Rob Nugen
 date: 2015-04-24T16:23:28+09:00
 ---

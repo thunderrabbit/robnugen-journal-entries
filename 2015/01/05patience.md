@@ -1,6 +1,6 @@
 ---
 title: patience
-tags: none
+tags: [ "none" ]
 author: Rob Nugen
 date: 2015-01-05
 ---

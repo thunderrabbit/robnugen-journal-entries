@@ -1,6 +1,6 @@
 ---
 title: favorite ice cream that's not just vanilla
-tags: sweet
+tags: [ "sweet" ]
 author: Rob Nugen
 date: 2014-12-09
 ---

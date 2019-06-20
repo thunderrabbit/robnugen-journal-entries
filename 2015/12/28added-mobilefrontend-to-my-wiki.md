@@ -1,6 +1,6 @@
 ---
 title: Added MobileFrontend to my wiki
-tags: wiki
+tags: [ "wiki" ]
 author: Rob Nugen
 date: 2015-12-28T09:37:52+09:00
 ---

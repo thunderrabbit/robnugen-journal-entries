@@ -1,6 +1,6 @@
 ---
 title: Party at JB School
-tags: party
+tags: [ "party" ]
 author: Rob Nugen
 date: 2014-12-14
 ---

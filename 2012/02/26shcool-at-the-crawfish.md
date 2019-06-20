@@ -2,7 +2,7 @@
 date: 2012-02-26T23:25:20+09:00
 slug: shcool-at-the-crawfish
 title: Shcool at The Crawfish
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##23:25 Sunday 26 February 2012

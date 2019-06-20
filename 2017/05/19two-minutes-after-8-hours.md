@@ -1,6 +1,6 @@
 ---
 title: two minutes after 8 hours
-tags: joke
+tags: [ "joke" ]
 author: Rob Nugen
 date: 2017-05-19T11:32:12+09:00
 ---

@@ -2,7 +2,7 @@
 date: 2012-08-15T17:03:59+09:00
 slug: to-name-not-available-3
 title: 'To: name not available'
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##17:03 Wednesday 15 August 2012

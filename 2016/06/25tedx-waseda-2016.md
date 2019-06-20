@@ -1,6 +1,6 @@
 ---
 title: TEDx Waseda 2016
-tags: tedx
+tags: [ "tedx" ]
 author: Rob Nugen
 date: 2016-06-25T21:12:09+09:00
 ---

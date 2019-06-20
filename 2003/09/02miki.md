@@ -1,6 +1,6 @@
 ---
 title: MIKI
-tags: miki
+tags: [ "miki" ]
 author: Rob Nugen
 date: 2003-09-27
 ---

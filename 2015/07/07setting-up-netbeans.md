@@ -1,6 +1,6 @@
 ---
 title: setting up Netbeans
-tags: hmm
+tags: [ "hmm" ]
 author: Rob Nugen
 date: 2015-07-07T17:16:20+09:00
 ---

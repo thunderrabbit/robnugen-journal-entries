@@ -1,6 +1,6 @@
 ---
 title: Christmas buffet with JB
-tags: party
+tags: [ "party" ]
 author: Rob Nugen
 date: 2015-12-20T13:19:32+09:00
 ---

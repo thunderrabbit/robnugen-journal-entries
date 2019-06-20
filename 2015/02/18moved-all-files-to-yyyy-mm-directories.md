@@ -1,6 +1,6 @@
 ---
 title: moved all files to YYYY/MM directories
-tags: journal
+tags: [ "journal" ]
 author: Rob Nugen
 date: 2015-02-18T16:52:00+09:00
 ---

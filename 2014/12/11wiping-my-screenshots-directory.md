@@ -1,6 +1,6 @@
 ---
 title: wiping my screenshots directory
-tags: clean
+tags: [ "clean" ]
 author: Rob Nugen
 date: 2014-12-11
 ---

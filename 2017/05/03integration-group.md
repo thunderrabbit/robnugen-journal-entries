@@ -1,6 +1,6 @@
 ---
 title: Integration group
-tags: mkp
+tags: [ "mkp" ]
 author: Rob Nugen
 date: 2017-05-03T01:13:58+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Fun New Year's party at aunts house
-tags: party
+tags: [ "party" ]
 author: Rob Nugen
 date: 2015-01-02
 ---

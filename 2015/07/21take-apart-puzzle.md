@@ -1,6 +1,6 @@
 ---
 title: take-apart puzzle
-tags: hmm
+tags: [ "hmm" ]
 author: Rob Nugen
 date: 2015-07-21T18:50:10+09:00
 ---

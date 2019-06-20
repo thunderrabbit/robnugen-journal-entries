@@ -2,7 +2,7 @@
 date: 2012-04-25T00:47:54+09:00
 slug: finished-the-map-for-my-route-to-work
 title: finished the map for my route to work
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##00:47 Wednesday 25 April 2012

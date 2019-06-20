@@ -1,6 +1,6 @@
 ---
 title: Nice things about Japan
-tags: good
+tags: [ "good" ]
 author: Rob Nugen
 date: 2015-04-06T18:23:28+09:00
 ---

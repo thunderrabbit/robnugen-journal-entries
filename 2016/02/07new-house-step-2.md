@@ -1,6 +1,6 @@
 ---
 title: new house step 2
-tags: house
+tags: [ "house" ]
 author: Rob Nugen
 date: 2016-02-07T21:10:08+09:00
 ---

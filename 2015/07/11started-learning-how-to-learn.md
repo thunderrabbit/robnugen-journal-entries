@@ -1,6 +1,6 @@
 ---
 title: started learning how to learn
-tags: coursera
+tags: [ "coursera" ]
 author: Rob Nugen
 date: 2015-07-11T07:37:42+09:00
 ---

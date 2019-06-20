@@ -1,6 +1,6 @@
 ---
 title: entrance for Jennie
-tags: cat
+tags: [ "cat" ]
 author: Rob Nugen
 date: 2017-03-29T20:05:30+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: "1 wildly important goal"
-tags: productivity
+tags: [ "productivity" ]
 author: Rob Nugen
 date: 2016-07-27T11:01:41+09:00
 ---

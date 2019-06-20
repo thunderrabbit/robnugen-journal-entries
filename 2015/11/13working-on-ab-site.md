@@ -1,6 +1,6 @@
 ---
 title: Working on AB site
-tags: ab
+tags: [ "ab" ]
 author: Rob Nugen
 date: 2015-11-13T11:23:06+09:00
 ---

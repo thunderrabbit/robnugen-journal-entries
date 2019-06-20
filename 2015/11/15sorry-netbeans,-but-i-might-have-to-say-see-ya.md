@@ -1,6 +1,6 @@
 ---
 title: Sorry Netbeans, but I might have to say see ya
-tags: sublimetext2
+tags: [ "sublimetext2" ]
 author: Rob Nugen
 date: 2015-11-15T19:27:58+09:00
 ---

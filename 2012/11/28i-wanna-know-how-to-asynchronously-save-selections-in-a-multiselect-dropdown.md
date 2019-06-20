@@ -2,7 +2,7 @@
 date: 2012-11-28T15:12:40+09:00
 slug: i-wanna-know-how-to-asynchronously-save-selections-in-a-multiselect-dropdown
 title: I wanna know how to asynchronously save selections in a multiselect dropdown
-tags: work
+tags: [ "work" ]
 ---
 
 ##15:12 Wednesday 28 November 2012

@@ -1,6 +1,6 @@
 ---
 title: Dream dolly
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2002-11-04
 ---

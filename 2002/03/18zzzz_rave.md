@@ -1,6 +1,6 @@
 ---
 title: zzzz rave
-tags: sleepy
+tags: [ "sleepy" ]
 author: Rob Nugen
 date: 2002-03-18
 ---

@@ -1,6 +1,6 @@
 ---
 title: early lessons
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2016-12-21T11:45:51+09:00
 ---

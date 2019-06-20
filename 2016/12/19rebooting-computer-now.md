@@ -1,6 +1,6 @@
 ---
 title: Rebooting computer now
-tags: laptop
+tags: [ "laptop" ]
 author: Rob Nugen
 date: 2016-12-19T10:07:58+09:00
 ---

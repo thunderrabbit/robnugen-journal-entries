@@ -1,6 +1,6 @@
 ---
 title: Lin almost gets a third cat
-tags: cats
+tags: [ "cats" ]
 author: Rob Nugen
 date: 2014-11-06
 ---

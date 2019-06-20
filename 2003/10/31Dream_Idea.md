@@ -1,6 +1,6 @@
 ---
 title: Dream Idea
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2003-10-31
 ---

@@ -1,6 +1,6 @@
 ---
 title: T lessons near Lazona
-tags: lessons
+tags: [ "lessons" ]
 author: Rob Nugen
 date: 2016-09-29T17:29:45+09:00
 ---

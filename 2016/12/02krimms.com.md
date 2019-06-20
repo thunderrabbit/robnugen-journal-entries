@@ -1,6 +1,6 @@
 ---
 title: krimms.com
-tags: sk
+tags: [ "sk" ]
 author: Rob Nugen
 date: 2016-12-02T01:37:31+09:00
 ---

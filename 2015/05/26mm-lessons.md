@@ -1,6 +1,6 @@
 ---
 title: MM lessons
-tags: lessons
+tags: [ "lessons" ]
 author: Rob Nugen
 date: 2015-05-26T21:33:52+09:00
 ---

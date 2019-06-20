@@ -1,6 +1,6 @@
 ---
 title: Dev environment
-tags: local
+tags: [ "local" ]
 author: Rob Nugen
 date: 2014-12-17
 ---

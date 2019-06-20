@@ -1,6 +1,6 @@
 ---
 title: Pretty fun party
-tags: party
+tags: [ "party" ]
 author: Rob Nugen
 date: 2014-12-10
 ---

@@ -1,6 +1,6 @@
 ---
 title: fixed RSS
-tags: journal
+tags: [ "journal" ]
 author: Rob Nugen
 date: 2017-05-01T23:29:48+09:00
 ---

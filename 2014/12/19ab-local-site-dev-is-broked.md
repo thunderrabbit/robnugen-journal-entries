@@ -1,6 +1,6 @@
 ---
 title: AB local site dev is broked
-tags: dang
+tags: [ "dang" ]
 author: Rob Nugen
 date: 2014-12-20
 ---

@@ -1,6 +1,6 @@
 ---
 title: surprise lessons!
-tags: lessons
+tags: [ "lessons" ]
 author: Rob Nugen
 date: 2015-02-11
 ---

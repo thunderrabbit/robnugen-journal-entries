@@ -1,6 +1,6 @@
 ---
 title: First chillin time with Mike R
-tags: chillin
+tags: [ "chillin" ]
 author: Rob Nugen
 date: 2017-05-22T20:49:51+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: President Trump
-tags: wow
+tags: [ "wow" ]
 author: Rob Nugen
 date: 2016-11-09T22:58:17+09:00
 ---

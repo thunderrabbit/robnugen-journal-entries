@@ -1,6 +1,6 @@
 ---
 title: Hmm.. how can I insert images easily?
-tags: emacs
+tags: [ "emacs" ]
 author: Rob Nugen
 date: 2014-11-01
 ---

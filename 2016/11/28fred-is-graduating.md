@@ -1,6 +1,6 @@
 ---
 title: Fred is graduating!
-tags: bro
+tags: [ "bro" ]
 author: Rob Nugen
 date: 2016-11-28T20:52:23+09:00
 ---

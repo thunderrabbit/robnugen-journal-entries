@@ -1,6 +1,6 @@
 ---
 title: Dream
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2015-04-19T03:20:32+09:00
 ---

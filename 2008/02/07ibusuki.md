@@ -2,7 +2,7 @@
 date: 2008-02-07T16:15:43+09:00
 slug: ibusuki
 title: Ibusuki
-tags: news
+tags: [ "news" ]
 ---
 
 ##16:15 Thursday 07 February 2008

@@ -1,6 +1,6 @@
 ---
 title: Good times with Lin and Mikako
-tags: bday
+tags: [ "bday" ]
 author: Rob Nugen
 date: 2017-03-25T22:36:19+09:00
 ---

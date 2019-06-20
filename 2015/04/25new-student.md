@@ -1,6 +1,6 @@
 ---
 title: new student
-tags: yay
+tags: [ "yay" ]
 author: Rob Nugen
 date: 2015-04-25T21:46:41+09:00
 ---

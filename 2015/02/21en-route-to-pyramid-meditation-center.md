@@ -1,6 +1,6 @@
 ---
 title: en route to Pyramid meditation center
-tags: cseti
+tags: [ "cseti" ]
 author: Rob Nugen
 date: 2015-02-21T16:33:00+09:00
 ---

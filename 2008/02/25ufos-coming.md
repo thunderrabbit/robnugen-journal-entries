@@ -2,7 +2,7 @@
 date: 2008-02-25T10:14:30+09:00
 slug: ufos-coming
 title: UFOs coming
-tags: news
+tags: [ "news" ]
 ---
 
 ##10:14 Monday 25 February 2008

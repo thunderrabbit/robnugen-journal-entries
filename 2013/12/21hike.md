@@ -1,6 +1,6 @@
 ---
 title: cold hike
-tags: hike
+tags: [ "hike" ]
 author: Rob Nugen
 date: 2013-12-21T11:42:48+09:00
 ---

@@ -2,7 +2,7 @@
 date: 2012-03-01T20:25:35+09:00
 slug: why-i-love-lin-reason-48571
 title: Why I love Lin, reason 48,571
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##20:25 Thursday 01 March 2012

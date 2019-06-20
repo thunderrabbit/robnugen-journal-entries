@@ -1,6 +1,6 @@
 ---
 title: Got AB their own FS
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-05-05T14:32:51+09:00
 ---

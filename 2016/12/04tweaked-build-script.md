@@ -1,6 +1,6 @@
 ---
 title: tweaked build script
-tags: deploy
+tags: [ "deploy" ]
 author: Rob Nugen
 date: 2016-12-04T09:38:57+09:00
 ---

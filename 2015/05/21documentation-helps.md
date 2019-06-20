@@ -1,6 +1,6 @@
 ---
 title: documentation helps
-tags: docs dne
+tags: [ "docs dne" ]
 author: Rob Nugen
 date: 2015-05-21T17:28:06+09:00
 ---

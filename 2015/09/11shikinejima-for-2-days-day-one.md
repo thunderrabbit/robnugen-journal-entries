@@ -1,6 +1,6 @@
 ---
 title: Shikinejima for two days, day one
-tags: eseti
+tags: [ "eseti" ]
 author: Rob Nugen
 date: 2015-09-11T17:36:20+09:00
 ---

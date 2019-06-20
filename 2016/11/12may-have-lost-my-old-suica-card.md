@@ -1,6 +1,6 @@
 ---
 title: may have lost my old suica card
-tags: moejoe
+tags: [ "moejoe" ]
 author: Rob Nugen
 date: 2016-11-12T00:55:33+09:00
 ---

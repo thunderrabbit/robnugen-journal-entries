@@ -1,6 +1,6 @@
 ---
 title: Wednesday late Thursday early
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2016-12-15T07:48:34+09:00
 ---

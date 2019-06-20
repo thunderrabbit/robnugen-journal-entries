@@ -2,7 +2,7 @@
 date: 2012-01-29T12:23:28+09:00
 slug: wind-whistling-2
 title: wind whistling
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##12:23 Sunday 29 January 2012

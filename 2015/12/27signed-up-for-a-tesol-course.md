@@ -1,6 +1,6 @@
 ---
 title: signed up for a TESOL course
-tags: tesol
+tags: [ "tesol" ]
 author: Rob Nugen
 date: 2015-12-27T12:08:16+09:00
 ---

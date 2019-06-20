@@ -1,6 +1,6 @@
 ---
 title: Coding like back in the day
-tags: web
+tags: [ "web" ]
 author: Rob Nugen
 date: 2015-12-02T11:41:15+09:00
 ---

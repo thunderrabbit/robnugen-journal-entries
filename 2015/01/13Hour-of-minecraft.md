@@ -1,6 +1,6 @@
 ---
 title: Hour of Minecraft
-tags: minecraft
+tags: [ "minecraft" ]
 author: Rob Nugen
 date: 2015-01-13
 ---

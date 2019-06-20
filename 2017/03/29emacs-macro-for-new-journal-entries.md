@@ -1,6 +1,6 @@
 ---
 title: Emacs macro for new journal entries
-tags: emacs
+tags: [ "emacs" ]
 author: Rob Nugen
 date: 2017-03-29T20:11:37+09:00
 ---
@@ -22,7 +22,7 @@ spend the time to figure it out.  How to let me type multiple tags.
 Right now, this entry has YAML like this:
 
     title: Emacs macro for new journal entries
-    tags: emacs
+tags: [ "emacs" ]
     author: Rob Nugen
     date: 2017-03-29T20:11:37+09:00
 

@@ -1,6 +1,6 @@
 ---
 title: Stencyl is pretty cool
-tags: game
+tags: [ "game" ]
 author: Rob Nugen
 date: 2014-12-28
 ---

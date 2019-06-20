@@ -2,7 +2,7 @@
 date: 2005-09-29T05:06:40+09:00
 slug: 000-to-999-in-emacs
 title: 000 to 999 in emacs
-tags: my code
+tags: [ "my code" ]
 ---
 
 ##05:06 Thursday 29 September 2005

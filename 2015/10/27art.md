@@ -1,6 +1,6 @@
 ---
 title: art
-tags: art
+tags: [ "art" ]
 author: Rob Nugen
 date: 2015-10-27T21:51:19+09:00
 ---

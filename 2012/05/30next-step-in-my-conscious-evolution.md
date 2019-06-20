@@ -2,7 +2,7 @@
 date: 2012-05-30T05:40:34+09:00
 slug: next-step-in-my-conscious-evolution
 title: next step in my conscious evolution
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##05:40 Wednesday 30 May 2012

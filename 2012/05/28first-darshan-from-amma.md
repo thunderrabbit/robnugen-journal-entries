@@ -2,7 +2,7 @@
 date: 2012-05-28T07:56:45+09:00
 slug: first-darshan-from-amma
 title: first darshan from AMMA
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##07:56 Monday 28 May 2012

@@ -1,6 +1,6 @@
 ---
 title: worked a bit
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2015-04-14T16:59:49+09:00
 ---

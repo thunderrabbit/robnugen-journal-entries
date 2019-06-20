@@ -2,7 +2,7 @@
 date: 2008-01-11T18:26:07+09:00
 slug: bombing-an-iraqi-green-zone
 title: bombing an Iraqi green zone
-tags: terror
+tags: [ "terror" ]
 ---
 
 ##18:26 Friday 11 January 2008

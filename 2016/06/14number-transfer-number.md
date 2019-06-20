@@ -1,6 +1,6 @@
 ---
 title: Number transfer number
-tags: softbank
+tags: [ "softbank" ]
 author: Rob Nugen
 date: 2016-06-14T23:00:50+09:00
 ---

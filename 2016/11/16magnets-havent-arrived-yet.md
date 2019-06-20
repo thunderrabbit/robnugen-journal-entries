@@ -1,6 +1,6 @@
 ---
 title: magnets haven't arrived yet
-tags: nope
+tags: [ "nope" ]
 author: Rob Nugen
 date: 2016-11-16T21:49:15+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dream Kevin's phone
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2016-01-04T07:29:35+09:00
 ---

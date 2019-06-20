@@ -1,6 +1,6 @@
 ---
 title: yummy salad
-tags: salad
+tags: [ "salad" ]
 author: Rob Nugen
 date: 2015-03-31T23:59:01+09:00
 ---

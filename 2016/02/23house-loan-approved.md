@@ -1,6 +1,6 @@
 ---
 title: House loan approved
-tags: house
+tags: [ "house" ]
 author: Rob Nugen
 date: 2016-02-23T18:27:01+09:00
 ---

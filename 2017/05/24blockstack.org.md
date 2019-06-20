@@ -1,6 +1,6 @@
 ---
 title: blockstack.org
-tags: new
+tags: [ "new" ]
 author: Rob Nugen
 date: 2017-05-24T10:52:00+09:00
 ---

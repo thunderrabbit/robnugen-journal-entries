@@ -1,6 +1,6 @@
 ---
 title: Good lesson in Fukuura
-tags: lesson
+tags: [ "lesson" ]
 author: Rob Nugen
 date: 2014-12-03
 ---

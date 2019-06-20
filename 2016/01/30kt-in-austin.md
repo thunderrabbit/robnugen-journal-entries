@@ -1,6 +1,6 @@
 ---
 title: kT in Austin!
-tags: kt
+tags: [ "kt" ]
 author: Rob Nugen
 date: 2016-01-30T16:32:10+09:00
 ---

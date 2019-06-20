@@ -1,6 +1,6 @@
 ---
 title: macrame for Alex yesterday
-tags: alex
+tags: [ "alex" ]
 author: Rob Nugen
 date: 2016-06-12T16:43:16+09:00
 ---

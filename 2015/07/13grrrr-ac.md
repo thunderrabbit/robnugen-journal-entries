@@ -1,6 +1,6 @@
 ---
 title: grrrr AC
-tags: grrrr
+tags: [ "grrrr" ]
 author: Rob Nugen
 date: 2015-07-13T23:10:23+09:00
 ---

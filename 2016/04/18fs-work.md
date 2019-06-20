@@ -1,6 +1,6 @@
 ---
 title: early fs work
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2016-04-18T05:22:01+09:00
 ---

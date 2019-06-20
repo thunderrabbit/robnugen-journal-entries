@@ -1,6 +1,6 @@
 ---
 title: 16942 days old today!
-tags: daysold
+tags: [ "daysold" ]
 author: Rob Nugen
 date: 2016-08-12T21:16:40+09:00
 ---

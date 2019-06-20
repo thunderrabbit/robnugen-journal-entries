@@ -1,6 +1,6 @@
 ---
 title: Meeting with Nate
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2014-11-04
 ---

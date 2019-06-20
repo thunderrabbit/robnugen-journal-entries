@@ -2,7 +2,7 @@
 date: 2005-10-22T00:58:32+09:00
 slug: from-within-flock
 title: from within flock
-tags: internet
+tags: [ "internet" ]
 ---
 
 ##00:58 Saturday 22 October 2005

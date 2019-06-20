@@ -2,7 +2,7 @@
 date: 2012-12-26T21:50:39+09:00
 slug: grumpy-grouchy-mood-tonight-dont-read
 title: grumpy grouchy mood tonight (don't read)
-tags: grumpy
+tags: [ "grumpy" ]
 ---
 
 ##21:50 Wednesday 26 December 2012

@@ -1,6 +1,6 @@
 ---
 title: plan
-tags: today
+tags: [ "today" ]
 author: Rob Nugen
 date: 2016-12-18T08:01:40+09:00
 ---

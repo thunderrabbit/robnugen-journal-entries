@@ -1,6 +1,6 @@
 ---
 title: Grrrr all the things
-tags: grrr
+tags: [ "grrr" ]
 author: Rob Nugen
 date: 2015-05-04T10:03:23+09:00
 ---

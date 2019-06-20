@@ -1,6 +1,6 @@
 ---
 title: Got keys to new house
-tags: house
+tags: [ "house" ]
 author: Rob Nugen
 date: 2016-05-28T20:12:47+09:00
 ---

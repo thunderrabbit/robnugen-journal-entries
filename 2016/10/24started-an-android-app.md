@@ -1,6 +1,6 @@
 ---
 title: started an Android app
-tags: android
+tags: [ "android" ]
 author: Rob Nugen
 date: 2016-10-24T12:28:18+09:00
 ---

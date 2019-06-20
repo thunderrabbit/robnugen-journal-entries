@@ -1,6 +1,6 @@
 ---
 title: Challenging cube puzzle
-tags: cube
+tags: [ "cube" ]
 author: Rob Nugen
 date: 2015-09-29T17:18:40+09:00
 ---

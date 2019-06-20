@@ -1,6 +1,6 @@
 ---
 title: Interesting presentation about secret government
-tags: cseti
+tags: [ "cseti" ]
 author: Rob Nugen
 date: 2016-10-31T16:40:40+09:00
 ---

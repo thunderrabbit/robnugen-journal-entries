@@ -1,6 +1,6 @@
 ---
 title: normal rain shower
-tags: rain
+tags: [ "rain" ]
 author: Rob Nugen
 date: 2015-05-12T21:56:33+09:00
 ---

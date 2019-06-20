@@ -1,6 +1,6 @@
 ---
 title: lunch
-tags: lunch
+tags: [ "lunch" ]
 author: Rob Nugen
 date: 2015-01-14
 ---

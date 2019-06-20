@@ -1,6 +1,6 @@
 ---
 title: Jogging with Tariq
-tags: barefoot
+tags: [ "barefoot" ]
 author: Rob Nugen
 date: 2014-11-04
 ---

@@ -1,6 +1,6 @@
 ---
 title: worked
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-01-08T09:32:24+09:00
 ---

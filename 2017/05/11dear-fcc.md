@@ -1,6 +1,6 @@
 ---
 title: Dear FCC
-tags: internet
+tags: [ "internet" ]
 author: Rob Nugen
 date: 2017-05-11T08:45:05+09:00
 ---

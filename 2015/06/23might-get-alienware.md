@@ -1,6 +1,6 @@
 ---
 title: Might get Alienware 13 or so
-tags: debian
+tags: [ "debian" ]
 author: Rob Nugen
 date: 2015-06-23T14:19:21+09:00
 ---

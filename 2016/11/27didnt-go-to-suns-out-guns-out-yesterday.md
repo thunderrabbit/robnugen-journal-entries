@@ -1,6 +1,6 @@
 ---
 title: didn't go to Suns Out Guns Out yesterday
-tags: sogo
+tags: [ "sogo" ]
 author: Rob Nugen
 date: 2016-11-27T17:31:01+09:00
 ---

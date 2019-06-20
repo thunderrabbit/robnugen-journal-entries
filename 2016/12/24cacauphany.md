@@ -1,6 +1,6 @@
 ---
 title: cacauphany
-tags: niigata
+tags: [ "niigata" ]
 author: Rob Nugen
 date: 2016-12-24T06:24:06+09:00
 ---

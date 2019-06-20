@@ -2,7 +2,7 @@
 date: 2013-05-04T16:21:35+09:00
 slug: barefoot-hiking
 title: Barefoot "hiking"
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##16:21 Saturday 04 May 2013

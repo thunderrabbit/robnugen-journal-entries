@@ -1,6 +1,6 @@
 ---
 title: added Chicago to my Minecraft map
-tags: minecraft
+tags: [ "minecraft" ]
 author: Rob Nugen
 date: 2015-12-31T20:51:32+09:00
 ---

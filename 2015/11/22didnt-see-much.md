@@ -1,6 +1,6 @@
 ---
 title: Didn't see much
-tags: cseti
+tags: [ "cseti" ]
 author: Rob Nugen
 date: 2015-11-22T03:35:47+09:00
 ---

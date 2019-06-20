@@ -1,6 +1,6 @@
 ---
 title: HIS, here I come
-tags: his
+tags: [ "his" ]
 author: Rob Nugen
 date: 2015-08-25T10:46:53+09:00
 ---

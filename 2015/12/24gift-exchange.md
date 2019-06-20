@@ -1,6 +1,6 @@
 ---
 title: gift exchange
-tags: xmas
+tags: [ "xmas" ]
 author: Rob Nugen
 date: 2015-12-24T23:32:31+09:00
 ---

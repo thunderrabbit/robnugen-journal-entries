@@ -1,6 +1,6 @@
 ---
 title: Got v1 of AB sortable reports done
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2015-12-09T11:31:54+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Underlined
-tags: art
+tags: [ "art" ]
 author: Rob Nugen
 date: 2015-01-10
 ---

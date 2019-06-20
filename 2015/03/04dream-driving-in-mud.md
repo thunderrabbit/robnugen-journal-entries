@@ -1,6 +1,6 @@
 ---
 title: dream driving in mud
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2015-03-04T06:01:00+09:00
 ---

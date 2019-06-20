@@ -1,6 +1,6 @@
 ---
 title: bare feet
-tags: wow
+tags: [ "wow" ]
 author: Rob Nugen
 date: 2015-07-13T15:29:07+09:00
 ---

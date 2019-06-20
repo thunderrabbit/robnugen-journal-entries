@@ -2,7 +2,7 @@
 date: 2005-11-13T03:39:54+09:00
 slug: testing-changes-to-geopress
 title: testing changes to geopress
-tags: my code
+tags: [ "my code" ]
 ---
 
 ##03:39 Sunday 13 November 2005

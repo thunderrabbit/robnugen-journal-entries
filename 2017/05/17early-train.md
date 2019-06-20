@@ -1,6 +1,6 @@
 ---
 title: snoozy commute
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-05-17T06:25:43+09:00
 ---

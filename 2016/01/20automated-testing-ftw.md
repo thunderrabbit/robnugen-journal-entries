@@ -1,6 +1,6 @@
 ---
 title: Automated testing FTW
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2016-01-20T12:59:03+09:00
 ---

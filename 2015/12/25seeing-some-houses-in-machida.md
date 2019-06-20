@@ -1,6 +1,6 @@
 ---
 title: Seeing some houses in Machida
-tags: house
+tags: [ "house" ]
 author: Rob Nugen
 date: 2015-12-25T11:09:47+09:00
 ---

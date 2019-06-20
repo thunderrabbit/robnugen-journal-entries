@@ -1,6 +1,6 @@
 ---
 title: Japan is lovely in some regards
-tags: tea
+tags: [ "tea" ]
 author: Rob Nugen
 date: 2015-08-25T21:14:15+09:00
 ---

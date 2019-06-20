@@ -1,6 +1,6 @@
 ---
 title: barefoot walking last night
-tags: feet
+tags: [ "feet" ]
 author: Rob Nugen
 date: 2015-12-30T10:31:50+09:00
 ---

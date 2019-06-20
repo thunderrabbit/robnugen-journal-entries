@@ -2,7 +2,7 @@
 date: 2013-05-12T17:23:20+09:00
 slug: marble-track-3-step-53-12-3-of-n
 title: Marble Track 3 step 53 * 12 + 3 of N
-tags: mt3
+tags: [ "mt3" ]
 ---
 
 ##17:23 Sunday 12 May 2013

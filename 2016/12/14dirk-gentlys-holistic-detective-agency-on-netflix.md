@@ -1,6 +1,6 @@
 ---
 title: Dirk Gently's Holistic Detective Agency on Netflix
-tags: review
+tags: [ "review" ]
 author: Rob Nugen
 date: 2016-12-14T09:51:45+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: just signed up for Netflix
-tags: tv
+tags: [ "tv" ]
 author: Rob Nugen
 date: 2016-10-18T01:14:06+09:00
 ---

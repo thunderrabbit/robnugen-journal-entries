@@ -1,6 +1,6 @@
 ---
 title: Good responsiveness from Soom.la
-tags: site
+tags: [ "site" ]
 author: Rob Nugen
 date: 2016-02-02T07:38:05+09:00
 ---

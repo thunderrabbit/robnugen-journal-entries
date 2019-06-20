@@ -1,6 +1,6 @@
 ---
 title: good luck at work
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-01-23T10:39:26+09:00
 ---

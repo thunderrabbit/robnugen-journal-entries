@@ -1,6 +1,6 @@
 ---
 title: To Do Today
-tags: key
+tags: [ "key" ]
 author: Rob Nugen
 date: 2016-10-06T12:48:45+09:00
 ---

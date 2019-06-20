@@ -1,6 +1,6 @@
 ---
 title: last lesson かな
-tags: lesson
+tags: [ "lesson" ]
 author: Rob Nugen
 date: 2015-11-10T10:59:28+09:00
 ---

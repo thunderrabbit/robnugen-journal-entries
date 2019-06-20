@@ -1,6 +1,6 @@
 ---
 title: fun sogo
-tags: sogo
+tags: [ "sogo" ]
 author: Rob Nugen
 date: 2016-12-04T15:12:47+09:00
 ---

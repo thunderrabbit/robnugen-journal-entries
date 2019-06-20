@@ -1,6 +1,6 @@
 ---
 title: the fuck is going on
-tags: hmm
+tags: [ "hmm" ]
 author: Rob Nugen
 date: 2016-06-21T18:16:16+09:00
 ---

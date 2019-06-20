@@ -1,6 +1,6 @@
 ---
 title: Catching up on AB site
-tags: late
+tags: [ "late" ]
 author: Rob Nugen
 date: 2014-11-13
 ---

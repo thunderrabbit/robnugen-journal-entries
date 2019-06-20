@@ -1,6 +1,6 @@
 ---
 title: Toshiba
-tags: reading
+tags: [ "reading" ]
 author: Rob Nugen
 date: 2014-12-26
 ---

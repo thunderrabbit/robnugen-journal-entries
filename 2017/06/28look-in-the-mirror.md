@@ -1,6 +1,6 @@
 ---
 title: look in the mirror
-tags: progress
+tags: [ "progress" ]
 author: Rob Nugen
 date: 2017-06-28T23:13:07+09:00
 ---

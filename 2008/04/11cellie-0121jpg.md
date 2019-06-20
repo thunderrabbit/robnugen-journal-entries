@@ -2,7 +2,7 @@
 date: 2008-04-11T11:33:41+09:00
 slug: cellie-0121jpg
 title: cellie-0121.jpg
-tags: news
+tags: [ "news" ]
 ---
 
 ##11:33 Friday 11 April 2008

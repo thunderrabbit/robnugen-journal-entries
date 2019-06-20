@@ -1,6 +1,6 @@
 ---
 title: Apple TV app
-tags: app
+tags: [ "app" ]
 author: Rob Nugen
 date: 2015-11-28T16:28:45+09:00
 ---

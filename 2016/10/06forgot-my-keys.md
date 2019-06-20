@@ -1,6 +1,6 @@
 ---
 title: forgot my keys
-tags: oops
+tags: [ "oops" ]
 author: Rob Nugen
 date: 2016-10-06T21:28:12+09:00
 ---

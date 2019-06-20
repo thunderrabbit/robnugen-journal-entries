@@ -1,6 +1,6 @@
 ---
 title: yikes stripes
-tags: lazy
+tags: [ "lazy" ]
 author: Rob Nugen
 date: 2016-02-15T15:38:23+09:00
 ---

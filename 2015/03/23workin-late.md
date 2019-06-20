@@ -1,6 +1,6 @@
 ---
 title: Workin late
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2015-03-23T22:43:00+09:00
 ---

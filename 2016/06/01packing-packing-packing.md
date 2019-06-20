@@ -1,6 +1,6 @@
 ---
 title: Packing packing packing
-tags: move
+tags: [ "move" ]
 author: Rob Nugen
 date: 2016-06-01T14:11:08+09:00
 ---

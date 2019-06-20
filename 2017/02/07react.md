@@ -1,6 +1,6 @@
 ---
 title: react
-tags: react
+tags: [ "react" ]
 author: Rob Nugen
 date: 2017-02-07T10:57:40+09:00
 ---

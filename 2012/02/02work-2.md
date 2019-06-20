@@ -2,7 +2,7 @@
 date: 2012-02-02T21:39:56+09:00
 slug: work-2
 title: Work
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##21:39 Thursday 02 February 2012

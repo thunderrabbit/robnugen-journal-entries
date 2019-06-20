@@ -1,6 +1,6 @@
 ---
 title: KQ Kawasaki construction
-tags: construction
+tags: [ "construction" ]
 author: Rob Nugen
 date: 2014-12-17
 ---

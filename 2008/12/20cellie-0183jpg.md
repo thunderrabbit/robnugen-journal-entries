@@ -2,7 +2,7 @@
 date: 2008-12-20T19:30:20+09:00
 slug: cellie-0183jpg
 title: cellie-0183.jpg
-tags: news
+tags: [ "news" ]
 ---
 
 ##19:30 Saturday 20 December 2008

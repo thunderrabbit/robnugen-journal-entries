@@ -1,6 +1,6 @@
 ---
 title: Fast train to Fukuura
-tags: train
+tags: [ "train" ]
 author: Rob Nugen
 date: 2014-12-17
 ---

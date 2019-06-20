@@ -1,6 +1,6 @@
 ---
 title: Blew up roller coaster
-tags: minecraft
+tags: [ "minecraft" ]
 author: Rob Nugen
 date: 2015-11-30T14:12:50+09:00
 ---

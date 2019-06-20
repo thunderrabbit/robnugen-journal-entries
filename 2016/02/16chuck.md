@@ -1,6 +1,6 @@
 ---
 title: Chuck
-tags: mkp
+tags: [ "mkp" ]
 author: Rob Nugen
 date: 2016-02-16T08:51:49+09:00
 ---

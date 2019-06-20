@@ -1,6 +1,6 @@
 ---
 title: testing local sites
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2016-01-09T10:27:01+09:00
 ---

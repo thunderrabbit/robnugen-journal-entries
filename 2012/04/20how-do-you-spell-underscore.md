@@ -2,7 +2,7 @@
 date: 2012-04-20T17:26:29+09:00
 slug: how-do-you-spell-underscore
 title: how do you spell underscore?
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##17:26 Friday 20 April 2012

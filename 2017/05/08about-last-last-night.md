@@ -1,6 +1,6 @@
 ---
 title: About last last night
-tags: sogo
+tags: [ "sogo" ]
 author: Rob Nugen
 date: 2017-05-08T18:50:25+09:00
 ---

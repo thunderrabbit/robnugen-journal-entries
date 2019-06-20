@@ -1,6 +1,6 @@
 ---
 title: Soup Plantation
-tags: yum
+tags: [ "yum" ]
 author: Rob Nugen
 date: 2016-01-25T20:47:39+09:00
 ---

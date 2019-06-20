@@ -1,6 +1,6 @@
 ---
 title: substitute lessons
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2016-09-28T12:41:18+09:00
 ---

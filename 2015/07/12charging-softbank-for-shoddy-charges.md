@@ -1,6 +1,6 @@
 ---
 title: charging Softbank for shoddy charges
-tags: service
+tags: [ "service" ]
 author: Rob Nugen
 date: 2015-07-12T17:44:25+09:00
 ---

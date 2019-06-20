@@ -1,6 +1,6 @@
 ---
 title: no more Softbank for me
-tags: buhbye
+tags: [ "buhbye" ]
 author: Rob Nugen
 date: 2016-06-14T22:36:36+09:00
 ---

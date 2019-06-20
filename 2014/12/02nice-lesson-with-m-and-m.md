@@ -1,6 +1,6 @@
 ---
 title: Nice lesson with M and M
-tags: lesson
+tags: [ "lesson" ]
 author: Rob Nugen
 date: 2014-12-02
 ---

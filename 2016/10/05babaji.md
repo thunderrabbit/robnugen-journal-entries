@@ -1,6 +1,6 @@
 ---
 title: babaji
-tags: life
+tags: [ "life" ]
 author: Rob Nugen
 date: 2016-10-05T15:27:42+09:00
 ---

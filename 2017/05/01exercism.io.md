@@ -1,6 +1,6 @@
 ---
 title: exercism.io
-tags: learn
+tags: [ "learn" ]
 author: Rob Nugen
 date: 2017-05-01T14:30:19+09:00
 ---

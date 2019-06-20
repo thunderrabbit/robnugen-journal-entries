@@ -1,6 +1,6 @@
 ---
 title: didnt do shit
-tags: shit
+tags: [ "shit" ]
 author: Rob Nugen
 date: 2016-01-24T11:34:25+09:00
 ---

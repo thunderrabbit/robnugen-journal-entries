@@ -1,6 +1,6 @@
 ---
 title: lesson tonight
-tags: lesson
+tags: [ "lesson" ]
 author: Rob Nugen
 date: 2015-04-08T18:50:40+09:00
 ---

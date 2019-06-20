@@ -1,6 +1,6 @@
 ---
 title: I sent an email to Fred today.
-tags: haha
+tags: [ "haha" ]
 author: Rob Nugen
 date: 2016-06-21T17:06:54+09:00
 ---

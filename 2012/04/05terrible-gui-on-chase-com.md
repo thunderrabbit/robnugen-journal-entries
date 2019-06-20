@@ -2,7 +2,7 @@
 date: 2012-04-05T09:47:17+09:00
 slug: terrible-gui-on-chase-com
 title: terrible GUI on Chase.com
-tags: rant
+tags: [ "rant" ]
 ---
 
 ## 09:47 Thursday 05 April 2012

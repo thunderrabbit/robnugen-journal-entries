@@ -2,7 +2,7 @@
 date: 2012-12-02T08:16:27+09:00
 slug: dream-helped-batman
 title: dream helped Batman
-tags: batman
+tags: [ "batman" ]
 ---
 
 ##08:16 Sunday 02 December 2012

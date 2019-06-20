@@ -1,6 +1,6 @@
 ---
 title: Scanning Busy Ring
-tags: art
+tags: [ "art" ]
 author: Rob Nugen
 date: 2015-11-03T10:02:06+09:00
 ---

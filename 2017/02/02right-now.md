@@ -1,6 +1,6 @@
 ---
 title: right now
-tags: now
+tags: [ "now" ]
 author: Rob Nugen
 date: 2017-02-02T09:18:38+09:00
 ---

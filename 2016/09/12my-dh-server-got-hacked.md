@@ -1,6 +1,6 @@
 ---
 title: my DH server got hacked
-tags: hacked
+tags: [ "hacked" ]
 author: Rob Nugen
 date: 2016-09-12T13:42:55+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: sorta kinda back on track
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-05-22T14:43:37+09:00
 ---

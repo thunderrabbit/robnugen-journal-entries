@@ -1,6 +1,6 @@
 ---
 title: early work
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2016-09-27T05:18:48+09:00
 ---

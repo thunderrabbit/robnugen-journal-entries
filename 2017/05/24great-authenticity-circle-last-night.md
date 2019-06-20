@@ -1,6 +1,6 @@
 ---
 title: great Authenticity Circle last night
-tags: mkp
+tags: [ "mkp" ]
 author: Rob Nugen
 date: 2017-05-24T04:55:59+09:00
 ---

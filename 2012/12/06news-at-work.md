@@ -2,7 +2,7 @@
 date: 2012-12-06T21:27:39+09:00
 slug: news-at-work
 title: news at work
-tags: work
+tags: [ "work" ]
 ---
 
 ##21:27 Thursday 06 December 2012

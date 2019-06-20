@@ -1,6 +1,6 @@
 ---
 title: ET Contact weekend
-tags: cseti
+tags: [ "cseti" ]
 author: Rob Nugen
 date: 2015-01-17
 ---

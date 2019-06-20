@@ -1,6 +1,6 @@
 ---
 title: panic pack
-tags: oops
+tags: [ "oops" ]
 categories:
   - travel
 author: Rob Nugen

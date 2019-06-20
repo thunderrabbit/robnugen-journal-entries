@@ -2,7 +2,7 @@
 date: 2012-02-25T09:21:10+09:00
 slug: feb-2012-email-to-g
 title: feb 2012 email to g
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##09:21 Saturday 25 February 2012

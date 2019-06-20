@@ -1,6 +1,6 @@
 ---
 title: Second periscope.tv
-tags: fameandfortuneawait
+tags: [ "fameandfortuneawait" ]
 author: Rob Nugen
 date: 2015-07-08T16:34:06+09:00
 ---

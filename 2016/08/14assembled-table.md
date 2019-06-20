@@ -1,6 +1,6 @@
 ---
 title: assembled table
-tags: house
+tags: [ "house" ]
 author: Rob Nugen
 date: 2016-08-14T10:48:22+09:00
 ---

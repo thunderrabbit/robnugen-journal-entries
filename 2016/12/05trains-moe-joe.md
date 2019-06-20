@@ -1,6 +1,6 @@
 ---
 title: trains moe joe
-tags: commute
+tags: [ "commute" ]
 author: Rob Nugen
 date: 2016-12-05T19:13:19+09:00
 ---

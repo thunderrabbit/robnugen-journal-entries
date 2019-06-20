@@ -1,6 +1,6 @@
 ---
 title: Stopped my EC2 instance
-tags: ec2
+tags: [ "ec2" ]
 author: Rob Nugen
 date: 2014-12-10
 ---

@@ -1,6 +1,6 @@
 ---
 title: Safely in Perth
-tags: yay
+tags: [ "yay" ]
 author: Rob Nugen
 date: 2015-10-15T01:01:39+09:00
 ---

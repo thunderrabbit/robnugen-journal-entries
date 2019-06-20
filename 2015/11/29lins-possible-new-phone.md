@@ -1,6 +1,6 @@
 ---
 title: Lin's possible new phone
-tags: phone
+tags: [ "phone" ]
 author: Rob Nugen
 date: 2015-11-29T14:08:00+09:00
 ---

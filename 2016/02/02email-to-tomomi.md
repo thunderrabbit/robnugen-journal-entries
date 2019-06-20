@@ -1,6 +1,6 @@
 ---
 title: email to Tomomi
-tags: tomomi
+tags: [ "tomomi" ]
 author: Rob Nugen
 date: 2016-02-02T05:54:35+09:00
 ---

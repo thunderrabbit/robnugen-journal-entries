@@ -1,6 +1,6 @@
 ---
 title: i-group
-tags: mkp
+tags: [ "mkp" ]
 author: Rob Nugen
 date: 2017-03-21T23:16:58+09:00
 ---

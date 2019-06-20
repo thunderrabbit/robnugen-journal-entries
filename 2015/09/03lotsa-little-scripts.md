@@ -1,6 +1,6 @@
 ---
 title: Lotsa little scripts
-tags: unity
+tags: [ "unity" ]
 author: Rob Nugen
 date: 2015-09-03T15:44:29+09:00
 ---

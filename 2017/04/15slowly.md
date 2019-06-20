@@ -1,6 +1,6 @@
 ---
 title: slowly
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-04-15T12:42:02+09:00
 ---

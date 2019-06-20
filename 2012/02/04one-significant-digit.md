@@ -2,7 +2,7 @@
 date: 2012-02-04T15:31:03+09:00
 slug: one-significant-digit
 title: one significant digit
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##15:31 Saturday 04 February 2012

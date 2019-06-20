@@ -2,7 +2,7 @@
 date: 2012-02-04T21:00:50+09:00
 slug: after-shopping-all-day-2
 title: After shopping all day
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##21:00 Saturday 04 February 2012

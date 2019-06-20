@@ -1,6 +1,6 @@
 ---
 title: sigh... let's spell lets correctly
-tags: whine
+tags: [ "whine" ]
 author: Rob Nugen
 date: 2014-11-11
 ---

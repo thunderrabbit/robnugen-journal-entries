@@ -1,6 +1,6 @@
 ---
 title: late walkin
-tags: oops
+tags: [ "oops" ]
 author: Rob Nugen
 date: 2015-05-30T19:11:08+09:00
 ---

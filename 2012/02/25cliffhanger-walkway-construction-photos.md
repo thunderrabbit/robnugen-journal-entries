@@ -2,7 +2,7 @@
 date: 2012-02-25T12:40:31+09:00
 slug: cliffhanger-walkway-construction-photos
 title: cliffhanger walkway construction photos
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##12:40 Saturday 25 February 2012

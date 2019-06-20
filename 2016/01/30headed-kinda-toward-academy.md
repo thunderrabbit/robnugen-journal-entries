@@ -1,6 +1,6 @@
 ---
 title: headed kinda toward Academy
-tags: jon
+tags: [ "jon" ]
 author: Rob Nugen
 date: 2016-01-30T15:17:34+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: barefoot pictures
-tags: barefoot
+tags: [ "barefoot" ]
 author: Rob Nugen
 date: 2016-02-04T15:13:06+09:00
 ---

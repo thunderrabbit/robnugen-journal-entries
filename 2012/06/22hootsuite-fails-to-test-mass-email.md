@@ -2,7 +2,7 @@
 date: 2012-06-22T11:13:01+09:00
 slug: hootsuite-fails-to-test-mass-email
 title: hootsuite fails to test mass email
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##11:13 Friday 22 June 2012

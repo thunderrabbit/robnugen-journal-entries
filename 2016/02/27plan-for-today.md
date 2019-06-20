@@ -1,6 +1,6 @@
 ---
 title: Plan for today
-tags: tv
+tags: [ "tv" ]
 author: Rob Nugen
 date: 2016-02-27T08:00:57+09:00
 ---

@@ -2,7 +2,7 @@
 date: 2012-02-02T23:00:45+09:00
 slug: nabe-for-dinner
 title: Nabe for dinner
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##23:00 Thursday 02 February 2012

@@ -1,6 +1,6 @@
 ---
 title: grouchy
-tags: grr
+tags: [ "grr" ]
 author: Rob Nugen
 date: 2015-06-14T11:14:59+09:00
 ---

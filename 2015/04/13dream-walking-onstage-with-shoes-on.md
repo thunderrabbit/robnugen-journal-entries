@@ -1,6 +1,6 @@
 ---
 title: Dream walking onstage with shoes on
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2015-04-13T07:59:11+09:00
 ---

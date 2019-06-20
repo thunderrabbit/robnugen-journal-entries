@@ -2,7 +2,7 @@
 date: 2012-02-03T09:02:57+09:00
 slug: cow-clicker
 title: cow clicker
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##09:02 Friday 03 February 2012

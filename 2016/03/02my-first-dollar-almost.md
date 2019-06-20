@@ -1,6 +1,6 @@
 ---
 title: my first dollar (almost)
-tags: cam
+tags: [ "cam" ]
 author: Rob Nugen
 date: 2016-03-02T10:52:43+09:00
 ---

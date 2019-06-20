@@ -1,6 +1,6 @@
 ---
 title: zzzz no OKC rally
-tags: sleepy
+tags: [ "sleepy" ]
 author: Rob Nugen
 date: 2003-05-26
 ---

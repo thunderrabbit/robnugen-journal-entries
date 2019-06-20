@@ -1,6 +1,6 @@
 ---
 title: waitin
-tags: hmm
+tags: [ "hmm" ]
 categories:
   - travel
 author: Rob Nugen

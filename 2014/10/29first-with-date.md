@@ -1,6 +1,6 @@
 ---
 title: First with date
-tags: hakyll
+tags: [ "hakyll" ]
 description: 
 author: Rob Nugen
 date: 2014-10-29

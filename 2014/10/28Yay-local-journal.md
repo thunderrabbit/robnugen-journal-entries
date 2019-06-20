@@ -1,6 +1,6 @@
 ---
 title: Local journal, how I've missed you!
-tags: journal
+tags: [ "journal" ]
 author: Rob Nugen
 date: 2014-10-28
 ---

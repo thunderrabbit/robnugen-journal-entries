@@ -1,6 +1,6 @@
 ---
 title: Great great great sales day!
-tags: art
+tags: [ "art" ]
 author: Rob Nugen
 date: 2014-12-16
 ---

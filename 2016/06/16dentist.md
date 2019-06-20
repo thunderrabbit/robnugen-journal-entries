@@ -1,6 +1,6 @@
 ---
 title: dentist
-tags: dentist
+tags: [ "dentist" ]
 author: Rob Nugen
 date: 2016-06-16T17:36:01+09:00
 ---

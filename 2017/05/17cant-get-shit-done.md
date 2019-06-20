@@ -1,6 +1,6 @@
 ---
 title: can't get shit done
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-05-17T12:25:52+09:00
 ---

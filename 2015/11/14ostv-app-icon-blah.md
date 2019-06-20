@@ -1,6 +1,6 @@
 ---
 title: ostv app icon blah
-tags: blah
+tags: [ "blah" ]
 author: Rob Nugen
 date: 2015-11-14T20:09:07+09:00
 ---

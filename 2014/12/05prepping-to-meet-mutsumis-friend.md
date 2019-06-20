@@ -1,6 +1,6 @@
 ---
 title: prepping to meet Mutsumi's friend
-tags: art
+tags: [ "art" ]
 author: Rob Nugen
 date: 2014-12-05
 ---

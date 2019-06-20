@@ -1,6 +1,6 @@
 ---
 title: Good coding on AB site
-tags: ab
+tags: [ "ab" ]
 author: Rob Nugen
 date: 2015-12-02T21:44:02+09:00
 ---

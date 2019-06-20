@@ -1,6 +1,6 @@
 ---
 title: snuggle
-tags: cats
+tags: [ "cats" ]
 author: Rob Nugen
 date: 2014-12-19
 ---

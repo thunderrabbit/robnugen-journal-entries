@@ -1,6 +1,6 @@
 ---
 title: Got an external 4TB Buffalo USB3 drive
-tags: price
+tags: [ "price" ]
 author: Rob Nugen
 date: 2015-12-02T13:08:34+09:00
 ---

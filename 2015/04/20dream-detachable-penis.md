@@ -1,6 +1,6 @@
 ---
 title: Dream detachable penis
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2015-04-20T08:36:36+09:00
 ---

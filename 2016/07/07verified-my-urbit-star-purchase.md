@@ -1,6 +1,6 @@
 ---
 title: verified my urbit star purchase
-tags: urbit
+tags: [ "urbit" ]
 author: Rob Nugen
 date: 2016-07-07T12:17:13+09:00
 ---

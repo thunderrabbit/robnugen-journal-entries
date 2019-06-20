@@ -1,6 +1,6 @@
 ---
 title: skydiving pics
-tags: temp
+tags: [ "temp" ]
 author: Rob Nugen
 date: 2016-01-29T03:07:53+09:00
 ---

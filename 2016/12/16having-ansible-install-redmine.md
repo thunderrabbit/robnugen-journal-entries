@@ -1,6 +1,6 @@
 ---
 title: having Ansible install redmine
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2016-12-16T20:01:29+09:00
 ---

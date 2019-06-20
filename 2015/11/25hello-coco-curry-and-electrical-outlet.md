@@ -1,6 +1,6 @@
 ---
 title: Hello CoCo Curry and electrical outlet
-tags: yum
+tags: [ "yum" ]
 author: Rob Nugen
 date: 2015-11-25T14:04:52+09:00
 ---

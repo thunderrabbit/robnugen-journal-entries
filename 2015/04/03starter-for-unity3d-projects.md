@@ -1,6 +1,6 @@
 ---
 title: starter for Unity3D projects
-tags: unity3d
+tags: [ "unity3d" ]
 author: Rob Nugen
 date: 2015-04-03T22:31:14+09:00
 ---

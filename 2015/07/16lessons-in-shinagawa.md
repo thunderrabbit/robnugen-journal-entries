@@ -1,6 +1,6 @@
 ---
 title: lessons in Shinagawa
-tags: lessons
+tags: [ "lessons" ]
 author: Rob Nugen
 date: 2015-07-16T12:11:03+09:00
 ---

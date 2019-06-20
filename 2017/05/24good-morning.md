@@ -1,6 +1,6 @@
 ---
 title: Good morning
-tags: early
+tags: [ "early" ]
 author: Rob Nugen
 date: 2017-05-24T04:40:50+09:00
 ---

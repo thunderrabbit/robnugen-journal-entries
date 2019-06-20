@@ -1,6 +1,6 @@
 ---
 title: fake fs
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2016-04-16T13:52:56+09:00
 ---

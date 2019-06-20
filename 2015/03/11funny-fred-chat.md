@@ -1,6 +1,6 @@
 ---
 title: funny Fred chat
-tags: fred
+tags: [ "fred" ]
 author: Rob Nugen
 date: 2015-03-11T16:14:00+09:00
 ---

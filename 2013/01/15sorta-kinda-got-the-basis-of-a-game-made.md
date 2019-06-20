@@ -2,7 +2,7 @@
 date: 2013-01-15T05:23:21+09:00
 slug: sorta-kinda-got-the-basis-of-a-game-made
 title: sorta kinda got the basis of a game made
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##05:23 Tuesday 15 January 2013

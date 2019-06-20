@@ -1,6 +1,6 @@
 ---
 title: holy cats new favorite kanji
-tags: natural
+tags: [ "natural" ]
 author: Rob Nugen
 date: 2015-06-09T21:45:39+09:00
 ---

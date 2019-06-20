@@ -3,7 +3,7 @@ date: 2007-09-27T11:12:54+09:00
 slug: is-nova-good-as-dead-at-japan-economy-news-blog-bank-of-japan-ministry-of-finance-ministry-of-trade-economy-and-industry
 title: Is NOVA good as dead? at Japan Economy News & Blog - Bank of Japan, Ministry
   of Finance, Ministry of Trade, Economy and Industry
-tags: news
+tags: [ "news" ]
 ---
 
 ##11:12 Thursday 27 September 2007

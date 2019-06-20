@@ -1,6 +1,6 @@
 ---
 title: forgot my paper at toy store
-tags: oops
+tags: [ "oops" ]
 author: Rob Nugen
 date: 2015-05-12T18:41:24+09:00
 ---

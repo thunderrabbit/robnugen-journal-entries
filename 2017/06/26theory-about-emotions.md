@@ -1,6 +1,6 @@
 ---
 title: theory about emotions
-tags: mkp
+tags: [ "mkp" ]
 author: Rob Nugen
 date: 2017-06-26T06:51:41+09:00
 ---

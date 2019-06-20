@@ -1,6 +1,6 @@
 ---
 title: meteor course on Coursera might be too easy
-tags: meteor
+tags: [ "meteor" ]
 author: Rob Nugen
 date: 2015-12-26T11:55:41+09:00
 ---

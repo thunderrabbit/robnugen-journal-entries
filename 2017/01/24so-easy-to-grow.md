@@ -1,6 +1,6 @@
 ---
 title: kalanchoe tomentosa are so easy to grow
-tags: alex
+tags: [ "alex" ]
 author: Rob Nugen
 date: 2017-01-24T00:07:04+09:00
 ---

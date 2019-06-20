@@ -1,6 +1,6 @@
 ---
 title: impossible puzzle?
-tags: puzzle
+tags: [ "puzzle" ]
 author: Rob Nugen
 date: 2015-08-18T18:39:06+09:00
 ---

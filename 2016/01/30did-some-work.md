@@ -1,6 +1,6 @@
 ---
 title: did some work
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2016-01-30T11:10:24+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: thank you AWS
-tags: support
+tags: [ "support" ]
 author: Rob Nugen
 date: 2017-06-02T12:36:31+09:00
 ---

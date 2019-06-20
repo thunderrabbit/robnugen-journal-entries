@@ -1,6 +1,6 @@
 ---
 title: Netlify now does git clone --recursive!
-tags: netlify
+tags: [ "netlify" ]
 author: Rob Nugen
 date: 2015-03-07T07:16:00+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Chapter in language
-tags: language
+tags: [ "language" ]
 author: Rob Nugen
 date: 2015-03-24T10:11:00+09:00
 ---

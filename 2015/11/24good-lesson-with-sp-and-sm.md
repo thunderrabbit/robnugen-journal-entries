@@ -1,6 +1,6 @@
 ---
 title: Good lesson with SP and SM
-tags: lessons
+tags: [ "lessons" ]
 author: Rob Nugen
 date: 2015-11-24T21:48:56+09:00
 ---

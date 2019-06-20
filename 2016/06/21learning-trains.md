@@ -1,6 +1,6 @@
 ---
 title: learning trains
-tags: trains
+tags: [ "trains" ]
 author: Rob Nugen
 date: 2016-06-21T16:58:07+09:00
 ---

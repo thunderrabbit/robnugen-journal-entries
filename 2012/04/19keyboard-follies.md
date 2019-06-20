@@ -2,7 +2,7 @@
 date: 2012-04-19T20:35:52+09:00
 slug: keyboard-follies
 title: keyboard follies
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##20:35 Thursday 19 April 2012

@@ -1,6 +1,6 @@
 ---
 title: Met Daisuke
-tags: first
+tags: [ "first" ]
 author: Rob Nugen
 date: 2014-12-13
 ---

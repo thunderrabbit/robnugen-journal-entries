@@ -1,6 +1,6 @@
 ---
 title: too late
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-03-21T12:17:52+09:00
 ---

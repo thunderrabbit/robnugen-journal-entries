@@ -1,6 +1,6 @@
 ---
 title: Dream of Thrones
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2015-12-25T07:21:15+09:00
 ---

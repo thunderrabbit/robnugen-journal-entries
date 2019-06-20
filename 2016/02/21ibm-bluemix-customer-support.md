@@ -1,6 +1,6 @@
 ---
 title: IBM Bluemix customer support
-tags: bad
+tags: [ "bad" ]
 author: Rob Nugen
 date: 2016-02-21T09:33:46+09:00
 ---

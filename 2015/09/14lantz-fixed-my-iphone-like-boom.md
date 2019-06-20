@@ -1,6 +1,6 @@
 ---
 title: Lantz fixed my iphone like boom
-tags: lantz
+tags: [ "lantz" ]
 author: Rob Nugen
 date: 2015-09-14T11:20:04+09:00
 ---

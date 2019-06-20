@@ -1,6 +1,6 @@
 ---
 title: zzz no begging
-tags: sleepy
+tags: [ "sleepy" ]
 author: Rob Nugen
 date: 2002-03-27
 ---

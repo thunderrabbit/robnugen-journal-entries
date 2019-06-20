@@ -1,6 +1,6 @@
 ---
 title: maybe new laptop
-tags: laptop
+tags: [ "laptop" ]
 author: Rob Nugen
 date: 2015-06-27T23:01:30+09:00
 ---

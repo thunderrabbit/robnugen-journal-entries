@@ -1,6 +1,6 @@
 ---
 title: connectivity
-tags: bah
+tags: [ "bah" ]
 author: Rob Nugen
 date: 2015-07-15T05:44:44+09:00
 ---

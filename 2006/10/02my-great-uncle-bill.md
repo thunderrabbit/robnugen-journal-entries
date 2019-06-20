@@ -2,7 +2,7 @@
 date: 2006-10-02T11:18:02+09:00
 slug: my-great-uncle-bill
 title: my Great Uncle Bill
-tags: news
+tags: [ "news" ]
 ---
 
 ##11:18 Monday 02 October 2006

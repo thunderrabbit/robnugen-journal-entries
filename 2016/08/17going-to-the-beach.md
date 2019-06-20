@@ -1,6 +1,6 @@
 ---
 title: going to the beach
-tags: beach
+tags: [ "beach" ]
 author: Rob Nugen
 date: 2016-08-17T08:48:22+09:00
 ---

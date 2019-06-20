@@ -1,6 +1,6 @@
 ---
 title: app dev
-tags: ios
+tags: [ "ios" ]
 author: Rob Nugen
 date: 2016-11-28T17:28:01+09:00
 ---

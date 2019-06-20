@@ -1,6 +1,6 @@
 ---
 title: Dream 04
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2003-06-21
 ---

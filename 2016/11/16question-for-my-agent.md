@@ -1,6 +1,6 @@
 ---
 title: question for my AI agent
-tags: idle
+tags: [ "idle" ]
 author: Rob Nugen
 date: 2016-11-16T21:40:46+09:00
 ---

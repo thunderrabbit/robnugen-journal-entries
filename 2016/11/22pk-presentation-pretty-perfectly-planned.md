@@ -1,6 +1,6 @@
 ---
 title: pk presentation pretty perfectly planned
-tags: pk
+tags: [ "pk" ]
 author: Rob Nugen
 date: 2016-11-22T23:40:21+09:00
 ---

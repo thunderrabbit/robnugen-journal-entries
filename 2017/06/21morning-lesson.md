@@ -1,6 +1,6 @@
 ---
 title: morning lesson
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-06-21T09:05:59+09:00
 ---

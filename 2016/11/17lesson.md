@@ -1,6 +1,6 @@
 ---
 title: lesson
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2016-11-17T09:46:58+09:00
 ---

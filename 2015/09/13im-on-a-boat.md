@@ -1,6 +1,6 @@
 ---
 title: I'm on a boat
-tags: ferry
+tags: [ "ferry" ]
 author: Rob Nugen
 date: 2015-09-13T14:34:31+09:00
 ---

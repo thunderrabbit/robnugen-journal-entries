@@ -1,6 +1,6 @@
 ---
 title: JB party
-tags: fun
+tags: [ "fun" ]
 author: Rob Nugen
 date: 2016-12-11T22:02:54+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: trust
-tags: hmmm
+tags: [ "hmmm" ]
 author: Rob Nugen
 date: 2016-06-20T10:50:11+09:00
 ---

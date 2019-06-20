@@ -1,6 +1,6 @@
 ---
 title: Pop Pop Chaos
-tags: ppc
+tags: [ "ppc" ]
 author: Rob Nugen
 date: 2015-07-30T17:33:02+09:00
 ---

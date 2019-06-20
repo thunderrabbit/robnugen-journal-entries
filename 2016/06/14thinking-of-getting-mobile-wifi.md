@@ -1,6 +1,6 @@
 ---
 title: I'm thinking of getting mobile wifi
-tags: wifi
+tags: [ "wifi" ]
 author: Rob Nugen
 date: 2016-06-14T11:22:30+09:00
 ---

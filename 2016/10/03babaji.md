@@ -1,6 +1,6 @@
 ---
 title: Babaji
-tags: babaji
+tags: [ "babaji" ]
 author: Rob Nugen
 date: 2016-10-03T23:48:09+09:00
 ---

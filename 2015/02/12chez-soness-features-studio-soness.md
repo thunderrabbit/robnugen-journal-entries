@@ -1,6 +1,6 @@
 ---
 title: Chez Soness features Studio Soness
-tags: soness
+tags: [ "soness" ]
 author: Rob Nugen
 date: 2015-02-12T09:31:00+09:00
 ---

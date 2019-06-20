@@ -1,6 +1,6 @@
 ---
 title: bicycle lost and found
-tags: bicycle
+tags: [ "bicycle" ]
 author: Rob Nugen
 date: 2015-06-08T15:54:33+09:00
 ---

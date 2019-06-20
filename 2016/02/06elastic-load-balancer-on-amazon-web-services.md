@@ -1,6 +1,6 @@
 ---
 title: Elastic Load Balancer on Amazon Web Services
-tags: aws
+tags: [ "aws" ]
 author: Rob Nugen
 date: 2016-02-06T13:57:03+09:00
 ---

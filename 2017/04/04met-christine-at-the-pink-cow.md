@@ -1,6 +1,6 @@
 ---
 title: Met Christine at The Pink Cow
-tags: thepinkcow
+tags: [ "thepinkcow" ]
 author: Rob Nugen
 date: 2017-04-04T22:28:37+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Working on XCode 8
-tags: xcode
+tags: [ "xcode" ]
 author: Rob Nugen
 date: 2016-09-12T13:37:19+09:00
 ---

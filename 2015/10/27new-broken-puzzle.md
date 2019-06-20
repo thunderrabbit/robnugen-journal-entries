@@ -1,6 +1,6 @@
 ---
 title: new broken puzzle
-tags: puzzle
+tags: [ "puzzle" ]
 author: Rob Nugen
 date: 2015-10-27T21:54:15+09:00
 ---

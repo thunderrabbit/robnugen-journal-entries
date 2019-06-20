@@ -2,7 +2,7 @@
 date: 2012-12-19T07:48:12+09:00
 slug: a-bit-chilly
 title: a bit chilly
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##07:48 Wednesday 19 December 2012

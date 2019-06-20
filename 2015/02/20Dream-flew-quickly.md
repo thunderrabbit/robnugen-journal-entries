@@ -1,6 +1,6 @@
 ---
 title: Dream flew quickly
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2015-02-20T08:43:00+09:00
 ---

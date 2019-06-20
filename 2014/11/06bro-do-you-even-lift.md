@@ -1,6 +1,6 @@
 ---
 title: Bro, do you even lift?
-tags: lift
+tags: [ "lift" ]
 author: Rob Nugen
 date: 2014-11-06
 ---

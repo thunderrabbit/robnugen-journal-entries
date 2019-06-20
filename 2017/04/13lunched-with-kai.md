@@ -1,6 +1,6 @@
 ---
 title: lunched with Kai
-tags: kai
+tags: [ "kai" ]
 author: Rob Nugen
 date: 2017-04-13T17:57:12+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kids class
-tags: kids
+tags: [ "kids" ]
 author: Rob Nugen
 date: 2014-12-03
 ---

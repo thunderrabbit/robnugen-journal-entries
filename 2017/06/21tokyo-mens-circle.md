@@ -1,6 +1,6 @@
 ---
 title: Tokyo Men's Circle
-tags: mkp
+tags: [ "mkp" ]
 author: Rob Nugen
 date: 2017-06-20T21:15:20+09:00
 ---

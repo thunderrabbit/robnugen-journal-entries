@@ -2,7 +2,7 @@
 date: 2011-04-19T10:18:46+09:00
 slug: hello-unity
 title: hello unity
-tags: news
+tags: [ "news" ]
 ---
 
 ##10:18 Tuesday 19 April 2011

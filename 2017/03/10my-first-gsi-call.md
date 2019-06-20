@@ -1,6 +1,6 @@
 ---
 title: my First GST call
-tags: mkp
+tags: [ "mkp" ]
 author: Rob Nugen
 date: 2017-03-10T03:52:09+09:00
 ---

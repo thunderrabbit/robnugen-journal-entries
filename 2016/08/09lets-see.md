@@ -1,6 +1,6 @@
 ---
 title: let's see
-tags: catchup
+tags: [ "catchup" ]
 author: Rob Nugen
 date: 2016-08-09T10:49:56+09:00
 ---

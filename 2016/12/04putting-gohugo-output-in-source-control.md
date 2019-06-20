@@ -1,6 +1,6 @@
 ---
 title: putting gohugo output in source control
-tags: deploy
+tags: [ "deploy" ]
 author: Rob Nugen
 date: 2016-12-04T09:01:01+09:00
 ---

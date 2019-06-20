@@ -1,6 +1,6 @@
 ---
 title: pong with points
-tags: pong
+tags: [ "pong" ]
 author: Rob Nugen
 date: 2015-04-23T14:11:03+09:00
 ---

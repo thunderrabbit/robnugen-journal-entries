@@ -1,6 +1,6 @@
 ---
 title: oops and whew
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-04-25T12:53:24+09:00
 ---

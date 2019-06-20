@@ -1,6 +1,6 @@
 ---
 title: Hard to work when neighbors are fighting
-tags: yup
+tags: [ "yup" ]
 author: Rob Nugen
 date: 2015-12-15T08:05:02+09:00
 ---

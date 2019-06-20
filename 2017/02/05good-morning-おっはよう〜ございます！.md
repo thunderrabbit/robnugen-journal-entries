@@ -1,6 +1,6 @@
 ---
 title: Good morning! おっはよう〜ございます！
-tags: happy
+tags: [ "happy" ]
 author: Rob Nugen
 date: 2017-02-05T05:54:10+09:00
 ---

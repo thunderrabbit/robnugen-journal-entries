@@ -1,6 +1,6 @@
 ---
 title: apps
-tags: ios
+tags: [ "ios" ]
 author: Rob Nugen
 date: 2016-10-25T09:36:37+09:00
 ---

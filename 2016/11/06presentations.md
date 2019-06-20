@@ -1,6 +1,6 @@
 ---
 title: presentations
-tags: omg
+tags: [ "omg" ]
 author: Rob Nugen
 date: 2016-11-06T07:17:34+09:00
 ---

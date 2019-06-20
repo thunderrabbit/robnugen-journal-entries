@@ -1,6 +1,6 @@
 ---
 title: Sky divin
-tags: sky diving
+tags: [ "sky diving" ]
 author: Rob Nugen
 date: 2016-01-28T15:17:35+09:00
 ---

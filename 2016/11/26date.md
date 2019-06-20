@@ -1,6 +1,6 @@
 ---
 title: date
-tags: date
+tags: [ "date" ]
 author: Rob Nugen
 date: 2016-11-26T15:46:37+09:00
 ---

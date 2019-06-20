@@ -1,6 +1,6 @@
 ---
 title: Shungite strength test
-tags: shungite
+tags: [ "shungite" ]
 author: Rob Nugen
 date: 2017-07-01T19:46:55+09:00
 ---

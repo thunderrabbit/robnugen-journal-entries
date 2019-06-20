@@ -1,6 +1,6 @@
 ---
 title: sazaesan map from onesan
-tags: japanese
+tags: [ "japanese" ]
 author: Rob Nugen
 date: 2017-01-13T15:48:24+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: moe joe bah
-tags: moejoe
+tags: [ "moejoe" ]
 author: Rob Nugen
 date: 2016-10-20T17:46:19+09:00
 ---

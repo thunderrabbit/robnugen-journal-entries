@@ -1,6 +1,6 @@
 ---
 title: journaling
-tags: journaling
+tags: [ "journaling" ]
 author: Rob Nugen
 date: 2011-08-17T10:41:27+09:00
 ---

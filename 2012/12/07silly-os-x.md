@@ -2,7 +2,7 @@
 date: 2012-12-07T19:43:34+09:00
 slug: silly-os-x
 title: silly OS X
-tags: technology
+tags: [ "technology" ]
 ---
 
 ##19:43 Friday 07 December 2012

@@ -1,6 +1,6 @@
 ---
 title: guardian angel
-tags: mkp
+tags: [ "mkp" ]
 author: Rob Nugen
 date: 2017-05-04T11:08:32+09:00
 ---

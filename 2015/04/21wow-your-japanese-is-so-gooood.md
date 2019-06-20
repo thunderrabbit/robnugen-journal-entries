@@ -1,6 +1,6 @@
 ---
 title: wow your Japanese is so gooood
-tags: bah
+tags: [ "bah" ]
 author: Rob Nugen
 date: 2015-04-21T16:11:21+09:00
 ---

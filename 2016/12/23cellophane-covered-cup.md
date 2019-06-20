@@ -1,6 +1,6 @@
 ---
 title: cellophane covered cup
-tags: bernoulli
+tags: [ "bernoulli" ]
 author: Rob Nugen
 date: 2016-12-23T10:51:55+09:00
 ---

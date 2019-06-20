@@ -1,6 +1,6 @@
 ---
 title: zzzzz
-tags: sleepy
+tags: [ "sleepy" ]
 author: Rob Nugen
 date: 2000-07-26
 ---

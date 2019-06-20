@@ -1,6 +1,6 @@
 ---
 title: Taco Bell coming to Shibuya
-tags: nice
+tags: [ "nice" ]
 author: Rob Nugen
 date: 2015-03-27T09:27:00+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lin joined SOGO Sunday
-tags: sogo
+tags: [ "sogo" ]
 author: Rob Nugen
 date: 2016-10-24T00:24:21+09:00
 ---

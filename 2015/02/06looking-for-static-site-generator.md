@@ -1,6 +1,6 @@
 ---
 title: Looking for static site generator
-tags: moe joe
+tags: [ "moe joe" ]
 author: Rob Nugen
 date: 2015-02-06T03:07:37+09:00
 ---

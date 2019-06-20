@@ -2,7 +2,7 @@
 date: 2010-05-11T21:03:14+09:00
 slug: memory-man-joke
 title: memory man (joke)
-tags: news
+tags: [ "news" ]
 ---
 
 ##21:03 Tuesday 11 May 2010

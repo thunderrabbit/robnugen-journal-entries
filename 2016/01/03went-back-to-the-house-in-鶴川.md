@@ -1,6 +1,6 @@
 ---
 title: Went back to the house in 鶴川
-tags: house
+tags: [ "house" ]
 author: Rob Nugen
 date: 2016-01-03T16:18:35+09:00
 ---

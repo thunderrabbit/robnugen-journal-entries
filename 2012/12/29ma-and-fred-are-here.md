@@ -2,7 +2,7 @@
 date: 2012-12-29T22:33:33+09:00
 slug: ma-and-fred-are-here
 title: Ma and Fred are here!
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##22:33 Saturday 29 December 2012

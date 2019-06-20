@@ -1,6 +1,6 @@
 ---
 title: tough call
-tags: sad
+tags: [ "sad" ]
 author: Rob Nugen
 date: 2017-02-04T17:43:37+09:00
 ---

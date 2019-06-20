@@ -1,6 +1,6 @@
 ---
 title: blue skies
-tags: blue
+tags: [ "blue" ]
 author: Rob Nugen
 date: 2014-11-27
 ---

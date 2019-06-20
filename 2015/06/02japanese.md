@@ -1,6 +1,6 @@
 ---
 title: japanese
-tags: oh
+tags: [ "oh" ]
 author: Rob Nugen
 date: 2015-06-02T18:45:51+09:00
 ---

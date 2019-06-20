@@ -1,6 +1,6 @@
 ---
 title: beginning retirement plan
-tags: retirement
+tags: [ "retirement" ]
 author: Rob Nugen
 date: 2015-10-29T22:12:41+09:00
 ---

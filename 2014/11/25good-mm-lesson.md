@@ -1,6 +1,6 @@
 ---
 title: Good MM lesson
-tags: lesson
+tags: [ "lesson" ]
 author: Rob Nugen
 date: 2014-11-25
 ---

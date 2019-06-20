@@ -1,6 +1,6 @@
 ---
 title: in LAX
-tags: lax
+tags: [ "lax" ]
 author: Rob Nugen
 date: 2016-01-22T12:12:16+09:00
 ---

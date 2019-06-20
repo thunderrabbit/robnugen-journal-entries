@@ -1,6 +1,6 @@
 ---
 title: Warm storm
-tags: weather
+tags: [ "weather" ]
 author: Rob Nugen
 date: 2015-12-11T09:35:56+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: First lesson with N
-tags: lesson
+tags: [ "lesson" ]
 author: Rob Nugen
 date: 2015-12-17T16:48:10+09:00
 ---

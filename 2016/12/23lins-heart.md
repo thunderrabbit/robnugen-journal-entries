@@ -1,6 +1,6 @@
 ---
 title: Lin's Heart
-tags: art
+tags: [ "art" ]
 author: Rob Nugen
 date: 2016-12-23T12:34:36+09:00
 ---

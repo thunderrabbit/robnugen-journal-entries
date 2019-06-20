@@ -1,6 +1,6 @@
 ---
 title: Met Chris
-tags: mkp
+tags: [ "mkp" ]
 author: Rob Nugen
 date: 2015-09-26T19:29:39+09:00
 ---

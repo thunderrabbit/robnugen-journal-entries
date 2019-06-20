@@ -1,6 +1,6 @@
 ---
 title: considering staffing in NZ
-tags: mkp
+tags: [ "mkp" ]
 author: Rob Nugen
 date: 2016-06-23T13:21:34+09:00
 ---

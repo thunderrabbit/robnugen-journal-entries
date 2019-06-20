@@ -1,6 +1,6 @@
 ---
 title: updated to hugo 0.17
-tags: hugo
+tags: [ "hugo" ]
 author: Rob Nugen
 date: 2016-11-15T13:25:39+09:00
 ---

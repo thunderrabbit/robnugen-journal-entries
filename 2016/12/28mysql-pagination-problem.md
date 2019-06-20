@@ -1,6 +1,6 @@
 ---
 title: mysql pagination problem
-tags: mysql
+tags: [ "mysql" ]
 author: Rob Nugen
 date: 2016-12-28T15:12:39+09:00
 ---

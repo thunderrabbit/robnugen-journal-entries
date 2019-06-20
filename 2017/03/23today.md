@@ -1,6 +1,6 @@
 ---
 title: today
-tags: today
+tags: [ "today" ]
 author: Rob Nugen
 date: 2017-03-23T15:33:02+09:00
 ---

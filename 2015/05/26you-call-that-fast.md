@@ -1,6 +1,6 @@
 ---
 title: you call that fast?
-tags: counting
+tags: [ "counting" ]
 author: Rob Nugen
 date: 2015-05-26T16:04:04+09:00
 ---

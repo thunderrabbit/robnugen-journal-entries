@@ -1,6 +1,6 @@
 ---
 title: Journal plans
-tags: journal
+tags: [ "journal" ]
 author: Rob Nugen
 date: 2014-10-28
 ---

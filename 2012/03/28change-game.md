@@ -2,7 +2,7 @@
 date: 2012-03-28T21:52:56+09:00
 slug: change-game
 title: change game
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##21:52 Wednesday 28 March 2012

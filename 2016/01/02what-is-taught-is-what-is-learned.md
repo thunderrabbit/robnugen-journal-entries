@@ -1,6 +1,6 @@
 ---
 title: What is taught is what is learned
-tags: coursera
+tags: [ "coursera" ]
 author: Rob Nugen
 date: 2016-01-02T08:15:58+09:00
 ---

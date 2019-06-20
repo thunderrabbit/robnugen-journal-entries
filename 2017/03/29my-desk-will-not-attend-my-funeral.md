@@ -1,6 +1,6 @@
 ---
 title: My desk will not attend my funeral
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-03-29T10:54:32+09:00
 ---

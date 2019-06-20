@@ -1,6 +1,6 @@
 ---
 title: Dr Fred
-tags: nice
+tags: [ "nice" ]
 author: Rob Nugen
 date: 2016-12-01T07:45:23+09:00
 ---

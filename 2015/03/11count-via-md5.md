@@ -1,6 +1,6 @@
 ---
 title: count via md5
-tags: yay
+tags: [ "yay" ]
 author: Rob Nugen
 date: 2015-03-11T16:13:00+09:00
 ---

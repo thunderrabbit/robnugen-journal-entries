@@ -1,6 +1,6 @@
 ---
 title: To Do Soon
-tags: todo
+tags: [ "todo" ]
 author: Rob Nugen
 date: 2015-10-21T19:17:11+09:00
 ---

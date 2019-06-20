@@ -1,6 +1,6 @@
 ---
 title: Pushups app is more secure
-tags: pushups
+tags: [ "pushups" ]
 author: Rob Nugen
 date: 2015-05-15T01:25:50+09:00
 ---

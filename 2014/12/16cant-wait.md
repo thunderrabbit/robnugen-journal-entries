@@ -1,6 +1,6 @@
 ---
 title: No seat for you
-tags: funny
+tags: [ "funny" ]
 author: Rob Nugen
 date: 2014-12-16
 ---

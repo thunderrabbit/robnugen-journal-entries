@@ -2,7 +2,7 @@
 date: 2013-03-02T10:17:47+09:00
 slug: first-state-of-my-life-address-in-2013
 title: first state of my life address in 2013
-tags: state of my life address
+tags: [ "state of my life address" ]
 ---
 
 ##10:17 Saturday 02 March 2013

@@ -1,6 +1,6 @@
 ---
 title: CB request
-tags: wut
+tags: [ "wut" ]
 author: Rob Nugen
 date: 2016-06-15T19:24:04+09:00
 ---

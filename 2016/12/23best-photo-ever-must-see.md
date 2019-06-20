@@ -1,6 +1,6 @@
 ---
 title: Rainb
-tags: tired
+tags: [ "tired" ]
 author: Rob Nugen
 date: 2016-12-23T13:08:26+09:00
 ---

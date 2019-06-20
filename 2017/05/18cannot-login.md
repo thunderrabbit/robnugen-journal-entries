@@ -1,6 +1,6 @@
 ---
 title: cannot login
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-05-18T07:47:52+09:00
 ---

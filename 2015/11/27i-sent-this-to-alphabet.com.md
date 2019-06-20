@@ -1,6 +1,6 @@
 ---
 title: Plea for Kraftwerk
-tags: kraftwerk
+tags: [ "kraftwerk" ]
 author: Rob Nugen
 date: 2015-11-27T08:27:51+09:00
 ---

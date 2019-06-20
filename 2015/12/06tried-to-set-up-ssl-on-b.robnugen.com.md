@@ -1,6 +1,6 @@
 ---
 title: tried to set up SSL on b.robnugen.com
-tags: ssl
+tags: [ "ssl" ]
 author: Rob Nugen
 date: 2015-12-06T12:25:10+09:00
 ---

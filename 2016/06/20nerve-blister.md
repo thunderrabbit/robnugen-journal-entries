@@ -1,6 +1,6 @@
 ---
 title: nerve blister
-tags: oops
+tags: [ "oops" ]
 author: Rob Nugen
 date: 2016-06-20T11:16:00+09:00
 ---

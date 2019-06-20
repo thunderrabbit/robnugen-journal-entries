@@ -1,6 +1,6 @@
 ---
 title: Pop Pop Chaos almost has a chat box!
-tags: poppopchaos
+tags: [ "poppopchaos" ]
 author: Rob Nugen
 date: 2015-09-25T11:48:08+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: nearly home
-tags: train
+tags: [ "train" ]
 author: Rob Nugen
 date: 2015-09-13T18:07:32+09:00
 ---

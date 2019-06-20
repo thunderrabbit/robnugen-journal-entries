@@ -1,6 +1,6 @@
 ---
 title: a bit repetitive kids class
-tags: kids
+tags: [ "kids" ]
 author: Rob Nugen
 date: 2014-11-26
 ---

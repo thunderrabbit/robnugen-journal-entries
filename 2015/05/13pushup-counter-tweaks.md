@@ -1,6 +1,6 @@
 ---
 title: pushup counter tweaks
-tags: pushups
+tags: [ "pushups" ]
 author: Rob Nugen
 date: 2015-05-13T18:39:04+09:00
 ---

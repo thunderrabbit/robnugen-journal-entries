@@ -2,7 +2,7 @@
 date: 2013-04-21T22:34:10+09:00
 slug: lazy-sunday
 title: lazy Sunday
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##22:34 Sunday 21 April 2013

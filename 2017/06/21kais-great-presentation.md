@@ -1,6 +1,6 @@
 ---
 title: Kai's great presentation
-tags: kai
+tags: [ "kai" ]
 author: Rob Nugen
 date: 2017-06-21T23:03:55+09:00
 ---

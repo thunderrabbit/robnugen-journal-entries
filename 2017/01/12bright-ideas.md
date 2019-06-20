@@ -1,6 +1,6 @@
 ---
 title: bright ideas
-tags: ideas
+tags: [ "ideas" ]
 author: Rob Nugen
 date: 2017-01-12T10:10:02+09:00
 ---

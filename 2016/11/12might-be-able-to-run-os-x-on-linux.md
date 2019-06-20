@@ -1,6 +1,6 @@
 ---
 title: might be able to run os x on Linux
-tags: linux
+tags: [ "linux" ]
 author: Rob Nugen
 date: 2016-11-12T00:47:32+09:00
 ---

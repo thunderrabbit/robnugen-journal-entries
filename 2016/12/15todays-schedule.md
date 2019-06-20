@@ -1,6 +1,6 @@
 ---
 title: Today's schedule：
-tags: plan
+tags: [ "plan" ]
 author: Rob Nugen
 date: 2016-12-15T07:54:07+09:00
 ---

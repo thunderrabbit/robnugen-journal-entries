@@ -1,6 +1,6 @@
 ---
 title: Steel drums concert at Muza
-tags: concert
+tags: [ "concert" ]
 author: Rob Nugen
 date: 2014-12-18
 ---

@@ -1,6 +1,6 @@
 ---
 title: swan lake
-tags: niigata
+tags: [ "niigata" ]
 author: Rob Nugen
 date: 2016-12-24T15:41:02+09:00
 ---

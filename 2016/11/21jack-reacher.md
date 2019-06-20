@@ -1,6 +1,6 @@
 ---
 title: Jack Reacher
-tags: movie
+tags: [ "movie" ]
 author: Rob Nugen
 date: 2016-11-20T22:14:34+09:00
 ---

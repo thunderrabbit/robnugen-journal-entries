@@ -1,6 +1,6 @@
 ---
 title: Did runes for the 888 house in 橋本
-tags: house
+tags: [ "house" ]
 author: Rob Nugen
 date: 2015-12-19T22:26:59+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Going to Reiki workshop
-tags: reiki
+tags: [ "reiki" ]
 author: Rob Nugen
 date: 2014-12-13
 ---

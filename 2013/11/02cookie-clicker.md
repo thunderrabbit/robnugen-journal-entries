@@ -1,6 +1,6 @@
 ---
 title: Cookie Clicker
-tags: wasting time
+tags: [ "wasting time" ]
 author: Rob Nugen
 date: 2013-11-02
 ---

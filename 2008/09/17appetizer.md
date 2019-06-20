@@ -2,7 +2,7 @@
 date: 2008-09-17T22:19:12+09:00
 slug: appetizer
 title: appetizer?
-tags: news
+tags: [ "news" ]
 ---
 
 ##22:19 Wednesday 17 September 2008

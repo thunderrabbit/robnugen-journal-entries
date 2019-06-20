@@ -1,6 +1,6 @@
 ---
 title: cache of old messages
-tags: fb
+tags: [ "fb" ]
 author: Rob Nugen
 date: 2015-08-25T18:52:43+09:00
 ---

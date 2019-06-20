@@ -1,6 +1,6 @@
 ---
 title: stuffs
-tags: soml
+tags: [ "soml" ]
 author: Rob Nugen
 date: 2016-05-25T14:10:57+09:00
 ---

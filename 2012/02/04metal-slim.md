@@ -2,7 +2,7 @@
 date: 2012-02-04T22:40:45+09:00
 slug: metal-slim
 title: Metal Slim
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##22:40 Saturday 04 February 2012

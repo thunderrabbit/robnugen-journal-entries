@@ -2,7 +2,7 @@
 date: 2013-02-08T22:17:10+09:00
 slug: installed-an-aquarium-above-the-kitchen-sink
 title: installed an aquarium above the kitchen sink
-tags: technology
+tags: [ "technology" ]
 ---
 
 ##22:17 Friday 08 February 2013

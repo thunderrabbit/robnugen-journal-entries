@@ -1,6 +1,6 @@
 ---
 title: updates to Three or more circles
-tags: art
+tags: [ "art" ]
 author: Rob Nugen
 date: 2015-12-19T14:32:26+09:00
 ---

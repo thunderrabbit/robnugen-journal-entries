@@ -1,6 +1,6 @@
 ---
 title: got some cool ansible stuff working
-tags: ansible
+tags: [ "ansible" ]
 author: Rob Nugen
 date: 2016-08-24T14:13:31+09:00
 ---

@@ -2,7 +2,7 @@
 date: 2012-03-25T12:30:24+09:00
 slug: overnight-to-ippeki-sou
 title: Overnight to Ippeki Sou
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##12:30 Sunday 25 March 2012

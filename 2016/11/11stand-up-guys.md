@@ -1,6 +1,6 @@
 ---
 title: Stand up Guys
-tags: movie
+tags: [ "movie" ]
 author: Rob Nugen
 date: 2016-11-11T21:58:53+09:00
 ---

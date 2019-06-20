@@ -1,6 +1,6 @@
 ---
 title: TEDx clarity
-tags: tedx
+tags: [ "tedx" ]
 author: Rob Nugen
 date: 2016-03-06T12:30:47+09:00
 ---

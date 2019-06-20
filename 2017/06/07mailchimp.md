@@ -1,6 +1,6 @@
 ---
 title: mailchimp
-tags: bah
+tags: [ "bah" ]
 author: Rob Nugen
 date: 2017-06-07T21:55:20+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dream lising in a sand world
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2015-05-04T08:58:21+09:00
 ---

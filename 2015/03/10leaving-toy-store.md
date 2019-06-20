@@ -1,6 +1,6 @@
 ---
 title: leaving toy store
-tags: bye
+tags: [ "bye" ]
 author: Rob Nugen
 date: 2015-03-10T18:30:00+09:00
 ---

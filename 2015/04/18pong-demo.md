@@ -1,6 +1,6 @@
 ---
 title: pong demo
-tags: pong
+tags: [ "pong" ]
 author: Rob Nugen
 date: 2015-04-18T12:53:11+09:00
 ---

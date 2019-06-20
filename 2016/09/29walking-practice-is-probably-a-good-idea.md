@@ -1,6 +1,6 @@
 ---
 title: walking practice is probably a good idea
-tags: walking
+tags: [ "walking" ]
 author: Rob Nugen
 date: 2016-09-29T14:19:14+09:00
 ---

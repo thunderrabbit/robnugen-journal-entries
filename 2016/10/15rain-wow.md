@@ -1,6 +1,6 @@
 ---
 title: rain wow
-tags: weather
+tags: [ "weather" ]
 author: Rob Nugen
 date: 2016-10-15T01:22:48+09:00
 ---

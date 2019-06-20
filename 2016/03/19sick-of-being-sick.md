@@ -1,6 +1,6 @@
 ---
 title: sick of being sick
-tags: sick
+tags: [ "sick" ]
 author: Rob Nugen
 date: 2016-03-19T16:33:53+09:00
 ---

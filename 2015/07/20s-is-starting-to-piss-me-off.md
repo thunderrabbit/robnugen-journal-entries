@@ -1,6 +1,6 @@
 ---
 title: S is starting to piss me off
-tags: s
+tags: [ "s" ]
 author: Rob Nugen
 date: 2015-07-20T22:34:57+09:00
 ---

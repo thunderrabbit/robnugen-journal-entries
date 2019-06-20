@@ -1,6 +1,6 @@
 ---
 title: Doan kebab and toy store
-tags: doan
+tags: [ "doan" ]
 author: Rob Nugen
 date: 2015-06-09T18:43:55+09:00
 ---

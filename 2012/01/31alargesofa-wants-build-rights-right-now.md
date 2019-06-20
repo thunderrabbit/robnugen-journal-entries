@@ -2,7 +2,7 @@
 date: 2012-01-31T23:20:09+09:00
 slug: alargesofa-wants-build-rights-right-now
 title: alargesofa wants build rights right now
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##23:20 Tuesday 31 January 2012

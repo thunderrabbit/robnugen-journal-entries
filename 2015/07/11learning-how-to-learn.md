@@ -1,6 +1,6 @@
 ---
 title: Learning how to learn
-tags: chunk
+tags: [ "chunk" ]
 author: Rob Nugen
 date: 2015-07-11T19:41:39+09:00
 ---

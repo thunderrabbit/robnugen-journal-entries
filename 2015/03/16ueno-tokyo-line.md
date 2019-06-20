@@ -1,6 +1,6 @@
 ---
 title: Ueno-Tokyo line
-tags: trains
+tags: [ "trains" ]
 author: Rob Nugen
 date: 2015-03-16T13:39:00+09:00
 ---

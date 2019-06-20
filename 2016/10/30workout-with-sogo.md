@@ -1,6 +1,6 @@
 ---
 title: workout with SOGO
-tags: sogo
+tags: [ "sogo" ]
 author: Rob Nugen
 date: 2016-10-30T07:49:09+09:00
 ---

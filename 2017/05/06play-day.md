@@ -1,6 +1,6 @@
 ---
 title: play day
-tags: play
+tags: [ "play" ]
 author: Rob Nugen
 date: 2017-05-06T09:34:50+09:00
 ---

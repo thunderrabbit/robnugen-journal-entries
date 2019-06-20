@@ -1,6 +1,6 @@
 ---
 title: Caroline lecture
-tags: yoyogi
+tags: [ "yoyogi" ]
 author: Rob Nugen
 date: 2017-06-04T22:39:40+09:00
 ---

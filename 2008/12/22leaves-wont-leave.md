@@ -2,7 +2,7 @@
 date: 2008-12-22T09:51:05+09:00
 slug: leaves-wont-leave
 title: leaves won't leave
-tags: news
+tags: [ "news" ]
 ---
 
 ##09:51 Monday 22 December 2008

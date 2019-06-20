@@ -1,6 +1,6 @@
 ---
 title: stress
-tags: stress
+tags: [ "stress" ]
 author: Rob Nugen
 date: 2016-01-11T16:38:48+09:00
 ---

@@ -2,7 +2,7 @@
 date: 2008-12-18T06:47:49+09:00
 slug: above-train-doors
 title: Above train doors
-tags: news
+tags: [ "news" ]
 ---
 
 ##06:47 Thursday 18 December 2008

@@ -1,6 +1,6 @@
 ---
 title: Updated hakyll.el
-tags: emacs
+tags: [ "emacs" ]
 author: Rob Nugen
 date: 2015-02-12T20:49:00+09:00
 ---

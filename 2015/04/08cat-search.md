@@ -1,6 +1,6 @@
 ---
 title: cat search
-tags: ted
+tags: [ "ted" ]
 author: Rob Nugen
 date: 2015-04-08T15:30:07+09:00
 ---

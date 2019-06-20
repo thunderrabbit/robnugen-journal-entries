@@ -1,6 +1,6 @@
 ---
 title: stopped by cops
-tags: barefoot
+tags: [ "barefoot" ]
 author: Rob Nugen
 date: 2016-06-14T11:12:03+09:00
 ---

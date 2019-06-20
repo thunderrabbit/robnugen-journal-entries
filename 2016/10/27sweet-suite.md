@@ -1,6 +1,6 @@
 ---
 title: sweet suite
-tags: lesson
+tags: [ "lesson" ]
 author: Rob Nugen
 date: 2016-10-27T18:25:50+09:00
 ---

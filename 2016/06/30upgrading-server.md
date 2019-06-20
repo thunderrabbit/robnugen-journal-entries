@@ -1,6 +1,6 @@
 ---
 title: upgrading server
-tags: ubuntu
+tags: [ "ubuntu" ]
 author: Rob Nugen
 date: 2016-06-30T13:32:22+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: great head heard and soul last night
-tags: mkp
+tags: [ "mkp" ]
 author: Rob Nugen
 date: 2017-03-28T11:18:49+09:00
 ---

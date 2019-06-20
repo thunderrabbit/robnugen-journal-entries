@@ -2,7 +2,7 @@
 date: 2013-01-14T12:33:43+09:00
 slug: snowing-14-jan-2013
 title: snowing 14 Jan 2013
-tags: snow
+tags: [ "snow" ]
 ---
 
 ##12:33 Monday 14 January 2013

@@ -2,7 +2,7 @@
 date: 2013-05-19T12:18:02+09:00
 slug: looking-at-koken
 title: Looking at Koken
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##12:18 Sunday 19 May 2013

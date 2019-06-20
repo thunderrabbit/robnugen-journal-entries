@@ -1,6 +1,6 @@
 ---
 title: moe joe work
-tags: blah
+tags: [ "blah" ]
 author: Rob Nugen
 date: 2016-10-06T20:38:48+09:00
 ---

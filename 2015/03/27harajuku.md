@@ -1,6 +1,6 @@
 ---
 title: harajuku
-tags: harajuku
+tags: [ "harajuku" ]
 author: Rob Nugen
 date: 2015-03-27T18:18:00+09:00
 ---

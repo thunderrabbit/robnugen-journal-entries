@@ -1,6 +1,6 @@
 ---
 title: fun lesson and dinner
-tags: lesson
+tags: [ "lesson" ]
 author: Rob Nugen
 date: 2015-01-13
 ---

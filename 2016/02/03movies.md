@@ -1,6 +1,6 @@
 ---
 title: movies
-tags: movies
+tags: [ "movies" ]
 author: Rob Nugen
 date: 2016-02-03T08:43:59+09:00
 ---

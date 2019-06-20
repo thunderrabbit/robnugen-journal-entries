@@ -1,6 +1,6 @@
 ---
 title: tvOS vocab builder
-tags: ostv
+tags: [ "ostv" ]
 author: Rob Nugen
 date: 2015-11-25T15:21:07+09:00
 ---

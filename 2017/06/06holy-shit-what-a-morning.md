@@ -1,6 +1,6 @@
 ---
 title: holy shit what a morning
-tags: fack
+tags: [ "fack" ]
 author: Rob Nugen
 date: 2017-06-06T09:13:19+09:00
 ---

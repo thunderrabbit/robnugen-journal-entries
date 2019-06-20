@@ -1,6 +1,6 @@
 ---
 title: Great day hiking with Travis and Yumi!
-tags: new years day
+tags: [ "new years day" ]
 author: Rob Nugen
 date: 2016-01-01T21:56:55+09:00
 ---

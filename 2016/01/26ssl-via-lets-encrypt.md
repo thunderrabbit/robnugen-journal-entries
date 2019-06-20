@@ -1,6 +1,6 @@
 ---
 title: SSL via Let's Encrypt
-tags: ssl
+tags: [ "ssl" ]
 author: Rob Nugen
 date: 2016-01-26T10:00:17+09:00
 ---

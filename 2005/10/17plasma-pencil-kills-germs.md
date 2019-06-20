@@ -2,7 +2,7 @@
 date: 2005-10-17T00:50:32+09:00
 slug: plasma-pencil-kills-germs
 title: Plasma pencil kills germs
-tags: technology
+tags: [ "technology" ]
 ---
 
 ##00:50 Monday 17 October 2005

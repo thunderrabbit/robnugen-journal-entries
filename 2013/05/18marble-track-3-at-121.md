@@ -2,7 +2,7 @@
 date: 2013-05-18T09:33:15+09:00
 slug: marble-track-3-at-121
 title: Marble Track 3 at 1:21
-tags: mt3
+tags: [ "mt3" ]
 ---
 
 ## 09:33 Saturday 18 May 2013

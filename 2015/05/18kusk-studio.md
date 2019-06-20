@@ -1,6 +1,6 @@
 ---
 title: Kusk Studio
-tags: first
+tags: [ "first" ]
 author: Rob Nugen
 date: 2015-05-18T22:15:06+09:00
 ---

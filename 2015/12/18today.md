@@ -1,6 +1,6 @@
 ---
 title: today
-tags: wut
+tags: [ "wut" ]
 author: Rob Nugen
 date: 2015-12-18T17:57:49+09:00
 ---

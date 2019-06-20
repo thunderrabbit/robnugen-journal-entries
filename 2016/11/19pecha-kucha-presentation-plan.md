@@ -1,6 +1,6 @@
 ---
 title: pecha kucha presentation plan
-tags: pk
+tags: [ "pk" ]
 author: Rob Nugen
 date: 2016-11-19T18:54:11+09:00
 ---

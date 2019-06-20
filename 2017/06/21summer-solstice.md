@@ -1,6 +1,6 @@
 ---
 title: Summer Solstice
-tags: g
+tags: [ "g" ]
 author: Rob Nugen
 date: 2017-06-21T09:25:01+09:00
 ---

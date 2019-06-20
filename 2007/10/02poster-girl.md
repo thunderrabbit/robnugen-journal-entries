@@ -2,7 +2,7 @@
 date: 2007-10-02T00:01:45+09:00
 slug: poster-girl
 title: poster girl
-tags: miscellaneous
+tags: [ "miscellaneous" ]
 ---
 
 ##00:01 Tuesday 02 October 2007

@@ -1,6 +1,6 @@
 ---
 title: kernel eating 700 percent of CPU
-tags: osx
+tags: [ "osx" ]
 author: Rob Nugen
 date: 2015-06-02T11:08:49+09:00
 ---

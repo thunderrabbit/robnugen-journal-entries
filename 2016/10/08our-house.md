@@ -1,6 +1,6 @@
 ---
 title: our house
-tags: house
+tags: [ "house" ]
 author: Rob Nugen
 date: 2016-10-08T01:01:56+09:00
 ---

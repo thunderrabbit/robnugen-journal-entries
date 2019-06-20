@@ -1,6 +1,6 @@
 ---
 title: Colleen team basketball
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2016-02-26T07:59:16+09:00
 ---

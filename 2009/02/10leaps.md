@@ -2,7 +2,7 @@
 date: 2009-02-10T03:21:31+09:00
 slug: life-leaps
 title: Life Leaps
-tags: leaps
+tags: [ "leaps" ]
 ---
 
 ## 13:21 10 February 2009

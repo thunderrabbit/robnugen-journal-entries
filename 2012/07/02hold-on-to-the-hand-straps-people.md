@@ -2,7 +2,7 @@
 date: 2012-07-02T18:29:56+09:00
 slug: hold-on-to-the-hand-straps-people
 title: Hold on to the hand straps, people
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##18:29 Monday 02 July 2012

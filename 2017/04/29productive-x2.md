@@ -1,6 +1,6 @@
 ---
 title: Productive X2
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-04-29T20:54:24+09:00
 ---

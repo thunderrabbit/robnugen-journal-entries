@@ -1,6 +1,6 @@
 ---
 title: Great lunch with Lin and Keiko
-tags: nyan
+tags: [ "nyan" ]
 author: Rob Nugen
 date: 2016-12-20T23:36:14+09:00
 ---

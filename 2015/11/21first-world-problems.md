@@ -1,6 +1,6 @@
 ---
 title: First world problems
-tags: fwp
+tags: [ "fwp" ]
 author: Rob Nugen
 date: 2015-11-21T14:32:13+09:00
 ---

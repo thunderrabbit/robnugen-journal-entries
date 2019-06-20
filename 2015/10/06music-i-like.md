@@ -1,6 +1,6 @@
 ---
 title: Music I like
-tags: music
+tags: [ "music" ]
 author: Rob Nugen
 date: 2015-10-06T14:29:38+09:00
 ---

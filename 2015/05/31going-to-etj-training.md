@@ -1,6 +1,6 @@
 ---
 title: going to ETJ training
-tags: training
+tags: [ "training" ]
 author: Rob Nugen
 date: 2015-05-31T09:31:02+09:00
 ---

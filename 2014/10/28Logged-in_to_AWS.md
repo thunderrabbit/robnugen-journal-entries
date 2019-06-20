@@ -1,6 +1,6 @@
 ---
 title: Logged in to AWS (I know you were worried)
-tags: aws
+tags: [ "aws" ]
 author: Rob Nugen
 date: 2014-10-28
 ---

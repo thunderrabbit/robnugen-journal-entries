@@ -1,6 +1,6 @@
 ---
 title: speaking of posture
-tags: oof
+tags: [ "oof" ]
 author: Rob Nugen
 date: 2016-07-08T19:03:00+09:00
 ---

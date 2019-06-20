@@ -1,6 +1,6 @@
 ---
 title: Bah still evaluating static site generators
-tags: bah
+tags: [ "bah" ]
 author: Rob Nugen
 date: 2015-04-22T10:24:07+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: toy store
-tags: puzzles
+tags: [ "puzzles" ]
 author: Rob Nugen
 date: 2015-12-08T18:17:29+09:00
 ---

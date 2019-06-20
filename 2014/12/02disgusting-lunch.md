@@ -1,6 +1,6 @@
 ---
 title: Disgusting lunch
-tags: sigh
+tags: [ "sigh" ]
 author: Rob Nugen
 date: 2014-12-02
 ---

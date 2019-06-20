@@ -1,6 +1,6 @@
 ---
 title: janette
-tags: funny
+tags: [ "funny" ]
 author: Rob Nugen
 date: 2016-09-14T11:38:29+09:00
 ---

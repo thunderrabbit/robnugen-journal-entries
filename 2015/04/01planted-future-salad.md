@@ -1,6 +1,6 @@
 ---
 title: Planted future salad
-tags: garden
+tags: [ "garden" ]
 author: Rob Nugen
 date: 2015-04-01T12:42:23+09:00
 ---

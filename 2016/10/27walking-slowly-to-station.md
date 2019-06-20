@@ -1,6 +1,6 @@
 ---
 title: walking slowly to station
-tags: time
+tags: [ "time" ]
 author: Rob Nugen
 date: 2016-10-27T07:51:46+09:00
 ---

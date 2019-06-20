@@ -1,6 +1,6 @@
 ---
 title: cookin with CPU
-tags: crypto
+tags: [ "crypto" ]
 author: Rob Nugen
 date: 2017-05-23T09:04:11+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Met B and R, headed to Hakone
-tags: train
+tags: [ "train" ]
 author: Rob Nugen
 date: 2017-07-03T12:10:53+09:00
 ---

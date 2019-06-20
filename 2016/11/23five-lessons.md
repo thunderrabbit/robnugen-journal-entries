@@ -1,6 +1,6 @@
 ---
 title: five lessons
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2016-11-23T21:58:24+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Amazon Photos
-tags: amazon
+tags: [ "amazon" ]
 author: Rob Nugen
 date: 2016-11-14T09:09:42+09:00
 ---

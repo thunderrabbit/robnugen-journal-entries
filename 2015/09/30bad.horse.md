@@ -1,6 +1,6 @@
 ---
 title: traceroute bad.horse
-tags: hahahaha
+tags: [ "hahahaha" ]
 author: Rob Nugen
 date: 2015-09-30T11:25:12+09:00
 ---

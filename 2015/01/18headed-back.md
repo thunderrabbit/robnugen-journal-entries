@@ -1,6 +1,6 @@
 ---
 title: Headed back
-tags: back
+tags: [ "back" ]
 author: Rob Nugen
 date: 2015-01-18
 ---

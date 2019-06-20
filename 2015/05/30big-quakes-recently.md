@@ -1,6 +1,6 @@
 ---
 title: big quakes recently
-tags: earthquakes
+tags: [ "earthquakes" ]
 author: Rob Nugen
 date: 2015-05-30T21:31:54+09:00
 ---

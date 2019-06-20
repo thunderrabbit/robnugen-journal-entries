@@ -1,6 +1,6 @@
 ---
 title: AB site version 3 work
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2015-07-17T12:23:32+09:00
 ---

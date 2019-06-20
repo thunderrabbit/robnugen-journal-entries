@@ -1,6 +1,6 @@
 ---
 title: rebooting my computer
-tags: chores
+tags: [ "chores" ]
 author: Rob Nugen
 date: 2016-01-14T16:26:43+09:00
 ---

@@ -2,7 +2,7 @@
 date: 2012-01-29T04:06:14+09:00
 slug: minecraftinh
 title: Minecrafting
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##04:06 Sunday 29 January 2012

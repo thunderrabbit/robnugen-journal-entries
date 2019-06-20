@@ -1,6 +1,6 @@
 ---
 title: Fantastic presentation last night!
-tags: yay
+tags: [ "yay" ]
 author: Rob Nugen
 date: 2016-11-25T13:57:14+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Chillin with Joanna and Eric in Yokosuka
-tags: chillin
+tags: [ "chillin" ]
 author: Rob Nugen
 date: 2016-01-10T17:13:29+09:00
 ---

@@ -2,7 +2,7 @@
 date: 2006-07-24T21:21:54+09:00
 slug: flexible-transisters
 title: flexible transisters
-tags: technology
+tags: [ "technology" ]
 ---
 
 ##21:21 Monday 24 July 2006

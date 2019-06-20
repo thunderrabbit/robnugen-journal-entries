@@ -1,6 +1,6 @@
 ---
 title: Joanna and Eric last night
-tags: family
+tags: [ "family" ]
 author: Rob Nugen
 date: 2016-01-10T09:56:24+09:00
 ---

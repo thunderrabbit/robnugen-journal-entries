@@ -1,6 +1,6 @@
 ---
 title: Mitsue came to TESOL
-tags: lunch
+tags: [ "lunch" ]
 author: Rob Nugen
 date: 2016-06-26T17:52:32+09:00
 ---

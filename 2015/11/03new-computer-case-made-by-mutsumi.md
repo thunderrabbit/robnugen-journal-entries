@@ -1,6 +1,6 @@
 ---
 title: New computer case made by Mutsumi
-tags: wow
+tags: [ "wow" ]
 author: Rob Nugen
 date: 2015-11-03T19:26:32+09:00
 ---

@@ -2,7 +2,7 @@
 date: 2012-02-04T22:46:10+09:00
 slug: i-like-the-shelf
 title: I like the shelf
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##22:46 Saturday 04 February 2012

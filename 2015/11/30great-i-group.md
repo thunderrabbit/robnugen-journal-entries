@@ -1,6 +1,6 @@
 ---
 title: great I-group
-tags: mkp
+tags: [ "mkp" ]
 author: Rob Nugen
 date: 2015-11-30T22:12:05+09:00
 ---

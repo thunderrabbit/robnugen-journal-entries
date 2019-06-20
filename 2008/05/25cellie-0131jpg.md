@@ -2,7 +2,7 @@
 date: 2008-05-25T12:45:48+09:00
 slug: cellie-0131jpg
 title: cellie-0131.jpg
-tags: news
+tags: [ "news" ]
 ---
 
 ##12:45 Sunday 25 May 2008

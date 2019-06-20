@@ -1,6 +1,6 @@
 ---
 title: Early lesson in Akabanebashi
-tags: lesson
+tags: [ "lesson" ]
 author: Rob Nugen
 date: 2014-11-18
 ---

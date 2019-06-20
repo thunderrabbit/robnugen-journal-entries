@@ -1,6 +1,6 @@
 ---
 title: Break a take-a-part puzzle
-tags: puzzle
+tags: [ "puzzle" ]
 author: Rob Nugen
 date: 2015-01-20
 ---

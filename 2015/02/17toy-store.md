@@ -1,6 +1,6 @@
 ---
 title: Toy store
-tags: shibata
+tags: [ "shibata" ]
 author: Rob Nugen
 date: 2015-02-17T18:40:00+09:00
 ---

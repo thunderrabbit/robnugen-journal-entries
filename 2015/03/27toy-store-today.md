@@ -1,6 +1,6 @@
 ---
 title: toy store today
-tags: toys
+tags: [ "toys" ]
 author: Rob Nugen
 date: 2015-03-27T22:53:00+09:00
 ---

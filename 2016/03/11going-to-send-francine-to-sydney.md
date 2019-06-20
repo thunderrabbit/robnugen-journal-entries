@@ -1,6 +1,6 @@
 ---
 title: Going to send Francine to Sydney
-tags: francine
+tags: [ "francine" ]
 author: Rob Nugen
 date: 2016-03-11T19:05:40+09:00
 ---

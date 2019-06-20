@@ -1,6 +1,6 @@
 ---
 title: evs
-tags: tweets
+tags: [ "tweets" ]
 author: Rob Nugen
 date: 2015-12-08T11:21:13+09:00
 ---

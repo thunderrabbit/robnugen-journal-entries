@@ -1,6 +1,6 @@
 ---
 title: Angel committed suicide
-tags: damn
+tags: [ "damn" ]
 author: Rob Nugen
 date: 2016-02-11T09:32:40+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Barefoot me on TV
-tags: tv
+tags: [ "tv" ]
 author: Rob Nugen
 date: 2015-12-29T15:12:20+09:00
 ---

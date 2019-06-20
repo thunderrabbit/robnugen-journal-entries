@@ -1,6 +1,6 @@
 ---
 title: Dream grouchy
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2015-12-19T08:34:33+09:00
 ---

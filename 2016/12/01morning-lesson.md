@@ -1,6 +1,6 @@
 ---
 title: morning
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2016-12-01T07:39:17+09:00
 ---

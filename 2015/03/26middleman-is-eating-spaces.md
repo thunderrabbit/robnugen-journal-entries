@@ -1,6 +1,6 @@
 ---
 title: Middleman is eating spaces
-tags: middleman
+tags: [ "middleman" ]
 author: Rob Nugen
 date: 2015-03-26T17:22:00+09:00
 ---

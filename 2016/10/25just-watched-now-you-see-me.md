@@ -1,6 +1,6 @@
 ---
 title: just watched Now You See Me
-tags: movie
+tags: [ "movie" ]
 author: Rob Nugen
 date: 2016-10-25T15:31:31+09:00
 ---

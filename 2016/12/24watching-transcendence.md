@@ -1,6 +1,6 @@
 ---
 title: Watching Transcendence
-tags: movie
+tags: [ "movie" ]
 author: Rob Nugen
 date: 2016-12-24T21:27:17+09:00
 ---

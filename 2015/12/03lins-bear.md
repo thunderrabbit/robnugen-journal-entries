@@ -1,6 +1,6 @@
 ---
 title: Lin's Bear
-tags: bear
+tags: [ "bear" ]
 author: Rob Nugen
 date: 2015-12-03T20:51:46+09:00
 ---

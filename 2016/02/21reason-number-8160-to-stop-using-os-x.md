@@ -1,6 +1,6 @@
 ---
 title: reason number 8160 to stop using OS X
-tags: finder
+tags: [ "finder" ]
 author: Rob Nugen
 date: 2016-02-21T09:43:53+09:00
 ---

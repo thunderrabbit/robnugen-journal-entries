@@ -1,6 +1,6 @@
 ---
 title: blob
-tags: mkp
+tags: [ "mkp" ]
 author: Rob Nugen
 date: 2017-01-19T11:55:01+09:00
 ---

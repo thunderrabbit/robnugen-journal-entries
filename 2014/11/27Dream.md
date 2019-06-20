@@ -1,6 +1,6 @@
 ---
 title: Dream new restaurant
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2014-11-27
 ---

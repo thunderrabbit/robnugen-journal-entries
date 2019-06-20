@@ -1,6 +1,6 @@
 ---
 title: online I-group
-tags: mkp
+tags: [ "mkp" ]
 author: Rob Nugen
 date: 2016-09-15T11:14:41+09:00
 ---

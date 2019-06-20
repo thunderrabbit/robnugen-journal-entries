@@ -1,6 +1,6 @@
 ---
 title: Happy Birthday 2016!!!
-tags: haha
+tags: [ "haha" ]
 author: Rob Nugen
 date: 2016-12-31T23:59:59+09:00
 ---

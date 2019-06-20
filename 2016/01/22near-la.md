@@ -1,6 +1,6 @@
 ---
 title: near LA
-tags: flight
+tags: [ "flight" ]
 author: Rob Nugen
 date: 2016-01-22T09:40:24+09:00
 ---

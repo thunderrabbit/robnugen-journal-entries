@@ -1,6 +1,6 @@
 ---
 title: 1 of 5 servers almost updated
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-04-13T18:00:53+09:00
 ---

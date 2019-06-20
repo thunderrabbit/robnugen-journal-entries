@@ -1,6 +1,6 @@
 ---
 title: Arrived in Austin
-tags: ma
+tags: [ "ma" ]
 author: Rob Nugen
 date: 2016-01-26T14:05:59+09:00
 ---

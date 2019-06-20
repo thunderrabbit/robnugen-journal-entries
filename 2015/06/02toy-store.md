@@ -1,6 +1,6 @@
 ---
 title: toy store
-tags: mai
+tags: [ "mai" ]
 author: Rob Nugen
 date: 2015-06-02T18:41:17+09:00
 ---

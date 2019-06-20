@@ -1,6 +1,6 @@
 ---
 title: Subsite
-tags: code
+tags: [ "code" ]
 author: Rob Nugen
 date: 2015-01-05
 ---

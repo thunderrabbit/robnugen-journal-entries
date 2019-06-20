@@ -1,6 +1,6 @@
 ---
 title: great time at Sally's
-tags: sally
+tags: [ "sally" ]
 author: Rob Nugen
 date: 2016-02-02T02:02:46+09:00
 ---

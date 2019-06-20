@@ -1,6 +1,6 @@
 ---
 title: fixed my backpack
-tags: bag
+tags: [ "bag" ]
 author: Rob Nugen
 date: 2016-06-29T23:36:03+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: more easily make dream entries
-tags: journal
+tags: [ "journal" ]
 author: Rob Nugen
 date: 2015-03-17T16:44:00+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Downloaded Tor Browser
-tags: password
+tags: [ "password" ]
 author: Rob Nugen
 date: 2015-01-15
 ---

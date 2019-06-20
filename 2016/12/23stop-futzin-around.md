@@ -1,6 +1,6 @@
 ---
 title: stop fuckin around (and get on the bus)
-tags: oops
+tags: [ "oops" ]
 author: Rob Nugen
 date: 2016-12-23T10:03:51+09:00
 ---

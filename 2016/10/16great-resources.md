@@ -1,6 +1,6 @@
 ---
 title: Great resources
-tags: hhs
+tags: [ "hhs" ]
 author: Rob Nugen
 date: 2016-10-16T17:48:00+09:00
 ---

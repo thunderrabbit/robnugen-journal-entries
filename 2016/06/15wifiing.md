@@ -1,6 +1,6 @@
 ---
 title: wifiing
-tags: phone
+tags: [ "phone" ]
 author: Rob Nugen
 date: 2016-06-15T14:57:26+09:00
 ---

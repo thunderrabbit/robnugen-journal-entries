@@ -1,6 +1,6 @@
 ---
 title: doug conversation
-tags: yruu
+tags: [ "yruu" ]
 author: Rob Nugen
 date: 2002-10-24
 ---

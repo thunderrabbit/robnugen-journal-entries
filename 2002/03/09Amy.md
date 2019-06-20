@@ -1,6 +1,6 @@
 ---
 title: Amy
-tags: amy
+tags: [ "amy" ]
 author: Rob Nugen
 date: 2002-03-09
 ---

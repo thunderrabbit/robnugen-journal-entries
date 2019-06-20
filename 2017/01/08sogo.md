@@ -1,6 +1,6 @@
 ---
 title: SOGO
-tags: sogo
+tags: [ "sogo" ]
 author: Rob Nugen
 date: 2017-01-08T09:38:59+09:00
 ---

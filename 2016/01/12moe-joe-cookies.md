@@ -1,6 +1,6 @@
 ---
 title: moe joe cookies
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2016-01-12T18:13:21+09:00
 ---

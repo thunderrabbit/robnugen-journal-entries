@@ -1,6 +1,6 @@
 ---
 title: lesson with Mutsumi
-tags: lesson
+tags: [ "lesson" ]
 author: Rob Nugen
 date: 2016-03-08T21:49:36+09:00
 ---

@@ -2,7 +2,7 @@
 date: 2012-01-30T21:12:33+09:00
 slug: reasonable-hours
 title: reasonable hours
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##21:12 Monday 30 January 2012

@@ -1,6 +1,6 @@
 ---
 title: Broke the crap out of my local hakyll repo
-tags: git
+tags: [ "git" ]
 author: Rob Nugen
 date: 2015-02-19T17:36:00+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Chapters
-tags: teaching
+tags: [ "teaching" ]
 author: Rob Nugen
 date: 2015-02-10
 ---

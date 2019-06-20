@@ -1,6 +1,6 @@
 ---
 title: lesson in Akihabara
-tags: lesson
+tags: [ "lesson" ]
 author: Rob Nugen
 date: 2015-07-06T21:52:01+09:00
 ---

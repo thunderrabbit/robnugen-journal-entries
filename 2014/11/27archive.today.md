@@ -1,6 +1,6 @@
 ---
 title: archive.today
-tags: reddit
+tags: [ "reddit" ]
 author: Rob Nugen
 date: 2014-11-27
 ---

@@ -2,7 +2,7 @@
 date: 2005-09-26T18:19:56+09:00
 slug: wordpress
 title: Wordpress
-tags: open source
+tags: [ "open source" ]
 ---
 
 ##18:19 Monday 26 September 2005

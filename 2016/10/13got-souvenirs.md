@@ -1,6 +1,6 @@
 ---
 title: got souvenirs
-tags: prezzies
+tags: [ "prezzies" ]
 author: Rob Nugen
 date: 2016-10-13T11:56:40+09:00
 ---

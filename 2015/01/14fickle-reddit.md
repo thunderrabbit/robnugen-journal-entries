@@ -1,6 +1,6 @@
 ---
 title: Fickle Reddit
-tags: haha
+tags: [ "haha" ]
 author: Rob Nugen
 date: 2015-01-14
 ---

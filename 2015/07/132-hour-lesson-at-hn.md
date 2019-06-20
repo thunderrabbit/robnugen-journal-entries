@@ -1,6 +1,6 @@
 ---
 title: 2 hour lesson at HN
-tags: teachin
+tags: [ "teachin" ]
 author: Rob Nugen
 date: 2015-07-13T15:25:12+09:00
 ---

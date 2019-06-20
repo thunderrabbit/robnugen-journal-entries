@@ -1,6 +1,6 @@
 ---
 title: Hopefully finished CB testing
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-06-12T12:41:44+09:00
 ---

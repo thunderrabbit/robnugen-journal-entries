@@ -2,7 +2,7 @@
 date: 2012-06-19T20:42:38+09:00
 slug: sweet-submission-success
 title: sweet submission success
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##20:42 Tuesday 19 June 2012

@@ -2,7 +2,7 @@
 date: 2012-09-16T10:57:30+09:00
 slug: youre-better-off-using-your-brain
 title: you're better off using your brain
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##10:57 Sunday 16 September 2012

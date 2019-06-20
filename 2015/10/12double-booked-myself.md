@@ -1,6 +1,6 @@
 ---
 title: double-booked myself
-tags: dammit
+tags: [ "dammit" ]
 author: Rob Nugen
 date: 2015-10-12T07:56:53+09:00
 ---

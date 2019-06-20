@@ -1,6 +1,6 @@
 ---
 title: Today's date is an anagram for today's date!!
-tags: silly
+tags: [ "silly" ]
 author: Rob Nugen
 date: 2014-12-04
 ---

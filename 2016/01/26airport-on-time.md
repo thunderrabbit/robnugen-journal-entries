@@ -1,6 +1,6 @@
 ---
 title: Airport on time
-tags: lax
+tags: [ "lax" ]
 author: Rob Nugen
 date: 2016-01-26T06:40:29+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: art in the park
-tags: art
+tags: [ "art" ]
 author: Rob Nugen
 date: 2016-06-22T16:11:58+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Great lesson with SS today
-tags: ss
+tags: [ "ss" ]
 author: Rob Nugen
 date: 2016-04-19T12:03:19+09:00
 ---

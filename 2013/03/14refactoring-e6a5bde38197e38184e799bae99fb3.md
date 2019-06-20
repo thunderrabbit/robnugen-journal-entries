@@ -2,7 +2,7 @@
 date: 2013-03-14T22:17:13+09:00
 slug: refactoring-%e6%a5%bd%e3%81%97%e3%81%84%e7%99%ba%e9%9f%b3
 title: refactoring 楽しい発音
-tags: programming
+tags: [ "programming" ]
 ---
 
 ##22:17 Thursday 14 March 2013

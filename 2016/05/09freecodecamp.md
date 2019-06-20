@@ -1,6 +1,6 @@
 ---
 title: Free Code Camp
-tags: freecodecamp
+tags: [ "freecodecamp" ]
 author: Rob Nugen
 date: 2016-05-09T18:31:04+09:00
 ---

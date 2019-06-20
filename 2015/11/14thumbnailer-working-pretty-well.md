@@ -1,6 +1,6 @@
 ---
 title: Thumbnailer working pretty well
-tags: thumbs
+tags: [ "thumbs" ]
 author: Rob Nugen
 date: 2015-11-14T20:01:19+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mac Cam
-tags: moejoe
+tags: [ "moejoe" ]
 author: Rob Nugen
 date: 2016-12-10T01:33:35+09:00
 ---

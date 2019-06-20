@@ -2,7 +2,7 @@
 date: 2012-04-25T18:52:07+09:00
 slug: not-city-siri
 title: Not city - Siri!
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##18:52 Wednesday 25 April 2012

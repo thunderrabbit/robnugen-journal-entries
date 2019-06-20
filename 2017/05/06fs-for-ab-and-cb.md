@@ -1,6 +1,6 @@
 ---
 title: FS for AB and CB
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-05-06T09:32:54+09:00
 ---

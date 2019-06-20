@@ -1,6 +1,6 @@
 ---
 title: Big maze at toy store
-tags: maze
+tags: [ "maze" ]
 author: Rob Nugen
 date: 2015-12-15T18:44:04+09:00
 ---

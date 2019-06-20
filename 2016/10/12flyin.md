@@ -1,6 +1,6 @@
 ---
 title: flyin
-tags: flight
+tags: [ "flight" ]
 categories:
   - travel
 author: Rob Nugen

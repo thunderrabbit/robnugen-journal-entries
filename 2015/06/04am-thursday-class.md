@@ -1,6 +1,6 @@
 ---
 title: AM Thursday class
-tags: class
+tags: [ "class" ]
 author: Rob Nugen
 date: 2015-06-04T07:04:09+09:00
 ---

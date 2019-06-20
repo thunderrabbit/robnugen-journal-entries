@@ -1,6 +1,6 @@
 ---
 title: Fred's car got towed
-tags: moejoe
+tags: [ "moejoe" ]
 author: Rob Nugen
 date: 2016-01-28T11:40:00+09:00
 ---

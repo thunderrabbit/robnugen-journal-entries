@@ -1,6 +1,6 @@
 ---
 title: Invoice template
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2015-12-15T18:42:46+09:00
 ---

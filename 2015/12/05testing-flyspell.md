@@ -1,6 +1,6 @@
 ---
 title: Testing flyspell
-tags: flyspell
+tags: [ "flyspell" ]
 author: Rob Nugen
 date: 2015-12-05T19:18:39+09:00
 ---

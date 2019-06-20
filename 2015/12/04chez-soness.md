@@ -1,6 +1,6 @@
 ---
 title: Chez Soness
-tags: soness
+tags: [ "soness" ]
 author: Rob Nugen
 date: 2015-12-04T11:45:03+09:00
 ---

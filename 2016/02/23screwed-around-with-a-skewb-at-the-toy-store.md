@@ -1,6 +1,6 @@
 ---
 title: screwed around with a Skewb at the toy store
-tags: skewb
+tags: [ "skewb" ]
 author: Rob Nugen
 date: 2016-02-23T18:34:20+09:00
 ---

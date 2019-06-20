@@ -1,6 +1,6 @@
 ---
 title: New shelves
-tags: room
+tags: [ "room" ]
 author: Rob Nugen
 date: 2016-12-30T14:40:33+09:00
 ---

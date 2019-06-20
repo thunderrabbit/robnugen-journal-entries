@@ -2,7 +2,7 @@
 date: 2012-02-05T18:10:33+09:00
 slug: new-table
 title: New table
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##18:10 Sunday 05 February 2012

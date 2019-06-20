@@ -1,6 +1,6 @@
 ---
 title: The List
-tags: list
+tags: [ "list" ]
 author: Rob Nugen
 date: 2016-09-15T11:41:52+09:00
 ---

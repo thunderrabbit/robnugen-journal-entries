@@ -1,6 +1,6 @@
 ---
 title: Dreamhost will soon support Let's Encrypt!
-tags: yay
+tags: [ "yay" ]
 author: Rob Nugen
 date: 2015-12-31T20:37:21+09:00
 ---

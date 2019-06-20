@@ -1,6 +1,6 @@
 ---
 title: chillin with Travis and Yumi
-tags: travis
+tags: [ "travis" ]
 author: Rob Nugen
 date: 2015-05-04T15:09:00+09:00
 ---

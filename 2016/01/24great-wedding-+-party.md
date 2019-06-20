@@ -1,6 +1,6 @@
 ---
 title: great wedding + party
-tags: wedding
+tags: [ "wedding" ]
 author: Rob Nugen
 date: 2016-01-24T23:23:39+09:00
 ---

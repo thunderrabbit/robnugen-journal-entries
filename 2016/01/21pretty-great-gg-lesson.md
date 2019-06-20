@@ -1,6 +1,6 @@
 ---
 title: pretty great GG lesson
-tags: lesson
+tags: [ "lesson" ]
 author: Rob Nugen
 date: 2016-01-21T20:44:25+09:00
 ---

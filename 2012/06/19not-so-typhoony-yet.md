@@ -2,7 +2,7 @@
 date: 2012-06-19T21:18:14+09:00
 slug: not-so-typhoony-yet
 title: not so typhoony (yet?)
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##21:18 Tuesday 19 June 2012

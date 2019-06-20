@@ -1,6 +1,6 @@
 ---
 title: upgrading my wiki
-tags: wiki
+tags: [ "wiki" ]
 author: Rob Nugen
 date: 2016-09-17T11:03:12+09:00
 ---

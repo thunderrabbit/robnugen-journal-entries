@@ -1,6 +1,6 @@
 ---
 title: Dream fred
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2003-01-08
 ---

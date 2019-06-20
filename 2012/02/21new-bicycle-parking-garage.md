@@ -2,7 +2,7 @@
 date: 2012-02-21T20:31:41+09:00
 slug: new-bicycle-parking-garage
 title: new bicycle parking garage
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##20:31 Tuesday 21 February 2012

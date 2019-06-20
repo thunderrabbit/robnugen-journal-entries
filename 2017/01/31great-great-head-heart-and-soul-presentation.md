@@ -1,6 +1,6 @@
 ---
 title: Great great Head Heart and Soul presentation
-tags: mkp
+tags: [ "mkp" ]
 author: Rob Nugen
 date: 2017-01-31T22:55:24+09:00
 ---

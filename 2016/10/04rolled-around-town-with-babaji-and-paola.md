@@ -1,6 +1,6 @@
 ---
 title: Rolled around town with Babaji and Paola
-tags: guru
+tags: [ "guru" ]
 author: Rob Nugen
 date: 2016-10-04T13:01:47+09:00
 ---

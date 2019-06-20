@@ -1,6 +1,6 @@
 ---
 title: Just realized something about my dream
-tags: wow
+tags: [ "wow" ]
 author: Rob Nugen
 date: 2015-01-07
 ---

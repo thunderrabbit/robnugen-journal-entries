@@ -1,6 +1,6 @@
 ---
 title: Dream
-tags: spinning
+tags: [ "spinning" ]
 author: Rob Nugen
 date: 2015-02-08T07:07:37+09:00
 ---

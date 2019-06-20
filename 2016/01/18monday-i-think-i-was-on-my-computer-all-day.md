@@ -1,6 +1,6 @@
 ---
 title: Monday I think I was on my computer all day
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2016-01-18T20:57:48+09:00
 ---

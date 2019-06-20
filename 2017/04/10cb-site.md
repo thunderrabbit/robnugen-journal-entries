@@ -1,6 +1,6 @@
 ---
 title: CB site
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-04-10T23:58:48+09:00
 ---

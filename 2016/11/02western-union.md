@@ -1,6 +1,6 @@
 ---
 title: western union
-tags: monies
+tags: [ "monies" ]
 author: Rob Nugen
 date: 2016-11-02T12:59:26+09:00
 ---

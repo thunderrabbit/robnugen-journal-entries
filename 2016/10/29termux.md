@@ -1,6 +1,6 @@
 ---
 title: termux
-tags: termux
+tags: [ "termux" ]
 author: Rob Nugen
 date: 2016-10-29T00:48:42+09:00
 ---

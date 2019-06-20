@@ -2,7 +2,7 @@
 date: 2013-03-20T18:02:00+09:00
 slug: watched-youve-got-mail
 title: watched You've Got Mail
-tags: movies
+tags: [ "movies" ]
 ---
 
 ##18:02 Wednesday 20 March 2013

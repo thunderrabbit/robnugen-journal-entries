@@ -1,6 +1,6 @@
 ---
 title: CB is moving away
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-06-14T12:17:59+09:00
 ---

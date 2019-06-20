@@ -1,6 +1,6 @@
 ---
 title: Nearly finished White Dots
-tags: art
+tags: [ "art" ]
 author: Rob Nugen
 date: 2015-12-16T16:18:56+09:00
 ---

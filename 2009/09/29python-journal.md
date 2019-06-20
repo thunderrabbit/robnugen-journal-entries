@@ -1,6 +1,6 @@
 ---
 title: Python Journal
-tags: journal
+tags: [ "journal" ]
 author: Rob Nugen
 date: 2009-09-29T11:38:29+09:00
 ---

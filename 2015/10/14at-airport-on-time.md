@@ -1,6 +1,6 @@
 ---
 title: At airport on time
-tags: nrt
+tags: [ "nrt" ]
 author: Rob Nugen
 date: 2015-10-14T07:55:11+09:00
 ---

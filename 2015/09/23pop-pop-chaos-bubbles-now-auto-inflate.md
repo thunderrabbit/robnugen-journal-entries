@@ -1,6 +1,6 @@
 ---
 title: Pop Pop Chaos bubbles now auto-inflate!
-tags: poppopchaos
+tags: [ "poppopchaos" ]
 author: Rob Nugen
 date: 2015-09-23T20:19:07+09:00
 ---

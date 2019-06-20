@@ -1,6 +1,6 @@
 ---
 title: I wonder if Travis got a new computer...
-tags: hmm
+tags: [ "hmm" ]
 author: Rob Nugen
 date: 2015-12-02T15:00:52+09:00
 ---

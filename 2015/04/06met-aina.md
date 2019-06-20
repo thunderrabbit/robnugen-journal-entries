@@ -1,6 +1,6 @@
 ---
 title: Met Aina
-tags: aina
+tags: [ "aina" ]
 author: Rob Nugen
 date: 2015-04-06T18:48:00+09:00
 ---

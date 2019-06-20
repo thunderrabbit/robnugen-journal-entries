@@ -1,6 +1,6 @@
 ---
 title: my bare feet and I were on TV
-tags: feet
+tags: [ "feet" ]
 author: Rob Nugen
 date: 2016-05-09T18:48:35+09:00
 ---

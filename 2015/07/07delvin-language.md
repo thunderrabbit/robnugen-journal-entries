@@ -1,6 +1,6 @@
 ---
 title: Delvin Language
-tags: japanese
+tags: [ "japanese" ]
 author: Rob Nugen
 date: 2015-07-07T08:55:33+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: New House Status
-tags: house
+tags: [ "house" ]
 author: Rob Nugen
 date: 2016-06-11T21:59:34+09:00
 ---

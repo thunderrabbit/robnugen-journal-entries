@@ -1,6 +1,6 @@
 ---
 title: Coined スマホゾ
-tags: word
+tags: [ "word" ]
 author: Rob Nugen
 date: 2015-06-09T08:48:58+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cheat at live MD5 count
-tags: livemd5
+tags: [ "livemd5" ]
 author: Rob Nugen
 date: 2014-11-14
 ---

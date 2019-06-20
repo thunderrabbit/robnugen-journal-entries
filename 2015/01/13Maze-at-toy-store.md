@@ -1,6 +1,6 @@
 ---
 title: Maze toy at toy store
-tags: toys
+tags: [ "toys" ]
 author: Rob Nugen
 date: 2015-01-13
 ---

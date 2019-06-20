@@ -1,6 +1,6 @@
 ---
 title: Mt Fuji's 'recent' eruption
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-05-17T09:19:43+09:00
 ---

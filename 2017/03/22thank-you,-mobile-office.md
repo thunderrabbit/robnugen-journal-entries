@@ -1,6 +1,6 @@
 ---
 title: thank you, mobile office
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-03-22T14:51:25+09:00
 ---

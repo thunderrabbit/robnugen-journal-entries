@@ -1,6 +1,6 @@
 ---
 title: saved an umbrella's life
-tags: umbrella
+tags: [ "umbrella" ]
 author: Rob Nugen
 date: 2015-04-14T16:53:32+09:00
 ---

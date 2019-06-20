@@ -1,6 +1,6 @@
 ---
 title: zzzz feinstein house
-tags: sleepy
+tags: [ "sleepy" ]
 author: Rob Nugen
 date: 2002-11-15
 ---

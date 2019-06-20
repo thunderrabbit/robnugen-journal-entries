@@ -1,6 +1,6 @@
 ---
 title: Dream teach massage offer
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2015-10-24T05:07:17+09:00
 ---

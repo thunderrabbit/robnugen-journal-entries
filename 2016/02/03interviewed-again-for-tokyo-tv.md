@@ -1,6 +1,6 @@
 ---
 title: interviewed again for Tokyo TV
-tags: tv
+tags: [ "tv" ]
 author: Rob Nugen
 date: 2016-02-03T16:03:32+09:00
 ---

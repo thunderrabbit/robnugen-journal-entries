@@ -1,6 +1,6 @@
 ---
 title: Dream bought dragon playground for my room
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2016-11-05T09:51:39+09:00
 ---

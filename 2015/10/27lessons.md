@@ -1,6 +1,6 @@
 ---
 title: lessons
-tags: mkp
+tags: [ "mkp" ]
 author: Rob Nugen
 date: 2015-10-27T21:50:05+09:00
 ---

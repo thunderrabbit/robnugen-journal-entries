@@ -1,6 +1,6 @@
 ---
 title: bash one liner
-tags: bash
+tags: [ "bash" ]
 author: Rob Nugen
 date: 2017-04-25T08:32:34+09:00
 ---

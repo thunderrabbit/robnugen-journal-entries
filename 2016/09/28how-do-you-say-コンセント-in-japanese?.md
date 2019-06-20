@@ -1,6 +1,6 @@
 ---
 title: how do you say コンセント in Japanese?
-tags: power
+tags: [ "power" ]
 author: Rob Nugen
 date: 2016-09-28T12:34:48+09:00
 ---

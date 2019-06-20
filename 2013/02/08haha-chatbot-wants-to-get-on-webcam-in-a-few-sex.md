@@ -2,7 +2,7 @@
 date: 2013-02-08T13:26:51+09:00
 slug: haha-chatbot-wants-to-get-on-webcam-in-a-few-sex
 title: haha chatbot wants to get on webcam in a few sex
-tags: technology
+tags: [ "technology" ]
 ---
 
 ##13:26 Friday 08 February 2013

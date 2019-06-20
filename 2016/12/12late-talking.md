@@ -1,6 +1,6 @@
 ---
 title: late talking
-tags: sleepy
+tags: [ "sleepy" ]
 author: Rob Nugen
 date: 2016-12-12T00:24:37+09:00
 ---

@@ -2,7 +2,7 @@
 date: 2005-10-01T01:39:45+09:00
 slug: magnetic-microchips
 title: Magnetic Microchips
-tags: technology
+tags: [ "technology" ]
 ---
 
 ##01:39 Saturday 01 October 2005

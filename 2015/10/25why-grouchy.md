@@ -1,6 +1,6 @@
 ---
 title: why grouchy
-tags: grr
+tags: [ "grr" ]
 author: Rob Nugen
 date: 2015-10-25T12:40:32+09:00
 ---

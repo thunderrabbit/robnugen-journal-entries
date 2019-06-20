@@ -1,6 +1,6 @@
 ---
 title: thursday lesson at Kawasaki Daishi
-tags: lesson
+tags: [ "lesson" ]
 author: Rob Nugen
 date: 2014-12-11
 ---

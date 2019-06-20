@@ -1,6 +1,6 @@
 ---
 title: Japanese class
-tags: english
+tags: [ "english" ]
 author: Rob Nugen
 date: 2015-05-11T22:43:31+09:00
 ---

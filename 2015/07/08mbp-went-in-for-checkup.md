@@ -1,6 +1,6 @@
 ---
 title: MBP went in for checkup
-tags: cute
+tags: [ "cute" ]
 author: Rob Nugen
 date: 2015-07-08T12:51:11+09:00
 ---

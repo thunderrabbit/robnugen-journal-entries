@@ -1,6 +1,6 @@
 ---
 title: moe joe work not working
-tags: bah
+tags: [ "bah" ]
 author: Rob Nugen
 date: 2017-02-05T06:39:04+09:00
 ---

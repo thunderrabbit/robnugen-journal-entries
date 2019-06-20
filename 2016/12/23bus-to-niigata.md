@@ -1,6 +1,6 @@
 ---
 title: Bus to Niigata
-tags: bus
+tags: [ "bus" ]
 author: Rob Nugen
 date: 2016-12-23T08:00:12+09:00
 ---

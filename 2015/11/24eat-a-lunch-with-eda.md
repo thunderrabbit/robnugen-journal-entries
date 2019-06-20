@@ -1,6 +1,6 @@
 ---
 title: eat a lunch with Eda
-tags: eda
+tags: [ "eda" ]
 author: Rob Nugen
 date: 2015-11-24T18:40:26+09:00
 ---

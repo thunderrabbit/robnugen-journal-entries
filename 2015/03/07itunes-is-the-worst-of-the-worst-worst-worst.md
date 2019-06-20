@@ -1,6 +1,6 @@
 ---
 title: iTunes is the worst of the worst worst worst
-tags: hate
+tags: [ "hate" ]
 author: Rob Nugen
 date: 2015-03-07T10:33:00+09:00
 ---

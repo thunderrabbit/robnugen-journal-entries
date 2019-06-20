@@ -1,6 +1,6 @@
 ---
 title: dang middleman error
-tags: middleman
+tags: [ "middleman" ]
 author: Rob Nugen
 date: 2015-02-18T18:53:00+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: back to work
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-01-04T11:01:02+09:00
 ---

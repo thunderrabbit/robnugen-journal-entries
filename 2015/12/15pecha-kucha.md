@@ -1,6 +1,6 @@
 ---
 title: Pecha Kucha?
-tags: pk
+tags: [ "pk" ]
 author: Rob Nugen
 date: 2015-12-15T11:10:56+09:00
 ---

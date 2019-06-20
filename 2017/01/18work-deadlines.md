@@ -1,6 +1,6 @@
 ---
 title: work deadlines
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-01-18T12:26:31+09:00
 ---

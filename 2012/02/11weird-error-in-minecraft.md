@@ -2,7 +2,7 @@
 date: 2012-02-11T11:46:23+09:00
 slug: weird-error-in-minecraft
 title: weird error in minecraft
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##11:46 Saturday 11 February 2012

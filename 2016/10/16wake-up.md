@@ -1,6 +1,6 @@
 ---
 title: wake up
-tags: sleepy
+tags: [ "sleepy" ]
 author: Rob Nugen
 date: 2016-10-16T06:27:35+09:00
 ---

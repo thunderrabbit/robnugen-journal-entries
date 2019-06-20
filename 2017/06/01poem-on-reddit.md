@@ -1,6 +1,6 @@
 ---
 title: poem on Reddit
-tags: art
+tags: [ "art" ]
 author: Rob Nugen
 date: 2017-06-01T14:25:11+09:00
 ---

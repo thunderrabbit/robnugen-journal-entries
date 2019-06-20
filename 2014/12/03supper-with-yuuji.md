@@ -1,6 +1,6 @@
 ---
 title: Supper with Yuuji
-tags: food
+tags: [ "food" ]
 author: Rob Nugen
 date: 2014-12-03
 ---

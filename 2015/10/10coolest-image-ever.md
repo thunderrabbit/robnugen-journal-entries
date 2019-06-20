@@ -1,6 +1,6 @@
 ---
 title: Coolest image ever
-tags: soundcloud
+tags: [ "soundcloud" ]
 author: Rob Nugen
 date: 2015-10-10T18:09:22+09:00
 ---

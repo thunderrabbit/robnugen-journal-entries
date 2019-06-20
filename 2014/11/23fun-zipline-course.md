@@ -1,6 +1,6 @@
 ---
 title: fun zipline course
-tags: zipline
+tags: [ "zipline" ]
 author: Rob Nugen
 date: 2014-11-23
 ---

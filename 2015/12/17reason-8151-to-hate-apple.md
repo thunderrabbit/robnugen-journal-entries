@@ -1,6 +1,6 @@
 ---
 title: Reasons 8,150 and 8,151 to hate Apple
-tags: finder
+tags: [ "finder" ]
 author: Rob Nugen
 date: 2015-12-17T10:27:09+09:00
 ---

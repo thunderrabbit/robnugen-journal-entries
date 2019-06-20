@@ -1,6 +1,6 @@
 ---
 title: Made toy car at toy store
-tags: fun
+tags: [ "fun" ]
 author: Rob Nugen
 date: 2014-12-16
 ---

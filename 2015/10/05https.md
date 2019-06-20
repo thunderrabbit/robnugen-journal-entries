@@ -1,6 +1,6 @@
 ---
 title: https://new.robnugen.com
-tags: https
+tags: [ "https" ]
 author: Rob Nugen
 date: 2015-10-05T09:37:31+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: bitcoin donations accepted
-tags: btc
+tags: [ "btc" ]
 author: Rob Nugen
 date: 2015-10-14T04:48:05+09:00
 ---

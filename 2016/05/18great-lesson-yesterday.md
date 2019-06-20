@@ -1,6 +1,6 @@
 ---
 title: Great lesson yesterday
-tags: ss
+tags: [ "ss" ]
 author: Rob Nugen
 date: 2016-05-18T10:35:36+09:00
 ---

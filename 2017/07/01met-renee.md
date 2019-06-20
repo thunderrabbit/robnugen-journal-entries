@@ -1,6 +1,6 @@
 ---
 title: met Renée
-tags: renee
+tags: [ "renee" ]
 author: Rob Nugen
 date: 2017-07-01T01:47:01+09:00
 ---

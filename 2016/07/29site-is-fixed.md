@@ -1,6 +1,6 @@
 ---
 title: site is fixed (except where it's not)
-tags: site
+tags: [ "site" ]
 author: Rob Nugen
 date: 2016-07-29T09:50:37+09:00
 ---

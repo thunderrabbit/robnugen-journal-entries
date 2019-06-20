@@ -1,6 +1,6 @@
 ---
 title: created security group on AWS with Ansible
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2016-07-05T09:35:16+09:00
 ---

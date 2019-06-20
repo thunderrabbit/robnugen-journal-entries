@@ -1,6 +1,6 @@
 ---
 title: A-star
-tags: sexy
+tags: [ "sexy" ]
 author: Rob Nugen
 date: 2016-01-23T01:15:25+09:00
 ---

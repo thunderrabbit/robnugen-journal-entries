@@ -1,6 +1,6 @@
 ---
 title: Adobe spam
-tags: spam
+tags: [ "spam" ]
 author: Rob Nugen
 date: 2014-12-31
 ---

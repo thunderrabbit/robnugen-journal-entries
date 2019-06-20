@@ -1,6 +1,6 @@
 ---
 title: Eminem dream
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2002-10-11
 ---

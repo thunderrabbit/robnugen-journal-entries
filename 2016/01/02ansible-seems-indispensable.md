@@ -1,6 +1,6 @@
 ---
 title: Ansible seems indispensable
-tags: nice
+tags: [ "nice" ]
 author: Rob Nugen
 date: 2016-01-02T22:40:32+09:00
 ---

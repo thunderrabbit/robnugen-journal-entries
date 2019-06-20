@@ -1,6 +1,6 @@
 ---
 title: watching the interview
-tags: movie
+tags: [ "movie" ]
 author: Rob Nugen
 date: 2014-12-25
 ---

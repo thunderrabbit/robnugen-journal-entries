@@ -2,7 +2,7 @@
 date: 2006-04-01T20:50:19+09:00
 slug: radio
 title: Radio
-tags: news
+tags: [ "news" ]
 ---
 
 ##20:50 Saturday 01 April 2006

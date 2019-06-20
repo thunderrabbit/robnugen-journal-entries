@@ -1,6 +1,6 @@
 ---
 title: Fixing a bug and setting up automagic tests
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2016-01-05T02:51:07+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: mornin'
-tags: soml
+tags: [ "soml" ]
 author: Rob Nugen
 date: 2017-03-16T07:35:33+09:00
 ---

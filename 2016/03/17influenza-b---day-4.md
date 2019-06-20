@@ -1,6 +1,6 @@
 ---
 title: Influenza B - day 4
-tags: sick
+tags: [ "sick" ]
 author: Rob Nugen
 date: 2016-03-17T08:02:32+09:00
 ---

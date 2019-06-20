@@ -1,6 +1,6 @@
 ---
 title: Applied for house loan
-tags: house
+tags: [ "house" ]
 author: Rob Nugen
 date: 2016-02-17T07:06:51+09:00
 ---

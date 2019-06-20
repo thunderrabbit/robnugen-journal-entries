@@ -1,6 +1,6 @@
 ---
 title: Wow car was faster on the way back
-tags: wow
+tags: [ "wow" ]
 author: Rob Nugen
 date: 2015-11-22T12:40:01+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: productive yesterday
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2016-09-27T04:57:58+09:00
 ---

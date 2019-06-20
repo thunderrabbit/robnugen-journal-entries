@@ -1,6 +1,6 @@
 ---
 title: busy work
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2016-12-09T09:48:34+09:00
 ---

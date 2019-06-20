@@ -1,6 +1,6 @@
 ---
 title: work work workin
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2016-03-29T12:18:04+09:00
 ---

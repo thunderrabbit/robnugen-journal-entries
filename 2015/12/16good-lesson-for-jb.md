@@ -1,6 +1,6 @@
 ---
 title: Good lesson for JB
-tags: lesson
+tags: [ "lesson" ]
 author: Rob Nugen
 date: 2015-12-16T18:23:51+09:00
 ---

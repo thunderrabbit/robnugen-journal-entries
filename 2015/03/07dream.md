@@ -1,6 +1,6 @@
 ---
 title: dreams, including being rich
-tags: dreams
+tags: [ "dreams" ]
 author: Rob Nugen
 date: 2015-03-07T06:01:00+09:00
 ---

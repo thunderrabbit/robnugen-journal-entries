@@ -2,7 +2,7 @@
 date: 2013-05-10T18:28:24+09:00
 slug: designing-a-prevnext-class
 title: Designing a prevnext class
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##18:28 Friday 10 May 2013

@@ -1,6 +1,6 @@
 ---
 title: Good I-group tonight
-tags: yay
+tags: [ "yay" ]
 author: Rob Nugen
 date: 2015-11-16T21:53:52+09:00
 ---

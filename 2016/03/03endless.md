@@ -1,6 +1,6 @@
 ---
 title: endless
-tags: art
+tags: [ "art" ]
 author: Rob Nugen
 date: 2016-03-03T23:31:24+09:00
 ---

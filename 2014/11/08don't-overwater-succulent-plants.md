@@ -1,6 +1,6 @@
 ---
 title: Don't overwater succulent plants
-tags: plants
+tags: [ "plants" ]
 author: Rob Nugen
 date: 2014-11-08
 ---

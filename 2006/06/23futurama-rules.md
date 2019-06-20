@@ -2,7 +2,7 @@
 date: 2006-06-23T15:00:43+09:00
 slug: futurama-rules
 title: Futurama Rules!!!!
-tags: news
+tags: [ "news" ]
 ---
 
 ##15:00 Friday 23 June 2006

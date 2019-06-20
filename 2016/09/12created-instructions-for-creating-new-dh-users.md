@@ -1,6 +1,6 @@
 ---
 title: Created instructions for creating new DH users
-tags: dreamhost
+tags: [ "dreamhost" ]
 author: Rob Nugen
 date: 2016-09-12T23:13:14+09:00
 ---

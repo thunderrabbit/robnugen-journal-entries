@@ -1,6 +1,6 @@
 ---
 title: Cloudflare- no SSL for you!
-tags: haha
+tags: [ "haha" ]
 author: Rob Nugen
 date: 2014-10-31
 ---

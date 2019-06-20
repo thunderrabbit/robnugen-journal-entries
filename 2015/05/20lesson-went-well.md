@@ -1,6 +1,6 @@
 ---
 title: lesson went well
-tags: lesson
+tags: [ "lesson" ]
 author: Rob Nugen
 date: 2015-05-20T10:11:44+09:00
 ---

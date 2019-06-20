@@ -2,7 +2,7 @@
 date: 2009-03-09T11:55:31+09:00
 slug: need-a-job
 title: need a job?
-tags: news
+tags: [ "news" ]
 ---
 
 ##11:55 Monday 09 March 2009

@@ -1,6 +1,6 @@
 ---
 title: Mayが始めた / State of My Life Address
-tags: soml
+tags: [ "soml" ]
 author: Rob Nugen
 date: 2016-05-01T08:45:01+09:00
 ---

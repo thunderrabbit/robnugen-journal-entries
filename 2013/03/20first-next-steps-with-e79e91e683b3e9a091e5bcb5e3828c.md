@@ -2,7 +2,7 @@
 date: 2013-03-20T18:25:55+09:00
 slug: first-next-steps-with-%e7%9e%91%e6%83%b3%e9%a0%91%e5%bc%b5%e3%82%8c
 title: first next steps with 瞑想頑張れ
-tags: meisogambare
+tags: [ "meisogambare" ]
 ---
 
 ##18:25 Wednesday 20 March 2013

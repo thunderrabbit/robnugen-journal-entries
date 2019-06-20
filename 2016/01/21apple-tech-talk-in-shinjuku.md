@@ -1,6 +1,6 @@
 ---
 title: Apple tech talk in Shinjuku
-tags: apple
+tags: [ "apple" ]
 author: Rob Nugen
 date: 2016-01-21T11:31:47+09:00
 ---

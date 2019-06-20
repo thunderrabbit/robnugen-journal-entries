@@ -1,6 +1,6 @@
 ---
 title: Ghost Inspector 1000 tests per month yay
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2016-01-11T12:09:34+09:00
 ---

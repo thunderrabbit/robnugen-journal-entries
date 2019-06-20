@@ -1,6 +1,6 @@
 ---
 title: TY, T!
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-04-29T09:26:58+09:00
 ---

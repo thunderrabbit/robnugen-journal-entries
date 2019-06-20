@@ -1,6 +1,6 @@
 ---
 title: Toy shop near M and M lesson
-tags: puzzle
+tags: [ "puzzle" ]
 author: Rob Nugen
 date: 2014-11-25
 ---

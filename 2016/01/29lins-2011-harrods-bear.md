@@ -1,6 +1,6 @@
 ---
 title: Lin's 2011 Harrod's bear
-tags: bear
+tags: [ "bear" ]
 author: Rob Nugen
 date: 2016-01-29T09:22:40+09:00
 ---

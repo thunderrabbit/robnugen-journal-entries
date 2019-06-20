@@ -1,6 +1,6 @@
 ---
 title: met Noah, Ivan, Chiaki, Nancy, and Max for lunch
-tags: noah
+tags: [ "noah" ]
 author: Rob Nugen
 date: 2016-01-30T14:59:17+09:00
 ---

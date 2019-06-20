@@ -2,7 +2,7 @@
 date: 2012-03-31T20:44:15+09:00
 slug: my-first-for-sale-maze
 title: My first for sale maze
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##20:44 Saturday 31 March 2012

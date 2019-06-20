@@ -1,6 +1,6 @@
 ---
 title: Pop Pop Chaos has four peeps on high score list
-tags: pop pop chaos
+tags: [ "pop pop chaos" ]
 author: Rob Nugen
 date: 2015-10-13T11:39:56+09:00
 ---

@@ -2,7 +2,7 @@
 date: 2012-06-30T12:03:23+09:00
 slug: out-to-dry
 title: Out to dry
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##12:03 Saturday 30 June 2012

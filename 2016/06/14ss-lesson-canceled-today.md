@@ -1,6 +1,6 @@
 ---
 title: SS lesson canceled today
-tags: lesson
+tags: [ "lesson" ]
 author: Rob Nugen
 date: 2016-06-14T07:55:44+09:00
 ---

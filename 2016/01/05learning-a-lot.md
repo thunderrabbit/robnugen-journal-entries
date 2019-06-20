@@ -1,6 +1,6 @@
 ---
 title: Learning a lot about AWS
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2016-01-05T23:51:07+09:00
 ---

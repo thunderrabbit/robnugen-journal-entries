@@ -1,6 +1,6 @@
 ---
 title: Fun maze idea
-tags: maze
+tags: [ "maze" ]
 author: Rob Nugen
 date: 2015-02-18T18:30:00+09:00
 ---

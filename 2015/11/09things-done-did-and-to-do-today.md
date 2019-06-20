@@ -1,6 +1,6 @@
 ---
 title: things done did and to do today
-tags: todo
+tags: [ "todo" ]
 author: Rob Nugen
 date: 2015-11-09T16:29:23+09:00
 ---

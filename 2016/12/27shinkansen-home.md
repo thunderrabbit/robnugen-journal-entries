@@ -1,6 +1,6 @@
 ---
 title: shinkansen home
-tags: bullet train
+tags: [ "bullet train" ]
 author: Rob Nugen
 date: 2016-12-25T14:37:05+09:00
 ---

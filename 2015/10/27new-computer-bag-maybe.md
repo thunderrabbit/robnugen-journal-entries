@@ -1,6 +1,6 @@
 ---
 title: new computer bag maybe
-tags: bag
+tags: [ "bag" ]
 author: Rob Nugen
 date: 2015-10-27T21:57:34+09:00
 ---

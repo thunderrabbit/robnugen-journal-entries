@@ -2,7 +2,7 @@
 date: 2012-11-18T19:08:04+09:00
 slug: yoyogi-park-with-tazra-et-al
 title: Yoyogi Park with Tazra et. al.
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##19:08 Sunday 18 November 2012

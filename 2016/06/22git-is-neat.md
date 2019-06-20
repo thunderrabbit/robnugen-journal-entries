@@ -1,6 +1,6 @@
 ---
 title: git is neat
-tags: git
+tags: [ "git" ]
 author: Rob Nugen
 date: 2016-06-22T21:31:32+09:00
 ---

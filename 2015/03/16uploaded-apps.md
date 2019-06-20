@@ -1,6 +1,6 @@
 ---
 title: uploaded apps
-tags: apps
+tags: [ "apps" ]
 author: Rob Nugen
 date: 2015-03-16T13:42:00+09:00
 ---

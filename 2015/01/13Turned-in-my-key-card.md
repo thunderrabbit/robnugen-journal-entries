@@ -1,6 +1,6 @@
 ---
 title: Turned in my key card
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2015-01-13
 ---

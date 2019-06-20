@@ -1,6 +1,6 @@
 ---
 title: Good lessons with SS
-tags: lessons
+tags: [ "lessons" ]
 author: Rob Nugen
 date: 2015-12-15T21:44:30+09:00
 ---

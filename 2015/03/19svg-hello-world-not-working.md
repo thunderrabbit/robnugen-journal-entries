@@ -1,6 +1,6 @@
 ---
 title: svg hello world not working
-tags: hmmm
+tags: [ "hmmm" ]
 author: Rob Nugen
 date: 2015-03-19T18:03:00+09:00
 ---

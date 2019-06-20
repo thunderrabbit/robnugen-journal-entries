@@ -2,7 +2,7 @@
 date: 2005-10-14T15:30:09+09:00
 slug: general-relativity-versus-newton
 title: General relativity versus Newton
-tags: astronomy
+tags: [ "astronomy" ]
 ---
 
 ##15:30 Friday 14 October 2005

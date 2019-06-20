@@ -1,6 +1,6 @@
 ---
 title: student no show or something or both
-tags: nope
+tags: [ "nope" ]
 author: Rob Nugen
 date: 2015-04-18T10:35:11+09:00
 ---

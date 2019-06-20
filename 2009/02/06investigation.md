@@ -2,7 +2,7 @@
 date: 2009-02-06T03:21:31+09:00
 slug: investigation
 title: investigation
-tags: news
+tags: [ "news" ]
 ---
 
 ##03:21 Friday 06 February 2009

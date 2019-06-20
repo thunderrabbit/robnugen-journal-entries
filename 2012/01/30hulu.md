@@ -2,7 +2,7 @@
 date: 2012-01-30T01:01:32+09:00
 slug: hulu
 title: Hulu
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##01:01 Monday 30 January 2012

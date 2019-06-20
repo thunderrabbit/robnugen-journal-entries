@@ -1,6 +1,6 @@
 ---
 title: email to Gary
-tags: owlchaser
+tags: [ "owlchaser" ]
 author: Rob Nugen
 date: 2016-02-25T07:27:24+09:00
 ---

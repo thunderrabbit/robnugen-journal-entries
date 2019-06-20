@@ -1,6 +1,6 @@
 ---
 title: excited about presenting Head Heart and Soul
-tags: hhs
+tags: [ "hhs" ]
 author: Rob Nugen
 date: 2016-11-07T12:57:25+09:00
 ---

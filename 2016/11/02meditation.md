@@ -1,6 +1,6 @@
 ---
 title: meditation
-tags: meiso
+tags: [ "meiso" ]
 author: Rob Nugen
 date: 2016-11-02T11:17:33+09:00
 ---

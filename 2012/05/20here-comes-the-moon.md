@@ -2,7 +2,7 @@
 date: 2012-05-20T09:13:08+09:00
 slug: here-comes-the-moon
 title: here comes the moon
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##09:13 Sunday 20 May 2012

@@ -1,6 +1,6 @@
 ---
 title: aw man
-tags: oops
+tags: [ "oops" ]
 author: Rob Nugen
 date: 2016-07-27T12:38:29+09:00
 ---

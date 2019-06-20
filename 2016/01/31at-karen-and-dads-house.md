@@ -1,6 +1,6 @@
 ---
 title: At Karen and Dad's house
-tags: chillin
+tags: [ "chillin" ]
 author: Rob Nugen
 date: 2016-01-31T18:05:52+09:00
 ---

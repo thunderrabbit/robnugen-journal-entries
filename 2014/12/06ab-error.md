@@ -1,6 +1,6 @@
 ---
 title: AB error
-tags: bug
+tags: [ "bug" ]
 author: Rob Nugen
 date: 2014-12-06
 ---

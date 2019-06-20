@@ -2,7 +2,7 @@
 date: 2013-05-11T20:27:26+09:00
 slug: officially-started-marble-track-3-for-the-third-time
 title: Officially started Marble Track 3 (for the third time)
-tags: mt3
+tags: [ "mt3" ]
 ---
 
 ##20:27 Saturday 11 May 2013

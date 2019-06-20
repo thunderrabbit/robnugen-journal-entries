@@ -1,6 +1,6 @@
 ---
 title: back on track
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-04-29T14:34:18+09:00
 ---

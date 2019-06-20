@@ -1,6 +1,6 @@
 ---
 title: set up Twilio to call me in case of ...
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-06-05T14:04:14+09:00
 ---

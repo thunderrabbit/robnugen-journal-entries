@@ -2,7 +2,7 @@
 date: 2012-02-04T18:34:45+09:00
 slug: hurt
 title: Hurt
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##18:34 Saturday 04 February 2012

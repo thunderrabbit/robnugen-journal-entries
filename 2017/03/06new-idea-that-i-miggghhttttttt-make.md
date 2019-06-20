@@ -1,6 +1,6 @@
 ---
 title: new idea that I miggghhttttttt make
-tags: cloze
+tags: [ "cloze" ]
 author: Rob Nugen
 date: 2017-03-06T22:48:25+09:00
 ---

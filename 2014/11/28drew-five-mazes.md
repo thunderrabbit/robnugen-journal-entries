@@ -1,6 +1,6 @@
 ---
 title: Drew five mazes
-tags: mazes
+tags: [ "mazes" ]
 author: Rob Nugen
 date: 2014-11-28
 ---

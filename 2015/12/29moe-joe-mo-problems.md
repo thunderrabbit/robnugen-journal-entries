@@ -1,6 +1,6 @@
 ---
 title: Moe Joe mo problems
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2015-12-29T19:05:00+09:00
 ---

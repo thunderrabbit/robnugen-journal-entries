@@ -1,6 +1,6 @@
 ---
 title: Perilous Pipes
-tags: game
+tags: [ "game" ]
 author: Rob Nugen
 date: 2015-01-06
 ---

@@ -1,6 +1,6 @@
 ---
 title: posting pics in journal
-tags: journal
+tags: [ "journal" ]
 author: Rob Nugen
 date: 2014-12-21
 ---

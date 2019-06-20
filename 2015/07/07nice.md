@@ -1,6 +1,6 @@
 ---
 title: nice
-tags: nice
+tags: [ "nice" ]
 author: Rob Nugen
 date: 2015-07-07T16:59:45+09:00
 ---

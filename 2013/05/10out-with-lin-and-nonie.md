@@ -2,7 +2,7 @@
 date: 2013-05-10T22:25:11+09:00
 slug: out-with-lin-and-nonie
 title: Out with Lin and Nonie
-tags: nonie
+tags: [ "nonie" ]
 ---
 
 ##22:25 Friday 10 May 2013

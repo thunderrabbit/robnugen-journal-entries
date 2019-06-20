@@ -1,6 +1,6 @@
 ---
 title: babychan
-tags: lin
+tags: [ "lin" ]
 author: Rob Nugen
 date: 2017-03-06T22:45:56+09:00
 ---

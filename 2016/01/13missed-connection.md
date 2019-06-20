@@ -1,6 +1,6 @@
 ---
 title: Missed connection
-tags: kt
+tags: [ "kt" ]
 author: Rob Nugen
 date: 2016-01-13T16:31:40+09:00
 ---

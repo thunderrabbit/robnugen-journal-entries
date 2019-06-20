@@ -1,6 +1,6 @@
 ---
 title: lessons with Sarutachi
-tags: lessons
+tags: [ "lessons" ]
 author: Rob Nugen
 date: 2016-06-14T23:04:50+09:00
 ---

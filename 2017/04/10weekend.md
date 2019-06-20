@@ -1,6 +1,6 @@
 ---
 title: weekend
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-04-10T10:11:35+09:00
 ---

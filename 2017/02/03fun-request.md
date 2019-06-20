@@ -1,6 +1,6 @@
 ---
 title: fun request
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-02-03T18:55:54+09:00
 ---

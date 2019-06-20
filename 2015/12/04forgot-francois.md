@@ -1,6 +1,6 @@
 ---
 title: forgot Francois
-tags: doh
+tags: [ "doh" ]
 author: Rob Nugen
 date: 2015-12-04T11:44:18+09:00
 ---

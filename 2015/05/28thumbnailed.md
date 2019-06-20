@@ -1,6 +1,6 @@
 ---
 title: thumbnailed
-tags: images
+tags: [ "images" ]
 author: Rob Nugen
 date: 2015-05-28T01:31:10+09:00
 ---

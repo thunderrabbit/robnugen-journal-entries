@@ -1,6 +1,6 @@
 ---
 title: visa applications complete
-tags: visa
+tags: [ "visa" ]
 author: Rob Nugen
 date: 2016-06-22T16:06:56+09:00
 ---

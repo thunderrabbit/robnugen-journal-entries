@@ -1,6 +1,6 @@
 ---
 title: Jennie J!
-tags: friends
+tags: [ "friends" ]
 author: Rob Nugen
 date: 2017-04-24T23:11:43+09:00
 ---

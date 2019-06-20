@@ -1,6 +1,6 @@
 ---
 title: shopping at target'
-tags: target
+tags: [ "target" ]
 author: Rob Nugen
 date: 2016-01-27T15:20:44+09:00
 ---

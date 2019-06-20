@@ -1,6 +1,6 @@
 ---
 title: I'm terribly sorry pildex-pondex-wiswyc-bosnev--botber-ronpet-tobhet-pagwyt
-tags: urbit
+tags: [ "urbit" ]
 author: Rob Nugen
 date: 2016-06-04T10:53:38+09:00
 ---

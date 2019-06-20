@@ -2,7 +2,7 @@
 date: 2012-03-29T10:50:42+09:00
 slug: problem-with-technology-782
 title: 'Problem with technology #782'
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##10:50 Thursday 29 March 2012

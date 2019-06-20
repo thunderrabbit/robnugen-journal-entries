@@ -1,6 +1,6 @@
 ---
 title: actual work
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2014-12-08
 ---

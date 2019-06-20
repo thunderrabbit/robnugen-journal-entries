@@ -1,6 +1,6 @@
 ---
 title: tired
-tags: zzzz
+tags: [ "zzzz" ]
 author: Rob Nugen
 date: 2017-01-12T01:51:30+09:00
 ---

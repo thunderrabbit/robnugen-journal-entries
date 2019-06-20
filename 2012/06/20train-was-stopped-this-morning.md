@@ -2,7 +2,7 @@
 date: 2012-06-20T10:09:45+09:00
 slug: train-was-stopped-this-morning
 title: Train was stopped this morning
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##10:09 Wednesday 20 June 2012

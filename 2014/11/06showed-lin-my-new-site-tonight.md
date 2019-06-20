@@ -1,6 +1,6 @@
 ---
 title: Showed Lin my new site tonight!
-tags: funny
+tags: [ "funny" ]
 author: Rob Nugen
 date: 2014-11-06
 ---

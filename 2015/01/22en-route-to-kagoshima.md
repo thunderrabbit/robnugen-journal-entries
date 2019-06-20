@@ -1,6 +1,6 @@
 ---
 title: En route to Kagoshima
-tags: plane
+tags: [ "plane" ]
 author: Rob Nugen
 date: 2015-01-22
 ---

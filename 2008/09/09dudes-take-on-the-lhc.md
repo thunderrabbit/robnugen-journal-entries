@@ -2,7 +2,7 @@
 date: 2008-09-09T22:36:26+09:00
 slug: dudes-take-on-the-lhc
 title: Dude's take on the LHC
-tags: lhc
+tags: [ "lhc" ]
 ---
 
 ##22:36 Tuesday 09 September 2008

@@ -1,6 +1,6 @@
 ---
 title: headache
-tags: oof
+tags: [ "oof" ]
 categories:
   - "health"
 author: Rob Nugen

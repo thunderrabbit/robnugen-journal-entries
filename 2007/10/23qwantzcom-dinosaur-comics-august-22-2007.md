@@ -2,7 +2,7 @@
 date: 2007-10-23T13:01:46+09:00
 slug: qwantzcom-dinosaur-comics-august-22-2007
 title: qwantz.com - dinosaur comics - August 22 2007
-tags: internet
+tags: [ "internet" ]
 ---
 
 ##13:01 Tuesday 23 October 2007

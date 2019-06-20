@@ -1,6 +1,6 @@
 ---
 title: blargh
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-05-17T21:11:24+09:00
 ---

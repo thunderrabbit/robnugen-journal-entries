@@ -2,7 +2,7 @@
 date: 2012-02-09T20:10:48+09:00
 slug: cherrypicking-from-git-reflog
 title: cherrypicking from git reflog
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##20:10 Thursday 09 February 2012

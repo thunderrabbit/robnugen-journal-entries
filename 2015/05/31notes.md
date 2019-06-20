@@ -1,6 +1,6 @@
 ---
 title: notes from ETJ workshop
-tags: notes
+tags: [ "notes" ]
 author: Rob Nugen
 date: 2015-05-31T10:32:27+09:00
 ---

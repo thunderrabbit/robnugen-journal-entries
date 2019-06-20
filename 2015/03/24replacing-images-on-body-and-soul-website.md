@@ -1,6 +1,6 @@
 ---
 title: replacing images on Body and Soul website
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2015-03-24T13:11:00+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lin's aunt and uncle over for afternoon
-tags: family
+tags: [ "family" ]
 author: Rob Nugen
 date: 2017-01-02T12:08:05+09:00
 ---

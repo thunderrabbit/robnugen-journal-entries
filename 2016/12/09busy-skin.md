@@ -1,6 +1,6 @@
 ---
 title: busy skin
-tags: clinic
+tags: [ "clinic" ]
 author: Rob Nugen
 date: 2016-12-09T09:46:08+09:00
 ---

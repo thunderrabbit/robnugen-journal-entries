@@ -1,6 +1,6 @@
 ---
 title: RPN calculator
-tags: rpn
+tags: [ "rpn" ]
 author: Rob Nugen
 date: 2016-06-16T14:51:30+09:00
 ---

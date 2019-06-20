@@ -1,6 +1,6 @@
 ---
 title: piano recital with Mikarin
-tags: music
+tags: [ "music" ]
 author: Rob Nugen
 date: 2015-11-28T23:24:59+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: zzz last thoughts
-tags: sleepy
+tags: [ "sleepy" ]
 author: Rob Nugen
 date: 2003-11-28
 ---

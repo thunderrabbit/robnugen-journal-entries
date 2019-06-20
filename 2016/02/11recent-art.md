@@ -1,6 +1,6 @@
 ---
 title: recent art
-tags: art
+tags: [ "art" ]
 author: Rob Nugen
 date: 2016-02-11T10:20:23+09:00
 ---

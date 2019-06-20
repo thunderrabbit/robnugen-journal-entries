@@ -2,7 +2,7 @@
 date: 2012-12-12T21:03:40+09:00
 slug: self-balancing-electric-motorcarcycle
 title: self balancing electric motorcarcycle
-tags: technology
+tags: [ "technology" ]
 ---
 
 ##21:03 Wednesday 12 December 2012

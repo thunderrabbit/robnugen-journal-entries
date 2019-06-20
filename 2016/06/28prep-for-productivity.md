@@ -1,6 +1,6 @@
 ---
 title: prep for productivity
-tags: shopping
+tags: [ "shopping" ]
 author: Rob Nugen
 date: 2016-06-28T20:29:52+09:00
 ---

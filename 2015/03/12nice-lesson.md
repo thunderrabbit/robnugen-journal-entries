@@ -1,6 +1,6 @@
 ---
 title: Nice lesson
-tags: lesson
+tags: [ "lesson" ]
 author: Rob Nugen
 date: 2015-03-12T20:31:00+09:00
 ---

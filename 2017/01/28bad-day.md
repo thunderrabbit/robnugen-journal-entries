@@ -1,6 +1,6 @@
 ---
 title: bad day
-tags: yesterday
+tags: [ "yesterday" ]
 author: Rob Nugen
 date: 2017-01-28T11:08:03+09:00
 ---

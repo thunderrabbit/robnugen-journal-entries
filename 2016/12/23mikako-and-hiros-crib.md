@@ -1,6 +1,6 @@
 ---
 title: M and H's crib
-tags: mikako
+tags: [ "mikako" ]
 author: Rob Nugen
 date: 2016-12-23T15:10:50+09:00
 ---

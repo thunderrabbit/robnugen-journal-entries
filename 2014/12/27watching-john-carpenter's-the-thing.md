@@ -1,6 +1,6 @@
 ---
 title: watching John Carpenter's The Thing
-tags: movie
+tags: [ "movie" ]
 author: Rob Nugen
 date: 2014-12-27
 ---

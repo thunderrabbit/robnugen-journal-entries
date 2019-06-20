@@ -1,6 +1,6 @@
 ---
 title: nice lesson with the Ms
-tags: lesson
+tags: [ "lesson" ]
 author: Rob Nugen
 date: 2014-11-11
 ---

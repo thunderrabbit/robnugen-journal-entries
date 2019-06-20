@@ -1,6 +1,6 @@
 ---
 title: 濃厚チョコブラウニーキャラメル味 a.k.a. the best chocolate bar ever
-tags: best
+tags: [ "best" ]
 author: Rob Nugen
 date: 2015-06-23T18:47:22+09:00
 ---

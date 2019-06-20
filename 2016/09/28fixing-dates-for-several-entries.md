@@ -1,6 +1,6 @@
 ---
 title: fixing dates for several entries
-tags: journal
+tags: [ "journal" ]
 author: Rob Nugen
 date: 2016-09-28T13:13:05+09:00
 ---

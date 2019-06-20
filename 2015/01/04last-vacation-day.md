@@ -1,6 +1,6 @@
 ---
 title: last vacation day
-tags: chillin
+tags: [ "chillin" ]
 author: Rob Nugen
 date: 2015-01-04
 ---

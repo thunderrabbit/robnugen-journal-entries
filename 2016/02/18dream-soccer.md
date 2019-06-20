@@ -1,6 +1,6 @@
 ---
 title: Dream soccer
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2016-02-18T06:46:40+09:00
 ---

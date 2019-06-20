@@ -1,6 +1,6 @@
 ---
 title: headed back
-tags: journal
+tags: [ "journal" ]
 author: Rob Nugen
 date: 2016-01-17T11:34:27+09:00
 ---

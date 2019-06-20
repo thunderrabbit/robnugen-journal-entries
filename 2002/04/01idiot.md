@@ -1,6 +1,6 @@
 ---
 title: idiot
-tags: grrr
+tags: [ "grrr" ]
 author: Rob Nugen
 date: 2002-04-01
 ---

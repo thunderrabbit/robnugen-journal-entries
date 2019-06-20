@@ -1,6 +1,6 @@
 ---
 title: Kamata lesson
-tags: kamata
+tags: [ "kamata" ]
 author: Rob Nugen
 date: 2015-07-17T12:16:49+09:00
 ---

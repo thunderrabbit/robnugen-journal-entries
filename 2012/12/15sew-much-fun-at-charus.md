@@ -2,7 +2,7 @@
 date: 2012-12-15T21:53:43+09:00
 slug: sew-much-fun-at-charus
 title: sew much fun at Charu's
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##21:53 Saturday 15 December 2012

@@ -2,7 +2,7 @@
 date: 2005-10-18T06:23:25+09:00
 slug: my-first-ajax-type-thing
 title: my first AJAX type thing
-tags: my code
+tags: [ "my code" ]
 ---
 
 ##06:23 Tuesday 18 October 2005

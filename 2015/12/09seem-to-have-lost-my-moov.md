@@ -1,6 +1,6 @@
 ---
 title: seem to have lost my MOOV
-tags: moov
+tags: [ "moov" ]
 author: Rob Nugen
 date: 2015-12-09T00:39:58+09:00
 ---

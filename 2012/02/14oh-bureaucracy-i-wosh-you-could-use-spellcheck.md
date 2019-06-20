@@ -2,7 +2,7 @@
 date: 2012-02-14T23:27:58+09:00
 slug: oh-bureaucracy-i-wosh-you-could-use-spellcheck
 title: Oh, bureaucracy, I wosh you could use spellcheck
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##23:27 Tuesday 14 February 2012

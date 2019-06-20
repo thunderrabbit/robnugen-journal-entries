@@ -1,6 +1,6 @@
 ---
 title: Veronica and Dude's house for steak
-tags: steak
+tags: [ "steak" ]
 author: Rob Nugen
 date: 2016-01-29T22:55:11+09:00
 ---

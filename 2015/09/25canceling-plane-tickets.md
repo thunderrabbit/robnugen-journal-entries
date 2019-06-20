@@ -1,6 +1,6 @@
 ---
 title: Canceling plane tickets
-tags: nwta
+tags: [ "nwta" ]
 author: Rob Nugen
 date: 2015-09-25T11:45:16+09:00
 ---

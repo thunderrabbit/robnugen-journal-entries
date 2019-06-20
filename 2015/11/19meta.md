@@ -1,6 +1,6 @@
 ---
 title: meta
-tags: misspelling
+tags: [ "misspelling" ]
 author: Rob Nugen
 date: 2015-11-19T17:58:04+09:00
 ---

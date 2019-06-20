@@ -1,6 +1,6 @@
 ---
 title: about to install kakoune
-tags: sidetracked
+tags: [ "sidetracked" ]
 author: Rob Nugen
 date: 2016-12-16T10:54:27+09:00
 ---

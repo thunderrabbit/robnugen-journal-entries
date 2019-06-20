@@ -2,7 +2,7 @@
 date: 2008-02-21T17:18:25+09:00
 slug: scribefire
 title: Scribefire
-tags: news
+tags: [ "news" ]
 ---
 
 ##17:18 Thursday 21 February 2008

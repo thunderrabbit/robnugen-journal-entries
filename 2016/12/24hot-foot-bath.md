@@ -1,6 +1,6 @@
 ---
 title: hot foot bath
-tags: onsen
+tags: [ "onsen" ]
 author: Rob Nugen
 date: 2016-12-24T17:03:53+09:00
 ---

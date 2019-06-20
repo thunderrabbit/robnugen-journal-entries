@@ -1,6 +1,6 @@
 ---
 title: yay I think I got Redmine securely installed
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-02-12T23:14:49+09:00
 ---

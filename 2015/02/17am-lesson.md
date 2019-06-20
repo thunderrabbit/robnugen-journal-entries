@@ -1,6 +1,6 @@
 ---
 title: AM lesson
-tags: lesson
+tags: [ "lesson" ]
 author: Rob Nugen
 date: 2015-02-17T10:30:00+09:00
 ---

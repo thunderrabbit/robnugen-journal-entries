@@ -1,6 +1,6 @@
 ---
 title: Catherine
-tags: catherine
+tags: [ "catherine" ]
 author: Rob Nugen
 date: 2002-04-01
 ---

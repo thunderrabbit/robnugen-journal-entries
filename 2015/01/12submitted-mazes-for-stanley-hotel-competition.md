@@ -1,6 +1,6 @@
 ---
 title: submitted mazes for Stanley Hotel competition
-tags: mazes
+tags: [ "mazes" ]
 author: Rob Nugen
 date: 2015-01-12
 ---

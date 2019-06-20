@@ -1,6 +1,6 @@
 ---
 title: endless water in Monument Valley
-tags: spoiler
+tags: [ "spoiler" ]
 author: Rob Nugen
 date: 2014-11-30
 ---

@@ -1,6 +1,6 @@
 ---
 title: Haha oops forgot White Day
-tags: oops
+tags: [ "oops" ]
 author: Rob Nugen
 date: 2015-03-15T10:01:00+09:00
 ---

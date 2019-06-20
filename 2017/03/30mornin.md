@@ -1,6 +1,6 @@
 ---
 title: Mornin
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-03-30T07:54:25+09:00
 ---

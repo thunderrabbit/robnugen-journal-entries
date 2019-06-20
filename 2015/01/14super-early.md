@@ -1,6 +1,6 @@
 ---
 title: super early
-tags: wow
+tags: [ "wow" ]
 author: Rob Nugen
 date: 2015-01-14
 ---

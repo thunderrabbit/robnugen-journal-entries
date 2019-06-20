@@ -1,6 +1,6 @@
 ---
 title: Pyramid Meditation Center ET Contact event
-tags: cseti
+tags: [ "cseti" ]
 author: Rob Nugen
 date: 2015-02-21T02:38:00+09:00
 ---

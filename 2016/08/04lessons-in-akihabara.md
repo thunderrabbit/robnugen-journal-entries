@@ -1,6 +1,6 @@
 ---
 title: lessons in akihabara
-tags: sweet
+tags: [ "sweet" ]
 author: Rob Nugen
 date: 2016-08-04T20:28:07+09:00
 ---

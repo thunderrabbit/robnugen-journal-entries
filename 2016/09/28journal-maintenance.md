@@ -1,6 +1,6 @@
 ---
 title: journal maintenance
-tags: journal
+tags: [ "journal" ]
 author: Rob Nugen
 date: 2016-09-28T21:47:01+09:00
 ---

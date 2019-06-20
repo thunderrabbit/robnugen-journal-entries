@@ -1,6 +1,6 @@
 ---
 title: party
-tags: party
+tags: [ "party" ]
 author: Rob Nugen
 date: 2016-12-15T23:28:52+09:00
 ---

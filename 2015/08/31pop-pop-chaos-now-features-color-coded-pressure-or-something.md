@@ -1,6 +1,6 @@
 ---
 title: Pop Pop Chaos now features color-coded pressure or something
-tags: poppopchaos
+tags: [ "poppopchaos" ]
 author: Rob Nugen
 date: 2015-08-31T00:11:52+09:00
 ---

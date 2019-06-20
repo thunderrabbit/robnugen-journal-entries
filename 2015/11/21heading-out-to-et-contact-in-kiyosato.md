@@ -1,6 +1,6 @@
 ---
 title: Heading out to ET contact in Kiyosato
-tags: cseti
+tags: [ "cseti" ]
 author: Rob Nugen
 date: 2015-11-21T12:11:12+09:00
 ---

@@ -2,7 +2,7 @@
 date: 2012-05-21T13:20:11+09:00
 slug: solar-eclipsery-summary
 title: solar eclipsery summary
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##13:20 Monday 21 May 2012

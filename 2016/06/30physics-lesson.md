@@ -1,6 +1,6 @@
 ---
 title: physics lesson
-tags: fun
+tags: [ "fun" ]
 author: Rob Nugen
 date: 2016-06-30T17:53:29+09:00
 ---

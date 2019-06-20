@@ -1,6 +1,6 @@
 ---
 title: Google Mapmobile
-tags: silly
+tags: [ "silly" ]
 author: Rob Nugen
 date: 2015-04-02T09:18:21+09:00
 ---

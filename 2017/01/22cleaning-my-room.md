@@ -1,6 +1,6 @@
 ---
 title: cleaning my room
-tags: room
+tags: [ "room" ]
 author: Rob Nugen
 date: 2017-01-22T11:02:07+09:00
 ---

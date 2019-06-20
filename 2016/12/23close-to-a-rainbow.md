@@ -1,6 +1,6 @@
 ---
 title: close to a rainbow
-tags: rainbow
+tags: [ "rainbow" ]
 author: Rob Nugen
 date: 2016-12-23T10:46:36+09:00
 ---

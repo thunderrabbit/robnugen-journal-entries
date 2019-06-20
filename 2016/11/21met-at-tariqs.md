@@ -1,6 +1,6 @@
 ---
 title: met at tariq's
-tags: app
+tags: [ "app" ]
 author: Rob Nugen
 date: 2016-11-21T12:13:06+09:00
 ---

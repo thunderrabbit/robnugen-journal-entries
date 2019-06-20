@@ -1,6 +1,6 @@
 ---
 title: the pizza is back there
-tags: party
+tags: [ "party" ]
 author: Rob Nugen
 date: 2017-03-18T13:33:55+09:00
 ---

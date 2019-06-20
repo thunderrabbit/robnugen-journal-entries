@@ -1,6 +1,6 @@
 ---
 title: Fantastic Mutsumi!!
-tags: art
+tags: [ "art" ]
 author: Rob Nugen
 date: 2014-12-09
 ---

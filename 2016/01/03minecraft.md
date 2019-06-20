@@ -1,6 +1,6 @@
 ---
 title: Minecraft
-tags: minecraft
+tags: [ "minecraft" ]
 author: Rob Nugen
 date: 2016-01-03T23:26:25+09:00
 ---

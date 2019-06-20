@@ -2,7 +2,7 @@
 date: 2012-12-21T20:11:18+09:00
 slug: oh-noes-i-hope-i-can-post-this-in-time
 title: oh noes I hope I can post this in time!!
-tags: news
+tags: [ "news" ]
 ---
 
 ##20:11 Friday 21 December 2012

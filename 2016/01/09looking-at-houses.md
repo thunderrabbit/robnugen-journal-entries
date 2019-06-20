@@ -1,6 +1,6 @@
 ---
 title: looking at houses
-tags: house
+tags: [ "house" ]
 author: Rob Nugen
 date: 2016-01-09T11:15:28+09:00
 ---

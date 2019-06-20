@@ -1,6 +1,6 @@
 ---
 title: I hate Japanese TV more than I hate anything else in the entire world. The end.
-tags: hate
+tags: [ "hate" ]
 author: Rob Nugen
 date: 2015-01-09
 ---

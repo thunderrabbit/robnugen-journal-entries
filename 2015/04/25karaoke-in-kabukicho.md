@@ -1,6 +1,6 @@
 ---
 title: karaoke in kabukicho
-tags: karaoke
+tags: [ "karaoke" ]
 author: Rob Nugen
 date: 2015-04-25T21:47:49+09:00
 ---

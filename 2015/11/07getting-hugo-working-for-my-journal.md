@@ -1,6 +1,6 @@
 ---
 title: Getting Hugo working for my journal
-tags: hugo
+tags: [ "hugo" ]
 author: Rob Nugen
 date: 2015-11-07T18:20:49+09:00
 ---

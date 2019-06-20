@@ -1,6 +1,6 @@
 ---
 title: end of year special YOUは何しに日本へ
-tags: tv
+tags: [ "tv" ]
 author: Rob Nugen
 date: 2016-12-13T20:47:12+09:00
 ---

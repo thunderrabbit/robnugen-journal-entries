@@ -1,6 +1,6 @@
 ---
 title: thunderrabbit.com
-tags: cod
+tags: [ "cod" ]
 author: Rob Nugen
 date: 2016-09-15T13:35:52+09:00
 ---

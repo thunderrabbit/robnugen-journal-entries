@@ -1,6 +1,6 @@
 ---
 title: Reiki meetup in Matsudo
-tags: reiki
+tags: [ "reiki" ]
 author: Rob Nugen
 date: 2015-01-25
 ---

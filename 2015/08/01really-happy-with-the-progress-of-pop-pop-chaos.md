@@ -1,6 +1,6 @@
 ---
 title: Really happy with the progress of Pop Pop Chaos
-tags: nice
+tags: [ "nice" ]
 author: Rob Nugen
 date: 2015-08-01T21:20:50+09:00
 ---

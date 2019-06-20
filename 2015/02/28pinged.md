@@ -1,6 +1,6 @@
 ---
 title: pinged
-tags: journal
+tags: [ "journal" ]
 author: Rob Nugen
 date: 2015-02-28T10:25:00+09:00
 ---

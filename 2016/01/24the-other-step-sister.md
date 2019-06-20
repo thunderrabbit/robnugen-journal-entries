@@ -1,6 +1,6 @@
 ---
 title: the Other step sister
-tags: elise
+tags: [ "elise" ]
 author: Rob Nugen
 date: 2016-01-24T01:01:44+09:00
 ---

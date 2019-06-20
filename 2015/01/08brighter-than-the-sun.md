@@ -1,6 +1,6 @@
 ---
 title: Brighter than the sun
-tags: reflection
+tags: [ "reflection" ]
 author: Rob Nugen
 date: 2015-01-08
 ---

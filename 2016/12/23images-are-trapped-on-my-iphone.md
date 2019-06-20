@@ -1,6 +1,6 @@
 ---
 title: images are trapped on my iPhone
-tags: hardware
+tags: [ "hardware" ]
 author: Rob Nugen
 date: 2016-12-23T15:15:51+09:00
 ---

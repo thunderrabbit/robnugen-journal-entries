@@ -1,6 +1,6 @@
 ---
 title: Atlassian GUI phooey
-tags: feedback
+tags: [ "feedback" ]
 author: Rob Nugen
 date: 2015-02-24T14:05:00+09:00
 ---

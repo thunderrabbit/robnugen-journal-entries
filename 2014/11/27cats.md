@@ -1,6 +1,6 @@
 ---
 title: cats
-tags: cats
+tags: [ "cats" ]
 author: Rob Nugen
 date: 2014-11-27
 ---

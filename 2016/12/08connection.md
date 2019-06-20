@@ -1,6 +1,6 @@
 ---
 title: connection
-tags: bad
+tags: [ "bad" ]
 author: Rob Nugen
 date: 2016-12-08T13:24:16+09:00
 ---

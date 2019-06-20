@@ -1,6 +1,6 @@
 ---
 title: chillin at Fred's for a second
-tags: fred
+tags: [ "fred" ]
 author: Rob Nugen
 date: 2016-01-28T17:52:21+09:00
 ---

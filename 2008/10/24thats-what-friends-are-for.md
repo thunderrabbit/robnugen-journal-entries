@@ -2,7 +2,7 @@
 date: 2008-10-24T08:30:15+09:00
 slug: thats-what-friends-are-for
 title: That's what friends are for
-tags: news
+tags: [ "news" ]
 ---
 
 ##08:30 Friday 24 October 2008

@@ -2,7 +2,7 @@
 date: 2013-02-10T23:39:38+09:00
 slug: five-stars-on-drawquest
 title: Five stars on drawquest
-tags: art
+tags: [ "art" ]
 ---
 
 ##23:39 Sunday 10 February 2013

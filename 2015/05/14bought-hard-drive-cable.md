@@ -1,6 +1,6 @@
 ---
 title: bought hard drive cable
-tags: cable
+tags: [ "cable" ]
 author: Rob Nugen
 date: 2015-05-14T18:18:15+09:00
 ---

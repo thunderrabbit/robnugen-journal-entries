@@ -1,6 +1,6 @@
 ---
 title: tornado-dream
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2000-08-09
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sellin' Wilbur
-tags: sweet
+tags: [ "sweet" ]
 author: Rob Nugen
 date: 2015-03-27T16:20:00+09:00
 ---

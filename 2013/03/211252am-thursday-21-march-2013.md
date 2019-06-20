@@ -2,7 +2,7 @@
 date: 2013-03-21T00:58:17+09:00
 slug: 1252am-thursday-21-march-2013
 title: 12:52am Thursday 21 March 2013
-tags: my code
+tags: [ "my code" ]
 ---
 
 ##00:58 Thursday 21 March 2013

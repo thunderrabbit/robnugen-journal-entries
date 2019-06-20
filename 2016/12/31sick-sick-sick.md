@@ -1,6 +1,6 @@
 ---
 title: sick sick sick
-tags: sick
+tags: [ "sick" ]
 author: Rob Nugen
 date: 2016-12-31T17:38:11+09:00
 ---

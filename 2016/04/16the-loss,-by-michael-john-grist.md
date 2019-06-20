@@ -1,6 +1,6 @@
 ---
 title: The Loss, by Michael John Grist
-tags: arc
+tags: [ "arc" ]
 author: Rob Nugen
 date: 2016-04-16T14:02:32+09:00
 ---

@@ -2,7 +2,7 @@
 date: 2005-11-02T21:27:47+09:00
 slug: sedna
 title: Sedna
-tags: astronomy
+tags: [ "astronomy" ]
 ---
 
 ##21:27 Wednesday 02 November 2005

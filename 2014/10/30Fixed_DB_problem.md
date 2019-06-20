@@ -1,6 +1,6 @@
 ---
 title: Possible bug in MySQL
-tags: mysql
+tags: [ "mysql" ]
 description: 
 author: Rob Nugen
 date: 2014-10-30

@@ -1,6 +1,6 @@
 ---
 title: Walked to Torihama station
-tags: walk
+tags: [ "walk" ]
 author: Rob Nugen
 date: 2016-06-22T16:08:46+09:00
 ---

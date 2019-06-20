@@ -1,6 +1,6 @@
 ---
 title: couple of designs for Mutsumi
-tags: design
+tags: [ "design" ]
 author: Rob Nugen
 date: 2014-12-24
 ---

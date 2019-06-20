@@ -1,6 +1,6 @@
 ---
 title: two new men in Tokyo men's circle
-tags: igroup
+tags: [ "igroup" ]
 author: Rob Nugen
 date: 2017-02-07T09:05:23+09:00
 ---

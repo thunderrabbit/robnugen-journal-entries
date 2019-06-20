@@ -1,6 +1,6 @@
 ---
 title: progressing
-tags: stuff
+tags: [ "stuff" ]
 author: Rob Nugen
 date: 2017-05-21T08:32:12+09:00
 ---

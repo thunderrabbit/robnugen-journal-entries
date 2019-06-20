@@ -1,6 +1,6 @@
 ---
 title: lesson last night
-tags: japanese
+tags: [ "japanese" ]
 author: Rob Nugen
 date: 2016-12-28T14:26:44+09:00
 ---

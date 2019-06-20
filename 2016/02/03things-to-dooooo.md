@@ -1,6 +1,6 @@
 ---
 title: things to dooooo
-tags: todo
+tags: [ "todo" ]
 author: Rob Nugen
 date: 2016-02-03T13:39:48+09:00
 ---

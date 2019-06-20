@@ -1,6 +1,6 @@
 ---
 title: land in Okutama
-tags: land
+tags: [ "land" ]
 author: Rob Nugen
 date: 2015-11-28T16:25:08+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: why angry?
-tags: bah
+tags: [ "bah" ]
 author: Rob Nugen
 date: 2015-11-21T12:13:23+09:00
 ---

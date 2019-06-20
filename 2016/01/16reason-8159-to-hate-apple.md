@@ -1,6 +1,6 @@
 ---
 title: reason 8159 to hate Apple
-tags: finder
+tags: [ "finder" ]
 author: Rob Nugen
 date: 2016-01-16T00:11:15+09:00
 ---

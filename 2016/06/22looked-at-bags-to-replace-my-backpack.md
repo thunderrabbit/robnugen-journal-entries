@@ -1,6 +1,6 @@
 ---
 title: looked at bags to replace my backpack
-tags: shopping
+tags: [ "shopping" ]
 author: Rob Nugen
 date: 2016-06-22T16:18:21+09:00
 ---

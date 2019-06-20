@@ -1,6 +1,6 @@
 ---
 title: bunch of 0 byte files
-tags: doh
+tags: [ "doh" ]
 author: Rob Nugen
 date: 2015-11-06T22:22:31+09:00
 ---

@@ -2,7 +2,7 @@
 date: 2005-11-08T07:42:14+09:00
 slug: life-of-pi
 title: Life of Pi
-tags: books
+tags: [ "books" ]
 ---
 
 ##07:42 Tuesday 08 November 2005

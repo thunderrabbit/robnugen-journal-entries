@@ -1,6 +1,6 @@
 ---
 title: note to Mayumi about hard drive MTBF
-tags: mtbf
+tags: [ "mtbf" ]
 author: Rob Nugen
 date: 2015-11-26T20:21:46+09:00
 ---

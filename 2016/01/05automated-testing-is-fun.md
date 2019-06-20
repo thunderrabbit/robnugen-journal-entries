@@ -1,6 +1,6 @@
 ---
 title: Automated testing is fun!
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2016-01-05T08:25:48+09:00
 ---

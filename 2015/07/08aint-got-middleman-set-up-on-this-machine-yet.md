@@ -1,6 +1,6 @@
 ---
 title: aint got middleman set up on this machine yet
-tags: nope
+tags: [ "nope" ]
 author: Rob Nugen
 date: 2015-07-08T16:43:04+09:00
 ---

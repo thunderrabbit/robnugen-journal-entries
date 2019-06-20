@@ -1,6 +1,6 @@
 ---
 title: (not) Climbing Mt Fuji tonight
-tags: fujisan
+tags: [ "fujisan" ]
 author: Rob Nugen
 date: 2015-09-21T20:05:36+09:00
 ---

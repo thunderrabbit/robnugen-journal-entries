@@ -1,6 +1,6 @@
 ---
 title: Burger maze
-tags: maze
+tags: [ "maze" ]
 author: Rob Nugen
 date: 2014-12-28
 ---

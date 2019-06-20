@@ -2,7 +2,7 @@
 date: 2012-04-10T01:53:25+09:00
 slug: reported-my-stalker-to-the-police
 title: reported my stalker to the police
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##01:53 Tuesday 10 April 2012

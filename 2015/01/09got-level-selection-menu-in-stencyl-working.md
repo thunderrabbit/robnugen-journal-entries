@@ -1,6 +1,6 @@
 ---
 title: Got level selection menu in Stencyl working
-tags: bah
+tags: [ "bah" ]
 author: Rob Nugen
 date: 2015-01-09
 ---

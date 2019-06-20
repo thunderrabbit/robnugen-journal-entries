@@ -1,6 +1,6 @@
 ---
 title: rubber ducking in the bath
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2016-11-05T00:42:24+09:00
 ---

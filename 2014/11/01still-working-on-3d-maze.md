@@ -1,6 +1,6 @@
 ---
 title: Still working on 3D maze
-tags: maze
+tags: [ "maze" ]
 author: Rob Nugen
 date: 2014-11-01
 ---

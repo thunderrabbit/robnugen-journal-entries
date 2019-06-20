@@ -1,6 +1,6 @@
 ---
 title: today's goal
-tags: goal
+tags: [ "goal" ]
 author: Rob Nugen
 date: 2016-07-27T11:18:13+09:00
 ---

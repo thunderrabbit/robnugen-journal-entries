@@ -1,6 +1,6 @@
 ---
 title: Integration Group
-tags: igroup
+tags: [ "igroup" ]
 author: Rob Nugen
 date: 2017-03-24T14:30:38+09:00
 ---

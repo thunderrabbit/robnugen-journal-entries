@@ -1,6 +1,6 @@
 ---
 title: Apparently I got permanent residency visa for Japan
-tags: wow
+tags: [ "wow" ]
 author: Rob Nugen
 date: 2016-10-13T00:34:27+09:00
 ---

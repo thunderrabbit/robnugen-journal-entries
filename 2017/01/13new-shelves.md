@@ -1,6 +1,6 @@
 ---
 title: new shelves
-tags: house
+tags: [ "house" ]
 author: Rob Nugen
 date: 2017-01-13T08:56:46+09:00
 ---

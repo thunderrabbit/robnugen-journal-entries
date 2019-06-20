@@ -1,6 +1,6 @@
 ---
 title: recently
-tags: soml
+tags: [ "soml" ]
 author: Rob Nugen
 date: 2016-09-20T22:01:30+09:00
 ---

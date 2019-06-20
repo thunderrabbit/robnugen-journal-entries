@@ -1,6 +1,6 @@
 ---
 title: Bridge (to be built) between Toshiba and Muza
-tags: construction
+tags: [ "construction" ]
 author: Rob Nugen
 date: 2016-12-24T21:25:22+09:00
 ---

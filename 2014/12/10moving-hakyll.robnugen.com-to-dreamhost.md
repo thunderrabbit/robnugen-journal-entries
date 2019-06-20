@@ -1,6 +1,6 @@
 ---
 title: Moving hakyll.robnugen.com to dreamhost
-tags: aws
+tags: [ "aws" ]
 author: Rob Nugen
 date: 2014-12-10
 ---

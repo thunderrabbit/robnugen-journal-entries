@@ -2,7 +2,7 @@
 date: 2005-10-16T02:52:04+09:00
 slug: long-jokes
 title: long jokes
-tags: miscellaneous
+tags: [ "miscellaneous" ]
 ---
 
 ##02:52 Sunday 16 October 2005

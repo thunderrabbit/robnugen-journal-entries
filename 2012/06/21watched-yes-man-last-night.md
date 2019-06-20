@@ -2,7 +2,7 @@
 date: 2012-06-21T07:52:28+09:00
 slug: watched-yes-man-last-night
 title: watched YES Man last night
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##07:52 Thursday 21 June 2012

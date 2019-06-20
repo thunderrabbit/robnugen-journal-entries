@@ -1,6 +1,6 @@
 ---
 title: Essentially packed for Perth
-tags: nwta
+tags: [ "nwta" ]
 author: Rob Nugen
 date: 2015-10-12T23:04:00+09:00
 ---

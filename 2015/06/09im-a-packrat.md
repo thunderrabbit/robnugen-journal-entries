@@ -1,6 +1,6 @@
 ---
 title: I'm a packrat
-tags: site
+tags: [ "site" ]
 author: Rob Nugen
 date: 2015-06-09T11:16:19+09:00
 ---

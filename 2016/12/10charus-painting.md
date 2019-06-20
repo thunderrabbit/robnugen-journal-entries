@@ -1,6 +1,6 @@
 ---
 title: Charu's painting
-tags: late
+tags: [ "late" ]
 author: Rob Nugen
 date: 2016-12-10T01:38:33+09:00
 ---

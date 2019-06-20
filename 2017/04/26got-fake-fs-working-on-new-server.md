@@ -1,6 +1,6 @@
 ---
 title: Got fake FS working on new server
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-04-26T12:03:02+09:00
 ---

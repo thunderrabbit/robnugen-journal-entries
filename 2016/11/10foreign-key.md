@@ -1,6 +1,6 @@
 ---
 title: foreign key
-tags: innodb
+tags: [ "innodb" ]
 author: Rob Nugen
 date: 2016-11-10T09:39:35+09:00
 ---

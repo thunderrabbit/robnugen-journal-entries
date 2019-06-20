@@ -1,6 +1,6 @@
 ---
 title: new product that doesn't sound delicious in English
-tags: haha
+tags: [ "haha" ]
 author: Rob Nugen
 date: 2016-02-23T18:40:36+09:00
 ---

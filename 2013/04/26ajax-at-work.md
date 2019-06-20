@@ -2,7 +2,7 @@
 date: 2013-04-26T08:00:47+09:00
 slug: ajax-at-work
 title: ajax at work
-tags: work
+tags: [ "work" ]
 ---
 
 ##08:00 Friday 26 April 2013

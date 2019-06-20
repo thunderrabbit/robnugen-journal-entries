@@ -1,6 +1,6 @@
 ---
 title: puzzle still intact
-tags: puzzle
+tags: [ "puzzle" ]
 author: Rob Nugen
 date: 2014-12-09
 ---

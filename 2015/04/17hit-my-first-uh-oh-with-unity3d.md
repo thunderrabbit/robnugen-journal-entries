@@ -1,6 +1,6 @@
 ---
 title: hit my first uh-oh with Unity3D
-tags: unity3d
+tags: [ "unity3d" ]
 author: Rob Nugen
 date: 2015-04-17T23:35:48+09:00
 ---

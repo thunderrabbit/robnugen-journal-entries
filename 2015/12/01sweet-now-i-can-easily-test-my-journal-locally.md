@@ -1,6 +1,6 @@
 ---
 title: Sweet now I can easily test my journal (text) locally
-tags: sweet
+tags: [ "sweet" ]
 author: Rob Nugen
 date: 2015-12-01T08:43:17+09:00
 ---

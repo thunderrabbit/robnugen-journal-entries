@@ -1,6 +1,6 @@
 ---
 title: First rolling ball game with unity
-tags: unity
+tags: [ "unity" ]
 author: Rob Nugen
 date: 2015-01-19
 ---

@@ -1,6 +1,6 @@
 ---
 title: inbox zeroed
-tags: email
+tags: [ "email" ]
 author: Rob Nugen
 date: 2017-06-28T23:04:39+09:00
 ---

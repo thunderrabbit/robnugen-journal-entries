@@ -1,6 +1,6 @@
 ---
 title: Early lesson
-tags: lesson
+tags: [ "lesson" ]
 author: Rob Nugen
 date: 2016-02-16T08:46:48+09:00
 ---

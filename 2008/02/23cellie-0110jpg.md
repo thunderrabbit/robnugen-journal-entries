@@ -2,7 +2,7 @@
 date: 2008-02-23T14:57:58+09:00
 slug: cellie-0110jpg
 title: cellie-0110.jpg
-tags: news
+tags: [ "news" ]
 ---
 
 ##14:57 Saturday 23 February 2008

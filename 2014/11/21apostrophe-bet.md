@@ -1,6 +1,6 @@
 ---
 title: apostrophe bet
-tags: silly
+tags: [ "silly" ]
 author: Rob Nugen
 date: 2014-11-21
 ---

@@ -1,6 +1,6 @@
 ---
 title: haha Jennie footprints
-tags: paint
+tags: [ "paint" ]
 author: Rob Nugen
 date: 2016-06-13T21:53:33+09:00
 ---

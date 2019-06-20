@@ -1,6 +1,6 @@
 ---
 title: Bus with Babychan!
-tags: bus
+tags: [ "bus" ]
 author: Rob Nugen
 date: 2014-12-20
 ---

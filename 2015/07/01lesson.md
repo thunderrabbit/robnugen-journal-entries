@@ -1,6 +1,6 @@
 ---
 title: Lesson
-tags: lesson
+tags: [ "lesson" ]
 author: Rob Nugen
 date: 2015-07-01T18:32:12+09:00
 ---

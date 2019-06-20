@@ -1,6 +1,6 @@
 ---
 title: cute cats
-tags: cats
+tags: [ "cats" ]
 author: Rob Nugen
 date: 2014-12-04
 ---

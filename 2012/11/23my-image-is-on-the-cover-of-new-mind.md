@@ -2,7 +2,7 @@
 date: 2012-11-23T11:45:44+09:00
 slug: my-image-is-on-the-cover-of-new-mind
 title: my image is on the cover of New Mind!
-tags: excited
+tags: [ "excited" ]
 ---
 
 ##11:45 Friday 23 November 2012

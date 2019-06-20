@@ -1,6 +1,6 @@
 ---
 title: great day at Travis and Yumi's
-tags: yay
+tags: [ "yay" ]
 author: Rob Nugen
 date: 2015-06-07T21:30:44+09:00
 ---

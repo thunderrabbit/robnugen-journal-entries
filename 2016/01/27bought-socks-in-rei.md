@@ -1,6 +1,6 @@
 ---
 title: bought socks in REI
-tags: rei
+tags: [ "rei" ]
 author: Rob Nugen
 date: 2016-01-27T12:26:47+09:00
 ---

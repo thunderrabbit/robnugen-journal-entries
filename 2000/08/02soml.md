@@ -1,6 +1,6 @@
 ---
 title: soml
-tags: soml
+tags: [ "soml" ]
 author: Rob Nugen
 date: 2000-08-02
 ---

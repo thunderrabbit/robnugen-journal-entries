@@ -1,6 +1,6 @@
 ---
 title: Pop Pop Chaos
-tags: poppopchaos
+tags: [ "poppopchaos" ]
 author: Rob Nugen
 date: 2015-07-28T21:41:01+09:00
 ---

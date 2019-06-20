@@ -1,6 +1,6 @@
 ---
 title: Markdown css per paragraph?
-tags: markdown
+tags: [ "markdown" ]
 author: Rob Nugen
 date: 2015-03-07T11:45:00+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: jet lag
-tags: hmm
+tags: [ "hmm" ]
 author: Rob Nugen
 date: 2016-02-04T03:17:39+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ted clarity
-tags: cat
+tags: [ "cat" ]
 author: Rob Nugen
 date: 2016-03-06T12:27:45+09:00
 ---

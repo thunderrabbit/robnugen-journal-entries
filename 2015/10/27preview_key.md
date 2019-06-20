@@ -1,6 +1,6 @@
 ---
 title: Preview_key
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2015-10-27T18:55:37+09:00
 ---

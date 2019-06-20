@@ -2,7 +2,7 @@
 date: 2005-11-08T18:32:22+09:00
 slug: you-tube
 title: YouTube
-tags: internet
+tags: [ "internet" ]
 ---
 
 ##18:32 Tuesday 08 November 2005

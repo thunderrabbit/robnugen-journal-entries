@@ -1,6 +1,6 @@
 ---
 title: Sent Francine to Sydney
-tags: francois
+tags: [ "francois" ]
 author: Rob Nugen
 date: 2016-04-15T22:10:11+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dream SBK
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2015-07-17T05:04:13+09:00
 ---

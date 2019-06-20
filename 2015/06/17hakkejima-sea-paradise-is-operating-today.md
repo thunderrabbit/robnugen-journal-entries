@@ -1,6 +1,6 @@
 ---
 title: Hakkejima Sea Paradise is operating today
-tags: hsp
+tags: [ "hsp" ]
 author: Rob Nugen
 date: 2015-06-17T16:22:24+09:00
 ---

@@ -2,7 +2,7 @@
 date: 2005-10-21T06:53:31+09:00
 slug: flock
 title: flock
-tags: internet
+tags: [ "internet" ]
 ---
 
 ##06:53 Friday 21 October 2005

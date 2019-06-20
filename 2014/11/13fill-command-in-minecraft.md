@@ -1,6 +1,6 @@
 ---
 title: /fill command in Minecraft
-tags: minecraft
+tags: [ "minecraft" ]
 description: saving time while wasting time
 author: Rob Nugen
 date: 2014-11-13

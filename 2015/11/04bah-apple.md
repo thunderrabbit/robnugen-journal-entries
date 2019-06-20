@@ -1,6 +1,6 @@
 ---
 title: Bah Apple
-tags: bah
+tags: [ "bah" ]
 author: Rob Nugen
 date: 2015-11-04T15:46:04+09:00
 ---

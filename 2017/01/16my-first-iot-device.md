@@ -1,6 +1,6 @@
 ---
 title: My first Thing of Internet
-tags: iot
+tags: [ "iot" ]
 author: Rob Nugen
 date: 2017-01-16T10:44:15+09:00
 ---

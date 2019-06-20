@@ -1,6 +1,6 @@
 ---
 title: Maggie
-tags: mags
+tags: [ "mags" ]
 author: Rob Nugen
 date: 2002-03-30
 ---

@@ -1,6 +1,6 @@
 ---
 title: perl image thumbnailer
-tags: images
+tags: [ "images" ]
 author: Rob Nugen
 date: 2015-05-27T15:49:39+09:00
 ---

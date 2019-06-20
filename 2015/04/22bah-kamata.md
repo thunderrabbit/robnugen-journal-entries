@@ -1,6 +1,6 @@
 ---
 title: bah kamata
-tags: doh
+tags: [ "doh" ]
 author: Rob Nugen
 date: 2015-04-22T10:31:26+09:00
 ---

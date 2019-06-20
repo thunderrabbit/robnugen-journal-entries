@@ -1,6 +1,6 @@
 ---
 title: Akiko!
-tags: akiko
+tags: [ "akiko" ]
 author: Rob Nugen
 date: 2017-06-28T22:47:30+09:00
 ---

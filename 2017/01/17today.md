@@ -1,6 +1,6 @@
 ---
 title: today
-tags: todo
+tags: [ "todo" ]
 author: Rob Nugen
 date: 2017-01-17T10:29:30+09:00
 ---

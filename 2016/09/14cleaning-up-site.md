@@ -1,6 +1,6 @@
 ---
 title: cleaning up site
-tags: site
+tags: [ "site" ]
 author: Rob Nugen
 date: 2016-09-14T10:39:20+09:00
 ---

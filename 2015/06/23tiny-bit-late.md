@@ -1,6 +1,6 @@
 ---
 title: Tiny bit late
-tags: late
+tags: [ "late" ]
 author: Rob Nugen
 date: 2015-06-23T18:45:22+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: New schedules
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2016-11-10T09:33:00+09:00
 ---

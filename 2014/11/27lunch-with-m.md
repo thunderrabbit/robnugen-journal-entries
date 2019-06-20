@@ -1,6 +1,6 @@
 ---
 title: lunch with M
-tags: lunch
+tags: [ "lunch" ]
 author: Rob Nugen
 date: 2014-11-27
 ---

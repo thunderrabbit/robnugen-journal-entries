@@ -1,6 +1,6 @@
 ---
 title: Sarupapa lesson
-tags: first lesson
+tags: [ "first lesson" ]
 author: Rob Nugen
 date: 2015-10-06T18:41:19+09:00
 ---

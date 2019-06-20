@@ -1,6 +1,6 @@
 ---
 title: Massage
-tags: massage
+tags: [ "massage" ]
 author: Rob Nugen
 date: 2014-11-15
 ---

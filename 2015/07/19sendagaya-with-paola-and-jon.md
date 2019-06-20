@@ -1,6 +1,6 @@
 ---
 title: Sendagaya with Paola and Jon
-tags: transcribed
+tags: [ "transcribed" ]
 author: Rob Nugen
 date: 2015-07-19T21:50:01+09:00
 ---

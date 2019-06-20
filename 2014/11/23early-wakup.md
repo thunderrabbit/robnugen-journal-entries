@@ -1,6 +1,6 @@
 ---
 title: Early wakup
-tags: cseti
+tags: [ "cseti" ]
 author: Rob Nugen
 date: 2014-11-23
 ---

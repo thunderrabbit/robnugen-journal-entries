@@ -1,6 +1,6 @@
 ---
 title: Cool vertical labyrinth game
-tags: sweet
+tags: [ "sweet" ]
 author: Rob Nugen
 date: 2016-01-19T18:12:36+09:00
 ---

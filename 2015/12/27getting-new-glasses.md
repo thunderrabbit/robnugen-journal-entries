@@ -1,6 +1,6 @@
 ---
 title: getting new glasses
-tags: glasses
+tags: [ "glasses" ]
 author: Rob Nugen
 date: 2015-12-27T15:49:01+09:00
 ---

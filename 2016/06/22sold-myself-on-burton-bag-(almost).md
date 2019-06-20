@@ -1,6 +1,6 @@
 ---
 title: sold myself on Burton bag (almost)
-tags: burton
+tags: [ "burton" ]
 author: Rob Nugen
 date: 2016-06-22T16:33:07+09:00
 ---

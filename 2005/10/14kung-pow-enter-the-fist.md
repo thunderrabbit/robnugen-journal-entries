@@ -2,7 +2,7 @@
 date: 2005-10-14T15:18:36+09:00
 slug: kung-pow-enter-the-fist
 title: 'Kung Pow: Enter the Fist'
-tags: movies
+tags: [ "movies" ]
 ---
 
 ##15:18 Friday 14 October 2005

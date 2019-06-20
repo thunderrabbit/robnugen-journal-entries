@@ -1,6 +1,6 @@
 ---
 title: Okie doke!
-tags: fred
+tags: [ "fred" ]
 author: Rob Nugen
 date: 2016-01-22T14:48:51+09:00
 ---

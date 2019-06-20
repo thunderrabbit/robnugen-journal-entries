@@ -1,6 +1,6 @@
 ---
 title: Recently
-tags: recently
+tags: [ "recently" ]
 author: Rob Nugen
 date: 2015-08-18T08:54:03+09:00
 ---

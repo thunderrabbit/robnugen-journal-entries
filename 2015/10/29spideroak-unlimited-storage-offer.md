@@ -1,6 +1,6 @@
 ---
 title: spideroak unlimited storage offer
-tags: sweet
+tags: [ "sweet" ]
 author: Rob Nugen
 date: 2015-10-29T17:53:55+09:00
 ---

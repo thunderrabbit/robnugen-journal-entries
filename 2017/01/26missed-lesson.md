@@ -1,6 +1,6 @@
 ---
 title: missed lesson
-tags: oops
+tags: [ "oops" ]
 author: Rob Nugen
 date: 2017-01-26T12:33:35+09:00
 ---

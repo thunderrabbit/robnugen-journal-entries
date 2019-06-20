@@ -1,6 +1,6 @@
 ---
 title: weird last day at CB
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-06-26T11:40:02+09:00
 ---

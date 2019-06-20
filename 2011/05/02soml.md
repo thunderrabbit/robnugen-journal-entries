@@ -2,7 +2,7 @@
 date: 2011-04-19T10:18:46+09:00
 slug: soml
 title: State of My Life Address
-tags: soml
+tags: [ "soml" ]
 ---
 
 ## Monday 2 May 2011

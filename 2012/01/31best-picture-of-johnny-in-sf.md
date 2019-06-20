@@ -2,7 +2,7 @@
 date: 2012-01-31T07:56:05+09:00
 slug: best-picture-of-johnny-in-sf
 title: Best picture of Johnny in SF
-tags: travel
+tags: [ "travel" ]
 ---
 
 ##07:56 Tuesday 31 January 2012

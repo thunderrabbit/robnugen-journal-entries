@@ -1,6 +1,6 @@
 ---
 title: small tsunami near fukushima
-tags: uhoh
+tags: [ "uhoh" ]
 author: Rob Nugen
 date: 2016-11-22T09:44:36+09:00
 ---

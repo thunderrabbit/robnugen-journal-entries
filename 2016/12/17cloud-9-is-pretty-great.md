@@ -1,6 +1,6 @@
 ---
 title: Cloud 9 is pretty great
-tags: c9
+tags: [ "c9" ]
 author: Rob Nugen
 date: 2016-12-17T10:34:26+09:00
 ---

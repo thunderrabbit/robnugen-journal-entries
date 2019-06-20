@@ -1,6 +1,6 @@
 ---
 title: Cats are so cute!
-tags: cats
+tags: [ "cats" ]
 author: Rob Nugen
 date: 2014-11-04
 ---

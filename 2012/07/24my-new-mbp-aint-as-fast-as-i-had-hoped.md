@@ -2,7 +2,7 @@
 date: 2012-07-24T18:00:44+09:00
 slug: my-new-mbp-aint-as-fast-as-i-had-hoped
 title: my new MBP ain't as fast as I had hoped
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##18:00 Tuesday 24 July 2012

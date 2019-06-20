@@ -1,6 +1,6 @@
 ---
 title: got a Pasmo
-tags: cards
+tags: [ "cards" ]
 author: Rob Nugen
 date: 2016-11-12T09:38:46+09:00
 ---

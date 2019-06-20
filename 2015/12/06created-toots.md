@@ -1,6 +1,6 @@
 ---
 title: created toots
-tags: tutorials
+tags: [ "tutorials" ]
 author: Rob Nugen
 date: 2015-12-06T19:14:40+09:00
 ---

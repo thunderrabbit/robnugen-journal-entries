@@ -1,6 +1,6 @@
 ---
 title: Disclosure message from Dr Steven Greer
-tags: disclosure
+tags: [ "disclosure" ]
 author: Rob Nugen
 date: 2015-01-02
 ---

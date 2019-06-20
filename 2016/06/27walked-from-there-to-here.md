@@ -1,6 +1,6 @@
 ---
 title: walked from there to here
-tags: walk
+tags: [ "walk" ]
 author: Rob Nugen
 date: 2016-06-27T11:03:25+09:00
 ---

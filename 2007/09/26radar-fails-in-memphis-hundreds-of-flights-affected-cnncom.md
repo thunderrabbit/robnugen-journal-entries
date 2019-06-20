@@ -2,7 +2,7 @@
 date: 2007-09-26T13:43:39+09:00
 slug: radar-fails-in-memphis-hundreds-of-flights-affected-cnncom
 title: Radar fails in Memphis; hundreds of flights affected - CNN.com
-tags: news
+tags: [ "news" ]
 ---
 
 ##13:43 Wednesday 26 September 2007

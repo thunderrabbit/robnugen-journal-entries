@@ -1,6 +1,6 @@
 ---
 title: recently
-tags: gap
+tags: [ "gap" ]
 author: Rob Nugen
 date: 2017-05-30T19:00:46+09:00
 ---

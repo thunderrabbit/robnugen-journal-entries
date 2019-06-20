@@ -1,6 +1,6 @@
 ---
 title: mkp gst
-tags: mkp
+tags: [ "mkp" ]
 author: Rob Nugen
 date: 2017-02-28T15:36:59+09:00
 ---

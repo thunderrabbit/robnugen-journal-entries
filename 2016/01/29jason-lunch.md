@@ -1,6 +1,6 @@
 ---
 title: Jason lunch
-tags: jason
+tags: [ "jason" ]
 author: Rob Nugen
 date: 2016-01-29T10:46:54+09:00
 ---

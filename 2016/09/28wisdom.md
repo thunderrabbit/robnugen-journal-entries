@@ -1,6 +1,6 @@
 ---
 title: wisdom
-tags: preparation
+tags: [ "preparation" ]
 author: Rob Nugen
 date: 2016-09-28T14:42:57+09:00
 ---

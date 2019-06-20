@@ -1,6 +1,6 @@
 ---
 title: Taiyaki Hiiragi, Afiru ramen, Ouca ice cream, and Baskin Robbins in Ebisu with Joanna and Eric
-tags: yum
+tags: [ "yum" ]
 author: Rob Nugen
 date: 2016-01-10T20:33:28+09:00
 ---

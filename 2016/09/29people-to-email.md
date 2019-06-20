@@ -1,6 +1,6 @@
 ---
 title: people to email
-tags: todo
+tags: [ "todo" ]
 author: Rob Nugen
 date: 2016-09-29T18:02:54+09:00
 ---

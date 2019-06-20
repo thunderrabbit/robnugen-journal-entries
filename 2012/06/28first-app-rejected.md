@@ -2,7 +2,7 @@
 date: 2012-06-28T08:04:07+09:00
 slug: first-app-rejected
 title: first app rejected
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##08:04 Thursday 28 June 2012

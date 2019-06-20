@@ -1,6 +1,6 @@
 ---
 title: I am 16989 days old today
-tags: daysold
+tags: [ "daysold" ]
 author: Rob Nugen
 date: 2016-09-28T23:41:23+09:00
 ---

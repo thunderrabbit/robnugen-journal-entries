@@ -17,7 +17,7 @@ I guess I should more carefully read the [docs for castanet](https://github.com/
 One problem was having tags listed not in quotes.   I had to change
 this
 
-    tags: mt3
+tags: [ "mt3" ]
 
 to this
 

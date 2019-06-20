@@ -1,6 +1,6 @@
 ---
 title: Dream
-tags: teenagers
+tags: [ "teenagers" ]
 author: Rob Nugen
 date: 2015-08-05T08:51:52+09:00
 ---

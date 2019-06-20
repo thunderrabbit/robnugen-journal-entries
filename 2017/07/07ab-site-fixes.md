@@ -1,6 +1,6 @@
 ---
 title: ab site fixes
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-07-07T09:29:37+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Go go Hugo Go!
-tags: hugo
+tags: [ "hugo" ]
 author: Rob Nugen
 date: 2015-11-09T02:47:48+09:00
 ---

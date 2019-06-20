@@ -1,6 +1,6 @@
 ---
 title: tld
-tags: amazon
+tags: [ "amazon" ]
 author: Rob Nugen
 date: 2016-11-16T21:53:28+09:00
 ---

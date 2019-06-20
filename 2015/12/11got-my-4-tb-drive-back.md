@@ -1,6 +1,6 @@
 ---
 title: Got my 4 TB drive back
-tags: apple
+tags: [ "apple" ]
 author: Rob Nugen
 date: 2015-12-11T09:34:21+09:00
 ---

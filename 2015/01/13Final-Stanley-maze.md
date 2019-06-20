@@ -1,6 +1,6 @@
 ---
 title: Worked on the final maze
-tags: maze
+tags: [ "maze" ]
 author: Rob Nugen
 date: 2015-01-13
 ---

@@ -1,6 +1,6 @@
 ---
 title: playing with SVGs
-tags: svg
+tags: [ "svg" ]
 author: Rob Nugen
 date: 2015-03-21T22:05:00+09:00
 ---

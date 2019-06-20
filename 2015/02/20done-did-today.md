@@ -1,6 +1,6 @@
 ---
 title: Done did today
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2015-02-20T18:05:00+09:00
 ---

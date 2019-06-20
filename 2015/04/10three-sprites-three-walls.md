@@ -1,6 +1,6 @@
 ---
 title: Three sprites three walls
-tags: unity
+tags: [ "unity" ]
 author: Rob Nugen
 date: 2015-04-10T16:09:09+09:00
 ---

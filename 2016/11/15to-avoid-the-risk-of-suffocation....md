@@ -1,6 +1,6 @@
 ---
 title: to avoid the risk of suffocation...
-tags: haha
+tags: [ "haha" ]
 author: Rob Nugen
 date: 2016-11-15T09:41:45+09:00
 ---

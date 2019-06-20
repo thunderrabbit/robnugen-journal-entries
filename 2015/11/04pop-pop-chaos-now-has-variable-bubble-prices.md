@@ -1,6 +1,6 @@
 ---
 title: Pop Pop Chaos now has variable bubble prices
-tags: poppopchaos
+tags: [ "poppopchaos" ]
 author: Rob Nugen
 date: 2015-11-04T15:48:57+09:00
 ---

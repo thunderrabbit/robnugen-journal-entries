@@ -1,6 +1,6 @@
 ---
 title: moe joe up all night working
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-02-16T05:33:18+09:00
 ---

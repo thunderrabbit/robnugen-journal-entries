@@ -1,6 +1,6 @@
 ---
 title: Finished bejeweled tutorial
-tags: unity
+tags: [ "unity" ]
 author: Rob Nugen
 date: 2015-04-04T16:22:45+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: chillin in hot bath
-tags: bath
+tags: [ "bath" ]
 author: Rob Nugen
 date: 2015-01-22
 ---

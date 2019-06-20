@@ -1,6 +1,6 @@
 ---
 title: I won the 'genkiest person at SOGO award'
-tags: sogo
+tags: [ "sogo" ]
 author: Rob Nugen
 date: 2017-01-15T16:07:24+09:00
 ---

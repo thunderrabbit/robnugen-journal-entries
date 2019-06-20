@@ -1,6 +1,6 @@
 ---
 title: Raspberries are fucked up
-tags: bitcoin
+tags: [ "bitcoin" ]
 author: Rob Nugen
 date: 2014-11-27
 ---

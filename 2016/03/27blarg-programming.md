@@ -1,6 +1,6 @@
 ---
 title: blarg programming
-tags: derp
+tags: [ "derp" ]
 author: Rob Nugen
 date: 2016-03-27T07:22:32+09:00
 ---

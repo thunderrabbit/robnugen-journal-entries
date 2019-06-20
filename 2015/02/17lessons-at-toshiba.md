@@ -1,6 +1,6 @@
 ---
 title: Chapters at Toshiba
-tags: lessons
+tags: [ "lessons" ]
 author: Rob Nugen
 date: 2015-02-17T17:21:00+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: some more svg stuff
-tags: svg
+tags: [ "svg" ]
 author: Rob Nugen
 date: 2015-03-22T11:02:00+09:00
 ---

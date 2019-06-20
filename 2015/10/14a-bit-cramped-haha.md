@@ -1,6 +1,6 @@
 ---
 title: A bit cramped haha
-tags: travel
+tags: [ "travel" ]
 author: Rob Nugen
 date: 2015-10-14T10:36:16+09:00
 ---

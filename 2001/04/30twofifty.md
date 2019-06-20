@@ -1,6 +1,6 @@
 ---
 title: two fifty per hour
-tags: dude
+tags: [ "dude" ]
 author: Rob Nugen
 date: 2001-04-30
 ---

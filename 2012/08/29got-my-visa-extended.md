@@ -2,7 +2,7 @@
 date: 2012-08-29T14:13:51+09:00
 slug: got-my-visa-extended
 title: got my visa extended
-tags: japan
+tags: [ "japan" ]
 ---
 
 ##14:13 Wednesday 29 August 2012

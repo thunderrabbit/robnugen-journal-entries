@@ -1,6 +1,6 @@
 ---
 title: Side effects
-tags: codin
+tags: [ "codin" ]
 author: Rob Nugen
 date: 2015-08-25T18:43:05+09:00
 ---

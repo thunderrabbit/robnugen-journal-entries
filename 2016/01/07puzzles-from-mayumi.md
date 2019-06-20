@@ -1,6 +1,6 @@
 ---
 title: Class with GG
-tags: lesson
+tags: [ "lesson" ]
 author: Rob Nugen
 date: 2016-01-07T20:29:38+09:00
 ---

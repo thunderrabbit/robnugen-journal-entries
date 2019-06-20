@@ -1,6 +1,6 @@
 ---
 title: Discuss people with high IQs are good language learners
-tags: coursera
+tags: [ "coursera" ]
 author: Rob Nugen
 date: 2016-01-03T09:46:58+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: made pushups counter
-tags: pushups
+tags: [ "pushups" ]
 author: Rob Nugen
 date: 2015-05-12T07:28:18+09:00
 ---

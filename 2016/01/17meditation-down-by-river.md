@@ -1,6 +1,6 @@
 ---
 title: Meditation down by river
-tags: meditation
+tags: [ "meditation" ]
 author: Rob Nugen
 date: 2016-01-17T09:13:10+09:00
 ---

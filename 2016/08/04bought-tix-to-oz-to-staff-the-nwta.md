@@ -1,6 +1,6 @@
 ---
 title: bought tix to OZ to staff the NWTA
-tags: oz
+tags: [ "oz" ]
 author: Rob Nugen
 date: 2016-08-04T12:55:06+09:00
 ---

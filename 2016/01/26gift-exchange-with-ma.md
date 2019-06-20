@@ -1,6 +1,6 @@
 ---
 title: Gift exchange with Ma
-tags: ma
+tags: [ "ma" ]
 author: Rob Nugen
 date: 2016-01-26T14:31:38+09:00
 ---

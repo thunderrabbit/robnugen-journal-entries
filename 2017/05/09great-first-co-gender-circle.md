@@ -1,6 +1,6 @@
 ---
 title: Great first co-gender circle
-tags: co
+tags: [ "co" ]
 author: Rob Nugen
 date: 2017-05-09T23:42:04+09:00
 ---

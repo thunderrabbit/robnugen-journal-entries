@@ -1,6 +1,6 @@
 ---
 title: got lin's bike back from the shop
-tags: bicycle
+tags: [ "bicycle" ]
 author: Rob Nugen
 date: 2015-06-04T12:24:57+09:00
 ---

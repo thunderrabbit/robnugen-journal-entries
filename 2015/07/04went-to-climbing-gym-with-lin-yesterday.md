@@ -1,6 +1,6 @@
 ---
 title: Went to climbing gym with Lin yesterday
-tags: happy 4th anniversary
+tags: [ "happy 4th anniversary" ]
 author: Rob Nugen
 date: 2015-07-05T16:17:56+09:00
 ---

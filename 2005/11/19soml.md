@@ -2,7 +2,7 @@
 date: 2005-11-19T20:27:45+09:00
 slug: soml
 title: SoML
-tags: news
+tags: [ "news" ]
 ---
 
 ##20:27 Saturday 19 November 2005

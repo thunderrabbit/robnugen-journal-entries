@@ -1,6 +1,6 @@
 ---
 title: Headed to M's baby shower
-tags: blood
+tags: [ "blood" ]
 author: Rob Nugen
 date: 2015-11-15T11:35:08+09:00
 ---

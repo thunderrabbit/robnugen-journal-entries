@@ -1,6 +1,6 @@
 ---
 title: Japanese class at 80s cafe
-tags: japanese
+tags: [ "japanese" ]
 author: Rob Nugen
 date: 2015-04-15T21:36:50+09:00
 ---

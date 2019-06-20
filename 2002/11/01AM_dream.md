@@ -1,6 +1,6 @@
 ---
 title: AM dream
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2002-11-01
 ---

@@ -2,7 +2,7 @@
 date: 2012-04-15T23:35:24+09:00
 slug: iphone-app-work-work-business
 title: iPhone app work work business
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##23:35 Sunday 15 April 2012

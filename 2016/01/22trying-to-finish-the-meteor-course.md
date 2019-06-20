@@ -1,6 +1,6 @@
 ---
 title: trying to finish the meteor course
-tags: meteor
+tags: [ "meteor" ]
 author: Rob Nugen
 date: 2016-01-22T03:01:44+09:00
 ---

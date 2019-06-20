@@ -1,6 +1,6 @@
 ---
 title: (solved) Ansible incorrect values in usr share redmine config database.yml
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-01-15T03:29:28+09:00
 ---

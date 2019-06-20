@@ -1,6 +1,6 @@
 ---
 title: bought three discs
-tags: ultimate
+tags: [ "ultimate" ]
 author: Rob Nugen
 date: 2016-09-12T13:38:16+09:00
 ---

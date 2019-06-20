@@ -1,6 +1,6 @@
 ---
 title: reasons 8,148 and 8,149 to hate Apple
-tags: disk
+tags: [ "disk" ]
 author: Rob Nugen
 date: 2015-12-12T08:06:15+09:00
 ---

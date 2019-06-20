@@ -1,6 +1,6 @@
 ---
 title: copy database
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2014-12-25
 ---

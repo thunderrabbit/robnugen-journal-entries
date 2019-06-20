@@ -1,6 +1,6 @@
 ---
 title: online integration group
-tags: mkp
+tags: [ "mkp" ]
 author: Rob Nugen
 date: 2016-06-30T13:30:05+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Brisk walk with MOOV
-tags: moov
+tags: [ "moov" ]
 author: Rob Nugen
 date: 2015-11-30T14:11:35+09:00
 ---

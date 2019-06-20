@@ -1,6 +1,6 @@
 ---
 title: windy
-tags: wind
+tags: [ "wind" ]
 author: Rob Nugen
 date: 2017-02-20T11:02:33+09:00
 ---

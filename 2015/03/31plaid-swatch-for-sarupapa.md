@@ -1,6 +1,6 @@
 ---
 title: plaid swatch for Sarupapa
-tags: fabric
+tags: [ "fabric" ]
 author: Rob Nugen
 date: 2015-03-31T20:09:50+09:00
 ---

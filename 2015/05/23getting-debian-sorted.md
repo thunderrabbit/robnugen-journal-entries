@@ -1,6 +1,6 @@
 ---
 title: Getting Debian Sorted
-tags: debian
+tags: [ "debian" ]
 author: Rob Nugen
 date: 2015-05-23T11:30:01+09:00
 ---

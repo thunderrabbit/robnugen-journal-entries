@@ -1,6 +1,6 @@
 ---
 title: First lesson in Tennozu Aisle
-tags: lesson
+tags: [ "lesson" ]
 author: Rob Nugen
 date: 2015-11-13T21:20:37+09:00
 ---

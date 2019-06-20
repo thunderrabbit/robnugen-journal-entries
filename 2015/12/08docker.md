@@ -1,6 +1,6 @@
 ---
 title: docker
-tags: hmm
+tags: [ "hmm" ]
 author: Rob Nugen
 date: 2015-12-08T18:43:59+09:00
 ---

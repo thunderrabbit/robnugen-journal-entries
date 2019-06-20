@@ -2,7 +2,7 @@
 date: 2013-02-06T06:11:42+09:00
 slug: a-few-things-in-my-brain-at-4am
 title: a few things in my brain at 4am
-tags: state of my life address
+tags: [ "state of my life address" ]
 ---
 
 ##06:11 Wednesday 06 February 2013

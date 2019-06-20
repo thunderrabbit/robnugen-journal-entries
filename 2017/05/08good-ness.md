@@ -1,6 +1,6 @@
 ---
 title: good ness
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-05-08T18:33:43+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: New JB lesson on Friday nights
-tags: lesson
+tags: [ "lesson" ]
 author: Rob Nugen
 date: 2015-06-26T20:08:45+09:00
 ---

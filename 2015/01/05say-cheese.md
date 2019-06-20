@@ -1,6 +1,6 @@
 ---
 title: Say Cheese
-tags: cheese
+tags: [ "cheese" ]
 author: Rob Nugen
 date: 2015-01-05
 ---

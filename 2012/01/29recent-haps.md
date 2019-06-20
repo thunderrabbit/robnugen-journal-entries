@@ -2,7 +2,7 @@
 date: 2012-01-29T00:44:21+09:00
 slug: recent-haps
 title: Recent haps
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##00:44 Sunday 29 January 2012

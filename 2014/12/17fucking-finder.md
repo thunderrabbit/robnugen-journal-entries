@@ -1,6 +1,6 @@
 ---
 title: fucking Finder
-tags: osx
+tags: [ "osx" ]
 author: Rob Nugen
 date: 2014-12-17
 ---

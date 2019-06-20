@@ -1,6 +1,6 @@
 ---
 title: Harajuku to Tokyo Tower with Simon
-tags: simon
+tags: [ "simon" ]
 author: Rob Nugen
 date: 2017-06-10T17:38:10+09:00
 ---

@@ -2,7 +2,7 @@
 date: 2012-02-22T23:26:33+09:00
 slug: reading-deprivation-week
 title: reading deprivation week
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##23:26 Wednesday 22 February 2012

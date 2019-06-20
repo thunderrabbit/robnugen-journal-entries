@@ -1,6 +1,6 @@
 ---
 title: SS lesson
-tags: lesson
+tags: [ "lesson" ]
 author: Rob Nugen
 date: 2016-03-01T12:07:18+09:00
 ---

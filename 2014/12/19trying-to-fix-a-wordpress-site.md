@@ -1,6 +1,6 @@
 ---
 title: Trying to fix a wordpress site
-tags: debug
+tags: [ "debug" ]
 author: Rob Nugen
 date: 2014-12-19
 ---

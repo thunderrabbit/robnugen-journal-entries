@@ -1,6 +1,6 @@
 ---
 title: zzz work
-tags: sleepy
+tags: [ "sleepy" ]
 author: Rob Nugen
 date: 2003-02-28
 ---

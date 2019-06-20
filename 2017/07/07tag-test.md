@@ -14,6 +14,6 @@ writes (e.g.)
 
 instead of
 
-    tags: journal
+tags: [ "journal" ]
 
 so I can add tags more easily.

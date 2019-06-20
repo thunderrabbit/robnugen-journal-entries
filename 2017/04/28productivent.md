@@ -1,6 +1,6 @@
 ---
 title: productivent
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-04-28T16:23:15+09:00
 ---

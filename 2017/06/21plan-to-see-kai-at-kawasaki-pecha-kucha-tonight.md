@@ -1,6 +1,6 @@
 ---
 title: Plan to see Kai at Kawasaki Pecha Kucha tonight
-tags: plans
+tags: [ "plans" ]
 author: Rob Nugen
 date: 2017-06-21T18:57:11+09:00
 ---

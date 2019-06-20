@@ -1,6 +1,6 @@
 ---
 title: plans for tomorrow
-tags: plans
+tags: [ "plans" ]
 author: Rob Nugen
 date: 2015-04-05T19:45:06+09:00
 ---

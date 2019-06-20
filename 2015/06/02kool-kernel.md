@@ -1,6 +1,6 @@
 ---
 title: kool-kernel
-tags: uncool
+tags: [ "uncool" ]
 author: Rob Nugen
 date: 2015-06-02T18:39:40+09:00
 ---

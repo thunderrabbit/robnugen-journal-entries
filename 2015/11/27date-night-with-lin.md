@@ -1,6 +1,6 @@
 ---
 title: date night with Lin!
-tags: lin
+tags: [ "lin" ]
 author: Rob Nugen
 date: 2015-11-27T19:31:18+09:00
 ---

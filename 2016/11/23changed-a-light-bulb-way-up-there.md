@@ -1,6 +1,6 @@
 ---
 title: changed a light bulb way up there
-tags: house
+tags: [ "house" ]
 author: Rob Nugen
 date: 2016-11-23T09:07:28+09:00
 ---

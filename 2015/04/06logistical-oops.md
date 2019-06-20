@@ -1,6 +1,6 @@
 ---
 title: logistical oops
-tags: oops
+tags: [ "oops" ]
 author: Rob Nugen
 date: 2015-04-06T18:47:13+09:00
 ---

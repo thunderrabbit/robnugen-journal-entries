@@ -1,6 +1,6 @@
 ---
 title: my slice of urbit on AWS
-tags: urbit
+tags: [ "urbit" ]
 author: Rob Nugen
 date: 2016-06-03T22:09:42+09:00
 ---

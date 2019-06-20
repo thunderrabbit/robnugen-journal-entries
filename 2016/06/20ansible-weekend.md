@@ -1,6 +1,6 @@
 ---
 title: ansible weekend
-tags: ansible
+tags: [ "ansible" ]
 author: Rob Nugen
 date: 2016-06-20T10:44:54+09:00
 ---

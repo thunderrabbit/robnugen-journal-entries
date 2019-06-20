@@ -1,6 +1,6 @@
 ---
 title: stARTed
-tags: art
+tags: [ "art" ]
 author: Rob Nugen
 date: 2016-03-11T19:03:27+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Oh wow it's 5:15"
-tags: timezone
+tags: [ "timezone" ]
 author: Rob Nugen
 date: 2016-01-26T17:13:33+09:00
 ---

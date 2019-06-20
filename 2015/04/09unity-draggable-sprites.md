@@ -1,6 +1,6 @@
 ---
 title: unity draggable sprites
-tags: umity
+tags: [ "umity" ]
 author: Rob Nugen
 date: 2015-04-09T22:55:07+09:00
 ---

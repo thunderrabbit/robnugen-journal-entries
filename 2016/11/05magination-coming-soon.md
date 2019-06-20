@@ -1,6 +1,6 @@
 ---
 title: Magination coming soon!!
-tags: magination
+tags: [ "magination" ]
 author: Rob Nugen
 date: 2016-11-05T01:13:30+09:00
 ---

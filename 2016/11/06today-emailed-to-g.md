@@ -1,6 +1,6 @@
 ---
 title: today (emailed to G (not g))
-tags: prep
+tags: [ "prep" ]
 author: Rob Nugen
 date: 2016-11-06T20:51:50+09:00
 ---

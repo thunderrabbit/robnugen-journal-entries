@@ -1,6 +1,6 @@
 ---
 title: ET contact event canceled
-tags: boo
+tags: [ "boo" ]
 author: Rob Nugen
 date: 2015-10-10T11:38:24+09:00
 ---

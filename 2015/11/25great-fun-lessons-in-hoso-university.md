@@ -1,6 +1,6 @@
 ---
 title: Great fun lessons in Hoso University
-tags: hosodaigaku
+tags: [ "hosodaigaku" ]
 author: Rob Nugen
 date: 2015-11-25T13:40:40+09:00
 ---

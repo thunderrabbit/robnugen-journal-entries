@@ -1,6 +1,6 @@
 ---
 title: Dream three years ago
-tags: dream
+tags: [ "dream" ]
 author: Rob Nugen
 date: 2017-10-05T07:00:50+09:00
 ---

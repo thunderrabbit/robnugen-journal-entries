@@ -1,6 +1,6 @@
 ---
 title: work bluh
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2016-09-27T20:08:23+09:00
 ---

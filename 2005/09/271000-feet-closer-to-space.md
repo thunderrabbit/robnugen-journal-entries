@@ -2,7 +2,7 @@
 date: 2005-09-27T03:36:47+09:00
 slug: 1000-feet-closer-to-space
 title: 1000 feet closer to space
-tags: technology
+tags: [ "technology" ]
 ---
 
 ##03:36 Tuesday 27 September 2005

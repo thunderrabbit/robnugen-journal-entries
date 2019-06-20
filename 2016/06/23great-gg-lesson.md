@@ -1,6 +1,6 @@
 ---
 title: Great GG lesson
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2016-06-23T20:28:44+09:00
 ---

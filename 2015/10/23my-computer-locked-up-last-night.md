@@ -1,6 +1,6 @@
 ---
 title: My computer locked up last night
-tags: barf
+tags: [ "barf" ]
 author: Rob Nugen
 date: 2015-10-23T07:13:28+09:00
 ---

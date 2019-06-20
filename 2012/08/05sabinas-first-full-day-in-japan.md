@@ -2,7 +2,7 @@
 date: 2012-08-05T10:51:23+09:00
 slug: sabinas-first-full-day-in-japan
 title: Sabina's first full day in Japan
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##10:51 Sunday 05 August 2012

@@ -2,7 +2,7 @@
 date: 2012-02-12T21:16:21+09:00
 slug: first-ride-along-tamagawa
 title: First ride along Tamagawa
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##21:16 Sunday 12 February 2012

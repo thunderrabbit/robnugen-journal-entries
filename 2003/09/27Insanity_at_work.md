@@ -1,6 +1,6 @@
 ---
 title: Insanity at work
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2003-09-27
 ---

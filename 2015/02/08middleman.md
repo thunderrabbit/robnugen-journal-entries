@@ -1,6 +1,6 @@
 ---
 title: middleman
-tags: static
+tags: [ "static" ]
 author: Rob Nugen
 date: 2015-02-10T18:07:37+09:00
 ---

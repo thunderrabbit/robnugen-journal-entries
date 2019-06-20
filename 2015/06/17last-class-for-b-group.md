@@ -1,6 +1,6 @@
 ---
 title: last class for B-group
-tags: class
+tags: [ "class" ]
 author: Rob Nugen
 date: 2015-06-17T18:52:09+09:00
 ---

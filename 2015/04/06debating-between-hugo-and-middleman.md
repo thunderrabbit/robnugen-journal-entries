@@ -1,6 +1,6 @@
 ---
 title: debating between Hugo and Middleman
-tags: static
+tags: [ "static" ]
 author: Rob Nugen
 date: 2015-04-06T15:29:12+09:00
 ---

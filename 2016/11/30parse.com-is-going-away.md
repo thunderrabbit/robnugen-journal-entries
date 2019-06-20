@@ -1,6 +1,6 @@
 ---
 title: parse.com is going away
-tags: moejoe
+tags: [ "moejoe" ]
 author: Rob Nugen
 date: 2016-11-30T22:25:05+09:00
 ---

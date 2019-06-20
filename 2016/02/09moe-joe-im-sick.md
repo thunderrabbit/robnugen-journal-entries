@@ -1,6 +1,6 @@
 ---
 title: moe joe i'm sick
-tags: sick
+tags: [ "sick" ]
 author: Rob Nugen
 date: 2016-02-09T21:42:57+09:00
 ---

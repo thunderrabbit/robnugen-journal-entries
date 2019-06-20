@@ -1,6 +1,6 @@
 ---
 title: plan
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-04-14T10:02:07+09:00
 ---

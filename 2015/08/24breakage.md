@@ -1,6 +1,6 @@
 ---
 title: breakage
-tags: work
+tags: [ "work" ]
 author: Rob Nugen
 date: 2015-08-24T16:27:41+09:00
 ---

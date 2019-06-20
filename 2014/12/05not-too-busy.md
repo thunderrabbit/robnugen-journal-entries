@@ -1,6 +1,6 @@
 ---
 title: busy, but not too busy
-tags: busy
+tags: [ "busy" ]
 author: Rob Nugen
 date: 2014-12-05
 ---

@@ -1,6 +1,6 @@
 ---
 title: connection
-tags: first
+tags: [ "first" ]
 author: Rob Nugen
 date: 2017-01-08T14:29:24+09:00
 ---

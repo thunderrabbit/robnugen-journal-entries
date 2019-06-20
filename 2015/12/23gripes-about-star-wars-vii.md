@@ -1,6 +1,6 @@
 ---
 title: Gripes about Star Wars VII
-tags: bah
+tags: [ "bah" ]
 author: Rob Nugen
 date: 2015-12-23T00:38:03+09:00
 ---

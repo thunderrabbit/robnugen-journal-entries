@@ -1,6 +1,6 @@
 ---
 title: voom voom vacuum
-tags: suck
+tags: [ "suck" ]
 author: Rob Nugen
 date: 2015-10-25T21:46:47+09:00
 ---

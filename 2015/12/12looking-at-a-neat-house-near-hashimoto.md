@@ -1,6 +1,6 @@
 ---
 title: Looking at a neat house near Hashimoto
-tags: house
+tags: [ "house" ]
 author: Rob Nugen
 date: 2015-12-12T11:56:17+09:00
 ---

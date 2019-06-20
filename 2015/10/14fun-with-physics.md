@@ -1,6 +1,6 @@
 ---
 title: Fun with physics
-tags: oops
+tags: [ "oops" ]
 author: Rob Nugen
 date: 2015-10-14T12:55:33+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Chitchat with Fred for four hours
-tags: fred
+tags: [ "fred" ]
 author: Rob Nugen
 date: 2015-02-24T18:06:00+09:00
 ---

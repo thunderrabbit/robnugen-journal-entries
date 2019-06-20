@@ -1,6 +1,6 @@
 ---
 title: draggable pieces
-tags: unity
+tags: [ "unity" ]
 author: Rob Nugen
 date: 2015-04-07T18:03:11+09:00
 ---

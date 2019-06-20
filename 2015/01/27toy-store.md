@@ -1,6 +1,6 @@
 ---
 title: toy store
-tags: chaos game
+tags: [ "chaos game" ]
 author: Rob Nugen
 date: 2015-01-27
 ---

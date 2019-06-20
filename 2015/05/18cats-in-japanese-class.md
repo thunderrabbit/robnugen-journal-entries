@@ -1,6 +1,6 @@
 ---
 title: cats in Japanese class
-tags: fiona
+tags: [ "fiona" ]
 author: Rob Nugen
 date: 2015-05-18T22:21:33+09:00
 ---

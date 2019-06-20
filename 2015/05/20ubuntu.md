@@ -1,6 +1,6 @@
 ---
 title: ubuntu
-tags: ubuntu
+tags: [ "ubuntu" ]
 author: Rob Nugen
 date: 2015-05-20T20:49:36+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: ET Contact night at Pyramid Center near 柳川駅
-tags: et
+tags: [ "et" ]
 author: Rob Nugen
 date: 2016-01-17T02:02:30+09:00
 ---

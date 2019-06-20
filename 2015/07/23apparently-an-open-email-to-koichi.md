@@ -1,6 +1,6 @@
 ---
 title: (apparently an open) email to koichi
-tags: koichi
+tags: [ "koichi" ]
 author: Rob Nugen
 date: 2015-07-23T06:29:43+09:00
 ---

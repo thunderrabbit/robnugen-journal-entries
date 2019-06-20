@@ -1,6 +1,6 @@
 ---
 title: zzzzz
-tags: zzzz
+tags: [ "zzzz" ]
 author: Rob Nugen
 date: 2015-01-28
 ---

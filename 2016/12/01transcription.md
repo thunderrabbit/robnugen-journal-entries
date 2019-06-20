@@ -1,6 +1,6 @@
 ---
 title: transcription
-tags: oops
+tags: [ "oops" ]
 author: Rob Nugen
 date: 2016-12-01T13:19:23+09:00
 ---

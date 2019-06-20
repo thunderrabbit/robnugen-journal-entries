@@ -2,7 +2,7 @@
 date: 2012-06-21T17:01:18+09:00
 slug: magnet-finger-monster-wishes-fred-happy-bday
 title: Magnet finger monster wishes Fred happy bday
-tags: journal
+tags: [ "journal" ]
 ---
 
 ##17:01 Thursday 21 June 2012

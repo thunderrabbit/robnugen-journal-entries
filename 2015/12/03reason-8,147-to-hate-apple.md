@@ -1,6 +1,6 @@
 ---
 title: reason 8,147 to hate Apple
-tags: apple
+tags: [ "apple" ]
 author: Rob Nugen
 date: 2015-12-03T23:54:43+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Let's improve American engineering
-tags: wtc7
+tags: [ "wtc7" ]
 author: Rob Nugen
 date: 2017-06-20T07:12:34+09:00
 ---

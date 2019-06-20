@@ -1,6 +1,6 @@
 ---
 title: gyros with Shibata-san
-tags: shibata
+tags: [ "shibata" ]
 author: Rob Nugen
 date: 2015-04-07T21:41:36+09:00
 ---

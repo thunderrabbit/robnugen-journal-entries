@@ -1,6 +1,6 @@
 ---
 title: Another password-related reason to hate Apple
-tags: apple
+tags: [ "apple" ]
 author: Rob Nugen
 date: 2015-11-23T12:28:44+09:00
 ---

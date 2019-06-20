@@ -1,6 +1,6 @@
 ---
 title: Four lessons at Toshiba
-tags: toshiba
+tags: [ "toshiba" ]
 author: Rob Nugen
 date: 2014-11-12
 ---

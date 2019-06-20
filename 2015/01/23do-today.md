@@ -1,6 +1,6 @@
 ---
 title: Do today
-tags: gtd
+tags: [ "gtd" ]
 author: Rob Nugen
 date: 2015-01-23
 ---

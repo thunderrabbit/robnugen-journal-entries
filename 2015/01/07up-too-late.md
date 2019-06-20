@@ -1,6 +1,6 @@
 ---
 title: up too late
-tags: minecraft
+tags: [ "minecraft" ]
 author: Rob Nugen
 date: 2015-01-07
 ---

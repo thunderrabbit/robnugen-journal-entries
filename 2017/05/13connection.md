@@ -1,6 +1,6 @@
 ---
 title: re-connection
-tags: one
+tags: [ "one" ]
 author: Rob Nugen
 date: 2017-05-13T09:45:54+09:00
 ---

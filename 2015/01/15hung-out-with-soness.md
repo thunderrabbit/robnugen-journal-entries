@@ -1,6 +1,6 @@
 ---
 title: Hung out with Soness
-tags: soness
+tags: [ "soness" ]
 author: Rob Nugen
 date: 2015-01-15
 ---
