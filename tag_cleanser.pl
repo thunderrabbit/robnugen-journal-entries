@@ -13,10 +13,10 @@ sub wanted {
 	if ($text =~ /^tags: *(.*)$/m && index($1, "[") == -1) {
 #		write_file($_ . ".old", $text);
 		my @tags = split(/\s*,\s*/, $1);
-		my $tags = '[ ';
+		my $tags = '[';
 		$tags .= '"' . join('","', @tags) . '"'
 			if @tags;
-		$tags .= ' ]';
+		$tags .= ']';
 		$text =~ s/^tags: *(.*)$/tags: $tags/m;
 		write_file($_, $text);
 	}
