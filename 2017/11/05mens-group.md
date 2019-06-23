@@ -1,6 +1,6 @@
 ---
 title: mens group
-tags: ["mkp", "shell" ]
+tags: [ "mkp", "shell" ]
 author: Rob Nugen
 date: 2017-11-05T21:50:40+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: san antonio rally
-tags: ["yruu", "slug", "ktru", "sanan" ]
+tags: [ "yruu", "slug", "ktru", "sanan" ]
 author: Rob Nugen
 date: 1999-10-29
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hung out with Lisa and Jorge in Yoyogi Park
-tags: ["lisa", "jorge", "yoyogi" ]
+tags: [ "lisa", "jorge", "yoyogi" ]
 author: Rob Nugen
 date: 2017-08-30T01:43:49+09:00
 ---

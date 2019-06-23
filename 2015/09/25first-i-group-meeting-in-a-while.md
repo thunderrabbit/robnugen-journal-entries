@@ -1,6 +1,6 @@
 ---
 title: first integration group meeting in a while
-tags: ["mkp", "integration-group"]
+tags: [ "mkp", "integration-group"]
 author: Rob Nugen
 date: 2015-09-25T20:51:52+09:00
 ---

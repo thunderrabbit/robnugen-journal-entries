@@ -1,6 +1,6 @@
 ---
 title: tos for transferwise
-tags: ["tos" , "transferwise" ]
+tags: [ "tos" , "transferwise" ]
 author: Rob Nugen
 date: 2017-09-14T08:21:50+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Baywatch
-tags: ["baywatch" , "movie" ]
+tags: [ "baywatch" , "movie" ]
 author: Rob Nugen
 date: 2017-10-09T12:01:16+09:00
 ---

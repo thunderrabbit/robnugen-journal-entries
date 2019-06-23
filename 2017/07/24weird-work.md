@@ -1,6 +1,6 @@
 ---
 title: weird work
-tags: ["work" ]
+tags: [ "work" ]
 author: Rob Nugen
 date: 2017-07-24T16:08:21+09:00
 ---
