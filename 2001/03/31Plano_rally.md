@@ -1,6 +1,6 @@
 ---
 title: Plano rally
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-03-31
 ---

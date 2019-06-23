@@ -1,6 +1,6 @@
 ---
 title: talentShow-SilentFootball
-tags: 
+tags: []
 author: Rob Nugen
 date: 2000-08-12
 ---

@@ -1,6 +1,6 @@
 ---
 title: late-night
-tags: 
+tags: []
 author: Rob Nugen
 date: 1999-12-04
 ---

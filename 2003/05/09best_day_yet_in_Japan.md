@@ -1,6 +1,6 @@
 ---
 title: best day yet in Japan
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-05-09
 ---

@@ -1,6 +1,6 @@
 ---
 title: Chillin with Muchan
-tags: 
+tags: []
 author: Rob Nugen
 date: 2015-05-03T17:42:51+09:00
 ---

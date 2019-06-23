@@ -1,6 +1,6 @@
 ---
 title: purple high top high heels
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-09-16
 ---

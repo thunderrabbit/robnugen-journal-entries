@@ -1,6 +1,6 @@
 ---
 title: 1no regrets
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-03-01
 draft: true

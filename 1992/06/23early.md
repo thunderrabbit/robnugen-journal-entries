@@ -1,6 +1,6 @@
 ---
 title: early
-tags: 
+tags: []
 author: Rob Nugen
 date: 1992-06-23
 ---

@@ -1,6 +1,6 @@
 ---
 title: start body work
-tags: 
+tags: []
 author: Rob Nugen
 date: 1997-10-23
 ---

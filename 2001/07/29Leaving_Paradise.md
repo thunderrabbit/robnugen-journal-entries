@@ -1,6 +1,6 @@
 ---
 title: Leaving Paradise
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-07-29
 ---

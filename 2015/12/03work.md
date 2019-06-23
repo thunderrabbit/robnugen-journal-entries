@@ -1,6 +1,6 @@
 ---
 title: work
-tags: 
+tags: []
 author: Rob Nugen
 date: 2015-12-03T20:52:59+09:00
 ---

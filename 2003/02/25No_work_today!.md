@@ -1,6 +1,6 @@
 ---
 title: No work today!
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-02-25
 ---

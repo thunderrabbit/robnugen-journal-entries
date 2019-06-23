@@ -1,6 +1,6 @@
 ---
 title: tired hating work
-tags: 
+tags: []
 author: Rob Nugen
 date: 1997-11-03
 ---

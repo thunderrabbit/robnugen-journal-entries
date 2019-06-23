@@ -1,6 +1,6 @@
 ---
 title: Met Paula
-tags: 
+tags: []
 author: Rob Nugen
 date: 2015-09-26T19:32:04+09:00
 ---

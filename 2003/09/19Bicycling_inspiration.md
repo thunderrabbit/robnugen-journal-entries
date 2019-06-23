@@ -1,6 +1,6 @@
 ---
 title: Bicycling inspiration
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-09-19
 ---

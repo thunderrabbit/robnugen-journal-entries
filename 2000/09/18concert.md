@@ -1,6 +1,6 @@
 ---
 title: concert
-tags: 
+tags: []
 author: Rob Nugen
 date: 2000-09-18
 ---

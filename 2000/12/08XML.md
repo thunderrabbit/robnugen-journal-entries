@@ -1,6 +1,6 @@
 ---
 title: XML
-tags: 
+tags: []
 author: Rob Nugen
 date: 2000-12-08
 ---

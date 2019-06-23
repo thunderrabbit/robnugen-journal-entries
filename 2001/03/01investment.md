@@ -1,6 +1,6 @@
 ---
 title: investment
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-03-01
 ---

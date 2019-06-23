@@ -1,6 +1,6 @@
 ---
 title: made my flight
-tags: 
+tags: []
 author: Rob Nugen
 date: 1999-07-24
 ---

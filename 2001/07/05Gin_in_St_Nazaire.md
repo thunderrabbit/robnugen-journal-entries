@@ -1,6 +1,6 @@
 ---
 title: Gin in St Nazaire
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-07-05
 ---

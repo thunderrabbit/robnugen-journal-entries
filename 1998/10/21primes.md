@@ -1,6 +1,6 @@
 ---
 title: primes
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-10-21
 ---

@@ -1,6 +1,6 @@
 ---
 title: Houston Rally 1987
-tags: 
+tags: []
 author: Rob Nugen
 date: 1987-06-14
 ---

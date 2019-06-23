@@ -1,6 +1,6 @@
 ---
 title: sunday
-tags: 
+tags: []
 author: Rob Nugen
 date: 1999-11-28
 ---

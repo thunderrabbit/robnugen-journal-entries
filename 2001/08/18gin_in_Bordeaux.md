@@ -1,6 +1,6 @@
 ---
 title: gin in Bordeaux
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-08-18
 ---

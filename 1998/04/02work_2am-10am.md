@@ -1,6 +1,6 @@
 ---
 title: work 2am-10am
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-04-02
 ---

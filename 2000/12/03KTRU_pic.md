@@ -1,6 +1,6 @@
 ---
 title: KTRU pic
-tags: 
+tags: []
 author: Rob Nugen
 date: 2000-12-03
 ---

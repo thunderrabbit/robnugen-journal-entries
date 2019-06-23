@@ -1,6 +1,6 @@
 ---
 title: PulpRevelation
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-03-11
 ---

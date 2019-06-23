@@ -1,6 +1,6 @@
 ---
 title: 8 Mile
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-12-30
 ---

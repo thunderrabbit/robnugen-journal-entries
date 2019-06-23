@@ -1,6 +1,6 @@
 ---
 title: Biking
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-11-19
 ---

@@ -1,6 +1,6 @@
 ---
 title: therapy
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-01-11
 ---

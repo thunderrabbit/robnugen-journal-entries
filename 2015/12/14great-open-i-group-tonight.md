@@ -1,6 +1,6 @@
 ---
 title: Great open I-group tonight
-tags: 
+tags: []
 author: Rob Nugen
 date: 2015-12-14T20:57:50+09:00
 ---

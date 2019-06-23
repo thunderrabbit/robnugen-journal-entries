@@ -1,6 +1,6 @@
 ---
 title: Quote of the day
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-09-02
 ---

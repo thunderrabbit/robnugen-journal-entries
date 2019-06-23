@@ -1,6 +1,6 @@
 ---
 title: Work stinks
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-03-29
 ---

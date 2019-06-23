@@ -1,6 +1,6 @@
 ---
 title: cool dreams
-tags: 
+tags: []
 author: Rob Nugen
 date: 1997-11-07
 ---

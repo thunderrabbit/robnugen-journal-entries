@@ -1,6 +1,6 @@
 ---
 title: applet
-tags: 
+tags: []
 author: Rob Nugen
 date: 2000-07-24
 ---

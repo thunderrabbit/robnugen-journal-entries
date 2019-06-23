@@ -1,6 +1,6 @@
 ---
 title: beach
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-04-22
 ---

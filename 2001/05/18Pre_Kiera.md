@@ -1,6 +1,6 @@
 ---
 title: Pre Kiera
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-05-18
 ---

@@ -1,6 +1,6 @@
 ---
 title: laUnicycle
-tags: 
+tags: []
 author: Rob Nugen
 date: 2000-10-08
 ---

@@ -1,6 +1,6 @@
 ---
 title: Work cake
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-11-14
 ---

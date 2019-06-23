@@ -1,6 +1,6 @@
 ---
 title: Getting Lin's bear
-tags: 
+tags: []
 author: Rob Nugen
 date: 2015-12-05T11:06:16+09:00
 ---

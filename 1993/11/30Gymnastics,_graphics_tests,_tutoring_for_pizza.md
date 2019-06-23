@@ -1,6 +1,6 @@
 ---
 title: Gymnastics, graphics tests, tutoring for pizza
-tags: 
+tags: []
 author: Rob Nugen
 date: 1993-11-30
 ---

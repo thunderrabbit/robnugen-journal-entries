@@ -1,6 +1,6 @@
 ---
 title: mucky duck
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-06-12
 ---

@@ -1,6 +1,6 @@
 ---
 title: work is better
-tags: 
+tags: []
 author: Rob Nugen
 date: 1997-11-11
 ---

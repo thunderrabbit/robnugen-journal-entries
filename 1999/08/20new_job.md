@@ -1,6 +1,6 @@
 ---
 title: new job
-tags: 
+tags: []
 author: Rob Nugen
 date: 1999-08-20
 ---

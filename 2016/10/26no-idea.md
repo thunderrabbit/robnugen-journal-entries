@@ -1,6 +1,6 @@
 ---
 title: no idea
-tags: 
+tags: []
 author: Rob Nugen
 date: 2016-10-26T07:36:39+09:00
 ---

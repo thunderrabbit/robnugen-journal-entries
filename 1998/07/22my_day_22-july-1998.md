@@ -1,6 +1,6 @@
 ---
 title: my day 22-july-1998
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-07-22
 ---

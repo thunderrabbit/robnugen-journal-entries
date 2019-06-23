@@ -1,6 +1,6 @@
 ---
 title: z Silent Football
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-04-06
 ---

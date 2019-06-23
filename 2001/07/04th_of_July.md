@@ -1,6 +1,6 @@
 ---
 title: th of July
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-07-04
 ---

@@ -1,6 +1,6 @@
 ---
 title: new pics
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-10-23
 ---

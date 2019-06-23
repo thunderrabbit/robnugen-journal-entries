@@ -1,6 +1,6 @@
 ---
 title: Erin Silent Football Speech
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-09-06
 ---

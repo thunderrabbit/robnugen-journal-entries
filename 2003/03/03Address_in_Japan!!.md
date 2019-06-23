@@ -1,6 +1,6 @@
 ---
 title: Address in Japan!!
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-03-03
 ---

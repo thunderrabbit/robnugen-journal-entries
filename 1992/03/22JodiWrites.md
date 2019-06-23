@@ -1,6 +1,6 @@
 ---
 title: Jodi Writes
-tags: 
+tags: []
 author: Rob Nugen
 date: 1992-03-22
 ---

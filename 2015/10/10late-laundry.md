@@ -1,6 +1,6 @@
 ---
 title: late laundry
-tags: 
+tags: []
 author: Rob Nugen
 date: 2015-10-10T11:41:03+09:00
 ---

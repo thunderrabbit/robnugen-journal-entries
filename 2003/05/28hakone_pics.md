@@ -1,6 +1,6 @@
 ---
 title: hakone pics
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-05-28
 ---

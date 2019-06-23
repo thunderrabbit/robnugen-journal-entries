@@ -1,6 +1,6 @@
 ---
 title: Tammy called
-tags: 
+tags: []
 author: Rob Nugen
 date: 1992-09-16
 ---

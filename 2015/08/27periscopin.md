@@ -1,6 +1,6 @@
 ---
 title: Periscopin'
-tags: 
+tags: []
 author: Rob Nugen
 date: 2015-08-27T18:13:03+09:00
 ---

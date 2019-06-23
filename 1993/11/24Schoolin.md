@@ -1,6 +1,6 @@
 ---
 title: Schoolin
-tags: 
+tags: []
 author: Rob Nugen
 date: 1993-11-24
 ---

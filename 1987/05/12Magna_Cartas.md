@@ -1,6 +1,6 @@
 ---
 title: Magna Cartas
-tags: 
+tags: []
 author: Rob Nugen
 date: 1987-05-12
 ---

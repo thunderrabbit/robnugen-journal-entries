@@ -1,6 +1,6 @@
 ---
 title: movie roger and me
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-01-01
 ---

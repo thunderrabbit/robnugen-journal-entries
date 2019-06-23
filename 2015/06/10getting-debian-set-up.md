@@ -1,6 +1,6 @@
 ---
 title: Getting Debian set up
-tags: 
+tags: []
 author: Rob Nugen
 date: 2015-06-10T15:38:55+09:00
 ---

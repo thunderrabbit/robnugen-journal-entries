@@ -1,6 +1,6 @@
 ---
 title: Hung out with Kai yesterday
-tags: 
+tags: []
 author: Rob Nugen
 date: 2015-12-21T17:55:11+09:00
 ---

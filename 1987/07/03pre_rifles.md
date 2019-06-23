@@ -1,6 +1,6 @@
 ---
 title: pre rifles
-tags: 
+tags: []
 author: Rob Nugen
 date: 1987-07-03
 ---

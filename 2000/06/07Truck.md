@@ -1,6 +1,6 @@
 ---
 title: Truck
-tags: 
+tags: []
 author: Rob Nugen
 date: 2000-06-07
 ---

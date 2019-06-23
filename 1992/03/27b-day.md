@@ -1,6 +1,6 @@
 ---
 title: b-day
-tags: 
+tags: []
 author: Rob Nugen
 date: 1992-03-27
 ---

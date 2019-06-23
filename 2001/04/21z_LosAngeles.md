@@ -1,6 +1,6 @@
 ---
 title: z LosAngeles
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-04-21
 ---

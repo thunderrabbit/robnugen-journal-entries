@@ -1,6 +1,6 @@
 ---
 title: headed home
-tags: 
+tags: []
 author: Rob Nugen
 date: 2016-10-25T11:57:00+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Day off
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-04-07
 ---

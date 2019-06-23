@@ -1,6 +1,6 @@
 ---
 title: Movie License
-tags: 
+tags: []
 author: Rob Nugen
 date: 1987-06-02
 ---

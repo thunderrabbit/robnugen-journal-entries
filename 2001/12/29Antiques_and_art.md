@@ -1,6 +1,6 @@
 ---
 title: Antiques and art
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-12-29
 ---

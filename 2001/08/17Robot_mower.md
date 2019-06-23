@@ -1,6 +1,6 @@
 ---
 title: Robot mower
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-08-17
 ---

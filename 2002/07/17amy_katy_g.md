@@ -1,6 +1,6 @@
 ---
 title: amy katy g
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-07-17
 ---

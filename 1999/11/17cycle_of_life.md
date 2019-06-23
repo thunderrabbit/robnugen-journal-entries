@@ -1,6 +1,6 @@
 ---
 title: cycle of life
-tags: 
+tags: []
 author: Rob Nugen
 date: 1999-11-17
 ---

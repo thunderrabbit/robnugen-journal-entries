@@ -1,6 +1,6 @@
 ---
 title: third eye blind tickets
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-04-09
 ---

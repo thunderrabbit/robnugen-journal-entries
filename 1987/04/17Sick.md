@@ -1,6 +1,6 @@
 ---
 title: Sick
-tags: 
+tags: []
 author: Rob Nugen
 date: 1987-04-17
 ---

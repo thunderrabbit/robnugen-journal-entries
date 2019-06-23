@@ -1,6 +1,6 @@
 ---
 title: boof
-tags: 
+tags: []
 author: Rob Nugen
 date: 2015-04-20T19:52:34+09:00
 ---

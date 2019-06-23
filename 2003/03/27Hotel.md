@@ -1,6 +1,6 @@
 ---
 title: Hotel
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-03-27
 ---

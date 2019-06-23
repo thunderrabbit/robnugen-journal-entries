@@ -1,6 +1,6 @@
 ---
 title: ice ice baby
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-02-24
 ---

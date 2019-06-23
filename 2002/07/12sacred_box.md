@@ -1,6 +1,6 @@
 ---
 title: sacred box
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-07-12
 ---

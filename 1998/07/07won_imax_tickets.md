@@ -1,6 +1,6 @@
 ---
 title: won imax tickets
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-07-07
 ---

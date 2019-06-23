@@ -1,6 +1,6 @@
 ---
 title: U2 concert review! not finished
-tags: 
+tags: []
 author: Rob Nugen
 date: 1997-11-28
 ---

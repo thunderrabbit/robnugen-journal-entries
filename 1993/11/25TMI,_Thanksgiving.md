@@ -1,6 +1,6 @@
 ---
 title: TMI, Thanksgiving
-tags: 
+tags: []
 author: Rob Nugen
 date: 1993-11-25
 ---

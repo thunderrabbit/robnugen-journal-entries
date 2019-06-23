@@ -1,6 +1,6 @@
 ---
 title: who has my stuff
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-07-14
 ---

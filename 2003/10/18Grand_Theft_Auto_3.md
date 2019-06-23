@@ -1,6 +1,6 @@
 ---
 title: Grand Theft Auto 3
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-10-18
 ---

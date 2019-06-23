@@ -1,6 +1,6 @@
 ---
 title: midday
-tags: 
+tags: []
 author: Rob Nugen
 date: 2000-05-06
 ---

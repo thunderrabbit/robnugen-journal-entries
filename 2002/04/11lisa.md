@@ -1,6 +1,6 @@
 ---
 title: lisa
-tags:
+tags: []
 draft: true
 author: Rob Nugen
 date: 2002-04-11

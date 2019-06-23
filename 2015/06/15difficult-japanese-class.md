@@ -1,6 +1,6 @@
 ---
 title: difficult japanese class
-tags: 
+tags: []
 author: Rob Nugen
 date: 2015-06-15T21:56:09+09:00
 ---

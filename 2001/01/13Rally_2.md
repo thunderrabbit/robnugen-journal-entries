@@ -1,6 +1,6 @@
 ---
 title: Rally 2
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-01-13
 ---

@@ -1,6 +1,6 @@
 ---
 title: area of rest
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-12-21
 ---

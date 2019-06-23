@@ -1,6 +1,6 @@
 ---
 title: zzzzz
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-05-05
 ---

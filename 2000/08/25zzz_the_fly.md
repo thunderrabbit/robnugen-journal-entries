@@ -1,6 +1,6 @@
 ---
 title: zzz the fly
-tags: 
+tags: []
 author: Rob Nugen
 date: 2000-08-25
 ---

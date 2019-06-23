@@ -1,6 +1,6 @@
 ---
 title: deconstructing harry
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-12-09
 ---

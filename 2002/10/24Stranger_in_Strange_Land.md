@@ -1,6 +1,6 @@
 ---
 title: Stranger in Strange Land
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-10-24
 ---

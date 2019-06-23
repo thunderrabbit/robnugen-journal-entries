@@ -1,6 +1,6 @@
 ---
 title: Created dream section
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-07-12
 ---

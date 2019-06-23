@@ -1,6 +1,6 @@
 ---
 title: skating Kellogg, Brewery Tap, Party on the Plaza
-tags: 
+tags: []
 author: Rob Nugen
 date: 1993-11-18
 ---

@@ -1,6 +1,6 @@
 ---
 title: zz smarter child
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-07-09
 ---

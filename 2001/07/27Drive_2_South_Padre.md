@@ -1,6 +1,6 @@
 ---
 title: Drive 2 South Padre
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-07-27
 ---

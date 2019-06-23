@@ -1,6 +1,6 @@
 ---
 title: Cog disc summary
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-10-08
 ---

@@ -1,6 +1,6 @@
 ---
 title: Happy New Year
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-12-31
 ---

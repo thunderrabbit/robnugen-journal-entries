@@ -1,6 +1,6 @@
 ---
 title: Fear before Costa Rica
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-11-18
 ---

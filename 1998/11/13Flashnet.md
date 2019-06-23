@@ -1,6 +1,6 @@
 ---
 title: Flashnet
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-11-13
 ---

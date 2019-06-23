@@ -1,6 +1,6 @@
 ---
 title: End of School
-tags: 
+tags: []
 author: Rob Nugen
 date: 1992-05-05
 ---

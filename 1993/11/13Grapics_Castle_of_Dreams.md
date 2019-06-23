@@ -1,6 +1,6 @@
 ---
 title: Grapics Castle of Dreams
-tags: 
+tags: []
 author: Rob Nugen
 date: 1993-11-13
 ---

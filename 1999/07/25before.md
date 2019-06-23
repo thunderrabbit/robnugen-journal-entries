@@ -1,6 +1,6 @@
 ---
 title: before
-tags: 
+tags: []
 author: Rob Nugen
 date: 1999-07-25
 ---

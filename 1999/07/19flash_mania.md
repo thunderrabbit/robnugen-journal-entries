@@ -1,6 +1,6 @@
 ---
 title: flash mania
-tags: 
+tags: []
 author: Rob Nugen
 date: 1999-07-19
 ---

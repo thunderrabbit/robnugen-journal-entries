@@ -1,6 +1,6 @@
 ---
 title: Fun afternoon with Sarumama and Sarupapa
-tags: 
+tags: []
 author: Rob Nugen
 date: 2015-12-13T19:53:34+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: music
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-11-09
 ---

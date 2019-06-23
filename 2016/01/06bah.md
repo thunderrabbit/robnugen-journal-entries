@@ -1,6 +1,6 @@
 ---
 title: bah
-tags: 
+tags: []
 author: Rob Nugen
 date: 2016-01-06T12:24:10+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: monner-effect
-tags: 
+tags: []
 author: Rob Nugen
 date: 2000-03-09
 ---

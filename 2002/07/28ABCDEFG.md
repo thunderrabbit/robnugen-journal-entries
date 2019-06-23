@@ -1,6 +1,6 @@
 ---
 title: ABCDEFG
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-07-28
 ---

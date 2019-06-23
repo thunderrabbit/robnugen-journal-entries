@@ -1,6 +1,6 @@
 ---
 title: hmmmm
-tags: 
+tags: []
 author: Rob Nugen
 date: 2000-06-09
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tokyo Dome City 2
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-11-04
 ---

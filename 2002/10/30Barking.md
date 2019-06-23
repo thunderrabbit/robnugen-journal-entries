@@ -1,6 +1,6 @@
 ---
 title: Barking
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-10-30
 ---

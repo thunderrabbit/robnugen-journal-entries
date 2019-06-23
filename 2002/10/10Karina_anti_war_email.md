@@ -1,6 +1,6 @@
 ---
 title: Karina anti war email
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-10-10
 ---

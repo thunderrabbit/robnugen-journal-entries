@@ -1,6 +1,6 @@
 ---
 title: Harry Potter Line
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-11-15
 ---

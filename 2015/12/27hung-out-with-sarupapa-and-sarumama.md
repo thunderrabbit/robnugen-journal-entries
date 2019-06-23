@@ -1,6 +1,6 @@
 ---
 title: Hung out with Sarupapa and Sarumama
-tags: 
+tags: []
 author: Rob Nugen
 date: 2015-12-26T22:38:10+09:00
 ---

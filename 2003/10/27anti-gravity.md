@@ -1,6 +1,6 @@
 ---
 title: anti-gravity
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-10-27
 ---

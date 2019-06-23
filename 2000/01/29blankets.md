@@ -1,6 +1,6 @@
 ---
 title: blankets
-tags: 
+tags: []
 author: Rob Nugen
 date: 2000-01-29
 ---

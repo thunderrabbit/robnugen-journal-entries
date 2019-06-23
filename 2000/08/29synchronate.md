@@ -1,6 +1,6 @@
 ---
 title: synchronate
-tags: 
+tags: []
 author: Rob Nugen
 date: 2000-08-29
 ---

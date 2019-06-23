@@ -1,6 +1,6 @@
 ---
 title: quick catchup
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-11-18
 ---

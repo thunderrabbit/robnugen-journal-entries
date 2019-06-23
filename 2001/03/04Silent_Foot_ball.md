@@ -1,6 +1,6 @@
 ---
 title: Silent Foot ball
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-03-04
 ---

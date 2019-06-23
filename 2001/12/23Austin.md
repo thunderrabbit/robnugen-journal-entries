@@ -1,6 +1,6 @@
 ---
 title: Austin
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-12-23
 ---

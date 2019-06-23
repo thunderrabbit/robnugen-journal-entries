@@ -1,6 +1,6 @@
 ---
 title: Deep Impact
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-05-09
 ---

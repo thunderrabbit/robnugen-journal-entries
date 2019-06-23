@@ -1,6 +1,6 @@
 ---
 title: World Trade Center
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-09-11
 ---

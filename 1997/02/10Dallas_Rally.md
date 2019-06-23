@@ -1,6 +1,6 @@
 ---
 title: Dallas Rally
-tags: 
+tags: []
 author: Rob Nugen
 date: 1997-02-10
 ---

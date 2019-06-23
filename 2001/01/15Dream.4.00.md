@@ -1,6 +1,6 @@
 ---
 title: Dream.4.00
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-01-15
 ---

@@ -1,6 +1,6 @@
 ---
 title: nightmare
-tags: 
+tags: []
 author: Rob Nugen
 date: 2000-04-11
 ---

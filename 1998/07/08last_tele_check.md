@@ -1,6 +1,6 @@
 ---
 title: last tele check
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-07-08
 ---

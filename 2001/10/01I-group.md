@@ -1,6 +1,6 @@
 ---
 title: I-group
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-10-01
 ---

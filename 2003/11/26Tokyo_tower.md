@@ -1,6 +1,6 @@
 ---
 title: Tokyo tower
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-11-26
 ---

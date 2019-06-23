@@ -1,6 +1,6 @@
 ---
 title: Westheimer Street Fest
-tags: 
+tags: []
 author: Rob Nugen
 date: 1997-10-18
 ---

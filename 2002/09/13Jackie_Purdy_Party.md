@@ -1,6 +1,6 @@
 ---
 title: Jackie Purdy Party
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-09-13
 ---

@@ -1,6 +1,6 @@
 ---
 title: Gorilla church
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-02-02
 ---

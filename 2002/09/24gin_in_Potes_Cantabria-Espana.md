@@ -1,6 +1,6 @@
 ---
 title: gin in Potes Cantabria-Espana
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-09-24
 ---

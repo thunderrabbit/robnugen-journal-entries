@@ -1,6 +1,6 @@
 ---
 title: A new way to take off my glasses
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-09-21
 ---

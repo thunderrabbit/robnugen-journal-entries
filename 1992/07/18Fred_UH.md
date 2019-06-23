@@ -1,6 +1,6 @@
 ---
 title: Fred UH
-tags: 
+tags: []
 author: Rob Nugen
 date: 1992-07-18
 ---

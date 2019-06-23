@@ -1,6 +1,6 @@
 ---
 title: astroworld sneak preview
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-03-13
 ---

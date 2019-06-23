@@ -1,6 +1,6 @@
 ---
 title: Day
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-07-28
 ---

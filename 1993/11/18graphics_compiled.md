@@ -1,6 +1,6 @@
 ---
 title: graphics compiled
-tags: 
+tags: []
 author: Rob Nugen
 date: 1993-11-18
 ---

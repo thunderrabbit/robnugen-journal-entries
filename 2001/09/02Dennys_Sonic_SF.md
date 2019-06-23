@@ -1,6 +1,6 @@
 ---
 title: Dennys Sonic SF
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-09-02
 ---

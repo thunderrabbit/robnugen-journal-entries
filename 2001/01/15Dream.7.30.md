@@ -1,6 +1,6 @@
 ---
 title: Dream.7.30
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-01-15
 ---

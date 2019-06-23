@@ -1,6 +1,6 @@
 ---
 title: church and upcoming events
-tags: 
+tags: []
 author: Rob Nugen
 date: 1997-11-09
 ---

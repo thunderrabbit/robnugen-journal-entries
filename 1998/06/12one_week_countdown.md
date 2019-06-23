@@ -1,6 +1,6 @@
 ---
 title: one week countdown
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-06-12
 ---

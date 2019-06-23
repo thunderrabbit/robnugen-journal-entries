@@ -1,6 +1,6 @@
 ---
 title: The buzz 10 grand
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-06-05
 ---

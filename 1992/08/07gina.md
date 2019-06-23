@@ -1,6 +1,6 @@
 ---
 title: gina
-tags: 
+tags: []
 author: Rob Nugen
 date: 1992-08-07
 ---

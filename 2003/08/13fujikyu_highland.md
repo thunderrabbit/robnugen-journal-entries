@@ -1,6 +1,6 @@
 ---
 title: fujikyu highland
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-08-13
 ---

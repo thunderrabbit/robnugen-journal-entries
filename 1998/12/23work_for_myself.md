@@ -1,6 +1,6 @@
 ---
 title: work for myself
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-12-23
 ---

@@ -1,6 +1,6 @@
 ---
 title: shaved head
-tags: 
+tags: []
 author: Rob Nugen
 date: 1997-10-31
 ---

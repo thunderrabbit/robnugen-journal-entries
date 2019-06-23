@@ -1,6 +1,6 @@
 ---
 title: toy-story2
-tags: 
+tags: []
 author: Rob Nugen
 date: 2000-01-07
 ---

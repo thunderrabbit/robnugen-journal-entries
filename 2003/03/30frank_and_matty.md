@@ -1,6 +1,6 @@
 ---
 title: frank and matty
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-03-30
 ---

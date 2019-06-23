@@ -1,6 +1,6 @@
 ---
 title: shapin-up
-tags: 
+tags: []
 author: Rob Nugen
 date: 2000-04-25
 ---

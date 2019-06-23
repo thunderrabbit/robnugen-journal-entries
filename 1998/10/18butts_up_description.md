@@ -1,6 +1,6 @@
 ---
 title: butts up description
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-10-18
 ---

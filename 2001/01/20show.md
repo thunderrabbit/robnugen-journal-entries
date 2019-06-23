@@ -1,6 +1,6 @@
 ---
 title: show
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-01-20
 ---

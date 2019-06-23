@@ -1,6 +1,6 @@
 ---
 title: Lock-in
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-12-08
 ---

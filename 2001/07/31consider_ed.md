@@ -1,6 +1,6 @@
 ---
 title: consider ed
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-07-31
 ---

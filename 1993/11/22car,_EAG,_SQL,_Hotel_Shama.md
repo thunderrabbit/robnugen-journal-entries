@@ -1,6 +1,6 @@
 ---
 title: car, EAG, SQL, Hotel Shama
-tags: 
+tags: []
 author: Rob Nugen
 date: 1993-11-22
 ---

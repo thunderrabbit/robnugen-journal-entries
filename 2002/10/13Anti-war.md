@@ -1,6 +1,6 @@
 ---
 title: Anti-war
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-10-13
 ---

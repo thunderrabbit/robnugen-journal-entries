@@ -1,6 +1,6 @@
 ---
 title: planet of the apes
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-08-17
 ---

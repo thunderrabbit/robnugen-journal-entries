@@ -1,6 +1,6 @@
 ---
 title: hat-emotions
-tags: 
+tags: []
 author: Rob Nugen
 date: 2000-08-11
 ---

@@ -1,6 +1,6 @@
 ---
 title: rush hour 2
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-08-03
 ---

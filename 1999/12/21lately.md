@@ -1,6 +1,6 @@
 ---
 title: lately
-tags: 
+tags: []
 author: Rob Nugen
 date: 1999-12-21
 ---

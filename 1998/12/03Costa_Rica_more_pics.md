@@ -1,6 +1,6 @@
 ---
 title: Costa Rica more pics
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-12-03
 ---

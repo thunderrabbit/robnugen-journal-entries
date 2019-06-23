@@ -1,6 +1,6 @@
 ---
 title: school
-tags: 
+tags: []
 author: Rob Nugen
 date: 1992-04-20
 ---

@@ -1,6 +1,6 @@
 ---
 title: bought printer
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-07-21
 ---

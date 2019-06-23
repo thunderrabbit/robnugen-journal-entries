@@ -1,6 +1,6 @@
 ---
 title: leaving new hampshire
-tags: 
+tags: []
 author: Rob Nugen
 date: 1999-02-28
 ---

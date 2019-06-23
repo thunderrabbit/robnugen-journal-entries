@@ -1,6 +1,6 @@
 ---
 title: gateway 21
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-08-13
 ---

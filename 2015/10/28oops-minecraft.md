@@ -1,6 +1,6 @@
 ---
 title: oops minecraft
-tags: 
+tags: []
 author: Rob Nugen
 date: 2015-10-28T16:17:44+09:00
 ---

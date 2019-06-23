@@ -1,6 +1,6 @@
 ---
 title: PreRally
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-11-30
 ---

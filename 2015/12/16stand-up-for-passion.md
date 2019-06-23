@@ -1,6 +1,6 @@
 ---
 title: Stand up for Passion
-tags: 
+tags: []
 author: Rob Nugen
 date: 2015-12-16T22:46:53+09:00
 ---

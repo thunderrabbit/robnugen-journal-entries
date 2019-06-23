@@ -1,6 +1,6 @@
 ---
 title: Day 12000 planning
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-01-04
 ---

@@ -1,6 +1,6 @@
 ---
 title: Spots adventure
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-02-09
 ---

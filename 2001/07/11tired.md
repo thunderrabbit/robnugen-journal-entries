@@ -1,6 +1,6 @@
 ---
 title: tired
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-07-11
 ---

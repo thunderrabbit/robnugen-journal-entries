@@ -1,6 +1,6 @@
 ---
 title: my birthday 1998
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-03-25
 ---

@@ -1,6 +1,6 @@
 ---
 title: no OS2
-tags: 
+tags: []
 author: Rob Nugen
 date: 1992-08-16
 ---

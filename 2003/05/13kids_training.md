@@ -1,6 +1,6 @@
 ---
 title: kids training
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-05-13
 ---

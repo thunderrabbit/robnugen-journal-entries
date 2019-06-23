@@ -1,6 +1,6 @@
 ---
 title: Kangaroos
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-02-18
 ---

@@ -1,6 +1,6 @@
 ---
 title: ice and CD data
-tags: 
+tags: []
 author: Rob Nugen
 date: 1997-10-19
 ---

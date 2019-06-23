@@ -1,6 +1,6 @@
 ---
 title: movie
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-09-13
 ---

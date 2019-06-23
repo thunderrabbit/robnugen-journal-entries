@@ -1,6 +1,6 @@
 ---
 title: mountain bike
-tags: 
+tags: []
 author: Rob Nugen
 date: 1999-03-03
 ---

@@ -1,6 +1,6 @@
 ---
 title: dude
-tags: 
+tags: []
 author: Rob Nugen
 date: 1999-01-26
 ---

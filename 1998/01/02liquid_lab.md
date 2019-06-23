@@ -1,6 +1,6 @@
 ---
 title: liquid lab
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-01-02
 ---

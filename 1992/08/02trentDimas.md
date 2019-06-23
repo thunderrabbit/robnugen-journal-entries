@@ -1,6 +1,6 @@
 ---
 title: trentDimas
-tags: 
+tags: []
 author: Rob Nugen
 date: 1992-08-02
 ---

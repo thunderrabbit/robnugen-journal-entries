@@ -1,6 +1,6 @@
 ---
 title: Distant
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-10-22
 ---

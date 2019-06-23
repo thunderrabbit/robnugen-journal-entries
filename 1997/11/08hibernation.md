@@ -1,6 +1,6 @@
 ---
 title: hibernation
-tags: 
+tags: []
 author: Rob Nugen
 date: 1997-11-08
 ---

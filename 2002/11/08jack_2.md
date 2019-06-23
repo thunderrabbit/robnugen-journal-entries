@@ -1,6 +1,6 @@
 ---
 title: jack 2
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-11-08
 ---

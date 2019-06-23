@@ -1,6 +1,6 @@
 ---
 title: scanned an image
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-11-19
 ---

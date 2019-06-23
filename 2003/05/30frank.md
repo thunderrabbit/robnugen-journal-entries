@@ -1,6 +1,6 @@
 ---
 title: frank
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-05-30
 ---

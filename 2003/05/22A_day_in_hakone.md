@@ -1,6 +1,6 @@
 ---
 title: A day in hakone
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-05-22
 ---

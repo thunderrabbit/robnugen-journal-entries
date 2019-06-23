@@ -1,6 +1,6 @@
 ---
 title: cool day at work
-tags: 
+tags: []
 author: Rob Nugen
 date: 1999-08-13
 ---

@@ -1,6 +1,6 @@
 ---
 title: New wrist guard
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-06-06
 ---

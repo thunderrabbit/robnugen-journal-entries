@@ -1,6 +1,6 @@
 ---
 title: Fifty-one
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-07-25
 ---

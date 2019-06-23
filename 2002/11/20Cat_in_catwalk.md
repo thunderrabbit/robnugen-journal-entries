@@ -1,6 +1,6 @@
 ---
 title: Cat in catwalk
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-11-20
 ---

@@ -1,6 +1,6 @@
 ---
 title: Created ROB Ring
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-03-26
 ---

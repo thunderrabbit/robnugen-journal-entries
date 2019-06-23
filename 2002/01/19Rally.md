@@ -1,6 +1,6 @@
 ---
 title: Rally
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-01-19
 ---

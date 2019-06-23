@@ -1,6 +1,6 @@
 ---
 title: restaurant Anna Miller's
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-07-22
 ---

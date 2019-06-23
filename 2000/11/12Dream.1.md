@@ -1,6 +1,6 @@
 ---
 title: Dream.1
-tags: 
+tags: []
 author: Rob Nugen
 date: 2000-11-12
 ---

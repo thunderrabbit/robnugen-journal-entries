@@ -1,6 +1,6 @@
 ---
 title: ppp with linux
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-06-15
 ---

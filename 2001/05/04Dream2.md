@@ -1,6 +1,6 @@
 ---
 title: Dream2
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-05-04
 ---

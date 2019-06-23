@@ -1,6 +1,6 @@
 ---
 title: Today
-tags: 
+tags: []
 author: Rob Nugen
 date: 1993-11-15
 ---

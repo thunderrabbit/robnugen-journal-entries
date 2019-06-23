@@ -1,6 +1,6 @@
 ---
 title:  big prints
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-04-25
 ---

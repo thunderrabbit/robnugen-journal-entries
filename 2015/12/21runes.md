@@ -1,6 +1,6 @@
 ---
 title: runes
-tags: 
+tags: []
 author: Rob Nugen
 date: 2015-12-21T17:04:59+09:00
 ---

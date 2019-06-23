@@ -1,6 +1,6 @@
 ---
 title: synchronicities
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-06-11
 ---

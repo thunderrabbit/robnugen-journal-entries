@@ -1,6 +1,6 @@
 ---
 title: locked in
-tags: 
+tags: []
 author: Rob Nugen
 date: 1999-07-13
 ---

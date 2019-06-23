@@ -1,6 +1,6 @@
 ---
 title: been a bit busy
-tags: 
+tags: []
 author: Rob Nugen
 date: 2015-08-27T06:59:43+09:00
 ---

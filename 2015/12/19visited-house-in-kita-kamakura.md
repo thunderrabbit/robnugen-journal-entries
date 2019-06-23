@@ -1,6 +1,6 @@
 ---
 title: visited house in Kita-kamakura
-tags: 
+tags: []
 author: Rob Nugen
 date: 2015-12-19T22:25:01+09:00
 ---

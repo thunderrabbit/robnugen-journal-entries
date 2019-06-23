@@ -1,6 +1,6 @@
 ---
 title: meteor game
-tags: 
+tags: []
 author: Rob Nugen
 date: 2015-07-27T14:23:17+09:00
 ---

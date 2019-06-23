@@ -1,6 +1,6 @@
 ---
 title: mr labs ad
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-10-20
 ---

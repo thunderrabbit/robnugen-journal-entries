@@ -1,6 +1,6 @@
 ---
 title: Suzanne, Lori
-tags: 
+tags: []
 author: Rob Nugen
 locations: West Gray #3
 people: Suzanne, Lori

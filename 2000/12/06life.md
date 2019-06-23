@@ -1,6 +1,6 @@
 ---
 title: life
-tags: 
+tags: []
 author: Rob Nugen
 date: 2000-12-06
 ---

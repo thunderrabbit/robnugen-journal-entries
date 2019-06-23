@@ -1,6 +1,6 @@
 ---
 title: stuff
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-10-19
 ---

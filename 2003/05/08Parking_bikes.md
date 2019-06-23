@@ -1,6 +1,6 @@
 ---
 title: Parking bikes
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-05-08
 ---

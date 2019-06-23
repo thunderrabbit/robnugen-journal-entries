@@ -1,6 +1,6 @@
 ---
 title: Harry Potter
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-12-21
 ---

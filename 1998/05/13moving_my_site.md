@@ -1,6 +1,6 @@
 ---
 title: moving my site
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-05-13
 ---

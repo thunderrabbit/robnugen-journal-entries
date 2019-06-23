@@ -1,6 +1,6 @@
 ---
 title: Rie!
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-06-25
 ---

@@ -1,6 +1,6 @@
 ---
 title: aki and pirates of da Carribean
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-08-06
 ---

@@ -1,6 +1,6 @@
 ---
 title: basketball study
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-05-04
 ---

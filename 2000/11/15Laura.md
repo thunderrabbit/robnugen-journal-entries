@@ -1,6 +1,6 @@
 ---
 title: Laura
-tags: 
+tags: []
 author: Rob Nugen
 date: 2000-11-15
 ---

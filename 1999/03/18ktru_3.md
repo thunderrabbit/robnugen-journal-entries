@@ -1,6 +1,6 @@
 ---
 title: ktru 3
-tags: 
+tags: []
 author: Rob Nugen
 date: 1999-03-18
 ---

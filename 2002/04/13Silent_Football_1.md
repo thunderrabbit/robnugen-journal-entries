@@ -1,6 +1,6 @@
 ---
 title: Silent Football 1
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-04-13
 ---

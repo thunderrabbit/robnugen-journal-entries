@@ -1,6 +1,6 @@
 ---
 title: phone poetry
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-10-13
 ---

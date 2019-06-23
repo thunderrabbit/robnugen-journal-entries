@@ -1,6 +1,6 @@
 ---
 title: google Silent Football
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-02-06
 ---

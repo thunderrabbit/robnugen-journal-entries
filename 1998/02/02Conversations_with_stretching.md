@@ -1,6 +1,6 @@
 ---
 title: Conversations with stretching
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-02-02
 ---

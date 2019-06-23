@@ -1,6 +1,6 @@
 ---
 title: comment construction
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-11-07
 ---

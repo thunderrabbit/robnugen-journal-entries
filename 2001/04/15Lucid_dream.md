@@ -1,6 +1,6 @@
 ---
 title: Lucid dream
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-04-15
 ---

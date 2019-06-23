@@ -1,6 +1,6 @@
 ---
 title: Day in Shibuya
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-09-29
 ---

@@ -1,6 +1,6 @@
 ---
 title: Danielle Caleb Marcel Sarah
-tags: 
+tags: []
 author: Rob Nugen
 date: 1992-09-23
 ---

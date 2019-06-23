@@ -1,6 +1,6 @@
 ---
 title: others
-tags: 
+tags: []
 author: Rob Nugen
 date: 1992-02-05
 ---

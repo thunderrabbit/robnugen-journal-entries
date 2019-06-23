@@ -1,6 +1,6 @@
 ---
 title: Day to the night
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-09-12
 ---

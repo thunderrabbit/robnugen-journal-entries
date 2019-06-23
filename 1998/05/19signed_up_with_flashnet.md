@@ -1,6 +1,6 @@
 ---
 title: signed up with flashnet
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-05-19
 ---

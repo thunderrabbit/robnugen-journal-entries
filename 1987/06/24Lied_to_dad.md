@@ -1,6 +1,6 @@
 ---
 title: Lied to dad
-tags: 
+tags: []
 author: Rob Nugen
 date: 1987-06-24
 ---

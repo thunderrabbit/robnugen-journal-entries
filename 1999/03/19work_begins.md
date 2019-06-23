@@ -1,6 +1,6 @@
 ---
 title: work begins
-tags: 
+tags: []
 author: Rob Nugen
 date: 1999-03-19
 ---

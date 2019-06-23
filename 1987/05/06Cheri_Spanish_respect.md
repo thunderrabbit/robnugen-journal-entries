@@ -1,6 +1,6 @@
 ---
 title: Cheri Spanish respect
-tags: 
+tags: []
 author: Rob Nugen
 date: 1987-05-06
 ---

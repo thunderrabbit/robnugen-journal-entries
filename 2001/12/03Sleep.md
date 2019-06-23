@@ -1,6 +1,6 @@
 ---
 title: Sleep
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-12-03
 ---

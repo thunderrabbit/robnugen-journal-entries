@@ -1,6 +1,6 @@
 ---
 title: GG end of year party
-tags: 
+tags: []
 author: Rob Nugen
 date: 2015-12-05T10:51:36+09:00
 ---

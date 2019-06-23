@@ -1,6 +1,6 @@
 ---
 title: z giant monsters
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-07-31
 ---

@@ -1,6 +1,6 @@
 ---
 title: Meg and Heather
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-10-25
 ---

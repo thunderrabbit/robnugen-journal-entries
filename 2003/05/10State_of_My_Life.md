@@ -1,6 +1,6 @@
 ---
 title: State of My Life
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-05-10
 ---

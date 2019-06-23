@@ -1,6 +1,6 @@
 ---
 title: zz Memento
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-04-13
 ---

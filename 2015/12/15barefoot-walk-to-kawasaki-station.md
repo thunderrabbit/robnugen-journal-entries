@@ -1,6 +1,6 @@
 ---
 title: Barefoot walk to Kawasaki station
-tags: 
+tags: []
 author: Rob Nugen
 date: 2015-12-15T11:06:51+09:00
 ---

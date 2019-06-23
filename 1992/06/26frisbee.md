@@ -1,6 +1,6 @@
 ---
 title: frisbee
-tags: 
+tags: []
 author: Rob Nugen
 date: 1992-06-26
 ---

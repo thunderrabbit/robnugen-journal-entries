@@ -1,6 +1,6 @@
 ---
 title: play i-group
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-10-10
 ---

@@ -1,6 +1,6 @@
 ---
 title: wende talk and lebowski
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-03-14
 ---

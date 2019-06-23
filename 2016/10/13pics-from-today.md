@@ -1,6 +1,6 @@
 ---
 title: pics from today
-tags: 
+tags: []
 author: Rob Nugen
 date: 2016-10-13T01:05:50+09:00
 ---

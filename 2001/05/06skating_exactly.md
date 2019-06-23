@@ -1,6 +1,6 @@
 ---
 title: skating exactly
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-05-06
 ---

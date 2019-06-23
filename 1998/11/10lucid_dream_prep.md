@@ -1,6 +1,6 @@
 ---
 title: lucid dream prep
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-11-10
 ---

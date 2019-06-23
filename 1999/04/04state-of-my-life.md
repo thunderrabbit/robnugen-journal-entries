@@ -1,6 +1,6 @@
 ---
 title: state-of-my-lif
-tags: 
+tags: []
 author: Rob Nugen
 date: 1999-04-04
 ---

@@ -1,6 +1,6 @@
 ---
 title: first days off
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-06-24
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2000 dollar Rune
-tags: 
+tags: []
 author: Rob Nugen
 date: 1997-11-13
 ---

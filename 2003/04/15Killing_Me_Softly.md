@@ -1,6 +1,6 @@
 ---
 title: Killing Me Softly
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-04-15
 ---

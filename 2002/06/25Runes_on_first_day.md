@@ -1,6 +1,6 @@
 ---
 title: Runes on first day
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-06-25
 ---

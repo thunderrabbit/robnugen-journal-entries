@@ -1,6 +1,6 @@
 ---
 title: sign language et al
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-10-03
 ---

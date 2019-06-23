@@ -1,6 +1,6 @@
 ---
 title: Oberlin summary for Sally
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-10-10
 ---

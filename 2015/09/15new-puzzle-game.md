@@ -1,6 +1,6 @@
 ---
 title: new puzzle game
-tags: 
+tags: []
 author: Rob Nugen
 date: 2015-09-15T21:37:24+09:00
 ---

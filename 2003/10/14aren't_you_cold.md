@@ -1,6 +1,6 @@
 ---
 title: aren't you cold
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-10-14
 ---

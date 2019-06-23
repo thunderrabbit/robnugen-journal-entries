@@ -1,6 +1,6 @@
 ---
 title: grace birthday
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-06-23
 ---

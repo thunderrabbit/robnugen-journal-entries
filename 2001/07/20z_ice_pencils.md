@@ -1,6 +1,6 @@
 ---
 title: z ice pencils
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-07-20
 ---

@@ -1,6 +1,6 @@
 ---
 title: Good morning Marfa
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-11-27
 ---

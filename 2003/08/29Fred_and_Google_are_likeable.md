@@ -1,6 +1,6 @@
 ---
 title: Fred and Google are likeable
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-08-29
 ---

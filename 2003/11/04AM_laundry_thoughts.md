@@ -1,6 +1,6 @@
 ---
 title: AM laundry thoughts
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-11-04
 ---

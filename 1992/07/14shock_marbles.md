@@ -1,6 +1,6 @@
 ---
 title: shock marbles
-tags: 
+tags: []
 author: Rob Nugen
 date: 1992-07-14
 ---

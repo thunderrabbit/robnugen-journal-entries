@@ -1,6 +1,6 @@
 ---
 title: saturday at marcels
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-04-11
 ---

@@ -1,6 +1,6 @@
 ---
 title: technology
-tags: 
+tags: []
 author: Rob Nugen
 date: 1999-03-02
 ---

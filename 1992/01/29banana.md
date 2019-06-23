@@ -1,6 +1,6 @@
 ---
 title: banana
-tags: 
+tags: []
 author: Rob Nugen
 date: 1992-01-29
 ---

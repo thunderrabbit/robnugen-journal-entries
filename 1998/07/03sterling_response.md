@@ -1,6 +1,6 @@
 ---
 title: sterling response
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-07-03
 ---

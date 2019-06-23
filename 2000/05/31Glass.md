@@ -1,6 +1,6 @@
 ---
 title: Glass
-tags: 
+tags: []
 author: Rob Nugen
 date: 2000-05-31
 ---

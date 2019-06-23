@@ -1,6 +1,6 @@
 ---
 title: regression
-tags: 
+tags: []
 author: Rob Nugen
 date: 2000-01-27
 ---

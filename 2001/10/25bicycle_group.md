@@ -1,6 +1,6 @@
 ---
 title: bicycle group
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-10-25
 ---

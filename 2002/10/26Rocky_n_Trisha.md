@@ -1,6 +1,6 @@
 ---
 title: Rocky n Trisha
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-10-26
 ---

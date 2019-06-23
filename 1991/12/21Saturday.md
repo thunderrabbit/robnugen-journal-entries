@@ -1,6 +1,6 @@
 ---
 title: Saturday
-tags: 
+tags: []
 author: Rob Nugen
 date: 1991-12-21
 ---

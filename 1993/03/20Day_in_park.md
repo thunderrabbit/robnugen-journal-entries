@@ -1,6 +1,6 @@
 ---
 title: Day in park
-tags: 
+tags: []
 author: Rob Nugen
 date: 1993-03-20
 ---

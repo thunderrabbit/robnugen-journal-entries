@@ -1,6 +1,6 @@
 ---
 title: Reading to Janette
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-10-22
 ---

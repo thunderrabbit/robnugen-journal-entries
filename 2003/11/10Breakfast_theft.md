@@ -1,6 +1,6 @@
 ---
 title: Breakfast theft
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-11-10
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bobbi panic
-tags: 
+tags: []
 author: Rob Nugen
 date: 1992-09-19
 ---

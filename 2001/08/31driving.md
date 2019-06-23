@@ -1,6 +1,6 @@
 ---
 title: driving
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-08-31
 ---

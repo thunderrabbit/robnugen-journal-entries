@@ -1,6 +1,6 @@
 ---
 title: Uncle Rick talk
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-10-04
 ---

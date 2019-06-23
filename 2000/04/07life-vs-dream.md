@@ -1,6 +1,6 @@
 ---
 title: life-vs-dream
-tags: 
+tags: []
 author: Rob Nugen
 date: 2000-04-07
 ---

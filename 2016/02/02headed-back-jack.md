@@ -1,6 +1,6 @@
 ---
 title: headed back jack
-tags: 
+tags: []
 author: Rob Nugen
 date: 2016-02-02T10:12:54+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: where am i
-tags: 
+tags: []
 author: Rob Nugen
 date: 1999-08-11
 ---

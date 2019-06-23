@@ -1,6 +1,6 @@
 ---
 title: Dallas Rally by Anna Magwood
-tags: 
+tags: []
 author: Rob Nugen
 date: 1997-02-10
 ---

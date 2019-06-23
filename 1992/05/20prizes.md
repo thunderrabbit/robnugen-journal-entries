@@ -1,6 +1,6 @@
 ---
 title: prizes
-tags: 
+tags: []
 author: Rob Nugen
 date: 1992-05-20
 ---

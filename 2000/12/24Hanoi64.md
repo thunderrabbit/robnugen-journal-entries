@@ -1,6 +1,6 @@
 ---
 title: Hanoi64
-tags: 
+tags: []
 author: Rob Nugen
 date: 2000-12-24
 ---

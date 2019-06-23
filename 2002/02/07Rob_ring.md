@@ -1,6 +1,6 @@
 ---
 title: Rob ring
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-02-07
 ---

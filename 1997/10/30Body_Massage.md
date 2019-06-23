@@ -1,6 +1,6 @@
 ---
 title: Body Massage
-tags: 
+tags: []
 author: Rob Nugen
 date: 1997-10-30
 ---

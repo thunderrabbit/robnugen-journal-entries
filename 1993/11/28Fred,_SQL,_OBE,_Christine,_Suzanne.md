@@ -1,6 +1,6 @@
 ---
 title: Fred, SQL, OBE, Christine, Suzanne
-tags: 
+tags: []
 author: Rob Nugen
 date: 1993-11-28
 ---

@@ -1,6 +1,6 @@
 ---
 title: House of Pies
-tags: 
+tags: []
 author: Rob Nugen
 date: 1992-05-06
 ---

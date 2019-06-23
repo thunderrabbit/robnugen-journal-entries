@@ -1,6 +1,6 @@
 ---
 title: house-planning
-tags: 
+tags: []
 author: Rob Nugen
 date: 2000-01-09
 ---

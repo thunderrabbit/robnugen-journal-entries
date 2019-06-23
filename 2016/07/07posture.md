@@ -1,6 +1,6 @@
 ---
 title: posture
-tags: 
+tags: []
 author: Rob Nugen
 date: 2016-07-07T12:20:00+09:00
 ---

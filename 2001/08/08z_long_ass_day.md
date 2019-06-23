@@ -1,6 +1,6 @@
 ---
 title: z long ass day
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-08-08
 ---

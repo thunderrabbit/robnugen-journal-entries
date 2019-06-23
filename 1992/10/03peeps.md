@@ -1,6 +1,6 @@
 ---
 title: peeps
-tags: 
+tags: []
 author: Rob Nugen
 date: 1992-10-03
 ---

@@ -1,6 +1,6 @@
 ---
 title: car-cost
-tags: 
+tags: []
 author: Rob Nugen
 date: 2000-01-04
 ---

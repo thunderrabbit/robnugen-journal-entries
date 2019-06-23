@@ -1,6 +1,6 @@
 ---
 title: boston natural science
-tags: 
+tags: []
 author: Rob Nugen
 date: 1999-02-27
 ---

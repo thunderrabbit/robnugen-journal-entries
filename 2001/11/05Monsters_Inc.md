@@ -1,6 +1,6 @@
 ---
 title: Monsters Inc
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-11-05
 ---

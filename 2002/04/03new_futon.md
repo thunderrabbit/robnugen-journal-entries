@@ -1,6 +1,6 @@
 ---
 title: new futon
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-04-03
 ---

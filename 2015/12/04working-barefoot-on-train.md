@@ -1,6 +1,6 @@
 ---
 title: working barefoot on train
-tags: 
+tags: []
 author: Rob Nugen
 date: 2015-12-04T11:46:55+09:00
 ---

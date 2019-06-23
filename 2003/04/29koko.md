@@ -1,6 +1,6 @@
 ---
 title: koko
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-04-29
 ---

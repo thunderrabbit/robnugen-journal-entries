@@ -1,6 +1,6 @@
 ---
 title: dance
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-07-26
 ---

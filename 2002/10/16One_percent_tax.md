@@ -1,6 +1,6 @@
 ---
 title: One percent tax
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-10-16
 ---

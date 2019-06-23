@@ -1,6 +1,6 @@
 ---
 title: genealogy with g
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-04-22
 ---

@@ -1,6 +1,6 @@
 ---
 title: kuci rob roy
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-12-05
 ---

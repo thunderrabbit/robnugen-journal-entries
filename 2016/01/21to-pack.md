@@ -1,6 +1,6 @@
 ---
 title: To pack
-tags: 
+tags: []
 author: Rob Nugen
 date: 2016-01-21T21:02:12+09:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: ronnie
-tags: 
+tags: []
 author: Rob Nugen
 date: 2000-06-15
 ---

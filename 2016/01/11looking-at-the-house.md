@@ -1,6 +1,6 @@
 ---
 title: Looking at the house
-tags: 
+tags: []
 author: Rob Nugen
 date: 2016-01-11T12:17:06+09:00
 ---

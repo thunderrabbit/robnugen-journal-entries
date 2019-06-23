@@ -1,6 +1,6 @@
 ---
 title: IHOP
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-01-28
 ---

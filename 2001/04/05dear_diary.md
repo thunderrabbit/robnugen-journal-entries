@@ -1,6 +1,6 @@
 ---
 title: dear diary
-tags: 
+tags: []
 author: Rob Nugen
 date: 2001-04-05
 ---

@@ -1,6 +1,6 @@
 ---
 title: ice cream and snow boarding
-tags: 
+tags: []
 author: Rob Nugen
 date: 1997-10-04
 ---

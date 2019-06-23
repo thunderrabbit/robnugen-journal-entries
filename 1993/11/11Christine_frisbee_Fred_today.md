@@ -1,6 +1,6 @@
 ---
 title: Christine frisbee Fred today
-tags: 
+tags: []
 author: Rob Nugen
 date: 1993-11-11
 ---

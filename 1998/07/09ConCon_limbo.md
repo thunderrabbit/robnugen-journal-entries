@@ -1,6 +1,6 @@
 ---
 title: ConCon limbo
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-07-09
 ---

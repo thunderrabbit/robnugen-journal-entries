@@ -1,6 +1,6 @@
 ---
 title: random stuff
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-12-17
 ---

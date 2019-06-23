@@ -1,6 +1,6 @@
 ---
 title: Haha.I almost named this one after the unnamed person contained herein
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-07-27
 ---

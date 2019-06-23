@@ -1,6 +1,6 @@
 ---
 title: Church outside
-tags: 
+tags: []
 author: Rob Nugen
 date: 2002-09-29
 ---

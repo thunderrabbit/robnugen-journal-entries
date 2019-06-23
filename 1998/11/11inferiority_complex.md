@@ -1,6 +1,6 @@
 ---
 title: inferiority complex
-tags: 
+tags: []
 author: Rob Nugen
 date: 1998-11-11
 ---

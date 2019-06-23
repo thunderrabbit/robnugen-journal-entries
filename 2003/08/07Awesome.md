@@ -1,6 +1,6 @@
 ---
 title: Awesome
-tags: 
+tags: []
 author: Rob Nugen
 date: 2003-08-07
 ---
