@@ -11,6 +11,3 @@ Today while running to catch my preferred train, I stubbed my toe.  It
 didn't hurt all that much, but is just annoying that now I will have
 to wear shoes for a bit while it heals.  I forgot to take a picture
 right after it happened, but I posted one on twitter tonight.
-
-{{< tweet 887672183304052736 >}}
-

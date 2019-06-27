@@ -26,7 +26,6 @@ It is because of complice that I am writing this journal entry now.
 Anyway, I stubbed the <del>crap out</del> <ins>skin off</ins> of my
 toe yesterday and will wear shoes for a bit.
 
-{{< tweet 962542193398329349 >}}
 
 I wonder how long that image will be available.
 
