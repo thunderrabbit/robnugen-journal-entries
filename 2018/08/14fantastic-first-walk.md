@@ -1,5 +1,5 @@
 ---
-title: "fantastic first walk (#1)"
+title: "fantastic first walk (1)"
 tags: [ "walk", "5am", "morning", "first" ]
 author: Rob Nugen
 date: 2018-08-14T11:05:38+09:00
