@@ -16,7 +16,7 @@ git add .
 git commit -m "latest entries"
 git push bb master
 git push origin master
-git push netlify master
+git push origin netlify
 
 #echo "building"
 #hugo
