@@ -1,5 +1,5 @@
 ---
-title: "break up cat fight before walk #3"
+title: "break up cat fight before walk (3)"
 tags: [ "walk", "morning", "500-615" ]
 author: Rob Nugen
 date: 2018-08-16T06:25:47+09:00
