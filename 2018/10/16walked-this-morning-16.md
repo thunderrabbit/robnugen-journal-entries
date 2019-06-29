@@ -1,5 +1,5 @@
 ---
-title: "morning walk #16"
+title: "morning walk (16)"
 tags: [ "walk" ]
 author: Rob Nugen
 date: 2018-10-16T05:30:08+09:00
