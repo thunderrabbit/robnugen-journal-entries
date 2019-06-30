@@ -32,7 +32,7 @@ Point...</p>
 <p class=date>11:10am EDT Friday 4 October 2002</p>
 
 <p>Okay, I have confirmed that my estimates were pretty close to what
-<a href="http://www.mapquest.com">Mapquest</a> suggests (I'm really
+<a href="https://www.mapquest.com">Mapquest</a> suggests (I'm really
 impressed with all that mapquest offers free of charge, and how
 intuitive their interface is), and I've emailed my peeps in various
 cities I plan to visit.  Going to go walk on the nearby mountain to

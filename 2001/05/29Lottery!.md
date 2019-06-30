@@ -13,7 +13,7 @@ date: 2001-05-29
 would win the java applet lottery before he would.</p>
 
 <p>From this <a
-href="http://www.cadenhead.org/book/java2411/lottomad.shtml">page</a>:</p>
+href="https://www.cadenhead.org/book/java2411/lottomad.shtml">page</a>:</p>
 
 <p>He gave me a quarter because I won first, and
 another quarter because I kept both my java applet

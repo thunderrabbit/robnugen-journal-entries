@@ -12,7 +12,7 @@ To do today:
 0. ~~upload journal entries~~
 1. ~~burn copy of Debian iso to DVD~~
 2. ~~burn copy of
-   [SystemRescueCd](http://www.sysresccd.org/SystemRescueCd_Homepage)
+   [SystemRescueCd](https://www.sysresccd.org/SystemRescueCd_Homepage)
    to DVD~~
 3. ~~work on tickets while those are running~~
 4. ~~install new HD in new old PC~~

@@ -7,7 +7,7 @@ tags: [ "disclosure", "ufo" ]
 
 ##13:29 Sunday 02 March 2008
 
-[Exopolitics: The Study of the Politics of Extraterrestrial Contact: Local ET Contact Activity](http://exopolitics.blogspot.com/2008/02/local-et-contact-activity-by-ed-komarek.html)   
+[Exopolitics: The Study of the Politics of Extraterrestrial Contact: Local ET Contact Activity](https://exopolitics.blogspot.com/2008/02/local-et-contact-activity-by-ed-komarek.html)   
 
 
 > A recent increase of ET activity worldwide seems to back up this assertion as well as what seems to be a corresponding increase in world government disclosure.

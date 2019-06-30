@@ -7,7 +7,7 @@ tags: [ "internet" ]
 
 ##04:51 Thursday 29 September 2005
 
-[Skype - The whole world can talk for free.](http://skype.com/helloagain.html)
+[Skype - The whole world can talk for free.](https://skype.com/helloagain.html)
 
 Skype rules.  skype to skype calls are always freeeee!!! Calls from Skype to phones are amazingly inexpensive!!!!
 

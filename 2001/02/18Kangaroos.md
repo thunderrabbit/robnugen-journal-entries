@@ -61,7 +61,7 @@ different more perfect job for me:</p>
 
 <p>Just had the most amazing conversation with Bryn. 
 Our homework:  I will contact <a
-href="http://www.rotary.org">rotary.org</a> to see
+href="https://www.rotary.org">rotary.org</a> to see
 what they do, and Bryn will write a letter that she
 has needed to write for a while.</p>
 

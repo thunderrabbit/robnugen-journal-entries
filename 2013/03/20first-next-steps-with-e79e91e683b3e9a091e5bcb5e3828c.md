@@ -9,7 +9,7 @@ tags: [ "meisogambare" ]
 
 **6:08pm Wednesday 20 March 2013**
 
-I submitted [瞑想頑張れ](https://github.com/thunderrabbit/meiso-gambare) a few days ago.   It's not approved yet, but I'm going to add on some bits, right after I go through [Beginning Storyboards tutorial](http://www.raywenderlich.com/5138/beginning-storyboards-in-ios-5-part-1).
+I submitted [瞑想頑張れ](https://github.com/thunderrabbit/meiso-gambare) a few days ago.   It's not approved yet, but I'm going to add on some bits, right after I go through [Beginning Storyboards tutorial](https://www.raywenderlich.com/5138/beginning-storyboards-in-ios-5-part-1).
 
 hmmmmmm I just added the time above, and realize I would like a way to paste the current time + day + date like I did in my previous journal entries.   With wordpress, I only have the date in the metadata, not in the entries themselves.   Maybe a little clock widget on the new-post page will do it.
 

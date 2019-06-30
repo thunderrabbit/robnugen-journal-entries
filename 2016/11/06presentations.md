@@ -15,7 +15,7 @@ I hate the idea of presenting; part of me wants to cancel everything,
 but I hope to see some of you on Thursday November 24th at SuperDeluxe
 in Roppongi.
 
-http://www.pechakucha.org/cities/tokyo/events/581bfccc9831a6196b000002
+https://www.pechakucha.org/cities/tokyo/events/581bfccc9831a6196b000002
 
 - Rob
 

@@ -17,7 +17,7 @@ different project, "coming soon"
 1. On new moon weekends, I've been attending
 [Tokyo ET Contact](www.meetup.com/Tokyo-ET-Contact-Group/) meetups,
 organized by Mark, and on some other weekends, I've been attending
-[Tokyo Reiki Circle](http://www.meetup.com/Tokyo-Reiki-Circle/)
+[Tokyo Reiki Circle](https://www.meetup.com/Tokyo-Reiki-Circle/)
 meetups.  When there's a conflict, I go with ET group because it's
 only once a month.
 

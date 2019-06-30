@@ -12,7 +12,7 @@ for the date when I creat a new journal entry. Now instead of having
 to look up the date and enter it, I just hit enter (three times) and
 it enters the date components.
 
-Thanks to [this answer](http://stackoverflow.com/a/9646268/194309) on SO, my code features ```read-string``` which can take default values:
+Thanks to [this answer](https://stackoverflow.com/a/9646268/194309) on SO, my code features ```read-string``` which can take default values:
 
     (defun hakyll-new-post (title tags yyyy mm dd)
       "Create a new Hakyll post for today with TITLE and TAGS."

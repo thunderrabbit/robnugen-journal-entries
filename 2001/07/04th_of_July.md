@@ -102,8 +102,8 @@ pixels.</p>
 asked how much it cost.  $5 million.</p>
 
 <p>I asked for the URL to their company.  He said either <a
-href="http://www.screenworks.com">http://www.screenworks.com</a> or <a
-href="http://www.bccvideo.com">http://www.bccvideo.com</a>.  However,
+href="https://www.screenworks.com">https://www.screenworks.com</a> or <a
+href="https://www.bccvideo.com">https://www.bccvideo.com</a>.  However,
 I don't see anything on these sites that looks like a big-ass TV in a
 trailer.</p>
 
@@ -236,7 +236,7 @@ the monstrous trailer roll up onto the curb on the way around the
 corner.  I wonder where the tank lives.  Oh, it's named Mathilda.  And
 I got a brochure; let me see if they have a URL.</p>
 
-<p>Ah. <a href="http://www.texasmuseum.org">www.texasmuseum.org</a>,
+<p>Ah. <a href="https://www.texasmuseum.org">www.texasmuseum.org</a>,
 but I don't see any images of tanks, much less a picture of
 Mathilda.</p>
 

@@ -7,7 +7,7 @@ tags: [ "journal" ]
 
 ##09:39 Monday 28 May 2012
 
-Sweet!  I stepped barefootedly onto the Tokaido line and saw Michael Q Todd standing right there!  [http://xeeme.com/michaelqtodd](http://xeeme.com/michaelqtodd)
+Sweet!  I stepped barefootedly onto the Tokaido line and saw Michael Q Todd standing right there!  [https://xeeme.com/michaelqtodd](https://xeeme.com/michaelqtodd)
 
 He's just back from 14 months on The Gold Coast of OZ, and will be finishing his new book soon after doing a speaking tour overseas. 
 

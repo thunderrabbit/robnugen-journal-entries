@@ -7,7 +7,7 @@ tags: [ "journal" ]
 
 ##18:57 Monday 27 February 2012
 
-[![P513](http://getfile7.posterous.com/getfile/files.posterous.com/thunderrabbit/grDuChAhBmtzJlFfmtqfulnniDFvvEcjCIDpvdCekIejxpEwJqemGCChCBfc/p513.jpg.scaled500.jpg)](http://getfile1.posterous.com/getfile/files.posterous.com/thunderrabbit/grDuChAhBmtzJlFfmtqfulnniDFvvEcjCIDpvdCekIejxpEwJqemGCChCBfc/p513.jpg.scaled1000.jpg)
+[![P513](https://getfile7.posterous.com/getfile/files.posterous.com/thunderrabbit/grDuChAhBmtzJlFfmtqfulnniDFvvEcjCIDpvdCekIejxpEwJqemGCChCBfc/p513.jpg.scaled500.jpg)](https://getfile1.posterous.com/getfile/files.posterous.com/thunderrabbit/grDuChAhBmtzJlFfmtqfulnniDFvvEcjCIDpvdCekIejxpEwJqemGCChCBfc/p513.jpg.scaled1000.jpg)
 
 Nice to have my stack of redmine tickets only increase by 4 after our meeting today, instead of 18 or so after last two meetings.  
 

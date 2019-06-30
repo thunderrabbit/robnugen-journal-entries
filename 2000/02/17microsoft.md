@@ -13,14 +13,14 @@ date: 2000-02-17
 3 or something.   I want to upgrade the browser.  I opened the browser and 
 it defaulted to www.msn.com  The msn.com website detected that I need a new 
 browser and sent me to an <a 
-href="http://www.msn.com/help/upgrade.htm">upgrade page</a>.  Nice.  Very 
+href="https://www.msn.com/help/upgrade.htm">upgrade page</a>.  Nice.  Very 
 convenient for the customer.  Except for one detail.
 
 <p>All the links on the page are broken.
 
 <p>I emailed webmaster@msn.com to let them know.
 
-<p>Then I visited <a href="http://www.netscape.com">netscape.com</a>.  The 
+<p>Then I visited <a href="https://www.netscape.com">netscape.com</a>.  The 
 same type of upgrade alert came up.  I selected download 128-bit security 
 version 4.7.  Got it no problem.
 

@@ -8,7 +8,7 @@ date: 2002-10-11
 <p class=date>1:38pm EDT Friday 11 October 2002</p>
 
 <p>Super awesome thanks to Jenny at <a
-href="http://www.peoplesfoodco-op.org">People's Food Co-op</a>,
+href="https://www.peoplesfoodco-op.org">People's Food Co-op</a>,
 downtown Kalamazoo's only natural grocer who bought me an apple for
 lunch.</p>
 

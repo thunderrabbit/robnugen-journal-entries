@@ -13,7 +13,7 @@ Over the past few days we have been emailing back and forth, mostly
 with me going "uh huh" "yeah" "that's right" "great!" as he explains
 the intricacies of the best way to create a haskell library.
 
-I've been studying [Learn You a Haskell](http://learnyouahaskell.com/)
+I've been studying [Learn You a Haskell](https://learnyouahaskell.com/)
 and considering buying Graham Hutton's book, and am excited to have my
 static journal back, very excited to have Travis making a kick-ass
 library to seamlessly(?) connect with Hakyll to make it

@@ -33,7 +33,7 @@ number of hours (= $$$) that it will cost to implement.</p>
 
 <p>Also, I helped Kim get his new domain registered for his personal
 website.  I'll be helping him build it.  <a
-href="http://www.spiritblueeagle.com">www.spiritblueeagle.com</a>.  It
+href="https://www.spiritblueeagle.com">www.spiritblueeagle.com</a>.  It
 probably is either not set up or just has a placeholder.</p>
 
 <p><img src='/images/rob/wL-ROB.gif'/></p>

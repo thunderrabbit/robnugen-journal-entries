@@ -11,7 +11,7 @@ This tutorial has taken me a bit to grok, but the turning point was when I print
 
 [![](/images/2012/11/desk-1024x768.jpg)](/images/2012/11/desk.jpg)
 
-Also, I just found that [grooveshark](http://grooveshark.com/) works well on my mobile device.  sweet!
+Also, I just found that [grooveshark](https://grooveshark.com/) works well on my mobile device.  sweet!
 
 [![](/images/2012/11/grooveshark.png)](/images/2012/11/grooveshark.png)
 
@@ -24,9 +24,9 @@ to Rob  9:00 PM (2 hours ago)
 
 Hi Rob,
 
-I noticed you've shared Grooveshark (http://grooveshark.com/) on this page http://robnugen.com/blog/2012/11/22/digging-through-tutorial/, as you are no doubt aware, Grooveshark actually closed down back in 2015.
+I noticed you've shared Grooveshark (https://grooveshark.com/) on this page https://robnugen.com/blog/2012/11/22/digging-through-tutorial/, as you are no doubt aware, Grooveshark actually closed down back in 2015.
 
-We’ve put together a guide to the best alternatives in 2017. Here’s the link - http://comparitech.net/limewire-grooveshark-alternative
+We’ve put together a guide to the best alternatives in 2017. Here’s the link - https://comparitech.net/limewire-grooveshark-alternative
 
 Perhaps you could update your page to include a link to our guide so that anyone still interested in Grooveshark has an alternative.
 

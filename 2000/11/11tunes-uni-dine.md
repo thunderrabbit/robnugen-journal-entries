@@ -32,7 +32,7 @@ this point and *then* I saw that NIN has a new album (turns out to be
 the remixes of "fragile" (Maggie and Molly (and gang) this is what I
 want from you guys for Christmas) called "things falling apart")
 coming out on November 21st (according to the website <a
-href="http://www.nothingrecords.com">nothingrecords.com</a>)
+href="https://www.nothingrecords.com">nothingrecords.com</a>)
 
 <p>(how's that for a run-on sentence?)
 
@@ -42,7 +42,7 @@ to be finished.  I rode around a bit and then I practiced mounting the
 unicycle without the aid of a curb.  (huh huh, you said "mount") After
 several tries I did it!  This means I have successfully completed the
 components of Level One unicycle riding according to <a
-href="http://www.unicycling.org">unicycling.org</a>:
+href="https://www.unicycling.org">unicycling.org</a>:
 <pre>
      Mount Unicycle unassisted 
      Ride 50 meters 

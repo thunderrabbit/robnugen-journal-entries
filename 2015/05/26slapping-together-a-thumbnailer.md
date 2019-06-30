@@ -42,7 +42,7 @@ Hmm.. maybe I should rethink my percentages.
 
 [Sigal](https://sigal.readthedocs.org/en/latest/) looks reasonable.
 
-[LazyGal](http://sousmonlit.zincube.net/~niol/playa/oss/projects/lazygal/)
+[LazyGal](https://sousmonlit.zincube.net/~niol/playa/oss/projects/lazygal/)
 looks good.
 
 [gthumb](https://wiki.gnome.org/Apps/gthumb) looks promising.

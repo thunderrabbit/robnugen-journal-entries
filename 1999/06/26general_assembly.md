@@ -13,7 +13,7 @@ date: 1999-06-26
 <p>This is a common question posed by my friends, and I've not yet written my official definitive answer.
 
 <p>For those of you thinking, "Utah?" here you go:
-<br>I attended General Assembly, the largest <a href="http://www.uua.org">Unitarian Universalist</a> convention of the year. This year it was held in Salt Lake City. The week consists of lots of workshops, some worship, and plenary, where we as a democratic group decide what issues to focus our collective resources on.  
+<br>I attended General Assembly, the largest <a href="https://www.uua.org">Unitarian Universalist</a> convention of the year. This year it was held in Salt Lake City. The week consists of lots of workshops, some worship, and plenary, where we as a democratic group decide what issues to focus our collective resources on.  
 
 <p>I go there just to meet cool people and hang out.
 
@@ -49,7 +49,7 @@ date: 1999-06-26
 
 <p><b>The site</b>
 
-<p>Most of General Assembly events happened in <a href="http://www.saltpalace.com">The Salt Palace</a>, a pretty nice convention center. (Better picture <a href="http://www.tvsa.com/projects/convent/salt/salt.htm">here</a>) Most people stayed in hotels within one block of the Salt Palace.  Salt Lake City has some big blocks, though!  All streets are two way streets and are wide enough so that a horse drawn carriage can turn around within the street.
+<p>Most of General Assembly events happened in <a href="https://www.saltpalace.com">The Salt Palace</a>, a pretty nice convention center. (Better picture <a href="https://www.tvsa.com/projects/convent/salt/salt.htm">here</a>) Most people stayed in hotels within one block of the Salt Palace.  Salt Lake City has some big blocks, though!  All streets are two way streets and are wide enough so that a horse drawn carriage can turn around within the street.
 
 <p>Jen, Matt, Lucy and I all stayed in the Wyndham, in part of a block of rooms reserved for young adults.
 

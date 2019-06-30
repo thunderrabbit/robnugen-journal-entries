@@ -9,7 +9,7 @@ tags: [ "travel" ]
 
 > Yoshio Kushida, a scientist who grew up in Tokyo said: "It's the most dangerous city in the world. There is just no way I would live there."
 
-[Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/story.jsp?story=603087)
+[Belfast Telegraph](https://www.belfasttelegraph.co.uk/news/story.jsp?story=603087)
 
 
 
@@ -35,6 +35,6 @@ And I have even less to worry about.  I know my angels will continue to take ca
 
 
 
-technorati tags:[tokyo](http://technorati.com/tag/tokyo), [earthquake](http://technorati.com/tag/earthquake), [future](http://technorati.com/tag/future), [threat](http://technorati.com/tag/threat)
+technorati tags:[tokyo](https://technorati.com/tag/tokyo), [earthquake](https://technorati.com/tag/earthquake), [future](https://technorati.com/tag/future), [threat](https://technorati.com/tag/threat)
 
-Blogged with [Flock](http://www.flock.com)
+Blogged with [Flock](https://www.flock.com)

@@ -46,7 +46,7 @@ the world.</p></li>
 language.  I know Tyler has done it; I believe I can do it.</p></li>
 
 <li><p>I've signed up on <a
-href="http://www.findateacher.net">www.findateacher.net</a> to begin
+href="https://www.findateacher.net">www.findateacher.net</a> to begin
 expanding my income streams away from just working at Nova.  I should
 be able to make twice as much per hour tutoring this way.</p></li>
 

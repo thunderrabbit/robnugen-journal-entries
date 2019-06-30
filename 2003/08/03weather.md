@@ -10,9 +10,9 @@ date: 2003-08-03
 <p>Okay, I did a bit of research (oh, I talked to my dad tonight and
 that was fun to catch up with him.  We didn't do a full 100% catchup,
 but definitely got more than everything is fine) on weather in <a
-href="http://www.weather.com/weather/climatology/monthly/77001">Houston</a>
+href="https://www.weather.com/weather/climatology/monthly/77001">Houston</a>
 and <a
-href="http://www.weather.com/outlook/travel/climatology/monthly/JAXX0085">Tokyo</a>.</p>
+href="https://www.weather.com/outlook/travel/climatology/monthly/JAXX0085">Tokyo</a>.</p>
 
 <p>According to weather.com, Tokyo gets about 1.5 inches more rain
 than Houston per year, though Houston's rain is more evenly spread
@@ -25,7 +25,7 @@ in Tokyo.  They're only 87 for one month.  We're 90-few for
 <em>two</em> months.  So our summer is hotter and lasts longer.</p>
 
 <p>For fun, I looked up <a
-href="http://www.weather.com/outlook/travel/climatology/monthly/ASXX0002">Alice
+href="https://www.weather.com/outlook/travel/climatology/monthly/ASXX0002">Alice
 Springs</a>: (avg 96F, 97F, 95F in Dec, Jan, Feb.  Only 12 inches of
 rain per year)</p>
 

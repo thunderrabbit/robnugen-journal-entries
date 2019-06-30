@@ -53,7 +53,7 @@ hoped. Oh well.  Moral: "give me your data on
 time!"</p>
 
 <p>4) I spent several minutes watching <a
-href="http://www.humanclock.com">www.humanclock.com</a>
+href="https://www.humanclock.com">www.humanclock.com</a>
  Dude and I are going to take pics tomorrow so we can
 be featured on the site!</p>
 

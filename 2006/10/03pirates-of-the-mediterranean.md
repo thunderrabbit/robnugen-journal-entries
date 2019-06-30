@@ -7,7 +7,7 @@ tags: [ "airplane day", "guest writer", "terror" ]
 
 ##01:26 Tuesday 03 October 2006
 
-[http://www.nytimes.com/2006/09/30/opinion/30harris.html?ei=5087%0A&en;=17f2c99ae7254bfa&ex;=1159761600&pagewanted;=all ](http://www.nytimes.com/2006/09/30/opinion/30harris.html?ei=5087%0A&en=17f2c99ae7254bfa&ex=1159761600&pagewanted=all)
+[https://www.nytimes.com/2006/09/30/opinion/30harris.html?ei=5087%0A&en;=17f2c99ae7254bfa&ex;=1159761600&pagewanted;=all ](https://www.nytimes.com/2006/09/30/opinion/30harris.html?ei=5087%0A&en=17f2c99ae7254bfa&ex=1159761600&pagewanted=all)
 
 
 September 30, 2006

@@ -23,7 +23,7 @@ and then act like she didn't care, and size up the crowd before she
 approached another.</p>
 
 <p>Saw a huge video advertising <a
-href="http://www.chiwawaworld.com/">www.chiwawaworld.com</a>, with
+href="https://www.chiwawaworld.com/">www.chiwawaworld.com</a>, with
 little cartoon chiuahuas with halos wildly driving race cars and
 dying, or not dying, but wrecking a lot.</p>
 

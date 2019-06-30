@@ -15,7 +15,7 @@ packages.</p>
 
 <p> - and -</p>
 
-<p>I just signed up for ASL classes at <a href="http://www.llu.com">Leisure
+<p>I just signed up for ASL classes at <a href="https://www.llu.com">Leisure
 Learning</a>.  1.5 hours for six weeks, each Wednesday starting 19
 September.  :-)  :-)</p>
 

@@ -13,7 +13,7 @@ date: 1998-06-24
 
 <p>Back at home, I chilled and helped Robin with some computer questions and slept and read the first chapter of <em>Contact</em> by Carl Sagan.
 
-<p>Today I got up and researched <a href=http://www.rightstep.com target="newwin">The Right Step</a>'s ISP to see how I can help them get their page looking cooler.  I met with them at 9:30 Tuesday morning and it looks like I will be soon working for them!
+<p>Today I got up and researched <a href=https://www.rightstep.com target="newwin">The Right Step</a>'s ISP to see how I can help them get their page looking cooler.  I met with them at 9:30 Tuesday morning and it looks like I will be soon working for them!
 
 <p>I tried to figure out how to use MS Front Page, but I couldn't see how to make it use flash.net as my proxy server instead of remote-nugen.  I don't know what the problem is.
 

@@ -8,9 +8,9 @@ date: 2001-04-09
 <p class=date>11:37pm Monday 9 April 2001</p>
 
 <p>Thanks to the <a
-href="http://www.compaq.com/rcfoc">RCFoC</a> for
+href="https://www.compaq.com/rcfoc">RCFoC</a> for
 finding this <a
-href="http://www.businessweek.com/magazine/content/01_12/b3724007.htm">article</a>
+href="https://www.businessweek.com/magazine/content/01_12/b3724007.htm">article</a>
 on robots!</p>
 
 <p>My imagination is piqued; I can hardly conceive of

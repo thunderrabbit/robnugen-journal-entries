@@ -98,7 +98,7 @@ two seats!
 <br>And the lovely granola again!
 
 <p>In the inflight magazine I found an envelope for <a
-href="http://www.snapfish.com">snapfish.com</a> who say they will develop my
+href="https://www.snapfish.com">snapfish.com</a> who say they will develop my
 film for $1.69 and scan the images online.  Nice!  I'll try them out.
 
 <p class=date>14:13

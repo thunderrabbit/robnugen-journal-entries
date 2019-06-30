@@ -7,7 +7,7 @@ date: 2015-07-15T05:44:44+09:00
 
 ## 05:44 Wednesday 15 July 2015 JST
 
-[isup.me](http://isup.me/http://new.robnugen.com/) says it's up, but I
+[isup.me](https://isup.me/https://new.robnugen.com/) says it's up, but I
 can't connect to my site.  booo.
 
     silver-monkey:~ thunderrabbit$ traceroute robnugen.com

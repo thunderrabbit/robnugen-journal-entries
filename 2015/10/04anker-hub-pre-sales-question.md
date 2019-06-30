@@ -11,7 +11,7 @@ to: support
 
 subject: *pre-sales questions about Anker USB 3.0 9-Port Hub + 5V 2.1A Charging Port*
 
-    Your hub at http://www.ianker.com/product/68ANHUB-B10A won lifehacker's poll (http://lifehacker.com/most-popular-usb-hub-anker-7-port-and-9-port-powered-u-1433052505), and you seem to have a lot of fans on Twitter, so I'm about 10 minutes from making a purchase!
+    Your hub at https://www.ianker.com/product/68ANHUB-B10A won lifehacker's poll (https://lifehacker.com/most-popular-usb-hub-anker-7-port-and-9-port-powered-u-1433052505), and you seem to have a lot of fans on Twitter, so I'm about 10 minutes from making a purchase!
     
     BUT, I want to confirm that this product, will, in fact, solve my USB problems.
     

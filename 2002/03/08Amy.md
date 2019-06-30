@@ -8,7 +8,7 @@ date: 2002-03-08
 <title></title>
 <p class=date>6:34pm CST Friday 8 March 2002</p>
 
-<p><a href="http://www.amymultimedia.com">Amy</a> is helping us design
+<p><a href="https://www.amymultimedia.com">Amy</a> is helping us design
 our website, so she was meeting with Karla over here today.  She and I
 have entertained each other through AIM, so today we went to lunch at
 Mission Burrito.  Great time.</p>

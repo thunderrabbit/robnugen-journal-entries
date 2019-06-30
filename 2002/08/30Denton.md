@@ -20,7 +20,7 @@ driving to Denton.  Got directions to her school and all that.</p>
 <p>Have just accompanied Marta to her school for an appointment,
 during which I read WIRED magazine January 2002 issue.  Some cat is
 hoping to start a new internet economy based on <a
-href="http://www.e-gold.com">gold standard</a>.</p>
+href="https://www.e-gold.com">gold standard</a>.</p>
 
 <p class=date>12:09pm</p>
 
@@ -37,5 +37,5 @@ though, so I took a risk and entered my password using my keyboard.
 Whew!</p>
 
 <p>Aight, join the fun and create your own <a
-href="http://www.e-gold.com/e-gold.asp?cid=614540">e-gold</a> account!
+href="https://www.e-gold.com/e-gold.asp?cid=614540">e-gold</a> account!
 Hooray!</p>

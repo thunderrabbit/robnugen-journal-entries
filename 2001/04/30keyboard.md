@@ -94,7 +94,7 @@ questions!
 > 
 > The full story is part of my journal online at
 >
-http://www.robnugen.com/cgi-local/journal.cgi?dir=2001/02&file=17keyboard.html
+https://new.robnugen.com/journal/2001/02/17/keyboard
 > 
 > We join the story as Bryn and I are at Luna Park
 > (amusement park) in

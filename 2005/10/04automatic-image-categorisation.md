@@ -7,7 +7,7 @@ tags: [ "internet", "technology" ]
 
 ##03:39 Tuesday 04 October 2005
 
-[automatic image categorisation](http://www.physorg.com/news3966.html)
+[automatic image categorisation](https://www.physorg.com/news3966.html)
 
 This seems pretty sweet.  Google could use this technology to further optimize its image search.  I could use this technology to get the pictures on my website arranged!
 

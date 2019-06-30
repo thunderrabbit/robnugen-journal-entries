@@ -8,7 +8,7 @@ date: 2001-05-22
 <p class=date>1:28pm Tuesday 22 May 2001</p>
 
 <p>On Friday, Molly sent me this link: <a
-href="http://www.cadenhead.org/book/java2412/lottomad.html">http://www.caden
+href="https://www.cadenhead.org/book/java2412/lottomad.html">https://www.caden
 head.org/book/java2412/lottomad.html</a>.  It simulates a lottery in a java
 applet, allowing the user to choose 6 numbers between 1 and 50, inclusive.
 The applet simulates playing the lottery twice a week every week until one

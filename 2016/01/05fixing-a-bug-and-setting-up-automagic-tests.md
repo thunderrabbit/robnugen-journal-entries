@@ -35,7 +35,7 @@ All of this inspired me to look again at testing systems.  I have
 looked at Selenium more than three times and have never been able to
 properly install the thing, much less get started with tests.  But
 today I found two awesome test systems: https://ghostinspector.com and
-http://casperjs.org/
+https://casperjs.org/
 
 Ghost Inspector is suuuuper easy to use.  I was able to set up a few
 tests on the live site in about an hour.  The most difficult part was

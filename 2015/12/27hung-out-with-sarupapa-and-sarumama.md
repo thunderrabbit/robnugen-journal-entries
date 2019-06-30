@@ -12,8 +12,8 @@ between 外苑前駅 and 表参道駅.  Several clothing designers were there,
 looking all fashionable / weird.  I showed five of my drawings, most
 of which were unnamed and not necessarily finished.  I offered to give
 them to anyone who liked them.  Ended up giving away two:
-[*White Dots*](http://art.robnugen.com/wd15) to Veero (not Vwero), and
-[*東京路線*](http://art.robnugen.com/tr15) (which had had a working
+[*White Dots*](https://art.robnugen.com/wd15) to Veero (not Vwero), and
+[*東京路線*](https://art.robnugen.com/tr15) (which had had a working
 title of *Three or More Circles*) to Madoka and Mitsuro.
 
 I asked Lin to write the kanji on 東京路線, but after seeing it

@@ -56,7 +56,7 @@ did say, "I'm reaaallly not happy."</p>
 <p>While waiting for the phone guy, I wrote a little
 auto-index thing in perl for Kim Sawyer's website. 
 You can see the prototype <! a target="new"
-href="http://www.robnugen.com/cgi-local/poetry.pl">here (2006 update: not!)<! /a>
+href="https://www.robnugen.com/cgi-local/poetry.pl">here (2006 update: not!)<! /a>
 (should open in a new window).  I wrote these four
 sample poems.</p>
 
@@ -69,7 +69,7 @@ view.</p>
 
 <p>I will make it 'prettier' and then move it to his
 <a
-href="http://www.spiritblueeagle.com">website</a>
+href="https://www.spiritblueeagle.com">website</a>
 soon.</p>
 
 <p>- - - -</p>

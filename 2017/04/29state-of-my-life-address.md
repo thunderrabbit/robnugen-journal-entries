@@ -14,7 +14,7 @@ date: 2017-04-29T22:39:35+09:00
 5. Because I unexpectedly killed connectivity to my former local VM and needed to recreate it.
 6. Lin will soon go to her second meeting regarding purchase of 1000万円 company.  This time with a CPA to evaluate its expected future value.
 7. I have not done anything with the three styrofoam blocks I bought at the beginning of the month.
-8. We just bailed on Alien Domicile after Lin was like "meh" and I confirmed our suspicions with [these reviews](http://www.imdb.com/title/tt6574700/reviews)
+8. We just bailed on Alien Domicile after Lin was like "meh" and I confirmed our suspicions with [these reviews](https://www.imdb.com/title/tt6574700/reviews)
 9. We are watching an introduction to Bitcoin!  I hope Lin will be more interested in BTC after this.
 10. Aw man.  She was like "meh" despite my passionate plea that she try to understand the future potential.
 11. Now we are watching Secret Life of Pets

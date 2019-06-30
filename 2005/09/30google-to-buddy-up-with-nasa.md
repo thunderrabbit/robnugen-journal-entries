@@ -7,11 +7,11 @@ tags: [ "internet", "news" ]
 
 ##02:37 Friday 30 September 2005
 
-[Schmidt's Google To Buddy Up With NASA - Forbes.com](http://www.forbes.com/technology/ebusiness/2005/09/29/google-nasa-search-cx_cn_0929autofacescan01.html)
+[Schmidt's Google To Buddy Up With NASA - Forbes.com](https://www.forbes.com/technology/ebusiness/2005/09/29/google-nasa-search-cx_cn_0929autofacescan01.html)
 
 This one looks pretty damn cool.  
 
-According to [another article](http://news.bbc.co.uk/2/hi/business/4292458.stm), Google will open up a million square feet worth of office space in NASA Ames research center.
+According to [another article](https://news.bbc.co.uk/2/hi/business/4292458.stm), Google will open up a million square feet worth of office space in NASA Ames research center.
 
 My goodness it would be good to have a few hundred GOOG shares right about now.
 

@@ -10,7 +10,7 @@ date: 2003-01-06
 <p>My day today seemed vaguely productive, if I stretch the meaning of
 the word.  I helped unload and reload the dishwasher, chatted with
 Ryan about his <a
-href="http://boyinthemachine.tripod.com">website</a>, and watched a
+href="https://boyinthemachine.tripod.com">website</a>, and watched a
 single funny scene from <em>I'm gonna get you sucka</em>, the one
 starring Chris Rock where he comes into the shop asking how much it
 costs for the ribs.</p>

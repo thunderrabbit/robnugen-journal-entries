@@ -13,7 +13,7 @@ driven ahead.  Sally took a picture of them.</p>
 
 <p>Lotsa chips and big burritos and enchiladas and
 lots of happy talking and <a
-href="http://freeweb.pdq.net/ajamail/">Angélique</a>
+href="https://freeweb.pdq.net/ajamail/">Angélique</a>
 said HI as I walked by her table!  She was there with
 her husband Aaron, who I kinda knew from UH.</p>
 

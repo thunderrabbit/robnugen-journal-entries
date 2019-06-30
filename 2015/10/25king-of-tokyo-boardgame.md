@@ -11,7 +11,7 @@ At Travis and Yumi's house playing King of Tokyo,
 
 https://boardgamegeek.com/boardgame/70323/king-tokyo
 
-http://www.amazon.com/IELLO-IEL-51032-King-Tokyo/dp/B004U5R5BI
+https://www.amazon.com/IELLO-IEL-51032-King-Tokyo/dp/B004U5R5BI
 
 https://en.wikipedia.org/wiki/King_of_Tokyo
 

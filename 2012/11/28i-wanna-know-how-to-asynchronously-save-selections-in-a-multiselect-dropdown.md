@@ -9,6 +9,6 @@ tags: [ "work" ]
 
 So I asked this question on SO:
 
-[http://stackoverflow.com/questions/13598834/detect-select-status-of-options-in-a-multiselect-with-backbone-picky](http://stackoverflow.com/questions/13598834/detect-select-status-of-options-in-a-multiselect-with-backbone-picky)
+[https://stackoverflow.com/questions/13598834/detect-select-status-of-options-in-a-multiselect-with-backbone-picky](https://stackoverflow.com/questions/13598834/detect-select-status-of-options-in-a-multiselect-with-backbone-picky)
 
 There may be a slick way to do it without [Backbone.Picky](https://github.com/derickbailey/backbone.picky); it's curious that Derick hasn't touched Backbone.Picky in 6 months (since May 2012).

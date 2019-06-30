@@ -11,12 +11,12 @@ date: 2001-03-28
 way.</p>
 
 <p>Visit <a
-href="http://www.spellchecker.net/">http://www.spellchecker.net</a> and
+href="https://www.spellchecker.net/">https://www.spellchecker.net</a> and
 click on [Virtually Any Text Box] on the right hand side.  Now click [View
 the To Do List Demo].</p>
 
 <p>(Or just click <a
-href="http://www.spellchecker.net/demos/to_do.htm">here</a>)</p>
+href="https://www.spellchecker.net/demos/to_do.htm">here</a>)</p>
 
 <p>See the box that looks like this?
 

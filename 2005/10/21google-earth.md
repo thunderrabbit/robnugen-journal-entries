@@ -7,7 +7,7 @@ tags: [ "internet", "technology" ]
 
 ##01:05 Friday 21 October 2005
 
-Wow.   [Google Earth](http://earth.google.com/) rules.
+Wow.   [Google Earth](https://earth.google.com/) rules.
 
 I am 99% certain I have found Scott, my favorite car parked at my office at FSD about 3 or 4 years ago in Houston.  That is *awesome*.
 

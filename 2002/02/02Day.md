@@ -11,7 +11,7 @@ date: 2002-02-02
 <p>Talent Show soon.</p>
 
 <p>Amazing presentation today by <a
-href="http://www.alancanfora.com">Alan Canfora</a> who was wounded
+href="https://www.alancanfora.com">Alan Canfora</a> who was wounded
 during the Kent State massacre on 4 May 1970.  I had zero idea that
 anything had even happened, much less the details of the event.  He
 presented a history of student rebellions over the past few hundred

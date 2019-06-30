@@ -46,7 +46,7 @@ for inspiration lately; every bit i can conjure goes in to my webpage. hey,
 my webpage! check it out, i'm fixing it up...if you pay attention and sweep
 your cursor over the words, you'll find...*gasp* special hidden links!
 hooray. learned that from my friend robert. not you. <a
-href="http://www.envy.nu/nontoxic/intro.html">http://www.envy.nu/nontoxic/in
+href="https://www.envy.nu/nontoxic/intro.html">https://www.envy.nu/nontoxic/in
 tro.html</a> in case you wanna take another look. it's different now,
 there's more. frames, even. i guess writing an entry for your webpage that
 is simply plugging my OWN webpage is pretty stupid...but hey i'm a geek

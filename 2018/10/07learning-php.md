@@ -17,7 +17,7 @@ for AB website, and now the database is loaded via an autoloader.
      * This file is part of "Modernizing Legacy Applications in PHP".
      *
      * @copyright 2014-2016 Paul M. Jones <pmjones88@gmail.com>
-     * @license http://opensource.org/licenses/bsd-license.php BSD
+     * @license https://opensource.org/licenses/bsd-license.php BSD
      */
     
     /**

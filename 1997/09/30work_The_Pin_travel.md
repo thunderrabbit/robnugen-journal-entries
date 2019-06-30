@@ -16,7 +16,7 @@ I showed off my project to Leila, who said it looked really good and she was qui
 <p>
 I worked on <em>The Past Is Now</em>, my novel for a couple hours today. I made the chapter called "Androids" available, and shaped up a few of the other chapters.
 <p>
-I goofed around on <a href="http://www.backpackers.com">
+I goofed around on <a href="https://www.backpackers.com">
 www.backpackers.com</a> for a while today, and found that there
 are people traveling all the time!!!  Me too!! me too!! me too!!
 I wrote to a guy here in Houston who plans to trek from Houston to Anchorage Alaska starting in May 1998.  Wow.  That's a bit too soon; I'm planning my quest starting in August, but I wrote to him to see if I can get some tips from him.  

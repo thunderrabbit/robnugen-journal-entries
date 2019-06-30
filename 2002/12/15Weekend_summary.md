@@ -44,7 +44,7 @@ remains from the party.</p>
 <p>Went to Samba class at 10:30 AM with Sally.  I was mostly able to
 keep up, but not completely.  Thankful for the extra help Silvana gave
 me.  Her class is 10:30-noon at <a
-href="http://www.dancemission.com/">Dance Mission</a> on 24th and
+href="https://www.dancemission.com/">Dance Mission</a> on 24th and
 Mission in San Francisco.  Once that class was over, we stayed and
 listened to some cats play afro-cuban drums tirelessly.  At 12:30,
 Sally went back to Jennifer's and I went to Hip Hop class (beginner).

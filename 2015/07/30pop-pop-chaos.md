@@ -13,4 +13,4 @@ Today I uploaded Alpha version 0.111 which looks visually the same,
 but has had most of the underlying code restructured.
 
 I found what I think I'll use as the basis for the bubbles in Pop Pop
-Chaos: [http://bl.ocks.org/mbostock/1021841](http://bl.ocks.org/mbostock/1021841)
+Chaos: [https://bl.ocks.org/mbostock/1021841](https://bl.ocks.org/mbostock/1021841)

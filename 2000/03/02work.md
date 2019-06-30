@@ -20,7 +20,7 @@ what they will look like after a nice laundering.  Not brilliant
 shiny, but still golden in color.  Very nice.
 
 <p>So inspired was I about the coin that upon arrival at work, I
-visited <a href="http://www.usmint.gov">www.usmint.gov</a> and
+visited <a href="https://www.usmint.gov">www.usmint.gov</a> and
 purchased two 1999 Susan B. Anthony proof coins, and two 2000 proof
 sets, including all the quarters from this year!!!  Wait... 2000 or
 1999 proof?  Hmmmm.. now I don't remember.

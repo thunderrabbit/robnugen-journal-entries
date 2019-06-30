@@ -13,7 +13,7 @@ tags: [ "airplane day", "guest writer", "news", "terror" ]
 
 
 
-[http://www.cnn.com/2006/EDUCATION/08/06/sept11.theories.ap/index.html](http://www.cnn.com/2006/EDUCATION/08/06/sept11.theories.ap/index.html)
+[https://www.cnn.com/2006/EDUCATION/08/06/sept11.theories.ap/index.html](https://www.cnn.com/2006/EDUCATION/08/06/sept11.theories.ap/index.html)
 
 
 

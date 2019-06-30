@@ -16,7 +16,7 @@ sleep on the couch soon after she gets back.)
 
 Well, it wasn't terrible, but it was definitely dated.
 
-A [review on Jinni](http://www.jinni.com/movies/the-thing/reviews/)
+A [review on Jinni](https://www.jinni.com/movies/the-thing/reviews/)
 said
 
 

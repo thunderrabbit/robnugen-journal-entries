@@ -33,7 +33,7 @@ electronic" music.</p>
 <p>Sally took me to her campus and then I saw the sign on the building
 <b>88.9 KUCI</b>...</p>
 
-<p><em>We're going to the <a href="http://www.kuci.org">radio station
+<p><em>We're going to the <a href="https://www.kuci.org">radio station
 at UCI</a>!</em></p>
 
 <p> It's student run, has a lot of the same music as KTRU (though it
@@ -55,7 +55,7 @@ available at the end of the CD after like 13 minutes of silence when
 the last track ends.</p>
 
 <p>Barbara's shift ended and I was talking to the next DJ, <a
-href="http://www.r3e.com">Rob Roy</a>, whose show is <b>Music, Mirth
+href="https://www.r3e.com">Rob Roy</a>, whose show is <b>Music, Mirth
 and Madness</b>, featuring "ug hip-hop, breaks, jungle, downtempo,
 breakbeats" which I describe as electronic/breakbeat show, including
 some hip hop.  We started talking, hit it off around music (especially

@@ -207,7 +207,7 @@ Kirlian photography, color puncture and bio-resonance) then finish my
 pilgrimage next summer.  I most humbly ask you to consider passing on
 my little ebay store address to someone you think might be interested
 in Dutch gift baskets, hand made moisturizing creams or fun long hats.
-The address is: <a href="http://www.stores.ebay.com/gnometreatssurprisesfromholland">http://www.stores.ebay.com/gnometreatssurprisesfromholland</a>
+The address is: <a href="https://www.stores.ebay.com/gnometreatssurprisesfromholland">https://www.stores.ebay.com/gnometreatssurprisesfromholland</a>
 
 Thank you for your attention.  It tickles me to no end that someone
 besides my mother likes my stories.

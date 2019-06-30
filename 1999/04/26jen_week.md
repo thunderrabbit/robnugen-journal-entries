@@ -19,7 +19,7 @@ date: 1999-04-26
 
 <p>Back to my dad's house he had to go to work; Jen and I read "83 Reasons Why Bill Gates Can Be Beat" or something out of WIRED magazine.
 
-<p>Drove back to my area and watched <em>Never Been Kissed</em> starring the infinitely cute Drew Barrymore.   I worked on website stuff and found a super incredible applet composer that allowed me to create a vertical scrolling applet in 30 minutes!  I downloaded the composer from <a href="http://www.opencube.com">www.opencube.com</a>.  Jen slept at Wende's.
+<p>Drove back to my area and watched <em>Never Been Kissed</em> starring the infinitely cute Drew Barrymore.   I worked on website stuff and found a super incredible applet composer that allowed me to create a vertical scrolling applet in 30 minutes!  I downloaded the composer from <a href="https://www.opencube.com">www.opencube.com</a>.  Jen slept at Wende's.
 
 <p>Today: up, got Jen, hi to Cassandra and Tere and Mad Potter, got Wende's credit card at her work, went to Whole Foods so Jen could get her shoulders massaged by Kathy Fey, went to KTRU at 4pm to meet Alex et. al. for an economics experiment. We bid on various pie charts' values, and actually made money! I got $14.75; Jen got $16.25!!  Super cool!
 

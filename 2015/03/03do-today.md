@@ -17,10 +17,10 @@ available:
 1. ~~try to fix journal entries so unadulterated Middleman can use them (1 hour)~~
 
 If I had a
-[tomato timer](http://en.wikipedia.org/wiki/Pomodoro_Technique), I'd
+[tomato timer](https://en.wikipedia.org/wiki/Pomodoro_Technique), I'd
 count off 15 minute increments with it.  For now I'll use my phone.
 (thanks to
-[dropped knowledge](http://np.reddit.com/r/personalfinance/comments/2wyxua/someone_drop_knowledge_on_me_21mblackfl_i_want_to/covf6yp))
+[dropped knowledge](https://np.reddit.com/r/personalfinance/comments/2wyxua/someone_drop_knowledge_on_me_21mblackfl_i_want_to/covf6yp))
 
 #10:48
 

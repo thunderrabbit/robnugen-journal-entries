@@ -7,7 +7,7 @@ tags: [ "palestine", "terror" ]
 
 ##18:31 Monday 17 March 2008
 
-[Save Jerusalem from the Apartheid Wall and Ethnic cleansing](http://www.thehandstand.org/archive/may2006/articles/jerusalemwall.htm)
+[Save Jerusalem from the Apartheid Wall and Ethnic cleansing](https://www.thehandstand.org/archive/may2006/articles/jerusalemwall.htm)
 
 
 

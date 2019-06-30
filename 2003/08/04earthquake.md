@@ -93,7 +93,7 @@ Benny?"</p>
 
 <pre>
 <p><a
-href="http://www.japantimes.co.jp/cgi-bin/getarticle.pl5?nn20030805b1.htm">
+href="https://www.japantimes.co.jp/cgi-bin/getarticle.pl5?nn20030805b1.htm">
 The Japan Times</a>:</p>
 
 Temblor jolts Ibaraki Prefecture

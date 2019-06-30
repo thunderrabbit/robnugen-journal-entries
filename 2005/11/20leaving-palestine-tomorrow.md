@@ -25,7 +25,7 @@ None of us had to sign any papers, make any statements, or anything.  The soldie
 
 It seems to me that this should be a big deal.  There shouldn't be a nonchalant attitude about a grenade being found in a field.  They didn't ask us any questions; they didn't cordon off the area (except during their actual detonation); they didn't hunt for clues; they just came out, DESTROYED A GRENADE, and left.
 
-There is a video of the detonation at http://www.youtube.com/?v=xr3H_AlHPhU, and on my website with some pictures from the day at http://robnugen.com/cgi-local/journal.pl?type=all&date;=2005/10/31#Today
+There is a video of the detonation at https://www.youtube.com/?v=xr3H_AlHPhU, and on my website with some pictures from the day at https://robnugen.com/cgi-local/journal.pl?type=all&date;=2005/10/31#Today
 
 2) The second interesting thing happened quite close to the hostel where I'm staying in Jerusalem.  Unfortunately, it's not unusual that we hear soundbombs used near Damascus Gate, which is visible from the hostel's lounge window.  Soundbombs are not "dangerous" per se, but the Israeli border police and soldiers use them to disperse crowds.
 
@@ -33,13 +33,13 @@ We heard a quick succession of perhaps 8 soundbombs, which sent several of us ou
 
 I thought everything was over (I went out rather later than the others) when one last soundbomb was thrown.  I can only imagine the soldier who threw it must have been in an adrenaline-filled state, and not thinking clearly.  It landed quite near 4 or 5 young girls who had been walking up the road in a carefree way.
 
-The video I took is here: http://www.youtube.com/?v=LVVGTnaNZns
+The video I took is here: https://www.youtube.com/?v=LVVGTnaNZns
 
 Afterward, my friend David confronted someone who seemed to be in charge of the action, saying it was inappropriate to throw soundbombs so close to innocents.  This man angrily replied that rocks had been thrown at an innocent Jewish man, and that we Political Activists were only showing one side of the story; why weren't we videoing the Jew who had been hurt?
 
 As I recorded David talking to the Jewish man (who had a bit of blood on his nose, not really visible in the video), the angry soldier yelled at me, but I didn't respond.
 
-Here is the video: http://www.youtube.com/?v=0vzUttSNzvU
+Here is the video: https://www.youtube.com/?v=0vzUttSNzvU
 
 3) The third thing happened yesterday.  I saw it from afar, but couldn't make myself go; it felt too dangerous.  A Palestinian family's house was being demolished for "security reasons," according to the soldier who was asked.  The family had been given 24 hours notice.
 
@@ -91,7 +91,7 @@ I'm glad I didn't go; it sounds really traumatizing.
 After our swim, we met a woman named Delphine from Switzerland and chatted with her while I let the water dry on my skin, leaving a layer of salt crystals on my shoulder and some in my beard.  (I haven't shaved since I left Japan on 6 October.)  We decided to take a mud bath, and turned ourselves into mud versions of The Fantastic Four, or a dark hue of Blue Man Group.  I debated letting Francois (my stuffed rabbit) get coated, but didn't want to risk having him rot if I couldn't wash all the mud out.
 
 Several pictures from Dead Sea and a longer version of the story are here:
-http://robnugen.com/cgi-local/journal.pl?type=all&date;=2005/11/14
+https://robnugen.com/cgi-local/journal.pl?type=all&date;=2005/11/14
 
 7) Just tonight, I went to Bethlehem with my friend Niveen!!  We had some problems getting through the new checkpoint, a brand new facility that opened yesterday according to my friend Sarah who has been going to and from Bethlehem almost every day during her stay in Jerusalem.
 
@@ -130,7 +130,7 @@ This is definitely a situation after which I thought of several things I could h
 I am pretty sure I would not have done it had there *not* been about 50 American tourists there watching everything.  I basically just wanted to make a scene and get across the point that the checkpoint makes people resentful.
 
 Pictures are on this page, though not (yet) well labeled:
-http://robnugen.com/cgi-local/journal.pl?type=all&date;=2005/11/16
+https://robnugen.com/cgi-local/journal.pl?type=all&date;=2005/11/16
 
 (*) strictly speaking I can't prove this is true, but I know the US gives money to Israel.
 

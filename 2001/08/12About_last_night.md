@@ -41,10 +41,10 @@ Rob's Subdued Crazy Dance and all kindsa fun.  I
 secured a ride home with my friend Brian, but at the
 last minute, Beth offered to drive me home because she
 wanted to ask me about <a
-href="http://www.heartstormproductions.com/">The
+href="https://www.heartstormproductions.com/">The
 Techno Cosmic Mass</a> which I helped create in
 December 1999.  Here is <a
-href="http://www.robnugen.com/cgi-local/journal.cgi?dir=1999/12&file=15catch-up.txt">my
+href="https://new.robnugen.com/journal/1999/12/15/catch-up/">my
 entry</a> about it.</p>
 
 <p>Beth dropped me off and I gave Wende a kiss and

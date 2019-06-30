@@ -30,7 +30,7 @@ date: 2003-12-31
 <p>I keep getting interrupted; most recently by a visit with Karen for
   some hours as we ate, rode the roller coasters and generally had a
   grand time gossiping here in Tokyo Dome City.  She's the (unpaid)
-  executive coordinator for a <a href="http://www.portlandart.org">fly
+  executive coordinator for a <a href="https://www.portlandart.org">fly
   art zoo</a> in Portland.</p>
 
 <p>Yuuko got sick-ish on the indoor rollercoaster and didn't ride the

@@ -8,4 +8,4 @@ tags: [ "internet", "journal" ]
 
 ##17:46 Thursday 13 December 2012
 
-I imagine if Apple had kept Google's original map app, Google wouldn't have utterly redesigned its new map app, which is beautiful.   Thanks to [HN](http://news.ycombinator.com/), I found [Sacha Greif's nice writeup on Google's map app](http://sachagreif.com/design-details-of-google-maps-for-ios/).
+I imagine if Apple had kept Google's original map app, Google wouldn't have utterly redesigned its new map app, which is beautiful.   Thanks to [HN](https://news.ycombinator.com/), I found [Sacha Greif's nice writeup on Google's map app](https://sachagreif.com/design-details-of-google-maps-for-ios/).

@@ -7,8 +7,8 @@ tags: [ "internet" ]
 
 ##13:14 Wednesday 13 February 2013
 
-Now we can [make our own XKCD style comics!](http://cmx.io/edit/)
+Now we can [make our own XKCD style comics!](https://cmx.io/edit/)
 
-[![Screen shot 2013-02-13 at 1.05.59 PM](/images/2013/02/Screen-shot-2013-02-13-at-1.05.59-PM.png)](http://cmx.io/#4942165)
+[![Screen shot 2013-02-13 at 1.05.59 PM](/images/2013/02/Screen-shot-2013-02-13-at-1.05.59-PM.png)](https://cmx.io/#4942165)
 
-[Edit as you like](http://cmx.io/edit/#4942165)!
+[Edit as you like](https://cmx.io/edit/#4942165)!

@@ -12,7 +12,7 @@ I just found [Clef](https://getclef.com/) (while registering for
 been hacked (it hasn't), and wondering how my
 [RABBIT](https://dogepartychain.io/asset/RABBIT)s are doing. (they're
 fine)), and am intrigued enough to try
-[adding clef](http://docs.getclef.com/v1.0/docs/quick-setup) to my
+[adding clef](https://docs.getclef.com/v1.0/docs/quick-setup) to my
 static (ahem) site.
 
 ## 11:04

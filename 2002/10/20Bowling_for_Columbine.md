@@ -109,8 +109,8 @@ These reviews (c) 2002 Karina Montgomery.  Please feel free to forward
 but just credit the reviewer in the text.  Thanks. 
 reviews@cinerina.com
 Check out previous reviews at:
-<a href="http://www.cinerina.com">http://www.cinerina.com</a>
-<a href="http://ofcs.rottentomatoes.com">http://ofcs.rottentomatoes.com</a> - the Online Film Critics Society
-<a href="http://www.hsbr.net/reviews/karina/">http://www.hsbr.net/reviews/karina/</a> - Hollywood Stock Exchange 
+<a href="https://www.cinerina.com">https://www.cinerina.com</a>
+<a href="https://ofcs.rottentomatoes.com">https://ofcs.rottentomatoes.com</a> - the Online Film Critics Society
+<a href="https://www.hsbr.net/reviews/karina/">https://www.hsbr.net/reviews/karina/</a> - Hollywood Stock Exchange 
 Brokerage Resource
-<a href="http://www.mediamotions.com">http://www.mediamotions.com</a> and   <a href="http://www.capitol-city.com">http://www.capitol-city.com</a>
+<a href="https://www.mediamotions.com">https://www.mediamotions.com</a> and   <a href="https://www.capitol-city.com">https://www.capitol-city.com</a>

@@ -27,7 +27,7 @@ My name is Roni Kahn and I'm the assistant marketing director of Tabacon,
 I was really impressed from your impression of Tabacon. If it's OK I would 
 like to add a link to our official Tabacon web site form your page.
  
-The URL is : <a href="http://www.tabacon.com">http://www.tabacon.com</a>
+The URL is : <a href="https://www.tabacon.com">https://www.tabacon.com</a>
  
 Thank you in advance, and I hope I will see you back in Tabacon very soon,
  

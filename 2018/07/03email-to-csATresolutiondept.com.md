@@ -16,7 +16,7 @@ My name is Rob Nugen, and I am writing to ask you to remove unauthorized charges
 
 My credit card number is (REDACTED)
 
-On or around April 15, 2018, I used my credit card to do age verification for http://free-adult-games.com/  The website URL and name both indicate the content is free.  I read the information written around the credit card entry form and felt assured my card would not be charged.  Otherwise, I would not have signed up because there is plenty of free pornography available online.
+On or around April 15, 2018, I used my credit card to do age verification for https://free-adult-games.com/  The website URL and name both indicate the content is free.  I read the information written around the credit card entry form and felt assured my card would not be charged.  Otherwise, I would not have signed up because there is plenty of free pornography available online.
 
 On or around May 28th 2018, I received my credit card statement which showed three different charges (even though I only entered my credit card number one time).
 

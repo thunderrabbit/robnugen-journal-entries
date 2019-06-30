@@ -17,7 +17,7 @@ Live stream in two parts today.
 * The first roll https://www.youtube.com/watch?v=i9gCFg5TpqQ
 
 I have spent [73 hours](
-http://www.grun1.com/utils/timeCalc.html?t1=4:14:42&c1=June%202017&t2=10:16:10&c2=July%202017&t3=26:12:06&c3=Aug%202017&t4=29:46:54&c4=Sep%202017&t5=57:16&c5=2%20oct&t6=1:06:05&c6=9%20oct&t7=24:02&c7=9%20oct&mode=0&fs3=1&ft2=1&f3t1=1&f4t0=1&d=:&o4=1&fps=
+https://www.grun1.com/utils/timeCalc.html?t1=4:14:42&c1=June%202017&t2=10:16:10&c2=July%202017&t3=26:12:06&c3=Aug%202017&t4=29:46:54&c4=Sep%202017&t5=57:16&c5=2%20oct&t6=1:06:05&c6=9%20oct&t7=24:02&c7=9%20oct&mode=0&fs3=1&ft2=1&f3t1=1&f4t0=1&d=:&o4=1&fps=
 ) on MT3 so far.
 
 ## 10:23 Wednesday 11 October 2017 JST

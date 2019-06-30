@@ -13,13 +13,13 @@ some black construction paper.</p>
 
 <p>Amidst talking and watching TechTV, we cut out some
 numbers for <a
-href="http://www.humanclock.com">humanclock.com</a>,
+href="https://www.humanclock.com">humanclock.com</a>,
 and brainstormed some fun ways to photograph them. 
 The camera is so we can photograph them
 underwater.</p>
 
 <p>On TV we saw the <a
-href="http://www.arrowdynamics.com/rides.php?rtype=4th%20Dimension">4th
+href="https://www.arrowdynamics.com/rides.php?rtype=4th%20Dimension">4th
 Dimension</a> roller coasters.  Pretty amazing
 stuff.</p>
 

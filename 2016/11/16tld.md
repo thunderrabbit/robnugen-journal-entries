@@ -21,4 +21,4 @@ domains.
 
 ## 10:25 Thursday 17 November 2016 JST
 
-http://nic.aws/
+https://nic.aws/

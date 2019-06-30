@@ -23,5 +23,5 @@ script calculates the difference between the balances, so I can enter
 the differences into my budget tracking software.
 
 The script is basically a slight modification of
-http://www.grun1.com/utils/timeCalc.html which I use to keep track of
+https://www.grun1.com/utils/timeCalc.html which I use to keep track of
 how much time I have spent on Marble Track 3.

@@ -24,7 +24,7 @@ See?
 ## 21:08
 ## 21:08 Thursday 06 October 2016 JST
 
-    ;;;  http://stackoverflow.com/a/251922
+    ;;;  https://stackoverflow.com/a/251922
     
     
     (defvar current-date-time-format "## %H:%M %A %d %B %Y %Z"
@@ -54,5 +54,5 @@ See?
     (global-set-key (kbd "C-c T") 'markdown-timestamp-full)
 
 From
-http://stackoverflow.com/questions/251908/how-can-i-insert-current-date-and-time-into-a-file-using-emacs
+https://stackoverflow.com/questions/251908/how-can-i-insert-current-date-and-time-into-a-file-using-emacs
 

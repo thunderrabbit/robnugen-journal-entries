@@ -41,7 +41,7 @@ telephones, chocolate... I'll practice:</p>
 <br>fork tenedor
 
 <p>Hahahah  So I just visited <a
-href="http://www.studyspanish.com">www.studyspanish.com</a> because I
+href="https://www.studyspanish.com">www.studyspanish.com</a> because I
 couldn't remember the translation for fork.  I see that I
 mistranslated spoon, which should be cuchara.</p>
 

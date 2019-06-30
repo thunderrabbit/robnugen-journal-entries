@@ -9,12 +9,12 @@ tags: [ "movies", "reviews" ]
 
 > It was linear, things happened, and I experienced moments of tension and interest.
 
-[Cinerina » Blog Archive » The Kingdom](http://www.cinerina.com/reviews/the-kingdom/)
+[Cinerina » Blog Archive » The Kingdom](https://www.cinerina.com/reviews/the-kingdom/)
 
 
 
 Hahahah my funny friend/step-sister Karina has some great lines in her movie reviews!
 
-Blogged with [Flock](http://www.flock.com/blogged-with-flock)
+Blogged with [Flock](https://www.flock.com/blogged-with-flock)
 
-Tags: [cinerina](http://technorati.com/tag/cinerina)
+Tags: [cinerina](https://technorati.com/tag/cinerina)

@@ -13,4 +13,4 @@ I clicked play and then was like "omgerd, Trent!!"
 
 
 
-[Worlds: The Kepler Planet Candidates](http://vimeo.com/47408739) from [Alex Parker](http://vimeo.com/alexhp) on [Vimeo](http://vimeo.com).
+[Worlds: The Kepler Planet Candidates](https://vimeo.com/47408739) from [Alex Parker](https://vimeo.com/alexhp) on [Vimeo](https://vimeo.com).

@@ -25,7 +25,7 @@ business.  I wonder why..</p>
 <p>I just realized that I don't know where in Springfield is a
 Kinko's.  I had looked it up at Kinko's in Columbia, but my browser
 crashed last night while I had a bunch of windows open reading
-articles via <a href="http://news.google.com">news.google.com</a> and
+articles via <a href="https://news.google.com">news.google.com</a> and
 accidentally clicked on something and the browser died after it
 couldn't connect or something silly.  Anyway, the point is I will
 actually have to <em>ask</em> someone where I can find a kinko's so I

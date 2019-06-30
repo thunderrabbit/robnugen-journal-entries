@@ -8,7 +8,7 @@ date: 2015-09-14T11:20:04+09:00
 ## 11:20 Monday 14 September 2015 JST
 
 Now, to be clear, I haven't actually seen/met
-[Lantz](http://loreatec.jp/e/), but the Internoodles assure me he can
+[Lantz](https://loreatec.jp/e/), but the Internoodles assure me he can
 fix iPhones in a jiffy.  I'm just starting this optimistic journal
 entry on the way there because I cannot browse cat pictures on my
 phone.

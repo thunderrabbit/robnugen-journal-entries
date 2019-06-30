@@ -43,7 +43,7 @@ The very best thing about not using Wordpress or Hoken: I can repeat filenames a
 
 16. In the cat+computer room, Lin put down some 1/2 inch foam rubber flooring. which the cats love to claw.  It's proving to be an excellent investment in keeping their claws off the walls!
 
-17. I've got four mazes queued up for [A Maze a Week](http://www.amazeaweek.net/), but one is scheduled to go out tonight.
+17. I've got four mazes queued up for [A Maze a Week](https://www.amazeaweek.net/), but one is scheduled to go out tonight.
 
 18. I just fixed the tab key on my keyboard.  It had gotten sticky and didn't travel quickly each time I pressed it.
 

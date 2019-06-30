@@ -15,7 +15,7 @@ too tired to think of the right phraseology.  Basically if the water
 in the gutter gets about an inch deeper, it will cover the entire
 street.</p>
 
-<p>My lovely <a href="http://www.apcc.com">APC</a> UPS keeps clicking
+<p>My lovely <a href="https://www.apcc.com">APC</a> UPS keeps clicking
 as it provides my computer with a pure clean electrical current even
 though the lightning strikes close by.</p>
 
@@ -28,7 +28,7 @@ remember the name of the forearm bone.</p>
 
 <p>Humerus!</p>
 
-<p>I found <a href="http://bio.winona.msus.edu/dapkus/211/Skeletal/Bonenames.htm">this page</a> via <a href="http://www.google.com">google</a>.</p>
+<p>I found <a href="https://bio.winona.msus.edu/dapkus/211/Skeletal/Bonenames.htm">this page</a> via <a href="https://www.google.com">google</a>.</p>
 
 <p><img src='/images/rob/wL-ROB.gif'/></p>
 

@@ -15,7 +15,7 @@ date: 2000-05-04
 
 <p>Did research and found that this virus has been traversing the globe throughout the day.  
 
-<p>Norton Anti-Virus was able to detect the virus, but not able to remove it.  I found <a href="http://www.getvirushelp.com">www.getvirushelp.com</a> which had information which removed the virus.
+<p>Norton Anti-Virus was able to detect the virus, but not able to remove it.  I found <a href="https://www.getvirushelp.com">www.getvirushelp.com</a> which had information which removed the virus.
 
 <p>- -
 

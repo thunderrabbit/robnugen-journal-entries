@@ -8,7 +8,7 @@ date: 2018-05-09T14:38:30+09:00
 ## 14:38 Wednesday 09 May 2018 JST
 
 I am not sure how all this works, but I plan to join
-[Soness](http://soness.com/)'s
+[Soness](https://soness.com/)'s
 [Get Booked to Speak in a Week](https://courses.yourspeakingjourney.com/)
 class starting tomorrow.  So that means between tomorrow and the week
 after, I should get booked to speak.  Does it count if I get booked

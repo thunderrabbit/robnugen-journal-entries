@@ -9,11 +9,11 @@ date: 1999-07-22
 
 <p>I entered 3 pictures into The Big Show, an annual art show here in Houston.  I don't know if they have been accepted yet; I'll find out by Friday.
 
-<p>On this coming Saturday, I'm going out of town for 2 weeks.  Both weeks will be in Iowa for <a href="http://www.yruu.org">YRUU</a> stuff.  First week is for Youth Council, like the US Senate, except for YRUU.  Second week is for Con Con, a week long conference for youth, same as Con Con last year, except in Iowa.  (it moves each year)
+<p>On this coming Saturday, I'm going out of town for 2 weeks.  Both weeks will be in Iowa for <a href="https://www.yruu.org">YRUU</a> stuff.  First week is for Youth Council, like the US Senate, except for YRUU.  Second week is for Con Con, a week long conference for youth, same as Con Con last year, except in Iowa.  (it moves each year)
 
 <p>Over the past couple of days, I've been working on a project for another art show... it's seemed like a project:  I'm having slides developed out of prints that I've already taken.  The slides are needed to enter this next art show, and are due on August 4.  A quick look at my calendar and I realize I am quickly running out of time, since I'll be out of town past August 4th starting in 2 days.  Yikes!   
 
-<p>Special thanks to Laura and the crew at <a href="http://www.wolfcamera.com">Wolf Camera</a> for their help.
+<p>Special thanks to Laura and the crew at <a href="https://www.wolfcamera.com">Wolf Camera</a> for their help.
 
 <p>Speaking more about pictures, my friend Jennifer has offered to scan some pictures for me since I obviously haven't in a while.  I wasn't able to get my scanner to work on my Windows machine in a while, and haven't found linux drivers for the scanner.   If you know where I can get linux drivers for a Microtek ScanMaker E3 Plus, please <a href="mailto:robnugen@flash.net">let me know!</a>
 

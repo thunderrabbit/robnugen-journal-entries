@@ -8,7 +8,7 @@ date: 2003-11-28
 <p class=date>1:46am JST Saturday 29 November 2003</p>
 
 <p>From <a
-href="http://www.nytimes.com/2003/11/28/technology/28cell.html?th">The
+href="https://www.nytimes.com/2003/11/28/technology/28cell.html?th">The
 New York Times</a>:</p>
 
 <pre>

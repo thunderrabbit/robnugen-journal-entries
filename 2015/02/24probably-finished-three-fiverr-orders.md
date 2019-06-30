@@ -12,7 +12,7 @@ on Fiverr. He's got a pretty interesting project, encouraging
 education through what looks like a fantasy adventure motif.
 
 I haven't looked carefully through the materials, but the website is
-[magicaemathematica.com](http://www.magicaemathematica.com).
+[magicaemathematica.com](https://www.magicaemathematica.com).
 
 Somewhat foolishly, I forgot to charge my phone so it died after the
 took "10 or 20 photos".  Yeah, I've done that before; stress the

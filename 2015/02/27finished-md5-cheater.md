@@ -18,4 +18,4 @@ hashes which regex match any three digits at the end of the string
 e.g. /123$/
 
 Too bad everyone else has nearly abandoned the
-[md5sum live count](http://www.reddit.com/live/thjep4nr9895)!
+[md5sum live count](https://www.reddit.com/live/thjep4nr9895)!

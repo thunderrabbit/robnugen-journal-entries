@@ -15,8 +15,8 @@ what they say.
 <p><hr>
 
 <p>Here at work, we just bought a .nu domain!  <a 
-href="http://www.fsd.nu">www.fsd.nu</a> now points to our machines. 
- Amazing!  I looked for <a href="http://www.rob.nu">rob.nu</a>, but it's 
+href="https://www.fsd.nu">www.fsd.nu</a> now points to our machines. 
+ Amazing!  I looked for <a href="https://www.rob.nu">rob.nu</a>, but it's 
 been taken.  Today I've mostly been messing with configuring machines and 
 increasing our DSL speed, debating spellings for on-line, off-line, web 
 site, e-mail (vs online, offline, website, email), and sending back the 

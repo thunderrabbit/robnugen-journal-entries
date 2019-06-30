@@ -25,7 +25,7 @@ stuff and moving out, I may do it.
 Let me know how your itenerary develops and we can figure out a plan.
 
 My cat's name is Spot.  He's got some pics on my website.
-http://www.robnugen.com and click images, then cats, then look for
+https://www.robnugen.com and click images, then cats, then look for
 Spot In Box near the bottom of the page I think.  (I'm composing this
 entry while I'm offline, so I can't look it up exactly right now)
 

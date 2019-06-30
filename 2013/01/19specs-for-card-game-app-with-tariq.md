@@ -13,4 +13,4 @@ I probably shouldn't write skills with a z; I'm miles away from where I might ho
 
 The game will be a bit difficult!  We plan something like 10 levels, but only chimpanzees will likely be able to finish the higher levels.
 
-[Amazing chimpanzee short term memory video](http://www.youtube.com/watch?v=ravykEih1rE)
+[Amazing chimpanzee short term memory video](https://www.youtube.com/watch?v=ravykEih1rE)

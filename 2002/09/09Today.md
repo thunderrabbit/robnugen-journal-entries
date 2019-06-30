@@ -23,7 +23,7 @@ on.</p>
 <p class=date>2:41am</p>
 
 <p>Wow.  wonderful wild stuff.  Check out <a
-href="http://nanotech-now.com/chris-phoenix-assembler-article-071502.htm">http://nanotech-now.com/chris-phoenix-assembler-article-071502.htm</a>
+href="https://nanotech-now.com/chris-phoenix-assembler-article-071502.htm">https://nanotech-now.com/chris-phoenix-assembler-article-071502.htm</a>
 and some of the navigation links at the top of the page will certainly
 prove interesting.</p>
 

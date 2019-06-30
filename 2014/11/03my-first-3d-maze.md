@@ -7,7 +7,7 @@ date: 2014-11-03
 
 ##20:26 Monday 03 November 2014 JST##
 
-Though it's not as smooth as I had hoped, I got a maze made with my gradient on [http://www.easystereogrambuilder.com/3d-stereogram-maker.aspx](http://www.easystereogrambuilder.com/3d-stereogram-maker.aspx).
+Though it's not as smooth as I had hoped, I got a maze made with my gradient on [https://www.easystereogrambuilder.com/3d-stereogram-maker.aspx](https://www.easystereogrambuilder.com/3d-stereogram-maker.aspx).
 
 ![3D maze](/images/2014/11/gradient maze small.jpg)
 

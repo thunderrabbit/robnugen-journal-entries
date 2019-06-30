@@ -14,7 +14,7 @@ date with Daniel, all in one day.</p>
 <p class=date>11:25pm</p>
 
 <p>Have just finished scoping out theWealthSource and <a
-href="http://www.spiritblueeagle.com">spiritBlueEagle.com</a>.  I like
+href="https://www.spiritblueeagle.com">spiritBlueEagle.com</a>.  I like
 the structure of the Spirit Blue Eagle site.</p>
 
 <p>Going home now.</p>

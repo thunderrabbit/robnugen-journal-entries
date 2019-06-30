@@ -48,5 +48,5 @@ finished and then I was all, "is it a song you're writing?"</p>
 
 <p>The lead singer of Ready For The World is still kickin' it solo
 style: <a
-href="http://artists.mp3s.com/artists/74/melvin_riley.html">http://artists.mp3s.com/artists/74/melvin_riley.html</a>
+href="https://artists.mp3s.com/artists/74/melvin_riley.html">https://artists.mp3s.com/artists/74/melvin_riley.html</a>
 

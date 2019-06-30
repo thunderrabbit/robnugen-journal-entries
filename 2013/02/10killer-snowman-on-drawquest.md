@@ -7,7 +7,7 @@ tags: [ "art", "technology" ]
 
 ##12:57 Sunday 10 February 2013
 
-I just thought of a new idea for [DrawQuest](http://drawquest.com).  I can't show the full animation here, but if you have an iPad, download the app, and find me (thunderrabbit), you can see it.
+I just thought of a new idea for [DrawQuest](https://drawquest.com).  I can't show the full animation here, but if you have an iPad, download the app, and find me (thunderrabbit), you can see it.
 
 I drew a snowman who then thought about killing his maker, but then the dog barked and the snowman reverted to his normal happy state.
 

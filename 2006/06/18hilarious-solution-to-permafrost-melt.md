@@ -9,7 +9,7 @@ tags: [ "technology" ]
 
 > the engineers devise an insulation system -- a thick layer of crushed rock over the permafrost.
 
-[LiveScience.com - Surprising Side Effects of Global Warming](http://www.livescience.com/forcesofnature/041222_permafrost.html)
+[LiveScience.com - Surprising Side Effects of Global Warming](https://www.livescience.com/forcesofnature/041222_permafrost.html)
 
 
 
@@ -39,4 +39,4 @@ Yes, I know, I am an armchair engineering genius!
 
 
 
-technorati tags:[funny](http://technorati.com/tag/funny), [globalwarming](http://technorati.com/tag/globalwarming)
+technorati tags:[funny](https://technorati.com/tag/funny), [globalwarming](https://technorati.com/tag/globalwarming)

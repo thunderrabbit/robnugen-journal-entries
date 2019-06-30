@@ -29,14 +29,14 @@ Visor. I have just added these entries to this
 month:</p>
 
 <p><a
-href="http://www.robnugen.com/cgi-local/journal.cgi?dir=2001/04&file=14outdoor_show.html">14outdoor_show.html</a>
+href="https://new.robnugen.com/journal/2001/04/14/outdoor-show/>14outdoor_show.html</a>
 <br><a
-href="http://www.robnugen.com/cgi-local/journal.cgi?dir=2001/04&file=21z_LosAngeles.html">21z_LosAngeles.html</a><br><a
-href="http://www.robnugen.com/cgi-local/journal.cgi?dir=2001/04&file=22beach.html">22beach.html</a>
+href="https://new.robnugen.com/journal/2001/04/21/z-losangeles/>21z_LosAngeles.html</a><br><a
+href="https://new.robnugen.com/journal/2001/04/22/beach/>22beach.html</a>
 <br><a
-href="http://www.robnugen.com/cgi-local/journal.cgi?dir=2001/04&file=23Aquarium_not!.html">23Aquarium_not!.html</a></p>
+href="https://new.robnugen.com/journal/2001/04/23/aquarium-not/>23Aquarium_not!.html</a></p>
 
-<p>Now I am going home (where I have no interenet
+<p>Now I am going home (where I have no internet
 access).</p>
 
 <p><img src="/images/rob/wL-ROB.gif"/></p>

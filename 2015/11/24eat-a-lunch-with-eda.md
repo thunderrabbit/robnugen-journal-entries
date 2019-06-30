@@ -14,8 +14,8 @@ had the lunch, but we still enjoyed the lunch a bunch, chatting about
 cats and such, plus a couple questions about which she had no hunch.
 
 She showed me her website.. (I think it's
-http://mouseintokyo.wordpress.com), and I showed her my game (I think
-it's http://www.poppopchaos.com/), and I showed her my website, which
+https://mouseintokyo.wordpress.com), and I showed her my game (I think
+it's https://www.poppopchaos.com/), and I showed her my website, which
 has a problem in https mode.  robnugen.com refreshes to
 https://new.robnugen.com/ which fails to load its CSS for some
 reason....  ohh I bet I know why!  I probably laods the CSS files

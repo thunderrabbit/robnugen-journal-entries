@@ -7,7 +7,7 @@ date: 2000-05-08
 
 <p class=date>9:48am Monday 8 May 2000</p>
 
-<p>As of yesterday, according to Symantec Antivirus Center for the <a href="http://www.symantec.com/avcenter/venc/data/vbs.loveletter.a.html">loveletter</a> virus, there are 13 known variants of the loveletter virus.
+<p>As of yesterday, according to Symantec Antivirus Center for the <a href="https://www.symantec.com/avcenter/venc/data/vbs.loveletter.a.html">loveletter</a> virus, there are 13 known variants of the loveletter virus.
 
 <p>Excuse me while I rant.
 

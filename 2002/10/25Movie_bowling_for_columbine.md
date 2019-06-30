@@ -8,8 +8,8 @@ date: 2002-10-25
 <p class=date>10:35pm CDT Friday 25 October 2002</p>
 
 <p>Excellent.  So glad that <a
-href="http://www.cinerina.com">Karina</a> <a
-href="http://reviews.cinerina.com/cinerina/manyhats.qry?function=detail&Layout_0_uid1=33134">pimped
+href="https://www.cinerina.com">Karina</a> <a
+href="https://reviews.cinerina.com/cinerina/manyhats.qry?function=detail&Layout_0_uid1=33134">pimped
 it</a> quite so well.</p>
 
 <p>Janette and I went with Johnny Wolf, the owner of The Wolf Shop (sp

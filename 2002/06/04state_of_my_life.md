@@ -57,7 +57,7 @@ connections appearing in my life.</p></li>
 
 <li><p>I have begun talking to people about doing website work again.  I
 have been working on <a
-href="http://www.blanketstoyou.com">www.blanketstoyou.com</a> and have
+href="https://www.blanketstoyou.com">www.blanketstoyou.com</a> and have
 contacted Ridg to see if he needs more help on his PC.  I may help Kristen's
 mom's PC as well.</p></li>
 

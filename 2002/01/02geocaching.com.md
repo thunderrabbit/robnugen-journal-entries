@@ -8,7 +8,7 @@ date: 2002-01-02
 <p class=date>6pm Wednesday 2 January 2002</p>
 
 <p><font color='red'><b>Rob</b>:</font><a
-href="http://www.geocaching.com">www.geocaching.com</a></p>
+href="https://www.geocaching.com">www.geocaching.com</a></p>
 <p><font color='blue'><b>Erika</b>:</font> what is that website?</p>
 <p><font color='red'><b>Rob</b>:</font> the idea is that people with GPS
 devices will hide a small something somewhere and enter its coordinates on

@@ -16,7 +16,7 @@ date: 1999-04-18
 <p>Then slept.
 
 <p>(I'll tell the story faster)
-<br>(note: several of the coasters listed are linked on <a href="http://www.sixflags.com/texas/rides/">Six Flags</a> site.  This site requires the Shockwave Flash plugin)
+<br>(note: several of the coasters listed are linked on <a href="https://www.sixflags.com/texas/rides/">Six Flags</a> site.  This site requires the Shockwave Flash plugin)
 
 <p>Got to Six Flags by 10am, though they opened at 9.  Oh well.  I had never been before.  Wende had been, but it was a super long time ago and she didn't totally remember the layout of the park. So map in hand I searched out Flashback, but ended up near two different coasters: Mr Freeze, and Batman The Ride.  Mr Freeze was not currently working and Batman was not completely built. Some people nearby were all, "let's go to Flashback!"  We followed.
 

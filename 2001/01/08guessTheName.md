@@ -16,7 +16,7 @@ definitely has a distinct advantage in the name recognition area.</p>
 people attending the rally and found this very cool thing in my
 inbox:</p>
 
-<p><a href="http://208.177.130.81/dictator/dictator.pl">Guess the
+<p><a href="https://208.177.130.81/dictator/dictator.pl">Guess the
 Dictator and/or Television Sit-Com Character</a>.  You answer
 questions as if you are the person, and the perl script will guess who
 you are!</p>

@@ -163,7 +163,7 @@ letter, I noticed I had misspelled her first name on
 the greeting.  Doh!  So, I played a song by an artist
 who has the same last name as Joana, which you can
 find on my <a
-href="http://noise.rice.edu:81/sheet.nsf/15aa60c8727df106802568e90056b4d1/5e90e706ef2db4e486256b08000bd32b?OpenDocument">set
+href="https://noise.rice.edu:81/sheet.nsf/15aa60c8727df106802568e90056b4d1/5e90e706ef2db4e486256b08000bd32b?OpenDocument">set
 list</a> (I think the link will work).</p>
 
 <p>- - - -</p>

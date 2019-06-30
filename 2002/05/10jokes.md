@@ -8,7 +8,7 @@ date: 2002-05-10
 <p class=date>5:45pm Friday 10 May 2002</p>
 
 <p>I'm at this dumb little site that I found cause it was featured on
-www.nunames.nu: <a href="http://www.katy.nu">www.katy.nu</a> and it's got
+www.nunames.nu: <a href="https://www.katy.nu">www.katy.nu</a> and it's got
 two pages, a list of names of her friends, and a link to a joke page.</p>
 
 <p>Some of the jokes are *funny*.</p>

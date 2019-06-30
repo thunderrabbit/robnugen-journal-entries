@@ -183,12 +183,12 @@ spacecraft.
 
 Images for this release are available at:
 
-      http://www.msss.com/mars_images/moc/dec00_seds/
+      https://www.msss.com/mars_images/moc/dec00_seds/
 
 Information on the Mars Global Surveyor is available
 at: 
 
-                 http://mars.jpl.nasa.gov/mgs
+                 https://mars.jpl.nasa.gov/mgs
 
                                - end -
 

@@ -14,7 +14,7 @@ Susan.
 Super cool that kT and Susan have (had) jobs in similar sectors so
 they chatted in secret code about that for a while.
 
-Susan has written a book called [Bench-Pressed](http://smile.amazon.com/Bench-Pressed-Recounts-Blessings-Lessons-Immigration/dp/1475975422/ref=cm_cr_pr_product_top?ie=UTF8), which she felt
+Susan has written a book called [Bench-Pressed](https://smile.amazon.com/Bench-Pressed-Recounts-Blessings-Lessons-Immigration/dp/1475975422/ref=cm_cr_pr_product_top?ie=UTF8), which she felt
 compelled to write after serving as a judge within the immigration
 system in the US.
 

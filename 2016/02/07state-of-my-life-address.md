@@ -12,7 +12,7 @@ date: 2016-02-07T21:14:50+09:00
    should start doing massages for real, and I enjoyed it enough to
    consider the same thing.
 2. We applied to buy our new house in 新百合ケ丘!
-3. I'm enjoying doing lessons on http://acloud.guru/
+3. I'm enjoying doing lessons on https://acloud.guru/
 4. I still have my black iPhone 4S, though I will "soon" "upgrade" to
    Lin's 5S.
 5. I added a pic of me, fred, lin at the skydiving place onto the wall

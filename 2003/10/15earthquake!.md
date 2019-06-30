@@ -28,7 +28,7 @@ building swaying; this is ground floor kinda shit."</p>
 <p>I wonder specifics on its origin.</p>
 
 <p><a
-href="http://www.foxnews.com/story/0,2933,100100,00.html">www.foxnews.com/story/0,2933,100100,00.html</a>:</p>
+href="https://www.foxnews.com/story/0,2933,100100,00.html">www.foxnews.com/story/0,2933,100100,00.html</a>:</p>
 
 <pre>
 TOKYO: A moderately strong earthquake with a preliminary magnitude 5

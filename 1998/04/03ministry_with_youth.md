@@ -20,7 +20,7 @@ The most amazing thing I learned tonight was after we ended for the night. Chris
 <p>
 <em>I</em> want to create something like that.
 <p>
-Oh... the SWD YRUU <a href=http://www.geocities.com/heartland/2735>website</a>.  Yeah, but an annual conference that is now used across the continent!
+Oh... the SWD YRUU <a href=https://www.geocities.com/heartland/2735>website</a>.  Yeah, but an annual conference that is now used across the continent!
 <p>
 Sigh...
 <p>

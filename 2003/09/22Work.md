@@ -16,7 +16,7 @@ not ready to take responsibility for solving it.</p>
 
 <p>I gave them homework:  "If there is a problem, say something."</p>
 
-<p>Also gave them the <a href="http://www.mkp.org">MKP</a> website and
+<p>Also gave them the <a href="https://www.mkp.org">MKP</a> website and
 my email address.</p>
 
 <p>- - - -</p>

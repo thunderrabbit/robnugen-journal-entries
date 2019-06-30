@@ -8,7 +8,7 @@ tags: [ "news", "terror" ]
 ##11:35 Friday 29 February 2008
 
   
-[1 in 100 U.S. adults behind bars, new study says - International Herald Tribune](http://www.iht.com/articles/2008/02/29/america/28cndprison.php)
+[1 in 100 U.S. adults behind bars, new study says - International Herald Tribune](https://www.iht.com/articles/2008/02/29/america/28cndprison.php)
 
 
 > The number of American adults is about 230 million, meaning that one in every 99.1 adults is behind bars.

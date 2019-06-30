@@ -9,7 +9,7 @@ tags: [ "disclosure", "news", "ufo" ]
 
   
   
-[Source Reveals Secret UFO Meeting at U.N.](http://www.ufodigest.com/news/0208/unmeeting.html)   
+[Source Reveals Secret UFO Meeting at U.N.](https://www.ufodigest.com/news/0208/unmeeting.html)   
 
 
 > A date of 2013 was given as the time for official disclosure and/or when extraterrestrials show up in an unambiguous way. In the interim there will be acclimation related releases of information. Importantly, the source revealed that the events leading up to official disclosure will involve more ethically oriented extraterrestrials, and they will not pose a military threat to the world.  
@@ -24,6 +24,6 @@ Well, UFOs haven't arrived.
 
 Here's a snapshot of the site linked above, which seems to be slowly vanishing.
 
-[archive.today 7 Nov 2014 snapshot of http://www.ufodigest.com/news/0208/unmeeting.html](https://archive.today/6CsJS)
+[archive.today 7 Nov 2014 snapshot of https://www.ufodigest.com/news/0208/unmeeting.html](https://archive.today/6CsJS)
 
 

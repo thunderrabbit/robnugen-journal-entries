@@ -11,7 +11,7 @@ sexual relationship; she has asked that we start over 'new' and that
 has certainly been a challenge for me.  I can see the value in it.
 
 On Saturday she joined me at the Altar Allstars meeting (we who are
-creating the Altars for the <a href="http://www.heartstormproductions.com">Techno Cosmic Mass</a>
+creating the Altars for the <a href="https://www.heartstormproductions.com">Techno Cosmic Mass</a>
 called ourselves Altar Allstars) where we hashed out a general framework
 that each altar will use, and brainstormed some on the specifics for
 each one.  We also created deadlines for plans to be turned in.  We need

@@ -12,7 +12,7 @@ understand the regular expressions that Fred wrote and writing one of
 my own to do some error checking before processing.</p>
 
 <p>My brain got stuck after a couple hours, so I checked out <a
-href="http://www.speedcubing.com">www.speedcubing.com</a>, a site that
+href="https://www.speedcubing.com">www.speedcubing.com</a>, a site that
 was linked from the 2003 super duper championship Rubik's Cube
 competition, where people will solve the 3x3x3 the 4x4x4 and 5x5x5
 cubes as fast as possible, sometimes blindfolded.  How amazing is

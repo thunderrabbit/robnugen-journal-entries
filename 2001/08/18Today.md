@@ -20,7 +20,7 @@ excited to report that Laura will quite possibly attend!)  I'm
 thankful that Donna was able to switch with me.</p>
 
 <p>(I'll be on KTRU tonight!)  91.7 in Houston or <a
-href="http://www.ktru.org">www.ktru.org</a> online.)</p>
+href="https://www.ktru.org">www.ktru.org</a> online.)</p>
 
 <p>Then I visited Microcenter and purchased a hub so we can run all
 three comptuers on the cable modem at once, but for some reason, only

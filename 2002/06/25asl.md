@@ -8,7 +8,7 @@ date: 2002-06-25
 <p class=date>10:29pm CDT Tuesday 25 June 2002</p>
 
 <p>Just before ASL, I was working on Kim's <a
-href="http://www.spiritblueeagle.com">personal website</a>, and
+href="https://www.spiritblueeagle.com">personal website</a>, and
 discovered that I haven't worked on it for 6 months, and could
 arguably owe him the equivalent of $4800 work on his site.  (We're
 bartering personal coach time for website development)</p>

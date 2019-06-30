@@ -43,7 +43,7 @@ hang out with Japanese people, and I'm sure I could find a french culture
 here, but to hang out with these people would mean adding to or adjusting my
 already busy schedule, which I'm somewhat loathe to do.
 
-On Monday nights I am usually with my men's group.  <a href="http://www.mkp.org">http://www.mkp.org</a>.
+On Monday nights I am usually with my men's group.  <a href="https://www.mkp.org">https://www.mkp.org</a>.
 This is a spiritual (but non-religious), nurturing, encouraging group of
 men, who are pretty much all learning how to live life in integrity with
 themselves and relationships with others.
@@ -58,7 +58,7 @@ Thursday nights are yoga (actually tomorrow night is my first night, but
 hopefully it will last for some months), and Fridays are often free unless
 they begin a weekend lock-in with my youth.
 
-I'm a youth advisor for high school youth in YRUU <a href="http://www.uua.org/YRUU">http://www.uua.org/YRUU</a>,
+I'm a youth advisor for high school youth in YRUU <a href="https://www.uua.org/YRUU">https://www.uua.org/YRUU</a>,
 an organization designed to give youth a safe place to create their own
 programming - to learn leadership skills, to plan activities, to be socially
 active, etc etc, all good stuff.  This is part of Unitarian Universalism, my

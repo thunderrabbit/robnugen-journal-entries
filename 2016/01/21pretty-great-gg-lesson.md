@@ -33,7 +33,7 @@ packing!
 
 She asked how long the flight would last: "negative 5 hours" and we
 talked about jet lag a bit, which led me to talk about consciousness
-training at [The Monroe Institute](http://www.monroeinstitute.org),
+training at [The Monroe Institute](https://www.monroeinstitute.org),
 which led to discussion of life between lives and
 [finding our purpose in life](https://www.youtube.com/watch?v=RN16ubqbJUA).
 

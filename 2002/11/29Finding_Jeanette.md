@@ -37,7 +37,7 @@ items, mostly featuring Christmasy type stuff - ornaments shaped like
 anything one wants.</p>
 
 <p>Anyway, conversation was great; they asked a lot about my adventure
-and Kim asked a bit about <a href="http://www.uua.org">UUism</a>;
+and Kim asked a bit about <a href="https://www.uua.org">UUism</a>;
 Jeanette asked about why I wanted to attend Houston Rally in January.
 I found it a bit hard to explain to someones who don't know the
 culture.</p>
@@ -68,4 +68,4 @@ Thanksgiving Day.</p>
 it's spelled.  I'll look it up.</p>
 
 <p>Yay!  I was <a
-href="http://www.m-w.com/cgi-bin/dictionary?va=onomatopoeia">right</a>!</p>
+href="https://www.m-w.com/cgi-bin/dictionary?va=onomatopoeia">right</a>!</p>

@@ -42,7 +42,7 @@ prepare for an impromptu hour long random interview / music segment on
 the Spoken Word Show.
 
 <p>She gave me a copy of her CD and her URL.  <a
-href="http://www.lahnaturner.com">www.lahnaturner.com</a>.  She said
+href="https://www.lahnaturner.com">www.lahnaturner.com</a>.  She said
 the site is in dire need of updating - the main page advertises a CD
 release party at SRO, but the party has been cancelled (or she wants
 to cancel it) so don't go.

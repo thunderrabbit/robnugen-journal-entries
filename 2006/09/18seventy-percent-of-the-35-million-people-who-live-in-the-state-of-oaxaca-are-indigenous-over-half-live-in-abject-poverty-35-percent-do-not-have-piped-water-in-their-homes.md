@@ -15,7 +15,7 @@ I have thought about sending them out to this list but I fear they would
 be repetitive.  There is so little information out there that each piece I
 write has a lot of the same background information.  One piece can be
 found on Common Dreams at
-[http://www.commondreams.org/views06/0910-23.htm](http://www.commondreams.org/views06/0910-23.htm)
+[https://www.commondreams.org/views06/0910-23.htm](https://www.commondreams.org/views06/0910-23.htm)
 
 This weekend has been full of independence day celebrations here in
 Mexico.  The Governor of Oaxaca usually does the "grito" or cry of

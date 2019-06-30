@@ -11,7 +11,7 @@ Date: Fri Aug 29, 2003  06:33:13 Asia/Tokyo
 To: Fred Nugen
 Subject: I now officially want to marry Google
 
-<a href="http://dogdraxy.notlong.com">http://dogdraxy.notlong.com</a>
+<a href="https://dogdraxy.notlong.com">https://dogdraxy.notlong.com</a>
 </pre>
 
 <p>- - - -</p>
@@ -25,7 +25,7 @@ Subject: I now officially want to marry Google
 
 "1.21 GW / 88 mph"
 
-<a href="http://www.google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=1.21+GW+%2F+88+mph">http://www.google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=1.21+GW+%2F+88+mph</a>
+<a href="https://www.google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=1.21+GW+%2F+88+mph">https://www.google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=1.21+GW+%2F+88+mph</a>
 
 What's up with Dude's spam thingy?
 </pre>

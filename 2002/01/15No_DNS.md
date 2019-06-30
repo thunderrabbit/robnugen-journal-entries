@@ -15,7 +15,7 @@ definitely ironic.</p>
 
 <p>Jason gave me a link to a story about a dude who deposited a
 $95,000 check.  It's near the bottom of the list at <a
-href="http://www.bored.com">bored.com</a>.  Crazy.</p>
+href="https://www.bored.com">bored.com</a>.  Crazy.</p>
 
 <p><img src='/images/rob/wL-ROB.gif'/></p>
 

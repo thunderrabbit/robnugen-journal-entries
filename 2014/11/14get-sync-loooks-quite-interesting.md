@@ -13,7 +13,7 @@ installed in my phone, but is that the only copy of my images?  If
 not, whose data am I storing?  How does it deal with spotty
 connectivity?  Hmmmm!
 
-Get Sync at [http://www.getsync.com/](http://www.getsync.com/).
+Get Sync at [https://www.getsync.com/](https://www.getsync.com/).
 
 ##17:46
 

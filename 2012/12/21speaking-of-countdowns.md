@@ -9,6 +9,6 @@ tags: [ "guest writer", "internet" ]
 
 Nice job, Ryan!!!
 
-[http://www.kickstarter.com/projects/breadpig/to-be-or-not-to-be-that-is-the-adventure](http://www.kickstarter.com/projects/breadpig/to-be-or-not-to-be-that-is-the-adventure)[![Screen Shot 2012-12-21 at 10.39.15 PM](/images/2012/12/Screen-Shot-2012-12-21-at-10.39.15-PM.png)](http://robnugen.com/blog/2012/12/21/speaking-of-countdowns/screen-shot-2012-12-21-at-10-39-15-pm/)
+[https://www.kickstarter.com/projects/breadpig/to-be-or-not-to-be-that-is-the-adventure](https://www.kickstarter.com/projects/breadpig/to-be-or-not-to-be-that-is-the-adventure)[![Screen Shot 2012-12-21 at 10.39.15 PM](/images/2012/12/Screen-Shot-2012-12-21-at-10.39.15-PM.png)](https://robnugen.com/blog/2012/12/21/speaking-of-countdowns/screen-shot-2012-12-21-at-10-39-15-pm/)
 
 9 minutes to go; click now!!

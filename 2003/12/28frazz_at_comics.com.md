@@ -10,12 +10,12 @@ date: 2003-12-28
 <p>HAHAAHAHAHAAHAA</p>
 
 <p>These are from <a
-href="http://www.comics.com/comics/frazz/">comics.com</a>.</p>
+href="https://www.comics.com/comics/frazz/">comics.com</a>.</p>
 
 <pre>
 --- Rob Nugen <rob@robnugen.com> wrote:
 
-<a href="http://www.comics.com/comics/frazz/"><img
+<a href="https://www.comics.com/comics/frazz/"><img
 src="/images/funny/comics/frazz/frazz_outfit.gif"></a>
 
 I love what Caulfield is wearing!  Ice skates on a chair!  I've tried
@@ -27,7 +27,7 @@ chair in a big bowl while wearing ice skates.
 Thank you for the word convalescence.
 
 
-<a href="http://www.comics.com/comics/frazz/"><img
+<a href="https://www.comics.com/comics/frazz/"><img
 src="/images/funny/comics/frazz/frazz_cell_phone.gif"></a>
 
 HAHA!  may I make a copy of this for my website?  It will soon be

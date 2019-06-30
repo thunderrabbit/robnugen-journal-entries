@@ -17,4 +17,4 @@ appropriately, and use of the phrase "at least"
 
 In the remaining ten minutes, we went through "Grade 3 Sentence
 Completion 1" worksheet from this page
-http://www.englishforeveryone.org/Topics/Sentence-Completion.htm
+https://www.englishforeveryone.org/Topics/Sentence-Completion.htm

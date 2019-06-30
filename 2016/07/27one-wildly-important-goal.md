@@ -9,7 +9,7 @@ date: 2016-07-27T11:01:41+09:00
 
 I like David Hu's answer in Khan Academy's time management thing:
 
-http://engineering.khanacademy.org/posts/time-management-multiple-authors.htm
+https://engineering.khanacademy.org/posts/time-management-multiple-authors.htm
 
 ### David Hu
 

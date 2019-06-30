@@ -11,4 +11,4 @@ date: 1999-10-04
 
 <p>Turns out that while fetching a password for the web user, the database was being locked and just all kinds of crap.  I'm not going to explain it because I'm not impressed with how it was st up.  The problem has been temporarily fixed, and I will talk with my boss soon to see how it can be made better.
 
-<p>But!! I had fun on my website today!  <!-- Go check out the <a href="../../index.html">front page</a>. --> I added an applet (3 times)!!  I'm not sure who wrote the applet, but I have a feeling it comes with JDK, so I don't feel bad using it.  I'm thankful for <a href="http://www.unfpa.org">unfpa</a> using it so I could swipe it from them.
+<p>But!! I had fun on my website today!  <!-- Go check out the <a href="../../index.html">front page</a>. --> I added an applet (3 times)!!  I'm not sure who wrote the applet, but I have a feeling it comes with JDK, so I don't feel bad using it.  I'm thankful for <a href="https://www.unfpa.org">unfpa</a> using it so I could swipe it from them.

@@ -41,7 +41,7 @@ it's not perfect yet.
 > It sounds to me like you want to fix your belt problem using
 something other than a reminder in your task list. I wrote an article
 called
-[How to send perfectly-timed physical messages to your future self](http://blog.complice.co/post/111442313267/how-to-send-perfectly-timed-physical-messages-to)
+[How to send perfectly-timed physical messages to your future self](https://blog.complice.co/post/111442313267/how-to-send-perfectly-timed-physical-messages-to)
 which would advocate for a strategy something like "when you take your
 belt off, put it on top of something that you'll pick up tomorrow
 after you have your pants on" and then obviously when you go to pick
@@ -68,7 +68,7 @@ reminder.
 
 > While writing this post, I ended up writing so much under dealing
 with staleness that I decided to make it its own post:
-[Making sense of a single stale task](http://blog.complice.co/post/173836925777/making-sense-of-a-single-stale-task)
+[Making sense of a single stale task](https://blog.complice.co/post/173836925777/making-sense-of-a-single-stale-task)
 The basic gist is that it could be because the thing actually doesn't
 matter, or it could be because you're conflicted about it. If the
 thing doesn't matter, don't do it! If you're conflicted, either fix

@@ -8,7 +8,7 @@ date: 2003-10-26
 <p class=date>12:09am JST Monday 27 October 2003</p>
 
 <p>Called Kim at 9am (his time) on the dot (according to <a
-href="http://www.timeanddate.com/">timeanddate.com</a>) but no answer.
+href="https://www.timeanddate.com/">timeanddate.com</a>) but no answer.
 Called again and no answer.  Few minutes later and he asked me to call
 back in 10 minutes.  Who could possibly care about such minutiae in a
 journal?  Will *I* even care in 10 minutes?</p>

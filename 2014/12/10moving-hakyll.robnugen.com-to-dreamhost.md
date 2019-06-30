@@ -25,7 +25,7 @@ the DNS doesn't seem to have updated yet.
     
     I created the directory by hand and populated it with data.
     
-    Unfortunately, http://hakyll.robnugen.com/ says there's no site there.
+    Unfortunately, https://hakyll.robnugen.com/ says there's no site there.
     
     Do I need to tweak something? Do you need to tweak something?
     

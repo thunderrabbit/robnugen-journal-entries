@@ -44,7 +44,7 @@ hmmm
 Okay so let's see...
 
 on old site
-[19 May 2006 funny email to g](http://robnugen.com/cgi-bin/journal.pl?type=all&date=2006/05/19#Funny_email_to_g)
+[19 May 2006 funny email to g](https://robnugen.com/cgi-bin/journal.pl?type=all&date=2006/05/19#Funny_email_to_g)
 ([same page on archive.today](https://archive.today/sKupd))
 
 on new.robnugen.com
@@ -56,7 +56,7 @@ dang that happens to be a page I've not ported over yet.
 Okay here's one
 
 on old site
-[10 July 2000 dream](http://robnugen.com/cgi-bin/journal.pl?type=all&date=2000/07/10#Dream)
+[10 July 2000 dream](https://robnugen.com/cgi-bin/journal.pl?type=all&date=2000/07/10#Dream)
 ([same page on archive.today](https://archive.today/CdomT))
 
 on new.robnugen.com

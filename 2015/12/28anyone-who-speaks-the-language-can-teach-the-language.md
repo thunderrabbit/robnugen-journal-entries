@@ -35,7 +35,7 @@ people who can teach between these languages.
 
 
     Italian, French, Spanish Just look at the similarities here
-    http://ielanguages.com/romance_phrases.html
+    https://ielanguages.com/romance_phrases.html
     
     In my case, I've basically given up learning Japanese; the grammar is
     backwards, the writing is insane, and a great amount of cultural
@@ -57,4 +57,4 @@ that it can fit within the student's existing language framework *and*
 remain interesting enough to keep the student motivated must surely be
 honed over years of practice!
 
-1. [The Economist explains What makes a language difficult?](http://www.economist.com/blogs/economist-explains/2013/08/economist-explains-19)
+1. [The Economist explains What makes a language difficult?](https://www.economist.com/blogs/economist-explains/2013/08/economist-explains-19)

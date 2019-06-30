@@ -14,7 +14,7 @@ doing a mogrify command on all my .jpg files.</p>
 
 <p>This was part of putting images on my site:</p>
 
-<p><a href="http://www.robnugen.com/images/travel/japan2003-2004/006ma_n_jon_nikko_hakone/index.shtml">http://www.robnugen.com/images/travel/japan2003-2004/006ma_n_jon_nikko_hakone/index.shtml</a></p>
+<p><a href="https://www.robnugen.com/images/travel/japan2003-2004/006ma_n_jon_nikko_hakone/index.shtml">https://www.robnugen.com/images/travel/japan2003-2004/006ma_n_jon_nikko_hakone/index.shtml</a></p>
 
 <p>Now it's bed bed bedtime.</p>
 

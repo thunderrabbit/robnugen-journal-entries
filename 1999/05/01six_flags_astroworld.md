@@ -24,9 +24,9 @@ date: 1999-05-01
 
 <p>So anyway, we rode in front and then went to Greezed Lightnin' again, since we saw it was running while we were on XLR8.
 
-<p>Soon as we got there, people were being turned back; ride was broke.  We decided to stay this time, waited for the crowd to disperse and walked up to nearly the front of the line for the back seats.  Met two guys in line, Carl and Brady, who were here from New Orleans.  Carl is a coaster enthusiast like me, but has ridden more rides than I, unlike me.  We talked rides and what's cool and whatever, and he told us about a new park being opened in New Orleans in Spring 2000.  <a href="http://www.jazzland2000.com" target="_new">Jazz Land</a> should be a pretty cool park!
+<p>Soon as we got there, people were being turned back; ride was broke.  We decided to stay this time, waited for the crowd to disperse and walked up to nearly the front of the line for the back seats.  Met two guys in line, Carl and Brady, who were here from New Orleans.  Carl is a coaster enthusiast like me, but has ridden more rides than I, unlike me.  We talked rides and what's cool and whatever, and he told us about a new park being opened in New Orleans in Spring 2000.  <a href="https://www.jazzland2000.com" target="_new">Jazz Land</a> should be a pretty cool park!
 
-<p>Oh, I should certainly mention by now that Jen used to be a ride operator at <a href="http://www.canobie.com">Canobie Lake Park</a> up in New Hampshire. So she had some fun cool stories that neither Carl nor I had experienced.
+<p>Oh, I should certainly mention by now that Jen used to be a ride operator at <a href="https://www.canobie.com">Canobie Lake Park</a> up in New Hampshire. So she had some fun cool stories that neither Carl nor I had experienced.
 
 <p>Talking to the ride operator of Greezed Lightnin', turns out the brakes were not tight enough to stop the train properly, so they were tightening them.  It only took like 20 minutes, which is easily way less time than we would have spent waiting otherwise, plus now Jen and I had new friends!
 

@@ -19,6 +19,6 @@ I took a picture of Lin in front of a mimosa tree.
 
 [![Lin in front of mimosa tree](/images/2014/06/thumbs/my babychan in front of mimosa.png)](/images/2014/06/my babychan in front of mimosa.png)
 
-[here's a larger version on imgur](http://imgur.com/zN0Xbc7)
+[here's a larger version on imgur](https://imgur.com/zN0Xbc7)
 
 Yumi took some high speed video with her phone and it was fun watching them in slow motion.

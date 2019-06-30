@@ -11,7 +11,7 @@ date: 1999-09-07
 
 <p>This is my first semester with only a 2 hour shift!  Holy cow it went by so quickly today!
 
-<p>The coolest thing is that at 9am, no one is on before me, so I get to turn on the station in the morning.  So check it out each Tuesday at 9am CST (<a href="http://www.ktru.org/ktru.html">www.ktru.org</a>) and you can hear me make the official Sign On Announcement about the station and 50,000 watts and all that.
+<p>The coolest thing is that at 9am, no one is on before me, so I get to turn on the station in the morning.  So check it out each Tuesday at 9am CST (<a href="https://www.ktru.org/ktru.html">www.ktru.org</a>) and you can hear me make the official Sign On Announcement about the station and 50,000 watts and all that.
 
 <p>No one called me today at the station, well except for one person, but she was trying to reach someone else.  Oh well.
 

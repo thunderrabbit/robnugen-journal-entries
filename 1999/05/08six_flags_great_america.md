@@ -8,7 +8,7 @@ date: 1999-05-08
 <p class=note>(written from notes in my little yellow diary that Bryn and Eryn gave me)</p>
 <p class=date>8 May 1999</p>
 
-<p>From the internet (<a href="http://www.sixflags.com">www.sixflags.com</a>) here are the specs for the coasters at Six Flags Great America in Chicago:
+<p>From the internet (<a href="https://www.sixflags.com">www.sixflags.com</a>) here are the specs for the coasters at Six Flags Great America in Chicago:
 
 <p><pre>
                      height    length   speed

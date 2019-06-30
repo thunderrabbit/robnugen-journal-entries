@@ -28,7 +28,7 @@ character saying my name.  Anyway, I am between jobs right now and into
 designing webpages.  If you have a need for an extra web designer, I
 would love to help ya'll out.  If you want to see an example of one of
 my pages. check out my site at:
-<a href="http://freeweb.pdq.net/dude1">http://freeweb.pdq.net/dude1</a>
+<a href="https://freeweb.pdq.net/dude1">https://freeweb.pdq.net/dude1</a>
 I also have some really cool photos of my hike last summer from Lake
 Tahoe to Mt. Whitney.  My website is not all that advanced and I don't
 claim to be an expert, but I would really like a good reason to lern
@@ -145,7 +145,7 @@ plane to Atlanta.  Have a great weekend in Austin!
 
 <p>The following Monday, having had no further contact with Dude, I
 went to a class called <a
-href="http://www.jeffdurstconsulting.com/heart.htm">Project
+href="https://www.jeffdurstconsulting.com/heart.htm">Project
 Heart</a>. I opened the door for a guy who came in right after me.
 
 <p>It was Dude.

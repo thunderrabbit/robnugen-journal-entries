@@ -13,5 +13,5 @@ called Capoeira.</p>
 <p>Thank you.</p>
 
 <p><a
-href="http://www.robnugen.com/cgi-local/journal.pl?date=2002/12/03#hollywood2">original
+href="https://www.robnugen.com/cgi-local/journal.pl?date=2002/12/03#hollywood2">original
 entry</a></p>

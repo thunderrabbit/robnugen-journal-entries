@@ -33,7 +33,7 @@ I'm working a variety of jobs teaching English and programming websites and apps
 
 About once per month, I've been attending ET Contact events... basically using meditation and consciousness to invite benevolent extra terrestrial intelligent beings to engage in mutually beneficial dialogue.  We haven't really "met ET" yet, but have heard and seen some interesting anomalous sounds and lights.
 
-In my free time, I must say I've been mostly attached to my computer, sometimes for too many hours at a time!  Part of that goes to creating mazes for my website [http://www.amazeaweek.net/](http://www.amazeaweek.net/), but a lot of it goes down the proverbial tubes, watching cat videos and porn (not at the same time).
+In my free time, I must say I've been mostly attached to my computer, sometimes for too many hours at a time!  Part of that goes to creating mazes for my website [https://www.amazeaweek.net/](https://www.amazeaweek.net/), but a lot of it goes down the proverbial tubes, watching cat videos and porn (not at the same time).
 
 Some of my time wasting is due to not taking care of myself when Lin is working long hours.  I judge I need to learn to take care of myself a bit better.
 

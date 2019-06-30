@@ -16,7 +16,7 @@ date: 2003-03-30
 <li><p>I've come to Japan to learn Japanese, the first language in my
 goal to become conversant in three languages (not English) by 2010.
 To support myself during this process, I'll be working for <a
-href="http://www.teachinjapan.com">Nova</a>, the most prolific ESL
+href="https://www.teachinjapan.com">Nova</a>, the most prolific ESL
 company in Japan.</p></li>
 
 <li><p>Interestingly, I wonder if I've already lost sight of my
@@ -25,7 +25,7 @@ chillin' on a back burner (haha chillin' on a burner) in my
 subconscious.</p>
 
 <p>That reason was to get a job for a company called US Experiment (<a
-href="http://www.usexperience.org">http://www.usexperience.org</a> I
+href="https://www.usexperience.org">https://www.usexperience.org</a> I
 think) which requires its leaders to have in-country experience in
 various countries before they can lead youth group tours
 there.</p></li>

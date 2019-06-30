@@ -10,7 +10,7 @@ date: 2003-03-01
 <p>Oh jeez</p>
 
 <p>I've been reading <a
-href="http://www.realultimatepower.net/">realultimatepower.net/</a>
+href="https://www.realultimatepower.net/">realultimatepower.net/</a>
 for the past while now.  SO FUNNY!!!!!</p>
 
 <p>I got sidetracked after trying to fix my email after installing OS
@@ -25,7 +25,7 @@ minutes it seems.  Amazing.  I wrote</p>
 
 <TABLE WIDTH=550><TR><TD NOWRAP COLSPAN=2 WIDTH=250><FONT FACE="Times New Roman" SIZE=3><B>Name:</B> <A
 HREF="mailto:rob@robnugen.com">Rob</A> (<A
-HREF="http://www.robnugen.com">Homepage</A>)</FONT>
+HREF="https://www.robnugen.com">Homepage</A>)</FONT>
 </TR>
 <TD NOWRAP><TR><TD><B>Country:</B> Japan soon</TD><TD><FONT
 FACE="Times New Roman" SIZE=3><B>Date:</B> Sun Mar  2 07:34:14 2003

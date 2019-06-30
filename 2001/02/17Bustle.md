@@ -21,10 +21,10 @@ leaving in a couple of hours for the church!  It's a
 big church too.</p>
 
 <p>Here is apparently the official site: <a
-href="http://www.melb.catholic.aust.com/">www.melb.catholic.aust.com</a></p>
+href="https://www.melb.catholic.aust.com/">www.melb.catholic.aust.com</a></p>
 
 <p>But this user site has better pictures: <a
-href="http://rogerbrown.tripod.com/Melbourne.html">rogerbrown.tripod.com/Melbourne.html</a></p>
+href="https://rogerbrown.tripod.com/Melbourne.html">rogerbrown.tripod.com/Melbourne.html</a></p>
 
 
 <p><img src="/images/rob/wL-ROB.gif"/></p>

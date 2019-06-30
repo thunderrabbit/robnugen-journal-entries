@@ -8,7 +8,7 @@ date: 2016-12-16T10:54:27+09:00
 ## 10:54 Friday 16 December 2016 JST
 
 From [getting started with kakoune](https://github.com/mawww/kakoune#2-getting-started)
-via http://kakoune.org
+via https://kakoune.org
 	
     brew install homebrew/dupes/ncurses
     

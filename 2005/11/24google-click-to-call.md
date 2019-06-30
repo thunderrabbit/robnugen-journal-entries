@@ -9,7 +9,7 @@ tags: [ "internet", "news", "technology" ]
 
 > Google foots the bill for all calls - local and long-distance.
 
-[Google Click-to-Call](http://www.google.com/help/faq_clicktocall.html)
+[Google Click-to-Call](https://www.google.com/help/faq_clicktocall.html)
 
 Holy shinoli!!!
 

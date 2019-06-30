@@ -21,7 +21,7 @@ if I can get a hookup on some good stuff.  SEEya!</p>
 
 <p>I have just sent off my documents to Nova with overnight delivery
 to arrive by 10am tomorrow.  FedEX tracking number <a
-href="http://www.fedex.com/cgi-bin/tracking?tracknumbers=838441258096&action=track&language=english&cntry_code=us&mps=y">838441258096</a>
+href="https://www.fedex.com/cgi-bin/tracking?tracknumbers=838441258096&action=track&language=english&cntry_code=us&mps=y">838441258096</a>
 so I can watch it zoom over.</p>
 
 <p>I asked the cat if they had an option to get it there today.  They

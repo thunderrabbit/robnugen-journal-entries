@@ -9,18 +9,18 @@ date: 2017-06-20T07:12:34+09:00
 
 First, visit any [crowdfunding page for Grenfell Tower](https://www.justgiving.com/search?q=grenfell&i=campaign&limit=20&type=onesearch)
 
-(via http://metro.co.uk/2017/06/14/crowdfunding-page-to-help-the-residents-devastated-by-the-grenfell-tower-fire-6707957/)
-(archive http://archive.is/5655r)
+(via https://metro.co.uk/2017/06/14/crowdfunding-page-to-help-the-residents-devastated-by-the-grenfell-tower-fire-6707957/)
+(archive https://archive.is/5655r)
 
 Second, holy shit what a horrible fire.
 
 https://www.thesun.co.uk/news/3803438/man-who-lived-in-the-flat-where-the-grenfell-tower-fire-started-packed-a-bag-then-raised-the-alarm-with-neighbours/
 
-http://archive.is/
+https://archive.is/
 
 https://twitter.com/Adaurable1/status/874831235503226881
 
-http://archive.is/c8Ly2
+https://archive.is/c8Ly2
 
 [![01 R Sones Grenfell Tower London in 2009](//b.robnugen.com/science/physics/architecture/towers/fires/london_grenfell_june_2017/thumbs/01_R_Sones_Grenfell_Tower_London_in_2009.jpg)](//b.robnugen.com/science/physics/architecture/towers/fires/london_grenfell_june_2017/01_R_Sones_Grenfell_Tower_London_in_2009.jpg)
 [![02 Natalie Oxford Grenfell Tower](//b.robnugen.com/science/physics/architecture/towers/fires/london_grenfell_june_2017/thumbs/02_Natalie_Oxford_Grenfell_Tower.jpg)](//b.robnugen.com/science/physics/architecture/towers/fires/london_grenfell_june_2017/02_Natalie_Oxford_Grenfell_Tower.jpg)
@@ -37,7 +37,7 @@ https://twitter.com/Natalie_Oxford/status/874835244989513729/photo/1
 
 https://en.wikipedia.org/w/index.php?title=Grenfell_Tower_fire&oldid=786508808
 
-http://archive.is/zsxDN (two days ago)
+https://archive.is/zsxDN (two days ago)
 
 Third, according to NIST, this tower fell because of fire.
 

@@ -31,6 +31,6 @@ fixed!
 
 ![Welcome aboard](https://netlify.scdn4.secure.raxcdn.com/3f1b5bf66049e696f1bf91bf6edf3dcca33aa3f4/74a50/images/action-picture.png)
 
-http://archive.is/O75sv
+https://archive.is/O75sv
 
-http://archive.is/QUGpx
+https://archive.is/QUGpx

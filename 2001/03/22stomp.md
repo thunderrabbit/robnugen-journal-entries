@@ -9,7 +9,7 @@ date: 2001-03-22
 <p class=date>10:14pm CST Thursday 22 March 2001</p>
 
 <p>We just got back from seeing <a
-href="http://www.stomponline.com">Stomp</a> at the Wortham Theater
+href="https://www.stomponline.com">Stomp</a> at the Wortham Theater
 downtown.  Super great show; I bruised my ring finger from clapping so
 hard (actually my ring bruised it).  Not from <em>clapping</em>
 "yayyayyy!" [clapclapclapclapclapclap] but when we did the Repeat part

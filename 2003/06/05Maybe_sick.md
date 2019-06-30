@@ -108,9 +108,9 @@ of road tripping around the US) and have found three private English
 students who I'll teach (separately) each week.  With that tutoring,
 I'll make enough money to cover my daily expenses.  Awesome.
 
-A summary of my Japan experience is at http://www.robnugen.com/japan/
+A summary of my Japan experience is at https://www.robnugen.com/japan/
 
-Details are at http://www.robnugen.com/journal/
+Details are at https://www.robnugen.com/journal/
 </pre>
 
 <p>ps: I finished the second cup of tea with no dramatic increase nor

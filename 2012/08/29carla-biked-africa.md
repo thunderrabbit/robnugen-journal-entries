@@ -9,4 +9,4 @@ tags: [ "carla", "travel" ]
 
 OMG!!!  This is my friend Carla!!!
 
-[http://www.carlabikesafrica.com/](http://www.carlabikesafrica.com/)
+[https://www.carlabikesafrica.com/](https://www.carlabikesafrica.com/)

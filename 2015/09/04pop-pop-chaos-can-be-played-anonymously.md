@@ -12,7 +12,7 @@ Posted at https://forums.meteor.com/t/new-easy-silly-game-pop-pop-chaos-my-first
 
     If you have time to click click click some colorful bubbles, check out my new game
     
-    http://www.poppopchaos.com/
+    https://www.poppopchaos.com/
     
     Click bubbles to inflate them; the one who pops the bubble gets the points!
     

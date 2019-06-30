@@ -21,9 +21,9 @@ already; I don't know about Tinkerbell.</p>
 
 <p>I sat down and have been reading email, and reading
 the answers posted to users' <a
-href="http://www.livejournal.com/support/help.bml">questions</a>
+href="https://www.livejournal.com/support/help.bml">questions</a>
 at livejournal.com.  Still no answer to <a
-href="http://www.livejournal.com/support/see_request.bml?id=5247">my
+href="https://www.livejournal.com/support/see_request.bml?id=5247">my
 question</a>.</p>
 
 <p>During this time, I watched far away lightning

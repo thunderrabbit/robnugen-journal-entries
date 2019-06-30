@@ -28,6 +28,6 @@ peanutbutter pie.  I have a very sweet tasting t-shirt on now.</p>
 <p>Oh, and I got to put the merange on the pb pie.  I'm an expert
 meragner I'm sure, especially since I think I'm spelling that
 incorrectly.  Merangue?  Wow. I can't even find it on <a
-href="http://www.m-w.com">m-w.com</a>.</p>
+href="https://www.m-w.com">m-w.com</a>.</p>
 
 <p>Anyway, yummy pies.</p>

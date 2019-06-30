@@ -11,7 +11,7 @@ My friend Jon "What's Missing Here" W first told me about Amma; he had gone to h
 
  
 
-Amma is a spiritual master who gives [darshan through hugging](http://www.amritapuri.org/amma/who/darshan).  And when Paola told us a few weeks ago that she'd be here again (turns out she's in Tokyo every year), I was like, "I'm there, dude," even though I wasn't yet there and Paola isn't a dude.
+Amma is a spiritual master who gives [darshan through hugging](https://www.amritapuri.org/amma/who/darshan).  And when Paola told us a few weeks ago that she'd be here again (turns out she's in Tokyo every year), I was like, "I'm there, dude," even though I wasn't yet there and Paola isn't a dude.
 
  
 

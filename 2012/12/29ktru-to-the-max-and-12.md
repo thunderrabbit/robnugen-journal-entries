@@ -11,7 +11,7 @@ OMG this is so amazing!!!
 
 First, it's amazing that I can listen to KTRU at all on this fancy series of tubes called the internizz.   Second, Fred and I were listening to the Vinyl Frontier's Christmas show a couple nights ago; fun times.  but that's not why I'm writing.
 
-It's amazing that MK Ultra show is still kickin' it.  I enjoyed listening to the whole [3 hours played by Dijon](http://noise.rice.edu/ktru/sheet.nsf/15aa60c8727df106802568e90056b4d1/9b62ecd77c6ac6e386257ae300124f48?OpenDocument), so I called him near the end just to say HI and what's up from Tokyo, etc.  We chatted for a bit, mostly me asking what had changed and what has stayed the same at the station in all those years since I was there.
+It's amazing that MK Ultra show is still kickin' it.  I enjoyed listening to the whole [3 hours played by Dijon](https://noise.rice.edu/ktru/sheet.nsf/15aa60c8727df106802568e90056b4d1/9b62ecd77c6ac6e386257ae300124f48?OpenDocument), so I called him near the end just to say HI and what's up from Tokyo, etc.  We chatted for a bit, mostly me asking what had changed and what has stayed the same at the station in all those years since I was there.
 
 He ended his shift with a song by an artist from Tokyo, then he closed his show with something like, "yeah that was <artist name> all the way from **Japan**," giving just a bit of emphasis to the final word so I knew he was saying HI to me.
 
@@ -53,7 +53,7 @@ After that, things went a bit crazy.
 
 TomZ came on the air between songs like, "thanks for listening Thunder Rabbit! All the way from Tokyo.  By the way, I don't know if you remember, but I used to rollerblade with you back in the day, so anyway, thanks for listening"
 
-WHAT?????   Holy cats my brain was like WHAT??  How can he remember that?  How can I remember him??  I met so many people inline skating...   But Google has the memory of a massive computer brain so (while Tom was playing some noise music,) I looked it up, and found [a skate entry, at the very bottom of which is Tom's name.](http://robnugen.com/cgi-bin/journal.pl?type=skate&date=1995/01/20)
+WHAT?????   Holy cats my brain was like WHAT??  How can he remember that?  How can I remember him??  I met so many people inline skating...   But Google has the memory of a massive computer brain so (while Tom was playing some noise music,) I looked it up, and found [a skate entry, at the very bottom of which is Tom's name.](https://robnugen.com/cgi-bin/journal.pl?type=skate&date=1995/01/20)
 
 While texting Tom that journal entry, plus "my wife doesn't like this noise music haha," he was on air again, confirming my previous "WHAT" message with, "yeah, back in the day, we met while skating, and I was like, wow that's cool.. and... life goes on," and while he was speaking, more brain cells started to wake up in my brain, ... "he sounds like that guy who ran for City Council!  What was his name???" and I text *that* to him, and I was right!
 

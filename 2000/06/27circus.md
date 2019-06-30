@@ -14,7 +14,7 @@ awe-inspiring.  I was moved to tears at their sheer perfection.
 
 <p>GO SEE the movie!!  It's 8 bucks at Edward's IMAX thingy on the
 corner of I-10 and 610 in Houston, and it's playing in a couple more
-<a href="http://www.edwardscinemas.com/imax/nowshowing/">cities</a>.
+<a href="https://www.edwardscinemas.com/imax/nowshowing/">cities</a>.
 Oh, and it's 3-D.  The goggles are a bit klunky, but made me feel like
 the action was *right* there.
 

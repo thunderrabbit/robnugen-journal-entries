@@ -31,7 +31,7 @@ begin to use XML at work to transfer data with HR departments.</p>
 <p>- - - -</p>
 
 <p>Oh, and I downloaded DocZilla (<a
-href="http://www.doczilla.com">www.doczilla.com</a>), but it didn't
+href="https://www.doczilla.com">www.doczilla.com</a>), but it didn't
 seem to be nearly stable enough for me to use it instead of Netscape,
 which is hardly completely stable itself.</p>
 
@@ -40,7 +40,7 @@ which is hardly completely stable itself.</p>
 <p>OH!!!!!!!!!  And today we ordered a new computer for me at work!!
 A PIII 1GHz processor with 512 Meg ram, 40Gig HD, 10/100T,
 48X CD, speakers, 17" monitor, Natural (curved) keyboard, mouse, etc
-etc for $1784 from <a href="http://www.dell.com">Dell</a>!!!  It
+etc for $1784 from <a href="https://www.dell.com">Dell</a>!!!  It
 should be in around 14 December.  Yay!!!</p>
 
 <p>Wende has just arrived at home; we are about to go meet peeps from

@@ -173,7 +173,7 @@ and here:
             (push tag tags)))
         (nreverse tags)))
     
-    ;;;  http://stackoverflow.com/a/251922
+    ;;;  https://stackoverflow.com/a/251922
     
     
     (defvar current-date-time-format "## %H:%M %A %d %B %Y %Z"

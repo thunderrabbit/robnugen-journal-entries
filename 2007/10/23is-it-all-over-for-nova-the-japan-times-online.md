@@ -11,7 +11,7 @@ tags: [ "news" ]
 
 "If they don't officially go bankrupt that means the teachers won't be dismissed, they just won't be paid, and if they resign they'd have to wait three months (for unemployment insurance), and if they don't resign we have to prove that it's effectively a bankruptcy, which takes time, so either way they're in serious trouble if Nova doesn't officially go bankrupt."
 
-[Is it all over for Nova? | The Japan Times Online](http://search.japantimes.co.jp/cgi-bin/fl20070925zg.html)
+[Is it all over for Nova? | The Japan Times Online](https://search.japantimes.co.jp/cgi-bin/fl20070925zg.html)
 
 
 The above scenario seems very likely in Japanese culture. Basically problems are ignored as Somebody Else's Problem or shoganai, meaning nothing can be done.
@@ -20,6 +20,6 @@ I'm so glad I got out of Nova years ago.
 
 
 
-Blogged with [Flock](http://www.flock.com/blogged-with-flock)
+Blogged with [Flock](https://www.flock.com/blogged-with-flock)
 
-Tags: [nova](http://technorati.com/tag/nova), [news](http://technorati.com/tag/news), [ crash](http://technorati.com/tag/%20crash)
+Tags: [nova](https://technorati.com/tag/nova), [news](https://technorati.com/tag/news), [ crash](https://technorati.com/tag/%20crash)

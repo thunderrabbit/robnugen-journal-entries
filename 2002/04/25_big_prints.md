@@ -6,7 +6,7 @@ date: 2002-04-25
 ---
 
 <p>From <a
-href="http://www.nytimes.com/2002/04/25/technology/circuits/25STAT.html?toda
+href="https://www.nytimes.com/2002/04/25/technology/circuits/25STAT.html?toda
 ysheadlines">The New York Times</a>:</p>
 
 <pre>

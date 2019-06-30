@@ -14,7 +14,7 @@ depth of hundreds of miles, so no tsunami.
 
 ## 09:30 Sunday 31 May 2015 JST
 
-Crud I forgot to upload the image snagged from [jma earthquake map](http://www.jma.go.jp/en/quake/)
+Crud I forgot to upload the image snagged from [jma earthquake map](https://www.jma.go.jp/en/quake/)
 
 I've written another entry so the likelihood of my forgetting to
 upload the image increases with every passing journal entry.

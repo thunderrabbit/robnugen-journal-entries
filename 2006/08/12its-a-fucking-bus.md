@@ -64,10 +64,10 @@ amen!!!  I totally agree that any MF who tried anything on a plane would get bum
 
 
 
-technorati tags:[airplane](http://technorati.com/tag/airplane), [security](http://technorati.com/tag/security), [threat](http://technorati.com/tag/threat), [water](http://technorati.com/tag/water), [rant](http://technorati.com/tag/rant)
+technorati tags:[airplane](https://technorati.com/tag/airplane), [security](https://technorati.com/tag/security), [threat](https://technorati.com/tag/threat), [water](https://technorati.com/tag/water), [rant](https://technorati.com/tag/rant)
 
 
 
 
 
-Blogged with [Flock](http://www.flock.com)
+Blogged with [Flock](https://www.flock.com)

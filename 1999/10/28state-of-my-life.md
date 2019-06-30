@@ -37,7 +37,7 @@ been feeling weird about us lately, like I'm not getting what I need from our re
 
 <p>Oh oh oh oh and!!!  AND!!!!  I got a ticket to DJ Shadow!  The Music Directors or the Promotions Director or somehow the right people knew that I wanted a ticket and I got a message all, "Rob, there is an extra Zap Mama CD; it's in my box if you want it" from Michael, one of the music directors. (I reviewed and enjoyed our first copy of it.) I was all, Thanks!!! and went to get the CD this morning and BANG there's a DJ Shadow ticket in my CD case!!!  Too too cool.</li>
 
-<p><li>I finished my plate that I've been painting at <a href="http://www.themadpotter.com">The Mad Potter</a>! It's a paint-your-own pottery studio on my street. They provide white pottery and paint. Customers provide creativity and a few dollars and get to take home dishwasher safe, totally useable dish!
+<p><li>I finished my plate that I've been painting at <a href="https://www.themadpotter.com">The Mad Potter</a>! It's a paint-your-own pottery studio on my street. They provide white pottery and paint. Customers provide creativity and a few dollars and get to take home dishwasher safe, totally useable dish!
 
 <p>I had been working on this plate since 16 August. I estimate I put about 37 hours into it.  It's pretty detailed, - not an image <em>per se</em> but swirly twisty weaving ribbons of lines and dots.
 

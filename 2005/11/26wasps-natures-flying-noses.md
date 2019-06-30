@@ -9,7 +9,7 @@ tags: [ "miscellaneous", "news" ]
 
 > Unlike dogs and electronic sensors currently in use, the wasps are disposable. They cost pennies and take minutes to train.
 
-[Wired News: Sting Operation Targets Terror](http://www.wired.com/news/technology/0,1282,69301,00.html?tw=wn_tophead_4)
+[Wired News: Sting Operation Targets Terror](https://www.wired.com/news/technology/0,1282,69301,00.html?tw=wn_tophead_4)
 
 Woah. This counts for one of them ideas that anyone coulda thunk of. I think.  
 

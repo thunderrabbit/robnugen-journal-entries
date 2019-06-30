@@ -106,7 +106,7 @@ on AIM:</p>
 <br><font color="#ff0000"><b>ROB (11:04:41):</font> <font color="#000000"></b>shit I'll look it up</font>
 <br><font color="#ff0000"><b>ROB (11:04:46):</font> <font color="#000000"></b>that word gets me a lot</font>
 <br><font color="#0000ff"><b>Erika (11:04:59):</font> <font color="#000000"></b>Me too.</font>
-<br><font color="#ff0000"><b>ROB (11:05:07): </B><A HREF="http://www.druglordsgame.com/index.php?ref=63970">http://www.druglordsgame.com/index.php?ref=63970</A></font>
+<br><font color="#ff0000"><b>ROB (11:05:07): </B><A HREF="https://www.druglordsgame.com/index.php?ref=63970">https://www.druglordsgame.com/index.php?ref=63970</A></font>
 <br><font color="#0000ff"><b>Erika (11:05:08):</font> <font color="#000000"></b>Also   "Definitely"</font>
 <br><font color="#0000ff"><b>Erika (11:05:13):</font> <font color="#000000"></b>what is that?</font>
 <br><font color="#ff0000"><b>ROB (11:05:18):</font> <font color="#000000"></b>it's funny</font>

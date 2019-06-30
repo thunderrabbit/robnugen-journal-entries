@@ -22,7 +22,7 @@ haven't had to deal with team development much, being the only
 developer in our company.
 
 Chiaki has a website she hasn't updated in a while:
-http://www.mamaism.org/
+https://www.mamaism.org/
 
 Outside, Noah was unimpressed with my barefoot preference.
 

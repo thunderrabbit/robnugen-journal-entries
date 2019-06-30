@@ -25,7 +25,7 @@ We'll see.</p>
 <p>- - - -</p>
 
 <p>hmmm..  This is interesting.  <a
-href="http://www.risnews.com/consumerstudy/gallery_furniture.htm">This</a>
+href="https://www.risnews.com/consumerstudy/gallery_furniture.htm">This</a>
 says "The [Gallery Furniture] website allows consumers
 to peer through 48 live interactive cameras
 distributed

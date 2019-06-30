@@ -7,7 +7,7 @@ tags: [ "journal" ]
 
 ##20:10 Thursday 09 February 2012
 
-I've been using [git](http://en.wikipedia.org/wiki/Git_%28software%29) for over a year, and I've enjoyed its awesomeness more and more as I use it. In the past couple of weeks, I've made great use of git reflog, which keeps steady track of all the changes that affect the files.
+I've been using [git](https://en.wikipedia.org/wiki/Git_%28software%29) for over a year, and I've enjoyed its awesomeness more and more as I use it. In the past couple of weeks, I've made great use of git reflog, which keeps steady track of all the changes that affect the files.
 
  
 

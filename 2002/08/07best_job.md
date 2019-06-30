@@ -121,8 +121,8 @@ a country in Europe.  Quite an entertaining game!</p>
 <p>Jackie went home at 1:30 as requested by her parents.  Ashley and
 Joey played for a bit; Sean went to bed.  I stayed up till 3am looking
 for Kazaa Lite for Mac OS X, signing up for comics from <a
-href="http://www.comics.com">comics.com</a>, and signing up for the <a
-href="http://www.TheHarrowGroup.com/">Harrow Technology
+href="https://www.comics.com">comics.com</a>, and signing up for the <a
+href="https://www.TheHarrowGroup.com/">Harrow Technology
 Report</a>. </p>
 
 <p><img src="/images/rob/wL-ROB.gif"/></p>

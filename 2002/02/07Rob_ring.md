@@ -14,7 +14,7 @@ the ring, and none of them wanted to be the new ringmaster when I
 decided to give up my role.</p>
 
 <p>This Rob is the only one who actually replied to my email: <a
-href="http://www.dse.nl/~robvg/index_us.html">Rob van Gassel</a></p>
+href="https://www.dse.nl/~robvg/index_us.html">Rob van Gassel</a></p>
 
 
 <p><img src='/images/rob/wL-ROB.gif'/></p>

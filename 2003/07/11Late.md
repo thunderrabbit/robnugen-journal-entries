@@ -40,5 +40,5 @@ fined for the incident.</p>
 <p>Doing some research to see if I can verify my claim that the family
 is charged and I found this movie review:  eeek!</p>
 
-<p><a href="http://www.mandiapple.com/snowblood/suicidecircle.htm">http://www.mandiapple.com/snowblood/suicidecircle.htm</a></p>
+<p><a href="https://www.mandiapple.com/snowblood/suicidecircle.htm">https://www.mandiapple.com/snowblood/suicidecircle.htm</a></p>
 

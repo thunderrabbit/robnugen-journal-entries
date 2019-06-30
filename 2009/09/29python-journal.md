@@ -14,12 +14,12 @@ moved to [github](https://github.com/thunderrabbit/some-old-bs-journal)
 
 I'm Rob Nugen, and have kept a journal since 1987.  Before YouTube, before LiveJournal, before
 "blog" was even a word, I started posting my journal online at
-http://robnugen.com/cgi-bin/journal.cgi This was basically an index into a directory of files with a
+https://robnugen.com/cgi-bin/journal.cgi This was basically an index into a directory of files with a
 structure like YYYY/MM/DDfilename.html It could handle digging down into the tree of files, but not
 really jumping to adjacent directories.
 
 In 1997 or so, my brother Fred helped me write a version which is now in use at
-http://robnugen.com/cgi-bin/journal.pl It features a calendar on the side to navigate the journal
+https://robnugen.com/cgi-bin/journal.pl It features a calendar on the side to navigate the journal
 entries.  The system uses a script to scan through the directories and files to create the
 calendars, then uses various regexii to display the correct calendars on the left when the reader
 wants to read the journal
@@ -35,7 +35,7 @@ that's based on my ignorance of how databases are stored; maybe it would be just
 imagine it would be easier).
 
 To facilitate the open source aspect, I've created a new git repository for this system at
-http://git.robnugen.com/php_file_journal.git/ I'm actually just now learning git ("fo realz" (I had
+https://git.robnugen.com/php_file_journal.git/ I'm actually just now learning git ("fo realz" (I had
 used it a bit before, but didn't really grok it.)) and this seemed like as good a test project as
 any.
 

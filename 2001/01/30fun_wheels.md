@@ -43,7 +43,7 @@ boot, brb</p>
 <p>I got the message a couple minutes later; I was
 talking to Kevin at the time, but Dude never IMed me
 back.  So I emailed his <!a
-href="http://www.blackberry.com">blackberry<!/a>
+href="https://www.blackberry.com">blackberry<!/a>
 (pager).</p>
 
 <p>Turned out he was on his way with peeps from his

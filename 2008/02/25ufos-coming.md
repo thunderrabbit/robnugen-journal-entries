@@ -8,7 +8,7 @@ tags: [ "news" ]
 ##10:14 Monday 25 February 2008
 
   
-[Citizen.com - Laconia NH, Dover NH, Rochester NH, Portsmouth NH, Sanford ME](http://www.citizen.com/apps/pbcs.dll/article?AID=/20080224/GJNEWS02/12852046/-1/CITNEWS)   
+[Citizen.com - Laconia NH, Dover NH, Rochester NH, Portsmouth NH, Sanford ME](https://www.citizen.com/apps/pbcs.dll/article?AID=/20080224/GJNEWS02/12852046/-1/CITNEWS)   
 
 
 
@@ -31,4 +31,4 @@ I'm ready to shake things up here on earth.  If it takes an undeniably present a
 
 
 
-Powered by [ScribeFire](http://scribefire.com/).
+Powered by [ScribeFire](https://scribefire.com/).

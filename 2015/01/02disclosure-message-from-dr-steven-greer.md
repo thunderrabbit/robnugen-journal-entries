@@ -13,7 +13,7 @@ I got an email from Dr Steven Greer, and am taking the liberty of copying the bo
     already has. A majority of people already believe we are not alone in
     the cosmos and that we are being visited by advanced ET
     civilizations. More than 14 [countries have opened their UFO files and
-    acknowledge this reality](http://www.educatinghumanity.com/2011/01/list-of-countries-that-have-disclosed.html). However the US- the crown jewel in the world
+    acknowledge this reality](https://www.educatinghumanity.com/2011/01/list-of-countries-that-have-disclosed.html). However the US- the crown jewel in the world
     of super-secret technologies- has resisted Disclosure. We are not
     surprised.
      
@@ -73,7 +73,7 @@ I got an email from Dr Steven Greer, and am taking the liberty of copying the bo
     who have worked in a DIRECT capacity and have first hand knowledge of
     Government or Government - related (corporate) projects dealing with
     UFOs and ETs and have them contact me at
-    [www.SiriusDisclosure.com](http://www.SiriusDisclosure.com). NOTE: we are not interested in hearsay,
+    [www.SiriusDisclosure.com](https://www.SiriusDisclosure.com). NOTE: we are not interested in hearsay,
     second hand accounts and we require corroboration of the persons
     claims, employment record, military service etc.
      
@@ -103,5 +103,5 @@ I got an email from Dr Steven Greer, and am taking the liberty of copying the bo
      
      
     Steven M. Greer MD
-    [www.SiriusDisclosure.com](http://www.SiriusDisclosure.com)
+    [www.SiriusDisclosure.com](https://www.SiriusDisclosure.com)
     

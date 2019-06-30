@@ -26,7 +26,7 @@ moved out.</p>
 unable to get it to work.  Grrrr at Microsoft.</p>
 
 <p>A great thing, however:  my new GHz computer will now compute an
-entire <a href="http://setiathome.berkeley.edu">Seti at Home</a> thing
+entire <a href="https://setiathome.berkeley.edu">Seti at Home</a> thing
 4 times faster than my other machine, which was taking about 24 hours
 per packet.  My linux box is taking about 11 hours per packet.  Now
 I'll get tons more finished!</p>

@@ -42,5 +42,5 @@ times around for a full marathon.  haha yeah I ain't doing that!
 
 Train and then rode home with Lin who usually picks me up at the
 station on Wednesday nights.  She had just gone to see
-[Amma](http://www.amma-rainichi.org/english/) (and Paola, who is
+[Amma](https://www.amma-rainichi.org/english/) (and Paola, who is
 likely to leave Japan for a while) with our neighbor Mai.

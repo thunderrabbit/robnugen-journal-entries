@@ -48,8 +48,8 @@ dlee@rice.edu
 
 For more information on the history of KTRU:
 <a
-href="http://www.rice.edu/projects/thresher/issues/88/00.10.27/current/featu
-re/index.html">http://www.rice.edu/projects/thresher/issues/88/00.10.27/curr
+href="https://www.rice.edu/projects/thresher/issues/88/00.10.27/current/featu
+re/index.html">https://www.rice.edu/projects/thresher/issues/88/00.10.27/curr
 ent/feature/index.html</a>
 
 To express your concern, send comments to:

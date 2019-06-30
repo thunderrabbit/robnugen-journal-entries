@@ -8,7 +8,7 @@ date: 2001-08-30
 <p class="date">9:53pm Thursday 30 August 2001</p>
 
 <p>This is a test entry that I'm writing with 
-<a href="http://www.allaire.com/Products/HomeSite/">Homesite</a>.</p>
+<a href="https://www.allaire.com/Products/HomeSite/">Homesite</a>.</p>
 
 <p>Wende says hi.</p>
 

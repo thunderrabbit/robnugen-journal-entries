@@ -9,13 +9,13 @@ date: 2000-05-19
 
 <p>I'm not sure if this will work correctly, but I'll try it.
 
-<p>For the last 90-few days, my computer at work has been helping with the <a href="http://setiathome.berkeley.edu">Seti@home</a> project.  The idea is that astronomers have collected a lot of data, hoping to find signals from alien life.  To help the search, people can volunteer their excess computer resources to dig through the data.
+<p>For the last 90-few days, my computer at work has been helping with the <a href="https://setiathome.berkeley.edu/">Seti@home</a> project.  The idea is that astronomers have collected a lot of data, hoping to find signals from alien life.  To help the search, people can volunteer their excess computer resources to dig through the data.
 
 <p>I'm putting this snapshot of my ranking in my journal because I have just found that I can use my linux machine at home to search data as well.  AND, my linux machine does it a lot faster than this machine.
 
 <p>I will encourage Dude to use his machines at home to do the same.  We can start a team called MR Laboratories!!!
 
-<p><img src=http://setiathome.ssl.berkeley.edu/images/better_banner.jpg width=500 height=100 alt='SETI@home' align=left>
+<p><img src=https://setiathome.ssl.berkeley.edu/images/better_banner.jpg width=500 height=100 alt='SETI@home' align=left>
 <br clear=all><br>
 <h2>thunderrabbitATcheerfulDOTcom</h2>
 <br><br>

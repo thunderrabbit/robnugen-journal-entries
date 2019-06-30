@@ -9,7 +9,7 @@ date: 2015-02-24T18:10:00+09:00
 
 At the toy store, I found some sets of themed images drawn on some
 cards, copyright Stephanie Graegin and produced by
-[eeBoo corporation](http://www.eeboo.com/).  I thought "these would be
+[eeBoo corporation](https://www.eeboo.com/).  I thought "these would be
 useful during my lessons," thinking my students might enjoy making
 stories with the cards as prompts.  Then I was like, "AND I can use
 them in my Japanese lessons!!"

@@ -28,7 +28,7 @@ date: 1998-12-30
 
 <p>Certainly there's a URL, but I don't know what.
 
-<p>Okay, I found a URL: <a href="http://www.puzzletts.com/search/">http://www.puzzletts.com/search/</a> and type in <font face="arial">professor's</font> for the name and it will come right up!
+<p>Okay, I found a URL: <a href="https://www.puzzletts.com/search/">https://www.puzzletts.com/search/</a> and type in <font face="arial">professor's</font> for the name and it will come right up!
 
 <p>So anyway the cube was super awesome and I pretty much played with that the whole 2 days we were there. We also watched "The Wrong Trousers" starring Wallace and Grommit, who I had never previously seen except on Mario's desk as little plastic figures. Yup Wallace, Grommit, penguin and trousers. That's hilarious stuff! I loved the train track scene. How do they make the background blur if it's stop action photography? I was quite impressed.
 

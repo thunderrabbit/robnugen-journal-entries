@@ -69,7 +69,7 @@ playoffs.
 Maps to all three competition sites are now available
 on the website, along with driving directions:
 <a
-href="http://www.austin-ultimate.org/centex/maps.html">http://www.austin-ultimate.org/centex/maps.html</a>
+href="https://www.austin-ultimate.org/centex/maps.html">https://www.austin-ultimate.org/centex/maps.html</a>
 
 Please get the word out to your teams as quickly as
 possible so that we can avoid having a slew of lost

@@ -15,7 +15,7 @@ encrypted is now mounted as Name1 instead of just Name, as I specified.
 AND, two of the three drives routinely cannot be ejected.
 
 This had been a problem long enough to tick off my man Luis
-back in April 2014: [The Disk Wasn’t Ejected Because We’re Stupid](http://blogd.com/wp/index.php/archives/10750)
+back in April 2014: [The Disk Wasn’t Ejected Because We’re Stupid](https://blogd.com/wp/index.php/archives/10750)
 
 I tried doing
 [`lsof +D /Volumes/Name`](https://www.reddit.com/r/mac/comments/3qsxuw/disk_x_wasnt_ejected_because_one_or_more_programs/cwi2sfv)

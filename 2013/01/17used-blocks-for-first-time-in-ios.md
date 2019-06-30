@@ -7,7 +7,7 @@ tags: [ "journal", "programming" ]
 
 ##07:51 Thursday 17 January 2013
 
-I wrote this on [750words](http://750words.com/) this morning at 4am.
+I wrote this on [750words](https://750words.com/) this morning at 4am.
 
 Just for fun (and because I need to head to work), I'll leave it unedited:
 

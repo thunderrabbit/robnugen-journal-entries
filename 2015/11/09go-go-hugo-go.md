@@ -30,5 +30,5 @@ recent entries online:
     cd ~/journal
     echo "back jack"
 
-Thanks to http://fredrikloch.me/post/automatic_hugo_deploy/ for the
+Thanks to https://fredrikloch.me/post/automatic_hugo_deploy/ for the
 rsync line.

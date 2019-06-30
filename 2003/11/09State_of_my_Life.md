@@ -148,7 +148,7 @@ stuff.  I think.</p></li>
 <li><p>I plan to go to Tokyo Disneyland quite soon (18 November).  I'm
 excited, but not sure how much fun it will be (super crowded and not a
 lot of coasters, I'm guessing).  Going with <a
-href="http://fortune-rings.org/kumalife/">Tomoko</a>, who I've been
+href="https://fortune-rings.org/kumalife/">Tomoko</a>, who I've been
 hanging out with recently.</p></li>
 
 <li><p>Carla is my favorite teacher in Kawasaki.</p></li>

@@ -17,7 +17,7 @@ system where I hardcoded the query and just let them run it.
 
 The new system creates static output though, and they'd like to be
 able to sort the output a la
-[datatables](http://datatables.net/) which I have set up on most of
+[datatables](https://datatables.net/) which I have set up on most of
 the AB admin site indices.  So I'm rewriting the defined report system
 so the queries will be stored in the DB along with some meta data to
 say which output fields should be editable.

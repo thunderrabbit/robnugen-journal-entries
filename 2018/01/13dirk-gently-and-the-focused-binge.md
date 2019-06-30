@@ -15,4 +15,4 @@ I have to go to bed.
 https://news.newonnetflix.info/news/dirk-gentlys-holistic-detective-agency-season-2-date-for-netflix-uk/
 
 Now it is apparently canceled, but I hope not.
-http://variety.com/2017/tv/news/dirk-gently-2-1202644035/
+https://variety.com/2017/tv/news/dirk-gently-2-1202644035/

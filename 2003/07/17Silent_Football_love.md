@@ -17,7 +17,7 @@ facing person can Fwap the ball.</p>
 
 <p>And Maggie wrote me a super long email transcribing some of my
 old-school journal entries (<a
-href="http://www.robnugen.com/cgi-local/journal.pl?date=1993/03/20">20
+href="https://www.robnugen.com/cgi-local/journal.pl?date=1993/03/20">20
 March 1993</a>) and has expressed that she really misses me as
 well.</p>
 

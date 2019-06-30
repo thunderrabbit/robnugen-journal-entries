@@ -9,13 +9,13 @@ date: 2015-10-25T16:49:02+09:00
 
 Now we're playing Relic Expedition,
 
-http://foxtrotgames.com/relic-expedition/
+https://foxtrotgames.com/relic-expedition/
 
 https://boardgamegeek.com/boardgame/138614/relic-expedition
 
 https://www.kickstarter.com/projects/foxtrotgames/relic-expedition-a-jungle-adventure-game
 
-http://www.amazon.com/Relic-Expedition/dp/B00HANDYBM
+https://www.amazon.com/Relic-Expedition/dp/B00HANDYBM
 
 https://www.youtube.com/watch?v=HM4Ifgln4Xo
 

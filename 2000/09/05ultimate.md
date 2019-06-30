@@ -10,7 +10,7 @@ date: 2000-09-05
 
 <p>We played ultimate tonight even though it's Tuesday and we usually
 play on Wednesday.  We wanted to get an extra practice in before the
-<a href="http://www.strayconesports.com">HURL Fall League</a> begins.
+<a href="https://www.strayconesports.com">HURL Fall League</a> begins.
 
 <p>Ironically, just before I went out to play tonight, I visited the
 above linked website and determined that the games are on Sunday and

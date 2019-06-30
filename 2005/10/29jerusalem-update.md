@@ -46,7 +46,7 @@ Security Fence:
 Separation Barrier:
 Apartheid Wall:  a fence / wall 8 meters tall being constructed around Palestine.
 
-further reading: http://en.wikipedia.org/wiki/Apartheid_wall
+further reading: https://en.wikipedia.org/wiki/Apartheid_wall
 
 Intifada: An uprising of Palestinians against the apartheid in which they have been living.  The first Intifada was from 1987 to 1992ish. The second Intifada started in 2000, and is or is not finished depending on who one asks.
 

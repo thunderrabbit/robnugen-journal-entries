@@ -11,7 +11,7 @@ Last night we discussed presenting a day-long workshop to men in Tokyo.  My visi
 
 Today Tomoko seemed quite entertained with the magnitude of Marble
 Track 3's Construction.  It worked well to show her
-[Marble Track 2](http://mt2.robnugen.com/) because she soon asked how
+[Marble Track 2](https://mt2.robnugen.com/) because she soon asked how
 I made it.
 
 Nowadays at JB, I teach 5 lessons on Wednesdays, 20% more than the

@@ -12,7 +12,7 @@ Mike's books.  (Playing ultimate back in the day, we had Canadian Mike
 and British Mike.)
 
 ABout a month ago we received the advanced review copy of [The Loss -
-Zombie Ocean 4](http://www.michaeljohngrist.com/2016/04/the-loss-zombie-ocean-4/)
+Zombie Ocean 4](https://www.michaeljohngrist.com/2016/04/the-loss-zombie-ocean-4/)
 and today I finished it!
 
 This is the fourth book in MJG's Zombie Ocean, and it's easily the best of the series so far! The world is really opening up; the first three books have created the world from different viewpoints.. and now we get to live in it (and a few get to die in it!)

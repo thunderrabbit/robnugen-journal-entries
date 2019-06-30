@@ -18,7 +18,7 @@ I was going to do some iPhone dev when I got home, but suddenly got into journal
  
   3. Lin's mom lives with us, though is on a schedule about 4 hours earlier than ours, so we don't get to hang out too much.
  
-  4. I've sorta kinda started studying Japanese with [iknow.jp](http://iknow.jp/?referrer=thunderrabbit&please_start=a_referral_program). So far I've gotten like 65% through the first 100 words and 40% through the second 100 words
+  4. I've sorta kinda started studying Japanese with [iknow.jp](https://iknow.jp/?referrer=thunderrabbit&please_start=a_referral_program). So far I've gotten like 65% through the first 100 words and 40% through the second 100 words
  
   5. Tariq and I are working together on iPhone development; we have a couple of app ideas that should be interesting
  
@@ -32,7 +32,7 @@ I was going to do some iPhone dev when I got home, but suddenly got into journal
  
   10. I'm  working at sbstrm with Andrew and Sho; we're working hard, and I'm  about to finish my first year contract in May and start a new one.  We're a small team with the sbstrm dream.
  
-  11. For about the past three weeks, I've been listening (on continuous repeat) to the soothing sounds of [kinessence](http://kinessence.com/)
+  11. For about the past three weeks, I've been listening (on continuous repeat) to the soothing sounds of [kinessence](https://kinessence.com/)
  
   12. The  only thing I don't like about Posterous: I can't edit posts later and  have it autoupdate all the previously posted posts. (at least I don't  think I can)
  

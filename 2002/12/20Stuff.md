@@ -136,7 +136,7 @@ look for mynameisryan from a couple days ago on livejournal.</p>
 
 <p>Speaking of Ryan, I really hope he makes wads of cash with his
 cartoon Boy In The Machine <a
-href="http://boyinthemachine.tripod.com/">boyinthemachine.tripod.com</a>
+href="https://boyinthemachine.tripod.com/">boyinthemachine.tripod.com</a>
 I think.</p>
 
 <p>- - - -</p>

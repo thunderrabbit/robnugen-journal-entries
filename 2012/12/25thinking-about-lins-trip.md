@@ -15,7 +15,7 @@ Lin has "always" wanted to travel and see other parts of the world.  That's exa
 
 I got on the airplane having never been to Japan, hardly knowing the language (still don't, considering how long I've been here.  Sorry, old Rob), and I remember how fucking hard it was to have no physical contact once I got here.  I got trolly comments on my journal when I was just wanting a hug.
 
-So, I know it will be challenging, and I also know it will be growth.  For both of us, but especially for Lin.  She's wanted to travel for years but hasn't; she's been taking care of her family over taking care of her own dreams.   It will be growth for me and my desire for hugs.  Maybe I'll buy a (few) FREE HUGS t-shirt(s) to wear around town.   Maybe I'll spend more time in meditation to activate my [kundalini](http://en.wikipedia.org/wiki/Kundalini), instead of having all this energy in lower chakras.
+So, I know it will be challenging, and I also know it will be growth.  For both of us, but especially for Lin.  She's wanted to travel for years but hasn't; she's been taking care of her family over taking care of her own dreams.   It will be growth for me and my desire for hugs.  Maybe I'll buy a (few) FREE HUGS t-shirt(s) to wear around town.   Maybe I'll spend more time in meditation to activate my [kundalini](https://en.wikipedia.org/wiki/Kundalini), instead of having all this energy in lower chakras.
 
 I think of the whole experience as divine spiritual growth for each of us and both of us together.
 

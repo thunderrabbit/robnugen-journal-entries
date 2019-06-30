@@ -26,7 +26,7 @@ expressed a desire to move back to the format.</p>
 <p>At home, I ate Wende's leftover Vietnamese lunch, some icing from
 her slice of carrot cake, and two things of yogurt as I set up a photo
 album on photoworks.com of our <a
-href="http://photomail.photoworks.com/sharing/album.asp?Key=7283496192300600">trip
+href="https://photomail.photoworks.com/sharing/album.asp?Key=7283496192300600">trip
 to Australia!</a></p>
 
 <p>This album is the easiest way for me to make one on the web,

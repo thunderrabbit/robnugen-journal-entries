@@ -23,7 +23,7 @@ logs. Awesome!
 has changed, but I'm going home to sleep and wake up early and work.
 
 <p>Don't forget to <a
-href="http://www.savektru.org/petition.html">sign the petition</a>
+href="https://www.savektru.org/petition.html">sign the petition</a>
 tonight before midnight!
 
 <p><img src='/images/rob/wL-ROB.gif'>

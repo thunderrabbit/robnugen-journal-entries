@@ -9,7 +9,7 @@ date: 1998-07-11
 
 <p class=date>11 July 1998</p>
 
-<p>Each day this week, I've been working at the New Warrior Lodge.  (see <a href="http://Nottingham.com/warrior/">Men In Mission</a> for details) The biggest thing we did this week was mail out a couple hundred directories of men who have completed the training.  The coolest thing about the work is I get a hug each time I come in to the "office" and I don't have to wear shoes.
+<p>Each day this week, I've been working at the New Warrior Lodge.  (see <a href="https://Nottingham.com/warrior/">Men In Mission</a> for details) The biggest thing we did this week was mail out a couple hundred directories of men who have completed the training.  The coolest thing about the work is I get a hug each time I come in to the "office" and I don't have to wear shoes.
 
 <p>Today after working at the Lodge, I did email and caught up with a lot of messages and updated the two youth group websites that I maintain, and actually updated the front page of a third youth website.
 

@@ -10,7 +10,7 @@ date: 2000-03-26
 
 <p>This weekend was pretty full for both Wende and me.  Saturday
 morning she worked 10am to 6pm.  During that time I played Ultimate in
-the <a href="http://www.strayconesports.com">H.U.R.L.</a> tournament,
+the <a href="https://www.strayconesports.com">H.U.R.L.</a> tournament,
 which we barely won by 1 point and I scraped up my knee pretty well.
 After that, to work I went and wrote Valuation Statements for the
 investment club.  Then investment club meeting at UH and then home for

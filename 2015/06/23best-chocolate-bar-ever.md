@@ -8,7 +8,7 @@ date: 2015-06-23T18:47:22+09:00
 ## 18:47 Tuesday 23 June 2015 JST
 
 I'm at the conveni chowing two
-[Bourbon ChocoBrownie](http://shop.bourbon.jp/ItemDetail?cmId=3884) bars, the most amazing candy bar ever
+[Bourbon ChocoBrownie](https://shop.bourbon.jp/ItemDetail?cmId=3884) bars, the most amazing candy bar ever
 formulated by humankind.
 
 I've probably eaten 80 to 100 of them since they were released a

@@ -15,7 +15,7 @@ Wende and I went on skates, of course.  The crowd is too thick to do much people
 The coolest things I saw:
 <ul>
 <li>A group of three youth, including Andrew L who used to attend the youth group at my church, drumming excellently like mad on hand drums.  They drummed for like 20 minutes, with enough excellence and variety to hold a stable crowd the entire time.</li>
-<li>Two people from <a href=http://www.eden.com/~zendik>Zendik Farm</a> a tribal community on 300 acres near Austin. (When I embark on my roadtrip, I will definitely spend some time there.)</li>
+<li>Two people from <a href=https://www.eden.com/~zendik>Zendik Farm</a> a tribal community on 300 acres near Austin. (When I embark on my roadtrip, I will definitely spend some time there.)</li>
 </ul>
 <p>
 There was no "skater thing." Last time the Urban Animals had a joust, and the time before that a group sponsored a street course of ramps and rails and stuff on which good skaters could compete.

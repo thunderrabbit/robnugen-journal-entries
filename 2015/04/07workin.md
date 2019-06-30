@@ -23,7 +23,7 @@ userID == 1" to block the execution unless I'm the one logged in.
 ## 15:31
 
 Hmmm interesting!  I'm listening to
-[Serial](http://serialpodcast.org/) so now I want to record every
+[Serial](https://serialpodcast.org/) so now I want to record every
 minute of my days!
 
 I'm here at sbstrm office; my shoes are off and I'm working on

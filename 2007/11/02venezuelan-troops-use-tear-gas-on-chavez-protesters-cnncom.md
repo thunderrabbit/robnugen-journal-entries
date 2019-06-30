@@ -9,11 +9,11 @@ tags: [ "terror" ]
 
 > "Chavez wants to remain in power his entire life, and that's not democracy,"
 
-[Venezuelan troops use tear gas on Chavez protesters - CNN.com](http://www.cnn.com/2007/WORLD/americas/11/01/venezuela.protests.ap/index.html)
+[Venezuelan troops use tear gas on Chavez protesters - CNN.com](https://www.cnn.com/2007/WORLD/americas/11/01/venezuela.protests.ap/index.html)
 
 
 Just like W. I wonder why they can't get along?
 
-Blogged with [Flock](http://www.flock.com/blogged-with-flock)
+Blogged with [Flock](https://www.flock.com/blogged-with-flock)
 
-Tags: [terror](http://technorati.com/tag/terror), [chavez](http://technorati.com/tag/chavez), [ venuzuela](http://technorati.com/tag/%20venuzuela)
+Tags: [terror](https://technorati.com/tag/terror), [chavez](https://technorati.com/tag/chavez), [ venuzuela](https://technorati.com/tag/%20venuzuela)

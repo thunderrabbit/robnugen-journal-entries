@@ -14,7 +14,7 @@ of OKC.</p>
 
 <p>This year I pasted together a map, using the
 wonders of <a
-href="http://www.mapquest.com">mapquest</a> including
+href="https://www.mapquest.com">mapquest</a> including
 aerial photos of the exit and of the church. (Don't
 freak quite yet; the aerial shot of the church is
 barely recognizable as the church; I can't see any

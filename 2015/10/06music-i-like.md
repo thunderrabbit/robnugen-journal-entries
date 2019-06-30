@@ -13,11 +13,11 @@ This is the album my friend told me to listen to seven times:
 
 https://en.wikipedia.org/wiki/Sinsation by PIG
 
-http://www.dailymotion.com/video/x28yxj_pig-painiac-1_music
+https://www.dailymotion.com/video/x28yxj_pig-painiac-1_music
 
 
 
-http://remix.nin.com/   listen to tunes remixed by NIN fans
+https://remix.nin.com/   listen to tunes remixed by NIN fans
 
 AniKiko, my girlfriend in a parallel universe
 
@@ -38,4 +38,4 @@ https://www.youtube.com/watch?v=Kr0tTbTbmVA
 https://www.youtube.com/watch?v=OMnbw-AM4VA
 
 
-MC Speller by Muckafurgason http://deepelmdigital.com/track/mc-speller
+MC Speller by Muckafurgason https://deepelmdigital.com/track/mc-speller

@@ -7,7 +7,7 @@ date: 2002-04-25
 
 <p class=date>25 April 2002</p>
 
-<p><a href="http://www2.alzado.net">Vectorial Elevation</a> is an
+<p><a href="https://www2.alzado.net">Vectorial Elevation</a> is an
 interactive artwork designed to transform the Artium Square in
 Vitoria-Gasteiz, capital city of the Basque Country, Spain.</p>
 
@@ -18,9 +18,9 @@ webcams. The piece will be live from April 22 until May 5, 2002 to
 coincide with the opening of the Basque Museum of Contemporary Art
 ARTIUM.</p>
 
-<p><a href="http://www2.alzado.net">http://www2.alzado.net</a></p>
+<p><a href="https://www2.alzado.net">https://www2.alzado.net</a></p>
 
-<p><a href="http://www2.alzado.net:9002/cgi/sfprev?follow=7988">My
+<p><a href="https://www2.alzado.net:9002/cgi/sfprev?follow=7988">My
 first attempt</a></p>.
 
 

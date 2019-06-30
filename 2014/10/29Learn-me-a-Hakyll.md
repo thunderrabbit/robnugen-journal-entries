@@ -6,7 +6,7 @@ date: 2014-10-29
 
 ##12:38pm Wednesday 29 October 2014##
 
-Here is what I started to write to Danny Su on his entry about [using Hakyll 4](http://dannysu.com/2013/03/20/hakyll-4/).
+Here is what I started to write to Danny Su on his entry about [using Hakyll 4](https://dannysu.com/2013/03/20/hakyll-4/).
 
     Hi Danny
 
@@ -22,14 +22,14 @@ But I can't formulate the question in a way I think would be easy to understand 
 
 ##13:17##
 
-There are several [sample blogs using Hakyll 4](http://jaspervdj.be/hakyll/examples.html).  Most of them just pile all the posts into the posts folder, but I want them organized in folders by date:  yyyy/mm/ddpostname (as my original journal) or yyyy/mm/dd/postname.
+There are several [sample blogs using Hakyll 4](https://jaspervdj.be/hakyll/examples.html).  Most of them just pile all the posts into the posts folder, but I want them organized in folders by date:  yyyy/mm/ddpostname (as my original journal) or yyyy/mm/dd/postname.
 
 So, going through the list, I've come across a few with that seem to have that quality, based on the URLs of the site:
 
-[http://dannysu.com/](http://dannysu.com/)
-[http://www.skybluetrades.net/](http://www.skybluetrades.net/)
+[https://dannysu.com/](https://dannysu.com/)
+[https://www.skybluetrades.net/](https://www.skybluetrades.net/)
 [https://xinitrc.de/](https://xinitrc.de/)
-[http://abizern.org/](http://abizern.org/)
+[https://abizern.org/](https://abizern.org/)
 
 I've cloned the repos and will figure out which one is closest to what I'm trying to do:
 
@@ -52,7 +52,7 @@ BUT, his file structure is now out of the running; he's got all his source files
 
 abizern.org has a layout closest to what I like, but all source files are in one directory.
 
-However, he's got an [emacs macro to create journal entries](http://abizern.org/2014/01/05/hakyll-new-post-with-emacs/)!!
+However, he's got an [emacs macro to create journal entries](https://abizern.org/2014/01/05/hakyll-new-post-with-emacs/)!!
 
 - - - - 
 
@@ -62,7 +62,7 @@ xinitrc.de has all blog source files in one directory
 
 skybluetrades.net seems to be a winner!  The source files are in yyyy/mm/dd directories, and he's got photos embedded.
 
-[http://www.skybluetrades.net/blog/posts/2011/10/10/whaleboat-island/index.html](http://www.skybluetrades.net/blog/posts/2011/10/10/whaleboat-island/index.html)
+[https://www.skybluetrades.net/blog/posts/2011/10/10/whaleboat-island/index.html](https://www.skybluetrades.net/blog/posts/2011/10/10/whaleboat-island/index.html)
 
 Now, the big difference is he's got each entry in its own subfolder inside the date folders, like yyyy/mm/dd/entry-name/index.markdown
 
@@ -86,7 +86,7 @@ I started to compose an email, but decided not to; the email just sounded like w
 
 Instead, I went through the rest of the list and found what I think I can use without Licensing questions.
 
-[http://hub.darcs.net/DarkFox/DarkFox-blog](http://hub.darcs.net/DarkFox/DarkFox-blog)
+[https://hub.darcs.net/DarkFox/DarkFox-blog](https://hub.darcs.net/DarkFox/DarkFox-blog)
 
 It uses darcs instead of git.
 
@@ -94,7 +94,7 @@ It uses darcs instead of git.
 
     cabal update
     cabal install darcs-2.8.5
-    darcs get --lazy http://hub.darcs.net/DarkFox/DarkFox-blog
+    darcs get --lazy https://hub.darcs.net/DarkFox/DarkFox-blog
     cd DarkFox-blog
     ghc --make -threaded site.hs
     ./site build

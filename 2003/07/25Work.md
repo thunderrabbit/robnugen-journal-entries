@@ -15,7 +15,7 @@ Perfect teeth and smile with dimples.  I just melted into her smile.</p>
 <p>Good thing I didn't have her man to man.</p>
 
 <p><a
-href="http://www.sciam.com/article.cfm?colID=1&articleID=000AF072-4891-1F0A-97AE80A84189EEDF">This
+href="https://www.sciam.com/article.cfm?colID=1&articleID=000AF072-4891-1F0A-97AE80A84189EEDF">This
 article</a> is long, but interesting theoretical stuff about
 information being the ultimate structure of the universe.</p>
 

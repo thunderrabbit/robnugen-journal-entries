@@ -249,7 +249,7 @@ be some laws to describe how energy moves around on these planes.</p>
 <p>There have been experiements done that suggest plants can be
 affected by our emotions.  this link doesn't really indicate this, but
 it's in the right direction:
-http://www.thebigholistic.com/products/kirlian/kirlian2.htm</p>
+https://www.thebigholistic.com/products/kirlian/kirlian2.htm</p>
 
 <p>My point is that what if there is a field in the emotional plane
 that has the equivalent of a north and a south magnetic poles?  What

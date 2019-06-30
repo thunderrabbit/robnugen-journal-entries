@@ -7,7 +7,7 @@ date: 2015-11-27T08:27:51+09:00
 
 ## 08:27 Friday 27 November 2015 JST
 
-    The team at http://hellokraftwerk.com/ are producing a really cool
+    The team at https://hellokraftwerk.com/ are producing a really cool
     "portable power plant" which I backed on Kickstarter.
     
     They've been hard at work, progressing nicely, but a big portion

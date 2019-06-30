@@ -37,7 +37,7 @@ Met T from AB and have specs for new parts of the site.  Good stuff!
 - - - -
 
 I've started collecting nanobitcoins on freebitco.in.  My referral
-link: http://freebitco.in/?r=754964
+link: https://freebitco.in/?r=754964
 
 - - - -
 

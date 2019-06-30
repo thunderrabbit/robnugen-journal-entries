@@ -11,7 +11,7 @@ At work recently I've been writing code that writes code based on files template
 
  
 
-But this just isn't any old [CRUD](http://en.wikipedia.org/wiki/Create,_read,_update_and_delete).  The CRUD includes being able to merge records that were duplicated in the system.  It allows clicking previous and next to see the next record.  Even keeps track of the sort order of the list so when we go back to the list it's sorted as it had been.
+But this just isn't any old [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete).  The CRUD includes being able to merge records that were duplicated in the system.  It allows clicking previous and next to see the next record.  Even keeps track of the sort order of the list so when we go back to the list it's sorted as it had been.
 
  
 

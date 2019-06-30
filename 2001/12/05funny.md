@@ -59,9 +59,9 @@ wedding.  This story is screenplay material!</p>
 src="/images/college/front_page.jpg" border=0 width=100 align=left
 alt='Rob the ape'></a> After dinner we gawked at this
 hilarious/tragic/brilliant website that I'm sure gets zillions of
-hits: <a href="http://www.hotornot.com">hot or not.com</a>.  I am so
+hits: <a href="https://www.hotornot.com">hot or not.com</a>.  I am so
 offended and amazed at the brilliance of this site.  I even put <a
-href="http://www.hotornot.com/r/?eid=SSSLKY&key=SLR">one of my
+href="https://www.hotornot.com/r/?eid=SSSLKY&key=SLR">one of my
 pics</a> on it.  The one of me catching a frisbee under my feet that
 was on the front page of the Daily Cougar back in the day.</p>
 

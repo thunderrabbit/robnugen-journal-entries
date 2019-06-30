@@ -24,7 +24,7 @@ date: 2000-08-02
 
 <p><li>Oh!  I sent some pics to photoworks.com and got them back (electronically) today!  There are some of the Hazard Street bridge being built (that's the one by the tube through which I crawled) and some of me on unicycle and some funny ones of Tinkerbell inside Wende's shorts (while Wende was still in them too)
 
-<p><li>BBST is still fun and silly!  Visit <a href="http://www.geeky-boy.com">http://www.geeky-boy.com</a> and tell us Thunder Rabbit sent you!
+<p><li>BBST is still fun and silly!  Visit <a href="https://www.geeky-boy.com">https://www.geeky-boy.com</a> and tell us Thunder Rabbit sent you!
 
 <p><li>Ultimate tonight if it's not raining.  Maybe not and I'll just sleep or watch a movie with Wende.
 </ol>

@@ -9,7 +9,7 @@ date: 2000-04-09
 <p class=date>9:38am CDT Sunday 9 April 2000</p>
 
 <p>Doh! One of my website clients, <a
-href="http://www.blanketstoyou.com">www.blanketstoyou.com</a>, emailed
+href="https://www.blanketstoyou.com">www.blanketstoyou.com</a>, emailed
 me describing a problem with the front page of her website.  When she
 views the front page from some search engines, it's different than
 when she views from other search engines.

@@ -7,7 +7,7 @@ tags: [ "journal" ]
 
 ##07:54 Wednesday 18 July 2012
 
-[![Screen_shot_2012-07-18_at_6](http://getfile7.posterous.com/getfile/files.posterous.com/temp-2012-07-17/uvhadEgzFggeonGbpAhyHjtJvwJmcafvGBCpGCbFvGfBfDcmkHHuyJeuwubd/Screen_shot_2012-07-18_at_6.55.37_AM.png.scaled500.png)](http://getfile6.posterous.com/getfile/files.posterous.com/temp-2012-07-17/uvhadEgzFggeonGbpAhyHjtJvwJmcafvGBCpGCbFvGfBfDcmkHHuyJeuwubd/Screen_shot_2012-07-18_at_6.55.37_AM.png.scaled1000.png)
+[![Screen_shot_2012-07-18_at_6](https://getfile7.posterous.com/getfile/files.posterous.com/temp-2012-07-17/uvhadEgzFggeonGbpAhyHjtJvwJmcafvGBCpGCbFvGfBfDcmkHHuyJeuwubd/Screen_shot_2012-07-18_at_6.55.37_AM.png.scaled500.png)](https://getfile6.posterous.com/getfile/files.posterous.com/temp-2012-07-17/uvhadEgzFggeonGbpAhyHjtJvwJmcafvGBCpGCbFvGfBfDcmkHHuyJeuwubd/Screen_shot_2012-07-18_at_6.55.37_AM.png.scaled1000.png)
 
  
 
@@ -33,7 +33,7 @@ It seems like Apple is trying to boost Safari market share with some freedom-rev
 
  
 
-[http://en.wikipedia.org/wiki/Usage_share_of_web_browsers](http://en.wikipedia.org/wiki/Usage_share_of_web_browsers)
+[https://en.wikipedia.org/wiki/Usage_share_of_web_browsers](https://en.wikipedia.org/wiki/Usage_share_of_web_browsers)
 
  
 

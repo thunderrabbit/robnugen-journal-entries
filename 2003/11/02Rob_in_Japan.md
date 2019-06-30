@@ -65,7 +65,7 @@ idea of bringing a technique for dialogue to Japan.
 (*) Reads _Dogs and Demons_ for details
 
 From 1997 to 2002, I was an active member of The Mankind Project 
-(<a href="http://www.mkp.org">www.mkp.org</a>).  This organization helped me learn and honor my 
+(<a href="https://www.mkp.org">www.mkp.org</a>).  This organization helped me learn and honor my 
 inner (mental, emotional, spiritual) workings and taught me how to
 live in integrity with myself and with others.
 
@@ -103,7 +103,7 @@ Three weeks ago, I wrote this:
       careful not to date any students; all of them know I have a
       girlfriend.)  In the past several weeks, I have given my email
       address and/or website address to students who seem interested
-      in my idea of bringing the New Warrior Training (<a href="http://www.mkp.org">www.mkp.org</a>) to
+      in my idea of bringing the New Warrior Training (<a href="https://www.mkp.org">www.mkp.org</a>) to
       Japan.  I only bring it up during general conversation lessons
       with higher level students who have grown bored with the Nova
       text.  If they are like, "hey that sounds like a good idea," I
@@ -122,7 +122,7 @@ scheduling and being busy.
 -------- 
 Vacation
 
-<a href="/images/travel/japan2003-2004/005_janette-trip/index.shtml">http://www.robnugen.com/images/travel/japan2003-2004/005_janette-trip/index.shtml</a>
+<a href="/images/travel/japan2003-2004/005_janette-trip/index.shtml">https://www.robnugen.com/images/travel/japan2003-2004/005_janette-trip/index.shtml</a>
 
 Vacation with janette was fantastic.
 

@@ -7,7 +7,7 @@ date: 2000-07-18
 
 <p class=date>15:58 18 July 2000</p>
 
-<p>Took a 3 hour lunch today, and have been mostly reading since I got back.  I have not, however, been mostly reading work-related stuff, but email, BBST, and found an interesting site <a href="http://www.selectsmart.com/RELIGION">www.selectsmart.com/RELIGION</a>
+<p>Took a 3 hour lunch today, and have been mostly reading since I got back.  I have not, however, been mostly reading work-related stuff, but email, BBST, and found an interesting site <a href="https://www.selectsmart.com/RELIGION">www.selectsmart.com/RELIGION</a>
 
 <p>At lunch, Ma and Aunt Madeleine met me and Wende at The Container Store, and we walked over to Souper Salad to munch.   They watched and talked while Wende and I ate.  M & M had just eaten breakfast.  Talked mostly about genealogy which they had uncovered while going through Monner's (their mom) scrapbooks and stuff.   
 

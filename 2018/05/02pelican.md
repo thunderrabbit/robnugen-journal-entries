@@ -7,7 +7,7 @@ date: 2018-05-02T08:43:20+09:00
 
 ## 08:43 Wednesday 02 May 2018 JST
 
-http://www.bbc.com/japanese/video-43958743
+https://www.bbc.com/japanese/video-43958743
 
 米カリフォルニア州南部のペパーダイン大学で先月28日、<ruby><rb>野外
 </rb><rt>やがい</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>わ

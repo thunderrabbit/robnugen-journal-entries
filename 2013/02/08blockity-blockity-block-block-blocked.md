@@ -7,7 +7,7 @@ tags: [ "programming" ]
 
 ##20:39 Friday 08 February 2013
 
-So I was using [Ray Wenderlich's Snap! tutorial](http://www.raywenderlich.com/12735/how-to-make-a-simple-playing-card-game-with-multiplayer-and-bluetooth-part-1) as the basis for our new card game.   Unfortunately, the app kept having random memory crashes.  Tariq was sure it must be due to some too big images or corrupted sound files.  I was sure it had to do with my naive use of blocks.  Unfortunately, I was right.
+So I was using [Ray Wenderlich's Snap! tutorial](https://www.raywenderlich.com/12735/how-to-make-a-simple-playing-card-game-with-multiplayer-and-bluetooth-part-1) as the basis for our new card game.   Unfortunately, the app kept having random memory crashes.  Tariq was sure it must be due to some too big images or corrupted sound files.  I was sure it had to do with my naive use of blocks.  Unfortunately, I was right.
 
 I compared my code with the code in the tutorial and found that at no place did they use blocks in calls between classes.  In my app, blocks between classes was a defining feature...  I still honestly don't know why that should make the app crash; in each case, I am sure the calling class still existed.  It didn't seem to be a case of zombie blocks either, where ARC keeps the block alive which keeps the caller alive, which keeps the block alive fo-eva-eva.
 

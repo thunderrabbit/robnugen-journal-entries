@@ -9,11 +9,11 @@ tags: [ "news", "technology" ]
 
 > Sensitive seismometers and tiltmeters to be installed in the SAFOD borehole directly above the spot that ruptures will observe for the first time the birthing process of an earthquake from the zone where the earthquake energy accumulates. Preliminary observations made in 2006 already have revealed the tiniest earthquakes ever observed—so small they have negative magnitudes.
 
-[Geologists recover rocks yielding unprecedented insights into San Andreas Fault](http://news-service.stanford.edu/news/2007/october10/safod-101007.html)
+[Geologists recover rocks yielding unprecedented insights into San Andreas Fault](https://news-service.stanford.edu/news/2007/october10/safod-101007.html)
 
 
 I love this kinda thing when science is measuring the super-small.  Negative magnitudes.  hahaha!
 
-Blogged with [Flock](http://www.flock.com/blogged-with-flock)
+Blogged with [Flock](https://www.flock.com/blogged-with-flock)
 
-Tags: [science](http://technorati.com/tag/science), [fault](http://technorati.com/tag/fault), [ earthquake](http://technorati.com/tag/%20earthquake)
+Tags: [science](https://technorati.com/tag/science), [fault](https://technorati.com/tag/fault), [ earthquake](https://technorati.com/tag/%20earthquake)

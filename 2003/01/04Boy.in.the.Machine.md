@@ -9,7 +9,7 @@ date: 2003-01-04
 
 <p>I just spent some time chatting with Ryan, giving him some input on
 how he can better his <a
-href="http://boyinthemachine.tripod.com">comic site, Boy In The
+href="https://boyinthemachine.tripod.com">comic site, Boy In The
 Machine</a>, which is quite bizarre and quite funny for those who like
 bizarre, or who like to read a good rant or two about religion or
 life.</p>

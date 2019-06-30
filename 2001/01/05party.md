@@ -32,7 +32,7 @@ house and now it's finally gotten back to me!</p>
 
 <p class=message>If you're interested in uh, not just
 music but criticism of music, then <a
-href="http://www.heavy.com">heavy.com</a> is a little
+href="https://www.heavy.com">heavy.com</a> is a little
 vulgar but they do a top 10 countodown and they do
 their top ten suckiest songs and rip up on the artists
 and the particular song.  the whole website is flash.

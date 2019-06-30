@@ -16,7 +16,7 @@ date: 2003-06-18
 	<TD STYLE="padding: 0px">
 	<TABLE border=0 CELLSPACING=0 CELLPADDING=0 STYLE="margin: 0px">
 	<TR>
-		<TD STYLE="padding: 0px; text-align: right; width: 120px"><b><A target="_new" HREF="http://www.livejournal.com/users/apsminuit/"><FONT FACE="Verdana" SIZE="1" COLOR="#0033CC">apsminuit</FONT></A></B></TD>
+		<TD STYLE="padding: 0px; text-align: right; width: 120px"><b><A target="_new" HREF="https://www.livejournal.com/users/apsminuit/"><FONT FACE="Verdana" SIZE="1" COLOR="#0033CC">apsminuit</FONT></A></B></TD>
 		<TD STYLE="padding: 0px; width: 20px"></TD>
 		<TD STYLE="padding: 0px; text-align: right; width: 40px"><FONT FACE="Verdana" SIZE="1" COLOR="#000000"><B>102%</B></FONT></TD>
 		<TD STYLE="padding: 0px; width: 5px"></TD>
@@ -30,7 +30,7 @@ date: 2003-06-18
 	<TD STYLE="padding: 0px">
 	<TABLE border=0 CELLSPACING=0 CELLPADDING=0 STYLE="margin: 0px">
 	<TR>
-		<TD STYLE="padding: 0px; text-align: right; width: 120px"><b><A target="_new" HREF="http://www.livejournal.com/users/sex_ed_101/"><FONT FACE="Verdana" SIZE="1" COLOR="#0033CC">sex_ed_101</FONT></A></B></TD>
+		<TD STYLE="padding: 0px; text-align: right; width: 120px"><b><A target="_new" HREF="https://www.livejournal.com/users/sex_ed_101/"><FONT FACE="Verdana" SIZE="1" COLOR="#0033CC">sex_ed_101</FONT></A></B></TD>
 		<TD STYLE="padding: 0px; width: 20px"></TD>
 		<TD STYLE="padding: 0px; text-align: right; width: 40px"><FONT FACE="Verdana" SIZE="1" COLOR="#000000"><B>102%</B></FONT></TD>
 		<TD STYLE="padding: 0px; width: 5px"></TD>
@@ -44,7 +44,7 @@ date: 2003-06-18
 	<TD STYLE="padding: 0px">
 	<TABLE border=0 CELLSPACING=0 CELLPADDING=0 STYLE="margin: 0px">
 	<TR>
-		<TD STYLE="padding: 0px; text-align: right; width: 120px"><b><A target="_new" HREF="http://www.livejournal.com/users/darianskagz/"><FONT FACE="Verdana" SIZE="1" COLOR="#0033CC">darianskagz</FONT></A></B></TD>
+		<TD STYLE="padding: 0px; text-align: right; width: 120px"><b><A target="_new" HREF="https://www.livejournal.com/users/darianskagz/"><FONT FACE="Verdana" SIZE="1" COLOR="#0033CC">darianskagz</FONT></A></B></TD>
 		<TD STYLE="padding: 0px; width: 20px"></TD>
 		<TD STYLE="padding: 0px; text-align: right; width: 40px"><FONT FACE="Verdana" SIZE="1" COLOR="#000000"><B>97%</B></FONT></TD>
 		<TD STYLE="padding: 0px; width: 5px"></TD>
@@ -58,7 +58,7 @@ date: 2003-06-18
 	<TD STYLE="padding: 0px">
 	<TABLE border=0 CELLSPACING=0 CELLPADDING=0 STYLE="margin: 0px">
 	<TR>
-		<TD STYLE="padding: 0px; text-align: right; width: 120px"><b><A target="_new" HREF="http://www.livejournal.com/users/koreancasanova/"><FONT FACE="Verdana" SIZE="1" COLOR="#0033CC">koreancasanova</FONT></A></B></TD>
+		<TD STYLE="padding: 0px; text-align: right; width: 120px"><b><A target="_new" HREF="https://www.livejournal.com/users/koreancasanova/"><FONT FACE="Verdana" SIZE="1" COLOR="#0033CC">koreancasanova</FONT></A></B></TD>
 		<TD STYLE="padding: 0px; width: 20px"></TD>
 		<TD STYLE="padding: 0px; text-align: right; width: 40px"><FONT FACE="Verdana" SIZE="1" COLOR="#000000"><B>97%</B></FONT></TD>
 		<TD STYLE="padding: 0px; width: 5px"></TD>
@@ -72,7 +72,7 @@ date: 2003-06-18
 	<TD STYLE="padding: 0px">
 	<TABLE border=0 CELLSPACING=0 CELLPADDING=0 STYLE="margin: 0px">
 	<TR>
-		<TD STYLE="padding: 0px; text-align: right; width: 120px"><b><A target="_new" HREF="http://www.livejournal.com/users/ace4547/"><FONT FACE="Verdana" SIZE="1" COLOR="#0033CC">ace4547</FONT></A></B></TD>
+		<TD STYLE="padding: 0px; text-align: right; width: 120px"><b><A target="_new" HREF="https://www.livejournal.com/users/ace4547/"><FONT FACE="Verdana" SIZE="1" COLOR="#0033CC">ace4547</FONT></A></B></TD>
 		<TD STYLE="padding: 0px; width: 20px"></TD>
 		<TD STYLE="padding: 0px; text-align: right; width: 40px"><FONT FACE="Verdana" SIZE="1" COLOR="#000000"><B>95%</B></FONT></TD>
 		<TD STYLE="padding: 0px; width: 5px"></TD>
@@ -86,7 +86,7 @@ date: 2003-06-18
 	<TD STYLE="padding: 0px">
 	<TABLE border=0 CELLSPACING=0 CELLPADDING=0 STYLE="margin: 0px">
 	<TR>
-		<TD STYLE="padding: 0px; text-align: right; width: 120px"><b><A target="_new" HREF="http://www.livejournal.com/users/opheliasleeps/"><FONT FACE="Verdana" SIZE="1" COLOR="#0033CC">opheliasleeps</FONT></A></B></TD>
+		<TD STYLE="padding: 0px; text-align: right; width: 120px"><b><A target="_new" HREF="https://www.livejournal.com/users/opheliasleeps/"><FONT FACE="Verdana" SIZE="1" COLOR="#0033CC">opheliasleeps</FONT></A></B></TD>
 		<TD STYLE="padding: 0px; width: 20px"></TD>
 		<TD STYLE="padding: 0px; text-align: right; width: 40px"><FONT FACE="Verdana" SIZE="1" COLOR="#000000"><B>95%</B></FONT></TD>
 		<TD STYLE="padding: 0px; width: 5px"></TD>
@@ -100,7 +100,7 @@ date: 2003-06-18
 	<TD STYLE="padding: 0px">
 	<TABLE border=0 CELLSPACING=0 CELLPADDING=0 STYLE="margin: 0px">
 	<TR>
-		<TD STYLE="padding: 0px; text-align: right; width: 120px"><b><A target="_new" HREF="http://www.livejournal.com/users/dharmajean/"><FONT FACE="Verdana" SIZE="1" COLOR="#0033CC">dharmajean</FONT></A></B></TD>
+		<TD STYLE="padding: 0px; text-align: right; width: 120px"><b><A target="_new" HREF="https://www.livejournal.com/users/dharmajean/"><FONT FACE="Verdana" SIZE="1" COLOR="#0033CC">dharmajean</FONT></A></B></TD>
 		<TD STYLE="padding: 0px; width: 20px"></TD>
 		<TD STYLE="padding: 0px; text-align: right; width: 40px"><FONT FACE="Verdana" SIZE="1" COLOR="#000000"><B>92%</B></FONT></TD>
 		<TD STYLE="padding: 0px; width: 5px"></TD>
@@ -114,7 +114,7 @@ date: 2003-06-18
 	<TD STYLE="padding: 0px">
 	<TABLE border=0 CELLSPACING=0 CELLPADDING=0 STYLE="margin: 0px">
 	<TR>
-		<TD STYLE="padding: 0px; text-align: right; width: 120px"><b><A target="_new" HREF="http://www.livejournal.com/users/sunnydoojack/"><FONT FACE="Verdana" SIZE="1" COLOR="#0033CC">sunnydoojack</FONT></A></B></TD>
+		<TD STYLE="padding: 0px; text-align: right; width: 120px"><b><A target="_new" HREF="https://www.livejournal.com/users/sunnydoojack/"><FONT FACE="Verdana" SIZE="1" COLOR="#0033CC">sunnydoojack</FONT></A></B></TD>
 		<TD STYLE="padding: 0px; width: 20px"></TD>
 		<TD STYLE="padding: 0px; text-align: right; width: 40px"><FONT FACE="Verdana" SIZE="1" COLOR="#000000"><B>85%</B></FONT></TD>
 		<TD STYLE="padding: 0px; width: 5px"></TD>
@@ -128,7 +128,7 @@ date: 2003-06-18
 	<TD STYLE="padding: 0px">
 	<TABLE border=0 CELLSPACING=0 CELLPADDING=0 STYLE="margin: 0px">
 	<TR>
-		<TD STYLE="padding: 0px; text-align: right; width: 120px"><b><A target="_new" HREF="http://www.livejournal.com/users/aroundthemx/"><FONT FACE="Verdana" SIZE="1" COLOR="#0033CC">aroundthemx</FONT></A></B></TD>
+		<TD STYLE="padding: 0px; text-align: right; width: 120px"><b><A target="_new" HREF="https://www.livejournal.com/users/aroundthemx/"><FONT FACE="Verdana" SIZE="1" COLOR="#0033CC">aroundthemx</FONT></A></B></TD>
 		<TD STYLE="padding: 0px; width: 20px"></TD>
 		<TD STYLE="padding: 0px; text-align: right; width: 40px"><FONT FACE="Verdana" SIZE="1" COLOR="#000000"><B>84%</B></FONT></TD>
 		<TD STYLE="padding: 0px; width: 5px"></TD>
@@ -142,7 +142,7 @@ date: 2003-06-18
 	<TD STYLE="padding: 0px">
 	<TABLE border=0 CELLSPACING=0 CELLPADDING=0 STYLE="margin: 0px">
 	<TR>
-		<TD STYLE="padding: 0px; text-align: right; width: 120px"><b><A target="_new" HREF="http://www.livejournal.com/users/lyrica9/"><FONT FACE="Verdana" SIZE="1" COLOR="#0033CC">lyrica9</FONT></A></B></TD>
+		<TD STYLE="padding: 0px; text-align: right; width: 120px"><b><A target="_new" HREF="https://www.livejournal.com/users/lyrica9/"><FONT FACE="Verdana" SIZE="1" COLOR="#0033CC">lyrica9</FONT></A></B></TD>
 		<TD STYLE="padding: 0px; width: 20px"></TD>
 		<TD STYLE="padding: 0px; text-align: right; width: 40px"><FONT FACE="Verdana" SIZE="1" COLOR="#000000"><B>82%</B></FONT></TD>
 		<TD STYLE="padding: 0px; width: 5px"></TD>
@@ -156,7 +156,7 @@ date: 2003-06-18
 	<TD STYLE="padding: 0px">
 	<TABLE border=0 CELLSPACING=0 CELLPADDING=0 STYLE="margin: 0px">
 	<TR>
-		<TD STYLE="padding: 0px; text-align: right; width: 120px"><b><A target="_new" HREF="http://www.livejournal.com/users/sweet_girl/"><FONT FACE="Verdana" SIZE="1" COLOR="#0033CC">sweet_girl</FONT></A></B></TD>
+		<TD STYLE="padding: 0px; text-align: right; width: 120px"><b><A target="_new" HREF="https://www.livejournal.com/users/sweet_girl/"><FONT FACE="Verdana" SIZE="1" COLOR="#0033CC">sweet_girl</FONT></A></B></TD>
 		<TD STYLE="padding: 0px; width: 20px"></TD>
 		<TD STYLE="padding: 0px; text-align: right; width: 40px"><FONT FACE="Verdana" SIZE="1" COLOR="#000000"><B>78%</B></FONT></TD>
 		<TD STYLE="padding: 0px; width: 5px"></TD>
@@ -170,7 +170,7 @@ date: 2003-06-18
 	<TD STYLE="padding: 0px">
 	<TABLE border=0 CELLSPACING=0 CELLPADDING=0 STYLE="margin: 0px">
 	<TR>
-		<TD STYLE="padding: 0px; text-align: right; width: 120px"><b><A target="_new" HREF="http://www.livejournal.com/users/jovelet/"><FONT FACE="Verdana" SIZE="1" COLOR="#0033CC">jovelet</FONT></A></B></TD>
+		<TD STYLE="padding: 0px; text-align: right; width: 120px"><b><A target="_new" HREF="https://www.livejournal.com/users/jovelet/"><FONT FACE="Verdana" SIZE="1" COLOR="#0033CC">jovelet</FONT></A></B></TD>
 		<TD STYLE="padding: 0px; width: 20px"></TD>
 		<TD STYLE="padding: 0px; text-align: right; width: 40px"><FONT FACE="Verdana" SIZE="1" COLOR="#000000"><B>76%</B></FONT></TD>
 		<TD STYLE="padding: 0px; width: 5px"></TD>
@@ -184,7 +184,7 @@ date: 2003-06-18
 	<TD STYLE="padding: 0px">
 	<TABLE border=0 CELLSPACING=0 CELLPADDING=0 STYLE="margin: 0px">
 	<TR>
-		<TD STYLE="padding: 0px; text-align: right; width: 120px"><b><A target="_new" HREF="http://www.livejournal.com/users/ashlet17/"><FONT FACE="Verdana" SIZE="1" COLOR="#0033CC">ashlet17</FONT></A></B></TD>
+		<TD STYLE="padding: 0px; text-align: right; width: 120px"><b><A target="_new" HREF="https://www.livejournal.com/users/ashlet17/"><FONT FACE="Verdana" SIZE="1" COLOR="#0033CC">ashlet17</FONT></A></B></TD>
 		<TD STYLE="padding: 0px; width: 20px"></TD>
 		<TD STYLE="padding: 0px; text-align: right; width: 40px"><FONT FACE="Verdana" SIZE="1" COLOR="#000000"><B>71%</B></FONT></TD>
 		<TD STYLE="padding: 0px; width: 5px"></TD>
@@ -194,7 +194,7 @@ date: 2003-06-18
 	</TABLE>
 	</TD>
 </TR>
-<TR><TD colspan="6" ALIGN="center" BGCOLOR="#FFFFFF" STYLE="padding: 0px; text-align: center"><B><A target="_new" HREF="http://www.ljmatch.com/index.php?r=oCy4/S4g/S0uynxekOm8qas15MJirMi4"><FONT FACE="Verdana" SIZE="1" COLOR="#0033CC"><U>How compatible with me are YOU?</U></FONT></A></B></TD></TR>
+<TR><TD colspan="6" ALIGN="center" BGCOLOR="#FFFFFF" STYLE="padding: 0px; text-align: center"><B><A target="_new" HREF="https://www.ljmatch.com/index.php?r=oCy4/S4g/S0uynxekOm8qas15MJirMi4"><FONT FACE="Verdana" SIZE="1" COLOR="#0033CC"><U>How compatible with me are YOU?</U></FONT></A></B></TD></TR>
 </TABLE>
 </TD></TR>
 </TABLE>

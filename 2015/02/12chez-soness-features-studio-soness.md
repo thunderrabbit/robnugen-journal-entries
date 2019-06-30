@@ -14,7 +14,7 @@ project/product.  Cool stuff!
 
 Fun times!  We had lunch and converted Chez Soness into Studio Soness
 and then recorded several takes of her latest
-[Show-n-Tell US](http://show-n-tell.us) video.  Dogs and jets
+[Show-n-Tell US](https://show-n-tell.us) video.  Dogs and jets
 augmented the soundtrack after we got her script tweaked.  Try again
 tomorrow!
 

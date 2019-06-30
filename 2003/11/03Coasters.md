@@ -10,7 +10,7 @@ date: 2003-11-03
 <p>This morning I sent pictures to the Justin G-something, the editor
 of First Drop magazine, the bi-monthly mag of the European Coaster
 Club <a
-href="http://www.coasterclub.org">http://www.coasterclub.org</a>.
+href="https://www.coasterclub.org">https://www.coasterclub.org</a>.
 He's the cat that asked me if he could use my pics of Hamu-Hamu
 Kingdom coaster at Fuji-Q Highland.</p>
 

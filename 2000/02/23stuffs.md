@@ -19,7 +19,7 @@ when I went on the air right after the song, SQUEAEEAALEEELL went the
 feedback.  oops!   Good thing I was recording my show!
 
 <p>There's a CD by (or called) <a
-href="http://www.protonaccelerator.com">Proton Accelerator</a> that I
+href="https://www.protonaccelerator.com">Proton Accelerator</a> that I
 reviewed for KTRU.  The music wasn't all that amazing, but underneath
 tracks 8-33, a barely audible spoken word portion spans all the
 tracks.  The tracks themselves are each 65 seconds long of the same

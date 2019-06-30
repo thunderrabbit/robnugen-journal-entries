@@ -16,7 +16,7 @@ date: 1999-02-12
 <p><li>Yesterday I got a call from KTRU. <b>I got a job as a DJ there!!</b> I am so so so super pumped excited and wow!! We have a training / meeting thing at 2pm this Sunday and I am psyched!!
 I'll get to say stuff like, "You are listening to ninety-one point seven F M, K-Truue!!!"
 
-<p><li>Dude and I finished recreating MR Labs website!  We were up until 5am this morning, with a goal to get it complete before he left at 2:30pm for 8 days in Nicaragua.  Check it out at <a href="http://www.mrlaboratories.com">www.mrlaboratories.com</a> Wheeee!!!!
+<p><li>Dude and I finished recreating MR Labs website!  We were up until 5am this morning, with a goal to get it complete before he left at 2:30pm for 8 days in Nicaragua.  Check it out at <a href="https://www.mrlaboratories.com">www.mrlaboratories.com</a> Wheeee!!!!
 
 <p><li>Today at around 1:30pm after I woke up at noon, I heard a lot of clippin' and cloppin' outside my front windows..  It was a trail ride walking down the street - bunch of people on horses and a couple wagons and a police car at each end.  Wow!  So I put on my skates and caught up with them about a mile down the street.
 

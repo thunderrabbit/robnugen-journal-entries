@@ -31,8 +31,8 @@ of this entry!  It's how I sign almost all my letters.
 <li>move all pics from Dude's computer to my domain
 <li>research brokerages for investment club
 <li>add a switchbox at work so Karla can use 1 monitor and 1 keyboard/mouse, but switch between two computers
-<li>make changes to <a href="http://www.indigoangel.com">indigoangel.com</a>
-<li>reply to Liz about changs for <a href="http://www.blanketstoyou.com">blanketstoyou.com</a>
+<li>make changes to <a href="https://www.indigoangel.com">indigoangel.com</a>
+<li>reply to Liz about changs for <a href="https://www.blanketstoyou.com">blanketstoyou.com</a>
 <li>record Futurama and The Simpsons
 <li>continue work on my website's image browser
 </ol>

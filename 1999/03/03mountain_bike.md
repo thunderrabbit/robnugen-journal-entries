@@ -39,4 +39,4 @@ date: 1999-03-03
 
 <p>I'll be on the radio in 5.25 hours!!  Gotta go to sleep.
 
-<p>Listen on the web at <a href="http://www.ktru.org">www.ktru.org</a>. I'm on 4-7am Thursdays (Central time).
+<p>Listen on the web at <a href="https://www.ktru.org">www.ktru.org</a>. I'm on 4-7am Thursdays (Central time).

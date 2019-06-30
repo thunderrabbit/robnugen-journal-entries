@@ -15,6 +15,6 @@ I carried home the heater Paola and Jon gave to us.  It's a liquid-filled radia
 
 Paola and Jon had us all over for dinner today: lovely fresh salad, lovely yummy rice-shaped pasta with chicken, and incredible desserts from Taiwan.  Paola had just gotten back from doing a vipassana course in Taiwan, which featured some food shopping after the course.
 
-Today at work I was doing tests after [daemonizing the mailer](http://stackoverflow.com/questions/14211281/how-to-daemonize-a-php-script-to-be-run-with-upstart); I want to make sure it doesn't send double emails if multiple scripts are running at the same time.   But it sent several duplicate emails, moe joe.
+Today at work I was doing tests after [daemonizing the mailer](https://stackoverflow.com/questions/14211281/how-to-daemonize-a-php-script-to-be-run-with-upstart); I want to make sure it doesn't send double emails if multiple scripts are running at the same time.   But it sent several duplicate emails, moe joe.
 
 Oh, and I came across [thinkup](https://thinkup.com) today.  I think I'll install it on my domain.

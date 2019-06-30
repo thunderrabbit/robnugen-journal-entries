@@ -7,7 +7,7 @@ date: 2017-02-07T10:57:40+09:00
 
 ## 10:57 Tuesday 07 February 2017 JST
 
-from http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/
+from https://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/
 
 <div id="react-app"></div>
 

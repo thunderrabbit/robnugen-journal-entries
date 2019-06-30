@@ -13,7 +13,7 @@ Time to harass Chase again for their crappy password policies.  I asked them why
 
  
 
-[![Chase_short_easy_passwords](http://getfile2.posterous.com/getfile/files.posterous.com/temp-2012-09-07/jBvclFotrcBbyIdHfBkhGFBBFEfbDCEHbdDEgudaFIuEEsqcBEFhBIAACjsp/chase_short_easy_passwords.png.scaled500.png)](http://getfile5.posterous.com/getfile/files.posterous.com/temp-2012-09-07/jBvclFotrcBbyIdHfBkhGFBBFEfbDCEHbdDEgudaFIuEEsqcBEFhBIAACjsp/chase_short_easy_passwords.png.scaled1000.png)
+[![Chase_short_easy_passwords](https://getfile2.posterous.com/getfile/files.posterous.com/temp-2012-09-07/jBvclFotrcBbyIdHfBkhGFBBFEfbDCEHbdDEgudaFIuEEsqcBEFhBIAACjsp/chase_short_easy_passwords.png.scaled500.png)](https://getfile5.posterous.com/getfile/files.posterous.com/temp-2012-09-07/jBvclFotrcBbyIdHfBkhGFBBFEfbDCEHbdDEgudaFIuEEsqcBEFhBIAACjsp/chase_short_easy_passwords.png.scaled1000.png)
 
   
 

@@ -8,7 +8,7 @@ date: 2001-08-17
 <p class=date>3pm Friday 17 August 2001</p>
 
 <p><font color=red>Rob:</font><a
-href="http://www.toro.com/home/mowers/imow/index.html">http://www.toro.com/home/mowers/imow/index.html</a>
+href="https://www.toro.com/home/mowers/imow/index.html">https://www.toro.com/home/mowers/imow/index.html</a>
 <br><font color=blue>Jason:</font> Thats some cool
 shit
 <br><font color=red>Rob:</font> true

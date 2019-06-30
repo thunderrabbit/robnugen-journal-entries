@@ -8,7 +8,7 @@ date: 2002-03-09
 <p class=date> March 2002</p>
 
 <p>I found this in <a
-href='http://www.theharrowgroup.com/articles/20020218/20020218.htm#_Toc1472058'>The
+href='https://www.theharrowgroup.com/articles/20020218/20020218.htm#_Toc1472058'>The
 Harrow Technology Report.</a></p>
 
 <pre>
@@ -49,6 +49,6 @@ our possible future history.
 
 The paper is available at 
 <br><a
-href='http://www.btexact.com/white_papers/downloads/WP106.pdf'>http://www.btexact.com/white_papers/downloads/WP106.pdf</a>.
+href='https://www.btexact.com/white_papers/downloads/WP106.pdf'>https://www.btexact.com/white_papers/downloads/WP106.pdf</a>.
 May you find it as thought-provoking as did I.
 </pre>

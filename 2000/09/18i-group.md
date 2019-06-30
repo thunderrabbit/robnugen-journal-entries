@@ -36,7 +36,7 @@ that we're going to attend.
 
 <p>I will call Lovett Motorsports (which is local and he owns) to see
 who I should call to set this up.  I'll call Sam Malone on <a
-href="http://www.104krbe.com">104 KRBE</a> to see if he can hook me
+href="https://www.104krbe.com">104 KRBE</a> to see if he can hook me
 up.  Sam is a sucker for helping his listeners do romantic stuff like
 this, but I haven't heard them giving away tickets.. we'll see.
 

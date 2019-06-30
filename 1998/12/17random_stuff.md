@@ -29,7 +29,7 @@ date: 1998-12-17
 Since I posted this, I've had a few people inquire about where to 
 find this lovely CD.  Here is my answer:
 
-The CD is only available at <a href="http://www.recordrack.com">Record Rack</a> in Houston.  
+The CD is only available at <a href="https://www.recordrack.com">Record Rack</a> in Houston.  
 Bruce, the owner of Record Rack, used to own
 Numbers where the DJ worked who made the CD.  It's a compilation CD
 made by DJ wES wALLACE

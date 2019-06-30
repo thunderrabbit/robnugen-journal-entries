@@ -9,7 +9,7 @@ tags: [ "technology" ]
 
 > The techniques could allow flexible semiconductors to be embedded in fabric to create wearable electronics or computer monitors that roll up like a window shade.
 
-[Research dishes out flexible computer chips (Jul 18, 2006)](http://www.news.wisc.edu/12718.html)
+[Research dishes out flexible computer chips (Jul 18, 2006)](https://www.news.wisc.edu/12718.html)
 
 
 
@@ -61,6 +61,6 @@ I would love to have a way to speak to a wearable computer that would transcribe
 
 
 
-technorati tags:[flexible](http://technorati.com/tag/flexible), [transister](http://technorati.com/tag/transister)
+technorati tags:[flexible](https://technorati.com/tag/flexible), [transister](https://technorati.com/tag/transister)
 
-Blogged with [Flock](http://www.flock.com)
+Blogged with [Flock](https://www.flock.com)

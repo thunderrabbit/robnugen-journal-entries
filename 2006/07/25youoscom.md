@@ -7,7 +7,7 @@ tags: [ "internet", "open source" ]
 
 ##02:09 Tuesday 25 July 2006
 
-[youos.com](http://youos.com/)   
+[youos.com](https://youos.com/)   
 
   
 
@@ -35,4 +35,4 @@ What a killa dilla idea!  And it's all written in javascript!!
 
 
 
-Blogged with [Flock](http://www.flock.com)
+Blogged with [Flock](https://www.flock.com)

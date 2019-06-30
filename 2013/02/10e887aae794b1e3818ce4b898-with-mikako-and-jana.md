@@ -9,4 +9,4 @@ tags: [ "journal" ]
 
 Our new friend Jana happens to live in the same neighborhood as Lin's old high school friend Mikako!  Tonight was the night we all met at 6pm in Jiyugaoka for sushi at a 回転すし restaurant and then for a drink and ice cream covered hand made donuts at a shop that Mikako likes.
 
-Talked about Jana's [Tour d'Afrique](http://tourdafrique.com/tour-overview/?t=tour-dafrique) experience, Paola's yoga classes (three of us know each other through Paola), my under-construction app, Jana's school (where Mikako used to attend), our love of animals, etc etc blah blah, and generally enjoyed a lovely time.
+Talked about Jana's [Tour d'Afrique](https://tourdafrique.com/tour-overview/?t=tour-dafrique) experience, Paola's yoga classes (three of us know each other through Paola), my under-construction app, Jana's school (where Mikako used to attend), our love of animals, etc etc blah blah, and generally enjoyed a lovely time.

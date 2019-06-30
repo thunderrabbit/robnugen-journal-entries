@@ -44,7 +44,7 @@ and a lot of lightning and thunder.  It's not the
 <em><b>-*! H U G E S T !*-</b></em> rain I've ever
 seen since we've lived here, but it was pretty
 thorough.  We lost power for a bit (I *love* my <a
-href="http://www.apcc.com">APC</a> UPS!), and took
+href="https://www.apcc.com">APC</a> UPS!), and took
 several power spikes.</p>
 
 <p>!Oh!  That reminds me...  (how to describe this?) 

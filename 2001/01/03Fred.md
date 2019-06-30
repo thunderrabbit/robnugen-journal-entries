@@ -14,7 +14,7 @@ celebration.  I'm not too bitter about that.  Ahem.  Okay.</p>
 
 <p>It's been cool talkin' to him about random stuff and stuff.  We've
 been doing mostly computer nerdy stuff - looking up <a
-href="http://setiathome.berkeley.edu">seti@home</a> stuff and whatever.</p>
+href="https://setiathome.berkeley.edu">seti@home</a> stuff and whatever.</p>
 
 <p class=date>1:16am</p>
 

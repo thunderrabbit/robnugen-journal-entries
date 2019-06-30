@@ -67,10 +67,10 @@ parts redacted:
     ELB access log.
     
     Apache Logs: How Long Does It Take to Serve a Request?
-    http://www.ducea.com/2008/02/06/apache-logs-how-long-does-it-take-to-serve-a-request/
+    https://www.ducea.com/2008/02/06/apache-logs-how-long-does-it-take-to-serve-a-request/
     
     Monitor Your Load Balancer Using Elastic Load Balancing Access Logs
-    http://docs.aws.amazon.com/ElasticLoadBalancing/latest/DeveloperGuide/access-log-collection.html
+    https://docs.aws.amazon.com/ElasticLoadBalancing/latest/DeveloperGuide/access-log-collection.html
     
     I hope you will find above information helpful, if you need any
     further assistance, please feel free to contact us again anytime, we

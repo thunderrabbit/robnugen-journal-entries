@@ -71,7 +71,7 @@ me.</p>
 <p>Then she goes, "what's your favorite album?"</p>
 
 <p>"Paul's Boutique.  I just loves all the <a
-href="http://www.moire.com/beastieboys/samples/">samples</a>."</p>
+href="https://www.moire.com/beastieboys/samples/">samples</a>."</p>
 
 <p>"Me too!"</p>
 

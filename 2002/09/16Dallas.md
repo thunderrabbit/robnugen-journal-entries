@@ -21,7 +21,7 @@ days) and then go to Tulsa, then Little Rock or Hot Springs,
 etc....</p>
 
 <p>And then I remember that I told Liza Ely that I might come to Tyler
-to see her <a href="http://www.centerofwellbeing.com">Center of Well
+to see her <a href="https://www.centerofwellbeing.com">Center of Well
 Being</a> and such, and I throw my brain into a tizzy trying to
 reschedule to get all these visits in.  I don't have to go see her.  I
 don't even really know her.  I just gotta begin my adventure and

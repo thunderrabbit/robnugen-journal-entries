@@ -8,7 +8,7 @@ date: 2014-11-17
 ##07:50 Tuesday 18 November 2014 JST##
 
 And by add, I mean using MCEdit, I injected an schematic of the
-[Empire State Building (unfinished) by Avalanche_Ali](http://www.planetminecraft.com/project/empire-state-building/)
+[Empire State Building (unfinished) by Avalanche_Ali](https://www.planetminecraft.com/project/empire-state-building/)
 
 I placed it in the middle of a plain at first, but then thought it
 would look weirder in a forest, so I put it there instead.

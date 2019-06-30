@@ -9,7 +9,7 @@ date: 2002-12-02
 
 <p>Wow.</p>
 
-<p>I've just installed <a href="http://www.xdarwin.org">XDarwin</a> on
+<p>I've just installed <a href="https://www.xdarwin.org">XDarwin</a> on
 my Mac.  Now I have X available on here!  Wow!  Just like in our
 computer graphics and design class.  Nice.</p>
 

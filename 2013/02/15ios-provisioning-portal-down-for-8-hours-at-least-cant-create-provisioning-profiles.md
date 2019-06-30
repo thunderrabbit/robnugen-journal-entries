@@ -16,11 +16,11 @@ I took this screenshot last night at 11:22pm. It's now 7:34am as I write this, s
 
 [![Screen Shot 2013-02-14 at 11.22.25 PM](/images/2013/02/Screen-Shot-2013-02-14-at-11.22.25-PM.png)](/images/2013/02/Screen-Shot-2013-02-14-at-11.22.25-PM.png)
 
-[People on ASE are wondering as well](http://apple.stackexchange.com/questions/82153/for-how-long-is-apples-provisioning-service-typically-down), but not as many people are wondering as who are saying it's not a good question.
+[People on ASE are wondering as well](https://apple.stackexchange.com/questions/82153/for-how-long-is-apples-provisioning-service-typically-down), but not as many people are wondering as who are saying it's not a good question.
 
 [![Screen Shot 2013-02-15 at 7.30.33 AM](/images/2013/02/Screen-Shot-2013-02-15-at-7.30.33-AM.png)](/images/2013/02/Screen-Shot-2013-02-15-at-7.30.33-AM.png)
 
-[Apple system status](http://www.apple.com/support/systemstatus/) implies all is good.
+[Apple system status](https://www.apple.com/support/systemstatus/) implies all is good.
 
 [![Screen Shot 2013-02-15 at 7.39.52 AM](/images/2013/02/Screen-Shot-2013-02-15-at-7.39.52-AM.png)](/images/2013/02/Screen-Shot-2013-02-15-at-7.39.52-AM.png)
 

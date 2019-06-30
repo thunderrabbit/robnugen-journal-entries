@@ -8,7 +8,7 @@ date: 2003-05-09
 <p class=date>11:14pm JST Friday 9 May 2003</p>
 
 <p>I've just signed up with <a
-href="http://www.findateacher.net">http://www.findateacher.net</a>,
+href="https://www.findateacher.net">https://www.findateacher.net</a>,
 which will allow me to collect students for paid English classes
 outside Nova.  Rock on.</p>
 

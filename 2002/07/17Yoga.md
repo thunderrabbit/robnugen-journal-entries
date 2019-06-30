@@ -24,7 +24,7 @@ the three drawer file cabinet to her apartment.</p>
 
 <p>She gave me a sample of the protein drink bottles she gave me
 yesterday or so, and introduced me to <a
-href="http://www.stevia.com">stevia</a>, a super sweetening herb.
+href="https://www.stevia.com">stevia</a>, a super sweetening herb.
 Wow; it's pretty sweet!</p>
 
 <p>I gave her feedback on the yoga class, which she seemed to

@@ -9,7 +9,7 @@ date: 2015-11-19T07:43:10+09:00
 
 Yay!  I finished Summer Vacation this morning!
 
-Accept no imitations! (heehee)  Here's the back of [Summer Vacation](http://art.robnugen.com/sv15):
+Accept no imitations! (heehee)  Here's the back of [Summer Vacation](https://art.robnugen.com/sv15):
 
 [![The back of Summer Vacation](//b.robnugen.com/art/drawing/2015/summer_vacation/thumbs/000_back_of_Summer_Vacation_2015-12-16_10.51.06.jpg)](//b.robnugen.com/art/drawing/2015/summer_vacation/000_back_of_Summer_Vacation_2015-12-16_10.51.06.jpg)
 

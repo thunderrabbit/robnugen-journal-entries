@@ -30,7 +30,7 @@ me: nah that's okay; I'm at work, as I said.
 me: if you give a link, my wife and I may look tonight
 xxxbabygirl.rachelxo51: yay!! u need 2 make an account first so you can join but its so simple and only takes a sec plus its totally free k?
 me: no way
-xxxbabygirl.rachelxo51: kk go 2 http://bit.ly/Vq3pnk there is a gold button at the top that says "JOIN Free" u just click that 
+xxxbabygirl.rachelxo51: kk go 2 https://bit.ly/Vq3pnk there is a gold button at the top that says "JOIN Free" u just click that 
 xxxbabygirl.rachelxo51: then u just make ure own lil profile and u can cum join my private chat for the 2 of us ;-)
 me: you guys need to set the rate a bit lower on your chatbot
 me: good luck finding people!

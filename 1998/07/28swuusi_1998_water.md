@@ -22,7 +22,7 @@ date: 1998-07-28
 
 <p>Then worship led by Tiffany Schneider was basically "break up into groups and talk about your beliefs." I expressed pretty verbosely what I believed and how my beliefs had changed throughout the years.  Afterward, I felt honored when Sean Murray said, "I had always wondered what Rob believed."  Wow.
 
-<p>Back to main cabin for more ice cream and I loved sitting with an informal group listening to <a href="http://www.geocities.com/sunsetstrip/studio/4367">Kris Scott</a> live in concert, guitar and singing his various favorites and taking requests. He is really good and I look forward to seeing his performance career develop beautifully, not to mention purchasing his third tape when it comes out.
+<p>Back to main cabin for more ice cream and I loved sitting with an informal group listening to <a href="https://www.geocities.com/sunsetstrip/studio/4367">Kris Scott</a> live in concert, guitar and singing his various favorites and taking requests. He is really good and I look forward to seeing his performance career develop beautifully, not to mention purchasing his third tape when it comes out.
 
 <p>Swam after dark and Susan accompanied me both to and from the lake. On the way up there, she held my hand and looked up at the stars the entire way there. On the way back, I held her hand and walked with my eyes closed the entire way back.
 

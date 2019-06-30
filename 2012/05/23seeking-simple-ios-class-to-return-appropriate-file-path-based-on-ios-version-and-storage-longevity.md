@@ -14,7 +14,7 @@ My latest SE question:
 
  
 
-[http://programmers.stackexchange.com/questions/149806/seeking-simple-ios-clas...](http://programmers.stackexchange.com/questions/149806/seeking-simple-ios-class-to-return-appropriate-file-path-based-on-ios-version-an)
+[https://programmers.stackexchange.com/questions/149806/seeking-simple-ios-clas...](https://programmers.stackexchange.com/questions/149806/seeking-simple-ios-class-to-return-appropriate-file-path-based-on-ios-version-an)
 
  
 
@@ -26,7 +26,7 @@ In my first iPhone project, I've got this code essentially repeated in several p
 
  
     
-    // taken from http://ipgames.wordpress.com/tutorials/writeread-data-to-plist-file/ NSArray *paths = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES); NSString *documentsDirectory = [paths objectAtIndex:0]; NSString *path = [documentsDirectory stringByAppendingPathComponent:filename];
+    // taken from https://ipgames.wordpress.com/tutorials/writeread-data-to-plist-file/ NSArray *paths = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES); NSString *documentsDirectory = [paths objectAtIndex:0]; NSString *path = [documentsDirectory stringByAppendingPathComponent:filename];
 
   
 

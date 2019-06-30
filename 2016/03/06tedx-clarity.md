@@ -13,7 +13,7 @@ how to speak at Pecha Kucha, where I'd like to present a presentation
 on authenticity.
 
 Synchronistically, Soness is leading an online workshop thing called
-[TED Worth Application](http://soness.teachable.com/courses/ted-worthy-application/),
+[TED Worth Application](https://soness.teachable.com/courses/ted-worthy-application/),
 which I'm taking!
 
 Question 1:
@@ -21,7 +21,7 @@ Question 1:
     Who are you?  What's your message worth spreading?
 	    
         I attended a transformational weekend in 1997 called New Warrior
-        Training Adventure, organized by Mankind Project http://www.mkp.org/
+        Training Adventure, organized by Mankind Project https://www.mkp.org/
         
         It gave me a safe space to express my fears, my successes, my sadness,
         my true self.  Whatever I needed to say or express was welcome.  I

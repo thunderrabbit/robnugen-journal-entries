@@ -33,7 +33,7 @@ the nature of our military, our taking over the world may be the end
 of it.  Why are we the only nation pro militarization of outer space?</p>
 
 <p>Find more of his stuff here: <a
-href="http://uts.cc.utexas.edu/~rjensen/home.htm">http://uts.cc.utexas.edu/~rjensen/home.htm</a></p>
+href="https://uts.cc.utexas.edu/~rjensen/home.htm">https://uts.cc.utexas.edu/~rjensen/home.htm</a></p>
 
 <p>- - - -</p>
 

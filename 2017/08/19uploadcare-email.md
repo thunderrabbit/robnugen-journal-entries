@@ -13,7 +13,7 @@ working, so I'll save this email here.
 ```
 Hi Alex
 
-This URL describes the directory structure that I would like to backup.  http://helpwiki.evergreen.edu/wiki/index.php/Folder_Structure_-_Dragonframe
+This URL describes the directory structure that I would like to backup.  https://helpwiki.evergreen.edu/wiki/index.php/Folder_Structure_-_Dragonframe
 
 I am currently using rsync over ssh to save it to my server, but I am open to having it backed up to mutlple places.  I guess uploadcare uses its own filenames for each file that is uploaded.
 

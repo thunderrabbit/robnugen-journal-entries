@@ -13,8 +13,8 @@ and I'm loving it!  I used to play all the time back in 1993 and
 1994 and into 1995 and maybe even a tad beyond that.  I'd like to 
 be a more regular player for some time to come.
 
-For more info on this group, see <a href="http://www.stephenmcleod.com/ultimate.html">McLeod's Ultimate Frisbee Page</a>,
-or <a href="http://members.aol.com/gremillion/diskone.htm">Rod Meek's SNS Ultimate</a>.
+For more info on this group, see <a href="https://www.stephenmcleod.com/ultimate.html">McLeod's Ultimate Frisbee Page</a>,
+or <a href="https://members.aol.com/gremillion/diskone.htm">Rod Meek's SNS Ultimate</a>.
 
 So anyway, on Saturday I had a super great throw and a super
 great catch!

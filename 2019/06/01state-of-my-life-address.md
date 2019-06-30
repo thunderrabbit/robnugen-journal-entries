@@ -39,7 +39,7 @@ square QR code https://b.robnugen.com/mkpjapan/workshops/2019/Japanese_Journey_o
    in October.  (ShadowWork Facilitator Training) I have not gotten it
    sorted out with the organizer yet; I asked him if I have the
    prerequisites.
-8. I bought http://wanb.us/ which I might use for my Urbit star, ~wanbus.
+8. I bought https://wanb.us/ which I might use for my Urbit star, ~wanbus.
 9. I created a template for something like a Five Minute Journal
    (which takes more than five minutes, but gives a structure to what
    I write).  Kinda like a captain's log, tracking some different

@@ -7,7 +7,7 @@ tags: [ "journal" ]
 
 ##11:46 Saturday 11 February 2012
 
-[![Screen_shot_2012-02-11_at_11](http://getfile6.posterous.com/getfile/files.posterous.com/temp-2012-02-10/hrGilyadEmldGDfychkHkJojbitgqCBxsscntECyDDtnCfrscBzmlCdoIFGl/Screen_shot_2012-02-11_at_11.33.35_AM.png.scaled500.png)](http://getfile3.posterous.com/getfile/files.posterous.com/temp-2012-02-10/hrGilyadEmldGDfychkHkJojbitgqCBxsscntECyDDtnCfrscBzmlCdoIFGl/Screen_shot_2012-02-11_at_11.33.35_AM.png.scaled1000.png)
+[![Screen_shot_2012-02-11_at_11](https://getfile6.posterous.com/getfile/files.posterous.com/temp-2012-02-10/hrGilyadEmldGDfychkHkJojbitgqCBxsscntECyDDtnCfrscBzmlCdoIFGl/Screen_shot_2012-02-11_at_11.33.35_AM.png.scaled500.png)](https://getfile3.posterous.com/getfile/files.posterous.com/temp-2012-02-10/hrGilyadEmldGDfychkHkJojbitgqCBxsscntECyDDtnCfrscBzmlCdoIFGl/Screen_shot_2012-02-11_at_11.33.35_AM.png.scaled1000.png)
 
 I tried to move my furnace to expand the size of my burrow's main room, and saw a weird error come up when it normally would have said "furnace unregistered."
 

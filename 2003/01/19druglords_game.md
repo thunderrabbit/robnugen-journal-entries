@@ -13,4 +13,4 @@ fucked up way.</p>
 <p>I did not have to give my email address to play, so it seems safe.</p>
 
 <p><a
-href="http://www.druglordsgame.com/index.php?ref=63970">http://www.druglordsgame.com/index.php?ref=63970</a></p>
+href="https://www.druglordsgame.com/index.php?ref=63970">https://www.druglordsgame.com/index.php?ref=63970</a></p>

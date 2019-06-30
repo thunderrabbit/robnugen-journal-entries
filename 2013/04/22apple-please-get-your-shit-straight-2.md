@@ -33,7 +33,7 @@ THEY STILL WANT ME TO ENTER THE CODE!!!!
 
 [![Screen Shot 2013-04-22 at 6.52.14 AM](/images/2013/04/Screen-Shot-2013-04-22-at-6.52.14-AM.png)](/images/2013/04/Screen-Shot-2013-04-22-at-6.52.14-AM.png)
 
-Apple, please read Apple's "User Experience Guidelines" currently at [http://developer.apple.com/library/ios/#documentation/userexperience/conceptual/mobilehig/UEBestPractices/UEBestPractices.html](http://developer.apple.com/library/ios/#documentation/userexperience/conceptual/mobilehig/UEBestPractices/UEBestPractices.html) (though I'm sure that will change to a broken link in the future)
+Apple, please read Apple's "User Experience Guidelines" currently at [https://developer.apple.com/library/ios/#documentation/userexperience/conceptual/mobilehig/UEBestPractices/UEBestPractices.html](https://developer.apple.com/library/ios/#documentation/userexperience/conceptual/mobilehig/UEBestPractices/UEBestPractices.html) (though I'm sure that will change to a broken link in the future)
 
 Anyway, Apple, please read your own UX Guidelines and fix the UX in your products. CLICKING A LINK IN EMAIL IS A SOLVED PROBLEM.
 
@@ -73,7 +73,7 @@ frustration that I paid 8000 yen and you're bothering me with crap and crappy UX
 
 Regression:
 
-http://robnugen.com/blog/2013/04/22/apple-please-get-your-shit-straight-2/
+https://robnugen.com/blog/2013/04/22/apple-please-get-your-shit-straight-2/
 
 Notes:
 
@@ -93,9 +93,9 @@ Thank you for reporting this issue.
 
 If you have problems with the process used for enrolling in a Developer Program, please contact the Developer Programs team:
 
-web: http://developer.apple.com/contact/
+web: https://developer.apple.com/contact/
 email: devprograms@apple.com
-phone: http://developer.apple.com/contact/phone.html
+phone: https://developer.apple.com/contact/phone.html
 
 Thank you for understanding our support policies.
 

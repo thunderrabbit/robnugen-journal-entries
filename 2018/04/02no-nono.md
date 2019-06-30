@@ -10,7 +10,7 @@ date: 2018-04-02T23:48:51+09:00
 While walking from Roppongi down to my lunchtime lesson, I walked past
 a woman (after admiring her tattoo), and then she walked past me and
 said, "hey I like your style," referring to my bare feet.  Turns out
-she works at [Gonpachi](http://gonpachi.jp/?page_id=22),
+she works at [Gonpachi](https://gonpachi.jp/?page_id=22),
 [aka the Kill Bill restaurant](https://thecitylane.com/tokyo-gonpachi-aka-kill-bill-restaurant/).
 She invited me to come by, so I did around 1:45pm.
 

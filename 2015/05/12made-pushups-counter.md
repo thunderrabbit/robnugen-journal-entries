@@ -13,7 +13,7 @@ in one month, so I am writing my own.
 [https://github.com/thunderrabbit/pushups-counter-js](https://github.com/thunderrabbit/pushups-counter-js)
 
 No readme yet as of this writing, but it's backed by
-[parse.com](http://www.parse.com)  It saves *each* pushup one by one,
+[parse.com](https://www.parse.com)  It saves *each* pushup one by one,
 but I want to add a local counter and then send them all up at once,
 to save wear and tear on internets and on my parse budget (currently
 $0).

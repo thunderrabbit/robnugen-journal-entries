@@ -9,7 +9,7 @@ date: 2018-03-13T01:46:35+09:00
 
 ## 09:46 Monday 12 March 2018 Portland
 
-[Recreational marijuana is legal in Oregon.](http://www.oregon.gov/olcc/marijuana/pages/default.aspx)
+[Recreational marijuana is legal in Oregon.](https://www.oregon.gov/olcc/marijuana/pages/default.aspx)
 I took advantage of this fact last night and had a really overall
 positive experience with several *experiencial* teachings I gained.
 

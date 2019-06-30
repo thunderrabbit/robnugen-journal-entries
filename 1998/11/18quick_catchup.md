@@ -13,7 +13,7 @@ date: 1998-11-18
 
 <p>I am leaving for Costa Rica in 17 hours!!!
 
-<p>Last night I was up until 3am talking and stuff to Manda.  Then today I woke up, did laundry, got travelers checks (tried to go to AAA to do it, but they wouldn't let me in with no shoes (the security guard said, "if they don't mind, I don't mind" so I went in and then he brought to the manager's attention that I was barefoot, and then said that I needed to leave.) so I went to Nationsbank, and I'm glad because the teller was funny!), dropped off some books, picked up some cash, made some copies at Kinko's, went to Walgreens and got a ton of film, then came home and worked on Rebecca's <a href="http://www.indigoangel.com">website</a> for 2 hours then went to bed.
+<p>Last night I was up until 3am talking and stuff to Manda.  Then today I woke up, did laundry, got travelers checks (tried to go to AAA to do it, but they wouldn't let me in with no shoes (the security guard said, "if they don't mind, I don't mind" so I went in and then he brought to the manager's attention that I was barefoot, and then said that I needed to leave.) so I went to Nationsbank, and I'm glad because the teller was funny!), dropped off some books, picked up some cash, made some copies at Kinko's, went to Walgreens and got a ton of film, then came home and worked on Rebecca's <a href="https://www.indigoangel.com">website</a> for 2 hours then went to bed.
 
 <p>Went to visit my dad's uncle Kermit (I'm not lying; his name is Kermit) who is in town for some kind of medical stuff and then went to gymnastics and am back home catching up on email and webstuff.
 

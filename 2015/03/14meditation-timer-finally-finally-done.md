@@ -31,7 +31,7 @@ quite obviously to me now, all that extra crap was just crap.
 
 I only have a little bit of extra crap now with my new meditation timer:
 
-[瞑想頑張れ](http://thunderrabbit.github.io/meisogambare/)
+[瞑想頑張れ](https://thunderrabbit.github.io/meisogambare/)
 
 Source code is available on both Bitbucket and Github (because I couldn't get
 thunderrabbit.bitbucket.org/meisogambare to work)

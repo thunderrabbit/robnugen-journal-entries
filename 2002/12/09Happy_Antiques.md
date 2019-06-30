@@ -10,7 +10,7 @@ date: 2002-12-09
 <h1>virus download complete</h1>
 
 <p>We went to <a
-href="http://www.oldtowneorange.net/happytimeantiquesmall.htm">Happy
+href="https://www.oldtowneorange.net/happytimeantiquesmall.htm">Happy
 Time Antiques Mall</a>, just 90 degrees clockwise around the circle
 from Felix's and Sally looked for a ring for herself and a pin for her
 mom.  I wandered around the store, found an old brass/copper fire

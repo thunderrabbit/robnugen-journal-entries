@@ -109,7 +109,7 @@ As the show began, the announcements changed to something like
 
 <p>And that was just the marquee announcements.
 
-<p><font size="+1" face="arial"><a href="http://www.blueman.com">Blue Man Group</a></font> starred 3 men with blue latex entirely covering their heads and they did all kinds of beautifully choreographed wacky stuff. As the show started, the men were drumming and we could only see their silouhettes through three different faux windows. A light would shine behind the particular man that was drumming at the moment. After a bit, the third man was drumming and sprouted a third hand so he could drink some water at the same time.
+<p><font size="+1" face="arial"><a href="https://www.blueman.com">Blue Man Group</a></font> starred 3 men with blue latex entirely covering their heads and they did all kinds of beautifully choreographed wacky stuff. As the show started, the men were drumming and we could only see their silouhettes through three different faux windows. A light would shine behind the particular man that was drumming at the moment. After a bit, the third man was drumming and sprouted a third hand so he could drink some water at the same time.
 
 <p>The show had begun.
 
@@ -223,4 +223,4 @@ As the show began, the announcements changed to something like
 
 <p>There was oh so much more; go see the show.  It plays in Chicago, New York City, and Boston.
 
-<p><font size="+1" face="arial"><a href="http://www.blueman.com">Blue Man Group</a></font>.  It was a great show.
+<p><font size="+1" face="arial"><a href="https://www.blueman.com">Blue Man Group</a></font>.  It was a great show.

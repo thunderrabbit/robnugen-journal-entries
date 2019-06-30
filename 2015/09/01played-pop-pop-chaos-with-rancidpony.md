@@ -8,7 +8,7 @@ date: 2015-09-01T18:29:52+09:00
 ## 18:29 Tuesday 01 September 2015 JST
 
 A couple days ago I noted someone burst a bubble on
-[Pop Pop Chaos](http://www.poppopchaos.com/), so I joined the fun!  It
+[Pop Pop Chaos](https://www.poppopchaos.com/), so I joined the fun!  It
 seemed s/he was only interested in bursting bubbles, not creating
 them, so I created some, and then joined the fun and we just popped
 alll the bubbles.  The white ones kept coming back, as they do, but
@@ -32,5 +32,5 @@ So I retooled the logic which populates the leaderboard to say admin
 cannot join, but negative score people are welcome.  So rancidpony has
 -35 points and is halfway up the leaderboard!
 
-AND [rancidpony is credited](http://www.poppopchaos.com/about) with
+AND [rancidpony is credited](https://www.poppopchaos.com/about) with
 finding a bug. Thanks!

@@ -7,7 +7,7 @@ tags: [ "internet" ]
 
 ##18:32 Tuesday 08 November 2005
 
-Just found a new site called [YouTube](http://youtube.com/), which has just [received funding](http://slashdot.org/article.pl?sid=05/11/08/0255216&from=rss), which means to me they could have a good thing going.
+Just found a new site called [YouTube](https://youtube.com/), which has just [received funding](https://slashdot.org/article.pl?sid=05/11/08/0255216&from=rss), which means to me they could have a good thing going.
 
 
 
@@ -19,7 +19,7 @@ The front of the site looks so much like google and gmail's front page that my b
 
 
 
-Sign up by [clicking here](http://www.youtube.com/signup.php?referer=thunderrabbit) and I'll get a referral.
+Sign up by [clicking here](https://www.youtube.com/signup.php?referer=thunderrabbit) and I'll get a referral.
 
 
 
@@ -31,15 +31,15 @@ I'm quite impressed with the site.  I just uploaded two videos; it made thumbnai
 
 
 
-[Soundbomb thrown near little girls](http://www.youtube.com/?v=LVVGTnaNZns)
+[Soundbomb thrown near little girls](https://www.youtube.com/?v=LVVGTnaNZns)
   
-[Confronting officer and Jewish victim](http://www.youtube.com/?v=0vzUttSNzvU)
+[Confronting officer and Jewish victim](https://www.youtube.com/?v=0vzUttSNzvU)
 
 
 
 
 
-[Sign Up!](http://www.youtube.com/signup.php?referer=thunderrabbit)
+[Sign Up!](https://www.youtube.com/signup.php?referer=thunderrabbit)
 
 
 

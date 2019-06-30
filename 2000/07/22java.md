@@ -37,7 +37,7 @@ at 6pm to come do my radio shift at KTRU.  I love
 KTRU, but this timeslot is not my favorite one.
 
 <p>Tune in tonight!  <a
-href="http://www.ktru.org/realaudio.html">www.ktru.org/realaudio.html</a>
+href="https://www.ktru.org/realaudio.html">www.ktru.org/realaudio.html</a>
 7 to 10pm!!!
 
 <p><img src="/images/rob/wL-ROB.gif">

@@ -10,7 +10,7 @@ date: 1997-11-15
 <p>
 This weekend changed my life.
 <p>
-When I first heard about <a href=http://www.mkp.org>New Warrior Training</a> I was quite not interested.  Some kind of initiation into manhood... and I wanted nothing to do with it.  That was two years ago.
+When I first heard about <a href=https://www.mkp.org>New Warrior Training</a> I was quite not interested.  Some kind of initiation into manhood... and I wanted nothing to do with it.  That was two years ago.
 <p>
 The reason I wanted nothing to do with it:  I was afraid of men.<br>
 I certainly didn't want to become a man.  And I doubly certaintly didn't want to be associated with men and known as a man.  No way.

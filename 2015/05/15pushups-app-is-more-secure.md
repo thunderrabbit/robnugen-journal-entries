@@ -11,7 +11,7 @@ Okay, now my pushup counter uses Parse's suggested code for logging in
 and saving data per user.
 
 So, please feel free to enjoy my
-[pushups counter!](http://new.robnugen.com/samples/javascript/pushups-counter-js/index.html)
+[pushups counter!](https://new.robnugen.com/samples/javascript/pushups-counter-js/index.html)
 
 Just click login to test it, or create your own username and password
 to track your own pushups!

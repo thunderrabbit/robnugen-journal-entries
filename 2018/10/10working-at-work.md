@@ -10,7 +10,7 @@ date: 2018-10-10T18:29:26+09:00
 No students in my lesson today so I am glad I brought my computer so I
 can do some work for AB.  I am continuing with the Modernization of my
 Legacy PHP application based on the book described at
-http://mlaphp.com
+https://mlaphp.com
 
     Modernize Your Legacy PHP Application
     Get your code under control

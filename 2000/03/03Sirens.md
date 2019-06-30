@@ -9,7 +9,7 @@ date: 2000-03-03
 <p class=date>3:11am CST Friday 3 March 2000</p>
 
 <p>Five minutes ago, as I was reading about various <a
-href="http://www.seds.org/billa/tnp/hypo.html">hypothoses</a> of our
+href="https://www.seds.org/billa/tnp/hypo.html">hypothoses</a> of our
 solor system, police cars began screaming past my apartment at full
 siren and full acceleration.  I stepped outside to watch them.  Within
 a 3 minute span no fewer than 9 cars blasted by, the last 4 or 5

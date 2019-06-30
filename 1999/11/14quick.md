@@ -13,7 +13,7 @@ I'm so tired.
 meeting for the Techno Cosmic Mass that will happen on 9 December
 1999.  The TCM will be super awesome and you should all attend!  It's
 free!  <a
-href="http://www.heartstormproductions.com">www.heartstormproductions.com</a>
+href="https://www.heartstormproductions.com">www.heartstormproductions.com</a>
 is the URL for the event I think.
 
 It's free for all!

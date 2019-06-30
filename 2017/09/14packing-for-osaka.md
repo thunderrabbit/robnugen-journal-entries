@@ -32,4 +32,4 @@ developing for Apple.
 10 hours remain, but I leave in 5.5 hours so I killed the download.
 
 Erica is right, and I
-will [wait for the final .dmg](http://ericasadun.com/2016/03/22/xcode-upgrades-lessons-learned/)
+will [wait for the final .dmg](https://ericasadun.com/2016/03/22/xcode-upgrades-lessons-learned/)

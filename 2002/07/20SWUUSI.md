@@ -15,7 +15,7 @@ like it, too.
 <p>Hmm, so, EMacs, interesting, I've never used this. (This is Ben by
 the way) I'm all about the BBEdit wit da GUI. I don't do command line,
 at least, not offten anyways. Oh well. Rob, you need more games. Go
-download EV:Nova from <a href="http://wwww.ambrosiasw.com">Ambrosia
+download EV:Nova from <a href="https://wwww.ambrosiasw.com">Ambrosia
 Software</a>. It's fun. Buh-bye.</p>
 
 <p class=date>11:21pm</p>

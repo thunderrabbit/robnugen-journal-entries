@@ -27,4 +27,4 @@ Same error when I simply try to rsync:
     rsync: connection unexpectedly closed (0 bytes received so far) [sender]
     rsync error: error in rsync protocol data stream (code 12) at /BuildRoot/Library/Caches/com.apple.xbs/Sources/rsync/rsync-47/rsync/io.c(453) [sender=2.6.9]
 
-Solution: [Three finger salute](http://apple.stackexchange.com/questions/43940/when-i-open-terminal-i-get-an-i-have-no-name-prompt)
+Solution: [Three finger salute](https://apple.stackexchange.com/questions/43940/when-i-open-terminal-i-get-an-i-have-no-name-prompt)

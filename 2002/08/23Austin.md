@@ -14,7 +14,7 @@ Austin group before I heard about the Houston lock-in.</p>
 
 <p>I'm closer on putting my new journal thing online.  You can beta
 test it at <a
-href="/cgi-local/journal.pl">http://www.robnugen.com/cgi-local/journal.pl</a>.
+href="/cgi-local/journal.pl">https://www.robnugen.com/cgi-local/journal.pl</a>.
 <a href="mailto:freaky_journal@robnugen.com">Let me know</a> if you
 see anything freaky, not including that it doesn't properly display
 1996, 1997, nor 1998 entries.</p>

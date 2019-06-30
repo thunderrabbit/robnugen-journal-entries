@@ -28,7 +28,7 @@ On behalf of Lt. Watada and our family, thank you for standing with us during th
 
 
 
-We are just days away from the pretrial and must broaden his support base. Help us mobilize the local, national, and international community through your personal, professional, religious and other networks. Please forward the attached email alert with a brief explanation. Ask people to go to: [www.thankyoult.org](http://www.thankyoult.org/) to learn more about Lt. Watada's case. On the main menu, supporters can click on SIGN PETITION/GET UPDATES AND ALERTS.  They will receive weekly email updates that call for actions in support of  Lt. Watada's stand.  
+We are just days away from the pretrial and must broaden his support base. Help us mobilize the local, national, and international community through your personal, professional, religious and other networks. Please forward the attached email alert with a brief explanation. Ask people to go to: [www.thankyoult.org](https://www.thankyoult.org/) to learn more about Lt. Watada's case. On the main menu, supporters can click on SIGN PETITION/GET UPDATES AND ALERTS.  They will receive weekly email updates that call for actions in support of  Lt. Watada's stand.  
 
 
 
@@ -51,7 +51,7 @@ Carolyn Ho (Lt. Watada's Mother)
 
 
 
-# [Lt Watada Action Center](http://ga0.org/ltwatada/home.html)
+# [Lt Watada Action Center](https://ga0.org/ltwatada/home.html)
 
 
 
@@ -153,16 +153,16 @@ Commanding General Fort Lewis
 Fort Lewis, WA 98433
 Phone 253-967-1110
 
-2. ******Spread the word about Feb. 5, 2007.** [ Forward this email](http://ga0.org/ltwatada/join-forward.html?domain=ltwatada&r=EdSZyLn1_LvY&) and post on blogs, MySpace, student, activist, social justice and media websites. [ Register for campaign updates](http://ga0.org/ct/ipSZyLn1rSAy/). 
+2. ******Spread the word about Feb. 5, 2007.** [ Forward this email](https://ga0.org/ltwatada/join-forward.html?domain=ltwatada&r=EdSZyLn1_LvY&) and post on blogs, MySpace, student, activist, social justice and media websites. [ Register for campaign updates](https://ga0.org/ct/ipSZyLn1rSAy/). 
 
 3. ******Encourage your organization to endorse the National Day of Action and mobilize on Feb. 5, 2007.** Please specify national, state, city, chapter/local, and contact person, and send to [action@ltwatada.org](mailto:action@ltwatada.org). 
 
 4. ******Organize a student walkout, rally or vigil on Feb. 5, 2007.** [Tell us](mailto:action@ltwatada.org) about your action so we can include your event on our website.
 
-                          5. [Donate online](http://ga0.org/ct/k1SZyLn1rSAh/) to Lt. Watada's Defense Fund. 
+                          5. [Donate online](https://ga0.org/ct/k1SZyLn1rSAh/) to Lt. Watada's Defense Fund. 
 
 
-**website: **[ **www.thankyoult.org**](http://www.thankyoult.org)
+**website: **[ **www.thankyoult.org**](https://www.thankyoult.org)
 
 
 
@@ -184,7 +184,7 @@ Contact Commander Dubik
 Rally at the gates of Fort Lewis,  8-11 am, exit 119
 
 ******January 20-22, 2007****
-**[ Citizens' Hearings](http://ga0.org/ct/kdSZyLn1rSAn/)
+**[ Citizens' Hearings](https://ga0.org/ct/kdSZyLn1rSAn/)
 Evergreen State College, Tacoma campus
 Tacoma, WA
 
@@ -263,7 +263,7 @@ Lt. Watada's bold actions have raised the consciousness of thousands of American
 
 
 Pass this message on to three friends and ask them to join the Lt. Watada Support campaign.
-[ Tell-a-friend!](http://ga0.org/join-forward.html?domain=ltwatada&r=EdSZyLn1_LvY)
+[ Tell-a-friend!](https://ga0.org/join-forward.html?domain=ltwatada&r=EdSZyLn1_LvY)
 
 
 
@@ -281,7 +281,7 @@ Pass this message on to three friends and ask them to join the Lt. Watada Suppor
 
 
 
-If you received this message from a friend, you can [sign up for Action Center - Lt. Watada Support Campaign](http://ga0.org/ltwatada/join.html?r=EdSZyLn1_LvYE). 
+If you received this message from a friend, you can [sign up for Action Center - Lt. Watada Support Campaign](https://ga0.org/ltwatada/join.html?r=EdSZyLn1_LvYE). 
 
 
 

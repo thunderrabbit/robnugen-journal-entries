@@ -9,6 +9,6 @@ tags: [ "journal" ]
 
 **11:13am Friday 22 March 2013**
 
-The most interesting difference I noticed between my preparation for TJ Bike trip to Kyoto and Sarah's preparation for [rowing and cycling around the world](http://www.sarahouten.com/) was that I had none and she had lots.
+The most interesting difference I noticed between my preparation for TJ Bike trip to Kyoto and Sarah's preparation for [rowing and cycling around the world](https://www.sarahouten.com/) was that I had none and she had lots.
 
 I might learn something from that.

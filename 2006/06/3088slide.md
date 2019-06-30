@@ -7,7 +7,7 @@ tags: [ "internet" ]
 
 ##13:45 Friday 30 June 2006
 
-[88SLIDE: The Daily One Minute Trivia Challenge](http://88slide.com/)  
+[88SLIDE: The Daily One Minute Trivia Challenge](https://88slide.com/)  
 
   
 
@@ -15,6 +15,6 @@ Holy shit she is hot!!!!!
 
 
 
-technorati tags:[hot](http://technorati.com/tag/hot)
+technorati tags:[hot](https://technorati.com/tag/hot)
 
-Blogged with [Flock](http://www.flock.com)
+Blogged with [Flock](https://www.flock.com)

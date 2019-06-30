@@ -21,7 +21,7 @@ garage.  Had to sneak in behind a car to get in.
 determine why a bunch of guys were up on the top
 hollering down at some people on the street.
 <br>Turns out, they were a running club: <a
-href="http://www.h4.org">www.h4.org</a> that runs
+href="https://www.h4.org">www.h4.org</a> that runs
 random trails on a frequent basis.  Trails are marked
 with chalk or flour or some non-permanent thing. 
 Interesting stuff.</li>
@@ -33,9 +33,9 @@ times without wiping out.  I'm thankful for my knobby
 tires with knobbies way out on the sides.</li>
 
 <li>The funniest cow I saw as part of the <a
-href="http://www.cowparadehouston.com">Cows On
+href="https://www.cowparadehouston.com">Cows On
 Parade</a> was called <a
-href="http://www.cowparadehouston.com/cow/large/999">Steering
+href="https://www.cowparadehouston.com/cow/large/999">Steering
 Committee</a>.  The picture doesn't quite capture the
 funniness; go check it out by the Houston Chronicle
 building.</li>

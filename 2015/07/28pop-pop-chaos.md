@@ -18,7 +18,7 @@ pop pop chaos like popping bubbles!)
 Today I finished the first and second alpha versions of the game!
 
 So, feel free to check out
-[Pop Pop Chaos](http://poppopchaos.meteor.com/), live on
+[Pop Pop Chaos](https://poppopchaos.meteor.com/), live on
 [meteor.com](https://www.meteor.com).
 
 It still seems a bit buggy so I'll try to sort out what's going on

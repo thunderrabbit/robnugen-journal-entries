@@ -127,7 +127,7 @@ turn people away if they don't pre-register.  But I think that after
 the craziness at San Antonio (25 walk-ins), and the subsequent meeting
 with YAC, people won't do it.  For those YRUUers reading this who need
 to register, visit the website <a
-href="http://swd.yruu.org">website</a> and click on Upcoming Events
+href="https://swd.yruu.org">website</a> and click on Upcoming Events
 (or the big link at the top of the page)</p>
 
 <p>I am officially in charge of this rally, but I have done relatively very

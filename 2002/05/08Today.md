@@ -19,7 +19,7 @@ address then name.  That explains some of the confusion I had last
 night.</p>
 
 <p>After chat-meeting, I visited <a
-href='http://www.thewealthsource.com'>Kim</a> at Empire Cafe' for my
+href='https://www.thewealthsource.com'>Kim</a> at Empire Cafe' for my
 coaching session.  Things are looking way up from when I started with
 him several months ago.  It's really neat to watch the progress.</p>
 

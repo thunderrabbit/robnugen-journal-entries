@@ -21,7 +21,7 @@ A very good point indeed, Rob.  You're clearly correct.
 I'm glad you're enjoying The Harrow Technology Report, and I hope you'll let
 many other folks know that they can subscribe at
 <a
-href="http://www.theharrowgroup.com/signup.asp">http://www.theharrowgroup.co
+href="https://www.theharrowgroup.com/signup.asp">https://www.theharrowgroup.co
 m/signup.asp</a>.
 
 Sincerely,
@@ -29,7 +29,7 @@ Sincerely,
 Jeffrey R. Harrow
 Principal, The Harrow Group
 Author - "The Harrow Technology Report"
-Web  ->   http://www.theharrowgroup.com/
+Web  ->   https://www.theharrowgroup.com/
 Email ->  Jeff@TheHarrowGroup.com
 
 
@@ -54,15 +54,15 @@ computer today.
 
 - - -
 
-According to <a href="http://www.datamath.org/Story/Datamath.htm#The
+According to <a href="https://www.datamath.org/Story/Datamath.htm#The
 Cal-Tech
-Project">"http://www.datamath.org/Story/Datamath.htm#The Cal-Tech
+Project">"https://www.datamath.org/Story/Datamath.htm#The Cal-Tech
 Project"</a> one of the first calculators weighed 55 pounds and cost $2500
 in
 1965.  (they didn't do square root, though)
 
 According to <a
-href="http://eh.net/ehresources/howmuch/dollar_question.php">http://eh.net/e
+href="https://eh.net/ehresources/howmuch/dollar_question.php">https://eh.net/e
 hresources/howmuch/dollar_question.php</a> $2500 in
 1965 had the same purchasing power as $14000 today.
 

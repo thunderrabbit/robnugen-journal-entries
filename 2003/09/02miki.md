@@ -15,7 +15,7 @@ Subject: *****SPAM***** IT'S MIKI.
 SPAM: -------------------- Start SpamAssassin results ----------------------
 SPAM: This mail is probably spam.  The original message has been altered
 SPAM: so you can recognise or block similar unwanted mail in future.
-SPAM: See http://spamassassin.org/tag/ for more details.
+SPAM: See https://spamassassin.org/tag/ for more details.
 SPAM: 
 SPAM: Content analysis details:   (7.3 hits, 5 required)
 SPAM: Hit! (2.0 points)  Subject is all capitals

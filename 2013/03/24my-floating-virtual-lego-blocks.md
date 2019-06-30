@@ -9,7 +9,7 @@ tags: [ "art", "internet", "technology" ]
 
 **6:44pm Sunday 24 March 2013**
 
-After reading on HN that [Google has discontinued Blocked Sites](http://support.google.com/websearch/bin/answer.py?hl=en&answer=1210386), I was browsing through the extensions available for Chrome, and found [Build With Chrome](https://chrome.google.com/webstore/detail/build-with-chrome/lbbbhbjeecagnlfgggogfclkdjamoapf).
+After reading on HN that [Google has discontinued Blocked Sites](https://support.google.com/websearch/bin/answer.py?hl=en&answer=1210386), I was browsing through the extensions available for Chrome, and found [Build With Chrome](https://chrome.google.com/webstore/detail/build-with-chrome/lbbbhbjeecagnlfgggogfclkdjamoapf).
 
 My creation hasn't been approved yet, but it's apparently visible if you click [Rob's floating v-shaped Lego thing](www.buildwithchrome.com/build/cFId).  It looks something like this
 

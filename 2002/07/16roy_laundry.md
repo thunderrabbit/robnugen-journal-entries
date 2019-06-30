@@ -18,5 +18,5 @@ asked if they had any others recently thrown away) so I can fix it
 later with my newfound time.</p>
 
 <p>Chillin' at Veronica's now; Dude is not here.  But I just dropped
-off my old NT box, my <a href="http://www.apcc.com">APC</a> UPS,
+off my old NT box, my <a href="https://www.apcc.com">APC</a> UPS,
 Netopia DSL router, and extra cords.</p>

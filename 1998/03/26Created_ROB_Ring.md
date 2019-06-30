@@ -13,7 +13,7 @@ date: 1998-03-26
 
 Today I decided I should join a ring for people named Rob.
 <p>
-I checked out <a href=http://www.webring.org>www.webring.org</a>
+I checked out <a href=https://www.webring.org>www.webring.org</a>
 and I found rings for people named Susan, rings for people named Bob ("not Rob," it said, but Bob), rings for people named such and such and what-cha-who, but not for people named Rob.
 <p>
 I did find a ring named Rob's Ring.<br>

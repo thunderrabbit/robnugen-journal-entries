@@ -7,7 +7,7 @@ tags: [ "journal" ]
 
 ##10:57 Sunday 16 September 2012
 
-I know [how to spell your and you're](http://www.elearnenglishlanguage.com/difficulties/youryoure.html).
+I know [how to spell your and you're](https://www.elearnenglishlanguage.com/difficulties/youryoure.html).
 
  
 
@@ -23,7 +23,7 @@ This is quickly foiled by a large difference in the grammatical usage of the wor
 
  
 
-I imagine this difference can be overcome with careful use of [words which can be considered nouns or verbs](http://www.enchantedlearning.com/wordlist/nounandverb.shtml), depending on their usage.  However you're still pretty much left with
+I imagine this difference can be overcome with careful use of [words which can be considered nouns or verbs](https://www.enchantedlearning.com/wordlist/nounandverb.shtml), depending on their usage.  However you're still pretty much left with
 
  
 

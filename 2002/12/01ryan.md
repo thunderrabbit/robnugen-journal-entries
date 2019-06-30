@@ -8,7 +8,7 @@ date: 2002-12-01
 <p class=date>9:56pm PST Sunday 1 December 2002</p>
 
 <p><a
-href="http://www.livejournal.com/users/mynameisryan/">mr.
+href="https://www.livejournal.com/users/mynameisryan/">mr.
 ryan. mccarthy.</a> wrote an entry about how he's feeling like a big
 slacker because he's not got a job, etc etc whatever, and wonders
 something like, "but for every minute I spend learning something

@@ -17,7 +17,7 @@ I just need to stay awake until then!  (I'm in a nearby convenience store.)
 - - - -
 
 The class was fun!  Their band is
-[Silent Siren](http://silent-siren.com/en/); we did an
+[Silent Siren](https://silent-siren.com/en/); we did an
 adjective-opposites game and then practiced English phrases they can
 use on stage.
 

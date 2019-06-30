@@ -13,11 +13,11 @@ Lin and I both really loved the movie; she loved it so much that she *almost* st
 
  
 
-[http://www.jinni.com/person/zooey-deschanel/](http://www.jinni.com/person/zooey-deschanel/) reminds me that I saw her in Hitchhiker's Guide To The Galaxy.  A-ha!
+[https://www.jinni.com/person/zooey-deschanel/](https://www.jinni.com/person/zooey-deschanel/) reminds me that I saw her in Hitchhiker's Guide To The Galaxy.  A-ha!
 
  
 
-ps: I love [http://www.jinni.com/](http://www.jinni.com/) for movie recommendations.
+ps: I love [https://www.jinni.com/](https://www.jinni.com/) for movie recommendations.
 
  
 

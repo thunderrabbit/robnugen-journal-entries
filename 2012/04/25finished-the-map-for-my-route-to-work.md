@@ -8,4 +8,4 @@ tags: [ "journal" ]
 ##00:47 Wednesday 25 April 2012
 
   
-View [bicycle to work](http://maps.google.com/maps/ms?msa=0&msid=217310242381509123565.0004be614ac03a09552bf&ie=UTF8&t=m&ll=35.590598,139.711075&spn=0.167513,0.102997&z=12&source=embed) in a larger map
+View [bicycle to work](https://maps.google.com/maps/ms?msa=0&msid=217310242381509123565.0004be614ac03a09552bf&ie=UTF8&t=m&ll=35.590598,139.711075&spn=0.167513,0.102997&z=12&source=embed) in a larger map

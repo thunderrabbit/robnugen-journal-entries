@@ -11,7 +11,7 @@ tags: [ "programming" ]
 
 I've realized that the obtuse requirements for a certain report will be a lot easier to create with temporary tables.
 
-While digging around for info on temp tables, I found this [gem of an DB example](http://blog.brianhartsock.com/2009/02/04/using-mysql-temporary-tables-to-save-your-brain/) by Brian Hartsock:
+While digging around for info on temp tables, I found this [gem of an DB example](https://blog.brianhartsock.com/2009/02/04/using-mysql-temporary-tables-to-save-your-brain/) by Brian Hartsock:
 
 
     

@@ -31,7 +31,7 @@ junk, and so my landlord can show the property.  I've lived there 10.5
 years, through 4 different owners.  Wow.
 
 <p><li>Tax Day is coming up!  I'm doing my taxes online at <a 
-href="http://www.turbotax.com">www.turbotax.com</a>.  I'm hopefully going 
+href="https://www.turbotax.com">www.turbotax.com</a>.  I'm hopefully going 
 to get a good refund.
 
 <p><li>Wende has been looking at refrigerators, washers-n-dryers, and 

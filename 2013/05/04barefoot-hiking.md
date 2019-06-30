@@ -27,7 +27,7 @@ According to Travis's pedometer, he walked 28,000 steps. My pedometer app said 2
 
 
 
-The four kanji are the name of the tunnel.  As best I can tell, they mean "stone collapse tunnel"  [石崩隧道](http://translate.google.com/#ja/en/%E7%9F%B3%E5%B4%A9%E9%9A%A7%E9%81%93)
+The four kanji are the name of the tunnel.  As best I can tell, they mean "stone collapse tunnel"  [石崩隧道](https://translate.google.com/#ja/en/%E7%9F%B3%E5%B4%A9%E9%9A%A7%E9%81%93)
 
 [![20130504-162018.jpg](/images/2013/05/20130504-162018.jpg)](/images/2013/05/20130504-162018.jpg)
 

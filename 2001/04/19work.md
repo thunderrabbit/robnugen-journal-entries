@@ -27,7 +27,7 @@ that will tell me how to fix it.</p>
 <p class=date>6:54pm</p>
 
 <p>Okay.  I found <a
-href="http://www.hidcorp.com/">www.hidcorp.com</a>,
+href="https://www.hidcorp.com/">www.hidcorp.com</a>,
 and I called them.  They said that a slight bend in
 the wires could cause it to not function.</p>
 

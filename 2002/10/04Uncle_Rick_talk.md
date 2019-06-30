@@ -15,7 +15,7 @@ miscommunication problem.  But he still says comeon over any time I
 want.  So awesome.  I'm sorry that I didn't plan ahead well
 enough.</p>
 
-<p>He told me about <a href="http://www.t-mobile.com">t-mobile</a>,
+<p>He told me about <a href="https://www.t-mobile.com">t-mobile</a>,
 which apparently offers a tri-band phone that can be used all over the
 world for $60/month or so.  I will certainly be getting a new phone
 when I slide over to Japan next year.  I wonder if people will be able

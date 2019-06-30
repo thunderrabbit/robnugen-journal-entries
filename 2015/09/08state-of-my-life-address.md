@@ -9,7 +9,7 @@ date: 2015-09-08T19:01:43+09:00
 
 1. Maybe the biggest overall thing, which I *hope* will become a big
    thing in the future: In October, I'm going to staff a NWTA in
-   Perth, with other men from http://mkp.org
+   Perth, with other men from https://mkp.org
 1. I have my plane tickets and all other costs are covered cause I'm
 coming from overseas.
 1. I just bought a soft plastic stackable brick toy set for Lin's

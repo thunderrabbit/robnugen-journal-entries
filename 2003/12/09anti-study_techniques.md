@@ -18,17 +18,17 @@ date: 2003-12-09
   dictionary had and they show slightly different stroke orders.
   Dammit.</p>
 
-<p><img src="http://www.yamasa.cc/doc/kanjidic.nsf/5154_ani.gif">
-<a href="http://www.yamasa.cc/doc/kanjidic.nsf/5154_ani.gif">咯</a>
-from <a href="http://www.yamasa.cc/">http://www.yamasa.cc/</a>
+<p><img src="https://www.yamasa.cc/doc/kanjidic.nsf/5154_ani.gif">
+<a href="https://www.yamasa.cc/doc/kanjidic.nsf/5154_ani.gif">咯</a>
+from <a href="https://www.yamasa.cc/">https://www.yamasa.cc/</a>
 
-<p><img src="http://www.yamasa.cc/doc/kanjidic.nsf/2553_ani.gif">
-<a href="http://www.yamasa.cc/doc/kanjidic.nsf/2553_ani.gif">长</a>
-from <a href="http://www.yamasa.cc/">http://www.yamasa.cc/</a>
+<p><img src="https://www.yamasa.cc/doc/kanjidic.nsf/2553_ani.gif">
+<a href="https://www.yamasa.cc/doc/kanjidic.nsf/2553_ani.gif">长</a>
+from <a href="https://www.yamasa.cc/">https://www.yamasa.cc/</a>
 
-<p><img src="http://members.aol.com/rtdrpt/kanji/55-06a7b.gif">
-<a href="http://members.aol.com/rtdrpt/kanji/55-06a7b.gif">长</a>
-from <a	href="http://members.aol.com/rtdrpt/kanji/">http://members.aol.com/rtdrpt/kanji/</a>
+<p><img src="https://members.aol.com/rtdrpt/kanji/55-06a7b.gif">
+<a href="https://members.aol.com/rtdrpt/kanji/55-06a7b.gif">长</a>
+from <a	href="https://members.aol.com/rtdrpt/kanji/">https://members.aol.com/rtdrpt/kanji/</a>
 
 <p>(images used without permission)</p>
 

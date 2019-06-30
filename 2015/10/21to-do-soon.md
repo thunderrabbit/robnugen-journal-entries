@@ -20,5 +20,5 @@ date: 2015-10-21T19:17:11+09:00
 1. Do some tickets for CB site
 1. Hmm maybe do some tickets for my own site
 1. Create tickets for my site on bitbucket or github
-1. ~~Convert json word list to mysql~~ wow http://sqlizer.io is pretty neat
+1. ~~Convert json word list to mysql~~ wow https://sqlizer.io is pretty neat
 1. Post to my journal the notes I wrote during trip

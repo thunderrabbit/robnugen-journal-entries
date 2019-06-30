@@ -9,7 +9,7 @@ date: 1999-12-19
 
 <p>Today at work, with significant help from David and Brian, we got all our DSL related problems solved, except we still can't send email.  Brian believes it's cause our ISP didn't set up our reverse-DNS-lookup tables.  We can ask for the IP address of a machine name, but not for the machine name of one of our IP addresses.
 
-<p>Then I helped Liz at <a href="http://www.blanketstoyou.com">Blankets To You</a> get set up on a new ISP.  Didn't actually get her set up yet, but began the process of getting her account created there.  She'll have a real shopping cart once it's complete!
+<p>Then I helped Liz at <a href="https://www.blanketstoyou.com">Blankets To You</a> get set up on a new ISP.  Didn't actually get her set up yet, but began the process of getting her account created there.  She'll have a real shopping cart once it's complete!
 
 <p>Bought Taco Bell on the way home and met Wende at my house.  We ate and she talked about her day and then I went to Ultimate at 10:35pm.
 

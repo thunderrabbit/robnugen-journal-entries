@@ -11,11 +11,11 @@ date: 2002-12-06
 
 <p>Thanks to Marcel's suggestion, buried in a tome of wit, I figured
 out how to <a
-href="http://www.macosxhints.com/article.php?story=20020708094743450">change
+href="https://www.macosxhints.com/article.php?story=20020708094743450">change
 the port that OS X mail app uses to send mail</a> because Kinko's has
 blocked port 25.</p>
 
-<p>I also therefore had to see how to tell robnugen.com to <a href="http://www.sendmail.org/~gshapiro/8.10.Training/DaemonPortOptions.html">use another
+<p>I also therefore had to see how to tell robnugen.com to <a href="https://www.sendmail.org/~gshapiro/8.10.Training/DaemonPortOptions.html">use another
 port to listen to email</a>.</p>
 
 <p>Searched for DaemonPortOptions in the sendmail.cf and found that an

@@ -34,9 +34,9 @@ Al Souwara village raided once
 Beit Jala raided twice
 16 taken to unknown locations by the Israeli army.
 
-[www.palestinecampaign.org](http://www.palestinecampaign.org/)
-[www.bigcampaign.org.uk](http://www.bigcampaign.org.uk/)
-[www.enoughoccupation.org](http://www.enoughoccupation.org/)
+[www.palestinecampaign.org](https://www.palestinecampaign.org/)
+[www.bigcampaign.org.uk](https://www.bigcampaign.org.uk/)
+[www.enoughoccupation.org](https://www.enoughoccupation.org/)
 
 Sx
 P.S. It was 23ºC here yesterday, spring in Palestine is beautiful!

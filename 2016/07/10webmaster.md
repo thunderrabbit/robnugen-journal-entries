@@ -7,7 +7,7 @@ date: 2016-07-10T22:23:36+09:00
 
 ## 22:23 Sunday 10 July 2016 JST
 
-Hello [MegaMaker](http://megamaker.co/challenge/).  Interesting challenge!
+Hello [MegaMaker](https://megamaker.co/challenge/).  Interesting challenge!
 
 Yep, I remember when we were [Webmasters instead of designers and junk](https://justinjackson.ca/webmaster/).
 

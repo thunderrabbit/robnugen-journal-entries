@@ -36,8 +36,8 @@ but I just haven't moved them to my site yet.  They are from this
 weekend.</p></li>
 
 <li><p>I've been pretty impressed lately with <a
-href="http://www.yahoo.com">yahoo!</a> and <a
-href="http://www.google.com">google.com</a>.  Yahoo! not for its
+href="https://www.yahoo.com">yahoo!</a> and <a
+href="https://www.google.com">google.com</a>.  Yahoo! not for its
 search engine, but for all the other services that they have pretty
 seamlessly rolled into a nice huge ball.  Google for its search engine
 and <em>caching</em> of every webpage it indexes!</p></li>

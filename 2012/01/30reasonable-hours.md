@@ -7,7 +7,7 @@ tags: [ "journal" ]
 
 ##21:12 Monday 30 January 2012
 
-Though I forgot to get photographic evidence, Lin and I ate soup in [Shinagawa](http://en.wikipedia.org/wiki/Shinagawa_Station) at Soup Stock in eCute.  It's super nice to be on a more normal schedule; I went in from 10am to 7pm today.  Much better than 7am to 10pm!
+Though I forgot to get photographic evidence, Lin and I ate soup in [Shinagawa](https://en.wikipedia.org/wiki/Shinagawa_Station) at Soup Stock in eCute.  It's super nice to be on a more normal schedule; I went in from 10am to 7pm today.  Much better than 7am to 10pm!
 
  
 

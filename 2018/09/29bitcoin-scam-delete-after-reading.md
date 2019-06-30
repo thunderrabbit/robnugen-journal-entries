@@ -62,7 +62,7 @@ addresses.
 * https://www.reddit.com/r/Scams/comments/9j5mqg/im_a_member_of_an_international_hacker_group/
 * https://www.itsc.cuhk.edu.hk/en-gb/it-announcement/is-alerts-news-and-events/2018/884-phishing-20180928b
 * https://itnerd.blog/2018/09/26/a-brand-new-extortion-phishing-scam-is-making-the-rounds-heres-how-not-to-become-a-victim/
-* http://www.consumerblitz.com/account-issue-extortion-attempt/
+* https://www.consumerblitz.com/account-issue-extortion-attempt/
 * https://linustechtips.com/main/topic/975917-first-of-the-ncix-leaked-info-scam-letters-going-out/
 * https://www.weston-tech.com/blog/entry/don-t-pay-for-the-password-blackmail-scam-but-do-change-your-passwords
 * https://www.schneier.com/blog/archives/2018/07/reasonably_clev.html

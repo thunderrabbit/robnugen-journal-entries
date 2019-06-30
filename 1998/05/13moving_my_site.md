@@ -30,4 +30,4 @@ date: 1998-05-13
 
 <p>Once those pages all get fixed, the rest is smooth sailin'.
 
-<p>So, if you have a link to my page, please make it http://www.geocities.com/~thunderrabbit/</p>
+<p>So, if you have a link to my page, please make it https://www.geocities.com/~thunderrabbit/</p>

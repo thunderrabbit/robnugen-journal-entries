@@ -49,7 +49,7 @@ ages (15 years?) ago.
 <br />私たちこれから　いいところ
 
 I love the sound of 島唄, but it's
-[about](http://www.dailyonigiri.com/2009/08/japanese-song-shima-uta/)
+[about](https://www.dailyonigiri.com/2009/08/japanese-song-shima-uta/)
 [WW2](https://matome.naver.jp/odai/2137646585772178801/2137647046975078703).
 
 {{< youtube NeNbLzkrozI >}}

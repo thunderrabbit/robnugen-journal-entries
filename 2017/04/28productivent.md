@@ -72,7 +72,7 @@ Ah crap, you don't exist yet.
 ## 16:39 Friday 28 April 2017 JST
 
 Yes yes, something like this
-http://stackoverflow.com/questions/34444506/vagrant-multi-machine-provisioning
+https://stackoverflow.com/questions/34444506/vagrant-multi-machine-provisioning
 
 ## 16:48 Friday 28 April 2017 JST
 
@@ -123,7 +123,7 @@ Moe Joe.  Everything was going fine until install mysql.
 
 ## 22:30 Friday 28 April 2017 JST
 
-Thanks to this http://stackoverflow.com/a/32620242/194309 for getting
+Thanks to this https://stackoverflow.com/a/32620242/194309 for getting
 past that error.  (Needed to give more than 256MB memory to the
 machine.  I gave it 512MB and it worked.)
 

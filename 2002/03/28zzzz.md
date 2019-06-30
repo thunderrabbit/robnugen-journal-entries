@@ -15,7 +15,7 @@ conersations with her seem to always fill me to
 overflowing with goodness.</p>
 
 <p>I had called her a couple days ago after my <a
-href='http://www.thewealthsource.com'>personal
+href='https://www.thewealthsource.com'>personal
 coach</a> encourage me to get in contact with someone
 who could act as a spiritual mentor for me.   Char is
 the first person who came to mind.</p>

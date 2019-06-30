@@ -8,7 +8,7 @@ date: 2015-07-11T19:48:24+09:00
 ## 19:48 Saturday 11 July 2015 JST
 
 [Redmine Q on
-superuser](http://superuser.com/questions/939251/how-where-does-redmine-calculate-store-spent-time)
+superuser](https://superuser.com/questions/939251/how-where-does-redmine-calculate-store-spent-time)
 took more time to research and write than to just rewrite all the time
 entries (there are 9), but fuckit; what if I had a million entries?
 or a quadrillion? (*)

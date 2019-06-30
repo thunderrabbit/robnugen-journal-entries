@@ -100,7 +100,7 @@ discs and people. I spent a great deal of time talking with the owner
 about various CD stuff, and told him my CD purchases were at an all
 time low as I am getting ready for my trip in August. We talked about
 the importance of exploration during life and following one's dream.
-Pretty cool guy; I got his email and URL <a href=http://www.technophilia.com>www.technophilia.com</a>
+Pretty cool guy; I got his email and URL <a href=https://www.technophilia.com>www.technophilia.com</a>
 <p>
 Then to Tower Records, huge two story ceiling, rows and rows of
 popular CDs and then some oldies and techno and imports.  I just

@@ -19,7 +19,7 @@ info research, I looked for basics: minimum balance, cost per trade,
 can we fund the account with cash or checks?, can we write checks from
 the account?
 
-<p>I'm leaning towards <a href="http://www.waterhouse.com">TD
+<p>I'm leaning towards <a href="https://www.waterhouse.com">TD
 Waterhouse</a>.  They have checkwriting, initial balance of only
 $1000, $12 per trade, and local office in the Galleria area.
 

@@ -57,7 +57,7 @@ SO, I don't know if any of what I wrote (YRUU is great) still applies, but I sor
 
 It ain't UUism's fault; people who weren't raised UU may not be ready for spontaneous puppy piles.
 
-[http://veryjoeandbullish.blogspot.jp/2012/03/joy-of-life-puppy-pile.html](http://veryjoeandbullish.blogspot.jp/2012/03/joy-of-life-puppy-pile.html)
+[https://veryjoeandbullish.blogspot.jp/2012/03/joy-of-life-puppy-pile.html](https://veryjoeandbullish.blogspot.jp/2012/03/joy-of-life-puppy-pile.html)
 
 **5. Describe Unitarian Universalist congregations in three words:**
 

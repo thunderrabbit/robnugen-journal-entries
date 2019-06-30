@@ -9,9 +9,9 @@ date: 1998-11-13
 
 <p class=date>12:34 am Friday 13 November 1998</p>
 
-<p>Back in about May, I signed up with <a href="http://www.flash.net">FlashNet</a> as my ISP.  I have absolutely loved their service and customer support.
+<p>Back in about May, I signed up with <a href="https://www.flash.net">FlashNet</a> as my ISP.  I have absolutely loved their service and customer support.
 
-<p>In about July or so, I became an Independent FlashNet Representative, which means I can sell FlashNet's internet service to people, and I even set up an <a href="http://www.mrlaboratories.com/flashnet/index.html">online</a> registration form.
+<p>In about July or so, I became an Independent FlashNet Representative, which means I can sell FlashNet's internet service to people, and I even set up an <a href="https://www.mrlaboratories.com/flashnet/index.html">online</a> registration form.
 
 <p>Since then, I have sold 4 accounts, just to my friends and family who happen to need internet access.
 
@@ -26,7 +26,7 @@ date: 1998-11-13
 <p>Amazing!
 
 <p>If you know anyone who needs internet access, send them to my 
-<a href="http://www.mrlaboratories.com/flashnet/index.html">form</a>!
+<a href="https://www.mrlaboratories.com/flashnet/index.html">form</a>!
 
 <p><hr width="20%" align="left">
 

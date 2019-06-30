@@ -9,7 +9,7 @@ tags: [ "astronomy", "technology" ]
 
 > How We'll Get Back to the Moon
 
-[NASA - How We'll Get Back to the Moon](http://www.nasa.gov/missions/solarsystem/cev.html)
+[NASA - How We'll Get Back to the Moon](https://www.nasa.gov/missions/solarsystem/cev.html)
 
 This looks pretty cool. I'm intrigued by the cargo and crew launching separately, but I guess it makes sense to keep the crew away from the heavier launch thing. It will be interesting to see how they will handle disruptions in launching the second vehicle. If the first one is in orbit and then the second can't be launched, how long can the first one stay in orbit to wait?  
 

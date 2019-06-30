@@ -18,7 +18,7 @@ from our home office DSL locations.
 <p>I think now I'm essentially on track and can get some stuff done.
 
 <p>Oh!  Laura is coming over at 7pm!  She's my lovely friend from The Castle
-of Dreams who invited me over to <a href="http://www.geeky-boy.com">BBST</a>
+of Dreams who invited me over to <a href="https://www.geeky-boy.com">BBST</a>
 
 <p>It will be fun to say HI to her.
 

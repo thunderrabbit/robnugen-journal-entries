@@ -12,9 +12,9 @@ date: 2000-12-24
 sixty-four rings.  It just got the sixth ring off the big stack.</p>
 
 <p><a
-href="http://writing.colostate.edu/assignments/archives/me514/lab2.htm">http://writing.colostate.edu/assignments/archives/me514/lab2.htm</a>
+href="https://writing.colostate.edu/assignments/archives/me514/lab2.htm">https://writing.colostate.edu/assignments/archives/me514/lab2.htm</a>
 
-<p><a href="http://shrike.depaul.edu/~jmak/java/contest.html">Here</a>
+<p><a href="https://shrike.depaul.edu/~jmak/java/contest.html">Here</a>
 is an applet that solves the puzzle, so you can see what I'm talking
 about.  Please note that while the rings on this java applet instantly
 move from one stack to another, the rings on the lovely emacs version

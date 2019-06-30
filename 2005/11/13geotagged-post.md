@@ -7,7 +7,7 @@ tags: [ "internet" ]
 
 ##01:36 Sunday 13 November 2005
 
-This is the first post I've written after installing [Ravi's GeoPress - Wordpress Plugin for tagging your posts with location](http://www.dronamraju.com/blog/2005/11/geopress-wordpress-plugin-for-tagging-your-posts-with-location-info.html).  I have put my West Gray address below this entry, and labled it 1211WGray.  Clicked Embed Map and Save this location.
+This is the first post I've written after installing [Ravi's GeoPress - Wordpress Plugin for tagging your posts with location](https://www.dronamraju.com/blog/2005/11/geopress-wordpress-plugin-for-tagging-your-posts-with-location-info.html).  I have put my West Gray address below this entry, and labled it 1211WGray.  Clicked Embed Map and Save this location.
 
 Now clicking publish....
 

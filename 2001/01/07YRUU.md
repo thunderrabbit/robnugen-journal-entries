@@ -42,7 +42,7 @@ received about 30 registration forms so far, and 10 confirmations
 otherwise.</p>
 
 <p>Today I added a text version of the registration form to the <a
-href="http://swd.yruu.org">website</a>, and sent out an email via
+href="https://swd.yruu.org">website</a>, and sent out an email via
 Listbot to 87 email addresses on that list.</p>
 
 <p><img src='/images/rob/wL-ROB.gif'/></p>

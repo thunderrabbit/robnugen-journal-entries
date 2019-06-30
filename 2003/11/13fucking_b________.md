@@ -8,7 +8,7 @@ date: 2003-11-13
 <p class=date>12:44am JST Friday 14 November 2003</p>
 
 <p>From <a
-href="http://www.cbsnews.com/stories/2003/09/17/entertainment/main573729.shtml">CBSnews.com</a></p>
+href="https://www.cbsnews.com/stories/2003/09/17/entertainment/main573729.shtml">CBSnews.com</a></p>
 
 <pre>
 FCC OKs Bono's F-Word  Slip

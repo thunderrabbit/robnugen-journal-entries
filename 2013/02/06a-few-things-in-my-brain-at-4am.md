@@ -29,33 +29,33 @@ Every time we greet each other, we bark up a storm (why'd I use "up a storm" her
 
 - - - -
 
-For the past month or so, I've been nearly daily reading [Hacker News](http://news.ycombinator.com/), and at the bottom of one of the stories, I saw something like "rilakkumaaaaaaaa likes this."  I thought "oh, that's from [リラックマ](https://www.san-x.co.jp/rilakkuma/)," some bear character whose name comes from the combination of "relax" meaning relax in English, and "kuma" a transliteration for the word that means bear in Japanese.
+For the past month or so, I've been nearly daily reading [Hacker News](https://news.ycombinator.com/), and at the bottom of one of the stories, I saw something like "rilakkumaaaaaaaa likes this."  I thought "oh, that's from [リラックマ](https://www.san-x.co.jp/rilakkuma/)," some bear character whose name comes from the combination of "relax" meaning relax in English, and "kuma" a transliteration for the word that means bear in Japanese.
 
 [![Screen Shot 2013-02-06 at 4.49.38 AM](/images/2013/02/Screen-Shot-2013-02-06-at-4.49.38-AM.png)](/images/2013/02/Screen-Shot-2013-02-06-at-4.49.38-AM.png)
 
-I translate their names as "yellow bird," "baby relax bear," and "relax bear."  I guess the names are as good as "big bird," "cookie monster," and "oscar the grouch."   (But *not* as good as [Snuffleupagus](http://en.wikipedia.org/wiki/Mr._Snuffleupagus).)
+I translate their names as "yellow bird," "baby relax bear," and "relax bear."  I guess the names are as good as "big bird," "cookie monster," and "oscar the grouch."   (But *not* as good as [Snuffleupagus](https://en.wikipedia.org/wiki/Mr._Snuffleupagus).)
 
-But so anyway, I clicked the [link to Rilakkumaaa...aa's page](http://rilakkumaaaaaaaa.tumblr.com/), and I liked its content enough to come back a few times.   The author seems to post stories that have been posted by others (of stories that have been posted by others (of stories that have been posted by others (...))).  I clicked around in the group of cross posters and found an interesting style of animated images that I had not previously seen.
+But so anyway, I clicked the [link to Rilakkumaaa...aa's page](https://rilakkumaaaaaaaa.tumblr.com/), and I liked its content enough to come back a few times.   The author seems to post stories that have been posted by others (of stories that have been posted by others (of stories that have been posted by others (...))).  I clicked around in the group of cross posters and found an interesting style of animated images that I had not previously seen.
 
 I'm not sure if I can capture them here in the same way, but I'd describe them as multiple panels of the same scene, taken from (slightly) different points of view, in slightly different points of time.
 
 Because a lot of the sites had a lot of these types of animation sets, I wonder who produced the animations in the first place?  Okay, yes, obviously they gifs made from videos, but who takes the time to clip out slightly different time segments possibly from different cameras and paste them together in an easily posted format?
 
-Here's the apparent source of one photoset that's been reposted more than a few times: [http://sarangtaeyeon.tumblr.com/post/31577460442/tiffany-mirror-mirror-who-is-the-prettiest-in](http://sarangtaeyeon.tumblr.com/post/31577460442/tiffany-mirror-mirror-who-is-the-prettiest-in)
+Here's the apparent source of one photoset that's been reposted more than a few times: [https://sarangtaeyeon.tumblr.com/post/31577460442/tiffany-mirror-mirror-who-is-the-prettiest-in](https://sarangtaeyeon.tumblr.com/post/31577460442/tiffany-mirror-mirror-who-is-the-prettiest-in)
 
 [![tumblr_madwgsqmAr1ruwgl1o1_r1_250](/images/2013/02/tumblr_madwgsqmAr1ruwgl1o1_r1_250.gif)](/images/2013/02/tumblr_madwgsqmAr1ruwgl1o1_r1_250.gif) [![tumblr_madwgsqmAr1ruwgl1o2_r1_250](/images/2013/02/tumblr_madwgsqmAr1ruwgl1o2_r1_250.gif)](/images/2013/02/tumblr_madwgsqmAr1ruwgl1o2_r1_250.gif) [![tumblr_madwgsqmAr1ruwgl1o3_250](/images/2013/02/tumblr_madwgsqmAr1ruwgl1o3_250.gif)](/images/2013/02/tumblr_madwgsqmAr1ruwgl1o3_250.gif) [![tumblr_madwgsqmAr1ruwgl1o4_250](/images/2013/02/tumblr_madwgsqmAr1ruwgl1o4_250.gif)](/images/2013/02/tumblr_madwgsqmAr1ruwgl1o4_250.gif)
 
-While downloading them to post here, I noted the tag #akb48, which I assume means these girls are in the currently popular group [AKB48](http://en.wikipedia.org/wiki/AKB48#Reception), of which I know very little except they've got a lot of fans.  One or more of them must have created these images.   Thank you, people, for making an interesting visual effect!
+While downloading them to post here, I noted the tag #akb48, which I assume means these girls are in the currently popular group [AKB48](https://en.wikipedia.org/wiki/AKB48#Reception), of which I know very little except they've got a lot of fans.  One or more of them must have created these images.   Thank you, people, for making an interesting visual effect!
 
 - - - -
 
-At work, we've been migrating our dev boxes and some smaller client sites to [AWS](http://aws.amazon.com/).  I've been updating to our latest style framework the back-end website for sending newsletters to people.  The system now uses Amazon SES.  We plan to test-move our larger clients to AWS within a couple months.
+At work, we've been migrating our dev boxes and some smaller client sites to [AWS](https://aws.amazon.com/).  I've been updating to our latest style framework the back-end website for sending newsletters to people.  The system now uses Amazon SES.  We plan to test-move our larger clients to AWS within a couple months.
 
 I had a client request conversion of a field from a text field to a dropdown list (because she prefers mouse over keyboard).   I looked at the data and found over 200 different values in the database and advised against such a change.  "I don't think you'll be very happy with a 210-item drop down list, esp if you have to visit a different page to add items."
 
 - - - -
 
-I've been using [trello](https://trello.com/) to keep track of little "next steps" in my projects both at home and work.  These may include notes to self to help my brain get back on track in the morning, and to protect against memory loss when being [inter](http://www.hadermann.be/blog/46/the-hidden-cost-of-interrupting-knowledge-workers/)[rupted](http://blog.ninlabs.com/2013/01/programmer-interrupted/). My list to start "tomorrow" (it's now 5:30am on said day) looks like this.
+I've been using [trello](https://trello.com/) to keep track of little "next steps" in my projects both at home and work.  These may include notes to self to help my brain get back on track in the morning, and to protect against memory loss when being [inter](https://www.hadermann.be/blog/46/the-hidden-cost-of-interrupting-knowledge-workers/)[rupted](https://blog.ninlabs.com/2013/01/programmer-interrupted/). My list to start "tomorrow" (it's now 5:30am on said day) looks like this.
 
 [![Screen Shot 2013-02-06 at 5.54.25 AM](/images/2013/02/Screen-Shot-2013-02-06-at-5.54.25-AM.png)](/images/2013/02/Screen-Shot-2013-02-06-at-5.54.25-AM.png)
 

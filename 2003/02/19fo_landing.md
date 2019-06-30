@@ -42,7 +42,7 @@ Congratulations on JAPAN! I feel know you will do well.<br>
 Here's a different view to "Melvin Riley's" web site.<br>
 (lead singer of Ready for The World)<br>
 <br>
-http://artists.mp3s.com/artists/74/melvin_riley.html<br>
+https://artists.mp3s.com/artists/74/melvin_riley.html<br>
 (pics & music w/ Jamie Foxx)<br>
 I promised to send you a CD<br>
 so let me know how.<br>

@@ -11,7 +11,7 @@ date: 2001-10-20
 house outing was a graduate student named Fred, who's
 getting a PhD in physics at Rice now.  I had ridden my
 bike to the station, so we took his car to <a
-href="http://www.darke.com">Phobia</a>, which boasted
+href="https://www.darke.com">Phobia</a>, which boasted
 a somewhat long line and two haunted houses at the
 Kirby location.  (3 years ago they just had 1 haunted
 house there)</p>

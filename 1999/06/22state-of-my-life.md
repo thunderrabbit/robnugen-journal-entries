@@ -13,7 +13,7 @@ date: 1999-06-22
 
 <p><li>Right at this moment I am missing KTRU.  I'm scheduled to be there, but I'm at work.  Super duper special thanks to Aline for covering for me.  Unfortunately, I won't be able to KTRU (KTRU is a verb) next week either; I'll be in Salt Lake City!</li>
 
-<p><li>I got a job. I'm making $13/hour doing Y2K compliance type stuff.  That amount looks pitiful, but I was making nothing otherwise, or not much.  Dude and I got a nice phat $900 each for a website we worked on (<a href="http://www.frontofficeautomation.com">www.frontofficeautomation.com</a>) but I'm not super impressed with the site.  Our guy won't give us content to put on the site!</li>
+<p><li>I got a job. I'm making $13/hour doing Y2K compliance type stuff.  That amount looks pitiful, but I was making nothing otherwise, or not much.  Dude and I got a nice phat $900 each for a website we worked on (<a href="https://www.frontofficeautomation.com">www.frontofficeautomation.com</a>) but I'm not super impressed with the site.  Our guy won't give us content to put on the site!</li>
 
 <p><li>So anyway the job I'm at (Dude is here too) is nearly pointless.  This company (call it KZ) is still doing inventory of their stuff, which was originally scheduled to be completed 31 Dec 1998.  The technique is pretty wack as well.  KZ has offices all over the world, and has asked all their offices to send an excel spreadsheet of all their stuff that might be affected.   Here at KZ headquarters, they receive an excel spreadsheet, cut and paste columns of fields into a different-formatted excel spreadsheet, then import the spreadsheets into MS Access running a program called Tracker.
 
@@ -35,7 +35,7 @@ date: 1999-06-22
 
 <p>Wow. I really love being healthy.</li>
 
-<p><li>Jen is in town again!  She's going to move to Houston in like August or something, and now she's here to look for a homestead and network for jobs and stuff.  Also, we are going to Salt Lake City for a week starting Thursday!  This is for a large <a href="http://www.uua.org">UU</a> conference called General Assembly, actually at which Wende and I met Jen last year in Rochester New York. (I think I never finished those entries did I?)  Anyway, we're going to SLC, and will make a side trip to visit Lagoon Beach (or something) where they have a few roller coasters and fun stuff!!</li>
+<p><li>Jen is in town again!  She's going to move to Houston in like August or something, and now she's here to look for a homestead and network for jobs and stuff.  Also, we are going to Salt Lake City for a week starting Thursday!  This is for a large <a href="https://www.uua.org">UU</a> conference called General Assembly, actually at which Wende and I met Jen last year in Rochester New York. (I think I never finished those entries did I?)  Anyway, we're going to SLC, and will make a side trip to visit Lagoon Beach (or something) where they have a few roller coasters and fun stuff!!</li>
 
 <p><li>Wow big storm cloud moving in.</li>
 

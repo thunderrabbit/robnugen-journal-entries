@@ -17,7 +17,7 @@ happened, but the fix was easy: specify which table to use for a
 particular field.  I guess it would be smart to do that by default.
 
 Tariq and I released the first version of
-[Pongdemonium](http://com759.wix.com/chatforestgames)!  I immediately
+[Pongdemonium](https://com759.wix.com/chatforestgames)!  I immediately
 see that it needs levels and varied gameplay to get any traction.
 
 To do today:

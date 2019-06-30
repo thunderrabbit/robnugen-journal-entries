@@ -47,6 +47,6 @@ food that is sold by weight).  I'm sure there are one or two or a
 million-jillion more possibilities for the technology.</p>
 
 <p>I read about it <a
-href="http://uk.news.yahoo.com/030523/36/e0npu.html">here</a>.  For
+href="https://uk.news.yahoo.com/030523/36/e0npu.html">here</a>.  For
 the record, I predicted individual bills would eventually be
 scanned/monitored.</p>

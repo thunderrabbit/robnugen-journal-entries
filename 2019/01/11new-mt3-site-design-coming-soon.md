@@ -25,9 +25,9 @@ One thing Jimmy noted was they used a hexagon motif where circles
 would be more appropriate.  I spent a couple hours trying to reverse
 engineer SVG paths
 
-Thanks to http://svghelper.com/ for helping me create this shape
+Thanks to https://svghelper.com/ for helping me create this shape
 
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" version="1.1">
+<svg xmlns="https://www.w3.org/2000/svg" width="400" height="200" version="1.1">
   <path  d="M360,55 L169,55 C58,55 108,10 24,10 H0 V119 H360 V75 Z"></path>
 </svg>
 
@@ -82,7 +82,7 @@ I sent this response
 
 [![smooth curve for workers](//b.robnugen.com/art/marble_track_3/website/v2/thumbs/smooth_curve_for_workers.png)](//b.robnugen.com/art/marble_track_3/website/v2/smooth_curve_for_workers.png)
 
-    <svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" version="1.1">
+    <svg xmlns="https://www.w3.org/2000/svg" width="400" height="200" version="1.1">
       <path  d="M360,55 L169,55 C58,55 108,10 24,10 H0 V119 H360 V75 Z"></path>
     </svg>
 

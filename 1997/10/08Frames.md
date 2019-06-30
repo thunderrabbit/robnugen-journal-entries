@@ -12,6 +12,6 @@ Today I added frames to my website! My <a href=../../skate/frame.html>Wild Skati
 <p>
 I certainly don't know if it's any better this way, but now I've had practice with making some simple frames, and I'm happy.
 <p>
-I learned all about how to do it at a great HTML tutorial site: <a href=http://www.htmlgoodies.com>www.htmlgoodies.com</a>!
+I learned all about how to do it at a great HTML tutorial site: <a href=https://www.htmlgoodies.com>www.htmlgoodies.com</a>!
 <p>
 

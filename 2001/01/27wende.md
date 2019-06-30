@@ -18,7 +18,7 @@ normally sell books and microwaves and stuff.  $10
 dollar item type things.</p>
 
 <p>I told her the Audi may be better sold in <a
-href="http://www.theluxurysource.com">The Robb
+href="https://www.theluxurysource.com">The Robb
 Report</a>, and she didn't know what that is.  "It's
 where rich people buy and sell things.  They sell
 helicopters and islands in The Robb Report."</p>

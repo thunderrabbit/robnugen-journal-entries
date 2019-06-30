@@ -12,7 +12,7 @@ while talking with Dude up in Eugene Oregon.  He's got a personalized
 home phone number again.</p>
 
 <p>Josephine watched Muppet Christmas while Jack computered.  He got a
-new email address at <a href="http://www.gohip.com">gohip.com</a>.
+new email address at <a href="https://www.gohip.com">gohip.com</a>.
 When Janette was all, "Jojo, you have school tomorrow," Joey was all,
 "<em>I</em> don't have to go to school, <em>you</em> have to go to
 school!"  So funny!</p>

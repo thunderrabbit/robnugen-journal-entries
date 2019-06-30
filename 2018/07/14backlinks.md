@@ -11,7 +11,7 @@ I keep getting spammed by people looking for backlinks.
 
 > Heyyy Rob,
  
-> So this is super random... but stick with me. I know you're familiar with a tool called Trello because you linked to the Trello website from this page: http://robnugen.com/blog/2013/02/06/a-few-things-in-my-brain-at-4am/
+> So this is super random... but stick with me. I know you're familiar with a tool called Trello because you linked to the Trello website from this page: https://robnugen.com/blog/2013/02/06/a-few-things-in-my-brain-at-4am/
  
 > I'm a huge fan of the platform so I thought I'd give you a heads up about a review I just published on it. It's 3,000+ words long and very thorough. You can see it here: (REDACTED)
  

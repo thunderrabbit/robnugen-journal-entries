@@ -18,7 +18,7 @@ opposite corners, and if the dots are teleports, and if the paths are
 either the black paths or the swirly paths, I can solve it by using a
 single teleport.
 
-I wrote its permanlink to be http://art.robnugen.com/otm, without
+I wrote its permanlink to be https://art.robnugen.com/otm, without
 checking it first.  I figure I can add a character if necessary but it
 turns out it's available.  No surprise because I haven't got *that* many
 pieces yet..

@@ -46,7 +46,7 @@ only that deep, so it can't hold like 10 zombies; maybe only 2 or 3."
 Another zombie came and we led it to drop into the hole, but then as I
 left, the zombie climbed out and said thank you.  I told my friend I
 had never heard them speak before, so I wasn't sure what that was.
-Then I remembered [MJGs book](http://www.amazon.com/dp/B00VQH040M) and
+Then I remembered [MJGs book](https://www.amazon.com/dp/B00VQH040M) and
 thought I wonder if they're safe now, and asked my friend if they were
 safe, and he guessed they might be. I was like, Okay you go first" and
 he laughed.  I went back toward the zombie who had been able to climb

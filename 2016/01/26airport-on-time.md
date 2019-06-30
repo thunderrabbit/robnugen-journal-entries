@@ -17,4 +17,4 @@ people living in a cave.
 I still got a bomb, three hatchets, sarin gas containers, a katana, a
 cactus, and a 44 Magnum through the security gate.
 
-Let's make some http://wtc7.org stickers to paste all over the airport.
+Let's make some https://wtc7.org stickers to paste all over the airport.

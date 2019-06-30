@@ -82,7 +82,7 @@ brain is like, <em>holy shit, that puts me three people away from
 knowing Eminem.</em></p>
 
 <p>"What's the big fat hairy deal?" I can hear you asking (actually I
-can hear <a href="http://www.livejournal.com/users/saube/">Colleen</a>
+can hear <a href="https://www.livejournal.com/users/saube/">Colleen</a>
 saying that).</p>
 
 <p>Have you listened to his lyrics?  So funny and so creative and so

@@ -12,7 +12,7 @@ out, I've gotten sick more than she has this winter.
 Interesting.  Normally I don't get sick at all.  I'll
 be sleeping a lot today before KTRU tonight.  I still
 plan to go.  7pm - 9pm <a
-href="http://www.ktru.org/realaudio.html">here</a> you
+href="https://www.ktru.org/realaudio.html">here</a> you
 can listen.  Donna and I are sharing the shift again,
 so we are mostly alternating Saturdays, but I will be
 taking the next two (tonight and next week).</p>

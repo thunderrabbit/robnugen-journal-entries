@@ -9,6 +9,6 @@ tags: [ "news" ]
 
 > “The basic problem is that far more information lands on your eyes than you can possibly analyze and still end up with a reasonable sized brain,”
 
-[Change Blindness - Natalie Angier - New York Times](http://www.nytimes.com/2008/04/01/science/01angi.html?_r=1&oref=slogin)
+[Change Blindness - Natalie Angier - New York Times](https://www.nytimes.com/2008/04/01/science/01angi.html?_r=1&oref=slogin)
 
-This article is stuff I've seen/read before, but it includes a fun [test](http://www.nytimes.com/interactive/2008/03/31/science/20080331_ANGIER_GRAPHIC.html) of sorts.
+This article is stuff I've seen/read before, but it includes a fun [test](https://www.nytimes.com/interactive/2008/03/31/science/20080331_ANGIER_GRAPHIC.html) of sorts.

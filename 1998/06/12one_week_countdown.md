@@ -9,7 +9,7 @@ date: 1998-06-12
 
 <p class=date>11:45am Friday 12 June 1998</p>
 
-<p>So here I am at work, chillin' like Bob Dylan with one week left here. ("I'm just chillin' like Bob Dylan" is from Beastie Boys' "3-Minute Rule" from <em>Paul's Boutique</em> CD. (find lyrics at <a href="http://www.lyrics.ch/query/get?s=5822" target="new_win">www.lyrics.ch</a>) It's my favorite quote lately.)
+<p>So here I am at work, chillin' like Bob Dylan with one week left here. ("I'm just chillin' like Bob Dylan" is from Beastie Boys' "3-Minute Rule" from <em>Paul's Boutique</em> CD. (find lyrics at <a href="https://www.lyrics.ch/query/get?s=5822" target="new_win">www.lyrics.ch</a>) It's my favorite quote lately.)
 
 <p>So anyway, I'm here and have finished my current project and I have essentially nothing to do.  So I've been cleaning up my email inbox and forwarding to my personal account what messages I think I'll want to keep..  I'm listening to Beastie Boys right now (I was inspired by my top paragraph) and yeah.
 

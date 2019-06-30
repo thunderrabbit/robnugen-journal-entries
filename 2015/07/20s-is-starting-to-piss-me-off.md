@@ -26,5 +26,5 @@ Is there a suicide hotline in Tokyo?  He says he's going to kill
 himself, and I essentially give 0 fucks.
 
 Okay, I gave one; I sent him a
-[Japan-based suicide hotline number](http://www.suicide.org/hotlines/international/japan-suicide-hotlines.html).
+[Japan-based suicide hotline number](https://www.suicide.org/hotlines/international/japan-suicide-hotlines.html).
 I found it in English, but hopefully it's valid for Japanese as well.

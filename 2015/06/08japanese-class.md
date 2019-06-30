@@ -10,7 +10,7 @@ date: 2015-06-08T23:04:33+09:00
 I still haven't quite gotten over りさ in Japanese class!  Her
 piercings are just "too wild" for me, plus she has "face-framing bangs
 to die for" as MJG wrote in
-[Mr Ruins](http://www.amazon.com/Mr-Ruins-Thriller-War-Book-ebook/dp/B00MEI2BWQ),
+[Mr Ruins](https://www.amazon.com/Mr-Ruins-Thriller-War-Book-ebook/dp/B00MEI2BWQ),
 the fantastic start to a fantastic trilogy!
 
 [![Mei-An](/images/peeps/MJG/thumbs/Mr_Ruins_sample.png)](/images/peeps/MJG/Mr_Ruins_sample.png)

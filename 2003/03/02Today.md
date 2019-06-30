@@ -13,7 +13,7 @@ meg, $200 for 512 meg.  Pretty straightforward.  I've got 256 meg in
 my machine now.  I don't really have $100 to double that and I'm not
 going to piss around and just get 128 extra.  I'll wait until I'm
 blingin' it more and get 256 at least.  The cat told me I'd get better
-prices at <a href="http://www.crucial.com">crucial.com</a>, and it
+prices at <a href="https://www.crucial.com">crucial.com</a>, and it
 seems he's correct.  Except for the 256 meg which is like $99 at
 Crucial.</p>
 

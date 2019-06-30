@@ -9,7 +9,7 @@ date: 2000-08-30
 
 <p>Before Madison and I saw <em>Bless The Child</em>, we saw the trailer for
 some movies, including for <a
-href="http://www.areyouunbreakable.com"><em>Unbreakable</em></a>, starring
+href="https://www.areyouunbreakable.com"><em>Unbreakable</em></a>, starring
 Bruce Willis and Samuel L Jackson, written and directed by the guy who did
 Sixth Sense.
 

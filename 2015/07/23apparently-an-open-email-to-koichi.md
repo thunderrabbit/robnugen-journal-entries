@@ -12,8 +12,8 @@ Thanks Koichi!
 I think I'm in the honeymoon of conscious incompetence.
 
 I've been doing Anki each day as your book suggests, at 5am as [your
-book](http://www.textfugu.com/lessons/) suggests, and I've got between 70 and 100 cards queued up each
-day.  My latest progress is visible at http://www.robnugen.com (if you
+book](https://www.textfugu.com/lessons/) suggests, and I've got between 70 and 100 cards queued up each
+day.  My latest progress is visible at https://www.robnugen.com (if you
 don't see any Japanese entries in the top page, it may mean progress
 has stopped progressing!)
 
@@ -36,7 +36,7 @@ and those are okay, but these
 
 are makin' me crazy!
 
-How do you like squarespace?  How'd you make your [TextFugu stickers](http://store.tofugu.com/shop/sticker-pack-combo-pack?category=Goods)?  I want to do a similar thing with my mazes http://www.amazeaweek.net/ but blah blah blah
+How do you like squarespace?  How'd you make your [TextFugu stickers](https://store.tofugu.com/shop/sticker-pack-combo-pack?category=Goods)?  I want to do a similar thing with my mazes https://www.amazeaweek.net/ but blah blah blah
 
 - Rob!
 

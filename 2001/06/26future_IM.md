@@ -47,7 +47,7 @@ case?</p>
 
 <p>I was thinking more along the lines of homes and
 apartments, but just recently I found this <a
-href="http://dailynews.yahoo.com/h/zd/20010620/tc/car_spy_pushes_privacy_limit_1.html">lawsuit</a>
+href="https://dailynews.yahoo.com/h/zd/20010620/tc/car_spy_pushes_privacy_limit_1.html">lawsuit</a>
 about a guy in a rental car.  The company that owned
 the car put in a GPS and charged him for speeding. 
 Nice.  I was basically right.</p>

@@ -7,7 +7,7 @@ tags: [ "news" ]
 
 ##21:15 Sunday 11 January 2009
 
-[Brasscheck TV:   Israel created Hamas](http://www.brasschecktv.com/page/528.html)  
+[Brasscheck TV:   Israel created Hamas](https://www.brasschecktv.com/page/528.html)  
 
 
 > It's really not a state secret.  
@@ -22,7 +22,7 @@ to slaughter Palestinian civilians.
   
 Ron Paul shares the details:  
   
-[http://www.brasschecktv.com/page/528.html](http://www.brasschecktv.com/page/528.html)  
+[https://www.brasschecktv.com/page/528.html](https://www.brasschecktv.com/page/528.html)  
   
 - Brasscheck  
   

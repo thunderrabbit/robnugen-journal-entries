@@ -9,7 +9,7 @@ tags: [ "internet", "miscellaneous" ]
 
 > Although ice cream can be easy to make at home, it is actually a very complex substance. In this article, we'll learn how it's made, what goes into it, and who invented it.
 
-[Howstuffworks "How Ice Cream Works"](http://home.howstuffworks.com/ref/ice-cream.htm)
+[Howstuffworks "How Ice Cream Works"](https://home.howstuffworks.com/ref/ice-cream.htm)
 
 
 
@@ -25,4 +25,4 @@ Wow!  I never knew the complexities of ice cream!
 
 
 
-Blogged with [Flock](http://www.flock.com)
+Blogged with [Flock](https://www.flock.com)

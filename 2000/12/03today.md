@@ -15,7 +15,7 @@ them on the site.
 
 <p>Then picked up pix from walgreens and scanned them at Kinko's.
 Emailed them from Kinko's to the webmaster of <a
-href="http://www.savektru.org">www.savektru.org</a>; maybe they'll be
+href="https://www.savektru.org">www.savektru.org</a>; maybe they'll be
 on that site soon.
 
 <p>Picked up flyers at Rice and then went to Rally planning meeting.

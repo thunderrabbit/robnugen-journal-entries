@@ -33,20 +33,20 @@ the rules, but I just did a search on Alta Vista:
 <ul>
 <p><li>This version is close, but they use elbows
 instead of outstretched fists for zooms: <a
-href="http://www.oberlin.edu/~cnicolai/unirondack/silent-football.html">www.oberlin.edu/~cnicolai/unirondack/silent-football.html</a>
+href="https://www.oberlin.edu/~cnicolai/unirondack/silent-football.html">www.oberlin.edu/~cnicolai/unirondack/silent-football.html</a>
 
 <p><li>Here is a confused variation, presumably
 described by an excited player who has not played many
 games.  They also include drinking, which we do not.
 <a
-href="http://www2.bc.edu/~lesterk/football.html">www2.bc.edu/~lesterk/football.html</a>
+href="https://www2.bc.edu/~lesterk/football.html">www2.bc.edu/~lesterk/football.html</a>
 
 <p><li>A basic description is buried on this page: <a
-href="http://www.people.cornell.edu/pages/ajr25/games/">www.people.cornell.edu/pages/ajr25/games/</a>
+href="https://www.people.cornell.edu/pages/ajr25/games/">www.people.cornell.edu/pages/ajr25/games/</a>
 
 <p><li>hahaha: search for the word "silent" on this
 page: <a
-href="http://prep.math.tamu.edu/Graph99/wesleyr/journal/index.html">prep.math.tamu.edu/Graph99/wesleyr/journal/index.html</a>
+href="https://prep.math.tamu.edu/Graph99/wesleyr/journal/index.html">prep.math.tamu.edu/Graph99/wesleyr/journal/index.html</a>
 </ul>
 
 <p>For me, the best thing about searching for "silent football" on the web: 4 or 5 of the 42 hits were journal entries from my geocities site.  Heheh.

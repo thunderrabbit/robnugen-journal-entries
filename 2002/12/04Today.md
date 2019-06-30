@@ -23,7 +23,7 @@ and simply.</p>
 
 <p>- - - -</p>
 
-<p>Worked on my <a href="http://www.robnugen.com/resume/">resume</a>,
+<p>Worked on my <a href="https://www.robnugen.com/resume/">resume</a>,
 put a closing date on FSD and adding my latest adventures since
 FSD.</p>
 

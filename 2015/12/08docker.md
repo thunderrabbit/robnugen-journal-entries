@@ -7,7 +7,7 @@ date: 2015-12-08T18:43:59+09:00
 
 ## 18:43 Tuesday 08 December 2015 JST
 
-Some docker success!  I have little time, so I copied and pasted from http://core0.staticworld.net/assets/media-resource/16373/ifw_dd_docker.pdf
+Some docker success!  I have little time, so I copied and pasted from https://core0.staticworld.net/assets/media-resource/16373/ifw_dd_docker.pdf
 (which is out of date already) so used the script name 'startapache'
 but I don't have internizzle access atm so I just made the script echo
 'your mom'

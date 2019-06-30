@@ -18,7 +18,7 @@ the things Joel and I climbed on at the park last night.  Fun
 stuff.</p>
 
 <p>Rich showed me a flash animation parody of LoR 2 on <a
-href="http://www.newgrounds.com">newgrounds.com</a>  It's called One
+href="https://www.newgrounds.com">newgrounds.com</a>  It's called One
 Ring to Rule Them All 2 I think.  Silly funny.</p>
 
 <p>Now I'm likely to add some pictures to my website.</p>

@@ -7,7 +7,7 @@ tags: [ "technology" ]
 
 ##22:17 Friday 08 February 2013
 
-Thanks to the incredible [Sim Aquarium 3D](http://simaquarium.com/) we have an aquarium above our kitchen sink!
+Thanks to the incredible [Sim Aquarium 3D](https://simaquarium.com/) we have an aquarium above our kitchen sink!
 
 What an amazing world.
 

@@ -15,7 +15,7 @@ events lately.  Before I summarize them (nothing <em>that</em>
 amazing), I'll describe my most recent possible volunteer thing.</p>
 
 <p>I attended the board meeting of <a
-href="http://home.flash.net/~bchostel/Budget_Traveling_and_Hostels.htm">Bluebonnet
+href="https://home.flash.net/~bchostel/Budget_Traveling_and_Hostels.htm">Bluebonnet
 Council of Hostelling International</a>, which I learned about when I
 called them a few weeks ago after returning from Australia and talking
 to Bryn.</p>

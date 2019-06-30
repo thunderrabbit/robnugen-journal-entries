@@ -17,7 +17,7 @@ Anyway, After about 4 hours of work, I've finished the final draft:
 
 Now I just need to draw all the black lines on the actual panels.
 
-Shortlink for this piece [http://art.robnugen.com/npm14](http://art.robnugen.com/npm14)
+Shortlink for this piece [https://art.robnugen.com/npm14](https://art.robnugen.com/npm14)
 
 ## 21:00 Monday 15 December 2014 JST
 

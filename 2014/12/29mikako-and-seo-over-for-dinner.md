@@ -12,7 +12,7 @@ Jennie is here in the living area; Ted is hiding in the cat room,
 though he didn't totally panic when Lin and Mika went to visit him.
 
 Seo and I are playing
-[Say Cheese](http://www.amazon.com/Popular-Playthings-HC70430-Say-Cheese/dp/B004QGW7GE).
+[Say Cheese](https://www.amazon.com/Popular-Playthings-HC70430-Say-Cheese/dp/B004QGW7GE).
 I've solved up through level 20 in the required number of moves; he
 has done most of them except the pesky level 10.
 

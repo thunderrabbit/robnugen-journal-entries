@@ -24,7 +24,7 @@ said.
 commission.  We'll see what happens.
 
 <p>Left work early to work on the <a
-href="http://www.heartstormproductions.com">Techno Cosmic Mass</a>
+href="https://www.heartstormproductions.com">Techno Cosmic Mass</a>
 Water Altar..  We had a meeting down at Ares Robotics, where most of
 the work is being done.  Realistically, we are way behind schedule;
 the thing is happening this Thursday!  I will build a mountain for my

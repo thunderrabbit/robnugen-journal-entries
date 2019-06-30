@@ -8,7 +8,7 @@ date: 2002-12-11
 <p class=date>12:02pm PST Wednesday 11 December 2002</p>
 
 <p>Wow.  Fred just told me about <a
-href="http://www.limewire.com">Limewire</a> a p2p file share that
+href="https://www.limewire.com">Limewire</a> a p2p file share that
 works for Mac (and many other platforms)  Whooo!  I'm downloading a
 bunch of Eminem freestyle mp3s.</p>
 

@@ -17,7 +17,7 @@ ALINK ="#FF0000" VLINK ="#FF00FF">
 
 <p>I just checked my guestbook, which I call Rob's Guess Book, cause it's funny, and because it's anyone's guess who will sign it, and I was thrilled to see three new entries!
 
-<p>So I surfed on over to one of the the site called <a href="http://www.gigglecam.com" target="giggle">www.gigglecam.com</a> (before you click, know that I would consider the site rated R, and it has links to NC-17 and above) and holy cow, my site is like nothin' compared to it!
+<p>So I surfed on over to one of the the site called <a href="https://www.gigglecam.com" target="giggle">www.gigglecam.com</a> (before you click, know that I would consider the site rated R, and it has links to NC-17 and above) and holy cow, my site is like nothin' compared to it!
 
 <p>Now this is normally not a concern; I see hundreds of sites that are cooler than mine, with java applets and pop up windows and dancing images and frames and all kinds of stuff, but they are all professional sites with a big budget and whatever.
 

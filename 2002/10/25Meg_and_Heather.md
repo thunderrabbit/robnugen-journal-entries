@@ -7,7 +7,7 @@ date: 2002-10-25
 
 <p class=date>5:51pm CDT Friday 25 October 2002</p>
 
-<p>Today I suddenly was missing <a href="http://www.ktru.org">KTRU</a>
+<p>Today I suddenly was missing <a href="https://www.ktru.org">KTRU</a>
 a lot, so I turned them on via their internet stream.</p>
 
 <p>Listened to a few DJs that I don't know at all or don't really

@@ -12,7 +12,7 @@ tags: [ "airplane day", "news", "terror" ]
 
 
 
-[TomDispatch - Tomgram: An American Tipping Point?](http://www.tomdispatch.com/index.mhtml?pid=38464)
+[TomDispatch - Tomgram: An American Tipping Point?](https://www.tomdispatch.com/index.mhtml?pid=38464)
 
 
 Thank goodness Americans are finally waking up...

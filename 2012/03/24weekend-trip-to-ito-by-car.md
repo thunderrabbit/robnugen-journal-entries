@@ -7,7 +7,7 @@ tags: [ "journal" ]
 
 ##17:01 Saturday 24 March 2012
 
-[![P146](http://getfile3.posterous.com/getfile/files.posterous.com/thunderrabbit/CCyIgAxxAeicvGiqfgFypebyBdmHnvFgofxFAzGpjFwIeFwejvtveEEflAiH/p146.jpg.scaled500.jpg)](http://getfile6.posterous.com/getfile/files.posterous.com/thunderrabbit/CCyIgAxxAeicvGiqfgFypebyBdmHnvFgofxFAzGpjFwIeFwejvtveEEflAiH/p146.jpg.scaled1000.jpg)
+[![P146](https://getfile3.posterous.com/getfile/files.posterous.com/thunderrabbit/CCyIgAxxAeicvGiqfgFypebyBdmHnvFgofxFAzGpjFwIeFwejvtveEEflAiH/p146.jpg.scaled500.jpg)](https://getfile6.posterous.com/getfile/files.posterous.com/thunderrabbit/CCyIgAxxAeicvGiqfgFypebyBdmHnvFgofxFAzGpjFwIeFwejvtveEEflAiH/p146.jpg.scaled1000.jpg)
 
 Traveling by car in Japan often sucks.   The running joke is that everyone tries to go to the same place at the same time. Today, everyone is headed to Ito. 
 

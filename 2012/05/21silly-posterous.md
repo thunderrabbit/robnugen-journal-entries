@@ -7,7 +7,7 @@ tags: [ "journal" ]
 
 ##09:14 Monday 21 May 2012
 
-[![P536](http://getfile3.posterous.com/getfile/files.posterous.com/thunderrabbit/jAyEDhJmnycdjwiioIpirflnIqfljlbBpAmoDIBpggIohDupDBghoqHIgnIb/p536.jpg.scaled500.jpg)](http://getfile8.posterous.com/getfile/files.posterous.com/thunderrabbit/jAyEDhJmnycdjwiioIpirflnIqfljlbBpAmoDIBpggIohDupDBghoqHIgnIb/p536.jpg.scaled1000.jpg)
+[![P536](https://getfile3.posterous.com/getfile/files.posterous.com/thunderrabbit/jAyEDhJmnycdjwiioIpirflnIqfljlbBpAmoDIBpggIohDupDBghoqHIgnIb/p536.jpg.scaled500.jpg)](https://getfile8.posterous.com/getfile/files.posterous.com/thunderrabbit/jAyEDhJmnycdjwiioIpirflnIqfljlbBpAmoDIBpggIohDupDBghoqHIgnIb/p536.jpg.scaled1000.jpg)
 
 I tried posting all 24 solar eclipse pics at once and the posterous iphone app crashed.  Okay, not good, but fair enough: out of memory and crashed.  Fine; I get it. 
 

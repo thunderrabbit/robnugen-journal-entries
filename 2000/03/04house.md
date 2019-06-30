@@ -17,7 +17,7 @@ apartment for rent.  We looked at it today and it's definitely nice,
 but definitely $1050 per month.  Also we'd only be renting.
 
 <p>So I called my lovely and talented friend <a
-href="http://www.dianeperry.com/">Diane Perry</a> this morning.  She
+href="https://www.dianeperry.com/">Diane Perry</a> this morning.  She
 hopped onto the 'net, found a house 2 blocks from my apartment for
 $115k.  3 bedrooms and bath and it's open for showing now.  Wende is
 at work; I'm going to go now to check it out.  Then Diane is going to

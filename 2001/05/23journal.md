@@ -31,7 +31,7 @@ all working I'll pay the author.</p>
 
 <p>Speaking of $, I have toyed with the idea of adding
 one of the Amazon.com whatchamacallits (hang on) <a
-href="http://s1.amazon.com/exec/varzea/subst/fx/help/payor-faq.html/">Amazon
+href="https://s1.amazon.com/exec/varzea/subst/fx/help/payor-faq.html/">Amazon
 Honor System</a>, except for this caveat:</p>
 
 <p><blockquote>
@@ -53,6 +53,6 @@ this late)</p>
 
 <p>Oh!  Wende and I went to lunch today.  I'll write a
 separate entry for it called <a
-href="http://www.robnugen.com/cgi-local/journal.cgi?dir=2001/05&file=23lunch.html">23lunch.html</a>.</p>
+href="https://new.robnugen.com/journal/2001/05/23/lunch/">23lunch.html</a>.</p>
 
 <p><img src="/images/rob/wL-ROB.gif"/></p>

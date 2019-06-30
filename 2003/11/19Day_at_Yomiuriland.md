@@ -8,7 +8,7 @@ date: 2003-11-19
 <p class=date>10:20am JST Wednesday 19 November 2003</p>
 
 <p>I'm on my way to <a
-href="http://www.yomiuriland.co.jp">Yomiuriland</a>.  Took the
+href="https://www.yomiuriland.co.jp">Yomiuriland</a>.  Took the
 non-local train at Noborito, so I passed the station nearest YUL, but
 it's all good now I think.</p>
 

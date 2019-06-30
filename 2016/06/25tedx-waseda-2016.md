@@ -21,7 +21,7 @@ presentation that well!
 
 Great to meet Rick (who flew in from LA to speak) and Mitsue, both of
 whom I knew from Soness's
-[TED Worth Application](http://soness.teachable.com/courses/ted-worthy-application/)
+[TED Worth Application](https://soness.teachable.com/courses/ted-worthy-application/)
 course.
 
 Great to see すん, and got to meet his friend はるき as well!  They

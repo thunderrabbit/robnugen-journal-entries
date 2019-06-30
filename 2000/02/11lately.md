@@ -30,12 +30,12 @@ available on the public key servers under "Rob Nugen at work."  There is
 also an entry for Rob Nugen at home, but don't use it.
 
 <p><li>AaaAAannd I have just downloaded the <a 
-href="http://setiathome.ssl.berkeley.edu/">SETI@Home</a> software to use 
+href="https://setiathome.ssl.berkeley.edu/">SETI@Home</a> software to use 
 here at work!  I just found out about it, synchronistically twice 
 yesterday.  Once at home and once at KTRU, in apparently unrelated events!
 
 <p><li>Last thing: Today is the opening of <a 
-href="http://www.tiggermovie.com"><em>The Tigger Movie</em></a>!!!  I'm 
+href="https://www.tiggermovie.com"><em>The Tigger Movie</em></a>!!!  I'm 
 super excited about it. I even plan to leave work a tad early to see a 
 matinee showing with Wende at one of the big stadium theaters! 
  Wheeeeeee!!!!

@@ -10,7 +10,7 @@ date: 2000-02-29
 
 <p class=date>Only the second leap day of its kind!!</p>
 
-<p>From <a href="http://antwrp.gsfc.nasa.gov/apod/ap000229.html">Astronomy Picture Of the Day</a>:
+<p>From <a href="https://antwrp.gsfc.nasa.gov/apod/ap000229.html">Astronomy Picture Of the Day</a>:
 
 <pre>... Julian Calendar system was used until the year 1582 when
 Pope Gregory XIII added that leap days should not occur in years 

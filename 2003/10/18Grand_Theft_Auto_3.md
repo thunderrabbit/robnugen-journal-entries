@@ -19,7 +19,7 @@ shoot things, like in a particularly sweet (if by sweet I mean
 violent) scene in _Swordfish_ starring John Travolta.</p>
 
 <p>I looked up <a
-href="http://www.ps2-cheats-codes-games.net/GTA3_Cheats.htm">cheats</a>
+href="https://www.ps2-cheats-codes-games.net/GTA3_Cheats.htm">cheats</a>
 for the game and found All Weapons. But I'm not able to aim (I don't
 know if it's my lack of skills with the game, or if it just can't be
 done from on top of a car) and shoot up stuff like I'd hoped.</p>

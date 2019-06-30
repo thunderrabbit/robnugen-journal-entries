@@ -7,7 +7,7 @@ tags: [ "movies", "reviews" ]
 
 ##12:34 Tuesday 22 August 2006
 
-[Snakes on a Plane](http://www.snakesonaplane.com)
+[Snakes on a Plane](https://www.snakesonaplane.com)
 
 
 
@@ -45,6 +45,6 @@ I say don't see it on the big screen, but it's worth a laugh at a slumber party.
 
 
 
-technorati tags:[snakes](http://technorati.com/tag/snakes), [plane](http://technorati.com/tag/plane), [movie](http://technorati.com/tag/movie)
+technorati tags:[snakes](https://technorati.com/tag/snakes), [plane](https://technorati.com/tag/plane), [movie](https://technorati.com/tag/movie)
 
-Blogged with [Flock](http://www.flock.com)
+Blogged with [Flock](https://www.flock.com)

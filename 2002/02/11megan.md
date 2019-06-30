@@ -37,7 +37,7 @@ Instead of more computer languages, I'm learning
 spoken languages - Spanish, French, Japanese, and
 American Sign Language.
 
-Read more at http://www.robnugen.com
+Read more at https://www.robnugen.com
 
    See ya
    - Rob!

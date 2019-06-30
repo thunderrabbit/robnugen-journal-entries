@@ -35,7 +35,7 @@ without exception.
 
 Using the logon id of A-CNS-000123456,
 please access the survey by clicking on this url:
-http://www.us.uu.net/support/cssurvey/index.html?A-CNS-000123456
+https://www.us.uu.net/support/cssurvey/index.html?A-CNS-000123456
 
 or..take the survey here, in this email:
 
@@ -78,10 +78,10 @@ for improvement?
 [Fix your online survey.
 
 (I'm using Netscape Communicator 4.76 on Windows NT 4.0) I clicked on the
-link http://www.us.uu.net/support/cssurvey/index.html?A-CNS-000123456 as
+link https://www.us.uu.net/support/cssurvey/index.html?A-CNS-000123456 as
 indicated above.  This link seems to have the unique identifier that would
 take me right to the survey, but it apparently does not.  I am instead taken
-to a screen (http://www.uu.net/external/us/cssurvey//index.html) which has a
+to a screen (https://www.uu.net/external/us/cssurvey//index.html) which has a
 few problems of its own.
 
 1) This URL has two slashes in a row "//"; this works, but is indicative of

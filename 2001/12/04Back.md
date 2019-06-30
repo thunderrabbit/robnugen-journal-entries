@@ -19,7 +19,7 @@ my most recent project.  Probably should pay attention to it.</p>
 <p>Conference call is over.  Lasted about 1.6 hours.  I IMed with Bryn
 some to keep myself entertained.  Awesome organization that I'm going
 to check out: <a
-href="http://www.usexperiment.org">usexperiment.org</a>!!</p>
+href="https://www.usexperiment.org">usexperiment.org</a>!!</p>
 
 <p>Tonight at ASL I will perform "on top of spaghetti" which I
 practiced at Fort Worth with Bryn and Phat Pat!</p>

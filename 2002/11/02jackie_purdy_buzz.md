@@ -55,5 +55,5 @@ href="/images/peeps/Jackie_Purdy/jackie_vogue.jpg">really good!</a></p>
 <p><a href="/images/peeps/Jackie_Purdy/jackie_cute.jpg">after</a>.</p>
 
 <p>Special thanks to <a
-href="http://www.netmechanic.com/GIFBot/optimize-graphic.htm">NetMechanic</a>
+href="https://www.netmechanic.com/GIFBot/optimize-graphic.htm">NetMechanic</a>
 for online image optimization!</a>

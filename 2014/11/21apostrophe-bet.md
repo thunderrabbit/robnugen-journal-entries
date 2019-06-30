@@ -7,13 +7,13 @@ date: 2014-11-21
 
 ##10:18 Friday 21 November 2014 JST##
 
-[Longbets](http://longbets.org/) currently features 600+ predictions
+[Longbets](https://longbets.org/) currently features 600+ predictions
 about the future. The site encourages people to develop long-term
 thinking to offset the instant gratification encouraged by
 consumerism.
 
 I came across this prediction:
-["By 2030, the apostrophe will have functionally disappeared from American English."](http://longbets.org/658/).
+["By 2030, the apostrophe will have functionally disappeared from American English."](https://longbets.org/658/).
 To that I say "ha!"
 
 I began to compose a dorky reply, 

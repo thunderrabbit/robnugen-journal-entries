@@ -28,7 +28,7 @@ I'm taking the crutches back to the hospital
 today.</p>
 
 <p>But first, I plan to find <a
-href="http://www.whatshouldiputonthefence.com">The
+href="https://www.whatshouldiputonthefence.com">The
 Fence</a> on which I place my Magic Rob briefcase
 presented to me with love from YAC and especially the
 Bibby's at Plano rally in 2001.</p>

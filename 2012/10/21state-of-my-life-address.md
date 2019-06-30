@@ -15,7 +15,7 @@ tags: [ "japan", "state of my life address" ]
   * Fred and Ma are coming to Japan in December!!
 
 	
-  * Lin and I have been going to yoga class every Saturday morning at [Yogasan](http://yogasan.net).
+  * Lin and I have been going to yoga class every Saturday morning at [Yogasan](https://yogasan.net).
 
 	
   * I've been working at sbstrm for going on 3 years now, not counting my Thailand adventure and chilling in Chigasaki.
@@ -51,7 +51,7 @@ tags: [ "japan", "state of my life address" ]
   * I recently wrote a Wordpress plugin to create bingo cards, but haven't polished it nor a site to run it.
 
 	
-  * Due to all this coding, I haven't drawn any mazes recently, though I did get a maze request via [Fiverr](http://fiverr.com/thunderrabbit) recently.
+  * Due to all this coding, I haven't drawn any mazes recently, though I did get a maze request via [Fiverr](https://fiverr.com/thunderrabbit) recently.
 
 	
   * I've been reading A Course In Miracles; I'm about this far through the book which is THIS thick.
@@ -60,7 +60,7 @@ tags: [ "japan", "state of my life address" ]
   * I haven't played Minecraft in about a week.
 
 	
-  * Recently Andrew and I received the [Elevation Docks](http://www.amazon.com/gp/product/B009PM82UE/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B009PM82UE&linkCode=as2&tag=keepusthelim-20) we ordered a long time ago.  They're quite nice.  I got limited edition green one; he got orange.  We also each got a <del>silver</del> brushed aluminum and black one.  Lin got my silver one, and the black one is on my desk at work.
+  * Recently Andrew and I received the [Elevation Docks](https://www.amazon.com/gp/product/B009PM82UE/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B009PM82UE&linkCode=as2&tag=keepusthelim-20) we ordered a long time ago.  They're quite nice.  I got limited edition green one; he got orange.  We also each got a <del>silver</del> brushed aluminum and black one.  Lin got my silver one, and the black one is on my desk at work.
 
 	
   * 

@@ -9,7 +9,7 @@ date: 2002-02-19
 <p class=date>3:10pm CST Tuesday 19 February 2002</p>
 
 <p>We have accepted an offer on our house.  I just signed the contract
-and now <a href="http://www.jodilynn.net">Jodi</a> is going to fax it
+and now <a href="https://www.jodilynn.net">Jodi</a> is going to fax it
 back to the buyer's agent.</p>
 
 <p>It wasn't for quite as many dollars as I had wanted, but Wende is

@@ -8,7 +8,7 @@ date: 2017-07-09T08:09:01+09:00
 ## 08:09 Sunday 09 July 2017 JST
 
 Haha from
-[Cookie Clicker (beta)](http://orteil.dashnet.org/cookieclicker/beta/):
+[Cookie Clicker (beta)](https://orteil.dashnet.org/cookieclicker/beta/):
 
     some old bugs were phased out and replaced by new ones
 

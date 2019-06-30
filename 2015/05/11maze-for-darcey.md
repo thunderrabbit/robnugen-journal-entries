@@ -11,4 +11,4 @@ Today I finally(!) finished a maze for Darcey!  Actually I want to put
 a new background on it, but if I can't find one, it's finished!
 
 Hopefully I remember to upload it tonight to
-[amazeaweek](http://www.amazeaweek.net/) and to my image server.
+[amazeaweek](https://www.amazeaweek.net/) and to my image server.

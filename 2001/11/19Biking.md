@@ -23,7 +23,7 @@ me in shape, a few trips around the Valley won't make
 the difference.</p>
 
 <p>Oh, the site is <a
-href="http://www.cameronlane.com/">www.cameronlane.com</a></p>
+href="https://www.cameronlane.com/">www.cameronlane.com</a></p>
 
 <p><img src="/images/rob/wL-ROB.gif"/></p>
 

@@ -7,7 +7,7 @@ date: 2018-04-24T15:54:39+09:00
 
 ## 15:54 Tuesday 24 April 2018 JST
 
-from http://www2.nhk.or.jp/school/movie/clip.cgi?das_id=D0005400130_00000
+from https://www2.nhk.or.jp/school/movie/clip.cgi?das_id=D0005400130_00000
 
 冬の野原。<ruby><rb>枯</rb><rt>か</rt></ruby>れた<ruby> <rb>植物
 </rb><rt>しょくぶつ</rt></ruby>の<ruby><rb>枝</rb><rt></rt></ruby>など

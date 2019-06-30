@@ -7,7 +7,7 @@ date: 2015-11-23T12:28:44+09:00
 
 ## 12:28 Monday 23 November 2015 JST
 
-Okay, so I just received in the mail my [MOOV](http://welcome.moov.cc/), a movement tracking device which
+Okay, so I just received in the mail my [MOOV](https://welcome.moov.cc/), a movement tracking device which
 can connect to my phone via BLE, Bluetooth Low Energy.  Nice.
 
 All excited to set it up, I see the app requires iOS 8.
@@ -16,7 +16,7 @@ Now, I've resisted many a fancy app which has had this requirement.  I
 don't want to cripple my iPhone 4S with an "upgrade" to the OS which I
 don't really need.
 
-http://arstechnica.com/apple/2015/09/ios-9-on-the-iphone-4s-a-stay-of-execution-nothing-more/
+https://arstechnica.com/apple/2015/09/ios-9-on-the-iphone-4s-a-stay-of-execution-nothing-more/
 
 The above article title doesn't sound good for iOS 9, but at the end
 they're like "bah might as well do it" (my paraphrase)

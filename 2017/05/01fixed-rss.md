@@ -14,6 +14,6 @@ because it's the
 [least surprising](https://github.com/spf13/hugo/issues/3145#issuecomment-285535038).
 That seems weird to me, so I changed it to 70 because that is
 apparently the smallest Weird number.
-http://www2.stetson.edu/~efriedma/numbers.html
+https://www2.stetson.edu/~efriedma/numbers.html
 
 173 was my next choice because 173 x 173 = 29929.

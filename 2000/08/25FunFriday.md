@@ -34,7 +34,7 @@ certainly not *that* great of a picture..
 <p>Oh!  and that reminds me that my website recently filled its disk space
 quota.  I'll contact my webmaster about price for more space.  I was able to
 delete a significant amount of jpgs that I had for <a
-href="http://www.blanketstoyou.com">Blankets To You</a> but I will still
+href="https://www.blanketstoyou.com">Blankets To You</a> but I will still
 need to recover some space I'm sure.
 
 <p>I'm neearly done wiping clean my geocities site; I think I'll use it as

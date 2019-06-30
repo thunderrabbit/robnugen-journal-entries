@@ -50,7 +50,7 @@ date: 2016-02-27T08:00:57+09:00
     Here is a link to the episode where I was originally interviewed
     (you saw this on TV already)
     
-    http://www.dailymotion.com/video/x3tm778_160222-y
+    https://www.dailymotion.com/video/x3tm778_160222-y
     
     Starting about 2 minutes into the video, you can see me act
     unnatural on camera!!  ;-)

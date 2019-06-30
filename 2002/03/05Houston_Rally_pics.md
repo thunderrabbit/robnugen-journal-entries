@@ -9,7 +9,7 @@ date: 2002-03-05
 <p class=date>12:00pm CST Tuesday 5 March 2002</p>
 
 <p>I have just put 24 megabytes of pictures from the <a
-href='http://www.robnugen.com/cgi-local/images.cgi?dir=rallies/houston2002'>Houston
+href='https://www.robnugen.com/cgi-local/images.cgi?dir=rallies/houston2002'>Houston
 Rally</a> on my site.  That's a lot of pics.</p>
 
 <p>I haven't optimized them, renamed them nor thumbnailed them.  No

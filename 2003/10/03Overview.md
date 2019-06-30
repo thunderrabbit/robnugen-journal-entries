@@ -81,7 +81,7 @@ write a volley to Kim to discuss my idea.  (That will actually be
 first, before I start going bigtime.)  Within a few months, big good
 things will be happening.</p>
 
-<p>(*) mkp = <a href="http://www.mkp.org">Mankind Project</a></p>
+<p>(*) mkp = <a href="https://www.mkp.org">Mankind Project</a></p>
 
 <p>ps: we saw some cool stuff: Ginkakuji and Kyoumizu</p>
 

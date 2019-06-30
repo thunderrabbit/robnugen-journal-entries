@@ -95,7 +95,7 @@ return movies, but he's not back either.  [shrug]</p>
 <p>I finished my cherry blossom mass email and I'll be sending that
 out later tonight when I visit the internet cafe.  Gonna first write
 one more letter to Gail from <a
-href="http://www.geeky-boy.com/cgi-bin/bbs_thingie/showall">BBST</a>
+href="https://www.geeky-boy.com/cgi-bin/bbs_thingie/showall">BBST</a>
 as thanks for sending me red plaid flannel jammies ("jammy jams" as
 Matty calls them).  I've worn them most nights since I got 'em.</p>
 

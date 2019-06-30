@@ -28,7 +28,7 @@ date: 2016-08-19T19:00:12+09:00
 19. Also teaching a lesson on Mondays for Tariq.
 20. In art department, I've been drawing regularly.  Just presented Toshie with her piece, with her name hidden in the drawing.
 21. I alos just finished my first set of 25 little pieces.  The first several were all drawn based on the previous one (except the very first) and ones after that were drawn from memory based on what I had been drawing..  so they're like a game of telephone  in that the picture slightly changed over time.
-22. My art is visible on my wiki, available via shortlink http://art.robnugen.com/art but I want to make it also available via http://art.robnugen.com/ (which is currently my URL shortener gui).  It's probably an easy tweak, but I just gotta get into the code.  Prolly the hardest thing is thinking of a path that I'll remember later, but not need for art, ever.  Maybe http://art.robnugen.com/shortener
+22. My art is visible on my wiki, available via shortlink https://art.robnugen.com/art but I want to make it also available via https://art.robnugen.com/ (which is currently my URL shortener gui).  It's probably an easy tweak, but I just gotta get into the code.  Prolly the hardest thing is thinking of a path that I'll remember later, but not need for art, ever.  Maybe https://art.robnugen.com/shortener
 23. There's a metric ton of old journal entries that are lost in date 0000-01-01 because either the YAML headers are fucked or missing and Hugo doesn't know how to parse the date unless it's in this format: 2016-08-19T19:00:12+09:00
 24. I'm still using my old backpack even though the other side is beginning to rip.  Need to sew that shit up.
 25. I rearranged my room after Lin kept offering to help and asking if I'd do it.  I like it better now.  Thank you babychan!!
@@ -51,4 +51,4 @@ date: 2016-08-19T19:00:12+09:00
 42. Recently found a great set of videos [Learning Ansible with Vagrant](https://sysadmincasts.com/episodes/43-19-minutes-with-ansible-part-1-4)
 43. I call Fred every night at 11pm, which is currently 9am in Austin.  Need to get his ass up and working on his thesis!  Hopefully he'll have it done before the time changes in September.
 44. We are having a cute little earthquake.  I wonder how big it will be.  Still shaking a bit as I write.
-45. It wasn't so big here, but apparently about [5.4 in Ibaraki](http://www.jma.go.jp/en/quake/20160819211049392-192107.html). http://archive.is/Hp4On
+45. It wasn't so big here, but apparently about [5.4 in Ibaraki](https://www.jma.go.jp/en/quake/20160819211049392-192107.html). https://archive.is/Hp4On

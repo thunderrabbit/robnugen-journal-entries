@@ -18,9 +18,9 @@ whether to get more food and be more late, or leave now and be more on
 time.  We got more food, but weren't really late.  Were really
 laughing.</p>
 
-<p>To <a href="http://www.masqueradetheatre.com/">Masquerade
+<p>To <a href="https://www.masqueradetheatre.com/">Masquerade
 Theater</a> in the heights to see Kristen and Catherine's friend <a
-href="http://www.masqueradetheatre.com/PressReleaseshow.cfm?PressReleaseID=100&startrow=7&aol=5850720&MenuGroup=Ruthless">Katharine</a>
+href="https://www.masqueradetheatre.com/PressReleaseshow.cfm?PressReleaseID=100&startrow=7&aol=5850720&MenuGroup=Ruthless">Katharine</a>
 perform in the play "Ruthless."</p>
 
 <p>Wonderful wonderful!  I would like to take Wende before the show

@@ -39,7 +39,7 @@ they
 want the administration has resorted to force and
 deceit.  Get the 
 facts
-at: http://www.savektru.org/
+at: https://www.savektru.org/
 
 Then show up for a RALLY on the center quad of Rice
 campus:

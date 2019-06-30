@@ -24,7 +24,7 @@ reality:
 1. did 27 pushups til 11:14 (total 255 in two days yay)
 1. studied Japanese adjectives til 11:24 (著しい!)  10 mins
 1. finished anki cards by 11:37           10 mins
-1. read [textfugu and added two decks](http://www.textfugu.com/season-2/being-possessive/10-9/#top) and did the cards by 12:00         20 mins
+1. read [textfugu and added two decks](https://www.textfugu.com/season-2/being-possessive/10-9/#top) and did the cards by 12:00         20 mins
 1. finished textfugu chapter 2; read 30/30 idea by 12:09  10 mins
 1. did all the easy dishes by 12:25
 1. eat granola and count minutes studied today 1 hour so far 12:31まで

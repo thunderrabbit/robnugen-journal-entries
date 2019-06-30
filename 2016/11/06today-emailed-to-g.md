@@ -14,7 +14,7 @@ months ago.
 
 I found out a few days ago that my 7 minute presentation is ON for
 November 24th;
-http://www.pechakucha.org/cities/tokyo/events/581bfccc9831a6196b000002
+https://www.pechakucha.org/cities/tokyo/events/581bfccc9831a6196b000002
 I'm putting it together and pulling myself together to make it the best I can.
 
 It's quite interesting; 24 November I'll be on stage for PechaKucha,

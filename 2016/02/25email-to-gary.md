@@ -16,12 +16,12 @@ date: 2016-02-25T07:27:24+09:00
     technology is released, we'll be ready!
     
     My train commutes will be longer, so I plan to spend more time
-    drawing my art http://art.robnugen.com/art
+    drawing my art https://art.robnugen.com/art
     
     My brother Fred, my wife Lin, and I went skydiving near San Marcos
     while we were visiting this past January.
     
-    I'm active in my men's group (http://www.mkp.org/) in Tokyo, and
+    I'm active in my men's group (https://www.mkp.org/) in Tokyo, and
     helping it to grow to support more men, including Japanese!
     
     And we have a cat named Jennie!

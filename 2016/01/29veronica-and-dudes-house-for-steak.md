@@ -28,7 +28,7 @@ Rob:
 
 ## 0:11
 
-http://www.humanclock.com/ is still kickin' it!
+https://www.humanclock.com/ is still kickin' it!
 
 [![human clock screenshot 11:59](//b.robnugen.com/journal/2016/January_2016_trip_to_Cali_and_Austin/thumbs/human_clock_screenshot_1159.png)](//b.robnugen.com/journal/2016/January_2016_trip_to_Cali_and_Austin/human_clock_screenshot_1159.png)
 

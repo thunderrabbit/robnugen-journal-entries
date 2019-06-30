@@ -25,7 +25,7 @@ date: 2015-05-27T15:49:39+09:00
     }
 
 Hmm!  As I was sketching some code, I found an example [perl script
-which produces a page of thumbnailed images](http://imagemagick.org/scripts/examples.php).  Sweet!  I will probably
+which produces a page of thumbnailed images](https://imagemagick.org/scripts/examples.php).  Sweet!  I will probably
 use it for something.
 
 Hmmm but I wonder why the page has .php extension.

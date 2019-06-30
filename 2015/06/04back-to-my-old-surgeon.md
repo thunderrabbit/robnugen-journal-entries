@@ -18,7 +18,7 @@ a recommendation from Tariq, via one of his students.
 I looked up the hospital and it turns out it's the same one where I
 had my shoulder surgery done 9 years ago. (*)
 
-So I pulled up [surgery.robnugen.com](http://surgery.robnugen.com) (NSFL) and
+So I pulled up [surgery.robnugen.com](https://surgery.robnugen.com) (NSFL) and
 discover that not only is it the same hospital; he's the surgeon who
 did my surgery!
 

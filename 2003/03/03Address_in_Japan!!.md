@@ -77,10 +77,10 @@ Mr. Frank Greenagel Jr, from the United  States, moved in: 23 January 2003
 <p class=date>9:07pm</p>
 
 <p>Hey, here's <a
-href="http://www.city.yokohama.jp/ne/info/map/japanE.html">a map</a>
+href="https://www.city.yokohama.jp/ne/info/map/japanE.html">a map</a>
 of Japan indicating the city I'm in.</p>
 
 <p>And here is a <a
-href="http://www.city.yokohama.jp/me/GuideE/mape.pdf">subway map</a>
+href="https://www.city.yokohama.jp/me/GuideE/mape.pdf">subway map</a>
 of the city.  My nearest station (Tsunashima) is on the top right
 purple line, second station from the top.</p>

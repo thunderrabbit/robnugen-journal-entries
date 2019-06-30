@@ -70,7 +70,7 @@ cotton.  wow!
 
 <p>We're in Victoria getting gas at Exxon for $1.39 per gallon!  It's an
 average of $1.53 per gallon in Houston.  The best part about it is that I
-went to <a href=http://gasoline.priceline.com>gasoline.priceline.com</a> and
+went to <a href=https://gasoline.priceline.com>gasoline.priceline.com</a> and
 tried to get it for $1.40 per gallon but my offer was not accepted.
 
 <p class=date>12:11pm

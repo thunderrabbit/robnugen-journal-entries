@@ -14,7 +14,7 @@ reiki share.
 
 Afterward, we wandered around Asakusa with Jon, had sushi at a 回転
 sushi shop, went to an
-[English book store](http://www.infinitybooksjapan.com/) where we
+[English book store](https://www.infinitybooksjapan.com/) where we
 bought a total of three books, and *then* walked to Tokyo Sky Tree
 where I got a bunch of gifts for Fred (in a pay-by-the-container
 system).  I really showed them; the lid wouldn't even fit on the

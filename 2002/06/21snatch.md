@@ -13,7 +13,7 @@ he fell asleep.</p>
 <p>It took us a while to start the movie because my computer didn't
 have the correct codec (compressor/decompressor) to read the pirated
 .avi file.  Fred downloaded one from <a
-href="http://www.divx.com">divx</a>, but it didn't decompress the
+href="https://www.divx.com">divx</a>, but it didn't decompress the
 audio very well on this machine.  On Bill's Windows 2000 box, the
 movie worked well. </p>
 

@@ -33,7 +33,7 @@ i love you.  (cough, cough)
 --- Rob Nugen wrote:
 
 <a
-href="http://auction.apcc.com/Scripts/BidHistory.asp?LotNo=20608785">http://
+href="https://auction.apcc.com/Scripts/BidHistory.asp?LotNo=20608785">https://
 auction.apcc.com/Scripts/BidHistory.asp?LotNo=20608785</a>
 </pre>
 

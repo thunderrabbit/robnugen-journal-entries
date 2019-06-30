@@ -8,7 +8,7 @@ date: 1999-09-17
 
 <p class=date>17 September 1999</p>
 
-<p>Friday night is <a href="http://mkultra.txraves.org">MK Ultra</a> night at KTRU, so I cruised out there to say HI to Tejus and Eric, who was spinning ambient techno on the air!  Eric is great fun (same Eric who I DJed with about a month ago 1-4am) and I feel a certain comradery with him, since he's just getting started a spinning and mixing vinyl. It was great to watch and talk and see him get better.  He had great segues in his hour set except for one killer that elicited an agonizing groan from him as my ears went, "ouch!"
+<p>Friday night is <a href="https://mkultra.txraves.org">MK Ultra</a> night at KTRU, so I cruised out there to say HI to Tejus and Eric, who was spinning ambient techno on the air!  Eric is great fun (same Eric who I DJed with about a month ago 1-4am) and I feel a certain comradery with him, since he's just getting started a spinning and mixing vinyl. It was great to watch and talk and see him get better.  He had great segues in his hour set except for one killer that elicited an agonizing groan from him as my ears went, "ouch!"
 
 <p>When he was finished, Eric went home and Dustin came in to mix.  He scratched some records, including some old classical albums that are free for the taking at the station and Tejus and I were so impressed!
 

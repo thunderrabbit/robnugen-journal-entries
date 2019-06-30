@@ -42,7 +42,7 @@ to do homework though.  Crud.</p>
 but I convinced him to just sleep on their bean bag.</p>
 
 <p>On the way out, I met Fred, who was walking from lot 9 after getting home from Tomball, feeding the animals.  We talked about girls &amp; cop car
-stories (<a href="http://robnugen.com/cgi-bin/journal.pl?type=all&date=1992/08/28#Heather">page 160</a>) &amp; talked about nothing..</p>
+stories (<a href="https://robnugen.com/cgi-bin/journal.pl?type=all&date=1992/08/28#Heather">page 160</a>) &amp; talked about nothing..</p>
 
 <p>We talked until 2 pretty girls walked by &amp; I said "Good Morning."  They told us it was "3 on the dot."  So we cruised to bed.  Here I am.
 3:55AM Friday 18 Sept 1992</p>

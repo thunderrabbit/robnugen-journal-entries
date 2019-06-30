@@ -11,16 +11,16 @@ tags: [ "internet", "technology" ]
 
 
 
-This image at http://imgs.xkcd.com/comics/time.png been changing since it was posted on 25 March 2013.
+This image at https://imgs.xkcd.com/comics/time.png been changing since it was posted on 25 March 2013.
 
 
 
-[![](http://imgs.xkcd.com/comics/time.png)](http://xkcd.com/1190/)
+[![](https://imgs.xkcd.com/comics/time.png)](https://xkcd.com/1190/)
 
 
 
-Thanks to [@Aubron Wood](https://twitter.com/Aubron) for this [replay of the xkcd Time scene so far](http://xkcd.aubronwood.com/).
+Thanks to [@Aubron Wood](https://twitter.com/Aubron) for this [replay of the xkcd Time scene so far](https://xkcd.aubronwood.com/).
 
 
 
-[Explanation of xkcd Time at explainxkcd](http://www.explainxkcd.com/wiki/index.php?title=1190)
+[Explanation of xkcd Time at explainxkcd](https://www.explainxkcd.com/wiki/index.php?title=1190)

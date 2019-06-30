@@ -20,5 +20,5 @@ src="https://b.robnugen.com/journal/2016/days_old/16990_days_old_2016-09-29_at_1
 
 Based on code from my thing on codepen
 
-<p data-height="265" data-theme-id="0" data-slug-hash="ALrywE" data-default-tab="js,result" data-user="thunderrabit" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/thunderrabit/pen/ALrywE/">Rob's days old counter</a> by Rob Nugen (<a href="http://codepen.io/thunderrabit">@thunderrabit</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<p data-height="265" data-theme-id="0" data-slug-hash="ALrywE" data-default-tab="js,result" data-user="thunderrabit" data-embed-version="2" class="codepen">See the Pen <a href="https://codepen.io/thunderrabit/pen/ALrywE/">Rob's days old counter</a> by Rob Nugen (<a href="https://codepen.io/thunderrabit">@thunderrabit</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>

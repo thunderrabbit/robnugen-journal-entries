@@ -45,7 +45,7 @@ would be loud and have some bad words in it.  So cute!!
 <p class=date>13:09
 
 <p>Joey and Jesse are guest speaking representatives from the Young Adult
-organization, <a href="http://www.uuyan.org">www.uuyan.org</a>.
+organization, <a href="https://www.uuyan.org">www.uuyan.org</a>.
 
 <p class=date>13:21
 

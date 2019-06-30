@@ -10,7 +10,7 @@ date: 2017-08-11T05:12:48+09:00
 
 While preparing for my next scene, I realize I want to add a blur
 effect, so I
-[introduced myself on stopmotionanimation.com](http://www.stopmotionanimation.com/forum/topics/please-introduce-yourself?commentId=6519681%3AComment%3A200968)
+[introduced myself on stopmotionanimation.com](https://www.stopmotionanimation.com/forum/topics/please-introduce-yourself?commentId=6519681%3AComment%3A200968)
 because
 
 I just came to the most technically difficult part of my movie: flying

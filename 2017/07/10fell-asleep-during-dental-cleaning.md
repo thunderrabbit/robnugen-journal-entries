@@ -18,4 +18,4 @@ was just really relaxing.
     Clinic Hour: Mon – Fri, 10am -8pm  Sat, 10am -6pm
     Phone Number: 03-3563-4022
     Email: fujimi.eng@fdclinic.com
-    Web: http://fdclinic.com/english/
+    Web: https://fdclinic.com/english/

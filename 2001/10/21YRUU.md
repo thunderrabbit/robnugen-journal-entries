@@ -57,7 +57,7 @@ Happy Birthday on the 16th:  I played a song called
 roadsign game.</p>
 
 <p><a
-href="http://noise.rice.edu/sheet.nsf/be8c01cf6387727180256920006ed872/dc4741e5261b205986256aeb00834dfb?OpenDocument">This
+href="https://noise.rice.edu/sheet.nsf/be8c01cf6387727180256920006ed872/dc4741e5261b205986256aeb00834dfb?OpenDocument">This
 link</a> *might* work. Look at 7:48pm.</p>
 
 <p><img src="/images/rob/wL-ROB.gif"/></p>

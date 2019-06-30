@@ -7,7 +7,7 @@ tags: [ "journal" ]
 
 ##20:04 Tuesday 22 May 2012
 
-I just posted this on [programmers.stackexchange.com](http://programmers.stackexchange.com/questions/149636/replacement-for-fanfold-paper-printouts)
+I just posted this on [programmers.stackexchange.com](https://programmers.stackexchange.com/questions/149636/replacement-for-fanfold-paper-printouts)
 
  
 

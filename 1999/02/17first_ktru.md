@@ -24,7 +24,7 @@ date: 1999-02-17
 <p>She is my first confirmed listener that I know (I know we had others because people called in) but I like know her and stuff.
 Nevermind.
 
-<p>I loved it and look forward to going back.  I'll be doing my second training this Monday, 3-5pm CST.  Even if you are not local, you can hear us on realaudio <a href="http://www.ktru.org">www.ktru.org</a> and listen on the web!  We are not a talk station, but we'll play some cool random tunes for you.
+<p>I loved it and look forward to going back.  I'll be doing my second training this Monday, 3-5pm CST.  Even if you are not local, you can hear us on realaudio <a href="https://www.ktru.org">www.ktru.org</a> and listen on the web!  We are not a talk station, but we'll play some cool random tunes for you.
 
 <p>I'm actually going to go back to the station now to say HI to Meg, who I essentially know; she is the sister of Ellen, one of my youth in Dallas.
 

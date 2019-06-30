@@ -80,13 +80,13 @@ During my travels in summer 2005, I met an Israeli woman named Eilat, and a Pale
 
 I found this description beyond reasoning; beyond belief.  I was assured I could visit the area and see for myself.  So upon return to Japan, I set out to do that.  I bought air tickets and did some research about what I could do once I arrived in Tel Aviv.
 
-I found the International Solidarity Movement ([ISM](http://www.palsolidarity.org/main/)) and decided I could start there and see what else I find once I was in the area.  
+I found the International Solidarity Movement ([ISM](https://www.palsolidarity.org/main/)) and decided I could start there and see what else I find once I was in the area.  
 
 Basically, the ISM encourages international volunteers to come work in solidarity with Palestinians against the challenges they face, whether from Jewish settlers or Israeli border police.
 
 From 15 October to 15 November, the ISM planned to join Palestinians during the annual olive harvest, as some Palestinian farmers face persecution and violence when they try to harvest olives near Jewish settlements (*).  These dates corresponded nicely with dates I was able to travel, so I told people I would be taking place in the Olive Harvest, though I didn't really know what that meant at the time.
 
-(*) [Amnesty International on Israeli settlements](http://web.amnesty.org/library/Index/ENGMDE150852003?open&of=ENG-ISR)
+(*) [Amnesty International on Israeli settlements](https://web.amnesty.org/library/Index/ENGMDE150852003?open&of=ENG-ISR)
 
 I encountered relatively little difficulty coming into the airport.  I had heard that I should *not* say I wanted to join ISM, because that could get me deported.  I simply told the woman at immigration that I was coming to tour Jerusalem.  She asked me where I would go exactly, and I said I didn't know, but my friend did.  She asked who was my friend and I told her Niveen.  She looked surprised, "what??" for I had given the name of my Palestinian friend.  I said, "Eilat," and began to get out Eilat's address and phone number.  She said, "don't worry" and gave my passport back.  I had entered the country.
 
@@ -232,7 +232,7 @@ I'd guess about 8 activists had chained themselves, or attempted to chain themse
 Other than that, it was the same game, and the fence was completed a few weeks later.
 
 
-[Amnesty International on Bil'in](http://web.amnesty.org/library/Index/ENGMDE150472005?open&of=ENG-ISR)
+[Amnesty International on Bil'in](https://web.amnesty.org/library/Index/ENGMDE150472005?open&of=ENG-ISR)
 ------------
 
 Staying in a hostel right across the street from the Old City meant we often visited the city for day to day activities.  One afternoon some of my new hostel friends and I did a self guided tour The Ramparts Walk around the Jerusalem Old City walls.  We took scads of pictures and had a lovely time.  The old city has many faces, and it's well worth the cost if one enjoys going for walks.
@@ -261,7 +261,7 @@ We had an orientation by Ayesh, who told us a lot of things about the history of
 
 I thought, "Yikes stripes what kind of place am I in? I thought we were just going to go pick olives tomorrow. I thought the intifada was over."
 
-[Photos of Nablus](http://robnugen.com/cgi-local/journal.pl?type=all&date=2005/10/30#Old_city_tour)
+[Photos of Nablus](https://robnugen.com/cgi-local/journal.pl?type=all&date=2005/10/30#Old_city_tour)
 
 -----------
 
@@ -271,7 +271,7 @@ On the day we were to pick olives, Ayesh arranged for a taxi-van to take us to t
 
 He said we could walk the rest of the way across the field where we'd be met by a man who would lead us to where he and his family were picking olives.  We piled out and immediately came across two cow carcasses, that seemed fairly intact except for the faces and tails.  One was in plain sight in the field, and another had fallen down a slope into a rather large ditch and mound that seems to have been dug across the middle of the fields.
 
-[overview of field with ditch near Salem](http://robnugen.com/images/travel/Palestine/2005_olive_harvest/olive_picking_in_salem/overview.jpg)
+[overview of field with ditch near Salem](https://robnugen.com/images/travel/Palestine/2005_olive_harvest/olive_picking_in_salem/overview.jpg)
 
 Shortly, we were met by a man with a yellow hat and headed across a settler road, and met some people picking olives.
 
@@ -291,13 +291,13 @@ We were not harassed by anyone, and once we had finished, we got a call on Ayesh
 
 They counted down in Hebrew from 3, it exploded, Sarah squealed, we got it on video.  
 
-[grenade before](http://robnugen.com/images/travel/Palestine/2005_olive_harvest/olive_picking_in_salem/francois_grenade_before.jpg)
+[grenade before](https://robnugen.com/images/travel/Palestine/2005_olive_harvest/olive_picking_in_salem/francois_grenade_before.jpg)
 
-[soldiers preparing to destroy grenade](http://robnugen.com/images/travel/Palestine/2005_olive_harvest/olive_picking_in_salem/busy_soldiers.jpg)
+[soldiers preparing to destroy grenade](https://robnugen.com/images/travel/Palestine/2005_olive_harvest/olive_picking_in_salem/busy_soldiers.jpg)
 
-[anticlimatic video of grenade destruction](http://robnugen.com/images/travel/Palestine/2005_olive_harvest/olive_picking_in_salem/Salem_grenade_destruction.mov)
+[anticlimatic video of grenade destruction](https://robnugen.com/images/travel/Palestine/2005_olive_harvest/olive_picking_in_salem/Salem_grenade_destruction.mov)
 
-[grenade after](http://robnugen.com/images/travel/Palestine/2005_olive_harvest/olive_picking_in_salem/francois_grenade_after.jpg)
+[grenade after](https://robnugen.com/images/travel/Palestine/2005_olive_harvest/olive_picking_in_salem/francois_grenade_after.jpg)
 
 We were informed it was not a real grenade.  
 
@@ -331,7 +331,7 @@ The family's home was destroyed in front of their eyes.
 
 Home demolitions happen weekly.  The basic story goes like this: they had no permit, so the house is illegal.  but they have been unable to obtain a permit because it is too expensive slash too impossible to get.
 
-[Amnesty International note on house demolitions](http://web.amnesty.org/library/Index/ENGMDE150482005?open&of=ENG-ISR)
+[Amnesty International note on house demolitions](https://web.amnesty.org/library/Index/ENGMDE150482005?open&of=ENG-ISR)
 -----
 
 The Dead Sea was a fantastic final day-trip from Jerusalem.  After quite some confusion at the bus station as to which bus we should take, we finally got situated and headed out to En Gedi for 54.4 NIS per person.  There was a bit more confusion for us as to which En Gedi stop we should get off the bus, but in the end we chose En Gedi Beach, which seems to be the only free option.   There is a small shop with expensive food nearby, and a restroom which costs a few NIS to enter. Next time I will bring food.  We changed clothes down between the restroom and beach without a problem.
@@ -386,7 +386,7 @@ It was definitely a situation after which I thought of several things I could ha
 
 It turns out this is a brand new facility that opened yesterday according to my friend Sarah who has been going to and from Bethlehem almost every day during her stay in Jerusalem.
 
-[new checkpoint](http://robnugen.com/images/travel/Palestine/2005_olive_harvest/New_Bethlehem_checkpoint/702rampart_soldier_at_new_Bethlehem_checkpoint.jpg)
+[new checkpoint](https://robnugen.com/images/travel/Palestine/2005_olive_harvest/New_Bethlehem_checkpoint/702rampart_soldier_at_new_Bethlehem_checkpoint.jpg)
 
 --------
 

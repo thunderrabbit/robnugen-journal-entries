@@ -7,7 +7,7 @@ tags: [ "movies" ]
 
 ##01:58 Wednesday 28 September 2005
 
-[Star Wars III](http://robnugen.com/cgi-local/journal.pl?type=all&date=2005/09/27#Star_Wars_III)
+[Star Wars III](https://robnugen.com/cgi-local/journal.pl?type=all&date=2005/09/27#Star_Wars_III)
 
 
 

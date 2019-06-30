@@ -179,7 +179,7 @@ and corruption even as they see their fellow compañer@s fall.
 
 The photos I took at yesterday's march can be seen at  
 
-[http://www.flickr.com/photos/72025498@N00/](http://www.flickr.com/photos/72025498@N00/)  
+[https://www.flickr.com/photos/72025498@N00/](https://www.flickr.com/photos/72025498@N00/)  
 
 And I encourage any of you that are able to make a call or write to  
 
@@ -237,6 +237,6 @@ Fax 53.45.30.00 Ext3164
 
 [ejackson@senado.gob.mx](mailto:ejackson@senado.gob.mx)
 
-technorati tags:[Oaxaca](http://technorati.com/tag/Oaxaca)
+technorati tags:[Oaxaca](https://technorati.com/tag/Oaxaca)
 
-Blogged with [Flock](http://www.flock.com)
+Blogged with [Flock](https://www.flock.com)

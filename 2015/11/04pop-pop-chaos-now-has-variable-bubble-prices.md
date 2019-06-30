@@ -11,7 +11,7 @@ Pop Pop Chaos now has variable bubble prices!  The price to create a
 bubble actually goes negative if there are fewer than 30 bubbles, and
 gets quite expensive if there are more than like 200.
 
-http://www.poppopchaos.com/
+https://www.poppopchaos.com/
 
 ## 18:55 Wednesday 04 November 2015 JST
 

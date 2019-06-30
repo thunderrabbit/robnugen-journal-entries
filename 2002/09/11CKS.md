@@ -33,6 +33,6 @@ may have to do some additional edits to it, but hopefully not much.</p>
 <p class=date>12:13pm</p>
 
 <p>Done.  Tad late but oh well.  <a
-href="http://www.spiritblueeagle.com/cgi-bin/poetry.pl">poems</a>, <a
-href="http://www.spiritblueeagle.com/cgi-bin/meditations.pl">meditations</a>.
+href="https://www.spiritblueeagle.com/cgi-bin/poetry.pl">poems</a>, <a
+href="https://www.spiritblueeagle.com/cgi-bin/meditations.pl">meditations</a>.
 </p>

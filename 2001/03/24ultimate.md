@@ -9,7 +9,7 @@ date: 2001-03-24
 <p class=date>12:29am CST Sunday 25 March 2001</p>
 
 <p>I played 3 games of ultimate with the <a
-href="http://hometown.aol.com/gremillion/diskone.htm">Saturday Night
+href="https://hometown.aol.com/gremillion/diskone.htm">Saturday Night
 Specials</a>, the most welcoming ultimate pickup game around.  The
 brisk wind made for a great defensive game.  In classic SNS style
 though, we still threw long bombs for points.</p>

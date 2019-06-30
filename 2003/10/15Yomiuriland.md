@@ -15,6 +15,6 @@ fun" and for Frank I don't want to "miss anything," as he'll be here
 only one day.   Oh pooh.</p>
 
 <p>I don't know if YUL is open today or how much it costs.  <a
-href="http://www.yomiuriland.co.jp/">Website</a> is all in, get this:
+href="https://www.yomiuriland.co.jp/">Website</a> is all in, get this:
 <em>Japanese</em>.</p>
 

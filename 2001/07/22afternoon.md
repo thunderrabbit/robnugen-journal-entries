@@ -86,7 +86,7 @@ here.
 
 <P>Oh yeah, almost forgot the shameless plug. Check
 out my website, <A
-HREF="http://thearchive.hypermart.net">The
+HREF="https://thearchive.hypermart.net">The
 Archive</A>. It's a kickass blog with me and my
 friends (for those that don't know, a blog is like
 what Rob does, except it's all automated and super

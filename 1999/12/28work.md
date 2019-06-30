@@ -21,7 +21,7 @@ based BBS not-realtime chat area that is quite remniscent of the lovely
 Castle of Dreams.
 
 <p>It's at <a 
-href="http://www.geeky-boy.com/cgi-bin/bbs_thingie">http://www.geeky-boy  
+href="https://www.geeky-boy.com/cgi-bin/bbs_thingie">https://www.geeky-boy  
 .com/cgi-bin/bbs_thingie</a>.  If you come join us, feel free to say HI in 
 the Introduction area (a sub-item of Misc), or just run around all the 
 areas!

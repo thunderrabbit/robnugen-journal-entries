@@ -17,6 +17,6 @@ Lin got me an RC helicopter with camera on it!!  I wonder how many times I'll b
 
 In addition to dental floss I requested, Ma got (the dry) chocolate chip cookie making ingredients for Lin and me (except for flour).
 
-For fun, Fred brought one of the old sets of [Tipovers](http://www.ebay.com/itm/ws/eBayISAPI.dll?ViewItem&item=321011097812) that we had back in the day.
+For fun, Fred brought one of the old sets of [Tipovers](https://www.ebay.com/itm/ws/eBayISAPI.dll?ViewItem&item=321011097812) that we had back in the day.
 
 

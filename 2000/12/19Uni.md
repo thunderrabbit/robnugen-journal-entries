@@ -9,7 +9,7 @@ date: 2000-12-19
 
 <p>To forget about my computer woes, I looked at all
 the models of the <a
-href="http://www.sodaplay.com">Soda Zoo</a>, which are
+href="https://www.sodaplay.com">Soda Zoo</a>, which are
 pretty amazing.</p>
 
 <p>Then I unied from our parking lot down to the

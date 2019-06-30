@@ -13,7 +13,7 @@ told flyspell to load, and didn't see any errors, so I
 ## 19:44
 
 got a bit sidetracked looking at other options, and realize I don't
-even have ispell installed. [aspell](http://aspell.net/) is apparently better so I was
+even have ispell installed. [aspell](https://aspell.net/) is apparently better so I was
 looking at how to install that
 
 bah.  Maybe I'll try to get sublime to create journal entry files for

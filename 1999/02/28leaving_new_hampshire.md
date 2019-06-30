@@ -68,7 +68,7 @@ date: 1999-02-28
 
 <p class=date>2:50pm</p>
 
-<p>Oh my goodness this is even more wonderful. I got on the plane, nearly the last person on, but I got the very front seat. I'm sitting across from a sleeping man who is part of the <a href="http://www.nwba.org">NWBA</a> (National Wheelchair Basketball Association). Several members of the team are in these front 24 or 30 seats. The sleeping man across from me has lost his legs and has serious scars on his arms and face; he's lost most of the fingers on his left hand.
+<p>Oh my goodness this is even more wonderful. I got on the plane, nearly the last person on, but I got the very front seat. I'm sitting across from a sleeping man who is part of the <a href="https://www.nwba.org">NWBA</a> (National Wheelchair Basketball Association). Several members of the team are in these front 24 or 30 seats. The sleeping man across from me has lost his legs and has serious scars on his arms and face; he's lost most of the fingers on his left hand.
 
 <p>The team was pretty much being silly; talking and telling stories and stuff.. I joked with them when I could. Their team doesn't have an individual site, but I offered to build one for them if they ever want.
 

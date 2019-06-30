@@ -9,7 +9,7 @@ tags: [ "news" ]
 
 need to document the process of creating a unity game or maybe just a hello world
 
-download [Unity 3.3.0](http://unity3d.com/unity/download/)
+download [Unity 3.3.0](https://unity3d.com/unity/download/)
 
 The installer says
 
@@ -31,7 +31,7 @@ It's nice to have you.
 
 This looks like the easiest tutorial I've found, and he has 4 or 5 parts.
 
-[http://www.burtonsmediagroup.com/blog/2010/12/game-creation-with-unity3d/](http://www.burtonsmediagroup.com/blog/2010/12/game-creation-with-unity3d/)
+[https://www.burtonsmediagroup.com/blog/2010/12/game-creation-with-unity3d/](https://www.burtonsmediagroup.com/blog/2010/12/game-creation-with-unity3d/)
 
 update Jan 2012:  found this old entry; apparently didn't get past the tutorial
 

@@ -12,7 +12,7 @@ date: 2000-12-08
 KTRU to come back on the air.  The plan was for it to come on at
 4:05pm, but I listened all day, just in case.</p>
 
-<p>World Radio Network (<a href="http://www.wrn.org">www.wrn.org</a>)
+<p>World Radio Network (<a href="https://www.wrn.org">www.wrn.org</a>)
 had been broadcast for the bulk of the week that we were off the air.
 At about 3:30pm, KTRU stopped broadcasting WRN and just "played"
 static.  At 4:05pm there was a slight cough or blorp sound as the

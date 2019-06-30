@@ -79,6 +79,6 @@ From [手首の痛みをハンバーガーを食べながら治す](https://ameb
 答えは次回に！
 
 
-[湘南茅ヶ崎の理学療法士](http://www.shonanphysio.net)
+[湘南茅ヶ崎の理学療法士](https://www.shonanphysio.net)
 
-[http://www.shonanphysio.net](http://www.shonanphysio.net)
+[https://www.shonanphysio.net](https://www.shonanphysio.net)

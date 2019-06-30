@@ -18,11 +18,11 @@ house to install it.</p>
 BEFW4S11, so I drove back to work and got the right version.  </p>
 
 <p>This time I called Linksys customer service (Oh, that reminds me that at
-<a href="http://www.lynksis.com">lynksis.com</a>, there's a cat selling
+<a href="https://www.lynksis.com">lynksis.com</a>, there's a cat selling
 Linksys routers via amazon.com.  I think that Linksys could quite
 legitimately clain this would be confusing the consumers, the same argument
 that Ford used on <a
-href="http://www.fordreallysucks.com">fordreallysucks.com</a>, but Ford lost
+href="https://www.fordreallysucks.com">fordreallysucks.com</a>, but Ford lost
 that one (last I heard some months ago)</p>
 
 <p>Anyway, I called CSR and found out what had happened.  They had the

@@ -19,7 +19,7 @@ reflect back brightly, but I'm hopin' the sticker will be visible.
 <p>9:00am  pick up prints of pictures mentioned above
 
 <p>scan the pics and email them to the webmaster of <a
-href="http://www.savektru.org">www.savektru.org</a>
+href="https://www.savektru.org">www.savektru.org</a>
 
 <p>12:00pm  pick up flyers at Rice
 

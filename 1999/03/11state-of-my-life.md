@@ -29,7 +29,7 @@ date: 1999-03-11
 <br>Unfortunately, due to my not being ready and stuff, I didn't record on tape my debut Station-Turn-On-Sequence.  Oh well.  I thought about doing the sequence again and recording it, assuming no one was listening anyway, but chose not to.
 
 <p>I did relatively well this time, and felt more comfortable on the mic, but not perfectly so.  I recorded most of the times I was on air, but (ironically enough) didn't record the ones where I made errors, because I was in the process of making errors and not turning on the tape. I'll get this figured out soon.
-<br>if you don't know, I'm on Thursdays from 4-7am CST, also on the web at <a href="http://www.ktru.org">www.ktru.org</a>
+<br>if you don't know, I'm on Thursdays from 4-7am CST, also on the web at <a href="https://www.ktru.org">www.ktru.org</a>
 </li>
 
 <p><li>I put $1500 into the stock market. Actually I have the dollars in an account waiting for the IPO of FlashNet to be sometime next week I believe.</li>

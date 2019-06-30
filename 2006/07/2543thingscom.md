@@ -7,7 +7,7 @@ tags: [ "internet" ]
 
 ##02:10 Tuesday 25 July 2006
 
-[43things.com](http://43things.com/)   
+[43things.com](https://43things.com/)   
 
   
 
@@ -17,6 +17,6 @@ This site is a pretty cute semi-waste of time.  At least that is my first impre
 
 
 
-technorati tags:[43things](http://technorati.com/tag/43things)
+technorati tags:[43things](https://technorati.com/tag/43things)
 
-Blogged with [Flock](http://www.flock.com)
+Blogged with [Flock](https://www.flock.com)

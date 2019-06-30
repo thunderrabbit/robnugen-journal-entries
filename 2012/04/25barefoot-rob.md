@@ -7,7 +7,7 @@ tags: [ "journal" ]
 
 ##21:22 Wednesday 25 April 2012
 
-[![P343](http://getfile6.posterous.com/getfile/files.posterous.com/thunderrabbit/BwFDfxChkogpvFAerfogAoEpGpGofarbHDIJGJFwidjpwxpcDsFhzDsjwqBk/p343.jpg.scaled500.jpg)](http://getfile1.posterous.com/getfile/files.posterous.com/thunderrabbit/BwFDfxChkogpvFAerfogAoEpGpGofarbHDIJGJFwidjpwxpcDsFhzDsjwqBk/p343.jpg.scaled1000.jpg)
+[![P343](https://getfile6.posterous.com/getfile/files.posterous.com/thunderrabbit/BwFDfxChkogpvFAerfogAoEpGpGofarbHDIJGJFwidjpwxpcDsFhzDsjwqBk/p343.jpg.scaled500.jpg)](https://getfile1.posterous.com/getfile/files.posterous.com/thunderrabbit/BwFDfxChkogpvFAerfogAoEpGpGofarbHDIJGJFwidjpwxpcDsFhzDsjwqBk/p343.jpg.scaled1000.jpg)
 
 I am barefoot in Shibuya station right now. Walked from Artists Way class to the station. Enough of this shod lifestyle!
 

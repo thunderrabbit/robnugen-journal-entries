@@ -7,7 +7,7 @@ tags: [ "terror" ]
 
 ##18:26 Friday 11 January 2008
 
-http://www.cnn.com/2008/WORLD/meast/01/10/iraq.main/index.html?eref=rss_latest
+https://www.cnn.com/2008/WORLD/meast/01/10/iraq.main/index.html?eref=rss_latest
 
 
 > The bombardment near the Arab Jabour area on the southern outskirts of Baghdad is part of a new countrywide push against insurgents called Operation Phantom Phoenix,...

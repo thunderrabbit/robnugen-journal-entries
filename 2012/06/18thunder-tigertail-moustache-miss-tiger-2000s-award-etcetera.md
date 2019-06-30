@@ -11,7 +11,7 @@ Today I posted a pic of me with a tiger tail for a moustache on Android chat on 
 
  
 
-[http://robnugen.com/wiki/Times:2012-june-17_hilarious_moments_in_http://chat....](http://robnugen.com/wiki/Times:2012-june-17_hilarious_moments_in_http://chat.stackoverflow.com/rooms/15/android)
+[https://robnugen.com/wiki/Times:2012-june-17_hilarious_moments_in_https://chat....](https://robnugen.com/wiki/Times:2012-june-17_hilarious_moments_in_https://chat.stackoverflow.com/rooms/15/android)
 
  
 
@@ -19,11 +19,11 @@ Therefore I found my wiki entry of Lin,
 
  
 
-[http://robnugen.com/wiki/Peeps:Lin](http://robnugen.com/wiki/Peeps:Lin)
+[https://robnugen.com/wiki/Peeps:Lin](https://robnugen.com/wiki/Peeps:Lin)
 
  
 
-and realized I've not touched my wiki in some time..  So I updated pics of Alex for his 1+ year birthday  [http://robnugen.com/wiki/Peeps:Alex](http://robnugen.com/wiki/Peeps:Alex)
+and realized I've not touched my wiki in some time..  So I updated pics of Alex for his 1+ year birthday  [https://robnugen.com/wiki/Peeps:Alex](https://robnugen.com/wiki/Peeps:Alex)
 
  
 

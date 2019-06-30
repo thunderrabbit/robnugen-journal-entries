@@ -89,7 +89,7 @@ that.
 	- Rob!
 
 
-http://www.robnugen.com/journal
+https://www.robnugen.com/journal
 </pre>
 
 <p>I replied to her reply, which I found quite flattering.  There's a

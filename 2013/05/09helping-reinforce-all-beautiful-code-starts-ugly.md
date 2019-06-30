@@ -9,7 +9,7 @@ tags: [ "journal", "programming" ]
 
 **5:52pm Thursday 9 May 2013**
 
-"[All beautiful code starts ugly](http://nbsoftsolutions.com/blog/all-beautiful-code-starts-ugly)" was my mantra today as I hacked in some changes to the abstract search class.  It now features a new function
+"[All beautiful code starts ugly](https://nbsoftsolutions.com/blog/all-beautiful-code-starts-ugly)" was my mantra today as I hacked in some changes to the abstract search class.  It now features a new function
 
 
     

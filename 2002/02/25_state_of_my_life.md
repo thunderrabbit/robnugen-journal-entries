@@ -6,7 +6,7 @@ date: 2002-02-25
 ---
 
 <p>I wrote this on <a
-href="http://www.geeky-boy.com/cgi-bin/bbs_thingie/showitem/misc/00026/325">www.geeky-boy.com</a>,
+href="https://www.geeky-boy.com/cgi-bin/bbs_thingie/showitem/misc/00026/325">www.geeky-boy.com</a>,
 which is a chat board that I used to frequent.</p>
 
 <pre>
@@ -46,7 +46,7 @@ late March, like 14-26 March I think.  We'll hang out in London for
 some days and then Paris for some days.
 
 (*) Bryn is a high school youth in YRUU (<a
-href='http://www.uua.org/YRUU'>http://www.uua.org/YRUU</a>, Young
+href='https://www.uua.org/YRUU'>https://www.uua.org/YRUU</a>, Young
 Religious Unitarian Universalists, which is the amazing youth program
 I loved in my high school days.  I'm now an adult advisor in the
 program, which basically means that I'm just there as a resource for
@@ -76,7 +76,7 @@ of my friends who are teaching English there now, and to a friend here
 make this happen.  I'm choosing to finish my obligations here that
 will basically be over at the end of this year (apartment lease, and
 my leadership in our investment club (<a
-href='http://genxchange.tripod.com/'>http://genxchange.tripod.com/</a>)
+href='https://genxchange.tripod.com/'>https://genxchange.tripod.com/</a>)
 
 7) I'm still DJing at KTRU, but I have a sense that my days there are
 dwindling.  So I started to record my shows again, and I've been

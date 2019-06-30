@@ -44,7 +44,7 @@ It finished.  Now let's see if the images were actually copied.
 ## 11:51
 
 Nice.  They're all here
-http://b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/
+https://b.robnugen.com/travel/japan/Niigata_2016/shinkansen_to_tokyo/
 
 Here are the ones I like best:
 

@@ -11,7 +11,7 @@ We got to the beach around 10am and it was warm; by the time we left
 around 2pm it was hotter than I could stand to walk barefoot on the
 sand.
 
-We ate at a vegetarian buffet http://yoganiigata.jp/ Good for
+We ate at a vegetarian buffet https://yoganiigata.jp/ Good for
 1600 yen per person.
 
 ## 23:24 Saturday 28 July 2018 JST

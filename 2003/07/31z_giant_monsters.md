@@ -7,7 +7,7 @@ date: 2003-07-31
 
 <p class=date>12:09am JST Friday 1 August 2003</p>
 
-<FORM ACTION=http://thesurrealist.co.uk/monster.cgi METHOD=GET><TABLE
+<FORM ACTION=https://thesurrealist.co.uk/monster.cgi METHOD=GET><TABLE
 ALIGN=CENTER><TR><TD STYLE="border:solid #00dd00;
 background-color:#004400; padding:10px; text-align:center;
 color:#00dd00; font:x-small verdana;"><FONT SIZE=+1

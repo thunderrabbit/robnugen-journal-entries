@@ -8,7 +8,7 @@ date: 2014-11-15
 ##16:08 Saturday 15 November 2014 JST##
 
 To simplify
-[Counting with md5sum](http://www.reddit.com/live/thjep4nr9895), I
+[Counting with md5sum](https://www.reddit.com/live/thjep4nr9895), I
 wrote a little javascript thing to recursively look for required md5
 strings. Travis wrote a different version which I modified to make it
 recursive.  He had done things like "use strict" and maybe something
@@ -24,7 +24,7 @@ so sad (102)
 one.  I asked if he'd like a copy of the code for
 [cheating at md5](https://github.com/thunderrabbit/live-md5-recursive-cheater).
 He was like, "yep!" so I threw it up on Github.  Now the
-[recursive-cheater](http://thunderrabbit.github.io/live-md5-recursive-cheater/)
+[recursive-cheater](https://thunderrabbit.github.io/live-md5-recursive-cheater/)
 is available as a github page.
 
 After I posted the code, I realized I should have asked Travis about

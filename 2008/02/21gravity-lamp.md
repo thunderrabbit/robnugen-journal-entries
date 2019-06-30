@@ -8,7 +8,7 @@ tags: [ "green", "news", "technology" ]
 ##17:57 Thursday 21 February 2008
 
   
-[Clay Moulton - Core77's Greener Gadgets Design Competition 2008](http://www.core77.com/competitions/greenergadgets/projects/4306/)   
+[Clay Moulton - Core77's Greener Gadgets Design Competition 2008](https://www.core77.com/competitions/greenergadgets/projects/4306/)   
 
 
 > Gravia is an LED-lit floorlamp energized by people. To light Gravia, the user places a mass approximately 48" above the ground, that, in falling, powers a mechanism, generating electricity. Gravia harnesses the potential energy imparted by the user, rather than relying on any existing electrical infrastructure.  

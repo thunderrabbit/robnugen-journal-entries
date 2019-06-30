@@ -12,7 +12,7 @@ written before the rest of the day occurs.</p>
 
 <p>Played ultimate today in the HURL (Houston Ultimate
 Rec League) <a
-href="http://www.strayconesports.com">strayconesports.com</a>.
+href="https://www.strayconesports.com">strayconesports.com</a>.
  Fun game; I'm on the team called Fluff, The Final
 Conflict.  This is Ahmet's (sp) 4th and last year to
 captain the team called Fluff.</p>
@@ -28,7 +28,7 @@ intended.  8:20 or so.</p>
 against a pretty fast capable player. Fun stuff.</p>
 
 <p>Then Dude and I took some pictures for <a
-href="http://www.humanclock.com">humanclock dot
+href="https://www.humanclock.com">humanclock dot
 com</a>.  Laura watched, and was pretty entertained,
 and quite helpful with ideas!  (Unicycle, for one)</p>
 

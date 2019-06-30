@@ -8,7 +8,7 @@ date: 2001-08-04
 <p class=date>12:01am Saturday 04 August 2001</p>
 
 <p>Ohmygosh!!  I just went to <a
-href="http://www.moviecritic.com">www.moviecritic.com</a>,
+href="https://www.moviecritic.com">www.moviecritic.com</a>,
 and it's gone!!!</p>
 
 <p class=message>Due to resource constraints, The
@@ -25,7 +25,7 @@ we've enjoyed bringing it to you.</p>
 Critic Dot Com!</p>
 
 <p>Maggie, I looked up that actor we couldn't place. 
-<a href="http://us.imdb.com/Name?Cheadle,+Don">Don
+<a href="https://us.imdb.com/Name?Cheadle,+Don">Don
 Cheadle</a> is his name.   Ironically, he was in
 Swordfish, but I didn't remember that until I saw it
 on IMDB.</p>

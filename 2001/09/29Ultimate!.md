@@ -39,7 +39,7 @@ this:</p>
 <p>After the game, I ran around with Scout, Molly and
 Will's dog for a bit, and then Maggie came to pick up
 Wende so I could use the truck and go meet with <a
-href="http://www.thewealthsource.com/index_2.html">Kim
+href="https://www.thewealthsource.com/index_2.html">Kim
 Sawyer</a>, my personal coach.  He gave me a lot to
 think about.</p>
 

@@ -19,7 +19,7 @@ date: 1999-02-09
 
 <p>My angels say she's okay, but I'm just writing to express my concern and sadness and to say, "hey, I miss you."
 
-<p>Today Dude and I worked more on MR Labs, and plan to unveil the new site at <a href="http://www.mrlaboratories.com">www.mrlaboratories.com</a> by Friday.
+<p>Today Dude and I worked more on MR Labs, and plan to unveil the new site at <a href="https://www.mrlaboratories.com">www.mrlaboratories.com</a> by Friday.
 
 <p>Gymnastics was fun this evening; I did some roundoff and super tall back flips with good height and all that good stuff. Yay!
 

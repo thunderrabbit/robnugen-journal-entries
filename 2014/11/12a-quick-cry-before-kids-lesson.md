@@ -11,7 +11,7 @@ I'm prepping for the kids lesson today, and just had a good cry
 regarding fear of standing and *performing* in front of groups!
 
 I'm planning to use this
-[Goodbye song](http://www.dreamenglish.com/goodbye) each day, and as
+[Goodbye song](https://www.dreamenglish.com/goodbye) each day, and as
 I'm here in front of my computer trying to learn it, I just felt this
 surge of fear like OH FUCK! and just cried for a bit.
 

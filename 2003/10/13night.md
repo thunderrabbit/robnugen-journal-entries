@@ -9,13 +9,13 @@ date: 2003-10-13
 
 <p>No fruit on the perl tree, but as of tonight, I'm published on
 rcdb.com!  I took the 3rd and 4th pics for <a
-href="http://www.rcdb.com/installationgallery1193.htm">Hamu-Hamu
+href="https://www.rcdb.com/installationgallery1193.htm">Hamu-Hamu
 Ouku</a>.</p>
 
 <p>After the quick response by Duane of rcdb, I sent him a couple more
 pics (of Fujiyama) and have decided to zoom to Yomiuriland on
 Wednesday to check out <a
-href="http://www.rcdb.com/installationgallery1218.htm?Picture=1">Bandit</a>,
+href="https://www.rcdb.com/installationgallery1218.htm?Picture=1">Bandit</a>,
 which appears to be a pretty rockin' coaster!</p>
 
 <p>I'll take some super high quality pics of stuff there and will be

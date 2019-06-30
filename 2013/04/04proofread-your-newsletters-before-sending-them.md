@@ -9,7 +9,7 @@ tags: [ "guest writer", "internet" ]
 
 **6:28pm Thursday 4 April 2013**
 
-I got a newsletter from Kii recently. I appreciate that the view online link is nicely mangled, and that I can unsubscribe with a click. Link to [funny kii newsletter](http://info.kii.com/news-and-happenings-from-kii-0?ecid=ACsprvuPm5aKrO3hwOeu-WTXky-ocAAjy31sWdfEWNzfnvGfMmibPWoAaWIY6V1Dph5ACEYtA-jd&utm_source=hubspot_email_marketing&utm_medium=email&utm_content=7817950&_hsenc=p2ANqtz-86snaij8f8aSSGCvmpbzpDL9490mZTG15t3Dy9qHlDFdgKS2Q1z-gDSQ2klUQFY7eRyfVfQFbI2oqbR_uCj1AEGbb1tnZTmwpKtCtmzNLUtY9ANZo&_hsmi=7817950).
+I got a newsletter from Kii recently. I appreciate that the view online link is nicely mangled, and that I can unsubscribe with a click. Link to [funny kii newsletter](https://info.kii.com/news-and-happenings-from-kii-0?ecid=ACsprvuPm5aKrO3hwOeu-WTXky-ocAAjy31sWdfEWNzfnvGfMmibPWoAaWIY6V1Dph5ACEYtA-jd&utm_source=hubspot_email_marketing&utm_medium=email&utm_content=7817950&_hsenc=p2ANqtz-86snaij8f8aSSGCvmpbzpDL9490mZTG15t3Dy9qHlDFdgKS2Q1z-gDSQ2klUQFY7eRyfVfQFbI2oqbR_uCj1AEGbb1tnZTmwpKtCtmzNLUtY9ANZo&_hsmi=7817950).
 
 The newsletter I received includes this "sample text"
 

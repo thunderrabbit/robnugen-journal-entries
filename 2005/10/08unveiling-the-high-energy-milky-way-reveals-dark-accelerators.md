@@ -7,7 +7,7 @@ tags: [ "astronomy" ]
 
 ##00:45 Saturday 08 October 2005
 
-[Unveiling the high energy Milky Way reveals 'dark accelerators'](http://www.physorg.com/news3507.html)
+[Unveiling the high energy Milky Way reveals 'dark accelerators'](https://www.physorg.com/news3507.html)
 
 In general, this article tells me we know *nothing* about the universe.
 

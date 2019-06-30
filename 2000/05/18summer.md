@@ -17,7 +17,7 @@ providing warmth and happy energy!  Summer is great.
 <p>I wanna send The Feel Good Net today... but I can't find my deck of
 "52 Special Traditions for Family and Friends" I'll look some more
 this morning.  The Feel Good Net is <a
-href="http://fgnet.listbot.com">here</a>
+href="https://fgnet.listbot.com">here</a>
 
 <p>- - -
 

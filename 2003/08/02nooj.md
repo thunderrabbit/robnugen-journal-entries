@@ -31,7 +31,7 @@ cardboard things that he got from the post office.  To decrease the
 overall weight, he threw away (or microwaved) the booklets and CDs
 that had been in the cardboard.</p></li>
 
-<li><p>Wow.  The gift is _Be_ by <a href="http://www.cdbaby.com/stevefeinstein/">Steve Feinstein</a>.</p></li>
+<li><p>Wow.  The gift is _Be_ by <a href="https://www.cdbaby.com/stevefeinstein/">Steve Feinstein</a>.</p></li>
 </ol>
 
 <p>Funny: I put the CD in last night and my computer overheated, so I

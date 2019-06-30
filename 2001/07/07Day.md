@@ -14,7 +14,7 @@ night until noon when the gymnasts left after their practice.</p>
 Lesbian Terrorist.  Quite a good sociopolitical commentary.</p>
 
 <p>Visit <a
-href="http://www.hotheadpaisan.com">www.hotheadpaisan.com</a></p>
+href="https://www.hotheadpaisan.com">www.hotheadpaisan.com</a></p>
 
 <p class=message>hi this is laura at NO01! so...hi rob howz it hangin?
 im wearing a sombrero. yeah well. talk 2 you later. bye.</p>

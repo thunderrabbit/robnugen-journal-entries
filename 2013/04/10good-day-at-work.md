@@ -17,5 +17,5 @@ I wrote a new class that will just be some static functions that do custom queri
 
 **9:41pm Wednesday 10 April 2013**
 
-I looked into STORED FUNCTIONS and was like no way ferget that, and then I remembered oh [MySQL VIEWs](http://dev.mysql.com/doc/refman/5.5/en/create-view.html) are what I want.  Nice.  Compiled queries so they're even faster.  0.0002 seconds nice.
+I looked into STORED FUNCTIONS and was like no way ferget that, and then I remembered oh [MySQL VIEWs](https://dev.mysql.com/doc/refman/5.5/en/create-view.html) are what I want.  Nice.  Compiled queries so they're even faster.  0.0002 seconds nice.
 

@@ -52,7 +52,7 @@ wind, as if it were a table.  The wing just flew away.
 please.</p>
 
 <p>That was easy.  <a
-href="http://www.fatlion.com/sailplanes/boomerang.html">http://www.fatlion.com/sailplanes/boomerang.html</a>
+href="https://www.fatlion.com/sailplanes/boomerang.html">https://www.fatlion.com/sailplanes/boomerang.html</a>
 
 <p>Okay, bye!!</p>
 

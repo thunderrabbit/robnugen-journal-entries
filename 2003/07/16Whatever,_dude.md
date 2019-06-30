@@ -8,7 +8,7 @@ date: 2003-07-16
 <p class=date>11:04pm JST Wednesday 16 July 2003</p>
 
 <p>This is from an <a
-href="http://www.nytimes.com/2003/07/16/politics/16BUDG.html">article</a>
+href="https://www.nytimes.com/2003/07/16/politics/16BUDG.html">article</a>
 in The New York Times titled <b>White House Sees a $455 Billion Gap in
 '03 Budget</b>, written by David E. Rosenbaum.</p>
 

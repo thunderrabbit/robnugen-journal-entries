@@ -45,11 +45,11 @@ date: 1999-07-19
 
 </ul>
 
-<p>Tonight (Monday July 19) I'll be on KTRU from 10pm to 1am.  It's the Genetic Memory Show.  I don't know what that means, but I get to play the most obnoxious of the most obnoxious music that we have at KTRU!  YAY!  Listen in Houston at 91.7fm  or on the web at <a href="http://www.ktru.org">KTRU.org</a>.
+<p>Tonight (Monday July 19) I'll be on KTRU from 10pm to 1am.  It's the Genetic Memory Show.  I don't know what that means, but I get to play the most obnoxious of the most obnoxious music that we have at KTRU!  YAY!  Listen in Houston at 91.7fm  or on the web at <a href="https://www.ktru.org">KTRU.org</a>.
 
 <p>See ya!
 
-<p>Oh wait!  Last thing about Flashnet:  I'm increasing my sales, so I'll offer $15 to anyone who refers to me a Flashnet sale!  Sign up online at <a href="http://www.flash.net/~robnugen">www.flash.net/~robnugen</a> and <a href="mailto:robnugen@flash.net">email me</a> that you (or someone) signed up.  30 days after the sale (once the 30 day money back guarantee is over) I'll send you a check for $15!
+<p>Oh wait!  Last thing about Flashnet:  I'm increasing my sales, so I'll offer $15 to anyone who refers to me a Flashnet sale!  Sign up online at <a href="https://www.flash.net/~robnugen">www.flash.net/~robnugen</a> and <a href="mailto:robnugen@flash.net">email me</a> that you (or someone) signed up.  30 days after the sale (once the 30 day money back guarantee is over) I'll send you a check for $15!
 
 <p>If you're thinking "how the heck can he do that?" call 888-298-4173 for opportunity details!
 

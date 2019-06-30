@@ -88,7 +88,7 @@ service, blah blah blah.. I still felt mad.
 
 <p>Okay, so work was cool - I finished the changes to the Sample
 survey on my test machine <a
-href="http://rabbit.fsd.nu/sample">here</a>.  I installed a CAT 5
+href="https://rabbit.fsd.nu/sample">here</a>.  I installed a CAT 5
 cable so Dennis could move a printer away from the hot exterior window
 and closer into the middle of the building.  I asked if the specs for
 2 pending surveys had been delivered to us, but they had not, so I

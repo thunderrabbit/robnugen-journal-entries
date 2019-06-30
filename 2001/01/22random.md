@@ -19,7 +19,7 @@ acres and cows, chickens, a dog, five cats and a horse named Whisper!  Very
 cool to learn new things about people.</p>
 
 <p>I was reading on <a
-href="http://www.attrition.org">http://www.attrition.org</a> about different
+href="https://www.attrition.org">https://www.attrition.org</a> about different
 hacker shit.  Depending on the point of view, the internet world is full of
 security flaws that must be addressed.  Or there are just so many sites out
 there that the chance of a particular site being hacked is minimal.  I guess

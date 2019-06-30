@@ -36,21 +36,21 @@ You might stick in these links or inline a pic for the audience.  <br>
 <br>
 <br>
 great overview pic (best, IMHO):<br>
-http://www.rcdb.com/picmax/fujikyu-highland/fujiyama1.jpg<br>
+https://www.rcdb.com/picmax/fujikyu-highland/fujiyama1.jpg<br>
 <br>
 great first-person "oh, my god" pic; illustrates well the snakiness you speak of: <br>
-http://www.rcdb.com/picmax/fujikyu-highland/fujiyama5.jpg<br>
+https://www.rcdb.com/picmax/fujikyu-highland/fujiyama5.jpg<br>
 <br>
 okay side view (short and wide): <br>
-http://www.rcdb.com/picmax/fujikyu-highland/fujiyama2.jpg<br>
+https://www.rcdb.com/picmax/fujikyu-highland/fujiyama2.jpg<br>
 <br>
 thumbnail index of pics:<br>
-http://www.rcdb.com/installationgallery1190.htm<br>
+https://www.rcdb.com/installationgallery1190.htm<br>
 <br>
 rcdb park link, showing links to other coasters:<br>
-http://www.rcdb.com/locationdetail433.htm<br>
+https://www.rcdb.com/locationdetail433.htm<br>
 <br>
 official park website:<br>
-http://www.fujikyu.co.jp/fuji-q.html<br>
+https://www.fujikyu.co.jp/fuji-q.html<br>
 
 

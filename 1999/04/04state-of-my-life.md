@@ -29,7 +29,7 @@ Yay!  I've played some from that CD twice now.
 <p>The coolest mix I've done is play Miranda July's "Medical Wonder" over Francis Dhomont's _Frankenstein Symphony_.  That probably means nothing to you...
 <br>Basically "Medical Wonder" is a dramatic story told from the point of view of a researcher who has gone mad after an experiment.  _Frankenstein Symphony_ is a CD of crazy sounds chopped up from various symphonies.  I combined the two, using Dhomont to amplify the drama in "Medical Wonder."  I loved the result!
 
-<p>I'm on air from 4-7am on Thursdays (CST)  <a href="http://www.ktru.org">http://www.ktru.org</a> to listen on the web!!
+<p>I'm on air from 4-7am on Thursdays (CST)  <a href="https://www.ktru.org">https://www.ktru.org</a> to listen on the web!!
 </li>
 
 <p><li>I have made plans to go to Six Flags Great America on the weekend of May 7-9!!!!  I'm super totally excited about it!  I'll use my Southwest Airlines voucher to purchase the tickets (should still have some $$ left over) and attend the park FREE with my Six Flags Season Pass.  yay!!
@@ -38,7 +38,7 @@ Yay!  I've played some from that CD twice now.
 
 <p><li>Oh, this Six Flags excitement is part of writing my book, _Rob's Rollercoaster Roundup_, a big beautiful coffee table book of coasters and just riding them all around the country!  If you know any publishers who are looking for this project exactly, <a href="mailto:thunderrabbitATcheerfulDOTcom">let me know!</a></li>
 
-<p><li>Wende and Dude got me the best present in the world!!!  Vanity license plates (oh that sounds so egotistical) that say "MR LABS"  See? delightful advertising for <a href="http://www.mrlaboratories.com">www.mrlaboratories.com</a>!  Also I have a "ktru" sticker on my car cut to bits to say "www. mrlaboratories .com"
+<p><li>Wende and Dude got me the best present in the world!!!  Vanity license plates (oh that sounds so egotistical) that say "MR LABS"  See? delightful advertising for <a href="https://www.mrlaboratories.com">www.mrlaboratories.com</a>!  Also I have a "ktru" sticker on my car cut to bits to say "www. mrlaboratories .com"
 
 <p>Chopping to bits and reassembling KTRU stickers is a common practice. The unaltered stickers say
 <pre>

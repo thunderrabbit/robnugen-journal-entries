@@ -25,7 +25,7 @@ time.</p>
 <p>- - - -</p>
 
 <p>Uh oh - Dude just turned on <a
-href="http://www.thescreensavers.com">The
+href="https://www.thescreensavers.com">The
 Screensavers</a> on TechTV, his favorite show.  They
 are going to show something on IT, the Segueway.</p>
 

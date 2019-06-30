@@ -15,7 +15,7 @@ date: 1998-09-30
 
 <p>I'm actually pleased with Windows right about now.
 
-<p>I was able to easily scan pictures and maps and get some cash flow via <a href="http://www.mrlaboratories.com">MR Laboratories</a>
+<p>I was able to easily scan pictures and maps and get some cash flow via <a href="https://www.mrlaboratories.com">MR Laboratories</a>
 
 <p>I don't know if I mentioned, but I opened a business account and my first check was to Office Max to purchase office supplies: pens, paper, envelopes, a ZIP disk rack, and file folders.
 <br>My second check was to Carroll's used office furniture for a 3 drawer vertical filing cabinet.  Yay!

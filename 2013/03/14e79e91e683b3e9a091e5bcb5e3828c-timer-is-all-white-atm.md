@@ -7,4 +7,4 @@ tags: [ "meisogambare", "my code", "open source" ]
 
 ##22:43 Thursday 14 March 2013
 
-I just added to my issues list an indication that I want to [have a bit of color in 瞑想頑張れ](https://github.com/thunderrabbit/meiso-gambare/issues/2).  That will be easy squeezy.   Gotta create some icons and default.png files, turn off the post to FB stuff, and then I can [fuckitship.it](http://fuckitship.it/).
+I just added to my issues list an indication that I want to [have a bit of color in 瞑想頑張れ](https://github.com/thunderrabbit/meiso-gambare/issues/2).  That will be easy squeezy.   Gotta create some icons and default.png files, turn off the post to FB stuff, and then I can [fuckitship.it](https://fuckitship.it/).

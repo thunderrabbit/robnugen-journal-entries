@@ -7,7 +7,7 @@ date: 2016-11-22T23:40:21+09:00
 
 ## 23:40 Tuesday 22 November 2016 JST
 
-I plan to speak at [PechaKucha on 24 November](http://pechakucha.org/cities/tokyo/events/581bfccc9831a6196b000002)!
+I plan to speak at [PechaKucha on 24 November](https://pechakucha.org/cities/tokyo/events/581bfccc9831a6196b000002)!
 
 These are the pictures I've submitted, and pretty much what I plan to
 say for each picture.

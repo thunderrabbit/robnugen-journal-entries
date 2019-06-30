@@ -49,4 +49,4 @@ date: 1999-04-05
 
 <p>There you have it.  Nothing *horrible* would have happened had I not been on at seven.  I wouldn't have lost my job; the FCC wouldn't have cared, but it's a fun story.
 
-<p>Oh, and I'll be on tomorrow Tuesday 6 april 1999 from 1 to 3pm.  <a href="http://www.ktru.org">www.ktru.org</a>
+<p>Oh, and I'll be on tomorrow Tuesday 6 april 1999 from 1 to 3pm.  <a href="https://www.ktru.org">www.ktru.org</a>

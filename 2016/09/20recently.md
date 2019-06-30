@@ -28,7 +28,7 @@ when she realizes how much fun it isn't to be cold and wet.  Hopefully
 she'll be okay.
 
 Fred got his Minecraft account set up and I directed him to
-[Delta](http://www.reddit.com/r/deltaminecraft).  We may play tonight
+[Delta](https://www.reddit.com/r/deltaminecraft).  We may play tonight
 if I can get home in time.
 
 Actually as I write this, I'm on the local train, specifically because

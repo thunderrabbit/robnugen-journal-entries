@@ -8,7 +8,7 @@ date: 2014-12-25
 ##00:09 Sunday 28 December 2014 JST##
 
 Yay! for the first time I got to have a bit of a tour in
-[Toshiba Science Museum](http://toshiba-mirai-kagakukan.jp/en/) on
+[Toshiba Science Museum](https://toshiba-mirai-kagakukan.jp/en/) on
 Christmas day.
 
 It's actually quite interesting; they've got a couple of presentations

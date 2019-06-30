@@ -8,7 +8,7 @@ date: 2001-05-03
 <p class=date>12:57pm Thursday 3 May 2001</p>
 
 <p>I wrote to the people at <a
-href="http://www.hallmark.com">Hallmark</a> and am
+href="https://www.hallmark.com">Hallmark</a> and am
 giving them a link here because of their funny funny
 ad!</p>
 

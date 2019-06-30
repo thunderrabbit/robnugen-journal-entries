@@ -33,8 +33,8 @@ presumably unrelated issue: the shitty UPS that Dennis
 "got a great deal on" fucking broke.  The shit is new,
 like 5 months old and for no apparent reason, it died.
  I suggested that we go with <a
-href="http://www.apcc.com">APC</a> because <a
-href="http://www.apcc.com">APC</a> rules, but the crap
+href="https://www.apcc.com">APC</a> because <a
+href="https://www.apcc.com">APC</a> rules, but the crap
 he bought obviously is a load of shit.</p>
 
 <p>So two points of failure got us down at 7pm.  The

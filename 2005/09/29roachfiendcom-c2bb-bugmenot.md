@@ -7,7 +7,7 @@ tags: [ "internet" ]
 
 ##04:23 Thursday 29 September 2005
 
-[roachfiend.com Â» BugMeNot](http://roachfiend.com/archives/2005/02/07/bugmenot/)
+[roachfiend.com Â» BugMeNot](https://roachfiend.com/archives/2005/02/07/bugmenot/)
 
 This awesome extension is like a dream come true for getting into free registration sites.   
 

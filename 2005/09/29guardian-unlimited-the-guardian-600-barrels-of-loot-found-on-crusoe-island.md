@@ -7,7 +7,7 @@ tags: [ "news", "technology" ]
 
 ##14:04 Thursday 29 September 2005
 
-[Guardian | 600 barrels of loot found on Crusoe island](http://www.guardian.co.uk/international/story/0,3604,1578135,00.html)
+[Guardian | 600 barrels of loot found on Crusoe island](https://www.guardian.co.uk/international/story/0,3604,1578135,00.html)
 
 Obviously the money belongs to Arturito.  Finders, keepers.  Too bad he's not sentient, yet.
 

@@ -21,7 +21,7 @@ going to be an Aggie in law</FONT><BR>
 <B><FONT COLOR="#0000ff">Rocky:</font></b><FONT COLOR="#000000"> Wow! 
  Congrats!  When is the big day?</FONT><BR>
 <B><FONT COLOR="#ff0000">Rob:</font></b><FONT COLOR="#000000"> <A 
-HREF="http://www.robnugen.com/cgi-local/journal.cgi?dir=2000/02&file=29Wende.html">http://www.robnugen.com/cgi-local/journal.cgi?dir=2000/02&file=29Wende.html</FONT></A><BR>
+HREF="https://new.robnugen.com/journal/2000/02/29/wende/">https://new.robnugen.com/journal/2000/02/29/wende/</FONT></A><BR>
 
 <B><FONT COLOR="#ff0000">Rob:</font></b><FONT COLOR="#000000"> It's 
 going to be June 21 of some year.</FONT><BR>

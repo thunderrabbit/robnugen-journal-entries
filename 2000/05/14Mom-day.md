@@ -43,7 +43,7 @@ cake stuff.  Wow.  Even I couldn't eat more than a big slice.
 
 <p>My new shift at KTRU is Saturday night 7 to 10pm.  That's 7 to 10pm
 Saturdays this summer on KTRU 91.7FM in Houston, or on the web <a
-href="http://www.ktru.org/realaudio.html">www.ktru.org/realaudio.html</a>.
+href="https://www.ktru.org/realaudio.html">www.ktru.org/realaudio.html</a>.
 The number at the station is 713-348-5878 (713-FIT-KTRU) Yay!!!
 
 <p><img src='/images/rob/wL-ROB.gif'>

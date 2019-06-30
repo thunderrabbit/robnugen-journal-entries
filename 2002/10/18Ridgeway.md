@@ -59,4 +59,4 @@ principal's office.  He's sitting silently in the seat next to me.</p>
 <p>I'm about to roll out of here once Mrs Fales is done meeting with
 whomever she converses now and I learn what is Ridgeway's website.</p>
 
-<p><a href="http://www.columbia.k12.mo.us/rwe/">Ridgeway</a></p>
+<p><a href="https://www.columbia.k12.mo.us/rwe/">Ridgeway</a></p>

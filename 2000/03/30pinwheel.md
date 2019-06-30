@@ -10,7 +10,7 @@ date: 2000-03-30
 <p>Oh my goodness.
 
 <p>A friend of mine sent me a URL to something called <a 
-href="http://www.soda.co.uk/soda/constructor/index.htm">Constructor</a>. 
+href="https://www.soda.co.uk/soda/constructor/index.htm">Constructor</a>. 
  Due to my silliness and this URL, I have been at work 8 hours but have 
 logged 0.50 hours today.
 

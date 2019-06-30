@@ -36,13 +36,13 @@ overboard.</p>
 <br>It would be "at the tiller" not "at the keel" (the keel is the big thing at the bottom of the boat) [fixed.  Thanks!]<br>
 <br>
 Here are pictures of different kinds of keelboats, shields are at the bottom of this page:<br>
-http://www.inrete.it/vela/classi/chig7.html<br>
+https://www.inrete.it/vela/classi/chig7.html<br>
 (the red thing at the bottom of the shields picture is a keel)<br>
 <br>
 The UCI Sailing Club home page:<br>
-http://www.sailingclub.net<br>
+https://www.sailingclub.net<br>
 (click on "officers" and you'll see my name!)<br>
 <br>
 Websites about shields:<br>
-http://www.shieldsclass.org/<br>
+https://www.shieldsclass.org/<br>
 <br>

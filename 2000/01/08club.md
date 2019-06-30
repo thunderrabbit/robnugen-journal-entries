@@ -19,7 +19,7 @@ double our dollars in 5 years.  Hopefully 10X our dollars in 5 years,
 but official we hope for doubling.
 
 <p>If you'd like to start your own investment club, visit <a
-href="http://www.better-investing.org/">http://www.better-investing.org</a>!
+href="https://www.better-investing.org/">https://www.better-investing.org</a>!
 
 <p>Ultimate frisbee tonight!
 

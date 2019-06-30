@@ -7,7 +7,7 @@ date: 2003-11-16
 
 <p class=date>9:14am JST Sunday 16 November 2003</p>
 
-<p><a href="http://members.cox.net/impunity/endofworld.swf">members.cox.net/impunity/endofworld.swf</a></p>
+<p><a href="https://members.cox.net/impunity/endofworld.swf">members.cox.net/impunity/endofworld.swf</a></p>
 
 ###comments
 

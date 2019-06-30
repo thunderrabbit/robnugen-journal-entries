@@ -7,4 +7,4 @@ tags: [ "journal" ]
 
 ##17:48 Saturday 28 January 2012
 
-[Thanks, Tame!!  Wassap, Boo? (mp3)](http://audioboo.fm/boos/642888-thanks-tame-wassap-boo.mp3?keyed=true&source=embed)
+[Thanks, Tame!!  Wassap, Boo? (mp3)](https://audioboo.fm/boos/642888-thanks-tame-wassap-boo.mp3?keyed=true&source=embed)

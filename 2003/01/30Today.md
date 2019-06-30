@@ -22,7 +22,7 @@ Fold Five and Ben Folds Live with Jack and Kate.  And hugging Matt
 when he came to pick up Kate.  They should be in Austin soon.</p>
 
 <p>Anyway, I got my address book entries moved to my website, using
-the shareware <a href="http://www.tesol.net/scripts/AddrBook/">address
+the shareware <a href="https://www.tesol.net/scripts/AddrBook/">address
 book here</a>.  It's not fantastic, but it's really good for a freely
 downloadable thing.  I'll probably pay her a few dollars for it.  I
 put the addressbook on my website so that I can lose my computer and
@@ -58,6 +58,6 @@ Monday 14 June 2004 and 13,000 day party on Thursday 27 October 2005,
 etc.  Fun Fun fun stuff!!</p>
 
 <p>Oh, and thanks to Mark Leonard who found a cooler <a
-href="http://www.timeanddate.com/date/duration.html">days old
+href="https://www.timeanddate.com/date/duration.html">days old
 calculation</a> site than what I've written.</p>
 

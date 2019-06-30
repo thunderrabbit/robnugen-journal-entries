@@ -21,7 +21,7 @@ Spoilers next!!
 
 Just finished the movie.  I was optimistic that they wouldn't kill
 KJU, but they did.  The character played by
-[Diana Bang](http://www.imdb.com/name/nm3048983/?ref_=tt_cl_t5) was
+[Diana Bang](https://www.imdb.com/name/nm3048983/?ref_=tt_cl_t5) was
 great+funny+hot!
 
 Some of the humor was childish; some of the violence was overdone;

@@ -21,7 +21,7 @@ given to me by Bryn a couple years ago.  Nice relaxing evening.</p>
 <p>Wende called me and wanted to eat ice cream so we met at Amy's and
 chilled and talked.  I told her of my intention to teach English in
 Japan next year.  It all started with Bryn encouraging me to travel
-and then me finding <a href="http://www.usexperiment.org">US
+and then me finding <a href="https://www.usexperiment.org">US
 Experiment</a>, and deciding that being a leader with them would be a
 pretty cool thing, but learning that I don't really have enough
 in-country experience, though I have ample kooboodles of youth work

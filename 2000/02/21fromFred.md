@@ -37,7 +37,7 @@ soon. (Uh, well, it may be more like two tricks: I may have to
 position them, and then orient them.)  Obviously, once I've gotten it,
 I'll've also solved the 4x4.  At that point, it's off to the 6x6 and
 7x7.  Though I don't expect to find physical versions, there's a nice
-java app at <a href="http://www.tdb.uu.se/~karl">http://www.tdb.uu.se/~karl</a> I could expand to simulate
+java app at <a href="https://www.tdb.uu.se/~karl">https://www.tdb.uu.se/~karl</a> I could expand to simulate
 them.
 
 Let me know when you've figured out how to get the 3x3 center squares

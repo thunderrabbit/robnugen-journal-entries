@@ -25,7 +25,7 @@ minutes or so) after our eighth 2 hour meeting (of eight).
 
 I made it to the meeting a tiny bit more rushed than normal, but I
 arrived on time after having visited Paola to receive my second [Bach
-herbal remedies](http://www.bachcentre.com/centre/firstpag.htm) bottle
+herbal remedies](https://www.bachcentre.com/centre/firstpag.htm) bottle
 from her.  Paola also fed me some rice she had made, plus a pear.  I
 showed her the
 [playlist of latest Marble Track 3](https://www.youtube.com/watch?v=-KjsYc4Mb5g&list=PL0osPGt21FB48UwuhtCUoi9JndC9YDHAZ)

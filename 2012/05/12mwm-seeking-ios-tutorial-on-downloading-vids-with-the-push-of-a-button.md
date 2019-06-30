@@ -7,7 +7,7 @@ tags: [ "journal" ]
 
 ##15:25 Saturday 12 May 2012
 
-I had some quick and easy success with the first two cocos2d tutorials at [http://www.raywenderlich.com/tutorials](http://www.raywenderlich.com/tutorials) but now I'm having a hard time finding a clear tutorial on how to download a video from a remote server and play it on iPhone.
+I had some quick and easy success with the first two cocos2d tutorials at [https://www.raywenderlich.com/tutorials](https://www.raywenderlich.com/tutorials) but now I'm having a hard time finding a clear tutorial on how to download a video from a remote server and play it on iPhone.
 
  
 

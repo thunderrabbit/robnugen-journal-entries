@@ -27,7 +27,7 @@ Took a while, but I did it.  (almost)
     
     All of the Customizations are visible on the site, but the index only
     shows the first ten.  If you open the last one on the list
-    http://www.example.com/custom/66/ and then click the 前 button, you
+    https://www.example.com/custom/66/ and then click the 前 button, you
     can see the previous entry.
     
     (*) It looks like we will have to change the URL for

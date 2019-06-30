@@ -20,7 +20,7 @@ from 5-7pm  and Friday evening from 11pm to 1am.  Then I might be at
 montrose radio from 1am to 3am.  Or not if I am too tired!
 
 Montrose Radio?  Yes; they used to be a pirate station in Houston, but are
-now Web based broadcast only:  <a href="http://www.firstamendmentradio.org">www.firstamendmentradio.org</a>.
+now Web based broadcast only:  <a href="https://www.firstamendmentradio.org">www.firstamendmentradio.org</a>.
 
 I went to one of their meetings and I might begin to DJ there as well.
 We'll see.

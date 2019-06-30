@@ -107,14 +107,14 @@ long-term research effort dedicated to help us better
 understand and protect our home planet.   
 
 Images and video are available at: 
-<a href="http://www.gsfc.nasa.gov/topstory/20020416iceberg.html">http://www.gsfc.nasa.gov/topstory/20020416iceberg.html</a>
+<a href="https://www.gsfc.nasa.gov/topstory/20020416iceberg.html">https://www.gsfc.nasa.gov/topstory/20020416iceberg.html</a>
 
 Information on SeaWiFS can be found at:
-<a href="http://SeaWiFS.gsfc.nasa.gov/SEAWIFS.html">http://SeaWiFS.gsfc.nasa.gov/SEAWIFS.html</a>
+<a href="https://SeaWiFS.gsfc.nasa.gov/SEAWIFS.html">https://SeaWiFS.gsfc.nasa.gov/SEAWIFS.html</a>
 
 Information on icebergs is available on the National Snow and 
 Ice Data Center Web site at:
-<a href="http://nsidc.org">http://nsidc.org</a>
+<a href="https://nsidc.org">https://nsidc.org</a>
                          -end-
 
                             * * *

@@ -10,7 +10,7 @@ date: 2002-08-29
 <p>Wow.  Cool stuff in my life.</p>
 
 <p>I've just read my friends' entries on <a
-href="http://www.livejournal.com/users/thunderrabbit/friends">livejournal</a>.
+href="https://www.livejournal.com/users/thunderrabbit/friends">livejournal</a>.
 not "caught up" by any means, but read the last 25 entries.  I had
 been reading them and keeping up about a year+ ago, but quit after I
 simply couldn't keep up due to work.  I'm not exactly a workin' man

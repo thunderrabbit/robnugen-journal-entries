@@ -23,7 +23,7 @@ meeting.
 <p>Tonight the gang celebrates Maggie and Molly's birthday at Maggie and John's house!
 
 <p>Oh!! One more thing!  Manda sent me a fun URL!  <a
-href="http://www.phoneSpell.org/"></a>
+href="https://www.phoneSpell.org/"></a>
 
 <p><img src='/images/rob/wL-ROB.gif'>
 

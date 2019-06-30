@@ -12,7 +12,7 @@ date: 2001-08-23
 me a URL:</p>
 
 <p><a
-href="http://www.humanclock.com">www.humanclock.com</a></p>
+href="https://www.humanclock.com">www.humanclock.com</a></p>
 
 <p>SO FUNNNY!!!!!  So creative and awesome!!!!</p>
 
@@ -20,7 +20,7 @@ href="http://www.humanclock.com">www.humanclock.com</a></p>
 idea, and 1/2 lunacy of others:</p>
 
 <p>They are <a
-href="http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=1262767960"><em>selling</em>
+href="https://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=1262767960"><em>selling</em>
 timeslots</a>!!!</p>
 
 <p>Extra super duper props to the one who thought of

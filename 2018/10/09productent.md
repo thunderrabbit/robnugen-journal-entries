@@ -14,7 +14,7 @@ done.
 Men's Work soon.
 
 8:00am IL lesson in which we talked about Tsukiji and 2020 Olympics
-http://the-japan-news.com/news/article/0004879769
+https://the-japan-news.com/news/article/0004879769
 
 came home to work on MT3, but ended up just sleeping
 

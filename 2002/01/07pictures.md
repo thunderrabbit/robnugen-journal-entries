@@ -10,7 +10,7 @@ date: 2002-01-07
 
 <p>I've taken several pictures recently.</p>
 
-<p><a href="http://www.robnugen.com/cgi-local/images.cgi">click
+<p><a href="https://www.robnugen.com/cgi-local/images.cgi">click
 here</a> and the new pics are under KTRU, marble_track, apt313, and
 under "Watching construction in my area" -> 59 | zoo_pond -> after</p>
 

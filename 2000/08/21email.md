@@ -35,13 +35,13 @@ on your receipt. For your full account history,
 click below (AOL users cut and paste into your
 browser):
 
-http://gasoline.priceline.com/gas/myaccount.asp
+https://gasoline.priceline.com/gas/myaccount.asp
 
 To add more gallons to your gasoline account,
 click on the link below (AOL users cut and paste into
 your browser):
 
-http://gasoline.priceline.com
+https://gasoline.priceline.com
 
 Thank you again for using the Priceline for
 Gasoline service.
@@ -181,7 +181,7 @@ overpumped. If you over pump by more than 5 gallons, we will charge your
 credit card the retail pump price for each gallon overpumped.
 
 Please check the status of your account 24 hours a day on our Web site
-at http://www.priceline.com . Simply click "My Profile" and "Your
+at https://www.priceline.com . Simply click "My Profile" and "Your
 Account History" to view account details.
 
 Thank you for inquiring about Priceline for Gasoline. We look forward to

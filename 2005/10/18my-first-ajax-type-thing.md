@@ -7,9 +7,9 @@ tags: [ "my code" ]
 
 ##06:23 Tuesday 18 October 2005
 
-This code is very very very stolen from [Wikipedia](http://en.wikipedia.com).
+This code is very very very stolen from [Wikipedia](https://en.wikipedia.com).
 
-I don't know why it doesn't work here, but it works on my [journal](http://robnugen.com/cgi-local/journal.pl?type=all&date=2005/10/16#zz_AJAX)
+I don't know why it doesn't work here, but it works on my [journal](https://robnugen.com/cgi-local/journal.pl?type=all&date=2005/10/16#zz_AJAX)
 
 
 

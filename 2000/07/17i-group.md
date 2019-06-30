@@ -10,7 +10,7 @@ date: 2000-07-17
 
 <p>I'm chillin' in the warrior lodge before my men's group.  Good stuff each Monday night.
 
-<p>Today at work I didn't do a whole lot of work, but read some different SAS stuff and surfed the 'net and played on the <a href="http://www.geeky-boy.com/cgi-bin/bbs_thingie">BBS Thingie</a> on geeky-boy.com. 
+<p>Today at work I didn't do a whole lot of work, but read some different SAS stuff and surfed the 'net and played on the <a href="https://www.geeky-boy.com/cgi-bin/bbs_thingie">BBS Thingie</a> on geeky-boy.com. 
 
 <p>We started a discussion on theology and stuff.  I tossed into the pile 3 different theories of the structure of God in the universe, but none of them really seem to be what I'm guessing must be 'reality'.  
 

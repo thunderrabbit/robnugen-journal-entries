@@ -9,4 +9,4 @@ date: 2015-07-12T13:06:51+09:00
 
 They just replaced the magsafe input thing.
 
-![got my computer back; hard drive not wiped](http://i.imgur.com/jjPSfapm.jpg)
+![got my computer back; hard drive not wiped](https://i.imgur.com/jjPSfapm.jpg)
