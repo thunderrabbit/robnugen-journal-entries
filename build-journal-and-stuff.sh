@@ -11,6 +11,10 @@ echo "not pulling"
 cd ~/journal-hugo/content/journal
 git pull
 
+cd ~/journal-hugo/themes/purehugo
+git push origin master
+git push gh master
+
 cd ~/journal-hugo/
 git add .
 git commit -m "latest entries"
