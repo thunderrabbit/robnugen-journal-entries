@@ -1,6 +1,9 @@
 ---
 title: "removing a bump from my ear (1/10 would not do again)"
-alias: /journal/2019/08/06/removing-a-bump-from-my-ear/
+aliases: [
+    "/journal/2019/08/06/removing-a-bump-from-my-ear",
+    "/journal/2019/08/06/removing-a-bump-from-my-ear-1"
+]
 tags: [ "bump", "ear", "doctor" ]
 author: Rob Nugen
 date: 2019-08-06T12:46:54+09:00
