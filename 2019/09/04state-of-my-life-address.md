@@ -51,3 +51,12 @@ date: 2019-09-04T11:11:44+09:00
     that I paid attention to, and now Abraham via
     [Esther Hicks](https://www.abraham-hicks.com).  I wonder about
     developing my own channeling skills.
+13. Jennie is still our cat. Lin recently said Jennie is 7 years old.
+14. I still do not have a driver's license in Japan (nor the US, since
+    my old license expired).  Lin wants me to get one, but I do not
+    really want to drive in Tokyo.  Especially not have to drive her
+    "big" minivan.
+15. I showed up 25 minutes late to my online group today and no one
+    was there.  It's like my worst dream come true, after I had just
+    written a page of gratitude to the men of the group for keeping it
+    going while I am not in attendance.
