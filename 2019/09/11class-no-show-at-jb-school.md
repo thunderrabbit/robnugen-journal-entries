@@ -27,14 +27,19 @@ practice piano next Sunday for a rehearsal on September 22nd.
 Ended up talking about my websites, and I realize why I am so
 distracted!
 
-robnugen.com
-b.robnugen.com
-thunderrabbit.com
-marbletrack3.com
-amazeaweek.net
-mkpjapan.org
-wanb.us (no website yet / ever?)
+* robnugen.com
+* b.robnugen.com
+* thunderrabbit.com
+* marbletrack3.com
+* amazeaweek.net
+* mkpjapan.org
+* wanb.us (no website yet / ever?)
 
-defunct
+defunct:
+
+* chairapy.biz / chairapy.com
+* ctbriefs.net
+* mrlaboratories.com
+
 
 
