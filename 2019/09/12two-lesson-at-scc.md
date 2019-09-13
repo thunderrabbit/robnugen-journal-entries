@@ -22,6 +22,6 @@ It reminds me of the time I was out of time to do my speech in
 Japanese, and just read it off the page instead of knowing what I was
 saying.
 
-Today might be the last day I can shop at the nearby shop; it is
-closing on Monday the 23rd.  I may come back on that day to see if
-prices are slashed or what.
+Today might be the last day I can shop at the nearby shop; their last
+day is Monday the 23rd.  I may come back on that day to see if prices
+are slashed or what.
