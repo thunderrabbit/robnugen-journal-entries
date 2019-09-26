@@ -205,3 +205,50 @@ commits were breaking commits.
 I found a [breaking commit that used to be a genius commit](https://bitbucket.org/thunderrabbit/purehugo/commits/16559a8ffa3ec74f57af7398a90f259f41972675), but
 apparently its genius did not survive changes in Hugo.
 
+##### 00:32 Thursday 26 September 2019 JST
+
+And now I have gotten enough of the errors out of the system that I
+can get Netlify to build *something* with the repo.  I still do not
+have /blog nor /journal indices working, but getting closer.  There
+were a couple of commits that did work, so .. oh I can try one now.
+
+Dangit.  There are different errors with some commits I marked as
+working in my local setup.
+
+Too tired to work on it now.  good night!
+
+##### 22:20 Thursday 26 September 2019 JST
+
+Yayyy!!  As of today, I got an [old version of my site](https://new-robnugen-com-fallible-abandoned-58f942.netlify.com) working on
+Netlify.
+
+Both the
+[journal](https://new-robnugen-com-fallible-abandoned-58f942.netlify.com/journal/)
+and
+[blog](https://new-robnugen-com-fallible-abandoned-58f942.netlify.com/blog/)
+have their own pages, and the top page shows just the blog entries.
+
+The pagination on the top page is messed up, but now that I have
+something working, I can ask peeps on the Hugo forum for help on
+that.  My attempt to fix that is what broke my site in the first
+place.
+
+Okay..  now to get my journal entries and blog entries up to date!
+
+Go to main repo directory
+
+    cd ~/journal-hugo
+
+Keep track of the old master branch
+
+    git branch -f old_master c670763
+
+Move the master branch to the branch that is working now ([bbfbe552a5a6f8b9337af3ac41ee359250a309df](https://bitbucket.org/thunderrabbit/journal-hugo/commits/bbfbe552a5a6f8b9337af3ac41ee359250a309df))
+
+    git branch -f master
+
+It took 45 minutes to deploy before, so this may be up in 45 minutes.
+https://new-robnugen-com-fallible-abandoned-58f942.netlify.com
+
+Oh dang, I triggered a deploy by uploading my latest journal without
+uploading this latest change.
