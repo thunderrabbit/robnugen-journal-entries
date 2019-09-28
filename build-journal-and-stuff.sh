@@ -29,7 +29,6 @@ git push gh master
 cd ~/journal-hugo/
 git add content/journal/
 git commit -m "$COMMIT_MESSAGE"
-exit
 git push bb master
 git push origin master
 git push origin netlify
