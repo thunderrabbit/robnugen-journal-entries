@@ -84,3 +84,66 @@ My reply:
 Update: I started a Twitter Storm rar
 https://twitter.com/marbletracks/status/1178800231569166336 0
 followers, unite!!
+
+##### 07:47 Tuesday 01 October 2019 JST
+
+Hi Rob Nugen,
+
+Thanks for writing to us!
+
+We received your message and we’ll respond to vimeo.com後robnugen.com as soon as possible. (How soon, you ask? Read more about our email response timelines.)
+
+In the meantime, you may find an answer more quickly by:
+
+* Searching our Help Center: vimeo.com/help
+* Reading the Vimeo Guidelines: vimeo.com/guidelines
+* Learning how to Report a Violation: vimeo.com/help/violations
+
+You can respond to this email if you find the answer you were looking for, or if you would like to provide more information that will help us resolve your issue... the more detail, the better!
+
+LOVE,
+Vimeo
+
+##### 06:12 Wednesday 02 October 2019 JST
+
+from: Dan R. (Vimeo Trust & Safety)
+
+Oct 1, 5:12 PM EDT
+
+Hi Rob, 
+
+Your account was terminated for violating Vimeo's Terms of Service (https://vimeo.com/terms).
+
+Vimeo does not allow you to upload videos ripped from TV, movies, or anywhere else. The golden rule of Vimeo is that you are only permitted to upload videos that you created. The video titled "[just my feet](http://feet.robnugen.com)" was the clip found in violation of our guidelines. 
+
+We’re happy to provide a list of your videos, which we’ll send to the primary address on your account. The file you receive will contain the following information:
+
+* Video ID
+* Video title
+* Number of plays
+* Number of likes
+* Download link
+
+&lt;snip>
+
+I've also gone ahead and issued a refund of your Vimeo Plus subscription. Please allow 3-5 business days for the funds to post to your account. 
+
+Please let us know if you have any questions!
+
+Sincerely,
+Dan R.
+
+##### 07:53 Wednesday 02 October 2019 JST
+
+Hi Dan
+
+Thank you for your reply.
+
+Ah, yes, I can understand "Just My Feet" is in violation. 
+
+Can we remove that video, consider me educated, and reinstate my account?
+
+My focus now is Marble Track 3, not old TV shows I was on.
+
+Best,
+Rob
