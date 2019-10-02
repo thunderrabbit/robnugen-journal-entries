@@ -24,3 +24,22 @@ git commit -m "$COMMIT_MESSAGE"
 git push bb master
 git push origin master
 git push origin netlify
+
+echo "building"
+hugo
+
+echo "deploying"
+echo "changing directory"
+cd public
+echo "sleeping"
+sleep 2
+echo "adding"
+git add .
+echo "sleeping"
+sleep 2
+echo "committing"
+git commit -m "Published on `date`"
+echo "sleeping"
+sleep 2
+echo "pushing"
+git push origin master
