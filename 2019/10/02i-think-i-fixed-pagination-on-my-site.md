@@ -33,3 +33,20 @@ https://github.com/sizucca/sizucca.com/blob/ab66fae0008761e890460d482dea0f1e9b23
 Using $paginator instead of $pages as the variable name helped a lot.
 I guess Hugo looks for that variable by default in the pagination
 bits.
+
+##### 13:02 Thursday 03 October 2019 JST
+
+The site is failing on Netlify for some reason, but I set up a new
+Netlify site that will hopefully get me sorted.
+
+But that's not why I'm writing.
+
+I wondered why my existing server was not serving the site; I set it
+up to be updated whenever I push the public directory to the server.
+
+(check check check) ohhh there's your problem!
+
+It makes a difference if I WIPE THE `.git/` DIRECTORY by WIPING the
+`public/` directory to debug all this. hahah oops.
+
+But that's not why I'm writing ...
