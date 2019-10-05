@@ -1,5 +1,5 @@
 ---
-title: "mornin'"
+title: "mornin"
 tags: [ "am", "good morning" ]
 author: Rob Nugen
 date: 2019-10-05T06:10:12+09:00
