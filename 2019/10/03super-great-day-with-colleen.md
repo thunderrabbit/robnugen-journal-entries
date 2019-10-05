@@ -1,5 +1,5 @@
 ---
-title: "Great day with Colleen"
+title: "Super great day with Colleen"
 tags: [ "pics", "great", "day", "colleen", "seattle" ]
 author: Rob Nugen
 date: 2019-10-04T00:07:01+09:00
@@ -11,14 +11,6 @@ Colleen had to wait an extra hour for me to go through immigration and
 customs in Seattle.  Once we hung out, though, it was like no time had
 passed!
 
-[![2019 oct 03 francois in Narita 03](//b.robnugen.com/travel/US/Seattle/2019/thumbs/2019_oct_03_francois_in_Narita_03.jpg)](//b.robnugen.com/travel/US/Seattle/2019/2019_oct_03_francois_in_Narita_03.jpg)
-[![2019 oct 03 francois in Narita 04](//b.robnugen.com/travel/US/Seattle/2019/thumbs/2019_oct_03_francois_in_Narita_04.jpg)](//b.robnugen.com/travel/US/Seattle/2019/2019_oct_03_francois_in_Narita_04.jpg)
-[![2019 oct 03 francois in Narita 05](//b.robnugen.com/travel/US/Seattle/2019/thumbs/2019_oct_03_francois_in_Narita_05.jpg)](//b.robnugen.com/travel/US/Seattle/2019/2019_oct_03_francois_in_Narita_05.jpg)
-[![2019 oct 03 francois in Narita 06](//b.robnugen.com/travel/US/Seattle/2019/thumbs/2019_oct_03_francois_in_Narita_06.jpg)](//b.robnugen.com/travel/US/Seattle/2019/2019_oct_03_francois_in_Narita_06.jpg)
-[![2019 oct 03 francois in Narita 07](//b.robnugen.com/travel/US/Seattle/2019/thumbs/2019_oct_03_francois_in_Narita_07.jpg)](//b.robnugen.com/travel/US/Seattle/2019/2019_oct_03_francois_in_Narita_07.jpg)
-[![2019 oct 03 francois in Narita 08](//b.robnugen.com/travel/US/Seattle/2019/thumbs/2019_oct_03_francois_in_Narita_08.jpg)](//b.robnugen.com/travel/US/Seattle/2019/2019_oct_03_francois_in_Narita_08.jpg)
-[![2019 oct 03 francois in Narita 09](//b.robnugen.com/travel/US/Seattle/2019/thumbs/2019_oct_03_francois_in_Narita_09.jpg)](//b.robnugen.com/travel/US/Seattle/2019/2019_oct_03_francois_in_Narita_09.jpg)
-[![2019 oct 03 francois in Narita 10](//b.robnugen.com/travel/US/Seattle/2019/thumbs/2019_oct_03_francois_in_Narita_10.jpg)](//b.robnugen.com/travel/US/Seattle/2019/2019_oct_03_francois_in_Narita_10.jpg)
 [![2019 oct 03 francois seattle with colleen11](//b.robnugen.com/travel/US/Seattle/2019/thumbs/2019_oct_03_francois_seattle_with_colleen11.jpg)](//b.robnugen.com/travel/US/Seattle/2019/2019_oct_03_francois_seattle_with_colleen11.jpg)
 [![2019 oct 03 francois seattle with colleen12](//b.robnugen.com/travel/US/Seattle/2019/thumbs/2019_oct_03_francois_seattle_with_colleen12.jpg)](//b.robnugen.com/travel/US/Seattle/2019/2019_oct_03_francois_seattle_with_colleen12.jpg)
 [![2019 oct 03 francois seattle with colleen13](//b.robnugen.com/travel/US/Seattle/2019/thumbs/2019_oct_03_francois_seattle_with_colleen13.jpg)](//b.robnugen.com/travel/US/Seattle/2019/2019_oct_03_francois_seattle_with_colleen13.jpg)
@@ -52,3 +44,8 @@ eating pizza.
 
 Fun playing [Pandemic](https://www.zmangames.com/en/games/pandemic/)
 three times and losing in different ways all three times!
+
+##### 09:49 Friday 04 October 2019 PDT
+
+I have just renamed all the photos and will redo the block of photos
+above to intersperse them with descriptions.
