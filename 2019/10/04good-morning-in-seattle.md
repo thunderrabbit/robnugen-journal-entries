@@ -1,7 +1,6 @@
 ---
 title: "Good morning in Seattle"
-tags:
-[ "sleepy", "colleen", "ryan", "quiet", "seattle", "sea-tac", "airport", "gratitude" ]
+tags: [ "sleepy", "colleen", "ryan", "quiet", "seattle", "sea-tac", "airport", "gratitude" ]
 author: Rob Nugen
 date: 2019-10-04T06:53:10+09:00
 ---
