@@ -18,7 +18,7 @@ git push github master &
 cd ~/journal-hugo/content/journal
 git pull
 
-cd ~/journal-hugo/
+cd ~/barefoot_rob/
 git add content/journal/
 git commit -m "$COMMIT_MESSAGE"
 git push bb master
