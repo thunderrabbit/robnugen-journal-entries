@@ -21,5 +21,4 @@ git pull
 cd ~/barefoot_rob/
 git add content/journal/
 git commit -m "$COMMIT_MESSAGE"
-git push bb master
 git push origin master
