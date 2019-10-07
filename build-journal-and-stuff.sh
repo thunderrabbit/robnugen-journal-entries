@@ -15,7 +15,7 @@ git push bitbucket master
 git push norigin master &
 git push github master &
 
-cd ~/journal-hugo/content/journal
+cd ~/barefoot_rob/content/journal
 git pull
 
 cd ~/barefoot_rob/
