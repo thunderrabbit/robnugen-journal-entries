@@ -12,7 +12,7 @@ Lots of laughter and the waiter gave a little glass of water to
 Francois.  Later in the evening I tried to give the water to Francois
 but it spilled on the table.
 
-We played Good Frog, Bad Frog, Ceiling Wll Floor, and the Opposite Game.
+We played Good Frog, Bad Frog, Ceiling Wall Floor, and the Opposite Game.
 
 I introduced the name Silent Football, but we did not play nor even
 start the instructions.
