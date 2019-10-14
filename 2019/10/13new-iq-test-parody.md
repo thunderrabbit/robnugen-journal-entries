@@ -5,8 +5,6 @@ author: Rob Nugen
 date: 2019-10-13T23:47:35+09:00
 ---
 
-(written 23:47 Sunday 13 October 2019 CDT)
-
 Fred asked, "how big is your butt?  I need to get you some new
 underwear.  Something besides whitie tighties."
 
