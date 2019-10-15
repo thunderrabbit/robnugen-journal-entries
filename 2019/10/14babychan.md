@@ -5,7 +5,22 @@ author: Rob Nugen
 date: 2019-10-14T07:21:27+09:00
 ---
 
-(written 07:21 Tuesday 15 October 2019 HST)
+#### (written on plane)
+
+Booooooooooooooooooooooooffffffff
+
+I'm on the plane to fly from Honolulu to Hilo to see my Babychan!  I
+still cannot quite forgive myself for having had her fly there a few
+hours ahead of me.. Why not meet in Honolulu and fly to Hilo
+together??  Next time, for sure.
+
+My flight to Honolulu was crowded and delayed enough on arrival that I
+couldn't have made the 14:05 departure for Hilo.  I wondered if
+there'd be any way to move myself to an earlier flight.
+
+Anyway, looking forward to seeing Lin!
+
+#### (written 07:21 Tuesday 15 October 2019 HST)
 
 Yesterday so great to see Lin again!
 
