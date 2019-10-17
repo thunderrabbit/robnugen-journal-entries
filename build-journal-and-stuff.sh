@@ -20,5 +20,9 @@ git pull
 
 cd ~/barefoot_rob/
 git add content/journal/
+sleep 0.1      # so git lock file can be removed
+
 git commit -m "$COMMIT_MESSAGE"
+sleep 0.1     # so git lock file can be removed
+
 git push origin master
