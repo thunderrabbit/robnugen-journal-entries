@@ -36,7 +36,7 @@ poem which he wrote after I gave him the topic "Thunder Rabbit":
 
 [@briselively](https://www.instagram.com/briselively/)
 
-<a href="#andrew" />I later went back to Andrew and paid him $20 cash plus a promise of $10
+<a name="#andrew"></a>I later went back to Andrew and paid him $20 cash plus a promise of $10
 via PayPal.  I have not been able to pay him because my PayPal account
 wants me to verify my phone which passed away today due to having
 gotten wet.
