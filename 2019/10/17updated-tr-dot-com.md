@@ -14,6 +14,6 @@ library.
 
 https://thunderrabbit.com/castle/The_library
 
-I have considered removing this website to Hugo, just so I won't have
+I have considered moving thunderrabbit.com to Hugo, just so I won't have
 to worry about updating MediaWiki.  But getting rid of
 mediawiki means people would have to learn git to help update the site.
