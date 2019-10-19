@@ -1,5 +1,5 @@
 #!/bin/bash
-cd ~/journal-hugo-local
+cd ~/barefoot_rob
 
 open http://localhost:1313/
 
