@@ -46,7 +46,7 @@ Now why would that be??
 
 [![2019 oct 15 boat ramp to nowhere](//b.robnugen.com/journal/2019/hawaii/thumbs/2019_oct_15_boat_ramp_to_nowhere.jpg)](//b.robnugen.com/journal/2019/hawaii/2019_oct_15_boat_ramp_to_nowhere.jpg)
 
-it used to be ocean!
+I am standing on what used to be ocean!
 
 [![2019 oct 15 this was ocean](//b.robnugen.com/journal/2019/hawaii/thumbs/2019_oct_15_this_was_ocean.jpg)](//b.robnugen.com/journal/2019/hawaii/2019_oct_15_this_was_ocean.jpg)
 
