@@ -24,3 +24,5 @@ Due to an equipment change, Lin and I do not have our seats next to
 each other.  So far, we have not gotten them back together, but I am optimistic.
 
 9:19 am: done!  Seats 42K and 42L.
+
+[![2019 oct 19 francois safely on plane](//b.robnugen.com/journal/2019/hawaii/thumbs/2019_oct_19_francois_safely_on_plane.jpg)](//b.robnugen.com/journal/2019/hawaii/2019_oct_19_francois_safely_on_plane.jpg)
