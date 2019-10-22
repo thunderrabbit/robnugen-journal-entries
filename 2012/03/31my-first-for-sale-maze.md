@@ -1,0 +1,12 @@
+---
+date: 2012-03-31T20:44:15+09:00
+slug: my-first-for-sale-maze
+title: My first for sale maze
+tags: [ "journal" ]
+---
+
+##20:44 Saturday 31 March 2012
+
+[![enlined shapes maze zazzle_print](https://rlv.zcache.com/enlined_shapes_maze_poster-r073d9c04f70441e8b2237d872df740b5_wvg_325.jpg?bg=0xffffff)](https://www.zazzle.com/enlined_shapes_maze_poster-228980916563410334?rf=238244143855569915)  
+[enlined shapes maze](https://www.zazzle.com/enlined_shapes_maze_poster-228980916563410334?rf=238244143855569915) by [AMazeAWeekDotCom](https://www.zazzle.com/amazeaweekdotcom*)  
+View other [Mazes Posters](https://www.zazzle.com/mazes+posters?rf=238244143855569915)

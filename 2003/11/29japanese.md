@@ -1,0 +1,64 @@
+---
+title: japanese
+tags: []
+author: Rob Nugen
+date: 2003-11-29
+---
+
+<p class=date>9:54pm JST Saturday 29 November 2003</p>
+
+<p>I'm resisting the huge temptation to tweak my .emacs file to allow
+  the date to be written in Japanese format.</p>
+
+<p>この電車はほかの電車より小さい。</p>
+
+<p>This train is smaller than other trains.</p>
+
+<p>東京タワーはアイフルタワーより高い。</p>
+
+<p>Tokyo Tower is taller than Eiffel Tower.</p>
+
+<p>(for these first two sentences, I'm not sure where the verb is,
+  but this is the structure given to me by なおみ.)</p>
+
+<p>輪ゴムはいくらですか。</p>
+
+<p>How much is does a rubber band cost?</p>
+
+<p>１円と思しろい。</p>
+
+<p>1 yen I think.</p>
+
+<p>わあ、私の舌を見てくらさい。</p>
+
+<p>Wow. Look at my tongue please.</p>
+
+<p>何で。</p>
+
+<p>Why?</p>
+
+<p>わかんない。</p>
+
+<p>I dunno.</p>
+
+<p>これはたのしいと思います。</p>
+
+<p>I think it's very interesting.</p>
+
+<p>何を言わたか。</p>
+
+<p>What did you say?</p>
+
+<p>それは蚊の下もいます。 (*)</p>
+
+<p>There are more under that mosquito.</p>
+
+<p>(*) this is my first pun in Japanese.</p>
+
+<p>私は下手運転します、でもその運転手は上手運転したと思います。</p>
+
+<p>I drive badly, but I think that driver drives well.</p>
+
+<p>たくさんの女のうさぎはかわいいです。</p>
+
+<p>Many rabbits are cute.</p>
