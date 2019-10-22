@@ -11,7 +11,7 @@ COMMIT_MESSAGE=$@
 echo "Will use \"${COMMIT_MESSAGE}\" as the commit message"
 
 echo "pushing"
-git push bitbucket master
+git push origin master
 git push norigin master &
 git push github master &
 
