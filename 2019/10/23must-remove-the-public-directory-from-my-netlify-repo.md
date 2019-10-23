@@ -14,3 +14,7 @@ searchable phrase is probably "index.html: not a directory"
 
 The problem, I think, was that my public/ directory was in the git
 repo.  I have just removed it and hope that fixes Netlify.
+
+##### 18:21
+
+Yep.  Fixed.
