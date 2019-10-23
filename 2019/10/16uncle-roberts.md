@@ -42,3 +42,17 @@ wants me to verify my phone which passed away today due to having
 gotten wet.
 
 I owe Andrew $10 via PayPal.
+
+##### 10:00 Wednesday 23 October 2019 JST
+
+Dear Nugen ​Rob,
+
+You've sent $10.00 USD to Andrew Crusoe.
+
+Your note to Andrew Crusoe:
+
+yahoo finally! thank you for your patience
+
+Transaction Details
+
+Transaction ID: -*snip*-               October 23, 2019
