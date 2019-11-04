@@ -98,4 +98,27 @@ date: 2019-10-31T13:16:41+09:00
 30. 22:37 Halloween 2019: I am on the train now, waiting to leave
     Shinjuku, headed back toward home.
 
+##### 14:53 Friday 01 November 2019 JST
+
+I will leave the above though it got a bit detailed for an SOML
+
+1. Lin and I live in 神奈川県川崎市麻生区 in the house we bought a few
+   years ago.
+2. We have no kids, but Jennie is our cat
+3. We just had our first official honeymoon, in Hawaii
+4. TJ Bike is still my bicycle, since before I broke my shoulder in
+Hakone
+5. surgery.robnugen.com no longer points to the page regarding that accident
+6. I updated my site to take over robnugen.com instead of
+   new.robnugen.com and now those images are all stranded on the
+   Dreamhost server
+7. I should probably just hire someone to bring all those over to my
+existing site
+8. I am thinking about putting ~wanbus on a vultr server
+
+
+
+
+
+
 
