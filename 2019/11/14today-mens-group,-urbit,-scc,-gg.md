@@ -20,17 +20,18 @@ a different format.  If I run this with input 0, I expect the output
 to be `~zod`, which is galaxy number 0
 
     |=  a=*
-    (scot %p a)
+    `@ub`a
      
 But when I run it via `+aura 0` it fails as below:
 
     > |commit %sandbox
     >=
-    : /~bus/sandbox/26/gen/aura/hoon
-    > +aura 0
+    : /~bus/sandbox/25/gen/aura/hoon
+    > +aura "fffhbhbhbhbbgffxfcgv"
     /~zod/home/~2019.11.8..13.39.06..44bf/sys/vane/ford:<[4.828 18].[4.828 59]>
-    /~bus/sandbox/0/gen/aura/hoon::[1 1].[2 12]>
-    /~bus/sandbox/0/gen/aura/hoon::[2 1].[2 12]>
+    /~bus/sandbox/0/gen/aura/hoon::[1 1].[2 7]>
+    /~bus/sandbox/0/gen/aura/hoon::[2 1].[2 7]>
+    /~bus/sandbox/0/gen/aura/hoon::[2 6].[2 7]>
     nest-fail
     ford: %slim failed:
     ford: %ride failed to compute type:
@@ -61,3 +62,11 @@ want to say, even if I don't always know it!
 Next is GG lesson here in Akihabara.  It's my third-to-last lesson
 with them.  :-(
 
+#### urbit (23:57pm)
+
+Yay I solve the first week's assignment.
+
+    |=  a=*
+	`@p`a
+
+I am not sure why I did not get it sooner.
