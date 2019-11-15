@@ -15,4 +15,4 @@ https.
 
 But now, MT3 livestream yay
 
-{{ twitter 1194107389315821569 }}
+{{< tweet 1194107389315821569 >}}
