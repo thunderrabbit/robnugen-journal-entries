@@ -99,7 +99,7 @@ possible.  Imagine becoming really small and getting inside the
 painful tissue.  Be an investigator at a factory watching how the
 workers deal with this situation.
 
-Now of course if there is blood leaving your body, get it fixed on a
+Of course, if there is blood leaving your body, get it fixed on a
 physical level, not just with mental awareness.  Stop the bleeding and
 go to a clinic!
 
@@ -108,13 +108,25 @@ go to a clinic!
 Write down new messages while meditating.  Write down new messages
 while walking.  Notice messages while barefoot vs while shod.
 
+Start a list of these notes of inspiration in a notebook you can keep
+with you, or on your phone.  Move the icon to that game to a back page
+and put the icon for your sparks note taking app in its place on the
+front screen of your phone.
+
 Do you hear them more or less at different times of your day?
 Different phases of your energy/activity?
 
-What is the overall thrust of the income messages?  What scares you
-about the message?  (If nothing, it's probably not juicy enough.)
+Open your sparks notebook each day to review entries and see which
+ones are coming to fruition.
 
-What's a step you can do toward accomplishing the message?
+What is the overall thrust of the income messages?  Are there enough
+messages in one general direction to call it a project?  Are you excited
+about moving it forward?  If yes, go for it!
+
+What's a step you can do toward accomplishing the project?  What
+scares you about moving forward to accomplish it?  (If nothing, it's
+probably not .)
+
 
 What support do you need to do the step?
 
