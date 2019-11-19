@@ -20,7 +20,7 @@ and Petya early next year!
 
 Today I mostly worked on MT3, doing over 3 hours of livestream.
 
-Jimmy was on the chat and helped me name [El Lifty Lever]().  Thanks
+Jimmy was on the chat and helped me name [El Lifty Lever](https://www.marbletrack3.com/parts/el-lifty-lever/).  Thanks
 Jimmy!
 
 Then I watched too much crap on Netflix.  Finished The Dark Tower and
