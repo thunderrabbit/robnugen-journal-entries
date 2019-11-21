@@ -34,6 +34,9 @@ dirt from our front bushes and put the Littlest Alex on that.
 [![2019 nov 21 alexii mini 1](//b.robnugen.com/journal/2019/many_mini_alex/thumbs/2019_nov_21_alexii_mini_1.jpg)](//b.robnugen.com/journal/2019/many_mini_alex/2019_nov_21_alexii_mini_1.jpg)
 [![2019 nov 21 alexii mini 2](//b.robnugen.com/journal/2019/many_mini_alex/thumbs/2019_nov_21_alexii_mini_2.jpg)](//b.robnugen.com/journal/2019/many_mini_alex/2019_nov_21_alexii_mini_2.jpg)
 
+Here he is from July 2019:
+
+[![2019 july 31 alex green three](//b.robnugen.com/journal/2019/many_mini_alex/thumbs/2019_july_31_alex_green_three.jpg)](//b.robnugen.com/journal/2019/many_mini_alex/2019_july_31_alex_green_three.jpg)
 
 Here are his brothers now:
 
@@ -43,9 +46,11 @@ Here are his brothers now:
 
 Here's how they were in July:
 
-[![2019 july 31 alexi vertical](//b.robnugen.com/journal/2019/many_mini_alex/thumbs/2019_july_31_alexi_vertical.jpg)](//b.robnugen.com/journal/2019/many_mini_alex/2019_july_31_alexi_vertical.jpg)
-[![2019 july 31 alex black twelve](//b.robnugen.com/journal/2019/many_mini_alex/thumbs/2019_july_31_alex_black_twelve.jpg)](//b.robnugen.com/journal/2019/many_mini_alex/2019_july_31_alex_black_twelve.jpg)
-[![2019 july 31 alex green three](//b.robnugen.com/journal/2019/many_mini_alex/thumbs/2019_july_31_alex_green_three.jpg)](//b.robnugen.com/journal/2019/many_mini_alex/2019_july_31_alex_green_three.jpg)
 [![2019 july 31 alex red eight](//b.robnugen.com/journal/2019/many_mini_alex/thumbs/2019_july_31_alex_red_eight.jpg)](//b.robnugen.com/journal/2019/many_mini_alex/2019_july_31_alex_red_eight.jpg)
-[![2019 july 31 alexi horizontal](//b.robnugen.com/journal/2019/many_mini_alex/thumbs/2019_july_31_alexi_horizontal.jpg)](//b.robnugen.com/journal/2019/many_mini_alex/2019_july_31_alexi_horizontal.jpg)
+[![2019 july 31 alex black twelve](//b.robnugen.com/journal/2019/many_mini_alex/thumbs/2019_july_31_alex_black_twelve.jpg)](//b.robnugen.com/journal/2019/many_mini_alex/2019_july_31_alex_black_twelve.jpg)
 [![2019 july 31 alexi red twins](//b.robnugen.com/journal/2019/many_mini_alex/thumbs/2019_july_31_alexi_red_twins.jpg)](//b.robnugen.com/journal/2019/many_mini_alex/2019_july_31_alexi_red_twins.jpg)
+
+All of them in July:
+
+[![2019 july 31 alexi vertical](//b.robnugen.com/journal/2019/many_mini_alex/thumbs/2019_july_31_alexi_vertical.jpg)](//b.robnugen.com/journal/2019/many_mini_alex/2019_july_31_alexi_vertical.jpg)
+[![2019 july 31 alexi horizontal](//b.robnugen.com/journal/2019/many_mini_alex/thumbs/2019_july_31_alexi_horizontal.jpg)](//b.robnugen.com/journal/2019/many_mini_alex/2019_july_31_alexi_horizontal.jpg)

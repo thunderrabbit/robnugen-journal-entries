@@ -17,3 +17,8 @@ wind) or what.  Sad to imagine he will die soon, but at least now not
 as likley to be squished to death by a shoe.
 
 No pics now until I get wifi.
+
+[![2019 nov 21 hornet on paper](//b.robnugen.com/journal/2019/thumbs/2019_nov_21_hornet_on_paper.jpg)](//b.robnugen.com/journal/2019/2019_nov_21_hornet_on_paper.jpg)
+
+[![2019 nov 21 hornet on tree 1](//b.robnugen.com/journal/2019/thumbs/2019_nov_21_hornet_on_tree_1.jpg)](//b.robnugen.com/journal/2019/2019_nov_21_hornet_on_tree_1.jpg)
+[![2019 nov 21 hornet on tree 2](//b.robnugen.com/journal/2019/thumbs/2019_nov_21_hornet_on_tree_2.jpg)](//b.robnugen.com/journal/2019/2019_nov_21_hornet_on_tree_2.jpg)

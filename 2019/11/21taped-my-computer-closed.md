@@ -10,3 +10,5 @@ keeps it open which keeps it on.  Not sure why being on battery did
 not make it turn off.
 
 Anyway, I put some tape on it to keep it closed.
+
+[![2019 nov 21 taped computer closed](//b.robnugen.com/journal/2019/thumbs/2019_nov_21_taped_computer_closed.jpg)](//b.robnugen.com/journal/2019/2019_nov_21_taped_computer_closed.jpg)
