@@ -27,12 +27,13 @@ Ah yes,
 and they have a shortlink on art.robnugen.com
 https://art.robnugen.com/iss09
 
-This is the first set I have unarchived; I do not know what other URLs
-I will find that do not match the current convention of
-art.robnugen.com/art (where the second art is specific to the
-piece(s)).  Therefore I am not yet ready to write their latest URL on
-the back.  (10+ years after they were finished)  At this point, I
-think I will write it only if their future new owner wants it written.
+This is the first set I have pulled out of a box in my closet; I do
+not know what other URLs I will find that do not match the current
+convention of art.robnugen.com/art (where the second art is specific
+to the piece(s)).  Therefore I am not yet ready to write their latest
+URL on the back.  (10+ years after they were finished) At this point,
+I think I will write it only if their future new owner wants it
+written.
 
 And I just realized a good way to validate editors on the wiki.  If
 they send me a photo of the date and the image and their preferred

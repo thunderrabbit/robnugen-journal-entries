@@ -12,6 +12,8 @@ date: 2019-11-27T06:59:26+09:00
   to take a photo.  I headed home and they went for a walk in the
   autumn leaves.
 
+[![2019 nov 24 SOGO lisa rob sakura   sakura](//b.robnugen.com/journal/2019/thumbs/2019_nov_24_SOGO_lisa_rob_sakura___sakura.jpg)](//b.robnugen.com/journal/2019/2019_nov_24_SOGO_lisa_rob_sakura___sakura.jpg)
+
 * Sunday after no-SOGO, Lin and I went to a car dealership to look at
   a car she has been ~coveting~ wanting for a while.  It's a teeny bit
   shorter than her current vehicle, which I have said is too long/big
