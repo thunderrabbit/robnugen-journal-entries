@@ -14,7 +14,7 @@ the box!)
 
 ### Well, what is "old" exactly?
 
-I found some pieces that are labeled with robnugen.com/art:
+I found some pieces that are labeled with http://robnugen.com/art:
 
 Inner Space Set, with 6 pieces.  They are all 12cm by 13.6cm.  (4.7 x
 5.3 inches)
@@ -40,3 +40,13 @@ they send me a photo of the date and the image and their preferred
 username, I can create the username for them.  I am thinking I should
 require minimum length passwords...  I just want to make sure minimum
 garbage ends up on the wiki.
+
+##### 13:29 Thursday 28 November 2019 JST
+
+I scanned the backs of
+[Inner Space Set](https://wiki.robnugen.com/wiki/Art:Inner_Space_Set_of_Six_-_11_March_2009),
+and created a permalink for a piece I called
+[Old School](https://wiki.robnugen.com/wiki/Art:Old_School_-_24_April_2010).
+
+Mohammed asked me for an explantion of Inner Space Set, and I created
+the story about electron microscope at the top of the page.
