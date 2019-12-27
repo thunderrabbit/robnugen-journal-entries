@@ -62,6 +62,16 @@ As I'm free styling these words, believing in the face of my editor toGood them 
 
 How allow your inner world to peak chaos.  Allow yourself time to sort yourself out.  Give yourself support to support yourself out. Let me be that person for you knows how to dive down into the chaos in finding gold that is down there been buried All of these years under the misunderstandings of the small child is trying to Figure out this place in a crazy world.  It's not his fault the world is crazy, but it is his problem, and  Please understand he has done the very best he can. Take a moment to look back on your inner child And bless yourself.  Give yourself the gift of digging down into the emotionsthat have Been there since they couldn't be processed at that time that they were laid down Due to a misunderstanding on the part of a small child or an adult who themselves didn't know any better.
 
+* Don't put too much pressure on your future self cuz he's your best friend.  Don't micromanage his time.I am a boss to my future self and an employee of my former self.  don't micromanage or let yourself be micromanaged.
+* Both the barefoot workshop and he high gazing workshop orWays to trigger an awareness of the inner self and inner world.  There are many ways to get there these are just two ways that I enjoy.
+
+Take my next level workshops will begin to explore what blocks you from achieving what you were meant to bring to the world.
+
+We will look at the trauma that were formed at early age and Work through the emotions and allow your inner guidance to shine through.  To allow your inner gold to shine through.
+
+今回初めてeye gazing workshopに参加しました。わたしにとってそれは不思議な体験でした。まず二人ずつペアになって、数分間お互いの目を見つめ合いました。最初は恥ずかしく、照れ笑いがあったりしましたが、慣れてくるとメディテーションのような感覚で、何か集中した静かな時間が流れていました。
+
+何度か回数を重ねると、徐々に相手の顔に動物のような模様が見えたり、顔が変形したり変化が見られました。また、相手の奥底にある精神的な面に触れることができた気がしました。不安があったり、軸のような強い意志があるように感じたり、目を見るだけでなにかを感じ取れているような感覚がありました。最近では人の目をずっと見ると違和感や、不快な思いをする方もいて、目を見ると行動は現代社会の中で欠如しているように思います。目を見るだけで少し不思議な体験ができたことがとても興味深く、より多くの人と意見をシェアして、eye gazing がどのような効果をもたらすのか知りたいと思いました。
 
 
 
