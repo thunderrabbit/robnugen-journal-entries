@@ -18,6 +18,9 @@ I am not sure how it will go, but sounds fun!
 Right now I am at the stage of too tired to write consistently and yet
 I keep wanting to finish the entry in my head.
 
-I am likely to install Monica, available from monicahq.com because I
+I am likely to install Monica, available from https://monicahq.com because I
 keep thinking I want a way to recall who I have invited to my
 workshops this coming year.
+
+Oh, so far, so good with https://complice.co; I have been using it for about a
+week now, I guess.
