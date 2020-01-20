@@ -4,6 +4,6 @@
 echo remember you can
 echo ssh b.rn 'mkdir -p ~/b.robnugen.com/journal/2020'
 
-scp $@ b.rn:b.robnugen.com/journal/2019
+scp $@ b.rn:b.robnugen.com/journal/2020
 
 

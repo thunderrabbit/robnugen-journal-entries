@@ -12,6 +12,9 @@ all the flowers" she says.  A lot of the staff asked about me being
 barefoot there.  The sky was beautiful blue nice crisp day, so we got
 nice photos of the trees as well as houses.
 
+[![2020 jan photo of video of origami](//b.robnugen.com/journal/2020/thumbs/2020_jan_photo_of_video_of_origami.jpg)](//b.robnugen.com/journal/2020/2020_jan_photo_of_video_of_origami.jpg)
+[![2020 jan photos of houses](//b.robnugen.com/journal/2020/thumbs/2020_jan_photos_of_houses.jpg)](//b.robnugen.com/journal/2020/2020_jan_photos_of_houses.jpg)
+
 We met a guide who spoke Spanish as well as English.  He used "y"
 instead of "and" as he was speaking.  Madeleine spoke to him in
 Spanish a bit.  He apparently spent four years in Puerto Rico.
@@ -29,3 +32,12 @@ exactly where I took a picture before as I noticed roots visible due
 to soil erosion.
 
 I am glad they are taking care of the place so thoughtfully.
+
+We also got to do the indigo tie-dye workshop
+
+https://b.robnugen.com/journal/2020/2020_jan_francois_with_ghost.jpg
+https://b.robnugen.com/journal/2020/2020_jan_tie_dyed.jpg
+
+And went to the nearby museum!
+
+https://b.robnugen.com/journal/2020/2020_jan_sitting_on_hands.jpg
