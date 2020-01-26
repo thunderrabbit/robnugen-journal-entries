@@ -35,9 +35,9 @@ I am glad they are taking care of the place so thoughtfully.
 
 We also got to do the indigo tie-dye workshop
 
-https://b.robnugen.com/journal/2020/2020_jan_francois_with_ghost.jpg
-https://b.robnugen.com/journal/2020/2020_jan_tie_dyed.jpg
+[![2020 jan francois with ghost](//b.robnugen.com/journal/2020/thumbs/2020_jan_francois_with_ghost.jpg)](//b.robnugen.com/journal/2020/2020_jan_francois_with_ghost.jpg)
+[![2020 jan tie dyed](//b.robnugen.com/journal/2020/thumbs/2020_jan_tie_dyed.jpg)](//b.robnugen.com/journal/2020/2020_jan_tie_dyed.jpg)
 
 And went to the nearby museum!
 
-https://b.robnugen.com/journal/2020/2020_jan_sitting_on_hands.jpg
+[![2020 jan sitting on hands](//b.robnugen.com/journal/2020/thumbs/2020_jan_sitting_on_hands.jpg)](//b.robnugen.com/journal/2020/2020_jan_sitting_on_hands.jpg)
