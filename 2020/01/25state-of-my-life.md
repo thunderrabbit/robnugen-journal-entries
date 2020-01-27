@@ -64,10 +64,13 @@ draft: false
     encouragement, as each person desires.  Adding accountability if
     people want to work on art during the month and show off their
     skills on the next Second Saturday of the month, March 7th.
-13. 2020 is a leap year!
+13. I just remembered recently that 2020 is a leap year!
 14. I made a bridge for Jennie to walk from our balcony to Lin's room
     window.  She has not used it yet, but hopefully in the Spring she
     will be willing to do so.
+15. I am in the middle of revamping my site again, augmenting it with
+    pages for About, FAQ, Services, etc.  Super thanks to Deneys and
+    Erik both for helping with that endeavor.
 
 
 
