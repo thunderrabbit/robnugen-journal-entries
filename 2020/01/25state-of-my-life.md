@@ -71,8 +71,12 @@ draft: false
 15. I am in the middle of revamping my site again, augmenting it with
     pages for About, FAQ, Services, etc.  Super thanks to Deneys and
     Erik both for helping with that endeavor.
-
-
-
-
-
+16. In MT3 news, I just finished the Caret Splitter Rudder Flutter.
+    Marbles arriving at the
+    [Caret Splitter](https://www.marbletrack3.com/parts/caret-splitter/)
+    are sorted with the
+    [Caret Splitter Rudder](https://www.marbletrack3.com/parts/caret-splitter-rudder/),
+    which is attached to the
+    [Caret Splitter Rudder Lever Spinner](https://www.marbletrack3.com/parts/caret-splitter-rudder-lever-spinner/),
+    atop of which will be the
+    [Caret Splitter Lever](https://www.marbletrack3.com/parts/caret-splitter-lever/).
