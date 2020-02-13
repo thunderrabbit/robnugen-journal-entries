@@ -26,3 +26,14 @@ From my todo.md for today
 * Dora 2pm - 3pm
 * JB 3:30pm - 9pm
 
+(written 12:18 Thursday 13 February 2020 JST)
+
+I got some tweaks made to the sample site.  The demo is up at
+https://about--www-robnugen-com.netlify.com/
+
+I imagine that URL will not last long, so here are some snaps of the
+services page at different widths.
+
+[![2020 feb 13 rob demo site wide](//b.robnugen.com/journal/2020/thumbs/2020_feb_13_rob_demo_site_wide.png)](//b.robnugen.com/journal/2020/2020_feb_13_rob_demo_site_wide.png)
+[![2020 feb 13 rob demo site medium](//b.robnugen.com/journal/2020/thumbs/2020_feb_13_rob_demo_site_medium.png)](//b.robnugen.com/journal/2020/2020_feb_13_rob_demo_site_medium.png)
+[![2020 feb 13 rob demo site narrow](//b.robnugen.com/journal/2020/thumbs/2020_feb_13_rob_demo_site_narrow.png)](//b.robnugen.com/journal/2020/2020_feb_13_rob_demo_site_narrow.png)
