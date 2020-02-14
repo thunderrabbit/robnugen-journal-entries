@@ -8,7 +8,7 @@ draft: false
 
 (written 00:06 Saturday 15 February 2020 JST)
 
-After scanning them again yesterday, today I posted the 30 A4 sized
+After [scanning them again yesterday](/journal/2020/02/13/scanned-30-a4s/), today I posted the 30 A4 sized
 pages of my Ink Based Study.  Here are the older pics from when I
 scanned them on January 4th.
 

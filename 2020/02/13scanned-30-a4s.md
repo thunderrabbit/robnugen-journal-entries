@@ -7,8 +7,8 @@ draft: false
 ---
 
 Today I scanned the front pages of my 30 A4s.  Here they are,
-unprocessed.  (I hope I remember to leave them in this location when I
-process them for my wiki at https://art.robnugen.com/fibs20)
+unprocessed.  I hope I remember to leave them in this location when I
+process them for my wiki at https://art.robnugen.com/fibs20
 
 Oh dang, I need to rename them before I can put them here. brb
 
@@ -23,7 +23,7 @@ right directory.
 
 ##### 21:08 Friday 14 February 2020 JST
 
-I moved them to a new directory, from `./ink_baste` to `./ink_baste/front/feb_13`.
+I moved them to a new directory, from `./ink_baste` to `./ink_baste/front/feb_13`, so I could make room for the [30 A4 scans from 4 January 2020](/journal/2020/01/04/scanned-ink-baste-study-of-30-a4s/)
 
 [![2020 feb 13 ink baste 01](//b.robnugen.com/art/drawing/2020/ink_baste/front/feb_13/thumbs/2020_feb_13_ink_baste_01.jpg)](//b.robnugen.com/art/drawing/2020/ink_baste/front/feb_13/2020_feb_13_ink_baste_01.jpg)
 [![2020 feb 13 ink baste 02](//b.robnugen.com/art/drawing/2020/ink_baste/front/feb_13/thumbs/2020_feb_13_ink_baste_02.jpg)](//b.robnugen.com/art/drawing/2020/ink_baste/front/feb_13/2020_feb_13_ink_baste_02.jpg)
@@ -55,3 +55,5 @@ I moved them to a new directory, from `./ink_baste` to `./ink_baste/front/feb_13
 [![2020 feb 13 ink baste 28](//b.robnugen.com/art/drawing/2020/ink_baste/front/feb_13/thumbs/2020_feb_13_ink_baste_28.jpg)](//b.robnugen.com/art/drawing/2020/ink_baste/front/feb_13/2020_feb_13_ink_baste_28.jpg)
 [![2020 feb 13 ink baste 29](//b.robnugen.com/art/drawing/2020/ink_baste/front/feb_13/thumbs/2020_feb_13_ink_baste_29.jpg)](//b.robnugen.com/art/drawing/2020/ink_baste/front/feb_13/2020_feb_13_ink_baste_29.jpg)
 [![2020 feb 13 ink baste 30](//b.robnugen.com/art/drawing/2020/ink_baste/front/feb_13/thumbs/2020_feb_13_ink_baste_30.jpg)](//b.robnugen.com/art/drawing/2020/ink_baste/front/feb_13/2020_feb_13_ink_baste_30.jpg)
+
+Here are the previous [30 A4 scans from 4 January 2020](/journal/2020/01/04/scanned-ink-baste-study-of-30-a4s/)
