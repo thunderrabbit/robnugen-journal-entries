@@ -6,9 +6,9 @@ date: 2020-02-15T15:26:42+09:00
 draft: false
 ---
 
-Stinky after going to a dog shelter place.  I was ready to go after 30
-minutes.  It was cool to see dogs, but it was gross as they were in a
-too small area and outside all the time.  No grass to speak of, just
+Stinky after going to a dog shelter place.  I was ready to leave after
+30 minutes.  It was cool to see dogs, but it was gross as they were in
+a too small area and outside all the time.  No grass to speak of, just
 wet dirt.  I tried to be as chill as possible with them and love them
 as best I could, but do not plan to go back.
 
