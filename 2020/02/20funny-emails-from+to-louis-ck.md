@@ -73,8 +73,8 @@ My reply:
     was in the past, and your shows are presumably in the future.
     
     I live South of Tokyo, Japan, so if that counts as South America,
-    please add it to your list. Actually, just add it to your list and I
-    look forward to laughing with you here.
+    please add it to your list. Actually, please just add it to your
+    list and I look forward to laughing with you here.
     
       Thank you for being apparently real
       Rob
