@@ -9,8 +9,8 @@ draft: false
 ##### 02:01 Thursday 20 February 2020 JST
 
 I am on the Louis CK mailing list ever since Feb 2016 when I bought
-his show "Live at Madison Square Garden" and his movie "Tomorrow
-Night"
+his show "[Live at Madison Square Garden](https://www.pastemagazine.com/articles/2015/08/pay-what-you-want-for-louis-cks-new-live-album.html)" and his movie "[Tomorrow
+Night](https://en.wikipedia.org/wiki/Tomorrow_Night_(film))"
 
 Tonight I happily read his email, hoping against hope he would mention
 a show in Tokyo.
@@ -81,6 +81,4 @@ My reply:
 
     PS: if you accidentally delete this email, you can make eye
     contact with its words on my world wide web website page I
-    maintain with my name in its url.
-    
-    
+    maintain with my name in its url, right here https://www.robnugen.com/journal/2020/02/20/funny-emails-from-to-louis-ck/
