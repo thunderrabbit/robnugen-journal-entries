@@ -29,3 +29,6 @@ anchor and the rest can simply stay in order.
 To display the sheets, they should be arranged in a circle with the
 leaves all facing the next leaf with nearly same dot pattern.
 
+##### 18 February 2020 JST
+
+It didn't work the way I hoped.  The ink does not soak through the paper.
