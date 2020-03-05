@@ -50,7 +50,7 @@ After hotfixing the above problem, I got an email while running tests on AB
 
     PHP Notice:  Constant SITE_VERSION already defined in /var/www/ab/versions/2020-03-03-2223/prepend.php on line 3
 
-Wait what?
+Wait, what?
 
 I had to issue the following world's funniest hotfix version hotfix
 
