@@ -30,7 +30,7 @@ because the virus apparently causes diarrhea.
 
 The World Health Organization has a banner on their top page for it.[3]
 
-[1] https://www.japantimes.co.jp/news/2020/02/27/national/hokkaido-coronavirus-school/
-[2] https://www.nytimes.com/2020/02/27/world/asia/japan-schools-coronavirus.html
-[3] https://web.archive.org/web/20200227202148/https://www.who.int/
+* [1] https://www.japantimes.co.jp/news/2020/02/27/national/hokkaido-coronavirus-school/
+* [2] https://www.nytimes.com/2020/02/27/world/asia/japan-schools-coronavirus.html
+* [3] https://web.archive.org/web/20200227202148/https://www.who.int/
 
