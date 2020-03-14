@@ -54,9 +54,66 @@ draft: false
     that everything is gonna be shut down.
 14. Our cat Jennie is apparently 8 years old.  Lin has relaxed a bit
     about her being outside after dark.
-
-
-
+15. I am continuing this on 11 March 2020
+16. I do not have any plans to travel this year.  Now that the
+    coronavirus has been nearly described as a pandemic, with Italy
+    locked down and masks unavailable everywhere, I am kinda glad I
+    have no plans to get messed up, but for real I think this pandemic
+    is being overhyped.  It's just a flu bug and has far fewer deaths
+    than tuberculosis (but more deaths than terrorism, so that's
+    something).  It has been challenging for me to keep from blabbing
+    to all my students how it's a coverup of some variety but I just
+    don't know what yet.
+17. I mean, take a look at this beautiful
+    [Information is Beautiful page on COVID-19](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/).
+    It ain't shit compared to lots of deadlier things.  Just like
+    "terror" was hyped on the media we are seeing the same thing in
+    media this time.  Why?
+18. We had a great walking meditation on March 7th, and I was telling
+    my students about it today.  Chinatsu looked up full bloom this
+    year and it's apparently scheduled for March 22nd.  So I will
+    schedule another walking meditation on 21 March.  That can be my
+    third workshop in March!
+19. I am up to level 188 in Best Fiends.  Man eff this neverending
+    addictive game.
+20. I am up to page 70 or so in my Japanese study via KUMON.  Oh, I
+    forgot to mention that I signed up for KUMON in 渋沢 because Sanae
+    who we met in 直島 teaches there and is able to teach Japanese.
+    Fair enough; sounds fun!
+21. AB is going pretty well; I have gotten rid of all the
+    SEVERITY_CRITICAL errors in the backend thanks to phan/phan. Just
+    today I installed phan/phan on the frontend as well because I had
+    to do a fix to the site and might as well get started with static
+    analysis.  Last night is the night I was late for MKP men's circle
+    (which is fine because "we have all the king we need") because we
+    *got a bounce* from an email we sent.  Turns out some yahoo used a
+    fake email address and it bounced.  I hardcoded a fix to keep that
+    address from being used and today I firmed it up by creating a
+    table and a class to read it.  Anyway that was all on the frontend.
+22. I have also been using Codeception to run acceptance tests on the
+    website itself.  I have 178 tests with 869 assertions on the
+    backend.  On the frontend are 13 tests with 42 assertions.  This
+    is all thanks to Paul Jones MLAPHP book.  It has helped me so much
+    get this code sorted out.  I definitely feel more confident making
+    changes and updates.
+23. OMG but that reminds me, just before starting 6 hours of work at
+    JB today, I pushed a code change without doing the associated DB
+    change because all the DB updates are done manually.  Thank
+    goodness I tested and noticed before anyone else.  Gotta deploy DB
+    updates automagically eventually.
+24. Jennie has not used the bridge I made for her from the balcony to
+    Lin's window.  I wonder if she ever will.
+25. Yesterday while working on Marble Track 3, I installed two
+    "maglevs" which are steel rods from our old "Shoot The Moon" game
+    which I got from Dad a couple years ago.  The rods are perfect for
+    sliding magnets along which allows smooth lifting of characters
+    over the set to let them fly various places.  It's great having
+    the maglevs firmly placed *and* able to rotate like arms on
+    turntables. Super happy with this improvement in the MT3 set.
+26. Noborito next and just ran out of things to write.  Nice timing.
+27. Oh, during the walking meditation I noted how often I am mindful
+    during normal life.  Not having to sit down to meditate, but
+    trying to be mindful as often as possible has helped a lot.
 
 
 
