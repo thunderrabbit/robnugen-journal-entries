@@ -63,3 +63,9 @@ square QR code https://b.robnugen.com/mkpjapan/workshops/2019/Japanese_Journey_o
     "What's at Risk" hundreds of times.  When I go through that series
     of questions, I end up with "I will be alone" (which is about the
     opposite of "I know people love me."
+
+##### 09:44 Monday 23 March 2020 JST
+
+I scanned this in March 2020.  It was written in mid 2019 while I sat with Mark in Jonathan's near Mukogaoka Yuen station.
+
+[![2019 mid my weekly schedule monies](//b.robnugen.com/journal/2019/thumbs/2019_mid_my_weekly_schedule_monies.jpg)](//b.robnugen.com/journal/2019/2019_mid_my_weekly_schedule_monies.jpg)
