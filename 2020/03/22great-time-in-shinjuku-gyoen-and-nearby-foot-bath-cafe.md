@@ -47,3 +47,8 @@ On the way out of the park, I remembered to take a picture of our group.
 [![2020 mar 22 shinjuku gyoen meditation hai nathan francois rob mohamed deneys alex](//b.robnugen.com/journal/2020/2020_mar_22_shinjuku_gyoen_meditation/thumbs/2020_mar_22_shinjuku_gyoen_meditation_hai_nathan_francois_rob_mohamed_deneys_alex.jpg)](//b.robnugen.com/journal/2020/2020_mar_22_shinjuku_gyoen_meditation/2020_mar_22_shinjuku_gyoen_meditation_hai_nathan_francois_rob_mohamed_deneys_alex.jpg)
 
 Thanks to Bu for taking the photo!
+
+I don't remember if that was before or after Nathan and Hai practiced
+jiu jitsu.  We clapped afterward.
+
+{{< youtube vPjVYUvz0s4 >}}
