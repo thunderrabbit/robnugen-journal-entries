@@ -14,6 +14,6 @@ News:
 
 Update:
 
-* My RSS feed should be trimmed
+* My RSS feed now shows 50 entries
 
 Thank you Travis!
