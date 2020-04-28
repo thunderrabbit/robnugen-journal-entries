@@ -22,3 +22,18 @@ Wow it's been days since I wrote.
 ##### 04:58 Saturday 11 April 2020 JST
 
 I just sent a Tinyletter newsletter with more details.  It is in my blog, but I am too tired to figure out the link now.  I guess here: [Getting myself out there](/blog/2020/04/11/getting-myself-out-there/)
+
+##### 17:12 Thursday 23 April 2020 JST
+
+April 10th I went to Omotesando
+
+[![2020 apr 10 omotesando sans peeps](//b.robnugen.com/journal/2020/thumbs/2020_apr_10_omotesando_sans_peeps.jpg)](//b.robnugen.com/journal/2020/2020_apr_10_omotesando_sans_peeps.jpg)
+
+Jennie is very cute.
+
+[![2020 apr 13 cute jennie portrait](//b.robnugen.com/journal/2020/thumbs/2020_apr_13_cute_jennie_portrait.jpg)](//b.robnugen.com/journal/2020/2020_apr_13_cute_jennie_portrait.jpg)
+[![2020 apr 13 cute jennie](//b.robnugen.com/journal/2020/thumbs/2020_apr_13_cute_jennie.jpg)](//b.robnugen.com/journal/2020/2020_apr_13_cute_jennie.jpg)
+
+I made a tensegrity about a week ago after seeing some on Reddit.
+
+[![2020 apr 14 tensegrity](//b.robnugen.com/journal/2020/thumbs/2020_apr_14_tensegrity.jpg)](//b.robnugen.com/journal/2020/2020_apr_14_tensegrity.jpg)
