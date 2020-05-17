@@ -9,8 +9,8 @@ draft: false
 This is my <del>first</del> <ins>second</ins> official journal entry
 for my walk to Niigata.  I have tagged it "niigata walk" and plan to
 have Hugo look for that tag when putting together a blog, possibly at
-/quests/walk-to-niigata/reality/ though there is nothing much there
-yet.
+[/quests/walk-to-niigata/](/quests/walk-to-niigata/) which currently
+has a copy (hardlink on my local machine) to this file.
 
 I will almost certainly end up with a shorter domain pointing at the
 entries, and I want to use the same workflow as I do now for journal
@@ -29,7 +29,9 @@ me:
 
 Rick:
 
-    I found this [backpack with a solar panel](https://www.666-666.jp/1505270000000000.html?gclid=CjwKCAjwwYP2BRBGEiwAkoBpAkKJ2bj5h2sXnIxceMjk61MCXeD3A0H-WQ-iAjbb6KoZEmdwBtu2OBoCAbgQAvD_BwE) for sale on a Japanese website.
+    I found this backpack with a solar panel
+    https://www.666-666.jp/1505270000000000.html for sale on a
+    Japanese website.
 
 Mohamed:
 
@@ -62,4 +64,3 @@ I mentioned that I want to pull a wagon.
 Bren, relaying some crowdsourced ideas of cool places to go:
 
     Aizu, https://www.echigo-tsumari.jp/en/, Mashiko, Eichigo Uzawa
-
