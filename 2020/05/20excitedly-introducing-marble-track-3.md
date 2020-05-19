@@ -131,8 +131,6 @@ I lost the images, camera, camera holder, and we moved.
 I learned a lot from making the first video.  I want to have a
 rotating stage, a better camera mount, and a real camera.
 
-{{< youtube aHiUTkYGOvo >}}
-
 I tried to make a camera holder
 
 [![shelter prep 2017 May 30 10 10 46](//b.robnugen.com/art/marble_track_3/shelter/2017_may_30_finished_shelter/thumbs/shelter_prep_2017_May_30_10_10_46.jpg)](//b.robnugen.com/art/marble_track_3/shelter/2017_may_30_finished_shelter/shelter_prep_2017_May_30_10_10_46.jpg)
@@ -140,6 +138,8 @@ I tried to make a camera holder
 Fortunately, I decided to splurge and get a real tripod.
 
 [![real camera real tripod: mt3 setup aug 2017](//b.robnugen.com/art/marble_track_3/set/thumbs/mt3_setup_aug_2017.jpg)](//b.robnugen.com/art/marble_track_3/set/mt3_setup_aug_2017.jpg)
+
+{{< youtube aHiUTkYGOvo >}}
 
 {{< youtube -tMTvzePnu0 >}}
 
@@ -152,7 +152,9 @@ https://www.youtube.com/watch?v=-KjsYc4Mb5g&list=PL0osPGt21FB48UwuhtCUoi9JndC9YD
 * Continue building Marble Track 3
 * Add audio
 * CGI background
-* make one big movie
+* make one big movie (see
+  https://www.marbletrack3.com/episode/2017/august/backup-solution-2017/
+  for frames)
 * somehow make story arcs ??
 
 Here is the site
