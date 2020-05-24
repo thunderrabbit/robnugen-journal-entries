@@ -143,7 +143,12 @@ Fortunately, I decided to splurge and get a real tripod.
 
 {{< youtube -tMTvzePnu0 >}}
 
-https://mt3s.marbletrack3.com/ currently refreshes to
+
+And now, if you are still here, you can see the video snippets which
+show the construction so far.
+
+https://mt3s.marbletrack3.com/ should be the permalink for the video
+snippets.  It currently refreshes to
 https://www.youtube.com/watch?v=-KjsYc4Mb5g&list=PL0osPGt21FB48UwuhtCUoi9JndC9YDHAZ
 
 
