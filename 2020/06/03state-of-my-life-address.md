@@ -49,6 +49,24 @@ draft: false
     a hill which uses the shape of the hill to give a window to an
     otherwise underground room.
 
+##### 20:21 Tuesday 16 June 2020 JST
+
+12. I have been walking in the mornings recently, ostensibly preparing
+    for my planned walk to Niigata in April 2021.  I can walk for an
+    hour before I really notice any tiredness.  I think I could walk
+    an hour four or five times in a day (with breaks) and maintain my
+    planned schedule.
+13. Marble Track 3 is going well.  I have been spending 2 hours per
+	week livestreaming the animation of its construction.  Today I
+	actually did 1.4 hours, so I want to make up the rest by the end
+	of the week.
+14. I just recently started the idea of making <del>a</del> marble
+    track<ins>s</ins> out of wire, after watching a video explaining
+    how to do it with simple tools.  I was like "wow!" and "I can do
+    that!" while hoping I can actually do it.  I bought some stainless
+    steel wire from a hardware shop on the way to JB.  Today I bought
+    some piano wire from a shop I found by following inspiration at
+    each turn.
 
 
 

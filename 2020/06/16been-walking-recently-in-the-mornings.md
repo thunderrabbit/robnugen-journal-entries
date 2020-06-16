@@ -14,8 +14,7 @@ of stairs that feed into a bamboo carpet walkway and mini bamboo grove
 below a park.  It's basically behind the rabbit-logo baby clothes
 store near our house.
 
-I didn't take a picture there, but I took some pics of greenery and a
-green
+I didn't take a picture there, but I took some pics of greenery
 
 [![2020 june 16 cute greenery](//b.robnugen.com/journal/2020/thumbs/2020_june_16_cute_greenery.jpg)](//b.robnugen.com/journal/2020/2020_june_16_cute_greenery.jpg)
 [![2020 june 16 cute pale greenery](//b.robnugen.com/journal/2020/thumbs/2020_june_16_cute_pale_greenery.jpg)](//b.robnugen.com/journal/2020/2020_june_16_cute_pale_greenery.jpg)
