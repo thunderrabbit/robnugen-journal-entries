@@ -35,10 +35,8 @@ to have sex and then got busy with work."  I should have included that
 Lin was talking to her friend on the phone when I left the house to
 cool off.
 
-(*)
-
 "I am sorry I made a promise, I didn't know this would come up and
-what am I supposed to do?"
+what am I supposed to do?" (*)
 
 "Do your work, that is what you are choosing to do."
 
