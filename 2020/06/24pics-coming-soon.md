@@ -6,10 +6,6 @@ date: 2020-06-24T14:15:09+09:00
 draft: false
 ---
 
-On 14:15 Wednesday 24 June 2020 JST, Rob Nugen wrote:
-
-Hey Travis!
-
 I have a server (https://b.robnugen.com) dedicated to serving binary
 content (as opposed to text).  Basically pictures (and some PDFs and a
 couple of MP3s probably).
@@ -20,4 +16,5 @@ for hardcoding the directory to make it easier to start.)  I have
 recently found [MicroPub](https://indieweb.org/Micropub/Servers) and
 beginning to grok that as a possible way to help solve this.
 
-Oops just arrived at my station.
+I have just found [Known](https://withknown.com/) which apparently
+runs on Dreamhost, so I'm going to check it out.
