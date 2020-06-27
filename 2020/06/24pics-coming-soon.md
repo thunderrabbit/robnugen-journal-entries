@@ -32,3 +32,13 @@ right things, but not all of them.  One reason may be that the SSL
 certificate is a temporary self-signed cert.  I don't know why Let's
 Encrypt is taking so long (hours now) to approve the certificate.  I
 guess the new subdomain's DNS entry came through for me but not them??
+
+##### 22:11 Saturday 27 June 2020 JST
+
+The correct SSL certificate seemed to help, or maybe it was because I
+put the correct URL in the config file.  hmmm.  I have gotten some
+data files to be sent from Quill and then saved via skpy/micropub as
+data files.  For some reason Indigenous is not sending the
+authentication token.   Weird.
+
+Anyway, bedtime now.
