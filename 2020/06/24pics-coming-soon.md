@@ -18,3 +18,17 @@ beginning to grok that as a possible way to help solve this.
 
 I have just found [Known](https://withknown.com/) which apparently
 runs on Dreamhost, so I'm going to check it out.
+
+##### 18:55 Saturday 27 June 2020 JST
+
+I abandoned Known pretty quickly when I saw it is its own website.  I
+just want a server that can update my Hugo site.  I found
+[skpy/micropub](https://github.com/skpy/micropub) which looks to do
+what I want, to close approximation, if not exactly.
+
+I set up [skpy/micropub](https://github.com/skpy/micropub) at
+http://hugotest.plasticaddy.com/micropub and it is doing some of the
+right things, but not all of them.  One reason may be that the SSL
+certificate is a temporary self-signed cert.  I don't know why Let's
+Encrypt is taking so long (hours now) to approve the certificate.  I
+guess the new subdomain's DNS entry came through for me but not them??
