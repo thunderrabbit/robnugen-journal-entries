@@ -6,22 +6,23 @@ date: 2020-06-29T09:52:35+09:00
 draft: false
 ---
 
-This entry assumes you use Dreamhost shared hosting, and are comfortable with
-`git`,
-command line,
+This entry assumes you use Dreamhost shared hosting (Ubuntu), and are
+comfortable with `git`, command line, and maybe other stuff.
 
 My goal with all this is to allow myself to post from my phone
 directly to my Hugo-powered static website.  I recently found
 [Micropub](https://indieweb.org/Micropub) gets me a long way toward
 that goal.
 
-I was able to get some "stuff" posted via
+I was able to get something posted via
 [Aaron Parecki's Micropub client Quill](https://quill.p3k.io/) notes,
 but I could not get the editor to work; it is apparently not sending
 the token, which is pretty surprising.
 
-I
-[set up a new Dreamhost user](https://github.com/thunderrabbit/new-DH-user-account)
+I wanted to have a copy of the [Quill code](https://github.com/aaronpk/Quill) running on my own server so I
+could see what was (not) happening.
+
+I [set up a new Dreamhost user](https://github.com/thunderrabbit/new-DH-user-account)
 for the website https://quill.plasticaddy.com/
 
 In addition to the instructions above, I had to set the **Web
@@ -32,7 +33,7 @@ Directory** to `quill.plasticaddy.com/public`
 I cloned https://github.com/aaronpk/Quill and used my clone,
 git@github.com:thunderrabbit/Quill.git in the instructions below.
 
-On my DH server:
+On my Dreamhost server:
 
 $ cd ~
 $ git clone git@github.com:thunderrabbit/Quill.git quill.plasticaddy.com
@@ -66,3 +67,49 @@ last line:
     ; }}} That's all from DreamHost
     ; {{{ Rob adding pcre.jit=0 to get Quill running.  Thanks to https://stackoverflow.com/a/59579035/194309
     pcre.jit=0
+
+Then I had to create the table manually by sending the contents of
+the Quill schema file to mysql
+https://raw.githubusercontent.com/aaronpk/Quill/master/schema/mysql.sql
+
+As of this writing
+
+    CREATE TABLE `users` (
+      `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
+      `url` varchar(255) DEFAULT NULL,
+      `authorization_endpoint` varchar(255) DEFAULT NULL,
+      `token_endpoint` varchar(255) DEFAULT NULL,
+      `micropub_endpoint` varchar(255) DEFAULT NULL,
+      `micropub_media_endpoint` varchar(255) DEFAULT NULL,
+      `micropub_access_token` text,
+      `micropub_scope` varchar(255) DEFAULT NULL,
+      `micropub_response` text,
+      `micropub_slug_field` varchar(255) NOT NULL DEFAULT 'mp-slug',
+      `micropub_syndicate_field` varchar(255) NOT NULL DEFAULT 'mp-syndicate-to',
+      `micropub_success` tinyint(4) DEFAULT '0',
+      `date_created` datetime DEFAULT NULL,
+      `last_login` datetime DEFAULT NULL,
+      `last_micropub_response` text,
+      `last_micropub_response_date` datetime DEFAULT NULL,
+      `location_enabled` tinyint(4) NOT NULL DEFAULT '0',
+      `syndication_targets` text,
+      `channels` text,
+      `twitter_access_token` text,
+      `twitter_token_secret` text,
+      `twitter_username` varchar(255) DEFAULT NULL,
+      `email_username` varchar(255) DEFAULT NULL,
+      `default_timezone` varchar(255) DEFAULT NULL,
+      `supported_post_types` longtext,
+      `supported_visibility` longtext,
+      PRIMARY KEY (`id`)
+    ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+And it works!
+
+Well, it's posting both notes and articles.  Now I just have to get my
+copy of micropub to parse them the way I want.
+
+##### 19:39 Monday 29 June 2020 JST
+
+Been working pretty much all day on it, and beginning to get hold of
+how to put the files where I want them to be.
