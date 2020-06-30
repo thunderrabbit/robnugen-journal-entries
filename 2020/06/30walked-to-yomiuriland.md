@@ -8,8 +8,45 @@ draft: false
 
 (recorded 07:14 Tuesday 30 June 2020 JST)
 
-I just walked to yomiuriland and took some pictures I'm very happy
-because it's proving that my walk is definitely possible. I was just
+I just walked to Yomiuriland and took some pictures!
+
+I'm very happy because it's proving that my walk is definitely possible.
+
+
+[![2020 jun 30 rob ferris wheel](//b.robnugen.com/journal/2020/walk/thumbs/2020_jun_30_rob_ferris_wheel.jpg)](//b.robnugen.com/journal/2020/walk/2020_jun_30_rob_ferris_wheel.jpg)
+[![2020 jun 30 yomiuriland ferris wheel feet](//b.robnugen.com/journal/2020/walk/thumbs/2020_jun_30_yomiuriland_ferris_wheel_feet.jpg)](//b.robnugen.com/journal/2020/walk/2020_jun_30_yomiuriland_ferris_wheel_feet.jpg)
+[![2020 jun 30 ferris wheel feet](//b.robnugen.com/journal/2020/walk/thumbs/2020_jun_30_ferris_wheel_feet.jpg)](//b.robnugen.com/journal/2020/walk/2020_jun_30_ferris_wheel_feet.jpg)
+
+There were some signs of how they are dealing with COVID-19
+
+[![2020 jun 30 yomiuriland corona sign](//b.robnugen.com/journal/2020/walk/thumbs/2020_jun_30_yomiuriland_corona_sign.jpg)](//b.robnugen.com/journal/2020/walk/2020_jun_30_yomiuriland_corona_sign.jpg)
+[![2020 jun 30 yomiuriland corona gate 3](//b.robnugen.com/journal/2020/walk/thumbs/2020_jun_30_yomiuriland_corona_gate_3.jpg)](//b.robnugen.com/journal/2020/walk/2020_jun_30_yomiuriland_corona_gate_3.jpg)
+[![2020 jun 30 yomiuriland corona gate 2](//b.robnugen.com/journal/2020/walk/thumbs/2020_jun_30_yomiuriland_corona_gate_2.jpg)](//b.robnugen.com/journal/2020/walk/2020_jun_30_yomiuriland_corona_gate_2.jpg)
+[![2020 jun 30 yomiuriland corona gate 1](//b.robnugen.com/journal/2020/walk/thumbs/2020_jun_30_yomiuriland_corona_gate_1.jpg)](//b.robnugen.com/journal/2020/walk/2020_jun_30_yomiuriland_corona_gate_1.jpg)
+
+I plan to visit the hot springs near Yomiuriland on April 13th, 2021.
+
+[![2020 jun 30 hot springs sign](//b.robnugen.com/journal/2020/walk/thumbs/2020_jun_30_hot_springs_sign.jpg)](//b.robnugen.com/journal/2020/walk/2020_jun_30_hot_springs_sign.jpg)
+
+I just noticed this wall near two big old trees that surrounded an
+entrance to a house that has been torn down.
+
+[![2020 jun 30 wall blocking slope](//b.robnugen.com/journal/2020/walk/thumbs/2020_jun_30_wall_blocking_slope.jpg)](//b.robnugen.com/journal/2020/walk/2020_jun_30_wall_blocking_slope.jpg)
+[![2020 jun 30 new wall old trees](//b.robnugen.com/journal/2020/walk/thumbs/2020_jun_30_new_wall_old_trees.jpg)](//b.robnugen.com/journal/2020/walk/2020_jun_30_new_wall_old_trees.jpg)
+
+
+Sign next to steps to water supply
+
+[![2020 jun 30 water supply sign](//b.robnugen.com/journal/2020/walk/thumbs/2020_jun_30_water_supply_sign.jpg)](//b.robnugen.com/journal/2020/walk/2020_jun_30_water_supply_sign.jpg)
+
+Lots of ads for some sort of community center, I think
+
+[![2020 jun 30 various signs](//b.robnugen.com/journal/2020/walk/thumbs/2020_jun_30_various_signs.jpg)](//b.robnugen.com/journal/2020/walk/2020_jun_30_various_signs.jpg)
+
+
+notes: not yet cleaned up
+
+I was just
 thinking about some ways to kind of promote the trip with cards or a
 story saying whiny got to because my shirt says. and maybe selling
 shirts if you want to buy a shirt too and maybe where should the next
@@ -21,7 +58,6 @@ on those plans as well so one first step is to get the maps up on my
 website and two maybe have a peach section v eats own put a clickable
 zone or something I don't know.
 
-So then I opened my email to write this note and then found out the
-fucking Prentiss died which is bullshit and I just saw him a few days
+So then I opened my email to write this note and then found out my friend Prentiss died which is bullshit and I just saw him a few days
 ago on messenger so I'm at the stage of denial unless this is fake
-news in anyway why didn't a auto save my my note?
+news.
