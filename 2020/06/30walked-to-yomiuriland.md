@@ -42,22 +42,3 @@ Sign next to steps to water supply
 Lots of ads for some sort of community center, I think
 
 [![2020 jun 30 various signs](//b.robnugen.com/journal/2020/walk/thumbs/2020_jun_30_various_signs.jpg)](//b.robnugen.com/journal/2020/walk/2020_jun_30_various_signs.jpg)
-
-
-notes: not yet cleaned up
-
-I was just
-thinking about some ways to kind of promote the trip with cards or a
-story saying whiny got to because my shirt says. and maybe selling
-shirts if you want to buy a shirt too and maybe where should the next
-trip be that kind of thing. Having people be my navigator for a day if
-I don't have battery as I'm planning each part of the route like each
-day of the trip I need to start laying out the days so I know where
-I'm going to go each day and have enough time for community feedback
-on those plans as well so one first step is to get the maps up on my
-website and two maybe have a peach section v eats own put a clickable
-zone or something I don't know.
-
-So then I opened my email to write this note and then found out my friend Prentiss died which is bullshit and I just saw him a few days
-ago on messenger so I'm at the stage of denial unless this is fake
-news.

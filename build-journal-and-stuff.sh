@@ -12,8 +12,8 @@ echo "Will use \"${COMMIT_MESSAGE}\" as the commit message"
 
 echo "pushing"
 git push origin master
-git push norigin master &
-git push github master &
+git push borigin master &
+# git push github master &
 
 cd ~/barefoot_rob/content/journal
 git pull
