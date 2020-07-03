@@ -21,12 +21,12 @@ https://goo.gl/maps/FvvQDWknCoTLWpKp8
 Tennenonsen Kachofugetsu Hot Spring to 鳩山町文化会舘 via Ikejiriike
 Park, Takakurakofuku Temple, and 6 other stops in Google Maps.
 
-https://goo.gl/maps/bfm6SNKjhDb5TgyX8
+https://goo.gl/maps/B8LRVmSdopBC1cC99
 
 鳩山町文化会舘 to 薪石窯PIZZA たんぽぽ via Kamigarako, Kamigarako, and
 3 other stops
 
-https://goo.gl/maps/5dsZ3iYspSfrxpeo7
+https://goo.gl/maps/pdznGMLe55z8o37EA
 
 薪石窯PIZZA たんぽぽ to Niigata Station via Lockheart Castle and
 Prefectural Gunma Observatory
