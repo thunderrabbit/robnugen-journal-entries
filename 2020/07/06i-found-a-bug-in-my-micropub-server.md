@@ -7,6 +7,7 @@ published: true
 slug: i-found-a-bug-in-my-micropub-server
 title: 'I found a bug in my Micropub server'
 ---
+
 I found a bug in the slug creator regarding dots in the title. It seems if I include a dot somewhere in the title, the URL sent back from the server doesn't include the dot, even though the filename does.
 
 I don't know offhand what's happening because I think I use the same sluggified path variable for both.
