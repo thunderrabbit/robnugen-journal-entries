@@ -12,4 +12,10 @@ After Design Your Day and my lesson at 8am with Yuna, I will walk to
 
 I wonder who will join!
 
+##### 22:35 Saturday 11 July 2020 JST
+
+Yuna joined!
+
+I forgot to take pictures, but we had a good time mindfully walking in
+Shinjuku Gyoen.
 
