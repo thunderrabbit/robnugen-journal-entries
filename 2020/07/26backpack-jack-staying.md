@@ -8,6 +8,8 @@ episode_thumbnail: "https://b.robnugen.com/art/marble_track_3/construction/2020/
 date: 2020-07-26T20:44:56+09:00
 ---
 
+From https://www.marbletrack3.com/episode/2020/july/backpack-jack-staying/
+
 Today I livestreamed for about 90 minutes, the last portion of which
 Jimmy joined via the chat.  Most interesting today was deciding to
 (probably) do a new weird thing with [Backpack Jack](//www.marbletrack3.com/workers/backpack_jack/), who has arrived with a pair
