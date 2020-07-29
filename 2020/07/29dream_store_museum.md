@@ -3,7 +3,8 @@ date: '2020-07-29T05:11:06+09:00'
 journal: journal
 posttype: journal
 published: true
-slug: 5f20865a
+slug: dream-store-museum
+title: 'dream store museum'
 ---
 Dreamt that
 
