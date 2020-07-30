@@ -1,12 +1,11 @@
 ---
+title: "Dream store museum"
+tags: [ "dream", "opaque", "party" ]
+author: Rob Nugen
 date: '2020-07-29T05:11:06+09:00'
-journal: journal
-tags: [ "opaque", "party", "dream" ]
-published: true
-slug: dream-store-museum
-title: 'dream store museum'
 ---
-Dreamt that
+
+Last night I dreamt
 
 <p class="dream">
 I arrived at the apple store to see their new door sized displays. I went into the entrance and realized I didn't have a shirt.  The bouncer woman behind glass have me a t shirt that turned into a collar shirt as I put it on.
