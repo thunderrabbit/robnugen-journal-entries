@@ -15,3 +15,8 @@ and allowed it to dry out over a 15 or 20 minute period while I
 walked.  Near いなげや in 南生田２丁目 I wrapped my todo notebook
 "one" in the bag to keep it dry in case it started raining again on my
 way back.
+
+Also walked past Our City's 50 Trees to mourn their loss.
+
+[![2020 july 28 our citys 50 tree stump](//b.robnugen.com/journal/2020/thumbs/2020_july_28_our_citys_50_tree_stump.jpg)](//b.robnugen.com/journal/2020/2020_july_28_our_citys_50_tree_stump.jpg)
+[![2020 july 28 fifty tree stump feet](//b.robnugen.com/journal/2020/thumbs/2020_july_28_fifty_tree_stump_feet.jpg)](//b.robnugen.com/journal/2020/2020_july_28_fifty_tree_stump_feet.jpg)
