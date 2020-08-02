@@ -18,14 +18,15 @@ Shraddhan showed me [Design Festa
 Gallery](https://designfestagallery.com/), which I had never seen
 before.
 
-I feel asleep during a little live show there and then Shraddhan showed me some of the small exhibits.  
+I feel asleep during a little live show there and then Shraddhan showed me some of the small exhibits.
 
 Walked up to the other end of Omotesando and stopped by Raizin R 番地
 and got three free energy drinks in exchange for reading a simple
-description of them.  I conceeded that it was worth it, and gave
-Shraddhan "1 point", in honor of other time honored faux currencies
-(which are not fit for a family oriented site): Dick Dollars, and
-Minutes of Kinky Sex.
+description of them.  I conceded that it was worth it, and gave
+Shraddhan "1 point".
+
+[![2020 aug 02 raizin landscape](//b.robnugen.com/journal/2020/thumbs/2020_aug_02_raizin_landscape.jpg)](//b.robnugen.com/journal/2020/2020_aug_02_raizin_landscape.jpg)
+[![2020 aug 02 raizin portrait](//b.robnugen.com/journal/2020/thumbs/2020_aug_02_raizin_portrait.jpg)](//b.robnugen.com/journal/2020/2020_aug_02_raizin_portrait.jpg)
 
 We headed to Nogizaka by way of a couple of detours to look at
 architecture and other interesting bits. ("some of these windows are
