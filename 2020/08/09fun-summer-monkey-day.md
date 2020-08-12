@@ -18,4 +18,10 @@ They apparently feed apples to the monkeys in this way at the same time once eac
 
 I asked the guy who why the monkeys didn't just run away and he said it was calculated that this area was so far away that they wouldn't move the entire group to a new area.  Thanks to C for translating.
 
+[![2020 aug 09 baby monkeys](//b.robnugen.com/journal/2020/nagano/thumbs/2020_aug_09_baby_monkeys.jpg)](//b.robnugen.com/journal/2020/nagano/2020_aug_09_baby_monkeys.jpg)
+[![2020 aug 09 barefoot monkeys](//b.robnugen.com/journal/2020/nagano/thumbs/2020_aug_09_barefoot_monkeys.jpg)](//b.robnugen.com/journal/2020/nagano/2020_aug_09_barefoot_monkeys.jpg)
+[![2020 aug 09 feeding monkeys](//b.robnugen.com/journal/2020/nagano/thumbs/2020_aug_09_feeding_monkeys.jpg)](//b.robnugen.com/journal/2020/nagano/2020_aug_09_feeding_monkeys.jpg)
+[![2020 aug 09 francois at hells onsen](//b.robnugen.com/journal/2020/nagano/thumbs/2020_aug_09_francois_at_hells_onsen.jpg)](//b.robnugen.com/journal/2020/nagano/2020_aug_09_francois_at_hells_onsen.jpg)
+[![2020 aug 09 summer onsen monkeys](//b.robnugen.com/journal/2020/nagano/thumbs/2020_aug_09_summer_onsen_monkeys.jpg)](//b.robnugen.com/journal/2020/nagano/2020_aug_09_summer_onsen_monkeys.jpg)
+[![2020 aug 09 tossing apples](//b.robnugen.com/journal/2020/nagano/thumbs/2020_aug_09_tossing_apples.jpg)](//b.robnugen.com/journal/2020/nagano/2020_aug_09_tossing_apples.jpg)
 
