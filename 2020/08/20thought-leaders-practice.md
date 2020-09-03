@@ -8,4 +8,3 @@ draft: false
 
 Lisa just said a book is just like a heavy business card.
 
-Are you close to OZ/NZ/ asia timezone? Are you close to OZ/NZ/ asia timezone? 
