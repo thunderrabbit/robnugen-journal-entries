@@ -8,8 +8,9 @@ fi
 
 COMMIT_MESSAGE=$@
 
-echo "Will use \"${COMMIT_MESSAGE}\" as the commit message"
+echo "Plan to use \"${COMMIT_MESSAGE}\" as the commit message"
 
+~/journal/get_git_commits.sh
 ~/journal/push_then_pull_on_micropub_server.sh
 
 cd ~/barefoot_rob/content/journal
