@@ -19,3 +19,10 @@ ssh hpc 'cd /home/hugotest_dh_dfenwd/barefoot_rob/content/journal/; git push'
 
 echo "pulling those commits here on local repo"
 git pull
+
+if [ $? -eq 0 ]; then
+    echo pull OK
+else
+    echo pull FAIL
+    exit -1
+fi
