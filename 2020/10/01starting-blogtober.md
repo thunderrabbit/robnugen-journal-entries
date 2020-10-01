@@ -9,7 +9,7 @@ draft: false
 (written 22:51 Thursday 01 October 2020 JST)
 
 My template at `~/.emacs.d/personal/hugo/templates/blog_template.txt`
-for these blog entries looks like this
+for blog entries looked like this
 
 
 ```
