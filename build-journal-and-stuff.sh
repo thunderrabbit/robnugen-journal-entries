@@ -10,10 +10,7 @@ COMMIT_MESSAGE=$@
 
 echo "Will use \"${COMMIT_MESSAGE}\" as the commit message"
 
-echo "pushing"
-git push origin master
-git push borigin master &
-# git push github master &
+~/journal/push_then_pull_on_micropub_server.sh
 
 cd ~/barefoot_rob/content/journal
 git pull
