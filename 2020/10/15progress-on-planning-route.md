@@ -12,4 +12,7 @@ A month ago on routeplanner.com I planned about four more days of my walk to Nii
 
 According to my plan so far, I'm about one day from Dragondola, having gotten a day past a nearby bunjee jump.
 
-Links coming soon?
+<del>Links coming soon?</del> [route plotted over the mountains](/quests/walk-to-niigata/2020/10/17route-plotted-over-the-mountains/)
+
+
+(under_construction.gif)
