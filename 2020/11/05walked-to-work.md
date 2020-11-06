@@ -13,16 +13,23 @@ I started yesterday thinking Google Maps said it was 21km to my work.
 By the end of the day, Google Maps said I walked 23km, so maybe I used
 a different route.  Here are notes I wrote during the walk yesterday.
 
+[![2020 nov 04 0920 planning to walk](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_0920_planning_to_walk.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_0920_planning_to_walk.jpg)
 
 #### 9:20
 
 Beautiful weather whistling oh happy day to myself
+
+After turning onto a larger street, I found broken plastic that hadn't been swept up.
+
+[![2020 nov 04 0948 brake lights broke](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_0948_brake_lights_broke.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_0948_brake_lights_broke.jpg)
 
 #### 10:07
 
 I walked past Tokyo shoe store and the owner took a picture for me outside the store.
 
 I asked him to include the sign and he included half the English and half to Japanese so neither one is completely legible.
+
+[![2020 nov 04 1001 barefoot rob at shoe store](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1001_barefoot_rob_at_shoe_store.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1001_barefoot_rob_at_shoe_store.jpg)
 
 But there is a big kanji that says shoes, which contrasts with my big feet with no shoes.
 
@@ -34,16 +41,42 @@ I feel much more certain that I will find interesting things than I feel certain
 
 (( I remembered, but I miscounted, and had to delete a photo (then repost it) ))
 
+#### 10:30
+
+Soon after the shoe store, I noticed some seats with funny pictures and writing on them.
+
+[![2020 nov 04 1029 funny seats 1 of 9](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1029_funny_seats_1_of_9.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1029_funny_seats_1_of_9.jpg)
+[![2020 nov 04 1029 funny seats 2 of 9](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1029_funny_seats_2_of_9.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1029_funny_seats_2_of_9.jpg)
+[![2020 nov 04 1030 funny seats 3 of 9](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1030_funny_seats_3_of_9.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1030_funny_seats_3_of_9.jpg)
+[![2020 nov 04 1030 funny seats 4 of 9](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1030_funny_seats_4_of_9.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1030_funny_seats_4_of_9.jpg)
+[![2020 nov 04 1030 funny seats 5 of 9](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1030_funny_seats_5_of_9.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1030_funny_seats_5_of_9.jpg)
+[![2020 nov 04 1030 funny seats 6 of 9](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1030_funny_seats_6_of_9.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1030_funny_seats_6_of_9.jpg)
+[![2020 nov 04 1030 funny seats 7 of 9](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1030_funny_seats_7_of_9.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1030_funny_seats_7_of_9.jpg)
+[![2020 nov 04 1030 funny seats 8 of 9](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1030_funny_seats_8_of_9.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1030_funny_seats_8_of_9.jpg)
+[![2020 nov 04 1028 funny seats 9 of 9](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1028_funny_seats_9_of_9.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1028_funny_seats_9_of_9.jpg)
 
 #### 11:37
+
+[![2020 nov 04 1121 mushrooms on stump](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1121_mushrooms_on_stump.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1121_mushrooms_on_stump.jpg)
 
 I chatted with Mohamed for an hour while walking and I'm now 2 hours and 50 minutes away from work.
 
 Great to talk to him about the meaning of life and the meaning of being a PhD.  but I right next to a road that's loud as heck when I'm talking to him so hanging up for now.
 
+[![2020 nov 04 1152 sign to kajigaya](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1152_sign_to_kajigaya.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1152_sign_to_kajigaya.jpg)
+
 #### 12:07
 
 I've walked 9 km now and have 12 more to go.  I'm beginning to feel some tiredness in my hips.
+
+#### 12:20
+
+WWoooowwww  this is really neat!  A scrap metal bin with thousands of stainless steel hooks stamped and apparently dumped...
+
+[![2020 nov 04 1217 scrap metal jackpot narrow](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1217_scrap_metal_jackpot_narrow.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1217_scrap_metal_jackpot_narrow.jpg)
+[![2020 nov 04 1217 scrap metal jackpot wide](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1217_scrap_metal_jackpot_wide.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1217_scrap_metal_jackpot_wide.jpg)
+[![2020 nov 04 1218 scrap metal jackpot close](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1218_scrap_metal_jackpot_close.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1218_scrap_metal_jackpot_close.jpg)
+
 
 #### 13:07
 
@@ -51,11 +84,26 @@ I counted 1000 steps on my left leg and assume that's a little bit more than 1 k
 
 Under normal freaking chances I would take a break for lunch at this point and in this case I cannot because I have to get to work on time.
 
-But I'm just now made it to my original train line Tokyo Toyota line.
+But I'm just now made it to my original train line Tokyu Toyoko line.
+
+[![2020 nov 04 1310 tokyu train yard near motosumiyoshi](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1310_tokyu_train_yard_near_motosumiyoshi.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1310_tokyu_train_yard_near_motosumiyoshi.jpg)
 
 #### 13:15
 
 My alarm just went off saying that I have to leave home soon to go to work.
+
+[![2020 nov 04 1339 map more than halfway there](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1339_map_more_than_halfway_there.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1339_map_more_than_halfway_there.jpg)
+
+#### 16:10
+
+Neat elevated road running between NEC building and what look like new apartments.   The NEC building has a training tower in front of it.
+
+[![2020 nov 04 1357 training tower](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1357_training_tower.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1357_training_tower.jpg)
+
+And an abandoned staircase nearby...
+
+[![2020 nov 04 1359 abandoned staircase](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1359_abandoned_staircase.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1359_abandoned_staircase.jpg)
+[![2020 nov 04 1409 abandoned staircase](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1409_abandoned_staircase.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1409_abandoned_staircase.jpg)
 
 #### 15:06
 
@@ -69,31 +117,4 @@ Phone battery is at 1% charge and I didn't really charge it except while I talke
 
 I did it!
 
-
-##### 11:19 Thursday 05 November 2020 JST
-
-Here are pictures from yesterday.  They all have timestamps in their names so you can work out when they fit into the text above.
-
-[![2020 nov 04 0920 planning to walk](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_0920_planning_to_walk.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_0920_planning_to_walk.jpg)
-[![2020 nov 04 0948 brake lights broke](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_0948_brake_lights_broke.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_0948_brake_lights_broke.jpg)
-[![2020 nov 04 1001 barefoot rob at shoe store](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1001_barefoot_rob_at_shoe_store.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1001_barefoot_rob_at_shoe_store.jpg)
-[![2020 nov 04 1028 funny seats 9 of 9](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1028_funny_seats_9_of_9.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1028_funny_seats_9_of_9.jpg)
-[![2020 nov 04 1029 funny seats 1 of 9](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1029_funny_seats_1_of_9.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1029_funny_seats_1_of_9.jpg)
-[![2020 nov 04 1029 funny seats 2 of 9](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1029_funny_seats_2_of_9.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1029_funny_seats_2_of_9.jpg)
-[![2020 nov 04 1030 funny seats 3 of 9](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1030_funny_seats_3_of_9.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1030_funny_seats_3_of_9.jpg)
-[![2020 nov 04 1030 funny seats 4 of 9](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1030_funny_seats_4_of_9.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1030_funny_seats_4_of_9.jpg)
-[![2020 nov 04 1030 funny seats 5 of 9](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1030_funny_seats_5_of_9.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1030_funny_seats_5_of_9.jpg)
-[![2020 nov 04 1030 funny seats 6 of 9](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1030_funny_seats_6_of_9.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1030_funny_seats_6_of_9.jpg)
-[![2020 nov 04 1030 funny seats 7 of 9](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1030_funny_seats_7_of_9.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1030_funny_seats_7_of_9.jpg)
-[![2020 nov 04 1030 funny seats 8 of 9](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1030_funny_seats_8_of_9.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1030_funny_seats_8_of_9.jpg)
-[![2020 nov 04 1121 mushrooms on stump](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1121_mushrooms_on_stump.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1121_mushrooms_on_stump.jpg)
-[![2020 nov 04 1152 sign to kajigaya](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1152_sign_to_kajigaya.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1152_sign_to_kajigaya.jpg)
-[![2020 nov 04 1217 scrap metal jackpot narrow](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1217_scrap_metal_jackpot_narrow.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1217_scrap_metal_jackpot_narrow.jpg)
-[![2020 nov 04 1217 scrap metal jackpot wide](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1217_scrap_metal_jackpot_wide.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1217_scrap_metal_jackpot_wide.jpg)
-[![2020 nov 04 1218 scrap metal jackpot close](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1218_scrap_metal_jackpot_close.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1218_scrap_metal_jackpot_close.jpg)
-[![2020 nov 04 1310 tokyu train yard near motosumiyoshi](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1310_tokyu_train_yard_near_motosumiyoshi.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1310_tokyu_train_yard_near_motosumiyoshi.jpg)
-[![2020 nov 04 1339 map more than halfway there](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1339_map_more_than_halfway_there.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1339_map_more_than_halfway_there.jpg)
-[![2020 nov 04 1357 training tower](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1357_training_tower.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1357_training_tower.jpg)
-[![2020 nov 04 1359 abandoned staircase](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1359_abandoned_staircase.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1359_abandoned_staircase.jpg)
-[![2020 nov 04 1409 abandoned staircase](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1409_abandoned_staircase.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1409_abandoned_staircase.jpg)
 [![2020 nov 04 1518 success](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/thumbs/2020_nov_04_1518_success.jpg)](//b.robnugen.com/journal/2020/2020_nov_04_walked_barefoot_23km_to_work/2020_nov_04_1518_success.jpg)
