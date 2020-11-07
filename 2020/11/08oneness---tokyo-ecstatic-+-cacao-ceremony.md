@@ -10,33 +10,33 @@ From the website:
 
 https://onenessdance.peatix.com/
 
-What is included? / 何が含まれているか？
-ーーーーーーーーーーーーーーーーーーーーーー
-Opening Ceremony オープニング・セレモニー
-Yoga Workshop ヨガ・ワークショップ
-Movement Workshop ムーブメント・ワークショップ
-Ecstatic Dance エクスタチック・ダンス
-Closing Ceremony クロージング・セレモニー
-
-
-What is Ecstatic Dance?
-ーーーーーーーーーーーーーーーーーーーーーー
-Ecstatic Dance is where you explore yourself in a safe space to dance without talking, drinking and the nightclub vibe.
-This is a space where you give yourself permission to be YOU and explore YOUR OWN movement.
-
-This is NOT a space for you to
-❌"look cool"
-❌"get girls / guy"
-❌"feel not enough"
-❌"feel I have to be superior than others"
-❌ This is NOT a space for you to compare yourself with others.
-
-This is a space where you GIVE YOURSELF PERMISSION to
-🤗 explore who you are
-🤗 explore what movement feels good for you
-🤗 reconnect with you body
-🤗 love your body
-🤗 celebrate your spirit
+<br/>What is included? / 何が含まれているか？
+<br/>ーーーーーーーーーーーーーーーーーーーーーー
+<br/>Opening Ceremony オープニング・セレモニー
+<br/>Yoga Workshop ヨガ・ワークショップ
+<br/>Movement Workshop ムーブメント・ワークショップ
+<br/>Ecstatic Dance エクスタチック・ダンス
+<br/>Closing Ceremony クロージング・セレモニー
+<br/>
+<br/>
+<br/>What is Ecstatic Dance?
+<br/>ーーーーーーーーーーーーーーーーーーーーーー
+<br/>Ecstatic Dance is where you explore yourself in a safe space to dance without talking, drinking and the nightclub vibe.
+<br/>This is a space where you give yourself permission to be YOU and explore YOUR OWN movement.
+<br/>
+<br/>This is NOT a space for you to
+<br/>❌"look cool"
+<br/>❌"get girls / guy"
+<br/>❌"feel not enough"
+<br/>❌"feel I have to be superior than others"
+<br/>❌ This is NOT a space for you to compare yourself with others.
+<br/>
+<br/>This is a space where you GIVE YOURSELF PERMISSION to
+<br/>🤗 explore who you are
+<br/>🤗 explore what movement feels good for you
+<br/>🤗 reconnect with you body
+<br/>🤗 love your body
+<br/>🤗 celebrate your spirit
 
 ##### 00:47 Sunday 08 November 2020 JST
 
