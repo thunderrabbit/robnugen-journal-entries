@@ -8,6 +8,8 @@ slug: great-time-in-walking-meditation-today
 title: 'great time in walking meditation today.'
 ---
 
+[![2020 nov 22 enjoy beautiful shinjuku gyoen](//b.robnugen.com/journal/2020/thumbs/2020_nov_22_enjoy_beautiful_shinjuku_gyoen.jpg)](//b.robnugen.com/journal/2020/2020_nov_22_enjoy_beautiful_shinjuku_gyoen.jpg)
+
 Lovely weather and wonderful time spent in Shinjuku Gyoen today.  Thanks to Sach, Amaru, Kino for attending.  Thanks to Hiromi, Clare, and Mohit for letting us know they couldn't join.
 
 I led three meditations:
@@ -24,5 +26,4 @@ As it started to get a little bit chilly we had it out of the park, and in searc
 
 Kino hung out in the direct sunlight while Amaru and I entered the greenhouse.  We walked the loop around through the place just before they closed up for the night.
 
-Overall, super great time today. 10/10, would try again.  How about 12/12?
-
+Overall, super great time today. 10/10, would try again.  [Join us for Walking Meditation 12/12 at noon!](https://www.facebook.com/events/410870466707151)
