@@ -8,7 +8,7 @@ slug: runes-at-christines
 title: "Runes at Christine's"
 ---
 
-Hanging out with Christine today, I chose to runes from a set which she got from Norway.
+Hanging out with Christine today, I chose two runes from a set which she got from Norway.
 
 I had stated the topic is **my offering in terms of my livelihood like workshops and such that I'm doing**.
 
