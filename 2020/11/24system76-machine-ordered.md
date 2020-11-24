@@ -1,5 +1,5 @@
 ---
-title: "System76 order #115112"
+title: "System76 order 115112"
 tags: [ "security", "2fa" ]
 author: Rob Nugen
 date: 2020-11-24T10:46:40+09:00
