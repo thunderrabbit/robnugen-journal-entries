@@ -44,11 +44,13 @@ from the weekend and write this one from today, including my reply to oscare:
 
     I hand wrote my journal from about 1987 to when I moved online.  I
     flirted with the idea of maintaining both, but that did not last
-    long.  For aspiring journalers, always write the full date
-    including year.  Probably write the time of day and maybe day of
-    week to help give context to future readers.  Do not worry about
-    backtracking if you skip a day.  Just write starting now,
-    otherwise the backlog will paralyze you.
+    long.
+
+    For aspiring journalers, always write the full date, including
+    year.  Probably write the time of day and maybe day of week to
+    help give context to future readers.  Do not worry about
+    backtracking if you skip a day or even a year.  Just write
+    starting now, otherwise the backlog will paralyze you.
 
     That reminds me I haven't written about today yet.
 
