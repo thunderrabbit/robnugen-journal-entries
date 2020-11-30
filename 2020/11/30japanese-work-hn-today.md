@@ -38,9 +38,9 @@ So amazing that he was so wrong about things as "simple" as dandruff.
 I wonder, what have we got wrong now?
 
 In the comments,
-[wombatmobile asked if anyone is keeping a diary these days](https://news.ycombinator.com/item?id=25251560).
+[oscare asked if anyone is keeping a diary these days](https://news.ycombinator.com/item?id=25247266).
 Thank you for asking!  The question inspired me to post my entries
-from the weekend and write this one from today, including my reply to wombatmobile:
+from the weekend and write this one from today, including my reply to oscare:
 
     I hand wrote my journal from about 1987 to when I moved online.  I
     flirted with the idea of maintaining both, but that did not last
@@ -58,6 +58,5 @@ from the weekend and write this one from today, including my reply to wombatmobi
 
     https://www.robnugen.com/journal/2020/11/30/japanese-work-hn-today/
 
-##### 23:13
 
-haha I am tired and replied as a sibling instead of to wombatmobile.  I will leave it; no one cares but me.
+
