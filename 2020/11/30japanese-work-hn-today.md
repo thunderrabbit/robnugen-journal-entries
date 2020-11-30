@@ -35,7 +35,7 @@ So amazing that he was so wrong about things as "simple" as dandruff.
     indulges in.  A book on German metaphysics would thus easily ruin
     a dress suit.
 
-What have we got wrong now?
+I wonder, what have we got wrong now?
 
 In the comments,
 [oscare asked if anyone is keeping a diary these days](https://news.ycombinator.com/reply?id=25247266).
