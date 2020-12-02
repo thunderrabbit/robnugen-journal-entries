@@ -28,3 +28,5 @@ draft: false
 20. Eight men including 2 new men attended MKP Japan's first weekly meeting of December.
 21. I've been taking Dmitri's _The Inspiration Process_ course, and got from "I want more money and recognition for my heart work, but
     I get ignored instead" to "I want to be the expensive guy, but I get ignored instead."  Step by step.
+22. When I go to JB, I don't bring shoes.  I just put on socks outside the door.
+23. I've been working at SCC twice a month.  Lots of fun there and meeting new people, Mirika most recently.
