@@ -6,7 +6,8 @@ date: 2020-12-01T21:09:30+09:00
 draft: false
 ---
 
-1. I've ordered my new computer from System76.  After a delay too minor to stress over, it's apparently under assembly now.
+1. I've ordered my new computer from System76.  After a Javascript-powered delay too minor to stress over, it's apparently under assembly now.
+27. I still have my same waterproof Aquos phone running Android 8 (though the latest OS is Android 11).  My phone vendor has not made updates available since 8.0.0 (and there is one annoying bug where the phone saves all the notifications and dutifully poops out a raucus of consecutive notifications when it gets the chance (when I turn off silent mode)
 2. I've started leading [Weekly Alignments](/weekly-alignments/) the first fourThursday nights each month.
 3. I'm still teaching in Omotesando on Tuesdays, and plan to quit each time I head toward the lesson.
 4. I'm really pleased with Marble Track 3 construction today. I had Mr Greene enter reflectively as he exited, and he's carrying El Banderín, a name I love, and hope makes sense en español.
@@ -30,3 +31,8 @@ draft: false
     I get ignored instead" to "I want to be the expensive guy, but I get ignored instead."  Step by step.
 22. When I go to JB, I don't bring shoes.  I just put on socks outside the door.
 23. I've been working at SCC twice a month.  Lots of fun there and meeting new people, Mirika most recently.
+22. Our cat Jennie is genki and fine. She is something like 8 years old now, I think. Lin still frets about Jennie going outside at night.
+23. My bicycle TJ Bike is getting old and doing pretty fine. Shocks in front have been shot (rusty) for years since I left him outside in the rain in our old house.
+24. I'm basically switching to Springmail as my email client. It's got the shortcuts I like and seems to have its proverbial act together more than Apple's Mail.app. plus I'm moving to Pop_OS sooner than later.
+25. I've just realized I need to prepare a few lists before my trip walking to Niigata: list of things to pack, list of places to reserve, list of things to do (including buy a battery for my old computer).
+26. Separately, I need to make a list of things to transfer from my old computer to my new computer.
