@@ -1,7 +1,8 @@
 ---
-title: "Bus caught fire"
+title: "Dream Bus caught fire"
 tags: [ "dream", "black", "smoke", "bus", "fire" ]
 author: Rob Nugen
+alias: "/journal/2020/12/21/bus-caught-fire/"
 date: 2020-12-21T06:32:24+09:00
 ---
 

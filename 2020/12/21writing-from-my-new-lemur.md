@@ -12,7 +12,7 @@ Pop!_OS.
 1. The first day, I installed a few things including Dragonframe, and
 copied all my Marble Track 3 data for Dragonframe.  Also got signed in
 to https://chat.pop-os.org/ and have received help from some peeps,
-notably @derpmatt, @datapoke, and @mmstick 
+notably @derpmatt, @datapoke, and @mmstick
 2. The second day, I cloned a copy of my hugo website and journal
 entries, then while researching Virtualbox replacements, I discovered
 [Barrier](https://github.com/debauchee/barrier/) and got it installed
