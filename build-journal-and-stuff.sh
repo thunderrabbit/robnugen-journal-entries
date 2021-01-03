@@ -35,6 +35,10 @@ REMOTE_UNTRACKED_FILES=$(~/journal/untracked_remote_journal_file_shower.sh)
 if [ -n "$REMOTE_UNTRACKED_FILES" ]   # check non-zero length
     then
 	echo There are untracked remote files.
+        while read -r line; do
+              echo "$line"
+        done <<< "$REMOTE_UNTRACKED_FILES"
+
 	#
 	#  https://ss64.com/bash/read.html
 	#
@@ -46,12 +50,8 @@ fi
 
 if [ $GET_REMOTE_FILES_BOOL = "y" ]
     then
-        while read -r line; do
-              echo "... $line ..."
-        done <<< "$REMOTE_UNTRACKED_FILES"
-
         echo Calling script to get the files, then exiting
-	~/journal/untracked_remote_journal_file_getter.sh $REMOTE_UNTRACKED_FILES
+	~/journal/untracked_remote_journal_file_getter.sh "$REMOTE_UNTRACKED_FILES"
         exit
 fi
 
