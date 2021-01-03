@@ -7,8 +7,16 @@
 REMOTE_UNTRACKED_FILES="$1"
 
 # REMOTE_JOURNAL_DIR should match ~/journal/untracked_remote_journal_file_shower.sh
-REMOTE_JOURNAL_DIR='~/barefoot_rob/content/journal'    #REMOTE_JOURNAL_DIR must be in single quotes so ~ does not expand locally.
+REMOTE_JOURNAL_DIR='~/barefoot_rob/content/journal'         # must be in single quotes so ~ does not expand locally.
+REMOTE_JUSTIN_CASE='~/untracked_files_copied_to_local_box'  # must be in single quotes so ~ does not expand locally.
 
 while read -r line; do
-    echo "scp -F ~/.ssh/config_no_visual_keys hpc:$REMOTE_JOURNAL_DIR/$line $line"
+    scp -F ~/.ssh/config_no_visual_keys hpc:$REMOTE_JOURNAL_DIR/$line $line
+    if [ $? -eq 0 ]; then
+        echo copy OK
+	echo moving remote file to $REMOTE_JUSTIN_CASE
+    else
+        echo copy FAIL
+        exit -1
+    fi
 done <<< "$REMOTE_UNTRACKED_FILES"
