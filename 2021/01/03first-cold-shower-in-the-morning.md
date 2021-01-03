@@ -8,8 +8,10 @@ slug: first-cold-shower-in-the-morning
 title: 'first cold shower in the morning'
 ---
 
-I just took a cold shower this morning because several of my friends have talked about the benefits and you know what? It wasn't that bad!!
+I just took a cold shower this morning because several of my friends
+have talked about the benefits and you know what? It wasn't that bad!!
 
-Thanks to my friends for having led the way, so to speak: Hiro, Steve, Michael S.  And of course recent popularizer Wim Hof.
+Thanks to my friends for having led the way, so to speak: Hiro, Steve,
+Michael S.  And of course recent popularizer Wim Hof.
 
 

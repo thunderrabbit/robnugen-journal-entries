@@ -13,3 +13,7 @@ facilitation and enjoying life through creative play.
 
 I have held 5 million yen cash many times before and I enjoy what it
 feels like in my hands, knowing this time that it is mine.
+
+##### 18:17 Sunday 03 January 2021 JST
+
+Well *that* didn't happen!

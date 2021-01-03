@@ -1,10 +1,9 @@
 #!/bin/bash
 # This is designed to copy a directory of images from Finder to b.robnugen.com
 
-THISYEAR=$(date +'%Y')
-
-echo remember you can
-echo ssh b.rn "'mkdir -p ~/b.robnugen.com/journal/$THISYEAR'"
+THIS_YEAR=$(date +'%Y')
+REMOTE_USER_DIR=/home/thundergoblin
+REMOTE_JOURNAL_YEAR=$REMOTE_USER_DIR/b.robnugen.com/journal/$THIS_YEAR
 
 DIRECTORY=$1
 
@@ -14,7 +13,12 @@ if [ ! -d "$DIRECTORY" ]; then
     exit
 fi
 
-rm $DIRECTORY/.DS_Store
-scp -r $DIRECTORY b.rn:b.robnugen.com/journal/$THISYEAR
-ssh b.rn "'find ~/b.robnugen.com/journal/$THISYEAR -type f -exec chmod 644 -- {} +'"
-ssh b.rn "'find ~/b.robnugen.com/journal/$THISYEAR -type d -exec chmod 755 -- {} +'"
+BASENAME=$(basename $DIRECTORY)
+
+echo creating remote directory $REMOTE_JOURNAL_YEAR/$BASENAME
+
+ssh b.rn "'mkdir -p $REMOTE_JOURNAL_YEAR/$BASENAME'"
+
+scp -r $DIRECTORY b.rn:$REMOTE_JOURNAL_YEAR/$BASENAME
+
+ssh b.rn "$REMOTE_USER_DIR/scripts/fix_mode_journal_year.sh"
