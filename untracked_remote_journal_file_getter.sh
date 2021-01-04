@@ -16,7 +16,7 @@ while read -r line; do
         echo copy OK
 	echo moving remote file to $REMOTE_JUSTIN_CASE
 	# https://stackoverflow.com/a/9393147/194309 -n keeps ssh from breaking while loop
-	ssh -F ~/.ssh/config_no_visual_keys hpc "mv $REMOTE_JOURNAL_DIR/$line $REMOTE_JUSTIN_CASE"
+	ssh -n -F ~/.ssh/config_no_visual_keys hpc "mv $REMOTE_JOURNAL_DIR/$line $REMOTE_JUSTIN_CASE"
     else
         echo copy FAIL
         exit -1
