@@ -3,7 +3,7 @@
 if [ -z "$1" ]
   then
     echo "Usage: $0 <commit message for main site>"
-    exit
+    echo "iffn you want to actually commit stuff.   I will just get files from remote server"
 fi
 
 COMMIT_MESSAGE=$@
@@ -56,6 +56,13 @@ if [ $GET_REMOTE_FILES_BOOL = "y" ]
 fi
 
 # Now that we have all the journal files from remote and local repo, put them into the main website
+
+if [ -z "$COMMIT_MESSAGE" ]
+  then
+      echo "no commit message so ending"
+      exit
+fi
+
 
 cd ~/barefoot_rob/content/journal
 git pull
