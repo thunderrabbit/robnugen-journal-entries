@@ -15,7 +15,7 @@ echo "When you update this file, also update file ~/journal/push_then_pull_on_mi
 echo
 
 echo "pushing remote commits"
-ssh hpc 'cd /home/hugotest_dh_dfenwd/barefoot_rob/content/journal/; git push'
+ssh bfr 'cd /home/barefoot_rob/barefoot_rob/content/journal/; git push'
 
 echo "pulling those commits here on local repo"
 git pull

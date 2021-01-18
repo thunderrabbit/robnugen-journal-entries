@@ -14,9 +14,8 @@ echo "When you update this file, also update file ~/journal/get_git_commits.sh"
 echo
 echo "pushing local commits"
 git push origin master
-git push borigin master &
+git push norigin master &
 # git push github master &
 
 echo "pulling on Micropub server"
-ssh hpc 'cd /home/hugotest_dh_dfenwd/barefoot_rob/content/journal/; git pull'
-
+ssh bfr 'cd /home/barefoot_rob/barefoot_rob/content/journal/; git pull'

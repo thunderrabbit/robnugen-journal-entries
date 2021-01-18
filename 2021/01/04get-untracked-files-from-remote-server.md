@@ -43,15 +43,15 @@ be able to copy them automatically to my local machine.
 This is `~/journal/untracked_remote_journal_file_shower.sh`
 
     # This is designed to show what files exist on my journal Micropub server endpoint but not included in the journal repo
-    
+
     # -F specifies a config file that does not show the ssh key visual fingerprint
-    # hpc is my journal Micropub server endpoint defined in .ssh/config_no_visual_keys
+    # bfr is my journal Micropub server endpoint defined in .ssh/config_no_visual_keys
     # git ls-files -o  shows untracked files on a line per line basis but does not handle spaces in filesnames  
-    
-    # REMOTE_JOURNAL_DIR should match 
+
+    # REMOTE_JOURNAL_DIR should match
     REMOTE_JOURNAL_DIR='~/barefoot_rob/content/journal'    #REMOTE_JOURNAL_DIR must be in single quotes so ~ does not expand locally.
-    
-    ssh -F ~/.ssh/config_no_visual_keys hpc "cd $REMOTE_JOURNAL_DIR; git ls-files -o"
+
+    ssh -F ~/.ssh/config_no_visual_keys bfr "cd $REMOTE_JOURNAL_DIR; git ls-files -o"
 
 Sample output:
 
@@ -68,13 +68,13 @@ This is `~/journal/untracked_remote_journal_file_getter.sh`
 
     REMOTE_JOURNAL_DIR='~/barefoot_rob/content/journal'         # must be in single quotes so ~ does not expand locally.
     REMOTE_JUSTIN_CASE='~/untracked_files_copied_to_local_box'  # must be in single quotes so ~ does not expand locally.
-    
+
     while read -r line; do
-        scp -F ~/.ssh/config_no_visual_keys hpc:$REMOTE_JOURNAL_DIR/$line $line
+        scp -F ~/.ssh/config_no_visual_keys bfr:$REMOTE_JOURNAL_DIR/$line $line
         if [ $? -eq 0 ]; then
             echo copy OK
     	echo moving remote file to $REMOTE_JUSTIN_CASE
-    	ssh -F ~/.ssh/config_no_visual_keys hpc "mv $REMOTE_JOURNAL_DIR/$line $REMOTE_JUSTIN_CASE"
+    	ssh -F ~/.ssh/config_no_visual_keys bfr "mv $REMOTE_JOURNAL_DIR/$line $REMOTE_JUSTIN_CASE"
         else
             echo copy FAIL
             exit -1
@@ -99,14 +99,19 @@ not the actual script.
 Here is the current working version of `~/journal/untracked_remote_journal_file_getter.sh`
 
     while read -r line; do
-        scp -F ~/.ssh/config_no_visual_keys hpc:$REMOTE_JOURNAL_DIR/$line $line
+        scp -F ~/.ssh/config_no_visual_keys bfr:$REMOTE_JOURNAL_DIR/$line $line
         if [ $? -eq 0 ]; then
             echo copy OK
     	echo moving remote file to $REMOTE_JUSTIN_CASE
     	# https://stackoverflow.com/a/9393147/194309 -n keeps ssh from breaking while loop
-    	ssh -n -F ~/.ssh/config_no_visual_keys hpc "mv $REMOTE_JOURNAL_DIR/$line $REMOTE_JUSTIN_CASE"
+    	ssh -n -F ~/.ssh/config_no_visual_keys bfr "mv $REMOTE_JOURNAL_DIR/$line $REMOTE_JUSTIN_CASE"
         else
             echo copy FAIL
             exit -1
         fi
     done <<< "$REMOTE_UNTRACKED_FILES"
+
+
+#### 18 January 2021
+
+This file was updated to reflect my new server.
