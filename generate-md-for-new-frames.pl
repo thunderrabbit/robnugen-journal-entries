@@ -27,6 +27,9 @@ my $known_videos_diff;
 
 my $run_live = 0;
 if ($run_live) {
+  local $/;  # makes changes local to this block
+  undef $/;  # file slurp mode (default is "\n")
+    
   open (MET,"<mt3_episode_template.txt");
   $mt3_episode_template = <MET>;
   close MET;
@@ -37,8 +40,8 @@ if ($run_live) {
 } else {
   # debug interface just to get the bulk of the code working
 
-  local $/;
-  undef $/;
+  local $/;  # makes changes local to this block
+  undef $/;  # file slurp mode (default is "\n")
   open (MET,"<mt3_episode_template.txt");
   open (BO, "<bframes_output.txt");
   open (KVD,"<known_videos_diff.txt");
