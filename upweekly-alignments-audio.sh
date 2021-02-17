@@ -1,77 +1,103 @@
 #!/bin/bash
-# This is designed to make it easier to copy Weekly Alignment .mp3 and .ogg files from finder to b.robnugen.com
-#
-# My user story:
-#
-# * I created two (n) files, which are on my local file system at /path/file_mc_file.mp3  and /path/file_mc_file.ogg
-# * I send these to a year-based directory on my server
-# * I see a bit of text based on the file names (and number of files)
-#
-#
-# <audio controls>
-# <source src="//b.robnugen.com/rob/presentations/weekly-alignments/2020/file_mc_file.ogg" type="audio/ogg">
-# <source src="//b.robnugen.com/rob/presentations/weekly-alignments/2020/file_mc_file.mp3" type="audio/mpeg">
-# Your browser does not support this audio content.
-# </audio>
-#
-#
-# My reality:
-#
-# Grab the name, assume it is same for both files, slap on the extensions, and poop it out.
-#
-# N.B. WE IGNORE any but the first filename argument
 
-echo remember you can
-echo ssh b.rn 'mkdir -p ~/b.robnugen.com/rob/presentations/weekly-alignments/$THISYEAR'
+echo stop the presses
+echo 
+echo We are now using acast for podcasts
+echo 
+echo 1. Record audio locally
+echo 2. Rename audio file yyyy_mmm_dd_title.wav
+echo 3. Upload to otter.ai
+echo 4. wait for transcription
+echo 5. Download otter.ai.txt file for the .wav file
+echo 6. Open .wav file with audacity via 'aud' at command line which fixes a display bug
+echo 7. Trim and clean up the audio file
+echo 8. Trim and clean up the text file
+echo 9. Export .mp3 file as before
+echo 10. Upload .mp3 file to acast
+echo 11. Create blog entry for the podcast
+echo 12. Embed text file of transcript
+echo 13. Point past episodes in about.md to blog entry on rnc
+echo cd ~/barefoot_rob
+echo ./up_weekly_alignments.sh
 
 
-if [ $# -ne 1 ]
-  then
-      echo Usage: $0 /path/file_mc_file.mp3 or .ogg         because we only use one file and assume same name for uploading two files
-      exit
-fi
-   
-# constants
-remote_path="/home/thundergoblin/b.robnugen.com/rob/presentations/weekly-alignments"
-remote_server="b.rn"
-real_domain="b.robnugen.com"
-url_path="${remote_path#*$real_domain}"    # # = remove everything up to and including b.robnugen.com
-
-echo "url_path = $url_path"
-
-filename="$1"
-echo "filename = $filename"
-filename_no_ext="$filename"
-filename_no_ext=${filename_no_ext%.ogg}    # % = remove .ogg if we sent a .ogg file
-filename_no_ext=${filename_no_ext%.mp3}    # % = remove .mp3 if we sent a .mp3 file
-echo "filename_no_ext = $filename_no_ext"  # assumes filename is the same name for both .ogg and .mp3
-
-year=$(date +%Y)
-echo "year = $year"
-filename_no_ext_no_path=$(basename $filename_no_ext)
-echo "filename_no_ext = $filename_no_ext"
-
-# You don't need these, but they're cool incantations to have available.
-relative_filepath=$(dirname $filename_no_ext_no_path)
-absolute_filepath="$( cd "$(dirname "$filename_no_ext_no_path")"; pwd -P )"
-
-ssh "$remote_server" "mkdir -p $remote_path/$year"
-
-scp "$filename_no_ext.ogg" "$remote_server:$remote_path/$year/"
-scp "$filename_no_ext.mp3" "$remote_server:$remote_path/$year/"
-
-
-echo ""
-echo ""
-echo "<audio controls>"
-echo "  <source src=\"//$real_domain$url_path/$year/$filename_no_ext_no_path.ogg\" type=\"audio/ogg\">"
-echo "  <source src=\"//$real_domain$url_path/$year/$filename_no_ext_no_path.mp3\" type=\"audio/mpeg\">"
-echo "  Your browser does not support this audio content."
-echo "</audio>"
-echo ""
-echo ""
-
-
-
-
-
+#-2021-feb-17-# #
+#-2021-feb-17-# #
+#-2021-feb-17-# #
+#-2021-feb-17-# # This is designed to make it easier to copy Weekly Alignment .mp3 and .ogg files from finder to b.robnugen.com
+#-2021-feb-17-# #
+#-2021-feb-17-# # My user story:
+#-2021-feb-17-# #
+#-2021-feb-17-# # * I created two (n) files, which are on my local file system at /path/file_mc_file.mp3  and /path/file_mc_file.ogg
+#-2021-feb-17-# # * I send these to a year-based directory on my server
+#-2021-feb-17-# # * I see a bit of text based on the file names (and number of files)
+#-2021-feb-17-# #
+#-2021-feb-17-# #
+#-2021-feb-17-# # <audio controls>
+#-2021-feb-17-# # <source src="//b.robnugen.com/rob/presentations/weekly-alignments/2020/file_mc_file.ogg" type="audio/ogg">
+#-2021-feb-17-# # <source src="//b.robnugen.com/rob/presentations/weekly-alignments/2020/file_mc_file.mp3" type="audio/mpeg">
+#-2021-feb-17-# # Your browser does not support this audio content.
+#-2021-feb-17-# # </audio>
+#-2021-feb-17-# #
+#-2021-feb-17-# #
+#-2021-feb-17-# # My reality:
+#-2021-feb-17-# #
+#-2021-feb-17-# # Grab the name, assume it is same for both files, slap on the extensions, and poop it out.
+#-2021-feb-17-# #
+#-2021-feb-17-# # N.B. WE IGNORE any but the first filename argument
+#-2021-feb-17-# 
+#-2021-feb-17-# echo remember you can
+#-2021-feb-17-# echo ssh b.rn 'mkdir -p ~/b.robnugen.com/rob/presentations/weekly-alignments/$THISYEAR'
+#-2021-feb-17-# 
+#-2021-feb-17-# 
+#-2021-feb-17-# if [ $# -ne 1 ]
+#-2021-feb-17-#   then
+#-2021-feb-17-#       echo Usage: $0 /path/file_mc_file.mp3 or .ogg         because we only use one file and assume same name for uploading two files
+#-2021-feb-17-#       exit
+#-2021-feb-17-# fi
+#-2021-feb-17-#    
+#-2021-feb-17-# # constants
+#-2021-feb-17-# remote_path="/home/thundergoblin/b.robnugen.com/rob/presentations/weekly-alignments"
+#-2021-feb-17-# remote_server="b.rn"
+#-2021-feb-17-# real_domain="b.robnugen.com"
+#-2021-feb-17-# url_path="${remote_path#*$real_domain}"    # # = remove everything up to and including b.robnugen.com
+#-2021-feb-17-# 
+#-2021-feb-17-# echo "url_path = $url_path"
+#-2021-feb-17-# 
+#-2021-feb-17-# filename="$1"
+#-2021-feb-17-# echo "filename = $filename"
+#-2021-feb-17-# filename_no_ext="$filename"
+#-2021-feb-17-# filename_no_ext=${filename_no_ext%.ogg}    # % = remove .ogg if we sent a .ogg file
+#-2021-feb-17-# filename_no_ext=${filename_no_ext%.mp3}    # % = remove .mp3 if we sent a .mp3 file
+#-2021-feb-17-# echo "filename_no_ext = $filename_no_ext"  # assumes filename is the same name for both .ogg and .mp3
+#-2021-feb-17-# 
+#-2021-feb-17-# year=$(date +%Y)
+#-2021-feb-17-# echo "year = $year"
+#-2021-feb-17-# filename_no_ext_no_path=$(basename $filename_no_ext)
+#-2021-feb-17-# echo "filename_no_ext = $filename_no_ext"
+#-2021-feb-17-# 
+#-2021-feb-17-# # You don't need these, but they're cool incantations to have available.
+#-2021-feb-17-# relative_filepath=$(dirname $filename_no_ext_no_path)
+#-2021-feb-17-# absolute_filepath="$( cd "$(dirname "$filename_no_ext_no_path")"; pwd -P )"
+#-2021-feb-17-# 
+#-2021-feb-17-# ssh "$remote_server" "mkdir -p $remote_path/$year"
+#-2021-feb-17-# 
+#-2021-feb-17-# scp "$filename_no_ext.ogg" "$remote_server:$remote_path/$year/"
+#-2021-feb-17-# scp "$filename_no_ext.mp3" "$remote_server:$remote_path/$year/"
+#-2021-feb-17-# 
+#-2021-feb-17-# 
+#-2021-feb-17-# echo ""
+#-2021-feb-17-# echo ""
+#-2021-feb-17-# echo "<audio controls>"
+#-2021-feb-17-# echo "  <source src=\"//$real_domain$url_path/$year/$filename_no_ext_no_path.ogg\" type=\"audio/ogg\">"
+#-2021-feb-17-# echo "  <source src=\"//$real_domain$url_path/$year/$filename_no_ext_no_path.mp3\" type=\"audio/mpeg\">"
+#-2021-feb-17-# echo "  Your browser does not support this audio content."
+#-2021-feb-17-# echo "</audio>"
+#-2021-feb-17-# echo ""
+#-2021-feb-17-# echo ""
+#-2021-feb-17-# 
+#-2021-feb-17-# 
+#-2021-feb-17-# 
+#-2021-feb-17-# 
+#-2021-feb-17-# 
+#-2021-feb-17-# 
