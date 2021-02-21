@@ -2,11 +2,9 @@
 title: "She has had two consecutive rough days"
 tags: [ "she", "rough" ]
 author: Rob Nugen
-date: 2021-02-19T22:48:30+09:00
+date: 2020-02-19T22:48:30+09:00
 draft: false
 ---
-
-(written 22:48 Wednesday 19 February 2020 JST)
 
 I have scheduled this 2021-02-19T22:48:30+09:00 so it will not be
 immediately visible in my journal.  I want it to be buried and not
