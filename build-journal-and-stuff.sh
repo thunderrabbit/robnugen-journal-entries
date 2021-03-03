@@ -9,8 +9,12 @@ fi
 
 COMMIT_MESSAGE=$@
 
-echo "Plan to use \"${COMMIT_MESSAGE}\" as the commit message"
-
+if [ -n "$COMMIT_MESSAGE" ]   # check non-zero length
+    then
+	echo "Plan to use \"${COMMIT_MESSAGE}\" as the commit message"
+    else
+	echo "No commit message so will only sync files, not build site"
+fi
 
 GET_REMOTE_FILES_BOOL="N"    ## Default to N because if we do not pull them it is the same as if they DNE
 
