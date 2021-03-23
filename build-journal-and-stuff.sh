@@ -78,12 +78,13 @@ cd ~/barefoot_rob/
 git add content/journal/
 sleep 0.1      # so git lock file can be removed
 
-cd ~/barefoot_rob/
-git add .      # add any blog entries I created with Emacs
-sleep 0.1      # so git lock file can be removed
+###  DO NOT SWEEP UP EDITS I HAVE NOT STAGED  cd ~/barefoot_rob/
+###  DO NOT SWEEP UP EDITS I HAVE NOT STAGED  git add .      # add any blog entries I created with Emacs
+###  DO NOT SWEEP UP EDITS I HAVE NOT STAGED  sleep 0.1      # so git lock file can be removed
 
 git commit -m "$COMMIT_MESSAGE"
 sleep 0.1     # so git lock file can be removed
 
 git push origin master
  
+ssh bfr '~/scripts/update_robnugen.com.sh'
