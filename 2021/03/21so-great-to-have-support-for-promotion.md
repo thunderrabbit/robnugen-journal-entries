@@ -6,5 +6,8 @@ date: 2021-03-21T21:20:34+09:00
 draft: false
 ---
 
-(written 21:20 Sunday 21 March 2021 JST)
+So much gratitude to have support in creating events on Facebook!  I
+had created an event here on my site for 27 March.
 
+Amaru offered to create a page on FB for the same event.  She even
+made custom images for it!
