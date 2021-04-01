@@ -11,6 +11,7 @@ REMOTE_JOURNAL_DIR='~/barefoot_rob/content/journal'         # must be in single 
 REMOTE_JUSTIN_CASE='~/untracked_files_copied_to_local_box'  # must be in single quotes so ~ does not expand locally.
 
 while read -r line; do
+    mkdir -p $(dirname $line);
     scp -F ~/.ssh/config_no_visual_keys bfr:$REMOTE_JOURNAL_DIR/$line $line
     if [ $? -eq 0 ]; then
         echo copy OK
