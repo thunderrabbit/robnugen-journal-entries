@@ -17,8 +17,20 @@ Commit https://github.com/thunderrabbit/Quill/commit/1b301b0df02cd32355361d17d55
 
 ##### 18:52 Monday 05 April 2021 JST
 
-Update: the textarea is not fixed.  I will keep removing stuff from the page in hopes I can get it to work..   Maybe I should try a plain ol' textarea and see if it's my *phone* with the problem.  Here.  I will put one here.
+Update: the textarea is not fixed.  I will keep removing stuff from
+the page in hopes I can get it to work..  Maybe I should try a plain
+ol' textarea and see if it's my *phone* with the problem.  Here.  I
+will put one here.
 
 <form>
 <textarea></textarea>
 </form>
+
+##### 21:03 Monday 05 April 2021 JST
+
+Edits in the textarea above worked fine on my phone.  I found some
+more code that was messing with the textarea.  Now I apparently will
+lose my edits, but I can use Notes or a local solution that need not
+be baked into the page.
+
+https://github.com/thunderrabbit/Quill/commit/005dc4b8bf51ef052c287880c510730944d53afa
