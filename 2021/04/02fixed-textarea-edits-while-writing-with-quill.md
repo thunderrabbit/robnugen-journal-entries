@@ -12,4 +12,13 @@ Curiously enough, that didn't work but I'm still going to keep the Twitter count
 
 Curiously enough maybe it DID work..  yep it seems fine now so let me commit this change.
 
-Commit hash 1b301b0df02cd32355361d17d55ac557764ccc87
+
+Commit https://github.com/thunderrabbit/Quill/commit/1b301b0df02cd32355361d17d55ac557764ccc87
+
+##### 18:52 Monday 05 April 2021 JST
+
+Update: the textarea is not fixed.  I will keep removing stuff from the page in hopes I can get it to work..   Maybe I should try a plain ol' textarea and see if it's my *phone* with the problem.  Here.  I will put one here.
+
+<form>
+<textarea></textarea>
+</form>
