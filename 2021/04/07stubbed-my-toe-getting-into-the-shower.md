@@ -8,7 +8,7 @@ date: '2021-04-07T14:59:39+09:00'
     
     - they
 
-After [walking around outside barefoot for nearly two hours on concrete, asphalt, and forest, over rocks, grates, sticks, steps..](https://www.reddit.com/rpan/r/whereintheworld/mlli0b) []
+After [walking around outside barefoot for nearly two hours on concrete, asphalt, and forest, over rocks, grates, sticks, steps..](https://www.reddit.com/rpan/r/whereintheworld/mlli0b) (1)
 
 I stubbed my toe while getting into the shower.
 
@@ -26,6 +26,6 @@ Here's an "after" picture, taken in Kawasaki after I super glued the injury at h
 
 [![2021 apr 06 after clean up and super glue](//b.robnugen.com/journal/2021/stubbed_my_toe/thumbs/2021_apr_06_after_clean_up_and_super_glue.jpeg)](//b.robnugen.com/journal/2021/stubbed_my_toe/2021_apr_06_after_clean_up_and_super_glue.jpeg)
 
-[] https://www.reddit.com/rpan/r/whereintheworld/mlli0b
+(1) https://www.reddit.com/rpan/r/whereintheworld/mlli0b
 
 PS: the bruise at the cuticle is from an injury in February.
