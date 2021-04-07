@@ -1,5 +1,5 @@
 ---
-title: 'hoping to help this animal '
+title: 'hoping to help this animal'
 author: 'Rob Nugen'
 date: '2021-04-07T08:13:49+09:00'
 ---
