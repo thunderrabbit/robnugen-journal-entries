@@ -39,3 +39,10 @@ draft: false
     my internal growth, guiding me to take more courses in various
     types of facilitation and counseling.
 
+*Looking back on that time, what advice would you give your younger self?*
+
+    Think less and follow my joy/courage/desire more often and with less thinking.
+
+
+
+
