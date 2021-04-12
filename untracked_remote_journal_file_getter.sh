@@ -20,6 +20,6 @@ while read -r line; do
       	ssh -n -F ~/.ssh/config_no_visual_keys bfr "mv $REMOTE_JOURNAL_DIR/$line $REMOTE_JUSTIN_CASE"
     else
         echo copy FAIL
-        exit -1
+        echo trying next file   # if one file failed, no reason to give up on the others
     fi
 done <<< "$REMOTE_UNTRACKED_FILES"

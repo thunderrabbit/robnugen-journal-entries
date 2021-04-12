@@ -18,6 +18,8 @@ fi
 
 GET_REMOTE_FILES_BOOL="N"    ## Default to N because if we do not pull them it is the same as if they DNE
 
+####   BEGIN get files from ~/barefoot_rob/content/journal
+
 REMOTE_UNTRACKED_FILES=$(~/journal/untracked_remote_journal_file_shower.sh)
 if [ -n "$REMOTE_UNTRACKED_FILES" ]   # check non-zero length
     then
@@ -42,7 +44,34 @@ if [ $GET_REMOTE_FILES_BOOL = "y" ]
         exit
 fi
 
+####   END get files from ~/barefoot_rob/content/journal
+####   BEGIN get files from ~/barefoot_rob/content
 
+REMOTE_UNTRACKED_FILES=$(~/barefoot_rob/untracked_remote_bfr_file_shower.sh)
+if [ -n "$REMOTE_UNTRACKED_FILES" ]   # check non-zero length
+    then
+	echo There are untracked remote files.
+        while read -r line; do
+              echo "$line"
+        done <<< "$REMOTE_UNTRACKED_FILES"
+
+	#
+	#  https://ss64.com/bash/read.html
+	#
+        #   -e        If the standard input is coming from a terminal, readline is used to obtain the line.
+        #
+        #   -n nchars read returns after reading nchars characters rather than waiting for a complete line of input.
+	read -e -n 1 -p "Do you want me to get them for you? " GET_REMOTE_FILES_BOOL     # reads single character into input
+fi
+
+if [ $GET_REMOTE_FILES_BOOL = "y" ]
+    then
+        echo Calling script to get the files, then exiting
+	~/barefoot_rob/untracked_remote_bfr_file_getter.sh "$REMOTE_UNTRACKED_FILES"
+        exit
+fi
+
+####   END get files from ~/barefoot_rob/content
 echo
 echo "BEGIN Get commits from remote server"
 ~/journal/get_git_commits.sh
@@ -86,5 +115,5 @@ git commit -m "$COMMIT_MESSAGE"
 sleep 0.1     # so git lock file can be removed
 
 git push origin master
- 
+
 ssh bfr '~/scripts/update_robnugen.com.sh'
