@@ -17,6 +17,11 @@ visualize myself looking into the bathroom mirror trying to imagine
 the cold sink in front of me and really feel the experience of being
 in front of the mirror, but I seemed to stay in my body.
 
+At some point, I thought I was in front of a mirror and looking into
+it and began to see white light growing.  I suspected I might be
+opening my physical eyes a bit and letting in light in the physical,
+but I am not sure.
+
 At some points I recognized I was lucid dreaming and I enjoyed that as
 its own success.  This is also the first time that I remember hearing
 myself snoring and the sound was incorporated into my lucid dream.
