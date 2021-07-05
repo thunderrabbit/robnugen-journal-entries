@@ -10,7 +10,7 @@ draft: true
 
 Massive Mistakes Men Make that keep them Frustrated Fighting and Alone
 
-* Solve not listen
+* Solve, not listen
   Jump to action
   Assume women want them to do something and not just
   listen. Okay. They immediately jump into service, trying to solve
