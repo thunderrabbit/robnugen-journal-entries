@@ -86,4 +86,4 @@ machine:
 
 `$ git --git-dir=../../barefoot_rob/content/journal/.git format-patch -n ce324b1c`
 
-`$ cat *.patch | git am`
+`$ cat *.patch | git am  --directory journal`
