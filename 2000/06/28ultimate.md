@@ -55,5 +55,5 @@ He caught the disc.
 
 <p>I'm so so so super glad I went!!!!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

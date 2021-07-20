@@ -78,6 +78,6 @@ rest of the service.
 <p>Most lovely, Amy played her harp, "Wind beneath my wings" I believe.
 
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 
 

@@ -24,4 +24,4 @@ Played about 3 rounds of that.</p>
 and get these berry stains out of my shorts before
 they set, and before Wende finds out. ;-)</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>

@@ -33,4 +33,4 @@ time.  I had three calls today, and one guy who apparently turned in
 the credit application today.  I'm super duper uber thankful for
 that.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

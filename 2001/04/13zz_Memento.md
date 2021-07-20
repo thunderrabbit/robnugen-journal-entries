@@ -22,5 +22,5 @@ maybe on rental later.</p>
 <p>I found several user sites on the movie <a
 href="https://www.google.com/search?q=memento+short+term+memory+loss&btnG=Google+Search">here</a>.
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

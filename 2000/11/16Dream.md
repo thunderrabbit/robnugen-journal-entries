@@ -13,5 +13,5 @@ date: 2000-11-16
 format and stuff because Sam Malone was just making too much money and
 the station couldn't afford him anymore.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -45,6 +45,6 @@ on pee and landed beside the toilet.  Very gross and I woke up.
 
 <p>I had to pee.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 
 

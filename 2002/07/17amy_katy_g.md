@@ -22,4 +22,4 @@ her up.</p>
 <p>I'll be testing my new journal index soon, and it should be on my
 site not too long after that.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -21,5 +21,5 @@ happy mood I've experienced in a *long* time!  So great!</p>
 <p>Now I'm going to Wende's and we'll go to Maggie's for munchin' and
 such.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

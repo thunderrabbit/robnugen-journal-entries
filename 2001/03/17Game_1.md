@@ -149,5 +149,5 @@ me.. But they totally ignored me and incurred the wrath."</p>
 <p>We have a bye now, which means we sit out for the next set of games.</p>
 
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

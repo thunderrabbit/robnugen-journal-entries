@@ -25,4 +25,4 @@ roommates (I'm in the downstairs bedroom) until we
 save up a few dollars so she can move out.
 </pre>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

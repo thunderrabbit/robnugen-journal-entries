@@ -30,4 +30,4 @@ really <em>right there</em>?  How can that be?</p>
 <p>I got a much greater appreciation for Tina's mother character.  But
 Tina is still my favorite.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

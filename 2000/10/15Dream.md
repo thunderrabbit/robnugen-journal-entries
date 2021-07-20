@@ -26,5 +26,5 @@ Wizard of Oz.
 night!" and "wait, maybe it's <em>tonight</em> that they're supposed
 to arrive."  then "oh, it was all a dream.  Nevermind."
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

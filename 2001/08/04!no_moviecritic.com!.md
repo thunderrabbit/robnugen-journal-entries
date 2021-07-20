@@ -30,4 +30,4 @@ Cheadle</a> is his name.   Ironically, he was in
 Swordfish, but I didn't remember that until I saw it
 on IMDB.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

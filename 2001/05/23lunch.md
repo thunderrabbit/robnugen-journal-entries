@@ -55,4 +55,4 @@ it is.</p>
 
 <p>Okay, I'm going home now for real.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

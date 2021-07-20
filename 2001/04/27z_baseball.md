@@ -48,5 +48,5 @@ took 1/2 of mine home.</p>
 <p>Ryan dropped us off at Jason's car and Jason dropped me off at home
 and now it's time for bed.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

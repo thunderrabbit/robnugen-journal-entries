@@ -36,7 +36,7 @@ him this evening at work
 building where we work.  Kevin planned to go in today; I'm just going
 to meet him there.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 
 
 

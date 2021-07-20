@@ -27,5 +27,5 @@ get toiletries.</p>
 <p>I look forward to falling out of love with her so we can just be friends
 and I can quit being so silly.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

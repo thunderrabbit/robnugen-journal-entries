@@ -90,4 +90,4 @@ didn't respond as she had to be home in 10 seconds.
 It looked like she was going to make it with plenty 
 (3 seconds) of time to spare.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

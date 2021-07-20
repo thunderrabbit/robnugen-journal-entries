@@ -27,4 +27,4 @@ embark on my Japanese learning adventure.</p>
 G3.  I like it when she promotes my superfly project.
 :-)</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

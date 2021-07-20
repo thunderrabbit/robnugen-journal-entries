@@ -45,5 +45,5 @@ two pages, a list of names of her friends, and a link to a joke page.</p>
 
 <p>A zombee!</p>
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

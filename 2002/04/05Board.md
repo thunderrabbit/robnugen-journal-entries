@@ -34,5 +34,5 @@ including 1 nap.  I wrote a test email via my Visor to see if I can
 get it to work the way I would like.  Last time I tried to mess with
 it, it took too long to synch.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

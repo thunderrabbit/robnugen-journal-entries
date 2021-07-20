@@ -32,5 +32,5 @@ she slept through it.  Or at least went to sleep again during the
 alarm's cadence.  Amazing how the human body can sleep through stuff
 when necessary.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

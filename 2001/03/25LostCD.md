@@ -35,4 +35,4 @@ into the computer to have Real Jukebox look up the
 song names of the CD so I didn't have to type them all
 in.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

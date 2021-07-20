@@ -45,5 +45,5 @@ otherwise.</p>
 href="https://swd.yruu.org">website</a>, and sent out an email via
 Listbot to 87 email addresses on that list.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

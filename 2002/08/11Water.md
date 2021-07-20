@@ -19,4 +19,4 @@ roommate who cooks and does dishes.</p>
 
 <p>Now we're going to go chow all-we-can-eat sushi.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

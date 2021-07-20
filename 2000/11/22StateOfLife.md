@@ -43,5 +43,5 @@ Lynch has and stay with them.
 down due to various factors.  I believe it will all rally again once
 the presidency is decided and the new year begins.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

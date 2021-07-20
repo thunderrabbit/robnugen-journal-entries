@@ -45,4 +45,4 @@ Rally?</p>
 <p>Painted Wende's plate at Paint This! and then
 sleep, or something I guess.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

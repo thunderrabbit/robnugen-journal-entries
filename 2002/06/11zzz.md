@@ -27,5 +27,5 @@ they've been here a couple of months, but still, we miss Suzanne.</p>
 sorta; fun stuff.  She's moving a few units down the way when Alana moves
 out, so I'll have to walk an extra fifty feet to say HI soon.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

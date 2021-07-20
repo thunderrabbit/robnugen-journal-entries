@@ -67,4 +67,4 @@ it says www.robnugen.com and rob@robnugen.com</p>
 lost track of the date.  Heehee cutie.  It's nice not having to know
 what the date is.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -16,5 +16,5 @@ few black.</p>
 
 <p>I'm open to input on this.  <a href="mailto:rob@robnugen.com">rob@robnugen.com</a></p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

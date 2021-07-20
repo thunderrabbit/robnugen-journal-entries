@@ -21,7 +21,7 @@ up like breadcrumbs at the beach.</p>
 
 <p>I got some small fuzzy stickers shaped like kittens.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 
 ###comments
 

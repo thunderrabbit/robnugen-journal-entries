@@ -39,4 +39,4 @@ me during my last shift next week, and he said yes!  whooo!</p>
 
 <p>I intend to record it.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

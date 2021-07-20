@@ -209,4 +209,4 @@ broken so it's a bit less sturdy.  Also, it doesn't
 latch shut on all four corners, but it stays mostly
 closed when it's folded up.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

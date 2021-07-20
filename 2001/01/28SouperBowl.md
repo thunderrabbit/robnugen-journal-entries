@@ -16,4 +16,4 @@ is in fact that day.</p>
 
 <p>Yes, I will *not* be watching the super bowl.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

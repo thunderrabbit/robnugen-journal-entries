@@ -39,5 +39,5 @@ that.</p>
 according to the invoice is 100 megs.  If I've used 100 megs, then I'm
 surprised.  Maybe my space was increased??  I'll ask them.)</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -63,5 +63,5 @@ don't turn perfectly easily.</p>
 don't know if I'll be able to find parts for it.  But I do know one
 way to find out.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

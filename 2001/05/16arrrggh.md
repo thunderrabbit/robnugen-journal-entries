@@ -39,5 +39,5 @@ art when I leave the company, and when I'm old and give away all my
 possessions, I'll give away the frame and keep the card in my treasured
 scrapbook.</p>
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

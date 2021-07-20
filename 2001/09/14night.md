@@ -17,5 +17,5 @@ SAS, so I wrote a little ditty that does it.</p>
 <p>Still got to go in the weekend and test and move the stuff online
 for the conference call at 7am on Monday.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

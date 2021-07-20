@@ -46,5 +46,5 @@ Saturdays this summer on KTRU 91.7FM in Houston, or on the web <a
 href="https://www.ktru.org/realaudio.html">www.ktru.org/realaudio.html</a>.
 The number at the station is 713-348-5878 (713-FIT-KTRU) Yay!!!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

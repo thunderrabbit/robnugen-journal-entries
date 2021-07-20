@@ -19,5 +19,5 @@ started riding!!  I was quite impressed with myself.  This ride
 included going up and down slight inclines and somewhat controlled
 turns to not hit cars.  Good job me!!!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

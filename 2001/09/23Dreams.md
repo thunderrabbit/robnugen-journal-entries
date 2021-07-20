@@ -72,5 +72,5 @@ now.  According to the guy it was to be put on a billboard, but the
 billboard company could just reinflate it; they would put a compressor
 and valve on it anyway to keep it at the correct pressure.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

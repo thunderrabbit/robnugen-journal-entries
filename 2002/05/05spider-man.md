@@ -56,4 +56,4 @@ city buildings, causing Maggie to be all, "whoah!  my stomach!"</p>
 <p>I was so completely bummed at the end of the movie when he couldn't
 tell the girl that he loved her even though he wanted nothing more.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

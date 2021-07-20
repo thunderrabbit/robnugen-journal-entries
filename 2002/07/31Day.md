@@ -35,4 +35,4 @@ with my upcoming indexing technique, but that is likely to not be
 possible without some further tweaking of the index creator and such.
 Oh well.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

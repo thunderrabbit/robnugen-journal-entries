@@ -33,4 +33,4 @@ whupped enough yet?"</p>
 
 <p>Now Wende and I are going to go out to eat!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

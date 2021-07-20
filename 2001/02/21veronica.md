@@ -17,5 +17,5 @@ her bigtime now.  :-)</p>
 <p>I'm going to sleep soonishly maybe; and I'll upload a pile of
 entries from my Handspring Visor tomorrow at work.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -18,5 +18,5 @@ and I got to see her, and I got to see her again in my dream.
 
 <p>According to VIBE History of Hip Hop, Danny Glover used to be "Kid Creole" in one of the original old school groups.  
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

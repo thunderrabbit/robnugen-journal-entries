@@ -23,4 +23,4 @@ a hike, but I don't think it will be too much problem.
  Especially considering I was going to ride to
 Maggie's house a couple months ago.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -21,4 +21,4 @@ away.  We'll have registration forms at San An.</p>
 <p>3) Kudos to Katherine for speaking up for youth
 empowerment!  I felt quite proud of her.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

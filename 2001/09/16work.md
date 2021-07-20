@@ -38,4 +38,4 @@ Solution = use the same dispatcher.</p>
 
 <p>Hopefully I'll be leaving her quite soon.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

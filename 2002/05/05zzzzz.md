@@ -33,4 +33,4 @@ remembered after she told me.</p>
 <p>She dropped me off at her house (where I had left my car after YRUU)
 and I zipped home.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

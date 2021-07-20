@@ -59,4 +59,4 @@ jumped a bit of grass, indicated by the arrow below</p>
 <p>I barely hit the grass where the arrow is located on my jump, so
 the landing was a bit tilted forward, but I recovered nicely.</p>
       
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

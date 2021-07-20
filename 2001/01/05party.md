@@ -47,4 +47,4 @@ she would want.  Now I know that she would love a hand
 painted plate.  That is what I shall make for her.  I
 don't yet have a design in mind.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

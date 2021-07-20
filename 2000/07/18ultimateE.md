@@ -40,5 +40,5 @@ much closer to the surface than they had been.  She was quite brave.
 <p>All clean then sent Elise down to the guest bedroom to sleep with
 the cats.  Goodnight!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

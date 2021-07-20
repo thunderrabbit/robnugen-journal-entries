@@ -26,4 +26,4 @@ Sally and my friend Karen.  I totally brain-farted and
 didn't think to contact them *before* today; we'll see
 how it goes.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">

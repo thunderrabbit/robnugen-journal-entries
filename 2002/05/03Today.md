@@ -28,5 +28,5 @@ feedback from users about the latest project I've been working on.
 I responded to their comments, though they are from mid January to mid
 February.  I'll respond to more next week.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

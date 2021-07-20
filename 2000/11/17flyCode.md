@@ -42,5 +42,5 @@ questions and ratings dataset will probably take a full day.
 <p>Okay, so these accomplishments may not prove I'm the greatest programmer
 in the world, but I think all programmers should repeat that mantra.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

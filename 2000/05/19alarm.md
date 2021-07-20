@@ -15,5 +15,5 @@ date: 2000-05-19
 
 <p>I'll retro-fit a big piece of code to allow that.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

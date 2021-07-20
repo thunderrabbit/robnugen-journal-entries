@@ -29,4 +29,4 @@ it was a car wash.</p>
 <p>Water hitting the roof sounded just like a mechanical car wash and
 we laughed and hollered like little kids.  Fun stuff.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -45,5 +45,5 @@ who was meowerling and took him home.</p>
 <p>Went back and left a note to explain why their screen was off.
 Even drew a picture of Spot with it attached to his claws.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

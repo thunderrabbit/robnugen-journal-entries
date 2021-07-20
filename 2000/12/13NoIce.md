@@ -14,5 +14,5 @@ the city.  Pretty much the weather is not as severe as had been
 anticipated, therefore Wende doesn't have to come in to work to cover
 for the person who does the money.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

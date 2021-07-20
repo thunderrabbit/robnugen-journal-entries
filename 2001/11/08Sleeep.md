@@ -22,5 +22,5 @@ they're a couple living across the complex from me.</p>
 house to munch La Jaliscience and then chill as I looked up
 information on Leaning Tower of Pisa.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

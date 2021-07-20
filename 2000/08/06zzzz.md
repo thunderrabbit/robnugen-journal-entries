@@ -55,4 +55,4 @@ href="https://prep.math.tamu.edu/Graph99/wesleyr/journal/index.html">prep.math.t
 
 <p>I'll be back in a week!!
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">

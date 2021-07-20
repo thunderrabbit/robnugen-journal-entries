@@ -20,4 +20,4 @@ from Paint This!  She says that Spot is doing fine.  Yay!</p>
 one day in a long long time.  Including today if you want to not count
 Greater Tuna as a movie.  Quite funny though.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

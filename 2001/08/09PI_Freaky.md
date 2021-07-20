@@ -57,4 +57,4 @@ going to be a night stalker."</p>
 <p>She cracked up laughin', "no, what are you
 <em><b>really</b></em> doing?"</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

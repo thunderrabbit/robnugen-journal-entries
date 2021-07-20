@@ -35,5 +35,5 @@ date: 2000-05-26
 
 <p>Tonight, I'm driving to Fort Worth!!  I'm greatly looking forward to the weekend, but not necessarily to the drive alone.  It's for the annual YAC retreat...  I've always had someone ride with me the past 3 years, but not this year.  I'll take a snooze before leaving tonight.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

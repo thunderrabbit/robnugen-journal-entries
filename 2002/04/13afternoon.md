@@ -62,4 +62,4 @@ Spell. S-P-E-L-L spells spell!  D-A-D spells dad!!  R-H-O-N-G spells
 wrong! etc etc.  funny excellent song.  It was played twice and I
 picked up on parts of it the second time through.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>

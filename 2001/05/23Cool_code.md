@@ -22,4 +22,4 @@ code and then I will hopefully have time to learn
 AppDev Studio, which should supercede the by-hand
 programming style.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

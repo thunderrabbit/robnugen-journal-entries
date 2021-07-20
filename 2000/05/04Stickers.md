@@ -15,5 +15,5 @@ date: 2000-05-04
 
 <p>At the end, Wende pulled 16 stickers out of my feet.  6 were in that one toe.  Wow!
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

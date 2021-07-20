@@ -20,5 +20,5 @@ no matter what I say in anger, I still love her bajillions.
 <p>I love our relationship.  I love that we communicate so well.
 Great great great great great!!!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

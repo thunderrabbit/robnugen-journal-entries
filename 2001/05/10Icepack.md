@@ -31,5 +31,5 @@ to be working fine now, but this shit has got to be resolved!</p>
 
 <p>Calm and working fine.  Yes, everything is working fine.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

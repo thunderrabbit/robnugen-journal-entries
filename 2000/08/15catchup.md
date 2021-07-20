@@ -19,5 +19,5 @@ date: 2000-08-15
 <p>For this last one, I'll need to meditatively shift my mindset by
 contemplating what needs to be done and finding some fun in doing it.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

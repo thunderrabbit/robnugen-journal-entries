@@ -26,5 +26,5 @@ and Rodd an others are democrat.
 <p>We got our ceramic plate and bowl back that we painted 2 weeks ago.  They
 look great.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

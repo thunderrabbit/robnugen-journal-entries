@@ -22,4 +22,4 @@ opening the safe."</p>
 where each of four players threw both our balls at the same time, for
 a grand total of eight lovely arcs clicking and thumping.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

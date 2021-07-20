@@ -26,4 +26,4 @@ of her truck!"</p>
 Joe came and successfully opened the door from the outside, many
 people were there to carry all the stuff.  Excellent!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

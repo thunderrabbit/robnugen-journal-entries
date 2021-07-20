@@ -39,4 +39,4 @@ href="https://new.robnugen.com/journal/2001/04/23/aquarium-not/>23Aquarium_not!.
 <p>Now I am going home (where I have no internet
 access).</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

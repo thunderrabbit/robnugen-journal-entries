@@ -36,5 +36,5 @@ it in Spanish so I got it.  360760
 <p>I began typing a reminder note to myself in my new Handspring Visor
 (a PDA) and woke up.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

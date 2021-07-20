@@ -32,4 +32,4 @@ was ready to race.  She was all like, "I don't know if
 I can race because <em>someone</em> won't get off the
 kayak."</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

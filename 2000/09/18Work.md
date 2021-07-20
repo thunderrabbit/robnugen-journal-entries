@@ -16,5 +16,5 @@ application.
 
 <p>And now it's 5:52pm and I'm late for I-group.  Bye!
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

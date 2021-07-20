@@ -19,5 +19,5 @@ and finish it in record time.  Now it's supper time!!
 
 <p>Wende says, "it's super time..."
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

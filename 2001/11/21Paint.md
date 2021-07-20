@@ -19,5 +19,5 @@ on which to mix.  (what's that called?)</p>
 and blending and shading.  There's lots of cool stuff still to be
 done.  When I finish it, I'll put an image of it online.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

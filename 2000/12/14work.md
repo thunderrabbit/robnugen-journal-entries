@@ -23,4 +23,4 @@ the IP address that this machine is using.  Now its
 name is oddball instead of rabbit.  When I get my new
 machine, it will be called rabbit.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

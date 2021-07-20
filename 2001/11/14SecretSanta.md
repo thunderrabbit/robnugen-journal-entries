@@ -19,4 +19,4 @@ finished at least.</p>
 watch TechTV while munching pizza and ice cream.  Aww
 yeah.  My kinda party!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

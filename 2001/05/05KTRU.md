@@ -73,4 +73,4 @@ KTRU.</p>
 <p>(*) fake chicken = some veggie something that
 tastes like chicken like everything else.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

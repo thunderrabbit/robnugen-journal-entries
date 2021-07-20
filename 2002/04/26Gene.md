@@ -24,5 +24,5 @@ our way to New Year's Eve Party.</p>
 
 <p>I'm thankful for everything.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

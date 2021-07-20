@@ -84,6 +84,6 @@ honeymoon.
 
 <p>We talked about Australia or Costa Rica as possibilities.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 
 

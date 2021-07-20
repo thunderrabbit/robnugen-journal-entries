@@ -15,5 +15,5 @@ date: 2000-07-27
 
 <p>On the non technical front, Erika wrote me a story, which I will add to my site shortly, probably.  I may open up my "writings" section of the site and add a random stories section.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

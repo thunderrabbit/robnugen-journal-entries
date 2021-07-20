@@ -17,5 +17,5 @@ date: 2000-07-09
 
 <p>Now Wende and I are home about to sleep.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

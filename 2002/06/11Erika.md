@@ -15,5 +15,5 @@ it's intentional, but I'm not too surprised if it is because on a
 different occassion, Karla wisked Erika off to lunch so that I
 wouldn't be distracted.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

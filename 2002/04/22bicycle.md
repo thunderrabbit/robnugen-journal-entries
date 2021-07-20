@@ -28,5 +28,5 @@ to Newcastle.  That was strenuous.  Crossed under 59 on Newcastle and
 rode north along 59 feeder all the way to Shepherd.  Equally strenuous
 and more danger from traffic.  Didn't get squished though.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

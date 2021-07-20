@@ -21,4 +21,4 @@ exactly the correct balance of nutrients a body needs.
 have perfectly balanced nutrients flowing through the
 body.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

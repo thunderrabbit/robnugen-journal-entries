@@ -27,5 +27,5 @@ boss each an email praising their great efforts.
 small pile of papers that has been in the "Shred" pile for a while.  I
 really like our new shredder!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

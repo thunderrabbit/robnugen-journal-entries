@@ -28,4 +28,4 @@ to hide part of their identity or create two
 identities like in The Matrix, won't that be way way
 harder?</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

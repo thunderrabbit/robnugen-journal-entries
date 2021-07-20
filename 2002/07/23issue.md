@@ -28,5 +28,5 @@ purposefully outside; I wonder what the deal is.</p>
 it, partially on Lisa Owen's leg.  She shifted cause her leg fell
 asleep and I lay on my back with my computer on my chest.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

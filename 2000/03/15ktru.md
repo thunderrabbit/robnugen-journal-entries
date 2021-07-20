@@ -24,5 +24,5 @@ with five needles.  That was great fun!
 
 <p>Now I'm at work.  I'm way stable compared to Monday and Tuesday.  Nice.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

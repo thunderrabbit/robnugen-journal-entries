@@ -83,5 +83,5 @@ working.
 
 <p>(***) 5:48 am Wende's alarm went off in our bedroom.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

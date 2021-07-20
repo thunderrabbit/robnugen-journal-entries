@@ -37,5 +37,5 @@ me up later.
 <p>Just for the record, I felt so tired that I almost didn't come type
 this dream.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -27,4 +27,4 @@ given a link to somethingawful.com.  And, wouldn'tcha
 know, I was given the link by a mysterious person
 known as M Smith.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

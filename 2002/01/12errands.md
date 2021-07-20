@@ -29,7 +29,7 @@ and feedback.</p>
 
 <p>Excited that we had two different house showings today!  Wheee!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 
 <p>(*) looks like this name for my digital camera might stick.  Sure
 is shorter than writing "my digital camera."</p>

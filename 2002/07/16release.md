@@ -36,4 +36,4 @@ other 1/2 Thursday.</p>
 <p>If you want anything before it goes to Roy, call me on my cellie,
 or email <a href="mailto:rob@robnugen.com">rob@robnugen.com</a>.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

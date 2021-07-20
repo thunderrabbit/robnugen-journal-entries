@@ -97,5 +97,5 @@ href="/cgi-local/journal.cgi?dir=2000/10&file=30pastLife.html">Monday</a>!!
 
 <p>I just added the Monday entry.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

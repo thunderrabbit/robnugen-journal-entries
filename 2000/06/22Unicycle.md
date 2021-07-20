@@ -29,5 +29,5 @@ off).
 took a shower, and now I'm off to work.  Today is Kevin's birthday and
 I get to give him his new plate!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

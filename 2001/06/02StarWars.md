@@ -20,5 +20,5 @@ plastic, but so *detailed* all at once.  Wow. wow.</p>
 
 <p>Wow.</p>
 
-<p><img src='/images/rob/wL-ROB.gif' alt='with love - ROB'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif' alt='with love - ROB'/></p>
 

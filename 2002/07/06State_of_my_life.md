@@ -58,4 +58,4 @@ situations; discovering new qualities about myself.</p>
 
 <p>I can't quite put these into words yet.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

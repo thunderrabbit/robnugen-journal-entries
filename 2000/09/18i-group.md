@@ -42,5 +42,5 @@ this, but I haven't heard them giving away tickets.. we'll see.
 
 <p>He'll be on the air in a couple hours.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

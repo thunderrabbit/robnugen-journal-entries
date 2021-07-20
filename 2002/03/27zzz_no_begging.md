@@ -27,5 +27,5 @@ and such.</p>
 
 <p>He left, and I got to sleep around 1am ish.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

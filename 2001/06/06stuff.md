@@ -37,4 +37,4 @@ online accounting software I'm using is suddenly slow.
 tonight. Yeah on one hand I'm flaking, and on the
 other hand... I'm tired.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

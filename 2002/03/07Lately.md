@@ -59,5 +59,5 @@ Finished coding the code I was working on; just need to test it
 tomorrow.  And write documentation on how to run some reports.  And do
 a cost proposal for the singapore clients.  fun.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

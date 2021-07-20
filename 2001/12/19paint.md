@@ -31,5 +31,5 @@ phone?</em></p>
 this entry.  I'm not concerned that I lost it; certainly it's at
 home.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

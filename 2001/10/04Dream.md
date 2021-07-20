@@ -49,5 +49,5 @@ been towed.  The other copy of my car was parked off toward the side.</p>
 <p class=dream>Once I got the car started, I drove over to Kate's
 house, where the above dream begins.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

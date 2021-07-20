@@ -12,5 +12,5 @@ date: 2001-06-26
 history and intrigue around the great pyramid.  Pretty amazing stuff.
 Awe inspiring, magical, wow.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

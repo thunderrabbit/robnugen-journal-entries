@@ -29,4 +29,4 @@ seating theater that's further away.</p>
 <p>Apparently a lot of people had that idea.  I wonder
 if it will be opened as a dollar theater?</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

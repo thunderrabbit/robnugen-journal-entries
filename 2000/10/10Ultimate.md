@@ -25,5 +25,5 @@ it into my hands.
 <p>The intentional run-on sentence above shows how fast that play was.
 
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -33,5 +33,5 @@ contract network person to set it up.  Gah.</p>
 <p>That clearly wasn't it.  Now I have no access to Internet at
 all.  Grrr Microsoft.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

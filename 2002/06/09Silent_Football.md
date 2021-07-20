@@ -39,5 +39,5 @@ the funny faced giraffe on a poster in the room.</p>
 <p>Brother Of Brother Of Apalling Doctor Sebastian Mas Valentine was not
 renamed.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

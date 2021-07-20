@@ -50,6 +50,6 @@ more time in the next few days and then not again for a year or two.
 We'll see what happens.
 
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 
 

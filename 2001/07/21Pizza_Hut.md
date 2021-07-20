@@ -65,6 +65,6 @@ Zulu warrior princess
 align=left></a> Saw a few hot air balloons on the way back to camp.
 So exciting!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 
 

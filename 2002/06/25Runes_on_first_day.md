@@ -207,4 +207,4 @@ apartment, then I pay nothing extra.</p>
 bravery for choosing this option, saying I am "choosing to be
 homeless." Yep, that's what I'm choosing.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

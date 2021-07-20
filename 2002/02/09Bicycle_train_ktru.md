@@ -66,4 +66,4 @@ new concrete base looking thing outside the RMC.  I wonder what it will be for.
 <p>After KTRU is ultimate frisbee at UH for the first
 time in <em>months</em>!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

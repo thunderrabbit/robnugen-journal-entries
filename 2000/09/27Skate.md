@@ -63,5 +63,5 @@ Montrose.  Past a partially decayed squirrel, then past a mostly
 decayed squirrel on the next block.  Feeling absolutely great to have
 skated. Home now and it's 8:04am.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

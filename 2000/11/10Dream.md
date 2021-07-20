@@ -25,5 +25,5 @@ confidence that David had been asked to not bring sunglasses or any
 extra unnecessary stuff onto the plane (for safety and weight
 considerations).
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

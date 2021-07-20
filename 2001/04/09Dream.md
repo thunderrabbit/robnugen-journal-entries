@@ -28,5 +28,5 @@ sharply right and the kids who were hanging on, jumped off before it
 turned.  They had obviously done this before.  Now they were perfectly
 at their station.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

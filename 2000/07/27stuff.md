@@ -75,5 +75,5 @@ I'll mess with it tomorrow.
 hold with Northpoint); I shoulda called them earlier because I'm going
 to bed, and I might be sleepin' when they call back.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

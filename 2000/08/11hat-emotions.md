@@ -141,5 +141,5 @@ emotionally available for the youth.
 runes seemed to say Go For It, but the process my be disrupted or take
 longer than I expect.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

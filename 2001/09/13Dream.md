@@ -37,5 +37,5 @@ new times to take a truck.  I said, "because, I'm in a truck!" and
 laughed maniacally at my wonderful humor.  He said he knew I was going
 to say that.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

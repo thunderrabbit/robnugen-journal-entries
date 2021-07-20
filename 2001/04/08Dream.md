@@ -27,5 +27,5 @@ I wasn't sure where a hospital was because we were in Salt Lake
 City. We started to get him in my car to drive him to the hospital
 when I woke up.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

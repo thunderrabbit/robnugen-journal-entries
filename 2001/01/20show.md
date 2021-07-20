@@ -104,5 +104,5 @@ totally impressed with my youth!!</p>
 
 <p>My car is warm; we will probably be leaving soon I'm sure.</p>
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

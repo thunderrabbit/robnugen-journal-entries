@@ -64,5 +64,5 @@ us.</p></li>
 <p>The talkin' and chillin' with all my peeps was icing on the whole
 weekend.  Great great great great great!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

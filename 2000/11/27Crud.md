@@ -85,5 +85,5 @@ the whole thing and graduate myself away from full time at work.
 
 <p>But to do what?  what?  what?  I don't know.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

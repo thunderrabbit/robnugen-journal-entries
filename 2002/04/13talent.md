@@ -19,4 +19,4 @@ to explain to to her. heehee.</p>
 audience while Amber sang on stage.  Several people saw us, and nudged
 their friends to look.  :-)</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>

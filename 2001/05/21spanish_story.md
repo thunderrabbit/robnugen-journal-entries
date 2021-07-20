@@ -71,4 +71,4 @@ up with Evita."</p>
 <p>(*) Three counting Wende, but Wende doesn't count
 because she is my one and only real girlfriend.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

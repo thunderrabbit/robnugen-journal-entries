@@ -15,4 +15,4 @@ tape on it and say, 'yeah I made that.'"</p>
 
 <p><em>That</em> was funny.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

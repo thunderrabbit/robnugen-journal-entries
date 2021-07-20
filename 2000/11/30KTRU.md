@@ -94,4 +94,4 @@ shift.  Then this morning I decided I would apply.
 Now I see this.  I'll still apply, just in case I get
 to DJ more.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">

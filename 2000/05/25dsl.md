@@ -15,4 +15,4 @@ date: 2000-05-25
 
 <p>Yippeee!!!
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">

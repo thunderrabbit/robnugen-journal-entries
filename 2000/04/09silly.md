@@ -22,5 +22,5 @@ old versions of the site and are showing it.
 front page on her site, in two different directories.  I deleted the
 old version and created a symbolic link from it to the new one.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

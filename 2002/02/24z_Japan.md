@@ -33,5 +33,5 @@ that!</p>
 <p>How completely totally pimp!  I'm thrilled beyond recognition and
 look forward to making this happen.  Awww yeah.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

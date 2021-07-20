@@ -22,5 +22,5 @@ all apprently flushed and off when the power was cut.  Awesome.</p>
 
 <p>linux rules.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

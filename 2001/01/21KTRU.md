@@ -51,5 +51,5 @@ KTRU.  I'll miss her voice on the air.</p>
 
 <p>Now I'm going to stop by work to transfer this into my website.</p>
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

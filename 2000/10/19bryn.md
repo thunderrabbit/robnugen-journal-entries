@@ -73,5 +73,5 @@ so it doesn't need Roo's eatign everything.
 <br><b><font color=blue>Rob</font>:</b> Roos!!!
 <br><b><font color=blue>Rob</font>:</b> hahaha
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

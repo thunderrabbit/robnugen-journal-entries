@@ -33,5 +33,5 @@ and so much fun to play with!  She's my bestest friend in the world.
 
 <p>Okay, now I'll go get the vase.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

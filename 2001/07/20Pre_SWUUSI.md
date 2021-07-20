@@ -29,4 +29,4 @@ messages when I get back.</p>
 message on my email at work.  I'm gonna go back in
 tonight.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

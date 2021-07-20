@@ -83,5 +83,5 @@ trying to get back to dream consciousness.
 realized it was probably actually time to feed him.  Looked at the
 clock: 6:32.  Pete was right on schedule.  Smart cat.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

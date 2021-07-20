@@ -33,4 +33,4 @@ spoke replaced this weekend while I'm at Plano rally),
 then munch at The Melting Pot with Charyl et. al. from
 investment club.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

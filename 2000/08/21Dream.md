@@ -70,5 +70,5 @@ on the elevator, thereby bringing attention to ourselves.
 
 <p>And I woke up.  Whew!  Scary dream.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

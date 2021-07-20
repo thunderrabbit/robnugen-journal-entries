@@ -42,5 +42,5 @@ is.  Hang on.</p>
 <p>She's one of Wende's first cousins on Wende's dad's side of the
 family.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

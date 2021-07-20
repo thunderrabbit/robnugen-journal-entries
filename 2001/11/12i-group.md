@@ -16,4 +16,4 @@ do.</p>
 <p>I expect we will make great things happen for the
 group.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

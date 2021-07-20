@@ -16,5 +16,5 @@ callous, but it did bleed some.
 <p>Fortunately, Mark L just arrived as the game was ending so he presumably
 took my place.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

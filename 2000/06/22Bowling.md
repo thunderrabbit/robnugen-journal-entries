@@ -16,5 +16,5 @@ of going to play ultimate frisbee, which we often do on Wednesdays
 <p>Ice cream was amazing, and we both immediately fell asleep for like
 four hours until now.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

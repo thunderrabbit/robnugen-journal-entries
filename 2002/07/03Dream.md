@@ -38,4 +38,4 @@ wasn't much shade to be found.</p>
 amount of mucky water in the bottom.  I wasn't thirsty enough to drink
 any of it, but I wondered if I ever would be.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

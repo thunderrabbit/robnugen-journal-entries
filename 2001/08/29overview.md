@@ -64,4 +64,4 @@ do more research on those we've completed so far.</p>
 
 <p>Wende is at work until 10pm tonight.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

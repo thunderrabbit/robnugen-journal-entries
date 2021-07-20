@@ -168,4 +168,4 @@ pointiing.  hee hee so cute,  they.</p>
 <p>The worship was a guided meditation and everyone
 fell asleep. except a couple people.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

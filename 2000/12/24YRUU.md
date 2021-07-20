@@ -34,5 +34,5 @@ around the church for many minutes, and then out to the park.  By then
 it was 3pm, so I said Bye and confirmed that we'll be hanging out on
 New Year's Eve, and then overnight at Susie's house.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

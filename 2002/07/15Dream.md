@@ -20,4 +20,4 @@ forget that little detail.</p>
 <p class=dream>I hadn't made any plans for where to stay in Dallas,
 nor did I have any money to stay anywhere.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

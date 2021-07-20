@@ -13,5 +13,5 @@ date: 2000-07-24
 
 <p>I'm certainly enjoying getting paid to learn java!!
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

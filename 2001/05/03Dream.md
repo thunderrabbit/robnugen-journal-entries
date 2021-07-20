@@ -29,4 +29,4 @@ couldn't remember Remington's name, but I knew I
 should know it. Dude jokingly told me some wrong names
 but I knew they were not it.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

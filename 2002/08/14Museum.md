@@ -78,4 +78,4 @@ in the store.</p>
 said, "I don't want to go back.." so much weight behind those words.
 I wish her the best.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

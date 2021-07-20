@@ -51,5 +51,5 @@ less and less frequent, but I'll still miss it.</p>
 <p>This is the <a href="/images/software/website/last_journal.jpg">last journal
 entry</a> I'll send from my linux computer hooked up here at FSD.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -20,4 +20,4 @@ work!
 
 <p>They for sure do not work to visit entries in the previous or next month.  I have very little urge to do that, though.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">

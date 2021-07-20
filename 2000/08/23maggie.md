@@ -24,6 +24,6 @@ remembering it.
 hotel and Maggie came up to talk talk some more.  Talk ranged from
 computers to stocks to work to movies.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 
 

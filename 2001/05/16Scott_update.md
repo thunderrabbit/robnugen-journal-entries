@@ -36,4 +36,4 @@ appears.)</p>
 (including $100 to determine what was the problem with
 stalling in the first place.)</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

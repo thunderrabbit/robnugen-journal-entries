@@ -32,5 +32,5 @@ in his truck to ultimate, Maggie went with Wende to our house.  After
 ultimate, John dropped me off, picked up Maggie.  Great plan.  Thank
 you Maggie!!  You are brilliant.  :-)
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -33,4 +33,4 @@ planet or galaxy.</p>
 sleep out by the lake on the asphalt and watch stars
 and grains of sand.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

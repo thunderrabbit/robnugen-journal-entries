@@ -39,5 +39,5 @@ do.  I hope to knock it out in an hour or so.</p>
 least what datastep is causing the problem.  I tried a few ways to fix
 it, but just made a mess of my (test) dataset.  Going home to bed now.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

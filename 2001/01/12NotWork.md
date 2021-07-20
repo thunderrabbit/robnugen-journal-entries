@@ -25,4 +25,4 @@ making typing on it weird, as if I'm typing using a
 strobe light to see.  It seems to still work though. 
 Weird.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

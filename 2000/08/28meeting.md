@@ -14,5 +14,5 @@ the meeting.  Bluh
 
 <p>Now I'm back on focus on my project (except that I'm typing this entry)
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

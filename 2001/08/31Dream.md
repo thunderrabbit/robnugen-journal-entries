@@ -43,4 +43,4 @@ date: 2001-08-31
 
 <p class=dream>I was in the room so he offered me a drink.  I asked if it was alcholic, and he was all, Yes, so I said I didn't want any.  He poured it anyway, and I did not drink it, but I soon woke up for real this time.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

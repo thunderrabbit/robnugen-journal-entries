@@ -55,4 +55,4 @@ this late)</p>
 separate entry for it called <a
 href="https://new.robnugen.com/journal/2001/05/23/lunch/">23lunch.html</a>.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

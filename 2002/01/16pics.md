@@ -35,5 +35,5 @@ it to me, with the understanding that I'll buy it when I have the money.</p>
 <p><a href='/images/peeps/Dude/movin2.jpg'><img src='/images/peeps/Dude/thumbs/movin2.jpg' align=left></a>Dude helped me move them today,
 but we learned our lesson from when we <a href="/cgi-bin/journal.pl?type=all&date=2000/04/20#PPcouch">moved the couch:</a> get a bigger truck.
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

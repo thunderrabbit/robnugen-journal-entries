@@ -36,5 +36,5 @@ longer covers the entire manhole.
 
 <p>Now the sky looms with verigated clouds, but no rain right now.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

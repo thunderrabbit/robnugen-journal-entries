@@ -40,5 +40,5 @@ ya can't keep track of them?"  I didn't say that to his face.</p>
 <p>Now I have noticed myself have trouble remembering how to spell
 some words in English.  What an interesting lesson in life.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

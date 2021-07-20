@@ -39,4 +39,4 @@ Fred's apartment about to sleeep.</p>
 <p>Today is the day that Wende and I were going to be married.  How
 amazingly different a life I have chosen since then.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>

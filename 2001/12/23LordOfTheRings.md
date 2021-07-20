@@ -43,4 +43,4 @@ Sauruman's lair, I whispered to Fred, "That's the ghetto of Naboo."
 heheh.  Then, when they showed the Elven world Rivendell, I was all,
 "that's the penthouse of Naboo."</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

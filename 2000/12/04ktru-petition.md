@@ -13,4 +13,4 @@ the petition!!</a>
 <p>I just found out that the petition is not just for
 students.  I'm so silly!!
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">

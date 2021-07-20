@@ -57,5 +57,5 @@ so Jaine and Bridgette escorted us outside to watch us be all, "wow!
 Snow!!!!" and had a great snowball fight while they were all, "this is
 nothing!  what are you crazy Texans thinking?"  Fun fun stuff.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

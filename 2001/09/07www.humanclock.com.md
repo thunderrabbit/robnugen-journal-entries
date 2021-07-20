@@ -77,4 +77,4 @@ into it for a short bit.  Then I resurfaced.</p>
 <p>We just finished watching about an hour of TechTV.  Screensavers is
 a pretty funny show.  It's about how I would run a TV show.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

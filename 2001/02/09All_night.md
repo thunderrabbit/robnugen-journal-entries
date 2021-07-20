@@ -23,4 +23,4 @@ working.</p>
 <p>I just ate breakfast at the local diner.  Much much
 better now!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

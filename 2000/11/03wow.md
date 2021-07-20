@@ -17,4 +17,4 @@ Unfortunately, Wende was outside a couldn't get in
 because the electric garage door opener is not on a
 UPS.  Fortunately, she got in once the power resumed.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">

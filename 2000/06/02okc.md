@@ -21,5 +21,5 @@ date: 2000-06-02
 
 <p>We just hired a new guy named David.  He's been reading a lot of SAS stuff and will be programming in a desk beside mine.  Yay!
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

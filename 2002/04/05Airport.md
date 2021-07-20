@@ -45,5 +45,5 @@ arrived, I just wandered through the airport a bit until I found Debu.  Sat
 with her after briefly looking for Sean.  Then got a phone call.  It was
 Steve, with Sean and Lisa and Brenda.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

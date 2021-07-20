@@ -42,7 +42,7 @@ Rob Nugen
 
 <p>I'll let you know what response I get!
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 
 <p class=date>8:58pm PDT Tuesday 23 May 2006</p>
 

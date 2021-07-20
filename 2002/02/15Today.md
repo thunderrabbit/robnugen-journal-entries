@@ -29,5 +29,5 @@ Beakman said something like, "You're late!"</p>
 toilet paper he blew into the audience with a leaf blower.  I
 laminated it at Kinko's and will put it in KTRU somewhere.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -31,5 +31,5 @@ date: 2000-07-28
 
 <p>I think I'll sweep the floors now.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

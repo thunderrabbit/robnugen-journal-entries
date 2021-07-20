@@ -62,5 +62,5 @@ talkie to say HI to the guy while my youth went into the kitchen to
 grab something.  The reception was not as good in the kitchen, so he
 didn't want to take it in there.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

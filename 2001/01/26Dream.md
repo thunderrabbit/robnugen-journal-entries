@@ -40,7 +40,7 @@ paragraph of dream, but I'm not sure what...</p>
 to send it to my website, but I'm out of space on my hard drive.  I
 gotta clean some shit off, and add another drive.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 
 
 

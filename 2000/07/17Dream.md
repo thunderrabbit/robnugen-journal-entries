@@ -17,5 +17,5 @@ date: 2000-07-17
 
 <p>oh so relieved!
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

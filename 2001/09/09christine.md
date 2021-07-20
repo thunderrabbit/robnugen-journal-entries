@@ -25,5 +25,5 @@ super glad about that.</p>
 
 <p>We exchanged phone numbers and soon will reconnect more.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

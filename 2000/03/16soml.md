@@ -46,5 +46,5 @@ more like one hundred.  But it was great practice.  I was able to go about
 1 block at a time when I finally got balanced and rolling well.
 </ol>
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

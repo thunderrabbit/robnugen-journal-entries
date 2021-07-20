@@ -39,5 +39,5 @@ date: 2000-07-18
 
 <p>They happened to be right under a telephone pole and the guy had to swing the crane down low 270 degrees to get to the pile of stuff.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

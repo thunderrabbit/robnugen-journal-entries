@@ -27,5 +27,5 @@ the scene faded
 <p>I fell more deeply asleep and then woke up later.  I remembered the
 experience while in the shower.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -30,4 +30,4 @@ girls in it."  Hmf.</p>
 <p>I want to see The Fast and The Furious, and.. Pearl
 Harbor, and..  um  AI.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

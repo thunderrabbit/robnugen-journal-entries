@@ -30,4 +30,4 @@ there was none.  So, I got frozen vegetables and put
 them around the sharpener.  I'm not sure if they
 helped, but it sure is funny.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

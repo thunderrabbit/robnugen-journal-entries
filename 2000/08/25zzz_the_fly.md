@@ -32,5 +32,5 @@ Taco Bell at our house and let Jeniffer and Bob go to sleep.
 
 <p>Tomorrow as soon as we wake up we'll go drive to Corpus!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

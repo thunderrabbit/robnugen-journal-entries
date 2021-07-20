@@ -29,5 +29,5 @@ when it ends.  I'm also not sure if I'll sign up for an actual shift
 or just be available for substitute DJ slots.  Interesting to see my
 interest tapering off.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

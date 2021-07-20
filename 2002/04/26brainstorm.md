@@ -29,5 +29,5 @@ Texas.  Yup.  Kerrrvillle.  It's west of San Antonio.  Lots of hills
 and such.  Full moon tonight or tomorrow night.  Should be
 beautiful.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

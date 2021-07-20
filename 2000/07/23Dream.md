@@ -17,5 +17,5 @@ date: 2000-07-23
 
 <p class=dream>the bicylce owner didn't confront the guy, but got mad and I offered some ideas for how he could hang the bike inside..  He lived in Suzanne's old apartment, and when I went in, it was really huge inside, 2 story ceilings with large large rooms although still old inside.   he had put a large cloth divider between the living room and dining rooom for most of the width of the room, but there was one section open.  my idea was to use a system of pulleys to raise the bike all the way to the top..   to hang the bike and raise it all the way to the ceiling.  He said he had thought of that, but didn't want to sepend the time to do it.  I was all like, "fine that's your chocie.." but I asked, "how much is it worth to you to have this done?"  He said "my monday" I guessed referring to it was worth working during Monday to get it complete. I was all, "I look forward to seeing it!"
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

@@ -29,5 +29,5 @@ survey created in 3 days instead of the usual 2 weeks.
 remember what date someone wants to use.  It doesn't properly delete
 the cookies though.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -22,6 +22,6 @@ be able to get them all done this week.  They said the G3 was
 
 <p>Yay!!!!!!!!</p>
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 
 

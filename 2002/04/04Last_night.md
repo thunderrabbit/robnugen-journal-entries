@@ -41,4 +41,4 @@ Texas longhorn postcards (not the school, but the
 animal) to send to my new overseas friends, and to
 Gabriella, my work-related contact in Switzerland.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

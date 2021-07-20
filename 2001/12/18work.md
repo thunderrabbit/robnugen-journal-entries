@@ -35,5 +35,5 @@ office replies.  66% success rate.  Whatever.</p>
 project manager at the same time very effectively.  And I'm hungry.
 When is dinner?</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

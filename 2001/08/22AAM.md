@@ -43,4 +43,4 @@ jaw is sore in the morning, but otherwise I am unaware
 of this activity.  But my teeth have grooves to prove
 it, and Wende is a witness.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -13,5 +13,5 @@ date: 2000-06-26
 
 <p>I started at work at around 8 today (usually I'm here by 10).  The great thing is, I pretty much can leave right now!
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

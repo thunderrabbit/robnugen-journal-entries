@@ -21,5 +21,5 @@ too much of my time!"</p>
 anything, but I have this sense that it should have taken time if I
 had done enough.  Argh.  I don't know.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -28,5 +28,5 @@ get free trades if I refer the club to Waterhouse.  I will tell the
 group upfront about this added bonus; even without it, I think they're
 the best option we have!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

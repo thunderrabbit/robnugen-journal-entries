@@ -51,5 +51,5 @@ coming back from lunch.  Quick hug to her and "gotta go!!"
 <p>Said HI to Wende on the way home; she's at work until 10pm.  Bluh.
 I'm gonna go ride my (borrowed) unicycle now.  See ya!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -47,4 +47,4 @@ five attempts to pull off the switch places move.  We did it by
 linking elbows and with a bit of arm flailing to balance, but we did
 it.  Excellent.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

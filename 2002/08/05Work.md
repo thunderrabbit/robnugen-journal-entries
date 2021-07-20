@@ -19,4 +19,4 @@ of a 40 foot tall curtain.  Excellent!</p>
 and around the table to pin it and help her sew it.  We actually got
 about 1/2 the hem sewed; we'll do the other half tomorrow.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

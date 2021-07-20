@@ -28,4 +28,4 @@ she sleeps right now)  I chose not to speak to her and either wake her
 up, or interrupt her processing with Chris.  I may, however, inquire
 about it today.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

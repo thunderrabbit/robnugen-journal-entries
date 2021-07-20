@@ -96,5 +96,5 @@ to use it on me.</p>
 <p class=dream>I woke myself up out of abject fear to get out of this
 dream.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

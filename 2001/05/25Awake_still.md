@@ -20,4 +20,4 @@ script.</p>
 
 <p>We shall see.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

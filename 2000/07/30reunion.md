@@ -64,4 +64,4 @@ there.
 with Wende's parents and got lots of genealogical
 information.  I felt closer to the family after that.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">

@@ -29,4 +29,4 @@ href="https://www.thescreensavers.com">The
 Screensavers</a> on TechTV, his favorite show.  They
 are going to show something on IT, the Segueway.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

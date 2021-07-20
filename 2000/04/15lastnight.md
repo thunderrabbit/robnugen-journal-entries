@@ -24,5 +24,5 @@ of the day to help me and Wende both move; mostly starting in 2 hours.
 <p>I'm going to pack my computer now, unless I can think of a good
 excuse not to.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

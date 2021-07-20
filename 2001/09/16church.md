@@ -32,4 +32,4 @@ to not be stuck in traffic.</p>
 
 <p>No Futurama on FOX today, but I woulda watched.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

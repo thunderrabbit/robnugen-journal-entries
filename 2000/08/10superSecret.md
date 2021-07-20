@@ -233,5 +233,5 @@ and have full batteries!
 
 <p>So now it's about 2:43am; I'm going to shower and then sleep!
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

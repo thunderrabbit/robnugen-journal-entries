@@ -19,5 +19,5 @@ told her that I got her <em>something</em>, but wouldn't tell her what
 it was.  For the last couple of days, I had been talking to her more
 about it; I wanted her to open the gift more than she did!!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

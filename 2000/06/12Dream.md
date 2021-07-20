@@ -20,6 +20,6 @@ date: 2000-06-12
 
 <p class="dream">Though we were in the city, the bus ride was way long; we ended up riding around for like 45 minutes until we were out in the country somewhere at a magnet school.  I woke up before we got to school.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 
 

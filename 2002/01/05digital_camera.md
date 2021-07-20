@@ -24,4 +24,4 @@ support USB.  Maybe I can figure out how to get my
 linux machine to do it.  Maybe (ugh) I'll "upgrade" my
 work computer to Win 2000.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

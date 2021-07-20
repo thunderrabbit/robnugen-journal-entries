@@ -26,5 +26,5 @@ reached behind my back where the controls were on the bulldozer and
 was randomly flipping switches, just trying to make it turn off and I
 got it to stop and it was just too scary and I woke myself up.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

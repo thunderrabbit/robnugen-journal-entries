@@ -16,5 +16,5 @@ other projects I've seen at our work.  Really.</p>
 <p>It just started raining pretty thoroughly, which inspired me to
 make a note here.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

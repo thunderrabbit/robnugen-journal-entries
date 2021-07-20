@@ -48,5 +48,5 @@ tuesday works dandily
 
 <p>I'm at Marcel's now on his Mac, using emacs on Aqua, telnetted to my robnugen.com account.  Nice.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

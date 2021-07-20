@@ -88,4 +88,4 @@ inflating the balloon with her little machine.</p>
 <p>Bedtime now.  Relatively early for me, but hey.  I
 wanna play SF and have to drive home.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

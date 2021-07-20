@@ -31,5 +31,5 @@ out with Wende and me after eating ice cream here at our house.  We
 all talked for almost two hours.  So much fun.  They have just left
 and now it's bedtime.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

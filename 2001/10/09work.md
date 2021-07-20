@@ -18,4 +18,4 @@ satellites around mars, professional sports games, me
 all hoping the survey is flawless tomorrow, and a
 fucking war going on all at once.</p>
  
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

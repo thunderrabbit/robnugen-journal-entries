@@ -35,4 +35,4 @@ out to her work to retrieve it.</p>
 <p>Now we're home, about to go to bed, but I wanna
 write an entry about today first.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

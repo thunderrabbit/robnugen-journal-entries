@@ -14,5 +14,5 @@ Maggie's phone number.  I didn't think to have him call her cell phone
 number.  So he had to wake up more people before getting to Wende.  I
 wonder what is the problem at work?</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

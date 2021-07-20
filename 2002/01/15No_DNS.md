@@ -17,5 +17,5 @@ definitely ironic.</p>
 $95,000 check.  It's near the bottom of the list at <a
 href="https://www.bored.com">bored.com</a>.  Crazy.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -192,4 +192,4 @@ an adult.</p>
 <p>Go out there; be yourself.  Tell them you are not sure again; tell
 them the truth.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

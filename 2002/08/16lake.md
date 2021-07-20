@@ -14,4 +14,4 @@ and everything.  Fantastic conversation.</p>
 <p>Chilled on my beach chairs in the yard and I actually fell asleep a
 bit; the air was so perfectly perfect.  Super nice.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

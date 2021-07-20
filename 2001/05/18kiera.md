@@ -82,4 +82,4 @@ futon in their parent's room.</p>
 but skip the graduation and just drive straight
 home.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

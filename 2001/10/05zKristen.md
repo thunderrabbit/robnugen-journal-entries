@@ -28,5 +28,5 @@ hour.</p>
 artists and different modern styles of music composition, some about
 the Trade Center), until I was tired and she left.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

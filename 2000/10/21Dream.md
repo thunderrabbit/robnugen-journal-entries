@@ -62,5 +62,5 @@ wishes.  "You're still a good person."
 
 <p>and wende came in to say bye as she left for work.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -33,5 +33,5 @@ which ones she had worked on.  She told me that the welds are
 extremely hot, and the heat could even be felt the next <em>day</em>
 after welding had been done.  wow.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

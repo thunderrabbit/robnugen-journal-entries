@@ -55,5 +55,5 @@ when Abraham passes the test God goes "I will surely bless you and
 make your descendants as numerous as the stars in the sky... because
 you have obeyed me."  Gen 22:17-18.  God had already promised that!!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

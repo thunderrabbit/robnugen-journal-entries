@@ -81,4 +81,4 @@ the way home to see if I would come to work tonight to
 put this entry online.  The disc was heads, and this
 is the entry.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

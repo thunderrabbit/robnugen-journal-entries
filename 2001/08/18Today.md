@@ -37,5 +37,5 @@ drop by a barbecue party thing and then KTRU at 7pm.  Then ultimate at
 
 <p>Then tomorrow I gotta clean up the house before Wende gets back.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

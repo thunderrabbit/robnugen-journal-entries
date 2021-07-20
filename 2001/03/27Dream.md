@@ -101,5 +101,5 @@ all."</p>
 <p>Note to self:  if you're not sure if you're writing something down,
 you are dreaming!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

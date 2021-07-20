@@ -76,4 +76,4 @@ looks so different at different sepeeds.</p>
 had no where to move out of its way and it ran me
 over. and I woke up.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

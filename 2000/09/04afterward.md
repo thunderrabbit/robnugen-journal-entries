@@ -16,5 +16,5 @@ be reimbursed from the church youth groups I imagine.
 
 <p>I'm at work now, transferring my adventures from my Visor to my website.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

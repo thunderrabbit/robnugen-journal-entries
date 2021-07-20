@@ -31,4 +31,4 @@ were offered 'unitarian ice cream.'</p>
 <p>Hahahhaa!!!  I love when they have Unitarian jokes
 on The Simpsons!!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>

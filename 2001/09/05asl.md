@@ -19,5 +19,5 @@ packages.</p>
 Learning</a>.  1.5 hours for six weeks, each Wednesday starting 19
 September.  :-)  :-)</p>
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

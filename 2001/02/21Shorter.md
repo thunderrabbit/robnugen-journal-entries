@@ -79,4 +79,4 @@ plane.</p>
 12:55 hours and 7623 miles traveled.
 </pre>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

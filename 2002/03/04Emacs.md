@@ -13,5 +13,5 @@ few minutes of inactivity.  But if I'm running emacs on that server,
 the telnet connection will remain connected for hours and hours.
 Emacs rules.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

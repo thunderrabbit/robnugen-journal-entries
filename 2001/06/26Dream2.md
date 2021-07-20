@@ -31,5 +31,5 @@ a slightly rotten something fell from the ceiling.  Like a leather
 pouch or something.  I was startled and woke up before I could look
 inside the mysterious bag.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

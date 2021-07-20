@@ -188,5 +188,5 @@ of whom I knew as 4 and 5 year olds way back when.
 <p>Many peoples are sleeping, but many more are loudly congregating in the
 dining hall.  I think for worship and or talent show.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

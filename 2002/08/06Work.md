@@ -36,4 +36,4 @@ even when all wadded up.</p>
 
 <p>I'm super thankful for the work!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

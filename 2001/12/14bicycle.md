@@ -45,5 +45,5 @@ soon into my life.  I can just feel it.</p>
 <p>Tonight, Dude and I are meeting Maggie and Maggie Moo's ice cream
 place for ice cream!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

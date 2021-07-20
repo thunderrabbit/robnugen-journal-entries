@@ -57,5 +57,5 @@ guys said, "but it's still a great show!"</p>
 <p>I totally loved getting all the calls.  It's the theme that did it!
 Thank you Jessi for the idea!!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -21,5 +21,5 @@ built fifty-some different model airplanes.  He's invented more I'm
 sure, but I didn't stay very long.  He invited me over sometime; I may
 do that.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

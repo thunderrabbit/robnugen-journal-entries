@@ -51,4 +51,4 @@ Aussie's have something called rhyming slang:</p>
 <p>note: The letter R is mostly unspoken (like in
 Boston), so "horse" rhymes with "sauce."</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

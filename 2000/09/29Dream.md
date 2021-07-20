@@ -100,5 +100,5 @@ situations.
 <p>(#) This is the second dream recently with me back in college or
 grad school.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

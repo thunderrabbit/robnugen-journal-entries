@@ -23,5 +23,5 @@ there.</p>
 
 <p>We came home and talked and then went to sleep.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

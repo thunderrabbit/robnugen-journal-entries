@@ -46,5 +46,5 @@ interruptions.  We hugged and said goodbye.</em>
 wasn't she murdered?"  I wonder if someway somehow our spirits
 actually had a conversation that manifested itself to me as a dream?
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

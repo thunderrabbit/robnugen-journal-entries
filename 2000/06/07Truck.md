@@ -19,5 +19,5 @@ date: 2000-06-07
 
 <p>I drove by to see the truck again, and met a woman (his wife?) in the small escort truck.  She gave some more details of the trip.  The big yellow thing weighs about 120,000 lbs, and the trip from Grand Junction is 1300 miles.  (I think that's what she said (I had written down the number on my Handspring, but lost it with a Ctrl-C))
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

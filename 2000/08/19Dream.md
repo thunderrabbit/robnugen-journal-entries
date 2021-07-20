@@ -68,5 +68,5 @@ fell into the garbage can.
 
 <p class=date>4:15am
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

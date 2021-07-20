@@ -25,5 +25,5 @@ youth all in the trees, climbing, talking, hanging out. It seemed like
 I had some sort of X-ray vision because I could see everyone.  Very
 odd.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

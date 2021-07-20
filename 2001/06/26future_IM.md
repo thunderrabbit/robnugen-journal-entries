@@ -52,4 +52,4 @@ about a guy in a rental car.  The company that owned
 the car put in a GPS and charged him for speeding. 
 Nice.  I was basically right.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

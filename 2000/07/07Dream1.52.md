@@ -18,5 +18,5 @@ date: 2000-07-07
 <p class=dream>I noticed that he didn't flush, and I was walking away and told Nick, who was walking around with Annie that he hadn't flushed.  It was more Nick's house than my house so he was all, "Okay I'll take care of it."
 
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

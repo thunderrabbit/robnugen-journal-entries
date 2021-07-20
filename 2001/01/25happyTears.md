@@ -62,5 +62,5 @@ journey imaginable."</p>
 <p>I have heard all this before, except for the suggestion of writing
 down my Happy Tears moments.  I can do that.  I just did.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

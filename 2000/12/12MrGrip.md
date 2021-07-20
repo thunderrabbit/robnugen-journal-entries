@@ -39,5 +39,5 @@ clean of mr apple and then tossed into mr trashcan.</p>
 <p>Disposal works fine, and I now listen more carefully to the quiet
 voice in my mind.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

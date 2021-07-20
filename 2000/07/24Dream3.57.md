@@ -61,5 +61,5 @@ date: 2000-07-24
 
 <p>I'm not totally sure about all of them, but the "i'm not thunder" one meant thunder as in all powerful.  not as in Thunder Rabbbit.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

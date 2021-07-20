@@ -24,5 +24,5 @@ from the developers!  And... our garage door was left open.  Doh!!</p>
 is a ball game being broadcast from 5-8pm.  I'll call the 5-7pm DJ to
 see what is up.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -136,4 +136,4 @@ the fast version after he asked about my shirt.  Oh well.</p>
 Food Or Drink, which is explicitly prohibited by a sign on the door.
 I like the Jamba Juice smoothies more than Border's.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

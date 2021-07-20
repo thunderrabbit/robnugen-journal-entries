@@ -35,5 +35,5 @@ PT! meeting to 11am, not remembering staff meeting.  I felt anxious
 meeting, but that was my choice (to not make it) instead of not go to
 Paint This!.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

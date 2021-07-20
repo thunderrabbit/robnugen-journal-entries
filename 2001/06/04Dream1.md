@@ -103,5 +103,5 @@ very unfortunate to write this whole dream down while in my dream.</p>
 
 <p>It's 5:48am; I'm going back to sleep.</p>
 
-<p><img src='/images/rob/wL-ROB.gif' alt='with love - ROB'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif' alt='with love - ROB'/></p>
 

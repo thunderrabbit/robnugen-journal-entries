@@ -19,5 +19,5 @@ from each home they sell.</p>
 
 <p>I'm thankful that ours is not a Perry home.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

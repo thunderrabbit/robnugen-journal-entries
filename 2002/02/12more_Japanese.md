@@ -15,5 +15,5 @@ her name in Japanese.</p>
 
 <p>Now I'm going home.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

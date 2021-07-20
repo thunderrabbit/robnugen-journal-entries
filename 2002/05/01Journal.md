@@ -12,5 +12,5 @@ date: 2002-05-01
 href="/journal/1997">1997</a> and <a href="/journal/1998">1998</a>
 entries are available again after a few months of being inaccessible.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

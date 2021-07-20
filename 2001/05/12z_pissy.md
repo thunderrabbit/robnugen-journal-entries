@@ -44,4 +44,4 @@ I am so thankful that we can communicate so well.</p>
 dressy church; I have to wear shoes (Julie's Nike
 sandals) and a shirt with a collar.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

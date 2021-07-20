@@ -19,5 +19,5 @@ date: 2000-06-23
 
 <p>Now:  I think I maybe disconnected the cable from the COM port to the motherboard inside the case.  But Kasi's machine has hung while powering down.  Grrrr.  Microsoft sucks.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

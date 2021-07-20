@@ -23,5 +23,5 @@ I'm just writing to express lovely gratitude that my life is so
 much simpler than this dream!  I woke up feeling thankful to be in my
 waking reality!!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

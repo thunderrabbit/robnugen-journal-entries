@@ -16,5 +16,5 @@ under "Watching construction in my area" -> 59 | zoo_pond -> after</p>
 
 <p>I have labeled the new KTRU pics and the marble track pics.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

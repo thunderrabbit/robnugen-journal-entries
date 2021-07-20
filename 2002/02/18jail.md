@@ -17,5 +17,5 @@ is relatively easy and speedy and bouncy to throw.</p>
 
 <p>I'm thankful for this short break in our workday.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

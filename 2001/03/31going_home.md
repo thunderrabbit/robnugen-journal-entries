@@ -108,4 +108,4 @@ mythical creatures such as Leprechauns, Sasquatch,
 Easter Bunny, and Santa Claus.
 </pre>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

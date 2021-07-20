@@ -18,5 +18,5 @@ date: 2000-03-03
 detailed huge interactions of earth's processes.   We inhabit a truly living
 breathing planet!!!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

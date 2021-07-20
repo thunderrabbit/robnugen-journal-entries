@@ -50,4 +50,4 @@ freeway was moving briskly; the southbounds lanes of
 59 were stopped, packed all the way back to
 Westpark.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

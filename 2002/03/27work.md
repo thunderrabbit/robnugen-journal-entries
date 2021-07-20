@@ -38,5 +38,5 @@ version in SAS in about 5 minutes.  Oh yes.  That rules.  It worked
 perfectly, and we can use the GSU model to write this otherwise lame
 survey.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

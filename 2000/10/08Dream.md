@@ -30,5 +30,5 @@ space to play and fly around.
 Internet connectivity again.  New entries that therefore have just
 appeared begin with 03Dream in the index above.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

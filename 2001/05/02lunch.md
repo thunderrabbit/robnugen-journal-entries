@@ -45,4 +45,4 @@ emotional/physical health.  I hope I am completely
 misinterpreting what just happened.</p>
 
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

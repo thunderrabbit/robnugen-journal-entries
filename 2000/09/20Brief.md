@@ -33,5 +33,5 @@ above) and it was my dad asking how much is market value for animated
 he should subcontract that out and not try to learn while 'on the
 clock.'  Much happier for the client that way.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

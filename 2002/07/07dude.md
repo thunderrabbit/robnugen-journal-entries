@@ -27,4 +27,4 @@ be quite fly once it's in place.  Super thanks to Dude for creating
 the .jpg and pointing me to a site for concepts on how to do
 calendars.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

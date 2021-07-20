@@ -46,4 +46,4 @@ woldn't have found the broken spoke...</p>
 
 <p>Thankful for Eric and Gene in my life. :-)</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

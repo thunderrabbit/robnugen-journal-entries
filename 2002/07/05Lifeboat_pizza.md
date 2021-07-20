@@ -63,4 +63,4 @@ returning this pizza; naw just kidding..."</p>
 <p>On second thought it would have been funnier to say, "I've got a
 pizza delivery!"</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

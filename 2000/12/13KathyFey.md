@@ -41,5 +41,5 @@ off.  Maybe we'll go visit Kathy tomorrow then.</p>
 
 <p>I have just now called Wende and we will go to the open house tomorrow.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

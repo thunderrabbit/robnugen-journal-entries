@@ -112,5 +112,5 @@ connection" going on.
 <p>We've turned around fifty million times but I think we are on the right
 track.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

@@ -69,5 +69,5 @@ old</a> counter to use the system date for the Stop values.  Awesome.
 <p>Tammy was my first real girlfriend, who lived with me for some
 years, determined she was lesbian, and has moved to Virginia.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

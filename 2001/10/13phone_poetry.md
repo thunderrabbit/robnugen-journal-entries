@@ -90,4 +90,4 @@ are trying to talk to their repair center and see if
 they can get someone out here tonight.  She's going to
 call me back within about 30 minutes.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

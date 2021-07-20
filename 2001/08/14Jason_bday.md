@@ -24,4 +24,4 @@ are still there.</p>
 <p>Doh.  They left a long time ago; he said it was all
 good though.  Nice.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

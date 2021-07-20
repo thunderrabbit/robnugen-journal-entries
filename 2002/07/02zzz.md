@@ -21,4 +21,4 @@ may be.</p>
 
 <p>Thank you, emotions, for the blessings you bring me.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

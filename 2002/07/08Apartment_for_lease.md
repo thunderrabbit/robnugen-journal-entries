@@ -34,4 +34,4 @@ not having called back sooner.  I told him my availability had changed
 since no one called me back...  He'll keep my resume on file in case
 he gets a contract that can be finished before I leave.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

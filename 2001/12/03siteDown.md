@@ -17,5 +17,5 @@ get a reminder or what.</p>
 
 <p>I bought my domain for 10 years this time.  $15 per year is a bargain!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -103,4 +103,4 @@ error, only people in that player's universe can tattle to that
 universe's dictator.  This would be the perfect time for the other
 universe to go get a snack or pee.)</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>

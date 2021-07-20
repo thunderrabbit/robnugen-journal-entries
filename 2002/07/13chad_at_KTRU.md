@@ -55,4 +55,4 @@ crew from Wreckshop Records producing <em>Dirty Third II</em>.
 Swa'vet invited me to pull up a chair, which I'll do for a bit after I
 send email and such.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

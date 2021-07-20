@@ -25,4 +25,4 @@ Chinese and always returns "Lastname Firstname."</p>
 
 <p>Nice.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

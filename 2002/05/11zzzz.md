@@ -35,5 +35,5 @@ both from Sarah and Fred for opposite reasons.</p>
 <p>Sent an email to Calder, and one to Bronwyn.  Then shower and now
 bed.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

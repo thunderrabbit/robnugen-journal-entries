@@ -52,5 +52,5 @@ for the flowers.</p>
 <p>Once we got inside the complex, he got away again, but only briefly.  I hope Spot 
 enjoyed his great adventure!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

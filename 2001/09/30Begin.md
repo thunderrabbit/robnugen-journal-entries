@@ -27,4 +27,4 @@ amount of dollars that it can.</p>
 
 <p>I'm gonna get something to eat now.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -38,5 +38,5 @@ effectively to some people.</p>
 
 <p>Now it's back to work time.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

@@ -22,4 +22,4 @@ support from them.</p>
 <p>Been sleeping at Marta's; just woke up and ate some vegetable pot
 pie.  Going back to sleep.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

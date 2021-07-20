@@ -60,5 +60,5 @@ me.
 <p>I won't be there this Saturday; I may forget to mention it to the
 next DJ, but I'm going to ask the general manager if it's legal etc.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

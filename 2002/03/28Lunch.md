@@ -13,5 +13,5 @@ Amazingly different environment and work-load that she experiences at
 the senator's office than what I experience here.  It seems.</p>
 
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

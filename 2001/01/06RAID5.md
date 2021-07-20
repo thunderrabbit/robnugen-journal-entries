@@ -28,5 +28,5 @@ to make it across.</p>
 <p>As I walked back in, the RAID 5 format was 97 percent complete.  Aww
 yeah.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

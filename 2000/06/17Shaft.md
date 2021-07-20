@@ -17,7 +17,7 @@ to building jump through glass window), my other favorite movie.
 
 <p>Go check out Shaft.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 
 <p>ps: Oh! The coolest thing: With my new Handspring Visor, I took
 "notes" during the movie previews.  The movies that look good I put in

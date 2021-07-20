@@ -48,4 +48,4 @@ dining room to just to rest my head.  I curled up on the floor to
 sleep, and woke up.</em>
 
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>

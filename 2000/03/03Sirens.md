@@ -41,5 +41,5 @@ city.
 <p>Okay, I just stepped back outside and I can no longer hear sirens.
 The mysterious event must be under control.  It's 3:29am.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -30,4 +30,4 @@ different station."</p>
 
 <p>something else and I woke up.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

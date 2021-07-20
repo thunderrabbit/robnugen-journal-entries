@@ -39,4 +39,4 @@ over to Dude's where I am now.</p>
 
 <p>Dinner is on.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

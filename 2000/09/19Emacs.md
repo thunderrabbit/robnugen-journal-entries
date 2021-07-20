@@ -19,11 +19,11 @@ write all this, filling in the exact date and time:
 
 <p>&lt;p class=dream>
 
-<p>&lt;p>&lt;img src='/images/rob/wL-ROB.gif'>
+<p>&lt;p>&lt;img src='//b.robnugen.com/rob/wL-ROB.gif'>
 
 <p>It's the perfect template for a dream journal entry! If I want it
 to be just a normal entry, 5 quick C-k's will erase the lines
 referring to a dream entry.  So sweet and I just love it!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

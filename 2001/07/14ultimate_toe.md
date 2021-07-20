@@ -35,4 +35,4 @@ times.</p>
 energy to clean up my toe.  Should probably take a
 full blown shower.  Ugh.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

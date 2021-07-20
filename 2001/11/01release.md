@@ -34,5 +34,5 @@ where or how.  I'd like to begin work on it again, and the paper clock
 Wende gave me back in the day, and to finalize the marble clock that I
 rebuilt some years ago.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

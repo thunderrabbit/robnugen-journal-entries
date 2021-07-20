@@ -28,5 +28,5 @@ so cute!</p>
 
 <p>I showered and got all the dirt down the drain to keep the bed clean.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

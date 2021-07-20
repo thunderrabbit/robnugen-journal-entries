@@ -38,4 +38,4 @@ decided and we'll vote on it at the next meeting.</p>
 <p>Oh!  Cool stuff I did at work; I'm going to make a
 new entry for it.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

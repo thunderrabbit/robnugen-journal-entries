@@ -47,5 +47,5 @@ to move my site here...  I hopefully won't be moving it again any time soon.
 point to geocities and the images will still be there.  That will work.
 Cool.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

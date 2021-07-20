@@ -14,4 +14,4 @@ a silly nervous state as we arrived, but on the way
 out, the energy had been transformed into a magical,
 blessed, loving radiance.  So fabulous.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

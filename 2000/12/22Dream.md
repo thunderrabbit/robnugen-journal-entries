@@ -61,5 +61,5 @@ be torn down)</p>
 <p class=dream>In either case, the foundation was still there
 permanently.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

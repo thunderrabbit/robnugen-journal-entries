@@ -20,5 +20,5 @@ n page survey.
 
 <p>This weekend is a play play play play weekend.  :-)
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

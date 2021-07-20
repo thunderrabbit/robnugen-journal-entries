@@ -53,5 +53,5 @@ reality, it was taking the helicopters *longer* than we had estimated
 it would take them.  So we really had more time.  I woke up while we
 were waiting for the helicopter guys to storm in and check everyone.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -25,7 +25,7 @@ the difference.</p>
 <p>Oh, the site is <a
 href="https://www.cameronlane.com/">www.cameronlane.com</a></p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 
 
 

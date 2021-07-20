@@ -32,5 +32,5 @@ snapped 8 shots to start a 24-exposure roll; I hope to use the rest
 this weekend and get the pics up super soonly!!
 
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

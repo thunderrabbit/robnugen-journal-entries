@@ -26,4 +26,4 @@ her storage unit.  Traffic on 59 north was wacked out because a guy's
 truck caught on fire.  Big hook and ladder firetruck was there to put
 it out.  Wow.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

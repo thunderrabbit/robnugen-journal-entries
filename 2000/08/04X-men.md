@@ -37,5 +37,5 @@ date: 2000-08-04
 
 <p>Great movie.  Go see it.  I'm ranking it about 8.5 out of 10 on the overall scale.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

@@ -26,5 +26,5 @@ meatloaf stuff and potatoes and green beans for breakfast.
 
 <p>I turned in my two reviewed CDs to KTRU and now I'm home!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

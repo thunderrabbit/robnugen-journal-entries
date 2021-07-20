@@ -27,4 +27,4 @@ crush on her I think.</p>
 
 <p>I look forward to the dance tonight.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

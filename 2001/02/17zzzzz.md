@@ -27,4 +27,4 @@ much more interesting with more than 3 people.</p>
 
 <p>Bedtime now.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

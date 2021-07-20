@@ -39,5 +39,5 @@ You do not currently belong to a group.<br>
 <p>You have completed more work units than <b>88.407%</b> of our users.
 </td></tr></table>
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

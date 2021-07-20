@@ -36,4 +36,4 @@ photo album/scrap book she's making.</p>
 
 <p>Now I'm off to Amy's sister's wedding.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

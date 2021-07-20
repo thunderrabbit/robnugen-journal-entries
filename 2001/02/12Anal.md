@@ -18,5 +18,5 @@ stay awake if I intend to get on their schedule.  I won't stay up for
 too much longer tonight; I imagine I'll be able to sleep plenty long
 enough on the 14 hour flight.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

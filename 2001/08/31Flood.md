@@ -19,4 +19,4 @@ date: 2001-08-31
 
 <p>I'm going to pack now for Tulsa.  Less than 50 minutes before I have to be packed for Tulsa and ready for work!  Wende is taking me because my car is at the shop.  It should be ready today before we go.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"></p>

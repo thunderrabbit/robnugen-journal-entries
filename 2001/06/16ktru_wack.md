@@ -46,4 +46,4 @@ her(*)</li>
 for Erin knew how to fix the computer.  (Reboot the
 server (yes Windows sucks shit))</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

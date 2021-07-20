@@ -46,5 +46,5 @@ to acquire passports and visas and general safety stuff.</p>
 
 <p>So come check out these events!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

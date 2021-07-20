@@ -77,4 +77,4 @@ the overview of my planned adventure to those who inquired.</p>
 
 <p>Super thanks to all for the love and support!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

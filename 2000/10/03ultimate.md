@@ -75,5 +75,5 @@ night.  When Sean left, people yelled "LATE!"
 
 <p>(with the long A sound of course)
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

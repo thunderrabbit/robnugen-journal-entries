@@ -148,5 +148,5 @@ as I lay on the street.  Fun stuff.</p>
 <p>Bed now.   Matt and Beth are cleaning up the kitchen, which I greatly
 condone.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

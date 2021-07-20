@@ -57,7 +57,7 @@ about something.
 
 <p class=date>5:39am
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 
 
 

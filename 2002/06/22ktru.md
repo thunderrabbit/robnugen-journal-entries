@@ -37,4 +37,4 @@ budget caught up.</p>
 
 <p>At Dude's now; we are watching Black Hawk Down on his wide screen TV.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

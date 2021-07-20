@@ -32,5 +32,5 @@ the computer apart to show her."</p>
 <p>Lovely conversation; so great to see Laura.  But I'm still tired
 and I'm going back to sleep.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

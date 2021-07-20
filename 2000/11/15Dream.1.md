@@ -62,5 +62,5 @@ years ago, except for now in this dream.  I even had to take a few
 minutes to think of her name before I got up to write this entry.
 
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

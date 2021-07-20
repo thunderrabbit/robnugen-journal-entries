@@ -62,4 +62,4 @@ door...</p>
 near the top of the door and it opened right up. 
 Beautiful!!!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

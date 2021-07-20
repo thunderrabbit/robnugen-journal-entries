@@ -25,5 +25,5 @@ job!
 slowly turned the water from warm water all the way to cold water
 only.  Oh so nice to cool off!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

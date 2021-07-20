@@ -33,5 +33,5 @@ Wende got entomatadas, and I got spinach enchiladas.  I ate most of
 the cheese and beans last night and at the actual enchiladas for
 breakfast "today" (Friday).
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

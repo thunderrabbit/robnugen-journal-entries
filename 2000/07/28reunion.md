@@ -49,4 +49,4 @@ top.  Wende took a picture on someone's camera.  So
 funny!  Mostly funny because we are tired I'm sure. 
 Now it's potty time and then bed time.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">

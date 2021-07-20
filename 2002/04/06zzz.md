@@ -28,4 +28,4 @@ Erin underneath the back table.</p>
 <p>It would be a funny way to wake up people at the next rally: Get AJ
 and Noah to drag sleeping bags of people into a pile.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>

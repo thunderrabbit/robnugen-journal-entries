@@ -24,4 +24,4 @@ at the same time)
 ping it, but I haven't got the drivers for the NIC in my linux box.
 I'll work on that now.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>

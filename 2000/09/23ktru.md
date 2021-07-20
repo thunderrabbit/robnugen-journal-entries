@@ -18,5 +18,5 @@ a great time and feeling better about being at the controls and stuff.
 <p>(This entry is speedy because we're about to go eat with my dad for
 his birthday!)
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -43,5 +43,5 @@ src="/images/YRUU/peeps/thumbs/jeff.jpg"></a>Jeff is another advisor for the loc
 YRUU.  He has been to a few rallies and always wears that funny hat.
 He fits right in at the Rennaisance Festival!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

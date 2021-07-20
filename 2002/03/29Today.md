@@ -22,5 +22,5 @@ input fields of a survey that the excel file wishes to create.</p>
 groceries for the week ahead.  Then I'll probably hang out with
 Kristen later tonight.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

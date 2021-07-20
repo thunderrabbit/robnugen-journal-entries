@@ -16,5 +16,5 @@ Francisco, smashing into cars and cops and pedestrians and trees and
 grass..  so much fun to help relieve my grrr about the ticket today.
 Thanks, Dude!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -40,4 +40,4 @@ Youth Advisors) and sent those out.  Now I'm off to Plano Rally!</p>
 
 <p>Oh, I did work some today, as well.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

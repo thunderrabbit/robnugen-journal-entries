@@ -159,7 +159,7 @@ bit before we check in.  We have a 3 hour layover.</p>
 
 <p>(*) I forgot to mail it.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 
 ###comments
 

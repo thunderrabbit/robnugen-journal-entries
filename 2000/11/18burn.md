@@ -34,5 +34,5 @@ the water out, I was all, "man that's <em>cold!!</em>"
 medical advice.
 
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

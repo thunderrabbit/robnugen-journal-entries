@@ -24,4 +24,4 @@ that.</p>
 box after they upgraded our firewall while I was
 gone.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -41,4 +41,4 @@ from 11:50am to 11:52am?  If the pics is not me, click
 reload until it is me.  Some in our house, some on
 unicycle.  Four total - 2 on 11:52am.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

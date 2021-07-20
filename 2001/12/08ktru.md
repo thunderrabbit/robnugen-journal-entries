@@ -61,4 +61,4 @@ shift.</p>
 minutes of music playing time from 9:30 to 10.  Still
 fun stuff.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

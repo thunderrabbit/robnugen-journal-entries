@@ -33,5 +33,5 @@ sidewalk.  At the bottom of the hill was a slide type thing and I knew
 it was a dream, so we slid down the sidewalk and arrived safely with
 Fred still sitting on my shoulders.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

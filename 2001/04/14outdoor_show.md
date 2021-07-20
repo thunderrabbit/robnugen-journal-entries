@@ -121,4 +121,4 @@ family day would take my mind off of missing KTRU.</p>
 
 <p>It didn't. It sucked.  Click next to find out.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

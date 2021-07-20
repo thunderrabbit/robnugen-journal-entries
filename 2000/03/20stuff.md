@@ -20,5 +20,5 @@ Then watched Malcom in the Middle, but I'm not proud of that.  ;-)
 
 <p>Have a great and lovely day!!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

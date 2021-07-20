@@ -90,4 +90,4 @@ points, and loses the game.</p>
 <p>He had to perform Little Bunny Foo Foo while being
 held upside down at the talent show.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

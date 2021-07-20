@@ -40,5 +40,5 @@ stored in a single directory, so they would have to calculate what the
 previous(next) directory name should be and search for the last(first)
 entry in that directory.  Shouldn't be toooo difficult to write.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

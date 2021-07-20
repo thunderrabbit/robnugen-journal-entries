@@ -68,5 +68,5 @@ but they'll have to hire someone else to level them.
 
 <p>That's my short written version of my great weekend!!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

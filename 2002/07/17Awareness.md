@@ -72,4 +72,4 @@ to play any of that non-commercial crap today.  We'll have some
 Madonna, and Britney Spears, and The Doors.  Okay, so here's Madonna's
 "Like a Virgin." "  And he put on Aphex Twin instead.  Fun.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -15,5 +15,5 @@ treasurer.</p>
 
 <p>Just gotta figure out how to keep track of all the details.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

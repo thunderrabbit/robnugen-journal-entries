@@ -32,5 +32,5 @@ etc.  anyway, it was funny.  (It means "have a good day.")</p>
 
 <p>Tiene un buen noche.</p>
 
-<p><img src='/images/rob/wL-ROB.gif' alt='with love - ROB'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif' alt='with love - ROB'/></p>
 

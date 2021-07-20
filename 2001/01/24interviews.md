@@ -27,4 +27,4 @@ use it on my days old counter, which I still haven't
 officially published yet, but may sometime this
 year.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

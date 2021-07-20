@@ -47,5 +47,5 @@ wiggly noodles), chocolate pudding, strawberry topping, animal
 crackers, ice cream, pineapple topping, and little sprinkles.  Quite
 lovely!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

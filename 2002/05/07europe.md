@@ -20,5 +20,5 @@ I'm not entirely bummed about this, but just a little bit.  This gives
 me an opportunity to reflect back on the trip as opposed to just
 piling stuff onto my site.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

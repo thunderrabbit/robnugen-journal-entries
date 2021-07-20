@@ -34,4 +34,4 @@ from the outside, the way a "hacker" might.  I wonder
 if something got fucked up in that process, or if he
 even did it last night.  Hmmm.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

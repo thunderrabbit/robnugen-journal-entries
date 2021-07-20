@@ -26,5 +26,5 @@ Ritz project.  Couple of final changes and it's online.  Nice.
 
 <p>San Antonio Rally tonight!!!!  I'm late.  barely.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

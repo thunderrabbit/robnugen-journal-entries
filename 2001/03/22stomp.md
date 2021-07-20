@@ -53,5 +53,5 @@ them were excellent, but a few of them could have been performed by a
 small child without practicing.  Blue Man Group was 100% amazing the
 entire way through. That made all the difference for me.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -48,4 +48,4 @@ stuff pretty effectively.</p>
 <p>I'm going to ride home now and go to bed bed
 bed.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

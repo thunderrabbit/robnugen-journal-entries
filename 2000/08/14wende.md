@@ -13,5 +13,5 @@ receipts given.  Thank you Wende!
 
 <p>Not that she ever reads this, but hey.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

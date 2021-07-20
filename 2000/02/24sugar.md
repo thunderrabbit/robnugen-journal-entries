@@ -31,7 +31,7 @@ all, "hey take it easy with that sugar!"
 
 <p>Now we're at my house to hang out for the evening.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 
 <p>ps: a new e-friend of mine indicated that having some sort of
 biography ("just who is this Rob person?") might help new visitors to

@@ -14,5 +14,5 @@ me.  So I invited my fam in Austin.  They'll meet me there, presumably
 meet Jason, have great food and great fun.  Then Fred and I will chill
 at his house and tell funny stories and such.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -31,5 +31,5 @@ where I am."
 <p>Hugs to Laura and see ya hopefull sooner than later.  Bedtime for
 us now.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

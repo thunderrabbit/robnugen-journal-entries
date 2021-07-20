@@ -24,5 +24,5 @@ school Irene, to Nick, her Aussie boyfriend.
 
 <p>My mom's here!!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

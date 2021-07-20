@@ -33,4 +33,4 @@ manipulate shit in the thing.</p>
 make manipulation significantly easier.  I'm not sure
 how to write a generalized version though.  Hmmm.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

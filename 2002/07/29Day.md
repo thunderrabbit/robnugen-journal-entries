@@ -18,4 +18,4 @@ location.</p>
 <p>I missed my 10am phone call with Kim Sawyer; he called me at 10:30
 and we talked a bit about updating his website.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

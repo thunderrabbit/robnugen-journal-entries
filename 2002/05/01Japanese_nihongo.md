@@ -34,5 +34,5 @@ sentences after they are spoken.</p>
 <p>I'll wait for <img src="/images/peeps/Rie/li.jpg"><img src="/images/peeps/Rie/e.jpg"> to
 help me.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

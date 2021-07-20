@@ -22,5 +22,5 @@ account with him and his brokerage.
 Saturday.  We're going to go wakeboarding, which seems wussier than
 skiing, but I won't know until I try it.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

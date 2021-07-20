@@ -29,4 +29,4 @@ tomorrow.  I'll sleep tonight once it's done (and
 after Dude and I take more underwater pics for
 humanclock.com).</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

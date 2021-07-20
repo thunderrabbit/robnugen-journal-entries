@@ -34,5 +34,5 @@ engage anyone at the counter right now.
 
 <p>After the piles are re-shuffled, I'll write some snail mail letters.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

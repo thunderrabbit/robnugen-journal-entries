@@ -31,4 +31,4 @@ treating me to dinner here as a going away present.  :-) to Catherine
 for this.  Kristen was also invited (2 hours before now) so she may
 also come.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

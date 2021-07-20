@@ -251,7 +251,7 @@ clear plastic red clipboard there.  DOH!!!  I
 thankfully expect I will be able to get it at least by
 OKC rally next weekend.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 
 <p>PS:  I have just discovered that I can get a
 palmtop computer thing with a full sized keyboard. 

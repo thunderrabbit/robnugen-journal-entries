@@ -33,4 +33,4 @@ trains could go careening down a miniature hill.
 <p>The mystery typist never responded, so I got back in my truck and
 woke up.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>

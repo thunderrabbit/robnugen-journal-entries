@@ -26,5 +26,5 @@ allow surveys to define their own question type.  It's sweet.</p>
 
 <p>It's also bedtime.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

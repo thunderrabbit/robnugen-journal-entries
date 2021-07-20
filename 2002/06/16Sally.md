@@ -15,5 +15,5 @@ had to be towed back because the wind stopped.</p>
 it's the size project that she thinks would take 6 months.  She's in the
 stage now of, "where oh where do I begin???"</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

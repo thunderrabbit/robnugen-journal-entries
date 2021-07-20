@@ -53,5 +53,5 @@ somewhere.</p></li>
 
 <p>Rinsed my eye, washed my injuries when I got to I-group.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

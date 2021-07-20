@@ -22,5 +22,5 @@ instead of "BOSTON RED SOX" it says "ALL MY RED SOX" (since he (and
 Karla and Drew and Kasi and Erika) all enjoy watching All My Children
 during lunch each day)
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -42,5 +42,5 @@ gave him a big hug and he quietly gave me blessings about w2hat a good
 person I am and it was so great to meet me and stuff.  I disengaged
 the hug and woke up.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

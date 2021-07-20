@@ -23,5 +23,5 @@ pictures; everyone expressed how wonderful they found the worship.</p>
 
 <p>Great job, YRUU!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

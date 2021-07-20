@@ -20,5 +20,5 @@ price.  So she's typing up the offer for the full $229,900.
 
 <p>We should get an answer back from the lender this afternoon!
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

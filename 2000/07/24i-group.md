@@ -19,5 +19,5 @@ eaten dinner.  So I checked out of the group and came home to eat.
 
 <p>Read some Java In a Nutshell book, and now I'm going to bed.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

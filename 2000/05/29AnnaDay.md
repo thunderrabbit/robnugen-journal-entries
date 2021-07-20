@@ -34,5 +34,5 @@ reconnect with everyone!
 <p>I stayed a bit too late considering my tiredness level; I was a bit
 sleepy on the way home but I made it no sweat.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

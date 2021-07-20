@@ -51,5 +51,5 @@ we went and sat in a booth and I said, "okay, let's simply tell them
 we've been sitting there for at least 3 hours and traffic got bad in
 that time.  "Okay."  But the cop never walked up before I woke up.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

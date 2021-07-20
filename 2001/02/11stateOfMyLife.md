@@ -115,4 +115,4 @@ hours ahead of us.  So as I write this at 11:11pm
 Sunday here, it's 4:11pm Monday there.</p></li>
 </ol>
  
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

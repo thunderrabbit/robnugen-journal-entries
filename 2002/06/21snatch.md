@@ -28,6 +28,6 @@ think I heard that as well.  Hmmm.</p>
 
 <p>Bedtime now.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 
 

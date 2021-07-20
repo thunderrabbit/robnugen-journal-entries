@@ -28,5 +28,5 @@ before they are due on Sunday.</p>
 
 <p>Houston Planning Lock-in tonight!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

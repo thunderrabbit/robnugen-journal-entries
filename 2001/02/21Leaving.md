@@ -69,4 +69,4 @@ CST.  According to the video display, it's 4:57pm
 (Tuesday 20 February 2001) in Los Angeles, therefore
 it's 6:57pm in Houston.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

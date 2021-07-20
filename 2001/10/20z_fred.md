@@ -55,4 +55,4 @@ Nouveau films.  I don't blame him, I'm sure.</p>
 <p>He dropped me back off at KTRU and I rode my bike
 home without incident.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

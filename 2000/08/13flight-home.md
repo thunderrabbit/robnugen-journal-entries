@@ -333,5 +333,5 @@ middle seat, so I could see out both sides equally well.
 <p>Now it's open.  Whee!!  I get to see Wende!!!!!!
 
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

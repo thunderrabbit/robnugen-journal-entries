@@ -15,5 +15,5 @@ funny references to modern pop culture.  Definitely funny for adults.
 In fact, there were some things I was surprised to see in a G rated
 movie.  But maybe I'm just old fashioned.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

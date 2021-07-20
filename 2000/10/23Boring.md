@@ -121,5 +121,5 @@ my chari against the wall and quite quickly fell asleep.
 in our room.  I spent several phone calls trying to reach people I know in
 Austin, but no luck.  I may choose to just be.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

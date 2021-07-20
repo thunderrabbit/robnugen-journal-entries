@@ -53,5 +53,5 @@ Kevin and Karla.  I think I got a 15% raise.
 is falling quite heavily.  I'm not so sure anymore that it will be
 done in 1 hour.  I think I'll read some more bible.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

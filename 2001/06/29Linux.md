@@ -43,5 +43,5 @@ Marcel had changed, I found how to change the system version number
 and name when one is at the login prompt.  Now it says
 (thunderrabbit) instead of (Hurricane)</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

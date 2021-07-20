@@ -32,5 +32,5 @@ the movie is for an extended remix version of the original
 from the original movie.  It looked quite a bit scarier than <em>Bless
 The Child</em>.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

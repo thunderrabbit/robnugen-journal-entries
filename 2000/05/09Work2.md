@@ -55,5 +55,5 @@ everything is happy.
 <p>During the low level format, I got to talk to Hillary on AOL IM.
 That was great fun!  Now I'm going to bed.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

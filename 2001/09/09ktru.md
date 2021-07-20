@@ -20,5 +20,5 @@ be the celebration of my 11500th day!!</p>
 <p>Said HI to Abi, and suggested the possibility of playing Silent
 Football on one of the Thursday night games nights at their house.  :-)!!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

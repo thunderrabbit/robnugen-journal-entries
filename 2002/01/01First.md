@@ -107,5 +107,5 @@ head of the table.</p>
 <p>It's 5:22am now.  I'm going home to b-e-d bed.</p>
 
 <p>
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

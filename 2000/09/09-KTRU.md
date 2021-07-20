@@ -20,5 +20,5 @@ her.
 <p>Tomorrow there is a mandatory DJ meeting.  Maybe we'll meet then, but I
 won't seek her out; it's kinda fun that we haven't met.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

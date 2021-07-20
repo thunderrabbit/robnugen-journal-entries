@@ -26,5 +26,5 @@ the cold.  His name is Carmen (sp).</p>
 
 <p>At home, Wende and I ate a little snack and now I'm going to bed.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

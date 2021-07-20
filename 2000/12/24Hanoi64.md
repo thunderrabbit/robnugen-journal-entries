@@ -51,7 +51,7 @@ years.  Yup.</p>
 <p>emacs is still working to uncover the sixteenth ring.  I'm leaving
 now until tomorrow afternoon.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 
 
 

@@ -86,4 +86,4 @@ to do it.</p>
 NASA.'  Just now she was all, 'I hope you didn't do
 this just to get out of vacuuming your car.'</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

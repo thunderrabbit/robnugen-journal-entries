@@ -54,5 +54,5 @@ hampster running in his wheel.   Hahahhaa.</p>
 
 <p>About 3 youth are awake - John, Matt, Beth.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

@@ -46,4 +46,4 @@ for your survey.
 stuff, but the point is, that we may figure out a way for me to visit
 Singapore!</p>
 
-<p><img src='/images/rob/wL-ROB.gif' alt='with love - ROB'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif' alt='with love - ROB'/></p>

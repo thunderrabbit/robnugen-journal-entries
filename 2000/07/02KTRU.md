@@ -86,4 +86,4 @@ would be!  If so, [product name] should pay the fine.
 <p>The remainder of the shift was pretty bland
 compared to all that.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">

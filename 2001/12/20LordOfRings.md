@@ -13,5 +13,5 @@ nearly 3 hours long!!</p>
 
 <p>I'll let you know how I like it.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

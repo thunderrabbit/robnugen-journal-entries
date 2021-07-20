@@ -46,4 +46,4 @@ as typed by Ben and Lauren.</p>
 <p>Click the "previous" link a couple of times to get
 to it.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

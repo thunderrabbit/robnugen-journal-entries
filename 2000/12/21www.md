@@ -18,5 +18,5 @@ here when I left at 3:30 to see the movie with Wen.)</p>
 
 <p>My goal now is to work a bit more and then zip home.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

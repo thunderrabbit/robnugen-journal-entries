@@ -39,4 +39,4 @@ was correct.  We verified that.</p>
 <p>Bizarre, don't you think?  (Yes, so bizarre that I
 know what the hell I'm talking about!)</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

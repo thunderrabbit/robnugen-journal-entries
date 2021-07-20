@@ -46,4 +46,4 @@ to Handel's Messaih, and am  impressd with how much I
 recognize I've heard before.  Must be a petty popular
 tune. ;)</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

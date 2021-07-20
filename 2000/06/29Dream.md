@@ -30,5 +30,5 @@ dining room.  We love it."
 
 <p>Then I was awakened by one of the cats throwing up.  Doh.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

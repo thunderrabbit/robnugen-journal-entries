@@ -46,5 +46,5 @@ could help me find people with the following skills:
 
 <p>It's now 3:48am.  I'm going back to sleep.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

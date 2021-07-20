@@ -45,5 +45,5 @@ ticket since the 18 wheeler will likely know where all the cops are.</p>
 
 <p>Our pace-truck just got sidetracked by a weigh station.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

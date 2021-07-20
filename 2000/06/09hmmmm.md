@@ -43,5 +43,5 @@ date: 2000-06-09
 
 <p>I don't remember the rest.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

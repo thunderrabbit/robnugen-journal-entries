@@ -19,5 +19,5 @@ past me at chest level and catching it from behind.
 <p>A couple of good throws, but I don't remember specifics.  It's
 bedtime.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

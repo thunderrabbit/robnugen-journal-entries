@@ -23,4 +23,4 @@ for knowing how!</p>
 access the 'net yet.  I don't know why, but I'm too
 tired to mess with it now.  Good night.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

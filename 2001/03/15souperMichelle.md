@@ -31,4 +31,4 @@ version of our lives.</p>
 was in my dream a couple nights ago.  The dream where
 he found Mr Spot.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

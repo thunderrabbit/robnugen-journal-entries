@@ -23,5 +23,5 @@ about a guy named David who taught them a puzzle game like "Good Frog
 Bad Frog" or "Johnny Whoops" or "Celing Wall Floor."  I think the
 answer to this game was more along the lines of Good Frog Bad Frog.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

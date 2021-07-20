@@ -17,5 +17,5 @@ date: 2000-06-15
 
 <p>I had expected not to be this far along for another hour or so.  I think that's worth a good unicycle break.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

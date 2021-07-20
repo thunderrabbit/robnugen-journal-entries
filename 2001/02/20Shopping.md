@@ -31,4 +31,4 @@ dishes and a T-shirt for various family members.</p>
 <p>I'm a bit headcahey and ready to eat.  Fortunately,
 we are driving toward food now.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

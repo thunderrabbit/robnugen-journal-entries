@@ -19,5 +19,5 @@ date: 2000-07-15
 
 <p class=dream>8.10am  in a bar type place with my dad, and getting food out of a vending machine.  not like candy, but entrees from the menu. I put in a penny, and the penny was not accepted, but the money counter would register a dime had been put in.  So we loaded the machine with a lot of pennies, bought a single burrito, and then had a bunch of extra golden dollars that I could hand out to people.  there was a little girl watching all of them come out, and she 'stole' one (can you steal stolen money?) and I told her she could have it if she let me tell her about sacagawea and the coin and stuff.    then I woke up.  (is it stealing if I steal in my dream?)
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

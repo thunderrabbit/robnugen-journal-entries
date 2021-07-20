@@ -13,5 +13,5 @@ date: 2000-07-05
 
 <p>I'm waiting now for input on my latest restructuring of one of my pages.  It used to be all confusing to users, but I think I've got it cleaned up a lot so it will be simpler to figure out.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

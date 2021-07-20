@@ -34,5 +34,5 @@ just still drivable, but still driving after being spun into some
 guy's driveway, and drove forward and crashed into his fence, breaking
 the 2-by-10 at the bottom.  Wow.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -158,5 +158,5 @@ showered, including the whipped cream pies in my face and hair, including
 the dunking tank.  (but I did rinse off the whipped cream before being
 dunked)
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

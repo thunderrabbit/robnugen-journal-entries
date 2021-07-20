@@ -27,5 +27,5 @@ a jungle mix thing for me.  Super great!
 other.  We might have spoken on the phone but and I might be making that
 rumor up in my head.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

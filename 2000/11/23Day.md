@@ -27,4 +27,4 @@ make 1 box twice their size.  The glue was drying when
 we left, and we just need to get packing material
 (starch peanuts or popcorn or sawdust) to fill it up.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">

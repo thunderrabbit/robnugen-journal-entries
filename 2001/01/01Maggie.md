@@ -19,5 +19,5 @@ essentially at the same time.</p>
 <p>At Maggie's we watched The Holy Grail and I just had lovely tortelini.
 Thanks Maggie!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

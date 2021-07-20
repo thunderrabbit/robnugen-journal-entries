@@ -31,5 +31,5 @@ up glasses, and the real story describing the person with his or her
 flaws.  We looked through a few of the cards, but got bored and I woke up.
 </div>
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

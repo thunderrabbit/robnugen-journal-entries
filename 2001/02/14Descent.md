@@ -105,4 +105,4 @@ make that 24
 <p>I'm turning off now; I assume they will ask us to
 in a second.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

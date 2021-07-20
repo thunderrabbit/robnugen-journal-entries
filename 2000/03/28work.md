@@ -19,6 +19,6 @@ some big big long drawn out projects coming soon..
 
 <p>Send me good full-time DSL vibes!
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 
 

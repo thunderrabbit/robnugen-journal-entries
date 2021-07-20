@@ -21,5 +21,5 @@ now!</p>
 <p>After Hobbit Cafe, we visited Amy's Ice Cream, where I got Mexican
 Vanilla and White Chocolate ice creams mixed with peanut M&Ms.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

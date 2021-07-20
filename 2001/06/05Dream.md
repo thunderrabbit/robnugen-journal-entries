@@ -24,5 +24,5 @@ at the school.</p>
 people were having an outdoor party thing including a huge thirty
 gallon container of orange juice.</p>
 
-<p><img src='/images/rob/wL-ROB.gif' alt='with love - ROB'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif' alt='with love - ROB'/></p>
 

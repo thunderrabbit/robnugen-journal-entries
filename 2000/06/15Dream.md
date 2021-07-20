@@ -48,5 +48,5 @@ and totally cheering for them/him.
 
 <p="dream">And then I was back at work, and something else and I woke up.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

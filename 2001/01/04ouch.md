@@ -24,4 +24,4 @@ in pain and lay on the floor.</p>
 much better now, just sore and really sensitive to touch</p>
 
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

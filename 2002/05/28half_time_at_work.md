@@ -36,5 +36,5 @@ She might not be in Austin at that time (General Assembly), but if she
 is my brother's birthday, so I'll be able to chill with him in A-town
 as well.  Hooray!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

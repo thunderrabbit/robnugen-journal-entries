@@ -56,4 +56,4 @@ the student, but noisy people were all around me being noisy and the
 student was a 6 or so year old girl who was quite uncomforable with
 the whole situation.  I was glad to wake up.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -25,4 +25,4 @@ to them, but they commented on the uni.  As I got on to leave, I
 immediately fell worse than I have in recent memory, fortunately into
 the grass.  On the second try I was up and rode all the way back, including down the 10 inch hump.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

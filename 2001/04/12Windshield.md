@@ -27,4 +27,4 @@ any worse.  <a
 href="mailto:NOthunderrabbitSPAM@cheerful.com">NO
 thunderrabbit SPAM@cheerful.com</a></p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

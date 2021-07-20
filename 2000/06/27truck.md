@@ -37,5 +37,5 @@ horn and I kept running but yelled, "I HAVE THE RIGHT OF WAY!!"
 <p>Inside Kroger found Wende and we got some food and ice cream and
 came home.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

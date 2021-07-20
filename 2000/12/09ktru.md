@@ -41,4 +41,4 @@ correct term.  "Well written?"</p>
 <p>(*) This entry is, but the journal.cgi still does
 not yet produce correct HTML.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

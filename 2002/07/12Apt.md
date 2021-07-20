@@ -21,4 +21,4 @@ were hollering in the background since one of them was getting
 transferred to a different location and they were throwing a see ya
 later party.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

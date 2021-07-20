@@ -53,4 +53,4 @@ funny, so soft spoken, so flirty..  Life completely threw a curveball
 at me this evening.  Thank you, universe, for the lesson in dichotomy
 and don't judge a book by its cover!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

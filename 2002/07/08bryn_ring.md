@@ -32,4 +32,4 @@ she used to live.  She reminded me that by the rules of the complex, I
 can't live here anymore since I make less than 3.5 times my monthly
 rent.  Whoohoooo!!  I'll talk to them tomorrow.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

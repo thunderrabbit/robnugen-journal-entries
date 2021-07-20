@@ -242,4 +242,4 @@ won!!"  "Yes!!"</p>
 <p>It's 12:13pm; I'm going to eat and then go to
 YRUU.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

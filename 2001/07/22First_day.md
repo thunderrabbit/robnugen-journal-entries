@@ -28,4 +28,4 @@ to many rallies, except Tulsa and SWUUSI - otherwise
 it's too long of a drive.  They apparently hosted a
 rally in Springfield in 1994.  Nice.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -33,5 +33,5 @@ point).</p>
 Wende will be out of town for SWUUSI meeting, which makes me lean more
 toward going to Centex.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

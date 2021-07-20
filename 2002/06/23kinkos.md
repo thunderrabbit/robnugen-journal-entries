@@ -24,4 +24,4 @@ Dude's, stood out in the intersection during that time.  Now I've just
 finished going through all my unread emails, and now I'm going
 home.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

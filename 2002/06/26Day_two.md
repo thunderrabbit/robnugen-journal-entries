@@ -46,4 +46,4 @@ Take over my lease until Dec
 <p>I called my dad who said I can probably get $1000 for the futon, so
 I placed my ad in Houston Press without saying FREE Furniture.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

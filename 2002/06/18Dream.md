@@ -70,5 +70,5 @@ they really couldn't be given how I was laying. I slowly woke up to find
 that my hands and forearms were right next to one another.  Cool how the
 dream was so specific otherwise.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

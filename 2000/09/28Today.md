@@ -32,5 +32,5 @@ fix the error, test the new code and move it online.
 
 <p>(*) Wende just arrived with dinner from Taco Bell.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

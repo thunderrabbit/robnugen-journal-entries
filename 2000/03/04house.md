@@ -26,5 +26,5 @@ it with us.
 
 <p>Wow!  Awesome!  Dude is going to go look at it with me now.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

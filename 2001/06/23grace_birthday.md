@@ -17,5 +17,5 @@ and foam balls and noodles in the pool.  I swam and splashed around
 with Bill, talked with Wende and Darby, talked with Melissa, ate hot
 dog and cake and had to leave relatively early to go to KTRU.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

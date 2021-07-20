@@ -28,5 +28,5 @@ listen.
 <p>We stopped at Love's and Subway.  Hethre is diggin through the 3/$9.99
 CDs.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

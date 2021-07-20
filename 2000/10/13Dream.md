@@ -65,5 +65,5 @@ can find tickets at an online auction!
 
 <p>My throat is sore and I need to gargle some salt water.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -72,5 +72,5 @@ following.  I don't think so.  But hey.
 <p>I'll probably be back before another 10 years goes by.  That's about how
 long it's been since I had visited previously.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

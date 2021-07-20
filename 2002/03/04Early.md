@@ -19,5 +19,5 @@ high of like only 30 few degrees today.  Yuck.</p>
 <p>The weekend was great; I haven't written anything about it yet. One
 day, one day soon I will.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

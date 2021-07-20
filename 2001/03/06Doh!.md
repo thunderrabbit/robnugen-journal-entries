@@ -15,5 +15,5 @@ bandwidth connection.  It displays all 248 thumbnails, 6k each on a
 single page.  Because they are separate images, it takes at least that
 mean HTTP requests, so the shit is pretty slow.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

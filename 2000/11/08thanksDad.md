@@ -15,5 +15,5 @@ have not been able to get the TCP/IP stuff set up yet - I don't know
 what kind of card is in the machine and I'm too tired to mess with it
 now so I'm going to bed.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -11,5 +11,5 @@ date: 2000-06-23
 
 <p>Super great!  So now I'm going to either parse out my SAS code into different logical units, or put together Kevin's new machine.    Then it's off to the Wild Blue Yonder with Wende!!
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

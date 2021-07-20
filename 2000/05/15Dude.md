@@ -125,5 +125,5 @@ concoction.
 <p>My esophagus and I went home, where I showed Wende the M&M art and
 ate a packet of Pop Rocks for her listening pleasure.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

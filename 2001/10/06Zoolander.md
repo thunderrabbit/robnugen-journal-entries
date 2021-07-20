@@ -24,5 +24,5 @@ But by then they had scrolled away.</p>
 <p>I'm slightly ashamed that I didn't recognize Milla Jovovich, who
 played the bad Russian woman.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -51,4 +51,4 @@ so I'm passing it on to you:</p>
 <p>If you call him, tell him Rob, the barefoot guy
 sent you.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

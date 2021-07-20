@@ -18,5 +18,5 @@ the neighborhood would essentially have to sue the building owners,
 and they would blame the alarm company, and the court battle would
 rage far longer than 9 minutes.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

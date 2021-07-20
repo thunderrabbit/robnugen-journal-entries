@@ -26,4 +26,4 @@ said I hoped the listener was still listening..
 <p>Last thing:  I said, "playing your soft favorites,
 like Merzbow!" and played Merzbow, a noise band.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">

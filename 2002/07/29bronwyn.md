@@ -16,4 +16,4 @@ during that time.</p>
 <p>The tickets seem rather expensive, but I trust that all will work
 out for the highest good for all those involved.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

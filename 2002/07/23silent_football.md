@@ -118,5 +118,5 @@ Sorry, I haven't been taking notes for a while, I've been engrossed
 with iTunes and Muckafurgason. Currently, a bunch of people have
 bailed out. Bunch of wimps. =P
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

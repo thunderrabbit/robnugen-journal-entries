@@ -16,5 +16,5 @@ technology/velocity).</p>
 <p>I'm recording this to make note of the state of astronical technology (at
 least as reported by US media).</p>
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

@@ -27,5 +27,5 @@ show, and then 6 phone calls in the last 15 minutes.  True story.
 <p>Aww yeah.  I only fell once, and that was when I hit a big bump in the
 sidewalk.  I climbed back on and rode the rest of the way.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

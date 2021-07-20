@@ -77,4 +77,4 @@ the previous show.  And he still did 360s (and a
 <p>At around 6pm I headed home to shower and be a DJ
 at KTRU tonight!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

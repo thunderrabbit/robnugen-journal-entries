@@ -37,5 +37,5 @@ stuck by the wreck by a 15 minute time span.  (We drove by and it
 happened within 15 minutes later.)  Traffic was way way backed up for
 a few miles.  I'm thankful that Wende got to the airport on time.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

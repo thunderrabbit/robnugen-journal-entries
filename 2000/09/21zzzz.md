@@ -34,6 +34,6 @@ I imagine the coaches are going to try to sue the pants off of
 someone, saying that their gymnast would have won the gold if only the
 vault had been set correctly.  That is messed up.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 
 

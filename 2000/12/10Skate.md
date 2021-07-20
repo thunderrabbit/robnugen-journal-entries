@@ -61,5 +61,5 @@ of cars per minute passing on both sides.</p></li>
 <p>Cool.  Wende just called and is on her way home from work.  I'm
 going to unicycle over to Kroger to meet her to shop for supper.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

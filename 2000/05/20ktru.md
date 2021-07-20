@@ -70,5 +70,5 @@ at church at 11:00am tomorrow.  We're going to surprise her there!
 
 <p>- - -
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

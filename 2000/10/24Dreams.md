@@ -38,5 +38,5 @@ something, and I was flying away from them
 Wende called and Mosch called, saying he got my message for Karen.  I was
 basically too tired to say anything useful in those conversations.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

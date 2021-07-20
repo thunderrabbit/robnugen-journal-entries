@@ -20,5 +20,5 @@ bowls of soup are for our neighbor Jennifer because she is sick.</p>
 <p>I'm about to go back to work for the evening to get this project
 knocked out before we leave!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

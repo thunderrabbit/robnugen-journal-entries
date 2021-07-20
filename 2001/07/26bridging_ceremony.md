@@ -67,4 +67,4 @@ to the restroom, but was escorted back on.  I guess we
 are leaving soon.  I hope it isn't a potty emergency
 (a la Animaiacs)</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

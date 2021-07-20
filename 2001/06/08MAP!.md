@@ -34,4 +34,4 @@ minutes and they said it was ready.</p>
 
 <p>Wheee!!!  A free laminated map to OKC Rally!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

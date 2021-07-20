@@ -24,4 +24,4 @@ to go..  nevermind.
 
 <p>Okay; we're leaving for breakfast now.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">

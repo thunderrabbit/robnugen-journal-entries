@@ -188,5 +188,5 @@ pitcher of water on his back.</p>
 <p>He tried to reach his hand back to remove the pitcher, but he was
 rescued by a sympathetic audience member before disaster ensued.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

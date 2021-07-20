@@ -25,4 +25,4 @@ especially after cancelling with Wende for it.</p>
 
 <p>We'll find out next Saturday night.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

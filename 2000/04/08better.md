@@ -35,5 +35,5 @@ is an Aussie) soon.  Wende and I are considering visiting them there.
 
 <p>It's been lightning outside lately, and it's been getting closer.  See ya!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

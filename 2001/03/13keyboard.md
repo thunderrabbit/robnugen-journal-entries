@@ -26,4 +26,4 @@ wigglin' around its guts, it works quite nicely now.  Yay!!  It was quite a
 trick to get the keys back on.  I'm glad it's not my job to do so each
 day.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

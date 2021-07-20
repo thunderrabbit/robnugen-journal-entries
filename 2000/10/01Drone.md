@@ -19,5 +19,5 @@ during the race) and I've even skate up and down some of the stands
 bank account was overdrawn.  (I didn't realize this until I got to the
 ticket booth.)  I took that as a sign to not buy tickets.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

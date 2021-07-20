@@ -30,5 +30,5 @@ I was referring to <em>time how long it takes me to hit the water when
 I jump</em>.  I got right to the edge of the bridge to jump and woke
 up.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

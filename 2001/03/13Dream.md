@@ -214,5 +214,5 @@ that.  I love it."</p>
 
 <p>I woke up when Wende was wiggling around in bed.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

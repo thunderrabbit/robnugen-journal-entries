@@ -40,4 +40,4 @@ needed.</p>
 <p>So I'm not billing $250/hour yet.  I'll let you
 know!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

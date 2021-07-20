@@ -30,5 +30,5 @@ remember the name of the forearm bone.</p>
 
 <p>I found <a href="https://bio.winona.msus.edu/dapkus/211/Skeletal/Bonenames.htm">this page</a> via <a href="https://www.google.com">google</a>.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -31,5 +31,5 @@ perfectly placed, though.
 <p>I'm choosing to attend the first hour of investment club meeting
 and then the wedding.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

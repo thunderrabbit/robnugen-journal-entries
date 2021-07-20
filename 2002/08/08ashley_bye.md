@@ -46,4 +46,4 @@ it will take."</p>
 <p>"You're welcome."  It's the greatest pleasure in the world to be an
 advisor for YRUU.  "See you later."</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

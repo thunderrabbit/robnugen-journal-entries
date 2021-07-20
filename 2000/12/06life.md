@@ -26,5 +26,5 @@ things on which to focus.  Is that actually true or just my perception
 of the past?  If it's true, do I want that again?  If I do, how do I
 create that reality?  Hmmmm.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

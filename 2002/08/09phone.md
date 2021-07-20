@@ -37,4 +37,4 @@ but now I'm too tired.  Bedtime instead.</p>
 <p>Cool is that has a copy of The Matrix on DVD now.  Her friend
 bought a copy so she could borrow it from him.  Excellent!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

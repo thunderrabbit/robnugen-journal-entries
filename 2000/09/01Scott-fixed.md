@@ -22,5 +22,5 @@ deductable.  Anyway, it's all good now.
 
 <p>I'm hoping to leave work at 2pm.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

@@ -82,4 +82,4 @@ packaging.."</p>
 
 <p>Bedtime for me now.   Yay skits!!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

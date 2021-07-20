@@ -31,4 +31,4 @@ creep closer and turn into a smattering of rain on the
 window.  No huge storm though.  Maybe it will
 grow.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

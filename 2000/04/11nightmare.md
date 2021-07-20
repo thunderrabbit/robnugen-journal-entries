@@ -57,5 +57,5 @@ something like that).
 my code that caused the error, and cleaning up the results of the error. 
  The Blob has been defeated.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

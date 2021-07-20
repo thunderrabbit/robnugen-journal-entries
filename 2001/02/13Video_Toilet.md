@@ -111,4 +111,4 @@ Especially since the movie is <em>Meet The
 Parents</em>, which I did not really like in the
 theaters.  I'm going to go to sleep.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

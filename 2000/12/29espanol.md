@@ -15,5 +15,5 @@ Rica in 2002.  PLUS, this will be my Thing To Learn this year, or
 something like that.  Last year I learned how to ride a unicycle.
 This year I'll learn Spanish.  Awwww yeah.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

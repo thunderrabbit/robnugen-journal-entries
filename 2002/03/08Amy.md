@@ -29,5 +29,5 @@ clients.</p>
 <p>The wall outside has only 3 panels remaining past the texas
 silhouette panel.  Wende has my camera though.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

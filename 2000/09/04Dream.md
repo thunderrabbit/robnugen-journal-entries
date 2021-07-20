@@ -19,5 +19,5 @@ was like a frat house or a home away from home.
 
 <p>Not that I ever have been inside a frat house...
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

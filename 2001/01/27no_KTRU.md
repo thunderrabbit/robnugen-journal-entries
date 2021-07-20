@@ -40,4 +40,4 @@ write him a letter from down under.</p>
 <p>My headache is just so icky that I don't want to
 move or talk.  I'm going back to bed.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

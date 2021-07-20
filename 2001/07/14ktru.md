@@ -29,4 +29,4 @@ but I forgot the name of it.</p>
 
 <p>I'm going to go play ultimate!!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

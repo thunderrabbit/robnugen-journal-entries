@@ -52,5 +52,5 @@ cold water when he was super hot.  But he did it anyway. and was
 apparently fine.
 
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

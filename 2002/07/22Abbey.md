@@ -15,4 +15,4 @@ my back like a puppy  "oh you shaved!"</p>
 <p>I clasped with both my hands her hand during the look into another's
 eyes at worship.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

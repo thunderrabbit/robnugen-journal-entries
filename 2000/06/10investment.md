@@ -29,5 +29,5 @@ at 9:am when they open.
 
 <p>For good measure (who invented that cliche'?), I invited Will & Molly, and Maggie & John to our meeting today.  Will and Molly might attend.  Yay!!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

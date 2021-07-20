@@ -44,5 +44,5 @@ jump up the next curb.  I lifted the front wheel up, but the back
 wheel went <b><em>B O N K</em></b> against the curb.  It rides fine,
 but is slightly dented.  They might be able to undent it.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

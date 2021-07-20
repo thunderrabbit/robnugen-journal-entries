@@ -13,5 +13,5 @@ shouting about free government grants is for real.</p>
 
 <p>I paid $5.00 to find out.  I'll let ya know.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

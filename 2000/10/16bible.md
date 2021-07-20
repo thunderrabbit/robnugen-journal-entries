@@ -60,5 +60,5 @@ head over it.
 just had one level.  So for god to pull out the big arsenal and say
 "gonna make you sweat" etc was just a big jerk thing to do.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

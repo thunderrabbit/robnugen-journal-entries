@@ -62,5 +62,5 @@ scene shifted.
 <p class=dream>I was looking at a poster and below it was a large 5
 gallon bucket filled with candle wax drippings.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -84,5 +84,5 @@ love; you'll be with her a long time."  They are affianced.</p></li>
 been sad sad sad to have missed it.</p></li>
 </ol>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

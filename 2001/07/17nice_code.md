@@ -26,5 +26,5 @@ to help write it.</p>
 and present it at the next SUGI.  Wow!!  Wow!!  That's a huge
 endorsement on how awesome is G3.  Nice.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -93,4 +93,4 @@ arrived.  Wende and I will come back next week, and
 Donna and I will alternate shifts from there.  Sucks
 because neither of us was there last week.  doh!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -79,5 +79,5 @@ Oops, I did it again!
 his amazing tile mosaics and such.  Quite impressive work.  I'd like
 to see some in person sometime.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

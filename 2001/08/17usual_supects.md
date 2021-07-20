@@ -24,4 +24,4 @@ agreed that it was a terrible movie; Kristen still
 wanted to see it.  If she did, I hope she enjoyed
 it.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

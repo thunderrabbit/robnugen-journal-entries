@@ -166,5 +166,5 @@ of one penance points for making noise.
 
 <p>The game ends in a fit of giggles
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

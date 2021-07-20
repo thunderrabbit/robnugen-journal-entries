@@ -30,5 +30,5 @@ in a yagastical way.  I'm glad I could help them make that connection.</p>
 They were all, "we're too busy to reply, but you can send a resume' to our
 Ontario, Londo,or Sydney offices."  Okay.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

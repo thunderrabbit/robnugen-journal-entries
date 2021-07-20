@@ -22,4 +22,4 @@ tank is smaller than a US toilet tank, so even using
 both of them together uses less water than a US
 toilet.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

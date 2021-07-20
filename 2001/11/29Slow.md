@@ -28,5 +28,5 @@ see how it goes.</p>
 San An, but there wasn't a whole ton of stuff.  I intend to be faster
 with my Fort Worth entries.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

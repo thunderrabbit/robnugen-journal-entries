@@ -27,4 +27,4 @@ the middle of nowhere, certainly a more comfortable
 place for him by that point.  I think he hooked up
 with the girl in the truck after the movie ended.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

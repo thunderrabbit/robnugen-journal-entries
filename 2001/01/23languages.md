@@ -21,4 +21,4 @@ living it.  Should be pretty cool.</p>
 <p>I have decided to learn Japanese after(?) I learn
 Spanish.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

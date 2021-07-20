@@ -21,4 +21,4 @@ easily put an image here.</p>
 
 <p><a href="/images/software/website/template/home.gif"><img src="/images/software/website/template/home.gif"></a></p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

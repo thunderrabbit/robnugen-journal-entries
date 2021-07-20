@@ -72,4 +72,4 @@ treasure)</p>
 <p>I can feel myself drawn to her since she likes me, but I predict
 the relationship would end badly/prematurely if we start getting
 physical this soon.  I've known her only since April.</p>
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

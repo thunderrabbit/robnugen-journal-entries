@@ -102,4 +102,4 @@ this is neither the time nor the place.  Ok shameless
 plug over, happy surfing.
 <BR>~Ben</P>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

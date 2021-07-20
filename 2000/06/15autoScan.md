@@ -23,5 +23,5 @@ date: 2000-06-15
 
 <p>I told Kevin at work, and he's all, "yeah they had those over a month ago at my store."
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

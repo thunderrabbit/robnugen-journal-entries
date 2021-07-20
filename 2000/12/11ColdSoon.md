@@ -23,5 +23,5 @@ automated email writing system.  It's essentially the equivalent of
 anyday billing at my old job (hi molly!) but certainly our current
 setup is much simpler.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -52,5 +52,5 @@ easier to open.
 I ultimately woke up before any more interesting
 dream stuff happened.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

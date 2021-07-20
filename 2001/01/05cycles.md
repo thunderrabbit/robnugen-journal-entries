@@ -82,5 +82,5 @@ soon.</p></li>
 our house.  Maggie just called and said they would be 30 (or more)
 minutes late.  Wende says, "good," because she's not ready.  :-)
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -40,5 +40,5 @@ new DSL circuit at our new place; I will call our ISP soonly on that.
 significant for me: it's on the other side of the freeway, and 2 city
 blocks further away from our new house.  I'm sure I'll survive.  Maybe I'll get a bike soon and bike those extra two blocks.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

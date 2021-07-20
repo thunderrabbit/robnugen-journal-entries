@@ -25,5 +25,5 @@ friend!
 folks.  We can choose to sell the car, fix the car, not fix it.. whatever.
 I'd like to get Scott fixed; we can talk about it tonight.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

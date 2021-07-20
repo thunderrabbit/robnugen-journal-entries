@@ -36,4 +36,4 @@ resolutions will take an even grander scope.
 <p>I think I come back on Sunday night, and I have
 written <em>so much</em> in my Handspring Visor. 
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">

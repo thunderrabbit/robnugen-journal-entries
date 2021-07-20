@@ -147,5 +147,5 @@ all.  She's a size 6.5.
 <p>Show is finally over.    no long tall texan song.
 
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

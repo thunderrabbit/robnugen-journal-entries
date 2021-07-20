@@ -46,4 +46,4 @@ connecting with the younger generation, but I know at the bridging
 ceremony next year, there'll probably be more faces on the YA side
 that I recognize, than on the YRUU side.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

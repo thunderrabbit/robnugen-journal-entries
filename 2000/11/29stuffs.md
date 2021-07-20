@@ -29,5 +29,5 @@ situation, and it might make it less likely for me to be able to come
 back and DJ later.  The winter schedule runs from 9 December to 26
 January or so.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -28,5 +28,5 @@ technique for pulling specific data records from the datasets.
 <p>Wende and I just watched last night's Futurama and Simpsons.  I'm
 gonna work on the images.cgi file on my site here.  See ya!!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

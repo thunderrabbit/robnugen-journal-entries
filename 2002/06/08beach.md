@@ -59,5 +59,5 @@ And when it's off, they guessed I am 22 years old.</p>
 
 <p>Food now.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

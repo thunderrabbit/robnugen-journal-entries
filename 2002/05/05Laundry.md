@@ -33,4 +33,4 @@ stay awake and somehow made it.</p>
 
 <p>Hey, it's Cinco de Mayo.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

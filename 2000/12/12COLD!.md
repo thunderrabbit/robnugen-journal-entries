@@ -12,5 +12,5 @@ date: 2000-12-12
 not much above that, and too cold for my own good.  That's all there
 is to say.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

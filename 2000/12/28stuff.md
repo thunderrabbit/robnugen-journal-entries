@@ -43,5 +43,5 @@ today will mark the big change.</p>
 
 <p>Soon the gang is coming over so we can all go eat!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

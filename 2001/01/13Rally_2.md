@@ -77,5 +77,5 @@ I'm super thrilled that the youth are helping with this awareness.</p>
 <p class=grafitti>We sat around at a touch group meeting and
 burped.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

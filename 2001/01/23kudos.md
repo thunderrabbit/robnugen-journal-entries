@@ -22,4 +22,4 @@ months ago.</p>
 will be displayed in 19 different languages. 
 Awesome.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -34,5 +34,5 @@ about 6 feet tall, but more than I've ridden down otherwise.  After I
 did it she admitted that it was taller than any steps she's ridden
 down.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

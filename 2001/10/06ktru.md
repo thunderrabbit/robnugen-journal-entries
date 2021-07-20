@@ -65,5 +65,5 @@ could negotiate the wacky sidewalks at high speed in the (relative)
 dark.  Pretty speedy.  I did one really cool manuever, but I don't
 remember it now.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -20,5 +20,5 @@ date: 2000-03-01
 
 <p>Home and now I'm gonna send out The Feel Good Net!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

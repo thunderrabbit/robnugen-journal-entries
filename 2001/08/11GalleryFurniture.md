@@ -58,4 +58,4 @@ can say I've been to Gallery Furniture.</p>
 ottoman.  Thanks to Eric and Meredith for helping us
 carry them upstairs!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

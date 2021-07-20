@@ -53,5 +53,5 @@ counselor guy.  So that day may kinda be screwed for getting a lot
 done during the day.  I imagine I'll be in late at night on Thursday
 as well.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

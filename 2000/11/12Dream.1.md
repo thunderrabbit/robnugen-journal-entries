@@ -65,5 +65,5 @@ from OKC was there and Austin R.
 <p>I woke myself up so I could write down these amazing (haha) song
 lyrics that I made up with Everlast.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

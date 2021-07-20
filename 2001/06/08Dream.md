@@ -27,5 +27,5 @@ it.</p>
 
 <p>I was relieved to learn it was a dream!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

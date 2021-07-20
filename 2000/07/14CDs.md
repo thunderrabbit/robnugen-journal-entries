@@ -18,5 +18,5 @@ many genres.
 name, then artists, then various artists compilations, sorted by name
 of album.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

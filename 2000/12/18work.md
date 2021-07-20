@@ -39,5 +39,5 @@ Netscape 4.72 back on my machine.</p>
 <p>I-group was great tonight.  It's amazing the magic that happens in
 that group every week.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -23,5 +23,5 @@ videos, including <em>The Making of Batman</em>
 remember from the movie.  This did not trigger me to think I must be
 dreaming.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

@@ -57,4 +57,4 @@ probably request some fashion tips from one of my girl friends.</p>
 (all from YRUU) but ended up awake too late - got home and showered and
 in bed at 4:58am.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -21,5 +21,5 @@ translation thing for the same project I worked on yesterday.  We totally
 redesigned how the translations were done yesterday.  Once we got that
 figured out, it's been relatively speedy updating.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

@@ -28,4 +28,4 @@ is slated to be part of our web-server farm, and we
 don't have a machine allocated just for this email
 stripping service. Gack.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

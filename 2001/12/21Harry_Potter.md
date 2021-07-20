@@ -22,4 +22,4 @@ over and over was pretty funny.</p>
 Reznor's face.  I haven't seen images of Reznor in a
 while though.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -240,7 +240,7 @@ I got a brochure; let me see if they have a URL.</p>
 but I don't see any images of tanks, much less a picture of
 Mathilda.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 
 ###comments
 

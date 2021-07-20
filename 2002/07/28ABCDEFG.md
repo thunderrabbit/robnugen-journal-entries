@@ -25,4 +25,4 @@ nothing.</p>
 <p>Later I'm going out to get a hub so we can connect multiple
 computers to their DSL line.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

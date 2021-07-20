@@ -13,5 +13,5 @@ date: 2000-07-28
 
 <p>I'm going to work now.   Yay Java!
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

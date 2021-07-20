@@ -48,4 +48,4 @@ Los Angeles.  I think I have her address with me.</p>
 <p>We arrived and pretty much went straight to
 sleep.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

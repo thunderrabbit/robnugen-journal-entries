@@ -16,4 +16,4 @@ snuggly fashion than to be at work.</p>
 
 <p>I'm leaving for I-group now.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

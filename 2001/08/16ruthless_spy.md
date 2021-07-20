@@ -59,5 +59,5 @@ and laughed.  Katherine (without Allison (sp)) joined us there, and I
 got to really compliment her on awesome performance tonight.  I do
 look forward to bringing Wende to see it.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -60,5 +60,5 @@ some crazy twist manuever in the swings.</p>
 
 <p>Then home.  Actually to work to write these recent entries.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

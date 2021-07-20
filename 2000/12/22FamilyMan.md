@@ -31,5 +31,5 @@ scenes with his kids.  Lots of laughs, no blood, so much fun.</p>
 <p>I left the theater feeling <em>so much</em> love for Wende and
 <em>so</em> incredibly thankful for our life.  Absolutely amazing.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

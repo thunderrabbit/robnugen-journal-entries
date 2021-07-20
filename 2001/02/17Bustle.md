@@ -27,4 +27,4 @@ href="https://www.melb.catholic.aust.com/">www.melb.catholic.aust.com</a></p>
 href="https://rogerbrown.tripod.com/Melbourne.html">rogerbrown.tripod.com/Melbourne.html</a></p>
 
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -37,5 +37,5 @@ date: 2000-04-18
 
 <p>May 5th is several days away.  I've been assured that I won't be billed for this period of no phone.  But can I charge them?  Will they give me credit if I gripe enough?  Is it worth the negative energy to get some dollars?
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

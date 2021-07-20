@@ -17,4 +17,4 @@ contests are hilarious.</p>
 he's gone back home.  We'll likely have another Rob and Dad day around
 his birthday in September.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

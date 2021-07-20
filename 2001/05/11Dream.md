@@ -36,4 +36,4 @@ isn't a dream; these are great coins!!  Wow!</p>
 
 <p>It was a dream.  Doh!!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

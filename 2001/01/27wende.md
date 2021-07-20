@@ -32,4 +32,4 @@ creating a Ben and Sarah Show reunion for a while.
 That was fun, and it was made possible by me being
 sick.  Sarah is the cutest DJ at KTRU.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -40,5 +40,5 @@ getting chlorine tablets now)</p>
 <p>I offered to let Amy listen to my most recently recorded KTRU
 tape.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

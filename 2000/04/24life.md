@@ -25,6 +25,6 @@ date: 2000-04-24
 
 <p><em>huh-huh.  you said 'stud'</em>
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 
 

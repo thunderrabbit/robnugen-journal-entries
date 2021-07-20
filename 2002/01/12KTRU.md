@@ -35,5 +35,5 @@ if I'll be able to tell a big difference in my styles.</p>
 I started DJing at KTRU.  Spring of 1999.  I had pretty much lost
 track of that.  So I've been a DJ now for 3 years.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

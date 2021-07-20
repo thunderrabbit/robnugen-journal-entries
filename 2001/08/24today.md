@@ -59,4 +59,4 @@ be featured on the site!</p>
 
 <p>5) I'm going to the YRUU bridging ceremony now.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

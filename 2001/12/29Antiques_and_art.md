@@ -58,4 +58,4 @@ Olivia Newton John "Totally Hot" and Bee Gees "Stayin'
 Alive," each of which I will incorporate into art in
 some way.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

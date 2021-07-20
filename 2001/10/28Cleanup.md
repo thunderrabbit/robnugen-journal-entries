@@ -18,5 +18,5 @@ ON THE FLOOR!!  OKAY, GO GO GO GO GO!!'</p>
 
 <p>Go, Debbie!  Good job.  :-)</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

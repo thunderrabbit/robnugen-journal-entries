@@ -26,5 +26,5 @@ has changed, but I'm going home to sleep and wake up early and work.
 href="https://www.savektru.org/petition.html">sign the petition</a>
 tonight before midnight!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

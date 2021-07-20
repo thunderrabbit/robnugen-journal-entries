@@ -41,5 +41,5 @@ because you guys screwed up and put the wrong firmware on the site.</p>
 
 <p>Once it was determined we could do no more, I left and called Jason.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

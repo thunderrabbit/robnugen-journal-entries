@@ -19,4 +19,4 @@ to some random other point in the universe.</p>
 
 <p>This was much more profound when I dreamt it.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

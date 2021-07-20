@@ -98,5 +98,5 @@ to be there.
 and they left, then hugs to Wende and Rob and we left.  Such a great
 and wonderful evening!!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -55,5 +55,5 @@ know that Americans are too tied to their lifestyle to turn off lights
 and ride bikes to work, but I quite suggest we should reduce our need
 on oil.  Not just to end a war, but to help the environment too.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -17,5 +17,5 @@ be take by coup, for a quick succession of 8 different dictatorships.
 <em>good</em> dictatorship; the one everybody would enjoy and it would
 reign for the remainder of eternity.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

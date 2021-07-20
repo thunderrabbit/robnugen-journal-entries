@@ -12,4 +12,4 @@ mostly listening to their discussions, somewhat talking to Logan, son
 of Stephan (who encouraged me to get a camera), since Logan was bored
 senseless.  They had been here since 5pm.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

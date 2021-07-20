@@ -89,7 +89,7 @@ pore over the CD covers, which I definitely enjoy doing at times, but
 that's mostly when I first get the CD and I'm really immersing myself
 in the art of the album as a whole.</p></li>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 
 
 

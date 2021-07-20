@@ -138,4 +138,4 @@ well, though the rest was all well.  And when the web
 server died at 3:15am, for reasons I haven't heard
 yet, I did not get paged.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

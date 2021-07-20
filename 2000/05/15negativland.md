@@ -23,5 +23,5 @@ date: 2000-05-15
 
 <p>See ya!
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

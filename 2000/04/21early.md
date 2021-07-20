@@ -19,5 +19,5 @@ date: 2000-04-21
 
 <p>Last night I wrote 2 journal entries which are patiently waiting in my linux box for a dial tone.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

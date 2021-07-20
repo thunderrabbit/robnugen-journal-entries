@@ -32,4 +32,4 @@ Char!</p>
 
 <p>Got to sleep around 11pm.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

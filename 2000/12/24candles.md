@@ -30,5 +30,5 @@ gift.  I got a page-a-day calendar with "365 tips to feel healthy &
 alive."  Jon asked about KTRU and I described the overall situation
 and then we pretty much went to bed.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

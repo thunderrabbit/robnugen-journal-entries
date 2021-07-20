@@ -18,5 +18,5 @@ date: 2000-07-17
 
 <p>One of the men in our group checked-out permanently.  He'll be missed.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

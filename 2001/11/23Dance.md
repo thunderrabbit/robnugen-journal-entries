@@ -25,5 +25,5 @@ can get paid $35 for the basketball game I did on Saturday.  Oh, that
 reminds me, I'll be at KTRU tomorrow night as well, playing actual
 music this time.  By "actual music" I mean "KTRU music."</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

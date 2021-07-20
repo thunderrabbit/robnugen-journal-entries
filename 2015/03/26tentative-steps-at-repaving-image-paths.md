@@ -65,7 +65,7 @@ on new.robnugen.com
 ([same page on archive.today](https://archive.today/i8K53))
 
 That "with love - ROB!" signature is actually hosted on b.robnugen.com
-though referenced as /images/rob/wL-ROB.gif on new.robnugen.com
+though referenced as //b.robnugen.com/rob/wL-ROB.gif on new.robnugen.com
 
 See?
 
@@ -84,3 +84,14 @@ I forgot I have to add /images
 give me this:
 
 <img src="/images/rob/wL-ROB.gif" />
+
+#### 4:21pm JST Tuesday 20 July 2021
+
+A couple days ago I decided I want the old calendar format back and
+have been going through journal entries, cleaning them in batch mode.
+
+&lt;img src="//b.robnugen.com/rob/wL-ROB.gif" /&gt;
+
+gives me this:
+
+<img src="//b.robnugen.com/rob/wL-ROB.gif" />

@@ -15,5 +15,5 @@ do for work at least.</p>
 <p>Tonight I may go home and take a nap then go out to Dude's house
 later and work on website pics some more.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

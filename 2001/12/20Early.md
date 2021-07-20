@@ -12,5 +12,5 @@ date: 2001-12-20
 Rode my bicycle here, and it's pretty cold outside.  Around 35 degrees
 I'm guessing.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

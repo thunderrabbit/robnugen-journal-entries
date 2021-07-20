@@ -18,4 +18,4 @@ around and it was Karen, who I know through church stuff!  Wow!  I
 haven't seen her in quite a while, so it will be cool to catch up (she
 said she'll call me tonight).</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>

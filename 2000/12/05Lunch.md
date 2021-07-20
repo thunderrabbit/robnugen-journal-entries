@@ -18,4 +18,4 @@ tonight at 10:30pm.
 <p>Let it be known that I rode my (borrowed) unicycle
 all the way from the stadium to the RMC and back!
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">

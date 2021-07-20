@@ -38,4 +38,4 @@ someone.  :-)</p>
 <p>Great fun party; good job Amy et. al. for successful hosting.  Oh,
 and great job to Amy on the awesome slideshow!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -20,4 +20,4 @@ the structure of the Spirit Blue Eagle site.</p>
 <p>Going home now.</p>
 
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -33,5 +33,5 @@ to get old."
 
 <p>and "preheat the oven to 450 and we'll have pizza tonight!"
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

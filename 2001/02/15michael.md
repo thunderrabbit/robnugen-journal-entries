@@ -40,4 +40,4 @@ keyboard.</p>
 <p>Lots of peeps here.  too many for me to
 remember.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

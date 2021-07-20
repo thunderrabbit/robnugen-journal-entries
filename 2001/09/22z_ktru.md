@@ -34,5 +34,5 @@ difficult to find a CD with more than 25 songs on it.</p>
 there is no DJ listed in the timeslot after me, but Alex and Wendy
 showed up at 10 till 10.  Wow.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

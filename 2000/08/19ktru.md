@@ -44,5 +44,5 @@ and DJ Spooky to satisfy my turntablistic craving.
 
 <p>So the end of my last show of the summer was great fun!
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

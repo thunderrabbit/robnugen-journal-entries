@@ -40,4 +40,4 @@ tried to put its leg back on like a pulling on some tall boots and it
 was just so tragic I cried cried cried in my dream until I woke
 up.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

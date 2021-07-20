@@ -18,4 +18,4 @@ the best places to put them?</p>
 <p>I mean, thank you Kinko's and universe for making this process
 simple for me.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

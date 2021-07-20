@@ -45,5 +45,5 @@ basketball before we called.  I was on Kathryn's team, Elizabeth and
 the other two people who came were the other team.  Just as we started
 to play, I woke up.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

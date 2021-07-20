@@ -55,5 +55,5 @@ at points I had tears in my eyes.</p>
 <p>Now Richard and Aden are performing a guitar thing.  Very jazzy
 bluesey but more jazzy.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

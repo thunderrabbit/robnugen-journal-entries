@@ -29,4 +29,4 @@ number and address.  I'll put them somewhere safe...  Somewhere that
 I'll never lose it again.  Maybe on this scrap of paper here.  Yeah,
 that's the ticket.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

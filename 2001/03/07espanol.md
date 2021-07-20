@@ -115,4 +115,4 @@ misteriosa.  Creo <font color="#FF0000">que</font>
 ella es un espia.  ¿Quien es y por que ella está
 aqui?</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

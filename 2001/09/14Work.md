@@ -32,5 +32,5 @@ I just need to do final testing on the macros and then toss them online.</p>
 
 <p>Conference call Monday morning at 7am to show it off.</p>
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

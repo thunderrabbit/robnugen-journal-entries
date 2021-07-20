@@ -26,5 +26,5 @@ bank account online.</p>
 time ago, something like, "this bike will set you back 300
 frogskins."  I thought it was hilarious.  Still do.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -20,5 +20,5 @@ date: 2000-07-26
 
 <p>I'm not yet saying it's "our" family reunion, and that's okay.  I've never been to this family's reunion before.  Maybe next year.  Maybe not.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

@@ -15,5 +15,5 @@ date: 2000-04-25
 
 <p>She sent me a link which I will post here pending the site owner's permission.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

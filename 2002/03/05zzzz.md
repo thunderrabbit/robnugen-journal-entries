@@ -17,5 +17,5 @@ difficult nor dangerous to code.</p>
 <p>Word.  Finished.  That went even better than I anticipated.  Thank
 you, and good night.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

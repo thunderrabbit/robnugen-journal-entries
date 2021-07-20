@@ -49,4 +49,4 @@ roughness at a game.  Bryn and I wondered later about
 his grandkids all, "Grandpa, you're the coolest
 grandpa ever!" while he sat in the penalty box.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

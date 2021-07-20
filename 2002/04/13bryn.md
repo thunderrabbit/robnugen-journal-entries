@@ -106,7 +106,7 @@ Rally."</p>
 <p>I thanked him for the blessing and the opportunity to be there for
 him. </p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 
 ## March 2015
 

@@ -32,4 +32,4 @@ had done for so long.</p>
 
 <p class=dream>I hugged her.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

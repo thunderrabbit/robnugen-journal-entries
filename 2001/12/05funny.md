@@ -71,5 +71,5 @@ was on the front page of the Daily Cougar back in the day.</p>
 apartment.  I got home around 12 midnight.  What a great fun
 night!!!!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

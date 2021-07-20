@@ -83,5 +83,5 @@ protagonist's spell is broken by the slow clap of that one person.</p>
 <p class=dream>I clapped slowly twice and then went to pick up the part of
 the ring that had hit me and I woke up.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

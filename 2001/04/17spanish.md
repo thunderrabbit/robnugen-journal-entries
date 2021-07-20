@@ -22,5 +22,5 @@ and ditch I-group for 8 weeks.  They'll understand.</p>
 <em>another</em> 8 weeks of I-group.  But I will ponder that when it's
 time.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

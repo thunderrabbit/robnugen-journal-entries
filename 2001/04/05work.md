@@ -38,4 +38,4 @@ ramifications that this will allow us to do!</p>
 
 <p>That's all.  bye.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

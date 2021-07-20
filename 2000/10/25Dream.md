@@ -15,5 +15,5 @@ snail mail and was looking through information from the youth office,
 including the Con Con mugbook, which we should have recieved some
 months ago.  
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

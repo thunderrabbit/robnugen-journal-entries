@@ -23,4 +23,4 @@ animation is good, but I was still impressed.</p>
 
 <p>I'm super tired; going to bed.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

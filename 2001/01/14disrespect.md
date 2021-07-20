@@ -288,4 +288,4 @@ was best for the community.</p>
 
 <p>I invited Gram to write down his version of the story.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>

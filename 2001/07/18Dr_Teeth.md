@@ -26,5 +26,5 @@ alphabetical real estate for later in the day.</p>
 
 <p>I'm awake so early so that I can go to the dentist at 7:30 am.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

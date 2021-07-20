@@ -13,5 +13,5 @@ date: 2000-12-28
 present to me.  So nice.  She had colored wires in them as well, to
 make them more decorative.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -14,5 +14,5 @@ date: 2000-07-22
 
 <p class=grafitti>Will was here.</p>
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

@@ -58,5 +58,5 @@ interesting.  Uninstalling it again.</p>
 <p>Possibly better this time.</p>
 
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

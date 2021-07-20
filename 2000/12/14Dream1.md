@@ -20,5 +20,5 @@ it, it hit the back of a desk and I felt really bad that I had hurt
 it.  But I slammed the door shut thinking there's nothing I can do for
 it now anyway.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

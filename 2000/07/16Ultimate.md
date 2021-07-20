@@ -50,6 +50,6 @@ the different team sizes.
 4-on-5.  I was on the four player team, and happily, we won.  I left
 after that and here I am!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 
 

@@ -35,4 +35,4 @@ Check my journal www.robnugen.com to see how it all went.</p>
 <p>At this point I'll ask Suzanne Sutherland to archive this sacred
 box.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

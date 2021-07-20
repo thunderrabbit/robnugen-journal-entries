@@ -22,4 +22,4 @@ Game.  (not in that order).  I'm pleased with my decision to keep some
 games books in my mobile library.  Captain video was the favorite of
 the evening.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

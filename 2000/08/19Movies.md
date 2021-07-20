@@ -22,5 +22,5 @@ on our going to see it.  I'll suggest dutch treat so nothing seems weird.
 <p>Now we're at Hobbit Cafe for dinner.  It's Elise's last couple of days in
 H-town; she's going back to Dallas soon.  I'll miss my almost-step-sister.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

@@ -52,4 +52,4 @@ camp once to find many sleeping youth.</p>
 
 <p>We found a sleeping Rob soon thereafter.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

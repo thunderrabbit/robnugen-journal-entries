@@ -38,5 +38,5 @@ learned a lot about my house!!
 
 <p>Blah!  I don't even know what else to say.  :-)
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

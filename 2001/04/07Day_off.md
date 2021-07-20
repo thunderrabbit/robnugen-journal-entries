@@ -22,5 +22,5 @@ address.</li>
 <li>something else, but I forgot what</li>
 </ul></p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

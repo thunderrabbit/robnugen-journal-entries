@@ -30,5 +30,5 @@ next to the Student Center where the station is located.
 
 <p>I think I may slide into the station a bit early so I can review CDs!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

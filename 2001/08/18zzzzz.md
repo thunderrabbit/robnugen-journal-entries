@@ -61,5 +61,5 @@ to 5:10am.</p>
 
 <p>Still have to take a shower.  It's 5:23 am now.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

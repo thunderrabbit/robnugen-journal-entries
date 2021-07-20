@@ -17,5 +17,5 @@ finally sleep soundly.
 for us to "broadcast" KTRU music within the RMC.  Super duper thanks
 to Hansen College for their help!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

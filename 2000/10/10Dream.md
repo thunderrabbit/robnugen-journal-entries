@@ -27,5 +27,5 @@ football team and goes to that school.
 student DJs are feeling pressure from the administration to change the
 radio station to broadcast more university interests.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

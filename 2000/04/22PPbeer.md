@@ -22,5 +22,5 @@ any time or money.
 
 <p>Gotta run; we're going to Maggie and John's for dinner.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

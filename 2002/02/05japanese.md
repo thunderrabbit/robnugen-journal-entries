@@ -23,5 +23,5 @@ katakana!</p>
 <p>And then begins the process of spelling out words with them and then
 learning the thousands of kanji, which are words of 1 character each.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

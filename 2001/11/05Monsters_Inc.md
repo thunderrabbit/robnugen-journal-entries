@@ -34,5 +34,5 @@ soundtrack of the trailer was Darth Vader's breath while we watched
 varied and random scenes.  Then we hear <em>vwack vwack</em> of two
 light sabers and that was it.  More movie brilliance.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

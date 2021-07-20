@@ -60,5 +60,5 @@ of the time, but I think it's worth the effort.
 <p>We are pretty much going to sleep now, but I wanted to capture this
 entry before I slept it away.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

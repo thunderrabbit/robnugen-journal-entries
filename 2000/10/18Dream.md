@@ -31,5 +31,5 @@ we got to tour.
 neighborhood.  This is a setting I've seen in a few different dreams
 since I started writing them down here.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

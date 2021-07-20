@@ -30,5 +30,5 @@ choose over Michael Jordan.
 
 <p>(Thanks everyone for such a great fun night!!!)
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

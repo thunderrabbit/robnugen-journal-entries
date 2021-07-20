@@ -30,4 +30,4 @@ it from our web logs.</p>
 productive) day.  I was hoping to be home when Wende
 got home.  I'm going home now.  :-)</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

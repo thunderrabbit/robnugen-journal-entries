@@ -36,5 +36,5 @@ website.  I'll be helping him build it.  <a
 href="https://www.spiritblueeagle.com">www.spiritblueeagle.com</a>.  It
 probably is either not set up or just has a placeholder.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

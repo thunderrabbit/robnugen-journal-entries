@@ -43,4 +43,4 @@ Club</em>.</p>
 
 <p>Somehow it has become nearly 2am.  Time for bed.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

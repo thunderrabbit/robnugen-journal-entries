@@ -31,5 +31,5 @@ negative energy tossed into the world and into one's self.
 <p>A haiku; a poem; a hand written card; something personal...   Those are
 what are important in life.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

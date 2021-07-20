@@ -49,5 +49,5 @@ melted into me being at home, and I woke up.
 
 <p>Today Wende is supposed to be home earlier than usual, about 4pm.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

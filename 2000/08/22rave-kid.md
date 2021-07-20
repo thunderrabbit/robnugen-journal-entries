@@ -27,5 +27,5 @@ youth I know lately call themselves kids, and I am guessing this youth may
 call himself a rave kid.  But I never spoke to him, so I may be totally
 wrong.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

@@ -24,5 +24,5 @@ bet on some gross/wack things.</p>
 
 <p>Good enough to see at a matinee, but not full price.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

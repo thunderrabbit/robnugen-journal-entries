@@ -79,4 +79,4 @@ bicycle as we went back toward the beginning of the scene to try
 again; the helicopter had way overshot the landing, so the second time
 I was telling Samuel L Jackson where to land it.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>

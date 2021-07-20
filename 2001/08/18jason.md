@@ -13,5 +13,5 @@ his first PI case.  Watching some woman's activities if she left her
 house - with whom and where did she go.  But for four hours he sat and
 nothing happened.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

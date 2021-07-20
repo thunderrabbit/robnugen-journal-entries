@@ -24,4 +24,4 @@ Training Training in November.  If I attend, I will be
 called to run youth advisor trainings around the
 country.  Sounds way cool and way youth empowering!
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">

@@ -72,5 +72,5 @@ experience.  </p>
 loss. He distracted me from playing ultimate for awhile, we
 reminisced, and then he typed this into my journal.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

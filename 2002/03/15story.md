@@ -24,4 +24,4 @@ So funny trying to hold on all the way to the pub!
 
 dark! wet!
 </pre>
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>

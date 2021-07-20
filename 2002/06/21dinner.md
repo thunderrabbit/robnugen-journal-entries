@@ -80,4 +80,4 @@ them out of the air)</p>
 <p>Fred, Bill and I are now going to watch <em>Snatch</em> which I
 have not yet seen.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

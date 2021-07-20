@@ -38,7 +38,7 @@ wanted to.  I overheard him say to her, "he wants to talk to you some
 more," and I was mad that he didn't giver her the choice, and I woke
 up.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 
 
 

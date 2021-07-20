@@ -30,4 +30,4 @@ okay too.</p>
 couldn't hear it, I thought I would have to shout for
 the guy to hear me.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

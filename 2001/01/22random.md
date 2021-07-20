@@ -33,5 +33,5 @@ different systems.</p>
 
 <p>Peeps are arriving now.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

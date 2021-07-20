@@ -26,5 +26,5 @@ Peppers' "Give It Away," which features twin female singers who
 actually enunciate the lyrics well enough to understand.  But, more
 significantly, I reviewed the CD for KTRU!  Wheee!!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

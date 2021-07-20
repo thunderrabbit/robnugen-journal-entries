@@ -44,4 +44,4 @@ having the extra ticket in my dream was because 2 guys last night had
 3 extra tickets that they were selling for 1/2 price to anyone who
 happened to walk up and need tickets.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>

@@ -46,4 +46,4 @@ week.  Right now I'm going to work on Kim Sawyer's website.</p>
 fingers.  If he turns to a page of a large amount of prose, I will
 offer to help.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

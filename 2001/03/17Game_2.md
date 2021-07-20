@@ -295,5 +295,5 @@ has enough lines to be a limerick."</p>
 <br>Tea, no thanks I'll have a beer
 <br>Which brings us back to Doh doh Doh!</p>
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

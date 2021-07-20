@@ -29,4 +29,4 @@ could stay clean.</p>
 <p>We will probably go see a movie tonight.  Either
 <em>CastAway</em> or <em>Miss Congeniality</em>.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -26,4 +26,4 @@ trampoline to give me more room to bounce, but then
 the tramp was all shaky, and I wasn't comfortable with
 the lack of balance.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">

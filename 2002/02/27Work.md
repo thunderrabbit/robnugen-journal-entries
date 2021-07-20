@@ -39,5 +39,5 @@ I wonder if that's all it took to shift the conversation.</p>
 <p>Now I'm reading up on procmail a bit so I can receive email
 messages from a mailing list on my new super-anti-spam email account.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

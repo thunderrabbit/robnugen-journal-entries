@@ -27,4 +27,4 @@ stuff.</p>
 laminated for $4.86.  We'll go to the pool on Friday
 or this weekend and get fun pics!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -32,5 +32,5 @@ down low!!!!
 
 <p>Wende gets home in 3 hours.  Time for me to work.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

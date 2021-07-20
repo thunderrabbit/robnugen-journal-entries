@@ -16,4 +16,4 @@ now listen to KTRU at work!!!  Used to be that the
 signal didn't make it into our building well.  But now
 it does!  Yay 91.5fm!!
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">

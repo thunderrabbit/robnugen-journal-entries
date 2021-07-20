@@ -43,5 +43,5 @@ through the mud and then up and onto the roadway.  "It's exactly that
 kind of driving that caused the accident in the first place," I
 complained to Wende.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

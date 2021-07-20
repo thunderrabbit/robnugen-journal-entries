@@ -35,5 +35,5 @@ wet grass.  It was so close!</p>
 <p>Wende and I just cleaned the bathroom and are about to see a
 movie.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

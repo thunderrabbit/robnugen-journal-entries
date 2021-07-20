@@ -584,4 +584,4 @@ an incredible season.  :-)</p>
 
 <p>All my love,  ROB!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

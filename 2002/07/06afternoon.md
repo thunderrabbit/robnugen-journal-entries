@@ -19,4 +19,4 @@ to get online and do that now.</p>
 _Men In Black 2_.  That is if they don't go see _Secrets of the YaYa
 Sister Club_</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

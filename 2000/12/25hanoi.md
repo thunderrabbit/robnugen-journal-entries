@@ -35,5 +35,5 @@ well.  Lovely dinner and just random conversation until we left around
 
 <p>I just showered for the first time since Saturday.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

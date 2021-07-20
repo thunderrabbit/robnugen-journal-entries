@@ -26,5 +26,5 @@ recognized it was a dream.</p>
 say to keep her from being alarmed, but still have her move quickly out
 of the water, and not go, "what?" as the alligator bit her.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

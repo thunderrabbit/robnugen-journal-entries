@@ -61,4 +61,4 @@ watch the rest of the initiations.</p>
 
 <p>But the point is, OKC in 16 days!!!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -27,5 +27,5 @@ date: 2000-07-26
 
 <p>lovely that they did not wake me up last night (except spot for once just before I got to sleep for real.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

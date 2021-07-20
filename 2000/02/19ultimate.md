@@ -54,5 +54,5 @@ cookies!!  Wheeeee!!
 <p>I didn't stay much longer.  There was an after-game party, but I am
 home to sleep.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

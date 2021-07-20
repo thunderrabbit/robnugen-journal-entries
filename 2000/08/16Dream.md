@@ -62,7 +62,7 @@ about to join the fun and then I woke up.
 
 <p>I'm pretty sure I'm awake now.  ;-)
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 
 
 

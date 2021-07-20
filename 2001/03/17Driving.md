@@ -29,5 +29,5 @@ these fields.</p>
 
 <p>We just arrived.  No longer raining, but totally overcast.</p>
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

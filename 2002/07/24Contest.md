@@ -13,4 +13,4 @@ raft contest, much to the dismay of Laura and much to my delight.</p>
 <p>I, Edward, Phat Pat, Richard all joined them.  Also tried to make a
 pyramid.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

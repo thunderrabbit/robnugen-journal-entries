@@ -17,5 +17,5 @@ decided to give up my role.</p>
 href="https://www.dse.nl/~robvg/index_us.html">Rob van Gassel</a></p>
 
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

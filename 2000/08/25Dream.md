@@ -66,5 +66,5 @@ tahnks and his next door neightbor was all, co was all coming down HI whats goin
 <p class=dream>My parents arrived and Maggie loudly greeted them at the ddoor even thought Eric and MEredith's wedding was going on and she may be interrupting it by talking, but she led them away from the wedding to   led us all away from the ceremony thing  to my old apartment and we were in the parking lot walking up the steps, but the door was locked so I had to go in first.  The huge blast trash can thing was in the kitchedn, blocking the path to get in,  so  . So Maggie was going to help me throw stuff awyay and cleear it out of the apartment.  I was all, wiait!  theres a  (phone book or someting) in the trash can; we don't want to throw it away.  but I had the feeling that  It was too far gone to get it.
 
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

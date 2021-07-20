@@ -64,4 +64,4 @@ wide.</p>
 
 <p>We're back; going to the beach.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -20,4 +20,4 @@ taking the next two (tonight and next week).</p>
 <p>I'm going to look for chicken noodle soup and then
 go back to bed.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

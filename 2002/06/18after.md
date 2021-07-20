@@ -21,4 +21,4 @@ sense of organization.</p>
 
 <p><a href="/images/cats/spot_sleeps.jpg">Spot</a> remained unimpressed.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>

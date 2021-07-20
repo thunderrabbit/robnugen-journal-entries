@@ -40,4 +40,4 @@ don't really capture what's in my head.</p>
 <p>As my brother would say,
 <br>Back to work.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

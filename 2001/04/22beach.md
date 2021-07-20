@@ -115,4 +115,4 @@ mister.   Move over.  ;-)</p>
 hours.  All kinds of flying things on the beach, but I
 must say the flying wings were the coolest.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

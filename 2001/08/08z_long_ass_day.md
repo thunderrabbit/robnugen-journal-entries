@@ -40,4 +40,4 @@ for Kevin to be done and he'll give me a ride.</p>
 be safer and easier for me. If he's not ready until
 much after 11pm, though, I'm audi 5000.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

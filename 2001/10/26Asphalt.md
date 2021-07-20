@@ -41,4 +41,4 @@ scraped them off into the dirt.</p>
 <p>Had to scrape them off again before I tracked tar
 inside.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -111,4 +111,4 @@ his snack.</p>
 <p>Next entry you <b>must not read</b> unless you want
 me to give away the movie to you.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -37,5 +37,5 @@ incredible cream corn chowder I've ever had!</p>
 
 <p>My legs are sore.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

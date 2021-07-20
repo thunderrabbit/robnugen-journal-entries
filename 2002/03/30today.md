@@ -36,4 +36,4 @@ locked up when I opened Photoshop.  I just checked.
 It's still locked. 3 finger salute doesn't work; gotta
 hit reset, it seems.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -28,4 +28,4 @@ time to go.</p>
 the shower, which is where I said I was going when I
 went upstairs.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

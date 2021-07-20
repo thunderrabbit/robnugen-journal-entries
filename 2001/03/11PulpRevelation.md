@@ -39,4 +39,4 @@ refer to as, 'a moment of clarity.'"</p>
 <p>So perfect!  Just as she says "no hero," our hero
 speaks up in the background.  Awesome.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

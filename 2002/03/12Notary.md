@@ -31,5 +31,5 @@ clothes, accessories for a new teddy bear or rabbit or others I'm
 sure.  Wow.  It was relatively packed with 5 - 7 year old girls and
 moms.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

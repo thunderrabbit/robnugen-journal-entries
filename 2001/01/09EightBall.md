@@ -19,5 +19,5 @@ href="https://www5.compaq.com/rcfoc/">RCFoC</a> (where I got the Magic 8 Ball
 link).  Okay, now I'm going to work work work on the latest incarnation of
 the Ritz Project.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

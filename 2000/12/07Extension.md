@@ -11,5 +11,5 @@ date: 2000-12-07
 <p>The vote deadline for KTRU has been extended to 9AM today.  We will
 hopefully know soon after that.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

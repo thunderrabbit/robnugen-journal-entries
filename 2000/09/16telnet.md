@@ -34,5 +34,5 @@ I'm sure his unix knowledge will help us fix it very quickly.
 
 <p>Thanks, Marcel!  You're the best!!!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

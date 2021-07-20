@@ -56,5 +56,5 @@ I can't remember the phrase.</p>
 
 <p>Great to see Tom & Dierdre and Glenn and buds from my I-group.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

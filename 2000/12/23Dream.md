@@ -42,5 +42,5 @@ I named it.  They were like, "okay,"</p>
 
 <p>then I woke up.  I can't think of the name of the movie now.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

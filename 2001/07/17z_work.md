@@ -26,4 +26,4 @@ spam creator.  Silly computers.</p>
 
 <p>Right after I log my hours.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

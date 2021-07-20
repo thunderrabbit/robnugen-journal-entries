@@ -38,5 +38,5 @@ enough to clean for me.
 <p>My batteries are low now; I'll need to get new ones before I can finish
 this two day conference.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

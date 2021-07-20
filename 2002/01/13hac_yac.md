@@ -17,5 +17,5 @@ ramp up becomes an "overpass" bridge thing.</p>
 
 <p>Crazy!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

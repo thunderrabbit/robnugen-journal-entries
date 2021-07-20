@@ -31,5 +31,5 @@ of the disc and slung it to the ground.  I had some good tosses into
 the endzone for points.  Overall I'm really happy with my play
 tonight!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

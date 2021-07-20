@@ -105,4 +105,4 @@ should steal Bryn and get some time with her.  Makes
 sense to me!  They continued into Ardmore, including
 to get posters to label the route.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

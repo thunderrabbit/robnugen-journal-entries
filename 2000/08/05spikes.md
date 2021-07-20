@@ -13,5 +13,5 @@ date: 2000-08-05
 
 <p>Now we're at Pot Pie Pizzaria munchin' before movie (The Klumps I think)
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

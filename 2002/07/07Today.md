@@ -30,4 +30,4 @@ out around here, and other stuff.</p>
 <p>Oh, I remember what else I did.  I applied for a job at
 Whataburger.  It looks like I'll probably get it.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -21,5 +21,5 @@ Dictator and/or Television Sit-Com Character</a>.  You answer
 questions as if you are the person, and the perl script will guess who
 you are!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

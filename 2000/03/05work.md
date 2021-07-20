@@ -26,5 +26,5 @@ at work.  We'll see how that goes!
 <p>Today Wende and I are likely to see Whole Nine Yards again!  This time 
 with Maggie-Molly-John-Will.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

@@ -28,5 +28,5 @@ turned on House of Pain _Fine Malt Lyrics_ CD, which is pumping
 throughout the house.  That will certainly be turned down when Ma gets
 here.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -18,5 +18,5 @@ super cute Sarah Pitre.</p>
 <p>I haven't seen her since that Friday night (it's Tuesday now) I
 don't know if she has not fully moved in yet or what.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

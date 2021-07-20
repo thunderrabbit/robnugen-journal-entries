@@ -100,5 +100,5 @@ I were on opposite sides of a wormhole, Queen Marta Pie and Butch
 Thong Hopper were on opposites ends of a wormhole.  Jackie Beautiful,
 Sean, Mill were all not in wormholes.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

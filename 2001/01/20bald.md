@@ -25,5 +25,5 @@ mandatory KTRU DJ meeting before the new semester.  They said there
 will be important news for the DJs; I wonder what it is...  Certainly
 something about the new committee overseeing KTRU operations.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

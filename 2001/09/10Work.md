@@ -14,4 +14,4 @@ sitting around the conference room table.</p>
 
 <p>I'm not sure if we're going to make it.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"></p>

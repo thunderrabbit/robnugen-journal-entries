@@ -26,5 +26,5 @@ date: 2000-07-07
 
 <p>and I woke up.   It's 5:00am
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

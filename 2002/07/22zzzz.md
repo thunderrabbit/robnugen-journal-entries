@@ -13,4 +13,4 @@ our roving term.</p>
 
 <p>I'm going to sleeeeep.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -35,4 +35,4 @@ decide it's not good enough to join.  Ouch, I would
 say, but this is still only all in my head until I
 actually ask her!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -22,5 +22,5 @@ the porch at a 30 degree angle from the ground.  Soon it was late, and
 everyone was sleeping in their rooms, while I wandered around the
 house, marveling at the rain.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -15,4 +15,4 @@ class will study next week.  Tomorrow will be simple
 for Wende and me - just learning the sounds of each
 character in the alphabet.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

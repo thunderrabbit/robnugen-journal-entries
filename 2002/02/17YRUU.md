@@ -43,5 +43,5 @@ of Jenga blocks.  Slowly the community will collapse onto itself.</p>
 graduate from YRUU and teach English in Japan.  She quite encouraged
 the idea.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

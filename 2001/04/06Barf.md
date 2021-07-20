@@ -46,4 +46,4 @@ I can find the SSL keys.  We'll see.</p>
 
 <p>Blah.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -38,4 +38,4 @@ will prob. hurt but i can deal with it!</p>
 <p class=message>hugs*****
 <br>tinap</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

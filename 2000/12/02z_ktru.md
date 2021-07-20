@@ -39,5 +39,5 @@ going on.  Bluh.  I didn't know her, but I know Patrick and Emily.
 been sent over the past 3 days.  I'm sure there have been easily 300
 messages sent.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -29,5 +29,5 @@ do; I'll post it here.
 on the bed with her a bit, but I'm just too wired to sleep.  I've been
 up since 2:30 I think.  Whenever it was that I wrote that dream entry.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

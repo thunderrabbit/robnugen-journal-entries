@@ -31,5 +31,5 @@ Maggie licked it up into her mouth and everyone watched in anticipation.
 
 <p>HAHAHahAHaAHHhahahhaaAHAHAHAhahaha!!!!!
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

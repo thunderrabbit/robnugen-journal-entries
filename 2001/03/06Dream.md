@@ -86,5 +86,5 @@ whatever you have to do."</p>
 
 <p>It was actually Wende's alarm and I woke up.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -51,5 +51,5 @@ go back to LA.</p>
 project-design meeting.  I think we will benefit from having these
 before we start big projects.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

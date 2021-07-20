@@ -35,5 +35,5 @@ which button was clicked.  Makes perfect sense.
 <p>The old school method of doing it was developed by a man who has a
 masters degree in neuropsychology, not programming.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

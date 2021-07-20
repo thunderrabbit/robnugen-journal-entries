@@ -14,5 +14,5 @@ already read them!
 <p>Work was all bluh today - tyring to get back into the swing of stuff.
 Ack ack ack
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

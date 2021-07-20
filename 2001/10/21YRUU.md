@@ -60,4 +60,4 @@ roadsign game.</p>
 href="https://noise.rice.edu/sheet.nsf/be8c01cf6387727180256920006ed872/dc4741e5261b205986256aeb00834dfb?OpenDocument">This
 link</a> *might* work. Look at 7:48pm.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -45,5 +45,5 @@ post.  One day.  One day.</p>
 tonight at ASL and I'll learn some more then.  I know about 20
 characters now I think.  Well 17 for sure.  I think.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

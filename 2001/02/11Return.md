@@ -18,5 +18,5 @@ expedition.</p>
 <p>Everything seems to be working just fine.  I'm thankful for that, and I
 actually kinda like the ice color.  Nice.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

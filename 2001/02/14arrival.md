@@ -23,4 +23,4 @@ outskirts of Austin.</p>
 <p>Arrived at Irene and Nick's house and I won't write
 too much while there's people to say HI to.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

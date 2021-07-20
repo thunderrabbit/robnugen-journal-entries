@@ -23,5 +23,5 @@ throughout the night.</p>
 <p>Watched choir camp videos with Kristen and Jessica, but they were
 certainly more entertained by them than I.  Tired on the way home.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

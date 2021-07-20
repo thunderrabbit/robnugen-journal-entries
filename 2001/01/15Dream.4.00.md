@@ -14,5 +14,5 @@ lots of people, and it was Susie's (youth) house.</p>
 
 <p>I may remember the bulk of this dream later.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

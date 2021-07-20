@@ -19,5 +19,5 @@ her brother Sam.  ...  then I woke up.
 
 </em>
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

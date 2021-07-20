@@ -50,5 +50,5 @@ timing, perfect Yes.  I know it will be a stretch, but we can do it.
 
 <p>So we made an appointment to talk to the guy tomorrow at 8am.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -21,5 +21,5 @@ date: 2000-05-04
 
 <p>But here is the weird thing:  The attachment she opened was ILOVEYOU.  The virus we detected and removed was PrettyPark.  Very interesting.  I'm not sure if they are the same virus or if someone renamed PrettyPark, or what.  Hmmm.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

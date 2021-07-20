@@ -120,4 +120,4 @@ official review of Hannibal!  Thanks for helping me
 with it!
 <br><font color="#0000FF">Jen</font>:  Yay!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

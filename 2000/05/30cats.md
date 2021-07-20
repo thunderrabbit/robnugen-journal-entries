@@ -44,5 +44,5 @@ eating all the food he possibly can, if Tinkerbell would just chill.
 
 <p>What lesson may I learn from these cats?
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -61,5 +61,5 @@ flavor, but they only had menthol and cherry flavor.  I was able to get her
 
 <p>we just stopped at the pristine gas station outside Giddings.</p>
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

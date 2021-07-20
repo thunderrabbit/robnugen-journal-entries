@@ -15,4 +15,4 @@ entered the worship space.</p>
 <p>I'm glad Wende was able to attend SWUUSI; it looks like this will
 be her last YRUU event in Southwest District for a while.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

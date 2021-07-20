@@ -31,4 +31,4 @@ Wende.</p>
 <p>We're going to stay up somewhat late tonight to
 help us get on Melbourne schedule.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

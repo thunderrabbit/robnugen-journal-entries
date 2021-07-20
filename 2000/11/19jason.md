@@ -48,5 +48,5 @@ calling him and asking to move the money.  I'll offer to ask him to
 change the strategy, but I know in my mind I already think that's not
 going to work.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

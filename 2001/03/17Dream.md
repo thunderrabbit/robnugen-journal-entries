@@ -31,5 +31,5 @@ silly.</p>
 ended up with a steering wheel and were floating in the water in a elevator
 turned spacecraft.  The dream action stalled and I woke up.</p>
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

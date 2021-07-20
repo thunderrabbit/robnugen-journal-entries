@@ -21,4 +21,4 @@ large doses once symptoms appear.  According to other
 websites, the only company that makes the vaccine was
 sanctioned for non-quality work.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

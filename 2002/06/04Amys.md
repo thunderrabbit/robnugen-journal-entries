@@ -18,5 +18,5 @@ stuff.</p>
 <p>I didn't get to show Wende my dinosaur diarama, but I imagine I can show
 her once I have my job there.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

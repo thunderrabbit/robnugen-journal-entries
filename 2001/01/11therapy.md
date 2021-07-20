@@ -15,5 +15,5 @@ minute session, I think we uncovered the bulk and core of the issues.
 Only fifty minutes!  I left feeling a great deal of love and happiness
 for our relationship.  Awesome.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

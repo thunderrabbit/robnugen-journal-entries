@@ -30,5 +30,5 @@ royalties)
 
 <p>Anyway, My show as sloppier than usual, and I didn't get enough playlist or alternative tracks played.  Oh well.  Next week I'll do it, but this week, the playlist and alternate tracks can bite my butt.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

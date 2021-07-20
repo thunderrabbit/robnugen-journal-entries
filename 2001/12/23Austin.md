@@ -24,4 +24,4 @@ night)</p>
 <p>Fred lives 2 blocks from where Sally lived when she
 lived here. :-)</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

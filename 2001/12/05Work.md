@@ -13,5 +13,5 @@ start on a little tool that will make editing datasets hella easier
 than previously.  I think I can make it pretty flexible too.  Hope so
 at least.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -65,5 +65,5 @@ to you guys,!" but they were already running toward the pool and I was
 like <em>hey I just wanted to say HI</em> but I woke up before I got
 to see them or hug them.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

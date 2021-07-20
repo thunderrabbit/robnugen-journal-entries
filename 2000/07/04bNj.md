@@ -25,5 +25,5 @@ wall with Bob and Jennifer... very convenient when hanging out)
 <p>More stories and fun and then they went home.  I'm quite thankful
 to have such cool neighbors!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

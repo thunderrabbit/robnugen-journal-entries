@@ -36,5 +36,5 @@ sticky tape.
 
 <p>Yes, I made a pun in my dream
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

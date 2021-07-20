@@ -30,5 +30,5 @@ reason they were acting this way.  Through listening to them, we were
 able to find out what was the core problem, which had nothing to do
 with the cats, but basically that the kids wanted attention.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

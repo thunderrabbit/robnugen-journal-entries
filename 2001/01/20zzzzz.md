@@ -50,5 +50,5 @@ don't have."</p>
 the dog was playing "choochoo" when really it was trying to hump her.  And
 when her friends came over she had them play too."</p>
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

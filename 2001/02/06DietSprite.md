@@ -27,4 +27,4 @@ K.
 
 <p>I got her one before I copied this to my site.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

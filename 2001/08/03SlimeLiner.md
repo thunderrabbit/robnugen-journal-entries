@@ -22,4 +22,4 @@ Slime Liner isn't protecting the tube)</p>
 <p>Back at work, where I hopefully will actually do
 some work.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

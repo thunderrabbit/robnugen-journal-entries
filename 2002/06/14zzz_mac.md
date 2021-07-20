@@ -45,5 +45,5 @@ Now the buttons are:</p>
 
 <p>Pretty fun stuff.  I'm going to bed.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

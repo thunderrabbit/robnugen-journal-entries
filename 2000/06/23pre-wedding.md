@@ -15,5 +15,5 @@ there tomorrow lookin' for a lovely spot.
 
 <p>Speaking of Spot, my cat just walked in.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

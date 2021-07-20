@@ -75,5 +75,5 @@ about to type anyway when Wende woke me up.
 
 
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

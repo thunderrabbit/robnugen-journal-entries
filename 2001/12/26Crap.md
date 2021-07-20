@@ -24,5 +24,5 @@ hate to have downtime on the G3; I want it to be perfect!</p>
 
 <p>We've been down for some hours now.  At least three hours.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

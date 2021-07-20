@@ -38,5 +38,5 @@ cereal out, used another bowl (I had a bowl of cereal before KTRU),
 left both bowls in the sink.  Lemme go run down and give smooches to
 Wende.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

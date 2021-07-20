@@ -37,5 +37,5 @@ unconditionally loves us!
 eternity have all used countless variations of names for Big G, and
 all are referring to the same unconditionally loving higher spirit.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -16,5 +16,5 @@ date: 2000-03-27
 
 <p>The best part about DSL is that it'll save me and Wen big dollars on 2 phone lines for modem, or on DSL, and we can put both computers on the network.  Awww yeah.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

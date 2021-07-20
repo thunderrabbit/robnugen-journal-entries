@@ -29,4 +29,4 @@ intact and apparently well guarded.</p>
 
 <p>War sucks.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

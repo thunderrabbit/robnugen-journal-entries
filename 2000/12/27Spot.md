@@ -25,5 +25,5 @@ change from 1999 to 2000.</p>
 
 <p>emacs is working to remove the sixteenth ring.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

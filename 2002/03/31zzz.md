@@ -38,5 +38,5 @@ code to actually produce valid HTML output.</p>
 I'll leave for my men's group.  Then go see Wende and help her with
 some investment club stuff.  Then go to bed.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

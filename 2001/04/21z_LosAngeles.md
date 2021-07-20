@@ -27,4 +27,4 @@ They have short medim long length portions and now he
 has a short pant leg and a LONG  pant leg.   well past
 his foot.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

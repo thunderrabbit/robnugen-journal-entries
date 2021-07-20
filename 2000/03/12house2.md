@@ -36,5 +36,5 @@ all left without even really talking to the guy.
 
 <p>Us?  perfect timing.  Synchronistic to the max.  So thankful!!!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

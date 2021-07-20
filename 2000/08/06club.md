@@ -13,5 +13,5 @@ date: 2000-08-06
 
 <p>Yesterday Wende and I saw <em>Nutty Professor II The Klumps</em>  It was as funny as the first one, but had fewer outtakes at the end of the show.  I really enjoy the outtakes and wanted more...  Maybe they just had more on the video, but not in theaters.  I dunno.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

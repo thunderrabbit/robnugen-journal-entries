@@ -75,7 +75,7 @@ would consistently make it down the whole thing.  Totally awesome.</p>
 around, standing in the sun, so we headed back to the apartment for
 lunch.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 
 
 

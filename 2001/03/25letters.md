@@ -21,5 +21,5 @@ cards will get to the intended recipients...</p>
 
 <p>I'll definitely let you know!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

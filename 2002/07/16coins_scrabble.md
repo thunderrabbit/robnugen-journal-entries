@@ -19,4 +19,4 @@ boomerang from Bryn, and a Scrabble game from Suzanne (being
 returned).  I spelled out BAD on the scrabble game because we call one
 another bad all the time.)</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -43,4 +43,4 @@ you put that note on his door, so I'm writing to him."</p>
 <p>So I gave her the number.  She sounded like I was just totally
 wasting her time or something.  Wow.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

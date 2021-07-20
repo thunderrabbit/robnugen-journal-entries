@@ -112,5 +112,5 @@ parameters and then we'll make a decision after that.
 
 <p>Time for b-e-d bed.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

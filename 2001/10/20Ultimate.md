@@ -23,5 +23,5 @@ players who wanted the field.  Of the next two teams, only one showed
 up, so they won and the soccer players got the field and everyone had
 a happy day.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

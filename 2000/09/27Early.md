@@ -16,5 +16,5 @@ scared that I won't be able to go a fraction as far as I used to.  I
 know this may be true the first time I skate, but if I keep it up, I
 can get that energy and stamina back.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -38,4 +38,4 @@ went home.</p>
 <p>I'm going to bed now, and will be up and back at
 work tomorrow morning.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

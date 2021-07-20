@@ -31,5 +31,5 @@ my boss.
 <p>But, you know, fuck that.  I'm not expected to be there until 10am
 (I hope!) So I think I'll take another meditative moment.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

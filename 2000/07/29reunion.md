@@ -126,4 +126,4 @@ picture on the back of the menu for Nannie. and Cindy
 asked for a big 6 foot by 4 foot picture/image of same
 style but certain colors which Wende will pick out.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">

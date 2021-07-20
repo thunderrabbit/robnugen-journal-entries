@@ -25,5 +25,5 @@ other place.</p>
 know the other place to save data existed.  Since it was superfluous and
 dumb, I took it out.  Problem solved.</p>
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

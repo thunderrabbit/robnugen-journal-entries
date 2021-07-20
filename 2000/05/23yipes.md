@@ -17,5 +17,5 @@ date: 2000-05-23
 
 <p>And we have DSL at home!!  I've not got my linux box NIC set up yet (nor Wende's machine, nor my other windows machine..) but anyway the DSL works and I hope to have our machines connected soon!!
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

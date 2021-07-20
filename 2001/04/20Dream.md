@@ -27,4 +27,4 @@ I was in a dream.</p>
 do not contain 'e' at any location.  I must say that writing without
 using 'e' is tricky.  You should try it.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>

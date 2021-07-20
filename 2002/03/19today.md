@@ -18,4 +18,4 @@ around without my crutches.  I turned them in at the hospital yesterday
 and the nurse said it was brilliant that I brought them back.  That's
 their way of saying awesome, I'm sure.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

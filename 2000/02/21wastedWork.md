@@ -56,5 +56,5 @@ return.  The screen came back to 640x480!  Yay!!!!
 correct!  I used a different NT machine to see what I should press to do 
 it.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

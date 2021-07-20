@@ -196,5 +196,5 @@ written on her forearm.  hahahaha
 <p>YAC elections were so fast!!  Only 3 people were to be elected and only 3
 people ran.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

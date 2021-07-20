@@ -44,5 +44,5 @@ Minh's help, I am able to pretty quickly check for the offending
 messages in the logs.  I've come across only 2 that I've been unable
 to solve.  Soon I'll be done and going to Paint This! to paint.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

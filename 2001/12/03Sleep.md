@@ -18,5 +18,5 @@ on the market.  It's not on the market yet, but I vacuumed it just for
 practice.  I wonder if she called Jodi, my real estate friend who will
 list it for us.  I just left a message for Jodi to find out.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

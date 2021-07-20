@@ -42,4 +42,4 @@ if our pics will be available tonight?</p>
 arrive for our evening adventure to see "Ruthless" 
 Yay!!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

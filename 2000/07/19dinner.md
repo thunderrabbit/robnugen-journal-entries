@@ -45,5 +45,5 @@ date: 2000-07-19
 
 <p>The evening was lovely.  I greatly enjoyed seeing the work done by Bill and was nearly inspired to get out all my old stuff again.  Maybe I'll just be in email contact with him, offering data that I have.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

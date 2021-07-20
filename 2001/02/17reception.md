@@ -47,4 +47,4 @@ have some fine Victoria Bitter, a beer which I think
 tastes like bark.  Wende stuck her tongue out at the
 flavor.  Bleah.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

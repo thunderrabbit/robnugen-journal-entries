@@ -67,4 +67,4 @@ amazing.</p>
 the Best Man for my dad.  I guess that's why he asked me to bring a
 suit.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

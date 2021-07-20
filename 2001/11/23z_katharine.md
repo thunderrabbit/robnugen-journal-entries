@@ -22,5 +22,5 @@ artists.  Funny stuff.</p>
 
 <p>He's met Tori Amos and Trent Reznor, but not the Beastie Boys.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

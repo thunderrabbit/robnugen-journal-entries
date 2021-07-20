@@ -17,5 +17,5 @@ today than it was before the rain and stuff.
 <p>I did the trek in about 11 short rides.  The longest was a few
 blocks and the shortest lasted less than a block.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

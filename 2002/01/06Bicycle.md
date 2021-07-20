@@ -154,4 +154,4 @@ Rob's bike. :-)'</p>
 
 <p class=date>1:00 pm</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

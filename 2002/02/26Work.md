@@ -31,5 +31,5 @@ Yikes.</p>
 <p>Oh, and also not work related, our girlscout cookies came in.  I
 ate 1/2 a box of Thin Mints.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

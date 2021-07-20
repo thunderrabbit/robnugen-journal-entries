@@ -29,4 +29,4 @@ full covering of skin, but it's just not as thick as
 it had been.  Still a tad tender, but amazingly well
 healed for only 5 days.  Good job, toe!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

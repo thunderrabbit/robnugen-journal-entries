@@ -84,5 +84,5 @@ when I was 7 or 8 or 10 or something.  We haven't played that for
 <p>I was un-pissed.  Yeah, I missed 1/2 of the Outdoor Show, but life
 is still good.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

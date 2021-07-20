@@ -23,4 +23,4 @@ could hear people laugh, which gave them away as mafia.</p>
 <p>Now Marta and I are going to Dallas to hang with some of her
 friends and then I'm going to the Bibby's for a few days.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

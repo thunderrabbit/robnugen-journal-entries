@@ -33,5 +33,5 @@ locked all the windows so I couldn't sneak in to look.
 <p>Of course, I will come in during the day and ask permission to take
 pictures.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

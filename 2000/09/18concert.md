@@ -22,5 +22,5 @@ where we saw Tori Amos."
 
 <p>Maybe I'll enjoy the show.  Yikes!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

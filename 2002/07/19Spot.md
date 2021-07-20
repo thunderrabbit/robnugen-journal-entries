@@ -27,4 +27,4 @@ tonight, since she's not going home after work.</p>
 <p>I wonder if he'll become a Paint This! cat.  That would be pretty
 cool.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

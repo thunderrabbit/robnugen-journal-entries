@@ -31,5 +31,5 @@ Bluh.</p>
 <p>More investment club stuff and then set up the phone-sync software
 for my phone.  Then it was time for Youth Follies at Emerson Church. </p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

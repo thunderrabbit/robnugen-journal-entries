@@ -25,5 +25,5 @@ something else.
 <p>I also think I might want to get a different seat; this one is
 padded, but not super comfortable.  We'll see.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

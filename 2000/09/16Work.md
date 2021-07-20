@@ -48,5 +48,5 @@ to one while playing backgammon.
 <p>Now it's basically time for bed, but I'd like to write some more to
 catch up from the week.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

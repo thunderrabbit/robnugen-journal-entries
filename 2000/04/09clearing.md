@@ -92,6 +92,6 @@ will use.  The marble track stays.  Maybe I'll have more stories soon.
 
 <p>Back to packing.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 
 

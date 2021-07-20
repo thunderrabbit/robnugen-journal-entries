@@ -33,5 +33,5 @@ but decided against that...  :-)
 cream at Marble Slab.  Now me and Wende are at my apartment chillin'
 like Bob Dylan.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

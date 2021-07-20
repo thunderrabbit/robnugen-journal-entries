@@ -58,5 +58,5 @@ coin from the future!  I'm so lucky since this is real!
 
 <p>Hungry cats woke me up.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

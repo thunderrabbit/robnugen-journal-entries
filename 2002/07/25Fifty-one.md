@@ -20,4 +20,4 @@ categories:
 <p>Fun stuff!  We didn't follow with rules like "no repeats or
 hesitations" even though those are part of the game.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

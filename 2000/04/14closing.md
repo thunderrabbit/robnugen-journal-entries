@@ -117,5 +117,5 @@ refrigerator and dryer; they should be coming in today.
 
 <p>As I finish this, it's 6:03pm.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

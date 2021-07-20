@@ -13,5 +13,5 @@ the Woodlands Mall with the youth group from Northwoods.  Big rushes
 of adrenaline each time I nodded asleep for a second.  Scary and not
 good leading by example..  I'm going to bed now.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -93,5 +93,5 @@ her position as SWUUSI mugbook person.</p>
 <p>YAC meeting is finished.  We have a focus for talking to the board
 about Power Shuffle, and we have chosen SWUUSI staff.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

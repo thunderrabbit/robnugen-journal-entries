@@ -35,4 +35,4 @@ talkin' to someone about our trip.  Oh it's Dude.  He
 sent Veronica after us cause she was closer than
 he.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

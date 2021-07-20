@@ -24,5 +24,5 @@ type it really quickly!!</p>
 
 <p>Wow.  That was fast.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

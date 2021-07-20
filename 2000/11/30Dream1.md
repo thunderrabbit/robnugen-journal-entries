@@ -28,5 +28,5 @@ like an attic or garage.
 
 <p>(note:  Aunt Mercedes died over a year ago or maybe two.)
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

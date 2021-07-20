@@ -24,5 +24,5 @@ as an exchange student in Brisbane Australia.</p>
 beforehand to pick up some CDs that I reviewed.  I swilled them.
 ("swill" is our term for "reject because the CD sucks.")</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

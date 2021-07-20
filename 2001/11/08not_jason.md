@@ -36,4 +36,4 @@ Marcos..............</p>
 <p>Kathy is Jason's mom.  Good thing she's cool. 
 hahahahaaa.  Whhhewwww!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

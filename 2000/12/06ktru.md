@@ -29,5 +29,5 @@ tomorrow in the morning.
 <p>If the tally is YES, I hope that the station will go back on
 without unreasonable delay.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -44,4 +44,4 @@ for their house.</p>
 
 <p>Plane is here.  people getting off.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

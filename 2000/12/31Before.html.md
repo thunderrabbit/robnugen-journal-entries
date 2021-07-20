@@ -27,5 +27,5 @@ youth group and play all day today.  Yay!!!</p>
 <p>Oh, and I have to buy batteries for my Handspring Visor and take it
 to work to get re-synched.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

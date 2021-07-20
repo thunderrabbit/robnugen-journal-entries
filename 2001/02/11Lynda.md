@@ -29,4 +29,4 @@ documenting the exact state of the project so I can
 explain it to Kevin this afternoon, and explain it to
 myself when I get back into town.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -31,5 +31,5 @@ forgetting it.  Mostly sad.</p>
 <p>I don't even know who they were from.  Thank you all for the
 blessings.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -22,5 +22,5 @@ home.  My feet are just a tad tender now.  (I play barefoot)
 
 <p>Have a great night!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

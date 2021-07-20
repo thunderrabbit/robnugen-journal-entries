@@ -40,5 +40,5 @@ activity that will take only six minutes.</p>
 
 <p>Thank you, Sarah, for sharing your fresh concept of time.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

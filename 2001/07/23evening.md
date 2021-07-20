@@ -65,4 +65,4 @@ for someone else of the equally wrong gender.</p>
 <p>just finished roving; my & Pat's specific
 responsibilities for the week are over.  Goodnight</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

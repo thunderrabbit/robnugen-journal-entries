@@ -36,4 +36,4 @@ me into the building.</p>
 the checker wasn't able to get to the machines.  It's a problem with
 the checker, not the machines.  Bedtime now.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

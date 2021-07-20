@@ -82,4 +82,4 @@ in their now.</p>
 <p>I'm really thankful to Maggie for holding so much of my stuff.
 She, by far, has the greatest volume of my stuff archived.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

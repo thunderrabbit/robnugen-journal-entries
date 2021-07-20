@@ -21,4 +21,4 @@ wetter.  Oh so great to have a bike!!!!</p>
 site, and then convert to G3 the project of my
 favorite client-contact, Kristin.  She is great!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

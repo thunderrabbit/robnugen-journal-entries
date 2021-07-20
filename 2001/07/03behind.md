@@ -44,4 +44,4 @@ this weekend that I'll put on here soonishly.</p>
 
 <p>Have a great 4th!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -40,4 +40,4 @@ instead.</p>
 
 <p>Team is showing lots of love.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

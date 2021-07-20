@@ -17,5 +17,5 @@ library, compiled the shit and got it online.</p>
 
 <p>(*) I wrote it a long time ago.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

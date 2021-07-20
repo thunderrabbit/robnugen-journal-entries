@@ -19,4 +19,4 @@ out tomorrow (! yikes !)</p>
 livejournal, I'm choosing to not disclose each detail
 of my life.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -18,5 +18,5 @@ it while we are at it.</p>
 March.  She said she'll keep that in mind, so we can hopefully close
 by February.  Whoohoo!!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

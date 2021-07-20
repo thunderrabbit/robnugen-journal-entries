@@ -17,5 +17,5 @@ Fiction</em> is still number one.
 glow-in-the-dark bocce balls.  Yay!  If I'm not too exhausted, I'll
 write about it when I get back.  
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

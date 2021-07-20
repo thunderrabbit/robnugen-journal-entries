@@ -24,5 +24,5 @@ individual seemed to be enthusiastic about it.
 
 <p>Right after the movie ended around 3, I had to split for KTRU DJ meeting.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

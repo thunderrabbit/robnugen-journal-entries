@@ -53,4 +53,4 @@ and was about to leap for safety to the ground.  It
 would have been Que Mess Salad.  I'm glad I didn't
 lose my lunch.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

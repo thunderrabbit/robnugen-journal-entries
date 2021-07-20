@@ -25,4 +25,4 @@ old combinations, either 5-18-5, or 5-30-8.  I found
 the locker and it was already open.  I looked for my
 books in there as I woke up.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

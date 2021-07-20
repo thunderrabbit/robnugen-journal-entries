@@ -29,5 +29,5 @@ before anyone comes over.  We're getting better.
 
 <p>I'm hooked up with DSL! Wheee!!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

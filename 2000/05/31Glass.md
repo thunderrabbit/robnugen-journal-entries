@@ -36,5 +36,5 @@ any key."  I pressed any key and the machine powered down.
 
 <p>I'm going to work now.  See ya!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

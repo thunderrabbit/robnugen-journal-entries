@@ -45,5 +45,5 @@ Yes.  It's <a
 href="/cgi-local/journal.cgi?dir=2000/09&file=27Skate.html">here</a>.
 Anyway, I haven't emailed him since then, but I will now.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

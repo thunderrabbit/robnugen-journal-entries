@@ -27,4 +27,4 @@ hahahah!</p>
 
 <p>Now we're watching Skeleton competition on TV.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

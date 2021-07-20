@@ -21,5 +21,5 @@ felt her pregnant tummy.  (Not Wende's)  She's due in January.
 
 <p>Bedtime now.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

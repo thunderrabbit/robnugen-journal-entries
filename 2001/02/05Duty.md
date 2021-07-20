@@ -21,4 +21,4 @@ and I leave for Australia!</p>
 pretty cool and is just a glimpse of wireless
 technology creeping into my life.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

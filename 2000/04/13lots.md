@@ -29,5 +29,5 @@ date: 2000-04-13
 
 <p>Tomorrow we close on our house!!  WOW!!  I'll work in the morning and then be at closing at noon.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

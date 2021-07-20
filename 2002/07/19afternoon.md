@@ -59,4 +59,4 @@ image manipulator for OS X.</p>
 
 <p>Heehee; I'm sleeping in Gene's old room.  :-)</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

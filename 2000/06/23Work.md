@@ -37,5 +37,5 @@ apparently hilarious after one has had very little sleep, or a couple
 of alcoholic beverages.  I can see that it *would* be funny, but right
 now it just seems kinda silly.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

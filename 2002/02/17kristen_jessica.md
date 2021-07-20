@@ -22,5 +22,5 @@ care.  whatever.</p>
 NIN new album and Tori Amos some, and talked about back when Kristen
 and I first met.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

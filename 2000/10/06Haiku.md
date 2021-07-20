@@ -57,5 +57,5 @@ Thanks!
 
 <p>Top *<em>that</em>* for customer service!
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

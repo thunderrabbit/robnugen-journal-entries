@@ -36,5 +36,5 @@ jumped Scott's battery.  A simple task for the big engine in Butch.
 <p>I discovered that my radio presets had been lost with no power, so
 I reset those on the way home.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

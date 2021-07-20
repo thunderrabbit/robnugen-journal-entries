@@ -24,5 +24,5 @@ href="https://www.usexperiment.org">usexperiment.org</a>!!</p>
 <p>Tonight at ASL I will perform "on top of spaghetti" which I
 practiced at Fort Worth with Bryn and Phat Pat!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

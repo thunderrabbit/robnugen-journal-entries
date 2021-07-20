@@ -23,4 +23,4 @@ prepare for next month's meeting.</p>
 <p>I just want to get that out of the way before I
 leave tomorrow!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

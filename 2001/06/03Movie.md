@@ -25,4 +25,4 @@ and just need to do it, but maybe not.</p>
 bike to Wende's work, go to dinner with her. 
 Bye!!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

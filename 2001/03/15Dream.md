@@ -92,5 +92,5 @@ were times however, that the train would be accelerating while we were
 on it, and it got scarier and scarier to jump off, and more scary the
 longer we waited to get the nerve to jump off!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -24,4 +24,4 @@ it easier on the end users who will see it)</p>
 <p>We've got people poring through these spreadsheets
 to find differences.  this sucks shit.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -32,5 +32,5 @@ work; the adults just offer support where needed.</p>
 
 <p>Super great!!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

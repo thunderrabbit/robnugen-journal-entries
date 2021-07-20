@@ -15,5 +15,5 @@ date: 2000-07-18
 
 <p>I led the 2-car caravan, and they were definitely impressed with our homestead. Pet the cats, talked about nothin' and toured the place.  Then back to work and I'll drive up to 1960 to visit Bill and Evelyn with whom they are staying tonight.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

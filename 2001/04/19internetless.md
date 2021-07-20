@@ -25,4 +25,4 @@ cable at our house now.</p>
 possibility of us losing access at home because of
 Northpoint's bankruptcy.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

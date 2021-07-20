@@ -28,5 +28,5 @@ hippity tippity tap dance walk on the concrete, which made a nice
 rhythmic clicky sound.
 
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

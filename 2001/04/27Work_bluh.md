@@ -43,7 +43,7 @@ him.  We both pretty much don't give a shit about the
 game, but it will be totally fun just to play around
 with Jason.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 
 <p>Here's the message I referred to:</p>
 

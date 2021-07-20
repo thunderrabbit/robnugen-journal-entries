@@ -23,4 +23,4 @@ imagine I'll just give the rest out to peeps if they
 come to the April meeting.  I'll write an email to say
 "come and get it!!"</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

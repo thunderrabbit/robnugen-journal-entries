@@ -71,4 +71,4 @@ the stacks for a good CD.
 <p>I found A CD by Asphodel (that is a record label name actually) and
 slammed the song on top of the current Madonna song that was playing.</em>
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>

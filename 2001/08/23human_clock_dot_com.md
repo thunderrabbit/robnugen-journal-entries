@@ -26,4 +26,4 @@ timeslots</a>!!!</p>
 <p>Extra super duper props to the one who thought of
 and created this site.  Great job!!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

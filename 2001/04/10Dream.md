@@ -36,5 +36,5 @@ to the pickup truck.  One of our group had decided to just stay there
 and drink and smoke; he's not someone that I recognize.  We drove back
 to the lodge and I woke up.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

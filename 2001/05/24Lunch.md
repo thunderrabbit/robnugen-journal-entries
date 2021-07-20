@@ -41,4 +41,4 @@ see how quickly I can get it going again.</p>
 <p>Until then, I will continue working on the G3
 Administration website.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

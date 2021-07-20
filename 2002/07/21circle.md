@@ -37,4 +37,4 @@ swim over there and bug those people?"</p>
 (near my laptop no less) "Rob are you recording this?"  "I am
 now."</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

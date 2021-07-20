@@ -45,5 +45,5 @@ no other comments about it then I forgot.</p>
 <p>Okay, I did it.  There is a note in the bathroom behind the halfmoon over
 the towel shelves.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

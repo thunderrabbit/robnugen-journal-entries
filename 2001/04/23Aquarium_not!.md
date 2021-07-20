@@ -62,5 +62,5 @@ lot easier on them when I break up with them after a while.  Wende knows
 that though I have these temporary crushes, she is my one and only sweet
 precious angel.</p>
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

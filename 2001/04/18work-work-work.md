@@ -18,4 +18,4 @@ that there are too many "intro" pages on the site.  I
 would definitely agree; I was young when I wrote that
 part of the site.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

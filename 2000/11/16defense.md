@@ -45,5 +45,5 @@ while driving.  One of the guys interviewed said that after he
 adjusted his thinking / emotions, driving was a much more pleasant
 experience for him.  Maybe I'll do that.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -35,5 +35,5 @@ school at which he had been gazing and reminiscing.  Nice.</p>
 
 <p>So thankful to have the karmic burden lifted from my mind.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

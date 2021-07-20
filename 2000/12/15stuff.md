@@ -35,5 +35,5 @@ already his.  Hahaha!</p>
 
 <p>Wende just arrived and I'm done!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

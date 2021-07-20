@@ -146,5 +146,5 @@ to me tomorrow.</p>
 home after such a great weekend!!!</p>
 
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

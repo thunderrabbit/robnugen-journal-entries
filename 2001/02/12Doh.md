@@ -28,5 +28,5 @@ finding correct flights.  And it was quite user friendly.</p>
 <p>I'm pretty much going to bed now.  It's currently 7:40 pm tomorrow
 in Melbourne.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

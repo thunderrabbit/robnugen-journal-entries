@@ -35,5 +35,5 @@ various combinations for a lovely snack.</p>
 
 <p>They spent the night; I went home around 1am.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

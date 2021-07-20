@@ -19,5 +19,5 @@ check for $104.</p>
 <p>I'm going to bed.  OKC tomorrow!  Today!!!!!!  We will be in
 Oklahoma City within 24 hours!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

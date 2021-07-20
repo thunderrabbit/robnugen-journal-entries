@@ -17,4 +17,4 @@ memorize.  Like Lauren Olson."</p>
 
 <p>HAhahahahaahahahaah "Um, yeah.  Joana Olson."</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

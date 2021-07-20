@@ -43,4 +43,4 @@ entry.</p>
 <p>I'm going to go blabber a bit more on air and then
 go back to WRN (boo hoo).</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

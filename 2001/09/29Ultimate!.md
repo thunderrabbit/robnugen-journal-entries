@@ -43,4 +43,4 @@ href="https://www.thewealthsource.com/index_2.html">Kim
 Sawyer</a>, my personal coach.  He gave me a lot to
 think about.</p>
 
-<img src="/images/rob/wL-ROB.gif"/></p>
+<img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

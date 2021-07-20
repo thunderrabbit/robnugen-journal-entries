@@ -32,5 +32,5 @@ pretends to be nice to Bad Guys, but actually wants something she left
 behind.  Movie audience doesn't know what it is, but wants her to
 retrieve it.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

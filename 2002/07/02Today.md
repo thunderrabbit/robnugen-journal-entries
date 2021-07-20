@@ -38,4 +38,4 @@ glasses adjusted and give them an update (and my card).</p>
 out for probably a year or so.  I feel sad about leaving KTRU.  All
 part of the process.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

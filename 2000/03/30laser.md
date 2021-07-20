@@ -74,5 +74,5 @@ her eyelids back) during the procedure or after.  By the time I had driven
 her back home, she said her vision was already clearing up.  It was 
 described as in focus, but like through a dirty windshield.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

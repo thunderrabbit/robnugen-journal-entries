@@ -77,4 +77,4 @@ freon.  Once it was attached correctly, presto, no more blockage.</p>
 
 <p>Now, after four years in Houston, Scott's AC works.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

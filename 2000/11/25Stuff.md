@@ -154,5 +154,5 @@ so tired, yet determined to get it all to work.  Visited ati.com, got
 the driver for the monitor, visited netscape.com and downloaded
 Netscape 4.7 and it all works perfectly.  I am thankful.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -20,4 +20,4 @@ guide.</p>
 (<em>hours</em>, wearing their dresses and suits) of
 having pictures taken around the city.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

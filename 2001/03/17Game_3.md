@@ -207,5 +207,5 @@ and Ollie almost got the D.  but they got the point.  They won 13 to 10.</p>
 <p>Fuck the cheer we'll buy you a beer, we gotta go"  was their cheer to
 us.</p>
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

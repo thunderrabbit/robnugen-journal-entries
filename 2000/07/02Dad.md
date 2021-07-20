@@ -39,4 +39,4 @@ go home so I could do KTRU.
 
 <p>Yay DAD!!!!!!!!
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">

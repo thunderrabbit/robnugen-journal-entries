@@ -36,5 +36,5 @@ dinner, but to take to work.</p>
 <p>Kristen just left to go work.  She works as a cashier in a club
 near downtown.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

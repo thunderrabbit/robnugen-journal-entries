@@ -66,5 +66,5 @@ car)) that I had found and leaned it gently against the wall.  Said HI
 to my mom, who I didn't mean to keep waiting for so long and before
 she could say anything I woke up.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

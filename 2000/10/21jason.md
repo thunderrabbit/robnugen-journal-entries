@@ -75,5 +75,5 @@ will recover once it dries.
 
 <p>See ya later to Jason and I went home.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

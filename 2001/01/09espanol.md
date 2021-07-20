@@ -55,5 +55,5 @@ will work out.</p>
 <p>After class, Wende and I visited Mission Burrito for dinner.  So
 yummy!!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

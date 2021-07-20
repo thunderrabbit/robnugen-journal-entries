@@ -29,5 +29,5 @@ date: 2000-07-12
 
 <p>I've gotten a lot faster at recognizing when I'm dreaming when the question pops into my head, but lately the question hasn't come to my mind.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

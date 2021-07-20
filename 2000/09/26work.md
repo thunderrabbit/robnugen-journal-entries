@@ -23,5 +23,5 @@ these blank sheets.  They're great for drawing!
 because he hadn't been fed yet.  I fed the cats and cleaned up his
 spew and now I'm going to skate.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

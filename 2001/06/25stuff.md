@@ -44,5 +44,5 @@ we don't have to drive in traffic there tomorrow.</p>
 
 <p>We're back.  Good night!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -17,5 +17,5 @@ This was a great investment for us to make.   Yippie!!!
 
 <p>Right now it's 12:13am on, um, Friday 7 July now.  I'm going to leave this set up next to the bed so I can capture my dreams even more effectively!
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

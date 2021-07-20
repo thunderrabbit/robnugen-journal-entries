@@ -34,5 +34,5 @@ a secure hold on the disc.  1/2 point each was declared.</p>
 <p>Victorious enough for me.. and I winced off the field to remove
 stickers and go home.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -49,4 +49,4 @@ during the movie.</p>
 <p>"Yeah, you can chisel it off your heart. ... if you can find
 it."</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

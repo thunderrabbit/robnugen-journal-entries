@@ -59,7 +59,7 @@ my head, thank-her-very-much.)</p>
 
 <p>Something else happened I'm sure, but I dunno what.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 
 
 

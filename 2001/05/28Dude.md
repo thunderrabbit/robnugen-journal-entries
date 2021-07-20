@@ -53,4 +53,4 @@ about a 50%.  Good special effects though.</p>
 and Sally just called and will come over in a bit so
 we can go munch at La Jaliscience!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

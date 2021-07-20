@@ -35,4 +35,4 @@ a poster for Homecoming in 1994.</p>
 <p>Oh, the computer on which I'm composing this entry
 is down by the Cougar Den.  It's new.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

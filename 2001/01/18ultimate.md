@@ -52,5 +52,5 @@ describe how marked told us his last 6 gambling trips worth of
 wins/losses.</p>
 
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

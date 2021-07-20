@@ -16,5 +16,5 @@ really begins today.
 <p>I took a bunch of notes on my Visor, and hope to get them online
 today as well.  If I don't, know that I am crazy busy at work.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -62,5 +62,5 @@ Actually, this is where the chasing started.  I was running away from
 this and then being chased by the different characters, and that's
 when it became lucid.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

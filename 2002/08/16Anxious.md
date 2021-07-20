@@ -37,4 +37,4 @@ the lava.  Excellent.</p>
 with blackberry, Hart got blackberry, Sean got grape.  Thanks to Sean
 for paying and to Hart for driving.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

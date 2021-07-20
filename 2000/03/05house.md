@@ -34,5 +34,5 @@ for the game.
 <p>We were all pretty sleepy by the time the game ended.  The girls went 
 home and me and Wende crashed.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

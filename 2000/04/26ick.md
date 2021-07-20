@@ -77,5 +77,5 @@ date: 2000-04-26
 
 <p>Today I wrote a sas program that allows people to change the relationship of people who are rating them, and it takes into consideration if their lists are full or not, etc.  I can write programs.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

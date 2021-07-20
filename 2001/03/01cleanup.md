@@ -34,4 +34,4 @@ host (organizational health and 360 feedback).</p>
 parts of these projects into even more generic slicker
 cooler things.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

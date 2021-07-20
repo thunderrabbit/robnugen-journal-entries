@@ -17,5 +17,5 @@ have been quite responsive with my queries.</p>
 
 <p>Going to lunch with Kristen now.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

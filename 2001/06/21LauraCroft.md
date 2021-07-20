@@ -21,5 +21,5 @@ Such intensity.</p>
 <p>We stayed for the closing credits, but there were no hidden scenes
 or outtakes, or anything interesting.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

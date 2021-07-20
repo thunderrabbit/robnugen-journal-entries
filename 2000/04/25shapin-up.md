@@ -30,5 +30,5 @@ Wende will certainly be anti-pleased with that.  (Leaving 20 holes in
 the first wall.)  I'll quote John to help her concerns, "sheetrock is
 stupid-easy to patch."
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

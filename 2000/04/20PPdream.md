@@ -39,5 +39,5 @@ official, and I was asked to learn a new signature to fit my new
 identity.  I practiced forging my 'new' signature and did a pretty
 crappy job at it.  Then I woke up.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

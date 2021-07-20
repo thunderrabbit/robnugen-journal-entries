@@ -13,5 +13,5 @@ date: 2000-07-03
 
 <p>It's fun to listen to KTRU at work!
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

@@ -48,5 +48,5 @@ I got vanilla oatmeal raisin ice cream and plain M&Ms.  Very nice.
 
 <p>And some lovely microwave designed plastic bowls that vent automagically.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

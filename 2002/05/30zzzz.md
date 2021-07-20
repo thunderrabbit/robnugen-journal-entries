@@ -74,5 +74,5 @@ if I can get it all done tonight.  Mayyyybe.</p>
 <p>Also tonight I've been in touch with Steve Feinstein, Rick Bibby, Gail
 Lindsay, my mom, try to coordinate our plans for this weekend.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

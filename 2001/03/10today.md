@@ -37,5 +37,5 @@ kinks out and then adjusted it with her laying on the floor.</p>
 we will need to delve into that skillset at my work soon.  I may
 replace my Handspring Visor with a wireless version.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

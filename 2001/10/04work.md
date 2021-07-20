@@ -25,4 +25,4 @@ here</a> to say HI to SmarterChild now.</p>
 found this entry unfinished when I came in the next
 morning)</p>
 
-<img src="/images/rob/wL-ROB.gif"/></p>
+<img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

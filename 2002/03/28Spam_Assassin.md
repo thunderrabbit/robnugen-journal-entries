@@ -20,5 +20,5 @@ muster, it is forwarded to yahoo.com</p>
 <p>If this proves to work well for me, then I'll probably stick with
 Yahoo and not switch to Lycos for email.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

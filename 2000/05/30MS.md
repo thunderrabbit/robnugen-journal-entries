@@ -25,5 +25,5 @@ date: 2000-05-30
 
 <p>Back at my desk, I surfed a bit, looking for more information on keyboards that will work with my new Handspring Visor (copy of Palm III thing).  Two are available:  one that folds up for $99 and a full sized one for $69.  If the folding one seems sturdy and stuff, I think I will choose to get it.  That way I can just carry it and my Visor in my cargo shorts, ready for a journal entry in a moment's notice.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

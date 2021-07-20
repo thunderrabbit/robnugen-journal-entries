@@ -43,5 +43,5 @@ seamlessly rolled into a nice huge ball.  Google for its search engine
 and <em>caching</em> of every webpage it indexes!</p></li>
 </ol>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

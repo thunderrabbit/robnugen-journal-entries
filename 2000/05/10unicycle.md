@@ -32,5 +32,5 @@ bit, and I thanked her for her encouragement!
 <p>Rode around some more until sweat drenched my shirt, making me too
 hot n sticky to wanna ride.  Great job, Rob!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -26,5 +26,5 @@ for skating.</p>
 and perfect for this task.   Good job, brain for recognizing that I had
 these available.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

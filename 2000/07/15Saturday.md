@@ -21,5 +21,5 @@ date: 2000-07-15
 
 <p>Oh, and we got three drawers made and filled with CDs.  Don't have the equipment yet for the other 4.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

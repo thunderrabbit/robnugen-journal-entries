@@ -13,5 +13,5 @@ date: 2000-10-01
 
 <p>eww.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

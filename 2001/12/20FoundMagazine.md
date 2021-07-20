@@ -17,5 +17,5 @@ display, or because it's just getting started.</p>
 <p>I'm going to send a pic of the calculator I found floating in the
 water at Cullen Fountain.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

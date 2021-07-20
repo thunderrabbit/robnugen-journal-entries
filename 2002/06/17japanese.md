@@ -36,5 +36,5 @@ hiragana silently along with them.</p>
 <p>The instructor will call me tonight (I've forgotten her name as well) to
 let me know what first level class I can attend.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

@@ -15,5 +15,5 @@ are great and see what happens.  We're going to Chuy's for dinner.
 be checked by our client.  I will probably come in on Sunday and work on it.
 Wende will be at work; I have no life without her..  Do I?
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

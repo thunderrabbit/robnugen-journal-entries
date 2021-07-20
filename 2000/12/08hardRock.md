@@ -33,5 +33,5 @@ on.  But still...  eewwwwww!</p>
 <p>I'm thankful to have inline skates and all of downtown upon which
 to skate.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

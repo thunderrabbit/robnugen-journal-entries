@@ -39,5 +39,5 @@ Lee-eh so I have a place to stay while I get set up.</p>
 <p>But right now I'm going to go to Walgreens to get envelopes and
 mail registration for Plano rally.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

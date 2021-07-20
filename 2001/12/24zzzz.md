@@ -43,4 +43,4 @@ things to see.</p>
 
 <p class=date>4:20am</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>

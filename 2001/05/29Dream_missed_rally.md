@@ -33,4 +33,4 @@ and then</p>
 <p>I woke up.. so relieved and so thankful it was all
 a dream!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

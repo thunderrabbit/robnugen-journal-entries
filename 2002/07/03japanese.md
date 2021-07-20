@@ -21,4 +21,4 @@ Japanese so we learned that about him.  Awesome!</p>
 
 <p>I told him about my days old counter on my site.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

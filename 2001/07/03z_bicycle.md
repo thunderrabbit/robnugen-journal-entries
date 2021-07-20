@@ -67,5 +67,5 @@ button and go up/down and roll out.  Amazing.  I pushed the button so
 I could ride my bike in the elevator, but it seems to not be plugged
 in.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -17,4 +17,4 @@ things I don't remember taking.  Fun stuff.  It's unlikely that any of
 them will end up being scanned and on my site unless I find something
 just ridiculously amazing.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

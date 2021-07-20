@@ -75,5 +75,5 @@ stays on.  It's sagging a bit, but easily 3 feet off the ground.
 
 <p><a href="/images/peeps/Dude/dude-couch.jpg"><img src="/images/peeps/Dude/thumbs/dude-couch.jpg"></a>
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

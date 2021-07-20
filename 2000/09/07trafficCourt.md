@@ -172,5 +172,5 @@ it."
 <p>She explained which document to send to Austin to request my driving
 record and which to give to the cashier downstairs.  Wow.  Bye.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

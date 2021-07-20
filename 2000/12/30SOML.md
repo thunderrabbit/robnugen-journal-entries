@@ -191,5 +191,5 @@ time.</p></li>
 is where I accidentally stopped it last time.</p></li>
 </ol>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

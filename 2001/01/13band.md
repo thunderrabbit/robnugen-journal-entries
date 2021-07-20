@@ -180,5 +180,5 @@ enough time for two games, and this is his last rally.  So he will be
 dictator until someone reaches 3 points and then I will be
 dictator.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

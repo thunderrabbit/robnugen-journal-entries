@@ -18,5 +18,5 @@ promises on when that may or may not happen.</p>
 <p>They are in chronological order, though, so that may help you sift
 through them.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -76,4 +76,4 @@ for a second and psych myself up to actually work on
 my project.  Right after I check my email again for
 the fiftieth time today.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

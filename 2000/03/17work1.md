@@ -30,5 +30,5 @@ date: 2000-03-17
 
 <p>Doh!  Well I finished typing it all in, but it just crashes the server.  I'm outta here for play-party tonight!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

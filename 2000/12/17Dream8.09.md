@@ -34,5 +34,5 @@ driver as I had just done.</p>
 about people wanting to gohang out somewhere else.. I don't remember
 exactly.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -46,4 +46,4 @@ pick me up there on her way to my dad's house.</p>
 <p>I just called Maggie; that is the most likely plan.
  Yay!!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

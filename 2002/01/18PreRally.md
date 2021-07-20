@@ -48,5 +48,5 @@ on correct posture and placement of keyboard and mouse.  But the point
 of this is that I took a pic of my mouse setup and sent it to her via
 email. I love my camera!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

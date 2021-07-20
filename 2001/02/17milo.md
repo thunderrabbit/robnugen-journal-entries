@@ -23,4 +23,4 @@ cricket, the most boring game.</p>
 me and we are watching a pirated copy of Charlie's
 Angels on DVD.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

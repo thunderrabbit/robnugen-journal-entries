@@ -32,5 +32,5 @@ jumped in feet first.  Each time she was wearing a big long pleated
 skirt and stretchy fabric top.  Each time before she jumped into the
 lake, the skirt and top were dry.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

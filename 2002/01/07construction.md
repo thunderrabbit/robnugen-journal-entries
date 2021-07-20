@@ -42,5 +42,5 @@ had to."</p>
 
 <p>He seemed to understand.  :-)</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -45,5 +45,5 @@ mountain biking.  Doyle had an impressive accident and had been in ICU
 for 2 days.  He's getting much better, but is still in the hospital.
 His story sounds quite similar to my skating accident in <a href="/skate/skate06.html">1994</a>.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

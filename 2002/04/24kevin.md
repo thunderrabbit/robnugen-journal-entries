@@ -42,5 +42,5 @@ not changing its actual value):</p>
 variable name it resolves to.  Then the xxxx is appended to that value
 at the moment of the substring comparison.  Perfect.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

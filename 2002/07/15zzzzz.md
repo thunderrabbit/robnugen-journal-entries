@@ -28,4 +28,4 @@ they gave me big blessings and love.  Chris from I-group took me and
 Robin out to dinner.  Picked up Fred and hung out at Dude's.  Now home
 and going to bed.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

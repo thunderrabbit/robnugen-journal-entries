@@ -46,5 +46,5 @@ should be in around 14 December.  Yay!!!</p>
 <p>Wende has just arrived at home; we are about to go meet peeps from
 our investment club for our holiday gift exchange party.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -36,4 +36,4 @@ don't remember.  Wow.</p>
 
 <p>The past hour+ has been pretty good/smooth.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

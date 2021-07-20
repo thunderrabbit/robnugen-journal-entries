@@ -29,5 +29,5 @@ up with a big description below the image!
 
 <p>yay!  And goodnight.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

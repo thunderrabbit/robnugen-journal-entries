@@ -40,5 +40,5 @@ having a two-liter of ginger ale be poured over him.</p>
 <p class=dream>I woke up while looking for a towel to prevent any
 mess.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

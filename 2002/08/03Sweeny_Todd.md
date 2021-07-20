@@ -13,4 +13,4 @@ that one guy could write that whole performance.</p>
 
 <p>At Kinko's now, working on my journal index.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

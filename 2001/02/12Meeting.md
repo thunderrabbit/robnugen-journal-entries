@@ -17,5 +17,5 @@ some entries online that I wrote last night!</p>
 
 <p>Bye, work!  Have fun without me!</p>
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

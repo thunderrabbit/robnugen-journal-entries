@@ -19,5 +19,5 @@ date: 2000-07-12
 
 <p>Now I'm going to go see <em><b>Scary Movie</b></em> with Sara!  (Wende doesn't want to see it)
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

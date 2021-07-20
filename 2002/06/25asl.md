@@ -50,4 +50,4 @@ me a lot.  I thanked them for allowing me to speak un-interrupted.</p>
 <p>My phone interrupted us twice though.  Maggie and Marta each called
 me.  I called Maggie back, but I haven't called Marta back yet.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

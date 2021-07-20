@@ -48,5 +48,5 @@ is dumb.</p>
 <p>Oh my gosh.  My CD player has been on pause since.... Friday a week
 ago.  Technology is pretty amazingly patient.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

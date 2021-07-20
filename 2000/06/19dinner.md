@@ -61,5 +61,5 @@ drove Wende and myself back home.
 
 <p>I had an astonishing headache and slept for 10 hours.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

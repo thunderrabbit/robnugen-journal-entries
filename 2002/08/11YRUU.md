@@ -23,4 +23,4 @@ that end with a vowel, and "maybe" for questions that end in 'h' or
 'y').  Super excellent time had by all, especially the group
 tormenting Simon and Mike with the story game.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

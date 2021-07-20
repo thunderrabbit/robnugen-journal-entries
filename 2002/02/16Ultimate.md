@@ -22,5 +22,5 @@ stuff.</p>
 the recent valentine's holiday) and our team was team C when the
 roster was developed.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

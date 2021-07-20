@@ -26,5 +26,5 @@ spin, distance, speed, and creativity of the dance. Our team would
 totally get 10's across the board. Except from the judge from
 France.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

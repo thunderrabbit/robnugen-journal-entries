@@ -45,5 +45,5 @@ programming soon!  Yippee!!
 <p>Today I joined Wende in picking up her Aggie Ring.  She was so
 excited!!!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -21,5 +21,5 @@ energy around presenting rings to her (I'm back in my fears about it,
 which is tossing excuses in my brain), but the vision was so vivid
 last Monday that I'm still going to do it.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

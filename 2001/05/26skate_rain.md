@@ -76,4 +76,4 @@ quickly filled the box!</p>
 livejournal.com servers; I think I will be able to
 'merge' my journal here with my journal there.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -70,5 +70,5 @@ slow down again; I've not found the happy medium yet."
 up.  Doh!  If he doesn't get fed on schedule, he hurls.  Basically his
 life revolves around eating. 
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -38,5 +38,5 @@ than I might have otherwise.
 
 <p>In all, a lovely night.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

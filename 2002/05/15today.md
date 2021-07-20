@@ -23,5 +23,5 @@ we email out to people the parameters it is using.</p>
 
 <p>I was glad to go home after that.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

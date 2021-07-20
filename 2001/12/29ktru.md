@@ -26,4 +26,4 @@ at 6:55pm.</p>
 Saints).  It's halftime now and they are ahead by 17,
 39 to 22.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

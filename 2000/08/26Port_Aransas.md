@@ -239,5 +239,5 @@ stay awake all the way into Houston.
 
 <p>What a great trip!!
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

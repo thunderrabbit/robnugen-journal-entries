@@ -18,5 +18,5 @@ ending in "00" except if divisible by 400 ...</pre>
 
 I think it's pretty cool!  
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

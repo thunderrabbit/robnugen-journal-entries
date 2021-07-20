@@ -23,5 +23,5 @@ if I practice more frequently.  I considered going to see Wende at
 work (and hope she hadn't left by the time I arrived), but I decided I
 was too tired.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

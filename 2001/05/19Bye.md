@@ -33,4 +33,4 @@ breakfast for Scott and I'm heading home now.</p>
 <p>I'm so thankful for such a wonderful incredibly
 great time meeting Kiera!!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

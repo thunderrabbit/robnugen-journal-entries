@@ -17,5 +17,5 @@ connectivity from the house.
 but I have a couple of journal entries saved on my computer here that
 I wanted to FTP up to my site.  Including this one now.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

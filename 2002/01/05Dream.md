@@ -18,5 +18,5 @@ work.</p>
 
 <p>I was extremely glad to wake up from this dream.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

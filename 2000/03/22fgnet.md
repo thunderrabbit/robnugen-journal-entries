@@ -10,5 +10,5 @@ date: 2000-03-22
 
 <p>Instead of going to KTRU early, I just sent out the <a href="https://fgnet.listbot.com">Feel Good Net!!</a>, a message I send out about once per week.  Now I'm zipping off to KTRU!!  Listen on <a href="https://www.ktru.org">the web</a> every Wednesday 9-11am CST!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

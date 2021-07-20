@@ -125,4 +125,4 @@ href="https://www.comics.com">comics.com</a>, and signing up for the <a
 href="https://www.TheHarrowGroup.com/">Harrow Technology
 Report</a>. </p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

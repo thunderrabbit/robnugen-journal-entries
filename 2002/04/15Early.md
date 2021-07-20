@@ -33,5 +33,5 @@ momentum going, it seems.  Got my taxes turned in as well.</p>
 
 <p>Going to Wende's for dinner tonight.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

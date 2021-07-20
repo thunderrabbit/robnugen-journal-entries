@@ -89,4 +89,4 @@ it right on the first try. (and by first try, I mean
 second try, because it obviously didn't work the first
 time I wrote it a few days ago)</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

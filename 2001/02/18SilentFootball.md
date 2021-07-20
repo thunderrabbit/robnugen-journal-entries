@@ -56,4 +56,4 @@ how a mole is defined.  (It's the number of hydrogen
 atoms there are in one gram of hydrogen (6.023 *
 10^23))</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

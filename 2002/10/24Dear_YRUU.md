@@ -76,5 +76,9 @@ beyond.  My email address will be good for a long long time.</p>
 
 <p><a href="mailto:rob@robnugen.com">rob@robnugen.com</a></p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p class=date>4:14pm JST Tuesday 20 July 2021</p>
+
+<p>I just came across this and still stand by all the above!</p>
+
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

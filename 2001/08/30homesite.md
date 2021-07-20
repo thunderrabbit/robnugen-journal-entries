@@ -36,4 +36,4 @@ date: 2001-08-30
 
 <p>Okay, I'm going to bed.  Tulsa Rally tomorrow!!!  I've got to pack!</p>
 
-<p><img src="/images/rob/wL-ROB.gif" alt="With Love, ROB!"></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif" alt="With Love, ROB!"></p>

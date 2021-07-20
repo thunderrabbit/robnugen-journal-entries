@@ -46,5 +46,5 @@ really hope they got to play and didn't miss me.</p>
 
 <p>I forgot all about it as we hosted the party.  DOH!!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

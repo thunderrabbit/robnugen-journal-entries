@@ -35,4 +35,4 @@ vertical file cabinet are all for sale; I'll post a note in the
 laundry room.  I think I'll have an open apartment garage sale on July
 13th.  Books are for sale $1.00/lb.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

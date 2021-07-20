@@ -40,5 +40,5 @@ said he'd be alright.  I hope so.</p>
 <br>
 <p>How can people be so angry at each other?</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

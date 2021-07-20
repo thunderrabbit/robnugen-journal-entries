@@ -40,5 +40,5 @@ about the anti-racism training I attended at Youth Council.
 totally fell asleep twice.  She had a CD of rhythmic drumming and chanting
 in the background.  I was zonked.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

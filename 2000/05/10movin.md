@@ -13,5 +13,5 @@ date: 2000-05-10
 
 <p>I'm a tad tired after last night but not ridiculously so.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

@@ -28,7 +28,7 @@ time for these gusy ( Jack, Chez, Jo, Sean)
 <p>Sean and I have been up talking about random stuff.  Chezly fell
 asleep on the table along side us.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 
 
 

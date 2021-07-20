@@ -24,5 +24,5 @@ Burritos.</p>
 <p>Jennifer and Bob (our next door neighbors)'s friend Mario came to
 look at our house twice today.  I'm glad that he likes it.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

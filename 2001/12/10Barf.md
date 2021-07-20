@@ -24,5 +24,5 @@ able to get mostly good stuff done today.</p>
 
 <p>Now I'm going to I-group.  </p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

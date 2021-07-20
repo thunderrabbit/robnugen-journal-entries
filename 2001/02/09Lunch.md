@@ -21,4 +21,4 @@ and over and over.</p>
 my tummy helped with that.  I may take a nap for a bit
 and then write some more code.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

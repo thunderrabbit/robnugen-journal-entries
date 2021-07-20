@@ -18,5 +18,5 @@ shells just inside the glass window behind which she sat.
 
 <p>I stuck my hand under the window to harass the shells a little.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

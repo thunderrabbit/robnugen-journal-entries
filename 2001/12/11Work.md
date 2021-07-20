@@ -26,5 +26,5 @@ therefore be a good time to begin building my new life.</p>
 
 <p>True.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

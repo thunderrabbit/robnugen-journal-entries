@@ -32,5 +32,5 @@ get thermal underoos!</p>
 <p>Oh shit I just realized that I was asked to give another quote on a
 survey, but I didn't do it yet.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

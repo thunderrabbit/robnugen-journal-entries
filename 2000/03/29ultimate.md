@@ -71,5 +71,5 @@ bat"))
 <p>As I went to sleep that evening, I knew I would have some sort of
 dream about fighting.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

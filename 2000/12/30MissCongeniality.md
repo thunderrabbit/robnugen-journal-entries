@@ -13,5 +13,5 @@ wonder how accurately it portrayed behind the scenes of a pageant...
 Some of the funny was silly funny.  All of it tied together neatly
 into one little movie.  All good stuff.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

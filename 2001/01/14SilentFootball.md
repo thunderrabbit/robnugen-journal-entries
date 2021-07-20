@@ -64,5 +64,5 @@ and suggested the punishment be Reverand It Them She exorcising The
 Devil out of Mister Smoochy during closing circle.  I don't know if
 that actually happened, but the game was great.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

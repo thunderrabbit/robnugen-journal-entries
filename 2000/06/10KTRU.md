@@ -21,5 +21,5 @@ date: 2000-06-10
 
 <p>"Sorry!  I was in the garage... I tried to be quiet, but I knocked something over."
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

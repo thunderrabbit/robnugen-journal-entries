@@ -33,5 +33,5 @@ Simpsons and Malcom in the Middle with Wende.
 
 <p>Yay!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

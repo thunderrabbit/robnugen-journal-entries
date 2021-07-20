@@ -37,5 +37,5 @@ for the picture and then back home.  I only had one frame left on the
 roll of film.  The flash went off; I have no idea how it will turn
 out.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

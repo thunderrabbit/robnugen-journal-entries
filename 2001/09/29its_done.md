@@ -27,4 +27,4 @@ here alone or if Wende lives here alone.  If we both
 live here, something may have to be done about the
 cats living in my room with me.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

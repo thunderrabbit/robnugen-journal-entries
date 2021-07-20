@@ -20,4 +20,4 @@ conversation and could have stayed up much later.</p>
 waterbed back at Nick and Irene's house.  This will be
 our room during this trip.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

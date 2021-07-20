@@ -15,5 +15,5 @@ the film.  There were some funny scenes set up, but nothing amazing.
 
 <p>"That," Wende proclaimed at the end of the movie, "was an art film."
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -43,5 +43,5 @@ of the game.  He made some good cuts and got the disc a lot.
 <p>Next weekend is the finals in the tournament.  Schedule and
 location will be announced on Wednesday.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -14,4 +14,4 @@ the wall, so we ran out of sheetrock anchors.  But we got most of the
 shelving up that we wanted to do.  Soon she'll be able to park inside
 the garage instead of on the driveway!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>

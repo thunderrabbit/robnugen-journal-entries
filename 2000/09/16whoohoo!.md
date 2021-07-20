@@ -49,5 +49,5 @@ Wende to wear <em>jeans</em>.  She says I look cute in them, but I'm
 all, "uggh so squished."  I love my loose cargo shorts.  Dassalright;
 I'm looking forward to dinner with our friends.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

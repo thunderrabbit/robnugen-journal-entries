@@ -42,5 +42,5 @@ my KTRU shift; I don't know for sure if I have a sub.
 
 <p>Wende is helping my dad carry a small table downstairs.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

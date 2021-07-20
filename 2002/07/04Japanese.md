@@ -18,4 +18,4 @@ paste them to emacs, it killed the emacs process.</p>
 <p>hmmm.</p>
 
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

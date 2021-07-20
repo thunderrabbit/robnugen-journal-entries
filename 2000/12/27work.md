@@ -33,5 +33,5 @@ days?</p>
 
 <p>I sure hope not.  I just don't know.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

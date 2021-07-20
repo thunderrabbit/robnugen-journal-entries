@@ -31,5 +31,5 @@ then Meg said it was too much for her head at 4am.  Then Katherine
 spoke in Pig Latin, but she was accidentally doing Pig Latin on words
 in German.  Very funny.  We were very tired.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

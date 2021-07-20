@@ -23,4 +23,4 @@ in some way.</p>
 
 <p>Thank you, Emilio, for interviewing me.  It was a great pleasure.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

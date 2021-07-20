@@ -27,5 +27,5 @@ make SAS do it for me.</p>
 
 <p>But it's done now.  I can focus for a moment on my other tasks.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -17,5 +17,5 @@ close by, including telnet, ftp, emacs functionality.</p>
 club.  Also tonight Rick from my apartments expressed interest in the
 club.  Wow; cool!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

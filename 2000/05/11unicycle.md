@@ -27,5 +27,5 @@ the house again, but find myself just tired (pun intended).
 pedal grinding across my leg when I fell.  Now I have a curved cut on
 the back of my right calf.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

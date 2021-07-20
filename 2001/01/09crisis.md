@@ -15,5 +15,5 @@ drive space, but could otherwise handle the load.  Now each request
 that comes in will copy the report from Kevin's machine to the other
 machine and they cansee the report.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

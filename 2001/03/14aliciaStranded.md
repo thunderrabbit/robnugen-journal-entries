@@ -39,4 +39,4 @@ didn't leave a pay phone number or anything.  I expect
 she'll be fine.  If something else happens, I'll write
 about it!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

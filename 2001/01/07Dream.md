@@ -102,5 +102,5 @@ she shouldn't steal even small things.</p>
 
 <p>and I woke up.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

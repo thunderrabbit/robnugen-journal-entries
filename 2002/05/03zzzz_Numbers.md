@@ -38,4 +38,4 @@ gave him a hug.</li></ol></p>
 
 <p>1:30 am now.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

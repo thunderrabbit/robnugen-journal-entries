@@ -31,5 +31,5 @@ coordinating a trip to Europe this summer!  It shall include youth if
 it happens (and if any choose to go with us).  Should be tons of
 fun!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

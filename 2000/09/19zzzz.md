@@ -68,5 +68,5 @@ what he and I did with MR Laboratories.
 
 <p>It's 23:52 now.  I'm going to bed.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

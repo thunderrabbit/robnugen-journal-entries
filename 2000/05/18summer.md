@@ -31,5 +31,5 @@ The deck was right there.
 
 <p>Too perfect to be coincidence; it's called synchronicity.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

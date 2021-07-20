@@ -49,5 +49,5 @@ looked all happy, but I put my ear up to the rabbit to hear him
 purring and I could hear the poodles' thoughts through the rabbit's
 ear.  The poodles were in a pissy mood from what they were saying.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

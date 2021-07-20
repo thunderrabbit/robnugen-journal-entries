@@ -56,5 +56,5 @@ talked/gossipped some about KTRU.  Also more YRUU talking.</p>
 
 <p>I'm tired; going to bed.  Thank you Meg for a lovely evening!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

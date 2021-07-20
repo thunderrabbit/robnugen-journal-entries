@@ -26,5 +26,5 @@ Bwak bwak bwak bwak! That's all!
 <p>Next week or so our team is going to go visit a Haunted House,
 maybe on Friday the 19th.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

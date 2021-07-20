@@ -69,5 +69,5 @@ exploded in my face.
 burn in my lungs and face.  I dreaded looking at my face fearing it
 would be all burned and really painful.  I woke up.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

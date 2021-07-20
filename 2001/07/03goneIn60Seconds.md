@@ -21,5 +21,5 @@ brakes!"  "I am!!"</p>
 <p>Movie was good; worth a free rental.  To ensure that we didn't
 incur late fees, I already took the movie back tonight.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

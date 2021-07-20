@@ -44,7 +44,7 @@ we'll see how this new plan goes for a while.
 
 <p>I think the last one is most likely, and I feel bad converting my dear Spot to a bored indoor cat.  :(
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 
 
 

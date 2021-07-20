@@ -93,4 +93,4 @@ piece and I'm never going to throw it away.</p>
 
 <p>The gum got gross; I threw it away.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

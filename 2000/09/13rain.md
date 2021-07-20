@@ -21,5 +21,5 @@ I can, but I can whistle by inhaling and she cannot.  I can make more
 beat box noises than she can.  We didn't sex, but pretty much just
 fell asleep early.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -62,4 +62,4 @@ system.  When it was moved the the DMZ, it couldn't see the rest of
 the network to do backups.  So we are calling off the whole operation
 until that can be resolved.  Pooh.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>

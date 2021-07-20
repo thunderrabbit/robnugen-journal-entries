@@ -11,5 +11,5 @@ date: 2001-09-24
 <p>So yeah it's early, but I went to bed early and I'm basically awake
 enough now to begin my day.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

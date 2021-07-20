@@ -40,5 +40,5 @@ happened to be in.  She was just coming back home after being out at a
 haunted house in the country somewhere, but she didn't spend the night
 there.  Too scary for her.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

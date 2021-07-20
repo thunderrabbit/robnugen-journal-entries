@@ -39,4 +39,4 @@ SWUUSI.</p>
 <p>Today I'll likely give to Meredith my bag of change so she can send
 it to Brinks to be counted.  It's several dollars of change.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

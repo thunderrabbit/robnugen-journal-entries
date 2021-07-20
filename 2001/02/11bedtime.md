@@ -21,4 +21,4 @@ noon for our weekly meeting.  Then Wende will help me
 get Scott to the doctor and then we will finish
 packing and go to the airport!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

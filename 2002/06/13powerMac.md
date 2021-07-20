@@ -23,5 +23,5 @@ out in Starbucks very often, so for now I'll just say no.</p>
 emacs therefore, though the unix base is a huge reason of why I wanted OS
 X.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

@@ -23,5 +23,5 @@ Pat, one of our star members.</p>
 Might get to see her apartment since investment club meeting is near
 where she lives now.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

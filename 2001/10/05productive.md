@@ -17,4 +17,4 @@ the value of a dropdown list to the last item in the
 list ("other") if and only if the user enters anything
 in the 'other' textbox.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -92,4 +92,4 @@ What if when a church joins the UUA, they must give a
 youth contact?  Is that too crazy or what???
 </pre>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -83,4 +83,4 @@ me to engage in such late night activities.  I
 anti-agree; I had a great time; I'm sure we'll discuss
 it more.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

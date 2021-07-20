@@ -21,5 +21,5 @@ date: 2000-07-28
 
 <p>But, on the other hand, good night; I'm going to bed.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

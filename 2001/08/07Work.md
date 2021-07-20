@@ -24,4 +24,4 @@ her.</p>
 but the point is that we have to do extra crap to make
 it happen.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

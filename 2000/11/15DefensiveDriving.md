@@ -19,5 +19,5 @@ CUTE!!!!!!!!!!!
 Tori Amos, not Madonna, not Amanda Peet.  Not even Cameron Diaz.
 Well, maybe Cameron Diaz.  I'm tired.  Good night.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

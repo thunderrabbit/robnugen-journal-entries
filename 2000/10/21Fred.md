@@ -75,4 +75,4 @@ exact syntax.
 
 <p>Good night Fred, great talkin' to you.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">

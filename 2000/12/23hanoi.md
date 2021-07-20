@@ -55,5 +55,5 @@ It would be preposterous for me to have my computer spend all its
 brain power and just do sixty rings.  So I'm going to start it over
 with sixty-four.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

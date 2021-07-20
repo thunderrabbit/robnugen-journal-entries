@@ -32,4 +32,4 @@ June!</p>
 saying, "thanks, but it's the wrong type of keyboard."
 ??  I'm open to suggestions on this.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

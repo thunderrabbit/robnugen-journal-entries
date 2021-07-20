@@ -12,5 +12,5 @@ date: 2000-02-26
 
 <p>I'm zipping off to investment club meeting now.  Have a great day!!!!!!!!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

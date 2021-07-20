@@ -22,7 +22,7 @@ date: 2000-03-17
 
 <p>Meditatively yours...
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 
 
 

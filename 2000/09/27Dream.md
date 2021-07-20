@@ -15,5 +15,5 @@ sketched out the rules for motion in non-object oriented terms, and
 then I talked to John a bit and recognized that I could make it a much
 cooler program if I switched it up a bit.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

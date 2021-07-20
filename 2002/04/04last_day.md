@@ -29,5 +29,5 @@ rest of the weekend.</p>
 it difficult for her to take me, but she'll still do it if I can't
 find someone else.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

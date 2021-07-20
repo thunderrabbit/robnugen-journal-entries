@@ -274,5 +274,5 @@ knowing who is the commissioner.
 Football, but I know that sleep will overwhelm me quickly as soon as I lay
 down.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

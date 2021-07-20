@@ -24,5 +24,5 @@ vanished.</p>
 
 <p>I'm glad he had a fun time.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

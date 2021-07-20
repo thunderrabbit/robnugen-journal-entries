@@ -23,5 +23,5 @@ Neo on <em>The Matrix</em>.  Except I have eyebrows.
 to get all this past weekend transferred to my site before we go and I
 end up with 2 weekends to transfer!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

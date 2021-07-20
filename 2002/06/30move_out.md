@@ -121,7 +121,7 @@ was most excited was when I got to travel.)</li>
 </table> <!-- end table of pros and cons -->
 </p>
 
-<br><p><img src="/images/rob/wL-ROB.gif"/></p>
+<br><p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 
 
 

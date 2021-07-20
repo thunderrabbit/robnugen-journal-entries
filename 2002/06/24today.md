@@ -56,4 +56,4 @@ some good stuff for me to do income-wise.</p>
 
 <p>I'm super thankful for their time and help.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -12,4 +12,4 @@ pics</a> online!  If I got any names wrong, please <a href="mailto:rob@robnugen.
 
 <p>Thank you all for an incredible time at SWUUSI!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -170,4 +170,4 @@ possible short cut, but I had the green light at the
 next intersection, so I made waggly moose ears at him
 out my side window as I drove by.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

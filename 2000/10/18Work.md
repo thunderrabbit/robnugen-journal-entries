@@ -15,5 +15,5 @@ awesomely cool one; I'm excited to work on it.  What I recognize is
 that I need to allow myself to take breaks during the day and go in to
 work at night.  Aww yeah.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

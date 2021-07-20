@@ -13,5 +13,5 @@ vacation to Australia.  In the story, I was 15; Fred was 11.
 
 <p><a href="https://new.robnugen.com/journal/1985/06/12/australia/">Australia 1985</a>.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -42,4 +42,4 @@ near my car I was going to kick a kickball in a venting anger type
 way, but I chose not to at the last second and it just sorta bounced
 away.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

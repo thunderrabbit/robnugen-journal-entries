@@ -15,5 +15,5 @@ say 1/3 price but had to pay tax and shipping.)  Just got it via FedEx
 yesterday and hooked it up!  We haven't had a power outage to
 <em>really</em> use it, but I'm ready for one!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

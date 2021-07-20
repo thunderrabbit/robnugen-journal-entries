@@ -18,5 +18,5 @@ along.  True.
 enthusiastic with the news.  I haven't heard back from the Youth
 Office.  I bet they just didn't get around to calling me yet.  :-)
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

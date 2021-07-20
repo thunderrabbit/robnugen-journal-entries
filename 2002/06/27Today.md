@@ -38,4 +38,4 @@ I'll send you a postcard!</p>
 <p>Lunch with Kristen soon; I'm going to make PB&J and meet her at
 Hobbit Cafe.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

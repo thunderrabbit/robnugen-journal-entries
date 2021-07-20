@@ -31,5 +31,5 @@ such a totally blank mind.  I haven't done that in a while.</p>
 <p>Going to Wende's now to transfer the treasurer stuff for our
 investment club over to her.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

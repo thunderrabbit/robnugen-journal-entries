@@ -27,4 +27,4 @@ document that describes how to do the job of
 treasurer.  A tiny part of that is written, but not a
 lot yet.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

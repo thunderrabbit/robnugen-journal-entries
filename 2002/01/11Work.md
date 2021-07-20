@@ -32,5 +32,5 @@ feel like I'm on summer break compared to the beginning of the week.</p>
 
 <p>Oh, I still gotta do investment club stuff.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -27,4 +27,4 @@ by the news or what.  Verry interesting.</p>
 <p>I think it's the anthrax attacks in Florida that
 did it for me.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -22,5 +22,5 @@ href="https://setiathome.berkeley.edu">seti@home</a> stuff and whatever.</p>
 
 <p>Bedtime.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

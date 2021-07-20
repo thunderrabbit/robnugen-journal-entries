@@ -37,4 +37,4 @@ Jack in the Box).</p>
 
 <p>Due to the special of the month, the oil change was only $4.95</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>

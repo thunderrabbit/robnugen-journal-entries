@@ -18,5 +18,5 @@ water could be splashed out with no problem.</p>
 youth were playing video games or something.  I was about to bounce
 around on the trampoline when I woke up.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

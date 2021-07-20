@@ -31,4 +31,4 @@ are those I took tonight.  The DJing one is a self portrait I took
 using the timer function on the camera.  I wasn't actually on mic, but
 just saying "blah blah blah" with headphones on.  :-)</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

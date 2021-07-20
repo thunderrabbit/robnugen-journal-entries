@@ -16,4 +16,4 @@ is; just tell her you <em>know</em> what it is.</p>
 <p>I'll give it to her 21 June 2001 for our negative 1
 year wedding anniversary!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

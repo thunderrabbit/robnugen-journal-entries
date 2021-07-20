@@ -23,4 +23,4 @@ reading, and not just writing whatever I want whenever I want.</p>
 <p>Gave Ellen and Brad my yellow adventure cards and briefed them on
 my plans.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

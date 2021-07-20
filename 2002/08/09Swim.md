@@ -30,4 +30,4 @@ Fun stuff!</p>
 
 <p>Going to Denton now after I shower.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

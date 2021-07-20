@@ -83,5 +83,5 @@ rules and I love it.</p>
 
 <p>It's 4:03am</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

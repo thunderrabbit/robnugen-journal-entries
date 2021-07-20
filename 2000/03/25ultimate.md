@@ -25,5 +25,5 @@ meeting.
 <p>Oh!! One more thing!  Manda sent me a fun URL!  <a
 href="https://www.phoneSpell.org/"></a>
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

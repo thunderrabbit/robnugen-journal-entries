@@ -77,7 +77,7 @@ the entire planet today - homemade tuna noodle,
 grapes, and holiday colored Reeses Pieces, alll packed
 in a Winnie the Pooh thermal lunch bag.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 
 
 

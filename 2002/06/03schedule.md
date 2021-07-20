@@ -28,5 +28,5 @@ sleeping, having a 9-5 weekdays job.  Pooh.</p>
 <p>I feel sad to be going back to work and stuff tomorrow after having an
 Incredible Fantastic weekend with my youth and Bibby Parents in Dallas.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

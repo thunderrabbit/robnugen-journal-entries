@@ -62,5 +62,5 @@ me, hopefully this week."</p>
 
 <p>Diane and I will probably go visit Maggie at work some day soon.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

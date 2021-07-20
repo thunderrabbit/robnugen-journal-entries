@@ -65,4 +65,4 @@ href="https://www.rotary.org">rotary.org</a> to see
 what they do, and Bryn will write a letter that she
 has needed to write for a while.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

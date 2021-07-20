@@ -17,5 +17,5 @@ date: 2000-08-04
 
 <p>I also need to bring batteries for my Visor; it would suck if I lost all that I electronically capture during the week.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

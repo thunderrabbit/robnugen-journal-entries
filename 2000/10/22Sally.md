@@ -41,5 +41,5 @@ she hopes they are discarded.
 <p>We just found that a particular beat sounds like George Michael's
 <em>Faith</em>
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

@@ -40,4 +40,4 @@ KTRU, but this timeslot is not my favorite one.
 href="https://www.ktru.org/realaudio.html">www.ktru.org/realaudio.html</a>
 7 to 10pm!!!
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">

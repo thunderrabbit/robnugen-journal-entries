@@ -43,5 +43,5 @@ dismiss the possiblity.
 <p>Closing session:  blah blah blah balh balha blha blha blah blah blah bla
 blah blab blah blahblahblahblablahblhablhablabh
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

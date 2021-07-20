@@ -39,5 +39,5 @@ thing.
 campus, just in case non-students were forcibly removed from the
 meeting.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

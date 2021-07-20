@@ -21,5 +21,5 @@ that.</p>
 <p>Unfortunately, our visit was cut short because I had a different
 engagement at 6pm out in Katy.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

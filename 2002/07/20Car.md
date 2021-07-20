@@ -64,4 +64,4 @@ helped unload my car and put most of my shit into Marta's house.  Hung
 out a bit at Marta's resting and wrestling and then we drove to
 SWUUSI!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

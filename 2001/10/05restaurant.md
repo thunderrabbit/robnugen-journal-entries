@@ -35,4 +35,4 @@ thing to do.</p>
 
 <p>He leaves Houston area again on Tuesday.</p>
 
-<img src="/images/rob/wL-ROB.gif"/></p>
+<img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

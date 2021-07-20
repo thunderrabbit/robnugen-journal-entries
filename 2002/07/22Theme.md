@@ -92,4 +92,4 @@ dock to becon people out.</p>
 started "(You gotta) Fight For Your Right (to Party)", but didn't get
 too far.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

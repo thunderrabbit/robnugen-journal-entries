@@ -42,4 +42,4 @@ before we moved the night to its denouement.</p>
 bouncy drumming and dancing, Sally blessed my being,
 my soul, our friendship.  Sally is so great!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

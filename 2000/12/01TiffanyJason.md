@@ -43,5 +43,5 @@ and am thankful that we got to play for so long.
 <p class=date 00:43am.  I'm so tired I'm falling asleep sitting in my
 chair.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

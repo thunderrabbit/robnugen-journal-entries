@@ -13,5 +13,5 @@ date: 2000-07-26
 
 <p>This means that the applet has to open a connection to the web server, which it is allowed to do, and read the file, which it is allowed to do, but I couldn't find any examples of this.  Found something close, and when I'm a bit less brain fried, I think I can figure out how to implement it.    Now I'm leaving work to go play ultimate!!
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

@@ -21,5 +21,5 @@ I'm thankful that it's selling so easily.  :-)</p>
 samples moved online.  I'm using the same perl engine as I did for the
 poetry page.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

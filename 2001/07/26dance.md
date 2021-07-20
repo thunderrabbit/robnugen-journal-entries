@@ -46,4 +46,4 @@ to songs that we knew most of the words to.</p>
 camera.  I just now took a picture of her
 sleeping.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

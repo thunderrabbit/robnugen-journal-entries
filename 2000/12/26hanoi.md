@@ -107,6 +107,6 @@ stop.</p>
 rings.  This time I have moved the emacs window to a less used portion
 of the desktop.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 
 

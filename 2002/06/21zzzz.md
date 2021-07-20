@@ -15,4 +15,4 @@ order of songs.  I'm surprised at how late it is.</p>
 
 <p>Today has been a fantastic day.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

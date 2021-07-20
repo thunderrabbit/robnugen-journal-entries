@@ -74,5 +74,5 @@ Catholic churches will secede from Rome.</p>
 impressed with her knowledge of the subject.  She says it's quite
 interesting.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

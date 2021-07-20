@@ -16,5 +16,5 @@ conferenece call is that it was finally determined that using my G3
 project the way it's designed will be the easiest for all parties
 involved.  Awww yeah.  That is great news!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

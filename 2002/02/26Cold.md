@@ -18,5 +18,5 @@ and west of here.</p>
 sweatpants, sweatshirt, my knit cap, and gilligan hat over my normal
 attire.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

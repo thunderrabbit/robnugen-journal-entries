@@ -44,5 +44,5 @@ notice a lot?</em>.  Hmmmmmm.</p>
 
 <p>I don't know, but I'm now going to nin din work mode.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

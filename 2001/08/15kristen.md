@@ -14,5 +14,5 @@ munched.  She told me a lot of school stories and such.</p>
 <p>Hung out talking at my house until Wende got home.  Tomorrow we are
 going to go see her friend Catherine (sp) in a musical.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

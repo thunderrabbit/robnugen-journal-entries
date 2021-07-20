@@ -31,4 +31,4 @@ blue tube.  He didn't seem too concerned.  He said it
 was a water pipe.  I didn't ask him if it was potable
 water or what.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

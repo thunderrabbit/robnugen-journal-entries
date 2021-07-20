@@ -35,5 +35,5 @@ someone at her work)
 work!  Most super-duperly, I'll be able to write at the OKC rally this
 weekend.  Super great!!!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

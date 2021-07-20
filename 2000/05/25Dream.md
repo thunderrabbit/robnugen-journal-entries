@@ -55,4 +55,4 @@ neck.
 <p>Then I woke up when Wende asked if I could go feed the cats who had
 entered my dream by squawking out in the hall.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>

@@ -23,4 +23,4 @@ month.  Hmmm.</p>
 <p>This is a <em>very</em> sneaky way to get me to
 paint another plate!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

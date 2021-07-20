@@ -17,5 +17,5 @@ date: 2000-05-31
 
 <p>But, you know, how weird is it that I almost feel like I've spoken with a famous person?  The Scott Carr.  Talked to me!  He's just a guy, working 9 to 6.  He's not in the movies, or on the radio (heck, I'm more famous than he!).. just a guy.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

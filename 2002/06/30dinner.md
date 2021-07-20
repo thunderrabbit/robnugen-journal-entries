@@ -26,4 +26,4 @@ beer.</p>
 boxes and such on Wednesday morning, and then Maggie and Diana and I
 will try for lunch again that day.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

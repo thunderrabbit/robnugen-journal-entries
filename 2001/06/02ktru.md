@@ -36,5 +36,5 @@ talked to Wende and convinced her that she should get a stable system
 like Linux for her machine!  John is going to give us a copy of his
 Slackware 7.0 linux distribution.  Super great!</p>
 
-<p><img src='/images/rob/wL-ROB.gif' alt='with love - ROB'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif' alt='with love - ROB'/></p>
 

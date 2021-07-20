@@ -30,5 +30,5 @@ street.  Nice.
 <p>Summary: Once I got off the crunchy parking lot where we voted, I
 unicycled 10 blocks all the way back to our gate without falling!!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

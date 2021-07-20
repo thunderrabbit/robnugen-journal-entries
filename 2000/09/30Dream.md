@@ -27,5 +27,5 @@ dream)
 <p class=dream>Then we were in a record shop, looking for little
 trinkets to purchase for some reason.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

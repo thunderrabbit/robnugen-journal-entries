@@ -17,7 +17,7 @@ schedules that could be written.
 <p class=dream>and I was debugging it in my mind without running the
 code, and certainly without a debugger.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 
 
 

@@ -19,4 +19,4 @@ href="https://www.cadenhead.org/book/java2411/lottomad.shtml">page</a>:</p>
 another quarter because I kept both my java applet
 windows open longer than he did.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

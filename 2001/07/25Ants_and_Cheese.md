@@ -57,4 +57,4 @@ during the instruction, so it was a bit messed up, at
 <p>The dance turned into a drumming circle and we're
 about to play Silent Football.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -20,5 +20,5 @@ flight each between the cities.
 
 <p>It will all work out.  It will all work out.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -29,5 +29,5 @@ you up!"
 
 <p>See ya!  1:24pm
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -20,4 +20,4 @@ beats them up and doesn't keep them in good condition.</p>
 
 <p></p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

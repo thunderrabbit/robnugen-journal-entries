@@ -38,4 +38,4 @@ such.  She's quite interested in helping get her youth to rallies.</p>
 <p>I'm glad that I seem to know so much about them and that I'm here
 to help teach.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>

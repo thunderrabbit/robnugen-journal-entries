@@ -37,4 +37,4 @@ Very interesting.</p>
 puzzle which will be released sometime this year.  The prototype is
 wood and quite lovely.  The production model will be plastic.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

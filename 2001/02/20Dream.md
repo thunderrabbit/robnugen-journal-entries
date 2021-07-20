@@ -14,4 +14,4 @@ hearing the wind?  It's been amazing." </p>
 traffic.  I think she was dreaming; she says she was
 not.  Hmph.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

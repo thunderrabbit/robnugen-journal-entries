@@ -57,5 +57,5 @@ self with others, that is giving in the highest form.
 <p>I just suddenly realized this journal must count as such a gift.
 Thank you for allowing me to share it with you.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

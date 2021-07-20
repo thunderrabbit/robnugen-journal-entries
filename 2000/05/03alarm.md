@@ -22,5 +22,5 @@ someone ... well, no - I don't see any reason not to do it.
 they call to see if there's a problem, we can say "Shazbat" and they
 will know it's all good.  Or maybe "Pulp Fiction" or "Pull my finger"..  Hmmm
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

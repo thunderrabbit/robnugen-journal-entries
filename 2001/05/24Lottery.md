@@ -15,4 +15,4 @@ thousand years; I'm sure it was at 50 thousand by
 today.  I shall start the applet again today with the
 numbers 1, 2, 3, 4, 5, 6.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

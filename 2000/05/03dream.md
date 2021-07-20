@@ -40,5 +40,5 @@ event, and I caught two youth smoking in the restroom.  I confronted
 them myself and after much discussion, reported them to the youth
 leadership of the conference.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

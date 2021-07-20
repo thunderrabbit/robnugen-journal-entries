@@ -17,5 +17,5 @@ for Christmas, so go see it this week.</p>
 
 <p>Oh, I'll scan a pic of it as well.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

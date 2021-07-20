@@ -28,5 +28,5 @@ single car wreck, and only 1 stunt that I noticed.  Well, okay there
 was 1 car wreck, but the wreck wasn't shown; they may have just bought
 a junk car and turned it upside down.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -19,5 +19,5 @@ back with him.</p>
 number is dialed; I asked him to drop it off with the leasing office.
 So excellent!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

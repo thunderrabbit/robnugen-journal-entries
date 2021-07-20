@@ -85,4 +85,4 @@ by the (*).  They're all around my dad's house.  I
 should know it..  I'm thinking Chinese Pear Tree or
 something.  bluh.  good night.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">

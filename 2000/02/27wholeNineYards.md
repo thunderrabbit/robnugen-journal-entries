@@ -55,5 +55,5 @@ mystery .. <em>wow - he forgot about it for 3 years</em>
 
 <p>Course, I'd have to have kids first.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

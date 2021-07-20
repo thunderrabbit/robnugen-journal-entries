@@ -41,5 +41,5 @@ home and then rode my bike back over to work.</p>
 href="/cgi-local/images.cgi?dir=travel/2002_march_london_paris/day2">Day
 2</a> pics from London.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

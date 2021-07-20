@@ -21,4 +21,4 @@ building before the rally.  These are so fabulously
 positively powerful in YRUU.  I'm honored to be a part
 of the magic.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

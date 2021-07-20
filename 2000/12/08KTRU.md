@@ -31,5 +31,5 @@ thousand watts..."  Very cute.</p>
 <p>I listened to the rest of her show and then to the KTRU news show
 while I read about XML.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

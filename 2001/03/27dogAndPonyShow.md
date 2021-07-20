@@ -30,5 +30,5 @@ survey type an individual is using, and turn off the
 participant, because they haven't seen the participant instructions
 yet.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

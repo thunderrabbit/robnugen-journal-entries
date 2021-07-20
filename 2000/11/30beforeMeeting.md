@@ -19,5 +19,5 @@ appropriate.
 emails, but who knows.  I am certain media will be there, given what people
 have emailed today.  Awright ... see ya, and I'll let you know what happens.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

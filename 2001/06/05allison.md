@@ -72,5 +72,5 @@ which is the point of the weather service anyway, right??</p>
 called Wende if it had been raining this effectively when I left
 work.</p>
 
-<p><img src='/images/rob/wL-ROB.gif' alt='with love - ROB'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif' alt='with love - ROB'/></p>
 

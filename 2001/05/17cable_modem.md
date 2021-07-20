@@ -18,5 +18,5 @@ with that.</p>
 
 <p>Yay internet access!!</p>
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

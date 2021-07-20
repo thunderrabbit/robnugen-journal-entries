@@ -41,5 +41,5 @@ language, but is fairly effective for what we need to do.
 <p>Wende and I munched at Subway and that's been the most excitement
 I've had all day!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -18,5 +18,5 @@ Sarah from ultimte,  Colleen C, and Adam L.</p>
 
 <p>I don't remember much else.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

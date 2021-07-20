@@ -76,4 +76,4 @@ my books so I can make sure I'm pronouncing correctly.
 peeps who also want to learn.  Or maybe someone who
 knows Japanese and wants to learn English.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

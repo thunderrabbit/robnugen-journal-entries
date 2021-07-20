@@ -39,4 +39,4 @@ so thankful!!</p>
 <p>Game over; Rice lost.  115 messages.  Now I get to DJ as soon as
 they are done with post game show.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

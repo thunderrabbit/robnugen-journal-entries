@@ -20,5 +20,5 @@ the action was *right* there.
 
 <p>Plus there was an underlying story that all should hear.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

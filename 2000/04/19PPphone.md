@@ -31,5 +31,5 @@ supposedly going to map the universe to answer some amazing questions:
 <p>It's not very late, but I'm going to bed; Wende's schedule puts her
 at work at 7:00am, so I'm shifting my schedule as well.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

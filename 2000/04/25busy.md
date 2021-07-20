@@ -20,5 +20,5 @@ date: 2000-04-25
 
 <p>:)
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

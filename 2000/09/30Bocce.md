@@ -46,5 +46,5 @@ prizes up for grabs.  Justin said, "I announced 'I have Beastie Boys
 tickets, so call in if you want them.'  Then 20 minutes later, 'I
 really do have Beastie Boys tickets'"  That was several years ago.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

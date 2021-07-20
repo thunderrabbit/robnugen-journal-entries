@@ -51,4 +51,4 @@ and she's concerned that if I lived here alone, I
 wouldn't take care of the place well, and that would
 devalue her investment.  We'll decide later.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -22,4 +22,4 @@ it turns out she's from Chicago.  She backed off and then when she left
 she gave me a cheek to cheek kiss and "nice to meet you."  "You too." 
 mwah!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

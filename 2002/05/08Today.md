@@ -36,4 +36,4 @@ today, and will be in early tomorrow, I went home and here I am.</p>
 
 <p>Good night.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>

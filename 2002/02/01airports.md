@@ -93,5 +93,5 @@ Miami.  She couldn't get her coat out of her checked-on baggage.</p>
 did it.  The difficulty was in speaking up in a group of strangers,
 and in allowing my possession out of my control.  Good job me.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

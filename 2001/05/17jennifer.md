@@ -37,4 +37,4 @@ good part: she got good (not yet confirmed) news from
 him about the outcome that will be revealed after 14
 more days.  yay!!  I love synchronicities!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -17,5 +17,5 @@ add the ability to create a new file and delete a file.  Nice.</p>
 This is the first time I've been invited to an event of hers.  We'll
 see how it goes.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

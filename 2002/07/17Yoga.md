@@ -33,4 +33,4 @@ appreciate.</p>
 <p>We're going to dinner tomorrow; she's taking me to Bombay Palace as
 a going away present.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

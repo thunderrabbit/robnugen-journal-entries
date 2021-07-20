@@ -18,4 +18,4 @@ type of support.</p>
 
 <p>Know how much you help me see my life path.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

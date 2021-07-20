@@ -39,4 +39,4 @@ the time when I cheated on Wende back in 1999.  I hope
 this session will allows us both to emerge
 victorious.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

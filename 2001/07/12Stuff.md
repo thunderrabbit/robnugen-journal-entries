@@ -57,4 +57,4 @@ for Spanish IV.  The bottom line is that we're not
 signed up.  I'll do it tomorrow, if there's space
 available.  Totally stupid fight.  Blah.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

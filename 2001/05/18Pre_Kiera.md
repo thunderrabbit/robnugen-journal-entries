@@ -28,4 +28,4 @@ actually called her dad and learned the hotel room
 numbers they're in and all that.  I'm hoping to be out
 there by 7pm.  Yay!!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

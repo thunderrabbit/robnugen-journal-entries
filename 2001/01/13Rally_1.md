@@ -56,5 +56,5 @@ bars with Nicole, Alison, and friends.</p>
 
 <p>Everything is perfect; I'm going to sleep.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

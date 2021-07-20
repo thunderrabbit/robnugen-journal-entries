@@ -29,6 +29,6 @@ date: 2000-08-02
 <p><li>Ultimate tonight if it's not raining.  Maybe not and I'll just sleep or watch a movie with Wende.
 </ol>
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 
 

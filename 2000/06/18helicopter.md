@@ -21,5 +21,5 @@ date: 2000-06-18
 
 <p class=date>12:40pm</p>Leaving now. Turns out they were low on stock of the tires I wanted and had to go get a fourth elsewhere.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

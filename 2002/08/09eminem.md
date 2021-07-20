@@ -25,4 +25,4 @@ seems to be tied to the .mp3 file and not in an external index
 somewhere.  Correct?  I dunno, but that's how it appears to work as I
 was moving and copying .mp3 files around my machine.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -62,4 +62,4 @@ optimal solution would be to just carry food with me..
 but how to carry a good variety of nutrients and
 stuff?  I'm not sure.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

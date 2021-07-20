@@ -21,5 +21,5 @@ Will got it into the third floor.  I did not make it.</p>
 <p>Wende kept score for us and I think everyone had a great time.  I'm
 thankful for such a delightful night!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

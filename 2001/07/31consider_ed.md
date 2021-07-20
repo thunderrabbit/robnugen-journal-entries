@@ -43,4 +43,4 @@ unopened packet, and sell it on eBay, under
 "Collectors Items - Food Stuffs - Breakfast - Instant
 Oatmeal - Misspellings"</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

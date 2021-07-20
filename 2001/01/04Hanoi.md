@@ -23,5 +23,5 @@ cause there was a Netscape window over near the emacs window.</p>
 
 <p>Sigh.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

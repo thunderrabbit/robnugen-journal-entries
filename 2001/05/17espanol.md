@@ -50,4 +50,4 @@ cable internet access.  And, I still have to actually
 terminate the ends of the cables to hook up the TV. 
 The splitter is a great start though.  :-)</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

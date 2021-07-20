@@ -67,5 +67,5 @@ range.
 <p>Spot is running around maniacally.  I wonder what has him wound
 up.  Back to bed for me, but Wende's alarm is about to go off.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

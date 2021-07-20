@@ -14,4 +14,4 @@ the one tonight.</p>
 thunder, but some lightning far away.  Just rain rain
 rain and blustery wind wind wind.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

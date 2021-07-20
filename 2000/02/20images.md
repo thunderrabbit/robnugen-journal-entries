@@ -37,5 +37,5 @@ of this entry!  It's how I sign almost all my letters.
 <li>continue work on my website's image browser
 </ol>
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

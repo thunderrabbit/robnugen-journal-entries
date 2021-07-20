@@ -29,5 +29,5 @@ it.
 relatively no help and consequently did not finish my part of the
 project today.  I just hated having to tell our client "1 more day."
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

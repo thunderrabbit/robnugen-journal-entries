@@ -41,5 +41,5 @@ to try sending email to lycos.</p>
 <p>I know it's a pain in the arse, but I believe it will be worth it
 once I no longer receive spam.  Wow.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

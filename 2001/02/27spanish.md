@@ -41,5 +41,5 @@ adjectives, all of which have flittered from my mind.</p>
 
 <p>We really should make some flashcards for these.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

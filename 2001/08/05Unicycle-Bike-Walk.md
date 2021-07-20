@@ -45,4 +45,4 @@ exercise for the day.</p>
 <p>Now I'm going to go ride my bike to work and get
 some shit done while no one is there to bug me.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

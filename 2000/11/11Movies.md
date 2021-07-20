@@ -23,5 +23,5 @@ end.
 <p>We're leaving now to go eat dinner at Maggie and John's with the
 whole gang!!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -59,7 +59,7 @@ out I had no address of the wedding.</em>
 
 <p>It's 4:51am.  Good night again.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 
 
 

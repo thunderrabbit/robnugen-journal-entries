@@ -17,4 +17,4 @@ would have fucked like rabbits.</p>
 <p>We have caressed a bit; I've kissed her cheeks and forehead and
 such.  No fluid exchanging kisses.  Just love and closeness.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

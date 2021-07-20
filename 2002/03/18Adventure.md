@@ -33,4 +33,4 @@ Fence</a> on which I place my Magic Rob briefcase
 presented to me with love from YAC and especially the
 Bibby's at Plano rally in 2001.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

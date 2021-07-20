@@ -45,4 +45,4 @@ to release that stuff to people who will be interested in using it.
 (Including my skates? ... Hmm; I'm not using them lately, but I still like
 having them in case I wanna skate again)</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

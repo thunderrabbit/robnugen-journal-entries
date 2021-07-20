@@ -64,4 +64,4 @@ problem.</p>
 <p>I've been invited to join them in their chill-out shoot-the-shit
 room in their hotel for the next 3 nights.  Most excellent!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

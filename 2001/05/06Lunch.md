@@ -18,4 +18,4 @@ drink and an empty bag from Taco Bell, but I'll get
 pizza from Star Pizza (the best pizza in Houston) and
 put it in the Taco Bell bag!!  So sneaky I am!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

@@ -22,5 +22,5 @@ were trying to stop the renegade sliders, but they seemed frictionless
 and apparently quite massive.  Finally they were stopped and the
 crisis was over.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

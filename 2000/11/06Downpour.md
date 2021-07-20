@@ -41,5 +41,5 @@ pavement wet, and not flooded.
 
 <p>The drenching downpour has been downgraded to just raining.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

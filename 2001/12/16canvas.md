@@ -24,5 +24,5 @@ the foreground of any color will go right on top of it.</p>
 painting on the canvas.  And I used the darker pigments this time,
 instead of just the yellow red blue green.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

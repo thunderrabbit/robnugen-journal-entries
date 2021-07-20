@@ -32,4 +32,4 @@ of what work I can do, and after having eaten.</p>
 <p>I feel a unicycle ride coming up in a few
 hours.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

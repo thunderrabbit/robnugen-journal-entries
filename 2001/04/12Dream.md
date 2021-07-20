@@ -25,5 +25,5 @@ was talking to Kayse on cell-phone speaker-phone.  People were all,
 "it's a good thing you weren't here for their conversation [because it
 was so lovey-dovey sappy]."</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

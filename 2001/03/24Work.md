@@ -28,5 +28,5 @@ do!!</p>
 for me to describe.  I think I will be happy later with the job I did
 on the review.  The CD is <em>Ajad</em> (I think) by Muslimgauze.
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

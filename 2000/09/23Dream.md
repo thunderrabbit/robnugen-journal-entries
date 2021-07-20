@@ -69,5 +69,5 @@ to tell her about the 2005 penny and we really didn't discuss much.
 
 <p>Then Will called and we woke up for real.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

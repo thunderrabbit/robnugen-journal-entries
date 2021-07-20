@@ -33,5 +33,5 @@ my tummy feels wobbly.
 <p>The house is still beyond incredible; I'm looking forward to completion 
 of this project.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

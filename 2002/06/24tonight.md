@@ -24,4 +24,4 @@ Chisolm's phone number)</p>
 
 <p>Chatted with Phat Pat and Colleen tonight.  Fun stuff.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

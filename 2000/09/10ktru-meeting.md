@@ -75,5 +75,5 @@ stuff.  Yay Abi!!
 <p>The good thing about my shift is that the FCC won't come visit me; they
 only come during business hours.  hahaha!
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

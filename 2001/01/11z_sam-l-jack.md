@@ -38,5 +38,5 @@ real hard and hope it goes into the bowl."</p>
 
 <p>The rest of my dessert I was able to eat in mental serenity.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

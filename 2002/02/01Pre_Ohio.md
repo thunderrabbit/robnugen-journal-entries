@@ -36,5 +36,5 @@ won't be suspicious.  Very strange.</p>
 
 <p>I'll take notes.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

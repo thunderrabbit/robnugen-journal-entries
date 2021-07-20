@@ -24,5 +24,5 @@ our clients.  Ultimately this will make it easier for me in the long
 run than trying to run on Monday what was "supposed" to have run on
 Thursday and Friday.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

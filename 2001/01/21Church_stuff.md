@@ -31,5 +31,5 @@ designing what HAC YAC should look like / do.</p>
 <p>I moved Meagyn to sit away from Carlie, Matt, Ryan because of
 disruptions.</p>
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

@@ -46,4 +46,4 @@ the Adult Head Hydrator, and I have asked AJ to be my
 Youth Head Hydrator.  Youth have to have water bottles
 at spirit circle each morning, and at each meal.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

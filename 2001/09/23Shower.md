@@ -17,5 +17,5 @@ masking tape to mask the area.</p>
 
 <p>Good feeling to get this project done.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

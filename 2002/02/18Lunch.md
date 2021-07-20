@@ -19,5 +19,5 @@ with four fingers left.</p>
 
 <p>(*) jail = work</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -14,5 +14,5 @@ house that I'm already able to call Wende's house, vs my apartment) to
 pack up more stuff.  Five boxes worth.  Thankful to her for helping
 make it so easy to separate stuff.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

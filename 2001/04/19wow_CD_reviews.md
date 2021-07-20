@@ -18,4 +18,4 @@ perspective</em></p>
 <p>I love all 3 CDs.  So great to soon have 3 CDs
 reviewed by me on playlist!  Wheeee!!!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

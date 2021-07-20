@@ -51,5 +51,5 @@ to you."  Thanks.
 <p>I haven't sent The Feel Good Net in 8 days.  It's all on this
 Internet-less computer.  Hmmm.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

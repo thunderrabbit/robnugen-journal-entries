@@ -23,5 +23,5 @@ date: 2000-07-26
 
 <p class=date>4:13</p>
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

@@ -27,5 +27,5 @@ heard from the manager and stuff.  We'll see how it goes.</p>
 
 <p>My phone number will stay the same.  I'm thankful for that.  :-)</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

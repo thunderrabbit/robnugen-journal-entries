@@ -53,5 +53,5 @@ long weekly staff meeting.
 <p>She said it wasn't that big of a deal, but they were just worried
 about me.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

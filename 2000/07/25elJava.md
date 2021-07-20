@@ -19,5 +19,5 @@ date: 2000-07-25
 
 <p>And, I just got another project offer from Dude!  $70 per hour to write a java applet.  How lovely and fortunate that I have just been learning java!  I don't really have a guesstimate how long it will take, but this client is apparently a far cry from my first $10 per hour client.  :-)
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

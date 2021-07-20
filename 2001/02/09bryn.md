@@ -25,4 +25,4 @@ to play lots of Silent Football!</p>
 <p>I'm leaving work now; not getting much done at this
 point.  I'll be back in tomorrow morning.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

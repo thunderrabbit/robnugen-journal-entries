@@ -54,5 +54,5 @@ traffic lights were 1) working properly, 2) blinking red, 3) dark.</p>
 <p>I am so tired I'm falling asleep as I try to think of more things
 that I saw.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

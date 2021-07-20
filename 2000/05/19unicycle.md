@@ -12,7 +12,7 @@ date: 2000-05-19
 Actually it took 4 starts, but 2 of them resulted in immediately
 dismounting (falling off;-).
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 
 <p>ps: I have noticed that a lot of my journal entries are short, and
 I think it would be much nicer for you, my lovely reader, if links to

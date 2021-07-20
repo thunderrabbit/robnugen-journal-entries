@@ -20,4 +20,4 @@ for dinner!  I think most of our gang will be there
 tonight; I'm glad to get to see them again before we
 leave!</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

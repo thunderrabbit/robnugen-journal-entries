@@ -56,7 +56,7 @@ me. (it had come in from the north).  Almost no rain as I reached my
 house.  But I was certainly soaked!  Good thing I had put a towel by
 the door.
 
- <p><img src="/images/rob/wL-ROB.gif">
+ <p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 
 
 

@@ -18,5 +18,5 @@ Monday?" she asked.</p>
 <p>I think she's not irreparably late for work because she didn't call
 anyone to tell them she was late (to have them cover for her).</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

@@ -31,5 +31,5 @@ that's okay. I wish you a great day anyway.  See ya!"
 staying; actually it was my dad's house, but two stories tall.  The
 room we were in was all old and dilapidated, but still functional.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

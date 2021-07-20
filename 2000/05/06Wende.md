@@ -31,5 +31,5 @@ something like that).  Fun fun stuff!
 
 <p>I hope to get lots more pics today.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

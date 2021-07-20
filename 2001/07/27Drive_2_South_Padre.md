@@ -123,4 +123,4 @@ typing.  bye.</p>
 <p>We're in our room.  Twin beds.  Wende is still
 getting ready for bed; I'm going to sleep now.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

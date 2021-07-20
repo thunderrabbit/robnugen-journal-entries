@@ -39,5 +39,5 @@ After a few moments, I realized that longing is part of the reason I
 maintain these journal entries.  In a weird way, I'm famous to my
 loyal readers.  I appreciate you!
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -28,5 +28,5 @@ let down that there won't be construction to watch next door.  Nothing
 for me to climb on immediately, or have a picnic inside before the
 walls are up.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

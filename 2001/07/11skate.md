@@ -24,4 +24,4 @@ just for the exercise of it.  She gets off work at
 10pm, so I have an hour and 1/2. Or so.  I think I can
 make it no problem.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

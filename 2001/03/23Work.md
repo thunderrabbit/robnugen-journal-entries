@@ -32,5 +32,5 @@ weren't getting a lot of requests!!</p>
 <p>I carefully recompiled all my macros again and more carefully moved
 them all online.  Now it worked correctly.  yay!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

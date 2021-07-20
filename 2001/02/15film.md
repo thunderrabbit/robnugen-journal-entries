@@ -53,4 +53,4 @@ sealed...  I'm really not comfortable with trying to
 save tax on $69 AUS at a risk of $5000 or 12 months in
 prison.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

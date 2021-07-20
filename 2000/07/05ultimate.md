@@ -19,5 +19,5 @@ date: 2000-07-05
 
 <p>Super duper thanks to Mollie for water after the game, and for being such good spirits during play when we were getting whupped.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

@@ -30,4 +30,4 @@ href="/cgi-local/journal.cgi?dir=2000/01/&file=20unicycling.html">this
 entry</a> to be the closest to when I borrowed the unicycle, but no
 details on how to contact him again.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

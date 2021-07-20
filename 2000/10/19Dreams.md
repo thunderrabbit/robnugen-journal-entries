@@ -26,5 +26,5 @@ Maggie and I and a couple of others lived in an apartment in the
 dorms.  I had the sense I had forgotten about my math homework, but it
 wasn't too late to catch up.  I was inspired to begin work on it.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

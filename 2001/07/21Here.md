@@ -68,4 +68,4 @@ and I are the 'adults in charge,' or maybe it's
 '<em>adults</em>' in charge, or even adults '<em>in
 charge.</em>'...</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

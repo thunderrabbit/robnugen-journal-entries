@@ -22,5 +22,5 @@ of Dreams who invited me over to <a href="https://www.geeky-boy.com">BBST</a>
 
 <p>It will be fun to say HI to her.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

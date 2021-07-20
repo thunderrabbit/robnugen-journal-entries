@@ -11,5 +11,5 @@ date: 2000-06-06
 
 <p>Mostly Wende did all the directing; she's the horticulture major.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

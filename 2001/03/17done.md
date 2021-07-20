@@ -45,5 +45,5 @@ on the team, most everyone got a point.  So great.</p>
 
 <p>At Andy's apartment parking lot.  I'm going home now.</p>
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

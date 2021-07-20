@@ -16,4 +16,4 @@ it will either rain or not soon.</p>
 while.  I think it will be quite fun because Chad will be there and
 he's a funny mofo.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

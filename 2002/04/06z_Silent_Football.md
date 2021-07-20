@@ -50,4 +50,4 @@ to bits; we never played using foot motions, but I did at least get to
 utter the foot rules.  Maggie and Olivia are looking for a CD player
 now.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>

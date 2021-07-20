@@ -81,5 +81,5 @@ anyhoo, this is getting way long. so i'll end it. you rock, rob, and this
 keyboard is really fun to type on...see you around.
 <br>--meg</p>
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

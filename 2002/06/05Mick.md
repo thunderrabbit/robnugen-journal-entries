@@ -55,5 +55,5 @@ who hitch hiked the same distance.</p>
 nearest highway.  No one comes out there, so they can hang out and fish for
 weeks.  Wow.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 

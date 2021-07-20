@@ -39,5 +39,5 @@ lights.  I wonder why.
 <p>Dad and I say the bok choy has no taste.  Wende and Karen say it tastes
 like cabbage.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

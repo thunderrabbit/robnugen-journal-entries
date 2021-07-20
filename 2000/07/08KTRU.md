@@ -46,5 +46,5 @@ date: 2000-07-08
 
 <p>He reminds me of a guy named Ken from back way back when I worked at Kroger in Tomball.  He was funny funny funny to the customers (he and I were both cashiers) but he seemed to complain all the time otherwise.  A lot of times he was super funny while complaining.  Interesting dynamic.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

@@ -32,5 +32,5 @@ in the wall there or deposit a 'time capsule' in this space.  just a
 thought.
 
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

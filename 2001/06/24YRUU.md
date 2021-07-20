@@ -41,6 +41,6 @@ still really like the movie idea.</p>
 Oklahoma) and then New Orleans Rally (I still need to register) and
 then back at YRUU for a week, and then SWUUSI!</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 
 

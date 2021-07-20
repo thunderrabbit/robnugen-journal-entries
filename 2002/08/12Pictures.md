@@ -23,4 +23,4 @@ keeping my ears entertained while I sort through pics.</p>
 <p>I took an antihistmine about an hour ago, and now I seem to be
 falling asleep.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

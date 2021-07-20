@@ -53,5 +53,5 @@ peoples' acceptance of my help.  I offer help and they can accept or not.
 Each individual is on his or her own path.  I can only offer help.  I cannot
 force people to accept my help.
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

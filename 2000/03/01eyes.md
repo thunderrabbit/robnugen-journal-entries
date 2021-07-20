@@ -30,5 +30,5 @@ has changed a teeninsey bit, but not much.
 
 <p>I think I will check my email then take nap.   Or just take a nap.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

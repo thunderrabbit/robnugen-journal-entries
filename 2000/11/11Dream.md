@@ -60,5 +60,5 @@ like Evan did and they all wondered how he climbed up there so fast.
 He shrugged off their question.  My vision was restored to normal and
 I soon woke up.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

@@ -30,4 +30,4 @@ about it.</p>
 revealed in their greater context; recovery is happening.</p>
 
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>

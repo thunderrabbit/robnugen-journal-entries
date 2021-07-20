@@ -30,5 +30,5 @@ hear it.
 <p>After some minutes, it finally stopped.  This time for the
 remainder of the night.
 
-<p><img src='/images/rob/wL-ROB.gif'>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
 

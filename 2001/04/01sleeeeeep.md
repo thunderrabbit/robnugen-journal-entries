@@ -39,5 +39,5 @@ anything.  Wow.</p>
 request.  I finally was able to wake up for real around 8:30, with
 memories of a dream that has since escaped my brain.</p>
 
-<p><img src='/images/rob/wL-ROB.gif'/></p>
+<p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
 

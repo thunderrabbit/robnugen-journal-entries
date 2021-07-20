@@ -57,5 +57,5 @@ sleeeep.</p>
 <p>I'm going to leave my Visor open beside my bed in case inspirational
 typing strikes tonight.</p>
 
-<p><img src="/images/rob/wL-ROB.gif">
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif">
 

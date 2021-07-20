@@ -35,6 +35,6 @@ I kind of stuttered a lot. ^_^;; Rob, Pat, and Bryn did the three
 headed monster again and I'd say it was probably the funniest one yet,
 I'll miss you guys in the coming year or so.</p>
 
-<p><img src="/images/rob/wL-ROB.gif"/></p>
+<p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
 
 
