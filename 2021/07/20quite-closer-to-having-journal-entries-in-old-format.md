@@ -21,5 +21,13 @@ I found https://web-stage.metacpan.org/pod/Markdent::Parser which is
 up to date, but I am too tired now to figure out how to install it,
 much less use it.
 
+##### 09:14 Tuesday 20 July 2021 JST
 
+I created several issues on the old journal code, mostly to fix the markdown.
 
+I fixed a couple issues, including one I assigned to Fred and then
+realized I know how to fix it.
+
+I just about think we can skip installation of a full Markdown parser
+and just do it with some Perl magic because I haven't used that much
+markdown magic..
