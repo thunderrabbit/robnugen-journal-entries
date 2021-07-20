@@ -31,3 +31,27 @@ realized I know how to fix it.
 I just about think we can skip installation of a full Markdown parser
 and just do it with some Perl magic because I haven't used that much
 markdown magic..
+
+##### 09:44
+
+For the past 30 minutes I have been trying to get the above changes
+since this morning to be applied to the other repo, which has the same
+file, but different repo history.
+
+I tried `git format-patch` (oh that reminds me of another markdown
+thing I need to do for backticks..)
+
+But when I try to apply the patch to the other repo, it keeps saying
+
+    [canyonville]$ git am 0001-what.patch
+    Applying: what
+    error: 2021/07/20quite-closer-to-having-journal-entries-in-old-format.md: does not exist in index
+    Patch failed at 0001 what
+    Use 'git am --show-current-patch' to see the failed patch
+    When you have resolved this problem, run "git am --continue".
+    If you prefer to skip this patch, run "git am --skip" instead.
+    To restore the original branch and stop patching, run "git am --abort".
+
+As best I can tell,
+`2021/07/20quite-closer-to-having-journal-entries-in-old-format.md`
+DOES exist in index.
