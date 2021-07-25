@@ -31,3 +31,11 @@ scp -P 22 -i /home/robnugen/privatekey hello.txt robnugen@remote:path
 ```
 
 How can I send filenames from `STDOUT` for use in `scp`?
+
+##### 16:11 Sunday 25 July 2021 JST
+
+Thanks to [/u/xkcd__386 answer](https://www.reddit.com/r/bash/comments/oohgee/monitor_files_in_directory_and_scp_them_to_server/h5yrojr/?utm_source=reddit&utm_medium=web2x&context=3), this is what I have been using, sans linewraps:
+
+    inotifywait --exclude '.git/*' -mre modify . |
+    stdbuf -oL uniq | sed -ue 's/ MODIFY //' |
+    xargs -d$'\n' -I% scp  -P 22 -i /home/robnugen/privatekey % robnugen@remote:path%
