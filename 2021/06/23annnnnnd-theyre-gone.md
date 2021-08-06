@@ -65,3 +65,25 @@ Do you still want to check in?
 
     Blessings
     Rob
+
+##### 07:34 Sunday 01 August 2021 JST
+
+Rob,
+<br/>Your insights look good.
+<br/>I have had a month of clarity and fun developments. 
+<br/>It saddens me to let our relationship go, but I realize that I am no longer interested in the emotional dynamic, the old-school female feels the emotions while the man feels calm and superior. I am so glad to be free of codependent relationships. 
+<br/>
+<br/>snip
+<!--
+<br/>I have to say the following. It feels wrong not to:
+<br/>Rob, you’ve got integrity. Use it. Face your shit. Talk to your wife about the fact that there is no adulthood as long as your toxic mother-in-law is in the house. Tell her either the mother goes or you go. And then go home to Texas. Bring Lin if that works. Ditch the mkp and its manipulations. Take care of your blood family. Make peace with your ghosts. Get a job with benefits. Deal with what is going on here in the States. Be part of the solution, not mired in the toxicity of the problem.
+-->
+<br/>
+<br/>I’d be lying if I said I wasn’t sad to say goodbye. The work we did together got me to the point that I don’t need that type of relationship anymore. But I know that the energy freed by letting go will enliven my life.
+<br/>
+<br/>Best,
+
+> the man feels calm and superior
+
+Wait, what?  I never felt superior nor implied that I might.
+

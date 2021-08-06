@@ -8,9 +8,8 @@ draft: false
 
 <img
 src=
-https://b.robnugen.com/journal/2021/2021_jul_30_order_888.png"
-alt="2021 jul 30 order 888"
-class="title" />
+"https://b.robnugen.com/journal/2021/2021_jul_30_order_888.png"
+alt="2021 jul 30 order 888" />
 
 Today I signed up for Chris Guillbeau's [Idea to
 Income](https://courses.sidehustleschool.com/) course.  Order number
