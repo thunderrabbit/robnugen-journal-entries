@@ -8,7 +8,7 @@ draft: false
 
 (written 09:50 Thursday 05 August 2021 JST)
 
-13. ✓ MT3 Next step glue holder
+1. ✓ MT3 Next step glue holder
 16. ✓ Look up previous todos
 17. ✓ chakra meditation
 27. ✓ help / watch AC guy install AC
@@ -16,22 +16,29 @@ draft: false
 26. ✓ Fix `C-c b` in my `~/.emacs.d/modes/hugo/hugo.el`
 5. ✓ AB Coding
 10. ✓ Weekly Alignment - Joy
-24. Write email including invitation to go barefoot
-25. post on blog
-3. send to Tiny Letter
-9. Schedule barefoot walk for late August
-2. SHS Chris G
+
+##### 08:06 Tuesday 10 August 2021 JST
+
+Above is how much I did that day.  Leaving the list intact below, I will now mark the ones I've done as of this writing:
+
+24. ✓ Write email including invitation to go barefoot
+25. ✓ post on blog
+3. ✓ send to Tiny Letter
+9. ✓ Schedule barefoot walk for late August
+2. ✓ SHS Chris G
 6. Email AB to plan meeting
 7. Write Slow Down
 4. Callan Rush
-8. Call Missy
+8. ✓ Call Missy
 11. write blog entry for
    [Inner Warrior](https://www.robnugen.com/events/2021/07/29weekly-alignment-accessing-our-inner-warrior/)
 12. Schedule next Weekly Alignment
 14. MT3 update time calculation
 15. MT3 fix dl from youtube
-18. write journal entry
+18. ✓ write journal entry
 19. [Get a list of my journal URLs as they are created with
     Hugo](https://gitlab.bmemc.com/thunderrabbit/Perl_driven_calendar_journal_from_2012/issues/17)
     (link requires login)
-23. Create or lookup questionnaire questions
+23. ✓ Create or lookup questionnaire questions
+
+Hmmm. 8 done, 8 not.

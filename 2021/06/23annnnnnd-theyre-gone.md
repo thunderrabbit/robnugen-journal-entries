@@ -36,6 +36,8 @@ Cheers,
 
 ##### My reply 19:35 Friday 30 July 2021 JST
 
+HI _____
+
 I felt a lot of emotions when our meetings stopped.
 
 I've learned working with you:
@@ -70,8 +72,8 @@ Do you still want to check in?
 
 Rob,
 <br/>Your insights look good.
-<br/>I have had a month of clarity and fun developments. 
-<br/>It saddens me to let our relationship go, but I realize that I am no longer interested in the emotional dynamic, the old-school female feels the emotions while the man feels calm and superior. I am so glad to be free of codependent relationships. 
+<br/>I have had a month of clarity and fun developments.
+<br/>It saddens me to let our relationship go, but I realize that I am no longer interested in the emotional dynamic, the old-school female feels the emotions while the man feels calm and superior. I am so glad to be free of codependent relationships.
 <br/>
 <br/>snip
 <!--
@@ -87,3 +89,77 @@ Rob,
 
 Wait, what?  I never felt superior nor implied that I might.
 
+##### 20:31 Monday 09 August 2021 JST
+
+Hi Rob,
+
+I didn’t want to write you again after all I said in that last note,
+but after I saw the recent post on Facebook from your chakras class,
+it is only fair:
+
+I was super pissed when you told me you were taking that chakra class
+and paying $1000 for it, when I had been giving you multiple sessions
+a week and not receiving a dime.
+
+##### 23:49 Monday 09 August 2021 JST
+
+HI _____
+
+When we started our arrangement, you said you would not be comfortable
+accepting money because you were not sure of your skills.
+
+After we took a break, you asked what I had learned.  I said your
+support was worth money.  Maybe I should have been more clear to say I
+wanted to pay you to work with me.
+
+However, after your reply (when I asked what you had learned), you
+said you didn't want to continue our interactions.
+
+The other things you said in that email, plus your email below make it
+clear to me I don't want to continue our interactions either.
+
+In my way of seeing things, I offered you money twice.  I remember I
+was looking for someone who could work on commission.
+
+You chose not to receive money at the time I first offered.
+
+You chose to not work with me the second time I (essentially) offered you money.
+
+Your skills are worth plenty.  You will find your way forward.  I think we both will.
+
+  Blessings
+  Rob
+
+##### 6:07 Tuesday 10 August 2021 JST
+
+Rob,
+
+Thank you for this reply.
+
+Would you do me a favor?
+
+I want to know what is going on that I changed my opinions on some
+things with you so drastically.  I was triggered by something.  Would
+you be willing to meet with me to help me to determine what is going
+on?
+
+##### 8:20 Tuesday 10 August 2021 JST
+
+HI _____
+
+Yes; I can do that.  I am curious as well.
+
+I have 6pm to 7pm Central US time available for tomorrow - the rest of the week.   Does that work for you?
+
+If not, please look for a good time on my calendly link https://calendly.com/robnugen/
+
+##### 10:23 Tuesday 10 August 2021 JST
+
+Rob,
+<br>I appreciate it.
+
+I am going to sleep on this and get back to you about a time.
+
+#### 8:38 Wednesday 11 August 2021 JST
+
+Rob - I have been on zoom since 8. It is 8:38. I see you are on Facebook but you are not responding.
