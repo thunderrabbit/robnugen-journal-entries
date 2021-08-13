@@ -1,4 +1,4 @@
-g---
+---
 date: '2020-11-15T18:30:12+09:00'
 slug: i-have-not-studied-japanese-much-this-month
 title: 'I have not studied Japanese much this month'
