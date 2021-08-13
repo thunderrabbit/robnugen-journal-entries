@@ -26,6 +26,8 @@ while(<>) {
 	select $ERROR;
         print $link . color('red') . " \x{2717} --> $status\n" . color('reset');
     } else {
+	select STDOUT;   # show correctly loaded links on screen so we have a heartbeat of it working
         print $link . color('green') . " \x{2713}\n" . color('reset');
     }
+    sleep(2);   # don't attack the server too hard
 }
