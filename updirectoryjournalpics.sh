@@ -24,3 +24,5 @@ scp -r $DIRECTORY b.rn:$REMOTE_JOURNAL_YEAR/$BASENAME
 ssh b.rn "$REMOTE_USER_DIR/scripts/fix_mode_journal_year.sh"
 
 ssh b.rn "$REMOTE_USER_DIR/scripts/create_thumbs.pl $REMOTE_JOURNAL_YEAR/$BASENAME"
+
+ssh b.rn "ln $REMOTE_USER_DIR/scripts/index.php $REMOTE_JOURNAL_YEAR/$BASENAME/"    # Allow view images via https://b.robnugen.com/
