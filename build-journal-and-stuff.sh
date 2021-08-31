@@ -18,7 +18,7 @@ fi
 
 GET_REMOTE_FILES_BOOL="N"    ## Default to N because if we do not pull them it is the same as if they DNE
 
-####   BEGIN get files from ~/barefoot_rob/content/journal
+####   BEGIN get files from ~/barefoot_rob_master/content/journal
 
 REMOTE_UNTRACKED_FILES=$(~/journal/untracked_remote_journal_file_shower.sh)
 if [ -n "$REMOTE_UNTRACKED_FILES" ]   # check non-zero length
@@ -44,10 +44,10 @@ if [ $GET_REMOTE_FILES_BOOL = "y" ]
         exit
 fi
 
-####   END get files from ~/barefoot_rob/content/journal
-####   BEGIN get files from ~/barefoot_rob/content
+####   END get files from ~/barefoot_rob_master/content/journal
+####   BEGIN get files from ~/barefoot_rob_master/content
 
-REMOTE_UNTRACKED_FILES=$(~/barefoot_rob/untracked_remote_bfr_file_shower.sh)
+REMOTE_UNTRACKED_FILES=$(~/barefoot_rob_master/untracked_remote_bfr_file_shower.sh)
 if [ -n "$REMOTE_UNTRACKED_FILES" ]   # check non-zero length
     then
 	echo There are untracked remote files.
@@ -67,11 +67,11 @@ fi
 if [ $GET_REMOTE_FILES_BOOL = "y" ]
     then
         echo Calling script to get the files, then exiting
-	~/barefoot_rob/untracked_remote_bfr_file_getter.sh "$REMOTE_UNTRACKED_FILES"
+	~/barefoot_rob_master/untracked_remote_bfr_file_getter.sh "$REMOTE_UNTRACKED_FILES"
         exit
 fi
 
-####   END get files from ~/barefoot_rob/content
+####   END get files from ~/barefoot_rob_master/content
 echo
 echo "BEGIN Get commits from remote server"
 ~/journal/get_git_commits.sh
@@ -100,14 +100,14 @@ if [ -z "$COMMIT_MESSAGE" ]
 fi
 
 
-cd ~/barefoot_rob/content/journal
+cd ~/barefoot_rob_master/content/journal
 git pull
 
-cd ~/barefoot_rob/
+cd ~/barefoot_rob_master/
 git add content/journal/
 sleep 0.1      # so git lock file can be removed
 
-###  DO NOT SWEEP UP EDITS I HAVE NOT STAGED  cd ~/barefoot_rob/
+###  DO NOT SWEEP UP EDITS I HAVE NOT STAGED  cd ~/barefoot_rob_master/
 ###  DO NOT SWEEP UP EDITS I HAVE NOT STAGED  git add .      # add any blog entries I created with Emacs
 ###  DO NOT SWEEP UP EDITS I HAVE NOT STAGED  sleep 0.1      # so git lock file can be removed
 
