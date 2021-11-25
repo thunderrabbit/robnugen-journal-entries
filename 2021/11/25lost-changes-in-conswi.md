@@ -13,3 +13,7 @@ mouse (or haven't figured out a way to do it), I miss clicked my git
 GUI on Atom and unstaged all my changes.   Dammit.  I had done some of
 them weeks ago, but wasn't ready to commit because I wasn't ready to
 commit.
+
+##### 18:23
+
+oh yay I just discovered Fn two-finger click did a right click.
