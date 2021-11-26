@@ -10,5 +10,7 @@ draft: false
 
 Via
 [/r/lawofattraction](https://www.reddit.com/r/lawofattraction/comments/r277nx/who_is_abraham_hicks_exactly/),
-I found a link to https://llresearch.org and a transcript of the Law of One,
-which might be The Ra Material I have wanted to grok.
+I [found a
+link](https://www.reddit.com/r/lawofattraction/comments/r277nx/comment/hm3zect/?utm_source=reddit&utm_medium=web2x&context=3)
+to https://llresearch.org and a transcript of the Law of One, which
+might be The Ra Material I have wanted to grok.
