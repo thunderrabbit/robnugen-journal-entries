@@ -29,4 +29,8 @@ the server is told how big the radius is, so if we double-click
 the larger radius.
 
 4. I am using [Slim Framework](https://www.slimframework.com/) and
-going through a tutorial or two to tutor 
+going through a tutorial or two to tutor my computer to be an API for
+Pop Pop Chaos.
+
+5. I got to the word "tutor" above before leaving this SOML 15 days
+ago.
