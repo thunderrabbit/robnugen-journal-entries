@@ -31,7 +31,7 @@ Probably going to  do something like
 ***
   * = R R D
 
-** = R D L U
+** = R D L
 **
 </pre>
 
