@@ -14,8 +14,6 @@ Wooooo!!
 
 AND, Sho just put together a video for my December 30th walk!
 
-Here is the first version, which has a typo at 0:30
-
 https://www.youtube.com/watch?v=TkplKUngeFE
 
 {{< youtube TkplKUngeFE >}}
