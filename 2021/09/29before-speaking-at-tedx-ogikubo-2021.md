@@ -18,3 +18,5 @@ in post edits.
 It was great!!  I am super glad everything went so well for me on
 stage.  I couldn't see much of the audience at all.  Could just see
 Lin and Soness on the front row, cheering me on!
+
+{{< youtube LJzb5n9ldP8 >}}
