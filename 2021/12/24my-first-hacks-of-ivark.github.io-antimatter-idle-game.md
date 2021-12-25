@@ -22,3 +22,7 @@ This clicks the "Dimensional Sacrifice" button every 2 hours, to
 amp up the something of the Eighth Dimension.
 
     setInterval(function(){$('#sacrifice').click()}, 2 * 60 * 60 * 1000);
+
+#### 25 Dec 2021
+
+They worked overnight; now I have 100 Eighth Dimensions.  Turning it off now.
