@@ -72,7 +72,11 @@ if [ $GET_REMOTE_FILES_BOOL = "y" ]
 fi
 
 ####   END get files from ~/barefoot_rob_master/content
+
 echo
+echo "Exiting because we don't wanna commit anything automagically."
+exit
+
 echo "BEGIN Get commits from remote server"
 ~/journal/get_git_commits.sh
 GOT_REMOTE_COMMITS=$?     # must get it now before the echo resets $? value to 0
