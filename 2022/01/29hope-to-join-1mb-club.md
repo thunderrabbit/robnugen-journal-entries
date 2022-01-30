@@ -8,7 +8,8 @@ draft: false
 
 I know my images are too large as they are sent.  I tried effing with
 code on b.robnugen.com to shrink them according to the size of the
-browser, but never really solved the issue.
+browser, but never really solved the issue. (Possibly because FF tries
+not to leak screen size and other identifying info.)
 
 Right now according to this site / page, the top page of my site is
 2.77MB
