@@ -13,6 +13,6 @@ I even wrote down a list of 20 different ways that I can expand my barefoot walk
 
 [![2022 feb 02 possible ways to expand barefoot events](//b.robnugen.com/journal/2022/thumbs/2022_feb_02_possible_ways_to_expand_barefoot_events.jpeg)](//b.robnugen.com/journal/2022/2022_feb_02_possible_ways_to_expand_barefoot_events.jpeg)
 
-Here's my to do list for tomorrow
+Here's my to do list for tomorrow, starting with backing up MT3 frames I took on Tuesday.
 
 [![2022 feb 02 planned todos for february 3rd](//b.robnugen.com/journal/2022/thumbs/2022_feb_02_planned_todos_for_february_3rd.jpeg)](//b.robnugen.com/journal/2022/2022_feb_02_planned_todos_for_february_3rd.jpeg)          
