@@ -11,15 +11,15 @@ who was their (same-size) dog who died 11+ years ago.
 
 Hmm what could be causing this?
 
-Let's see ([O] means good):
+Let's see ([ ] means bad):
 
-* [X] Don't smoke.
-* [X] Stay at a healthy weight.
-* [X] Get plenty of exercise.
+* [ ] Don't smoke.
+* [ ] Stay at a healthy weight.
+* [ ] Get plenty of exercise.
 * [?] Eat healthy food.
 * [?] Manage health problems including diabetes, high blood pressure, and high cholesterol.
-* [X] Stay mentally alert by learning new hobbies, reading, or solving crossword puzzles.
-* [X] Stay involved socially. Attend community activities, church, or support groups.
+* [ ] Stay mentally alert by learning new hobbies, reading, or solving crossword puzzles.
+* [ ] Stay involved socially. Attend community activities, church, or support groups.
 * [?] If your doctor recommends it, take aspirin.
 
 https://stanfordhealthcare.org/medical-conditions/brain-and-nerves/dementia/prevention.html
