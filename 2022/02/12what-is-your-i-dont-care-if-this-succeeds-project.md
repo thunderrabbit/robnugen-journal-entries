@@ -19,9 +19,9 @@ I've been working about 2 hours per week since 2017. 10,000+ frames
 taken so far. At 12 frames per second, the video runs about 14
 minutes.
 
-It all started after I uploaded a video
+It all started after I uploaded a video of Marble Track 2
 https://www.youtube.com/watch?v=mlUqu6QE7bw (nsfw language) and some
-people asked me how I made it.
+people asked me *how* I made the marble track.
 
 This URL will show (a playlist of the snippets showing) in great
 detail exactly how to create a marble track.
