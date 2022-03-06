@@ -7,7 +7,7 @@ date: '2022-03-06T10:15:54+09:00'
 
 I'm writing this while on the train, so I have no idea when I'll see this list again but here are top of mind things to do:
 
-* Post this list on my site
+* ✓ Post this list on my site
 * Contact Missy re PATHCAST
 * Prepare for Wolfpack presentation
 * Continue Ashley Moon's 90 Day Decluttering program
@@ -25,9 +25,9 @@ These are on top of scheduled things:
 * Marble Track 3 Tuesday
 * OOMG Tuesday
 * Crossroads coming soon
-* SOGO Bootcamp now
-* MKP friends and family event after that
-* Lin hangout after that
+* ✓ SOGO Bootcamp now
+* ✓ MKP friends and family event after that
+* ✓ Lin hangout after that
 * Walk and Talk events
 * Wolfpack presentation next Monday
 
