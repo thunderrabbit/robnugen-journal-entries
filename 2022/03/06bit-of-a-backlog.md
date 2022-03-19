@@ -11,12 +11,12 @@ I'm writing this while on the train, so I have no idea when I'll see this list a
 * ✓ Contact Missy re PATHCAST
 * ✓ Nearly done prepping Japan 2021 tax info
 * ✓ File 2021 taxes in Japan (done 11 March 2022)
-* Prepare for Wolfpack presentation
+* ✓ Prepare for Wolfpack presentation
 * Continue Ashley Moon's 90 Day Decluttering program
 * File 2021 taxes in USA
 * Continue Shiz website
-* Continue AB website
-* Continue ConSwi development
+* ✓ Continue AB website
+* ✓ Continue ConSwi development
 * Upgrade Fileswarm OS
 * Upgrade b.robnugen.com smaller file sizes
 
@@ -25,11 +25,11 @@ These are on top of scheduled things:
 * ✓ BLT on Monday
 * ✓ Marble Track 3 Tuesday
 * ✓ OOMG Tuesday
-* Crossroads coming soon
+* ✓ Crossroads coming soon
 * ✓ SOGO Bootcamp now
 * ✓ MKP friends and family event after that
 * ✓ Lin hangout after that
-* Walk and Talk events
-* Wolfpack presentation next Monday
+* ✓ Walk and Talk events
+* ✓ Wolfpack presentation next Monday
 
 
