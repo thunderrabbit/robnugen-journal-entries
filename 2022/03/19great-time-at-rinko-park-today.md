@@ -7,3 +7,5 @@ date: '2022-03-19T20:27:59+09:00'
 [![2022 mar 19 rinko parkleaf incoming ](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_mar_19_rinko_parkleaf_incoming_.jpeg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_mar_19_rinko_parkleaf_incoming_.jpeg)
 [![2022 mar 19 rinko parkteru found a rock](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_mar_19_rinko_parkteru_found_a_rock.jpeg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_mar_19_rinko_parkteru_found_a_rock.jpeg)
 [![2022 mar 19 rinko parkrock pass](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_mar_19_rinko_parkrock_pass.jpeg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_mar_19_rinko_parkrock_pass.jpeg)          
+
+Oh my gosh I forgot to take pictures of the group!
