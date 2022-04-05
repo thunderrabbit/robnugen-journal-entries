@@ -17,3 +17,9 @@ So hopefully the image above shows upright.  The one I uploaded via
 
 Page 62 of my journal BOOK TWENTY-ONE is where I wrote about it to
 track my progress.
+
+##### 17:24
+
+Okay, testing locally, I see the thumbnail is rotated properly, so we
+are quite close.  Click the second thumb above now and it shows up
+sideways.
