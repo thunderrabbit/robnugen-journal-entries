@@ -12,7 +12,7 @@ Good news!
 
 I wrote a script that helps me easily compile journal entries from
 last year.   What took hours before now can be done in a couple
-minutes.  Look at the speed of these entries!
+minutes.  Look at the how quickly I was able to finish these!
 
     commit 2e8e7bd1d78aa79dca39fb45ffa8207e10d56aad (HEAD -> master)
     Author: Rob Nugen
