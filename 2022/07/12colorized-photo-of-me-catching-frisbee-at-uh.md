@@ -9,8 +9,7 @@ draft: false
 (written 09:20 Tuesday 12 July 2022 JST)
 
 <img
-src=
-https://b.robnugen.com/journal/2022/rob_catching_disc_colorized.jpg"
+src="https://b.robnugen.com/journal/2022/rob_catching_disc_colorized.jpg"
 alt="rob catching disc colorized"
 class="title" />
 
