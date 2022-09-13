@@ -22,4 +22,9 @@ spin up anything.
 
 I uninstalled + reinstalled Vagrant but no luck.
 
-I'm gonna reboot my machine now
+I'm gonna reboot my machine now.
+
+##### 16:42
+
+Oh good.  Rebooting my machine, going for a walk, and watching Rick
+and Morty S6:E2 fixed it.
