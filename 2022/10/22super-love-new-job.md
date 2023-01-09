@@ -7,7 +7,7 @@ draft: false
 ---
 
 I've really enjoyed my new workmates and working conditions in general
-at my new company, VA.
+at my new company.
 
 I don't have to wear shoes.
 
