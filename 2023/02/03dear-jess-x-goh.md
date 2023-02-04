@@ -98,6 +98,6 @@ the right way to go.
 
 Have a brilliant day and lovely weekend.
 
-    blessings
-     - Rob
+blessings
+- Rob
 
