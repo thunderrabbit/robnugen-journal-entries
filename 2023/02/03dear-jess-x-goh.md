@@ -101,3 +101,10 @@ Have a brilliant day and lovely weekend.
 blessings
 - Rob
 
+##### 22:00 Thursday 23 February 2023 JST
+
+Jess and I have met via Zoom 3 or 4 times now; I'm really enjoying
+chatting and learning more about improving my ability to "sell myself"
+and my gifts.
+
+I look forward to meeting her in Tokyo in June!
