@@ -108,3 +108,5 @@ chatting and learning more about improving my ability to "sell myself"
 and my gifts.
 
 I look forward to meeting her in Tokyo in June!
+
+https://www.lifeinconfidence.com/innerchildhealingcirclebarefootrob

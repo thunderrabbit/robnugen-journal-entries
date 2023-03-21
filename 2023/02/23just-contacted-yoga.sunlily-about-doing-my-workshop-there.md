@@ -23,3 +23,5 @@ for her
 workshop](https://www.lifeinconfidence.com/ttwtokyo)
 in June
 https://www.lifeinconfidence.com/ttwtokyo
+
+https://www.lifeinconfidence.com/innerchildhealingcirclebarefootrob
