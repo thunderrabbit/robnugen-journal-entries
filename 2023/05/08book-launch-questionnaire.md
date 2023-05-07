@@ -22,28 +22,28 @@ jumped in on it he had a laugh.  Nice synchronicity!
 
 Now I'm recording some of my answers to their Book Launch Questionnaire:
 
-*What is the theme of your book?*
+**What is the theme of your book?**
 <br>Nourish your own personal connection with God/spirit/EPP/higher
 power/YOUniverse
 
-*What is your title or title options for the book (if you have worked
-this out already)*
+**What is your title or title options for the book (if you have worked
+this out already)**
 <br>SLOW DOWN
 
-*Describe your target audience*
+**Describe your target audience**
 <br>age 25-45, who are trying to work out how to better themselves and the world around them
 
-*When Someone has finished reading your book, what do you want them to
-think?*
+**When Someone has finished reading your book, what do you want them to
+think?**
 <br>"Wow, so my actions *do* make a difference, and I already have
 everything I need to move forward!"
 
-*When Someone has finished reading your book, what do you want them to
-feel?*
+**When Someone has finished reading your book, what do you want them to
+feel?**
 <br>Important, Inspired, Grounded, Empowered, Compassion, Gratitude,
 Joy
 
-*When Someone has finished reading your book, what do you want them to
-do?*
+**When Someone has finished reading your book, what do you want them to
+do?**
 <br>Connect with spirit / reach out to their loved ones / pet the dog
 more mindfully / engage in life more passionately
