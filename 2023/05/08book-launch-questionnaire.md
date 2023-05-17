@@ -33,17 +33,16 @@ this out already)**
 **Describe your target audience**
 <br>age 25-45, who are trying to work out how to better themselves and the world around them
 
-**When Someone has finished reading your book, what do you want them to
-think?**
+**When Someone has finished reading your book, what do you want them to think?**
 <br>"Wow, so my actions *do* make a difference, and I already have
 everything I need to move forward!"
 
-**When Someone has finished reading your book, what do you want them to
-feel?**
-<br>Important, Inspired, Grounded, Empowered, Compassion, Gratitude,
-Joy
+**When Someone has finished reading your book, what do you want them to feel?**
+<br>Important, Valuable, Inspired, Grounded, Empowered, Compassion, Gratitude, Joy
 
-**When Someone has finished reading your book, what do you want them to
-do?**
-<br>Connect with spirit / reach out to their loved ones / pet the dog
-more mindfully / engage in life more passionately
+**When Someone has finished reading your book, what do you want them to do?**
+<br>connect with spirit /
+reach out to their loved ones /
+pet the dog more mindfully /
+engage in life more passionately /
+get the results an important person gets
