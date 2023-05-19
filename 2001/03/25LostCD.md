@@ -22,11 +22,11 @@ to find a larger venue.  We'll see how it goes!</p>
  I turned in a CD after reviewing it, but I  forgot to
 include the CD in the case.</p>
 
-<p>I  figured I must hae left it at work..  Drove to
+<p>I  figured I must have left it at work..  Drove to
 work and cleared off my whole desk and didn't find it.
   Just as I was about to give up, I shifted from panic
-search mode to allowing the CD to come to me.  I 
-looked underneath my desk and didn't find it, but... 
+search mode to allowing the CD to come to me.  I
+looked underneath my desk and didn't find it, but...
 ah.. I saw my computer; I had left it in the CD drive
 of my computer.  (I looked in my CD player, which is
 what I used  to listen to CDs because my computer
