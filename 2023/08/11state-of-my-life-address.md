@@ -30,8 +30,7 @@ non-responsivenes.  I had paid him about 2800 USD, but hardly worth
 a flght to get it back.
 14. He did help me write several words, but his non-responsiveness
 recently has made me think more than twice about it.
-15. I just got my alien regitration card updated.  It's valid until
-2030.
+15. I just got my alien regitration card updated.  It's valid until 2030.
 16. Now that Lin and I are separating, I wonder if I'll be here that
 long.
 17. I'm working full time at VA.  Still working part time at AB.  Not
