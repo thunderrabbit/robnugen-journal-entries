@@ -21,7 +21,7 @@ SOGO
 ultimate
 11. Since February, I have run an average of one Cuddle Party per
 month
-12. They have had up to 7 attendees and as few as 1
+12. They have had up to 5 attendees and as few as 1
 10. Jess has been working with me to get Cuddle Party events promoted
 13. Due to low attendance so far, we will go back to drawing board
 after September 2023 event
