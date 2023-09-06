@@ -12,7 +12,7 @@ draft: false
 2. I live about 5 minutes away from our house.  There's a small hill
    between us.
 3. Jennie is still fine and genki, though she might miss me.
-4. Live in this 1 loft apartment is certainly simpler
+4. Live in this 1BR 1 loft apartment is certainly simpler
 5. I'm so grateful to not be fighting and grumbling all the time.
 6. since Jan 2023, Mike and I have started ultimate each Sunday after
    SOGO

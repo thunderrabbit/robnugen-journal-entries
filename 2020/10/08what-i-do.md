@@ -50,7 +50,7 @@ that for a long time, son."  Huh.
 
 I still struggle now.  Am I still a good man even though I don't have
 kids of my own?  Can I hold space for fathers even though I'm not one?
-I have found i can if I stop worrying about it and just hold space.
+I have found I can if I stop worrying about it and just hold space.
 
 What does hold space even mean?  It means being present; being a
 witness for another man's work.  Not like bring your mentor to work
@@ -97,4 +97,4 @@ magician online active and healthy.  Move smoothly between roles in
 your life, knowing when to cut clean and when to lean in.
 
 
-Someone who is in a cross cultural relationship. 
+Someone who is in a cross cultural relationship.
