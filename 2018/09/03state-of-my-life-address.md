@@ -31,7 +31,7 @@ date: 2018-09-03T06:12:06+09:00
    TOML file in any of my repos, but now I think I will, for a couple
    of reasons.
    * One, so I can show you my
-   [TOML file of all Marble Track 3 videos](https://github.com/marbletracks/marbletrack3.com/blob/master/data/playlists/knownvideos.toml)
+   [TOML file of all Marble Track 3 videos](https://github.com/marbletracks/marbletrack3.com/blob/master/data/playlists/knownvideos.toml) which currently has 8.97 days of time spent on MT3
    * Two, so the website for Marble Track 3 is easier to recreate
    (without installing <del>Go</del> <ins>extra libraries</ins>)
    * Three, so I can have a [history of the file](https://github.com/marbletracks/marbletrack3.com/commit/16c9e0acfbebcccf8de83e94ae738e61efdc1f47), which currently is *not* sorted by Publish Date, though I would like it to be
@@ -47,7 +47,7 @@ date: 2018-09-03T06:12:06+09:00
    me several good ideas, which I am beginning to implement.  Oh, that
    reminds me, I need to write to John Gaughan, re: volunteer burnout
 
-8. I am using a water Android phone from a couple years ago, an Aquos
+8. I am using a waterproof Android phone from a couple years ago, an Aquos
    something something.  I am using my Macbook from more than a couple
    years ago, perhaps 5 years (therefore 50 laptop-years).  I got a
    new backpack with wheels and a hard plastic cover for my computer.
@@ -79,10 +79,29 @@ date: 2018-09-03T06:12:06+09:00
     Azabu for UG lesson featuring Akari, Emi, Kazu, Kenji, Masa,
     Ryuya, Shinji, and Taka (in ABC order).
 
-
 14. It looks like co-gender group will not happen tonight.
 
 15. Just arrived in Shinjuku.  Changing trains now.
 
 16. Oh, that reminds me, I have been keeping track of my finances,
     down to the yen, since July of this year.
+
+These items adapted 9 september 2023 from an old notebook.  I'll write them in present (progressive) tense even though many have changed.
+
+17. I'm teaching/mentoring Yuna weekly on Saturdays
+
+18. I'm working on ConSwi with Tariq
+
+19. I attend SOGO Bootcamp regularly
+
+20. I've started 'writing' a story about Seth arriving in MJG's brain.
+
+21. I am studying Japanese.
+
+22. I enjoy communicating with Prentiss
+
+23. For AB I set up a network on a Vagrant box using Ansible thanks to Travis
+
+24. Dee ran a men's group I attended
+
+25. I love holding space for men's work.
