@@ -22,3 +22,11 @@ them with jokes &amp; describing episodes of the Simpsons.  We had a good joking
 
 page 186
 
+##### 21:29 Monday 18 September 2023 JST
+
+Hello from 30 years in the future!
+
+I just finished reading the remaining 3 pages of the book.  It was
+basically more of the same.
+
+The book is now tossed in the trash as I declutter my space. Just 22.2 books to go haha hmmm.
