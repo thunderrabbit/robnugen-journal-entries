@@ -68,5 +68,35 @@ draft: false
     some piano wire from a shop I found by following inspiration at
     each turn.
 
+##### 18:54pm Saturday 14 October 2023
 
+2023 above is not a typo.  These are notes I put together based on some old notes from BOOK ONE (small notebook, not a journal)
 
+SOML 2020 June
+
+* Lin and I live nearish Shin Yurigaoka with Jennie
+* Duo Lingo and Kumon で日本語を勉強します
+* design your day with Shraddhan
+* BLB Bold Life Brotherhood
+* Godot ConSwi
+* Freya re coaching
+* Kitsiri story plan
+* Yuna
+* walk with Lin and Mai
+* EOS
+* TY
+* climbing trees
+* Preparing for my walk across Honshu
+* MT3
+* Akihabara
+* Mo
+* LCLA Life Changing Life Adventures
+* YAM Your Art Matters
+* Yuri
+* Erik re website
+* Sloyer: what does 1000 times bigger look like?
+* me:
+* * walking barefoot from City to City meeting presenting leading sharing
+* * Wikipedia pages for me and my creations
+* * Inspiring others into bold action, shedding shackles and bringing peace via heart connection
+* * my works translated into languages I don't know
