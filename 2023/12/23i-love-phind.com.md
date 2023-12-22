@@ -15,3 +15,11 @@ and now git repo tweaks.
 ```
 git push -u origin master
 ```
+
+Okay well this didn't work; I'm trying to get `git push` to push to
+TWO repos at the same time.
+
+But now I'm thinking of something even better; using AI and stuff to
+help restore my old Perl-powered journal.  I look forward to the
+calendrical sidebar that Fred designed back in the day.  Gosh yes that
+is great!
