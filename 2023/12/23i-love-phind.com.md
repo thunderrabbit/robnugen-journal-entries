@@ -13,5 +13,5 @@ it and getting suggestions for things, including writing, fixing code,
 and now git repo tweaks.
 
 ```
-git push -u norigin master
+git push -u origin master
 ```
