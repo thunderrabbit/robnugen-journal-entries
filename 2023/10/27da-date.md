@@ -8,5 +8,5 @@ draft: false
 
 (written 07:59 Friday 27 October 2023 JST)
 
-Lin and I have a date for our last date while together.
+Lin and I have a date for our last date while together: 15 November.
 
