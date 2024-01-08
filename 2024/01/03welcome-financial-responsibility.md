@@ -26,4 +26,3 @@ But when I looked today, I see I was wrong.  So I wrote to Mr CEO
 [![salary consciousness](//b.robnugen.com/journal/2024/thumbs/salary_consciousness.png)](//b.robnugen.com/journal/2024/salary_consciousness.png)
 
 
-
