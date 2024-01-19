@@ -14,11 +14,9 @@ talking to Jess about our upcoming trip to Bali.
 [![2024-jan-20-train to
 airport](//b.robnugen.com/journal/2024/thumbs/2024-jan-20-train_to_airport.png)](//b.robnugen.com/journal/2024/2024-jan-20-train_to_airport.png)
 
-<!--
 [![2024-01-20 map to airport](//b.robnugen.com/journal/2024/thumbs/2024-01-20_map_to_airport.png)](//b.robnugen.com/journal/2024/2024-01-20_map_to_airport.png)
 
 [![2024-01-20 hotel near denpasar](//b.robnugen.com/journal/2024/thumbs/2024-01-20_hotel_near_denpasar.png)](//b.robnugen.com/journal/2024/2024-01-20_hotel_near_denpasar.png)
--->
 
 https://photos.app.goo.gl/jGG4HFmvdVdpcC6qL
 
