@@ -8,6 +8,8 @@ draft: false
 
 (written 07:13 Saturday 20 January 2024 JST)
 
+[![2024 jan 20 to shinjuku](//b.robnugen.com/journal/2024/thumbs/2024_jan_20_to_shinjuku.jpg)](//b.robnugen.com/journal/2024/2024_jan_20_to_shinjuku.jpg)
+
 After enjoying Homeway 90 from 新百合ヶ丘駅 (6:11) to 新宿駅
 (nonstop!) and Yamanote Line (6:34) from 新宿駅 to 日暮里駅, I'm
 gratefully on Skyliner 9 from 日暮里駅 (7:05) to NRT Terminal 1.
