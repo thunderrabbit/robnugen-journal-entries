@@ -101,6 +101,24 @@ Have a brilliant day and lovely weekend.
 blessings
 - Rob
 
+
+##### 18:28 3 February 2023 JST
+
+    Wow you have a great memory of Bondi Beach! Lol, yes I absolutely
+    love living there! It's summer here and super hot!
+
+    I definitely would love to go to Tokyo in June to run my trauma
+    recovery workshops there, need to see the demand for it is there
+    if I connect with the right people for it.
+
+    I love what you do, it's so great to encourage people to ground
+    themselves esp in a super busy city like Tokyo! It's been more
+    than 2 decades since I've been.
+
+    What are your thoughts on this meet up collaboration and my work?
+
+
+
 ##### 22:00 Thursday 23 February 2023 JST
 
 Jess and I have met via Zoom 3 or 4 times now; I'm really enjoying
@@ -109,4 +127,4 @@ and my gifts.
 
 I look forward to meeting her in Tokyo in June!
 
-https://www.lifeinconfidence.com/innerchildhealingcirclebarefootrob
+https://www.lifeinconfidence.com/
