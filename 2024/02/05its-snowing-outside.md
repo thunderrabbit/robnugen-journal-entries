@@ -1,8 +1,8 @@
 ---
-title: It's snowing outside
+title: "It's snowing outside"
 tags: [ "2024", "snow", "work", "va", "cold", "barefoot", "boots" ]
 author: Rob Nugen
-date: 2024-02-05T15:23+09:00
+date: 2024-02-05T15:23:00+09:00
 draft: false
 ---
 

@@ -18,8 +18,5 @@ pretty good turnout overall.
 We played until tree shadows covered our field.  Acro yoga peeps were
 still going, so we headed over there and did a few poses.  Good times!
 
-<img
-src=
-https://b.robnugen.com/journal/2024/2024_jan_14_acro_yoga.jpg"
-alt="2024 jan 14 acro yoga"
-class="title" />
+
+[![2024 jan 14 acro yoga](//b.robnugen.com/journal/2024/thumbs/2024_jan_14_acro_yoga.jpg)](//b.robnugen.com/journal/2024/2024_jan_14_acro_yoga.jpg)

@@ -2,7 +2,7 @@
 title: Just asked Phind.com for help
 tags: [ "2024", "phind", "git", "hmmm" ]
 author: Rob Nugen
-date: 2024-02-05T15:28+09:00
+date: 2024-02-05T15:28:00+09:00
 draft: false
 ---
 

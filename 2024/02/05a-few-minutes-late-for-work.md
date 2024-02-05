@@ -2,7 +2,7 @@
 title: A few minutes late for work 
 tags: [ "2024", "work", "late", "cold", "va" ]
 author: Rob Nugen
-date: 2024-02-05T09:25+09:00
+date: 2024-02-05T09:25:00+09:00
 draft: false
 ---
 

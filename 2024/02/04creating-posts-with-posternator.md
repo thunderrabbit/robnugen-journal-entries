@@ -2,7 +2,7 @@
 title: Creating posts with Posternator
 tags: [ "2024", "life", "journal", "fun" ]
 author: Rob Nugen
-date: 2024-02-04T21:22+09:00
+date: 2024-02-04T21:22:00+09:00
 draft: false
 ---
 

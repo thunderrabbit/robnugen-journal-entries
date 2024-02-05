@@ -2,7 +2,7 @@
 title: Strange git behavior 
 tags: [ "2024", "git", "strange", "quick" ]
 author: Rob Nugen
-date: 2024-02-04T21:53+09:00
+date: 2024-02-04T21:53:00+09:00
 draft: false
 ---
 

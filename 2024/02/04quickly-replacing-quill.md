@@ -2,7 +2,7 @@
 title: Quickly replacing Quill
 tags: [ "2024", "yay", "programming", "quick", "php82" ]
 author: Rob Nugen
-date: 2024-02-04T21:42+09:00
+date: 2024-02-04T21:42:00+09:00
 draft: false
 ---
 

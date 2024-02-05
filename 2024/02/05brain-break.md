@@ -2,7 +2,7 @@
 title: brain break
 tags: [ "2024", "brain", "va", "break" ]
 author: Rob Nugen
-date: 2024-02-05T12:45+09:00
+date: 2024-02-05T12:45:00+09:00
 draft: false
 ---
 
