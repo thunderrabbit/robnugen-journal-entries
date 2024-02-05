@@ -7,7 +7,7 @@
 REMOTE_UNTRACKED_FILES="$1"
 
 # REMOTE_JOURNAL_DIR should match ~/journal/untracked_remote_journal_file_shower.sh
-REMOTE_JOURNAL_DIR='~/barefoot_rob/content/journal'         # must be in single quotes so ~ does not expand locally.
+REMOTE_JOURNAL_DIR='~/barefoot_rob_journal/content/journal'         # must be in single quotes so ~ does not expand locally.
 REMOTE_JUSTIN_CASE='~/untracked_files_copied_to_local_box'  # must be in single quotes so ~ does not expand locally.
 
 while read -r line; do
