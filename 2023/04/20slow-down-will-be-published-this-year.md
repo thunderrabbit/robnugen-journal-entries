@@ -27,3 +27,13 @@ I just want to hella hide and hold back.
 what's not good enough to do?"
 
 I'm stalling.   Fffffffffffffffff
+
+##### 20:14 Tuesday 06 February 2024 JST
+
+Yeah turns out the publisher was a bit more of a 'talker' than a
+publisher.
+
+He kept saying "my team" blah blah but it turned out to just be him
+and ChatGPT or something.
+
+Very frustrating
