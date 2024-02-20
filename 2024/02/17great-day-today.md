@@ -10,7 +10,7 @@ Great day today featuring
 
 * hanging laundry outside
 * Seeing 40% chance of rain all day
-* Thanking God for clean dry laundry 
+* Thanking God for clean dry laundry
 * Block therapy session with Misa
 * quick chat on LINE with Missy
 * happy dance with Nathan in The Pink Cow
