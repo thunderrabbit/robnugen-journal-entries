@@ -10,6 +10,6 @@ draft: false
 
 <img
 src=
-https://b.robnugen.com/journal/2024/2024_bondi/20240312_rob_suns_out_buns_out.jpg"
+https://b.robnugen.com/journal/2024/2024_bondi/20240312_rob_suns_out_buns_out.jpg
 alt="20240312 rob suns out buns out"
 class="title" />
