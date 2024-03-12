@@ -18,3 +18,5 @@ me: "Woah it's wild today!"
 <br>she: "oh shit"
 
 After that wave, we were some meters apart.
+
+[![20240304 rob feet in sand](//b.robnugen.com/journal/2024/2024_bondi/thumbs/20240304_rob_feet_in_sand.jpg)](//b.robnugen.com/journal/2024/2024_bondi/20240304_rob_feet_in_sand.jpg)
