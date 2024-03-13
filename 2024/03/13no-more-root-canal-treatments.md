@@ -8,10 +8,24 @@ draft: false
 
 #### 09:30am Wednesday 13 March 2024
 
-Hmm very interesting to hear the dangers and ineffectiveness of root canal treatments.  Removing my molar doesn't sound like what I wanted but true enough, there's an abscess under one of my teeth that got a root canal many years ago.
+Holistic dentist Dr Howard suggests removing this tooth with an abcess below it.
 
-Dr Howard's main point seems to be ya cannot possibly clean all the bacteria from the 6-10 kilometers of micro tubal nerve canals, just 8 bacteria wide.
+<img src="//b.robnugen.com/journal/2024/2024_mar_13_abcess_dead_tooth_xray.jpg">
 
-Sealing that shit inside eventually causes the bacteria to "morph"(?) into anaerobic bacteria which causes damage etc etc blah blah blah.
+Hmm very interesting to hear the dangers and ineffectiveness of root
+canal treatments.  Removing my molar doesn't sound like what I wanted,
+but... true enough, there's an abscess under one of my teeth that got a
+root canal many years ago.
+
+<img src="//b.robnugen.com/journal/2024/2024_mar_13_abcess_root_canal_xray.jpg">
+
+Dr Howard's main point seems to be ya cannot possibly clean all the
+bacteria from the 6-10 kilometers of micro tubal nerve canals, just 8
+bacteria wide.
+
+Sealing that shit inside eventually causes the bacteria to "morph"(?)
+into anaerobic bacteria which causes damage etc etc blah blah blah.
 
 🤔 Hmmm
+
+
