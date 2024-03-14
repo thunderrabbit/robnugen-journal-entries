@@ -2,7 +2,7 @@
 title: "Thoughtful Thursdays"
 tags: [ "social", "thoughtful", "thursdays" ]
 author: Rob Nugen
-date: 2024-03-14T22:04:53+09:00
+date: 2024-03-14T22:04:53+11:00
 draft: false
 ---
 
