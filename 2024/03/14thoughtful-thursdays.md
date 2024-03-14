@@ -21,7 +21,6 @@ person, basically reciprocal listening style.  Finally we finished
 with closing intention for the upcoming week.
 
 <img
-src=
-https://b.robnugen.com/journal/2024/2024_mar_14_thoughtful_thursday.jpeg"
+src="https://b.robnugen.com/journal/2024/2024_mar_14_thoughtful_thursday.jpeg"
 alt="2024 mar 14 thoughtful thursday."
 class="title" />

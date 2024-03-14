@@ -12,7 +12,6 @@ Last night on our way home, Jess and I saw lights at Blackwood cafe
 where they were apparently doing a bit of filming.
 
 <img
-src=
-https://b.robnugen.com/journal/2024/2024_mar_14_filming_at_blackwood.jpeg"
+src="https://b.robnugen.com/journal/2024/2024_mar_14_filming_at_blackwood.jpeg"
 alt="2024 mar 14 filming at blackwood."
 class="title" />
