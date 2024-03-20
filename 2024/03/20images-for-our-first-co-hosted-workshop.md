@@ -1,5 +1,5 @@
 ---
-title: "Images for our first co-hosed workshop"
+title: "Images for our first co-hosted workshop"
 tags: [ "2024", "yay", "first", "jess", "rob", "host", "images" ]
 author: Rob Nugen
 date: 2024-03-20T08:11:00+09:00
