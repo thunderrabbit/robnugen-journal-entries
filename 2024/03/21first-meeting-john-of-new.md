@@ -28,3 +28,7 @@ Here's the recording of our session.  Maybe I coulda jumped in, but I'm a great 
 
 
 {{< youtube I0A64xl0jHI >}}
+
+
+dh_r2ixxd
+
