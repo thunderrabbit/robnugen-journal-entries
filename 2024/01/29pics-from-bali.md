@@ -2,7 +2,7 @@
 title: "Pics from Bali"
 tags: [ "bali", "pics" ]
 author: Rob Nugen
-date: 2024-03-25T00:30:24+09:00
+date: 2024-01-29T00:30:24+09:00
 draft: false
 ---
 
