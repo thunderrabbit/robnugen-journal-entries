@@ -13,3 +13,5 @@ well as thumbnails.  yay!
 
 https://github.com/thunderrabbit/badmin.robnugen.com/commit/248f9319548270f18dc3cf0b287a1ae811ce8d23
 
+Now I just need to tell the index.php file to not create thumbs for
+the 1000px images, but do show the 1000px images if they exist
