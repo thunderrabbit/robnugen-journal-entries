@@ -3,7 +3,7 @@ title: "Beautiful Bondi Beach day"
 tags: [ "2024", "beautiful", "beach", "Bondi " ]
 author: Rob Nugen
 date: 2024-04-01T17:35:00+09:00
-alias: "/journal/2024/04/01/thank-you-bondi/"
+aliases: "/journal/2024/04/01/thank-you-bondi/"
 draft: false
 ---
 
