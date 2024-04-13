@@ -10,16 +10,27 @@ REMOTE_UNTRACKED_FILES="$1"
 REMOTE_JOURNAL_DIR='~/barefoot_rob_journal/content/journal'         # must be in single quotes so ~ does not expand locally.
 REMOTE_JUSTIN_CASE='~/untracked_files_copied_to_local_box'  # must be in single quotes so ~ does not expand locally.
 
-while read -r line; do
-    mkdir -p $(dirname $line);
-    scp -F ~/.ssh/config_no_visual_keys bfr:$REMOTE_JOURNAL_DIR/$line $line
-    if [ $? -eq 0 ]; then
-        echo copy OK
-      	echo moving remote file to $REMOTE_JUSTIN_CASE
-      	# https://stackoverflow.com/a/9393147/194309 -n keeps ssh from breaking while loop
-      	ssh -n -F ~/.ssh/config_no_visual_keys bfr "mv $REMOTE_JOURNAL_DIR/$line $REMOTE_JUSTIN_CASE"
-    else
-        echo copy FAIL
-        echo trying next file   # if one file failed, no reason to give up on the others
-    fi
-done <<< "$REMOTE_UNTRACKED_FILES"
+# Prepare directory structure locally for the incoming files
+echo "$REMOTE_UNTRACKED_FILES" | while read -r line; do
+    mkdir -p $(dirname "$line")
+done
+
+# Build the scp command with all file paths
+SCP_CMD="scp -F ~/.ssh/config_no_visual_keys"
+for line in $REMOTE_UNTRACKED_FILES; do
+    SCP_CMD+=" bfr:$REMOTE_JOURNAL_DIR/$line ./$line"
+done
+
+# Execute the scp command to transfer all files at once
+eval $SCP_CMD
+
+if [ $? -eq 0 ]; then
+    echo "All files copied successfully."
+    # Move all remote files to the just-in-case directory
+    for line in $REMOTE_UNTRACKED_FILES; do
+        ssh -n -F ~/.ssh/config_no_visual_keys bfr "mv $REMOTE_JOURNAL_DIR/$line $REMOTE_JUSTIN_CASE"
+    done
+else
+    echo "Failed to copy files."
+fi
+
