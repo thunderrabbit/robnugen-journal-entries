@@ -16,12 +16,17 @@ echo "$REMOTE_UNTRACKED_FILES" | while read -r line; do
 done
 
 # Build the scp command with all file paths
-SCP_CMD="scp -F ~/.ssh/config_no_visual_keys"
+SCP_CMD="scp ~/.ssh/config_no_visual_keys bfr:$REMOTE_JOURNAL_DIR/{"
 for line in $REMOTE_UNTRACKED_FILES; do
-    SCP_CMD+=" bfr:$REMOTE_JOURNAL_DIR/$line ./$line"
+    SCP_CMD+="$line,"
 done
+# trim the trailing comma
+SCP_CMD=${SCP_CMD%,}
+
+SCP_CMD+="} ."
 
 # Execute the scp command to transfer all files at once
+echo "Executing: $SCP_CMD"
 eval $SCP_CMD
 
 if [ $? -eq 0 ]; then
