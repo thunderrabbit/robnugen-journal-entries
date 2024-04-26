@@ -76,6 +76,19 @@ girrrrrrrrrrrrrrrrrrrrrl" holding the last word as she turned on her
 piano seat away from grand piano and mic 180 degrees to harpsichord
 and mic and finished out the word and the song.</p>
 
+##### 00:54 Saturday 27 April 2024 JST
+
+posted to YT:  https://www.youtube.com/watch?v=WlBXorG3zmw&lc=Ugw_oN11NR2gfweKMHd4AaABAg.A2MCMI0WvJsA2hFB28t9Dh
+
+In Houston (in 1994?) Tori played Precious Things on her
+Bosendorfer(?) Grand up to "with their nine inch nails and little
+fascist panties tucked inside the heart of every nice
+girrrrrrrrrrrrrrrrrr" continuing the last word "rrrrrrrrrrrrrrr" as
+she turned on her piano seat away from the mic so we could hear her
+pure voice "rrrrrrrrrrrrr" through the air as she completed the turn
+180 degrees to the other mic and harpsichord to finish out the word
+"rrrrrllll" and the song.
+
 <p>Woah.</p>
 
 <p>The <em>best</em> part of that was during her rotation, the
