@@ -21,6 +21,8 @@ Though the photos were not both taken just now, the second one was and the count
 
 ### 17:55 29 April 2024
 
+While headed home
+
 * 203 footsteps up station-facing staircase, including landings.
 
 * 156 footsteps down the apartment-facing staircase including landings.
