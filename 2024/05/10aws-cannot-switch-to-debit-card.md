@@ -24,7 +24,7 @@ I called AWS and sent the above screenshots after the guy asked very politely wh
 
 ![2024 05 10 aws yuno s](//b.robnugen.com/journal/2024/2024_05_10_aws_yuno_s.png)
 
-Fortunately, good service from Sanjan, including excess apostrophes.
+Fortunately, good service from Sanjan, despite excess apostrophes.
 
     Hello there,
     
