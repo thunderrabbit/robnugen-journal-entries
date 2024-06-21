@@ -7,10 +7,10 @@ date: 2003-12-29
 
 <p class=date>10:48pm JST Monday 29 December 2003</p>
 
-<p>§Ê§ﬂ cancelled tonight (because Gateway 21 is closed today) so I
-emailed Õµª“ and said we could hang out after all.</p>
+<p>„ÇÜ„Åø cancelled tonight (because Gateway 21 is closed today) so I
+emailed Ë£ïÂ≠ê and said we could hang out after all.</p>
 
-<p>Õµª“ called me after her work and drove out to πÀ≈Á where we ate
+<p>Ë£ïÂ≠ê called me after her work and drove out to Á∂±Â≥∂ where we ate
   at Miho's and studied Japanese at my apartment for a bit.  She read
   the robot crab story to me in Japanese and then I read (read made
   up) an English version for her given the pictures in the story.</p>

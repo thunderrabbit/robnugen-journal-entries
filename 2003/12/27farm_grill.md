@@ -10,13 +10,13 @@ date: 2003-12-27
 <p>Ate at Farm Grill in Ginza, the restaurant DruDaddy and that guy
   and I ate at some months ago, maybe to celebrate our end of
   probation paychecks.  Large buffet and all I can drink and good
-  stuff like that.  Lubo, ¤¢¤¤¤³, Grace, Kat, ¤«¤ª¤ê, Dan, Orivia, Jen
+  stuff like that.  Lubo, ã‚ã„ã“, Grace, Kat, ã‹ãŠã‚Š, Dan, Orivia, Jen
   and I were there for two hours (time limited) of chowing.</p>
 
-<p>Rode on the train beside ¤«¤ª¤ê who helped me study my vocab flash
+<p>Rode on the train beside ã‹ãŠã‚Š who helped me study my vocab flash
   cards (need to buy some more; I lost my new set, but most of them
   were blank; I'm happy about that) which I was quite happy to do
-  instead of sitting with the Went home to ¹ËÅç with the group and
+  instead of sitting with the Went home to ç¶±å³¶ with the group and
   they drank more at the izakiah they frequent near the station.
   Morag joined us after a while.</p>
 

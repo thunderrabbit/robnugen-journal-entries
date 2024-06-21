@@ -7,7 +7,7 @@ date: 2003-12-28
 
 <p class=date>7:54pm JST Sunday 28 December 2003</p>
 
-<p>Met ¤Ê¤ß today in Shibuya.  Haven't seen her since her tap
+<p>Met ãªã¿ today in Shibuya.  Haven't seen her since her tap
   performance.  We went to kaitein sushi (much to her surprise that I
   liked it) and had 8 plates each.  (2 sushi pieces per plate, except
   for the two cheap plates which had 1)</p>
