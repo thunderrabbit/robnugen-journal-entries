@@ -7,16 +7,16 @@ date: 2003-12-31
 
 <p class=date>10:58am JST Wednesday 31 December 2003</p>
 
-<p>Taught Õµª“ how to say "HI Miss Llama; I've heard a lot about
+<p>Taught Ë£ïÂ≠ê how to say "HI Miss Llama; I've heard a lot about
   you."  Money.</p>
 
-<p>Told  Õµª“ about Silent Football (briefed her on the concept of no
+<p>Told  Ë£ïÂ≠ê about Silent Football (briefed her on the concept of no
   actual football and the two offensive moves) as we took the Tokaido
-  line from ¿Ó∫Í to ≈Ïµ˛... but then...</p>
+  line from Â∑ùÂ¥é to Êù±‰∫¨... but then...</p>
 
 <p class=date>12:09pm</p>
 
-<p>We got way lost, well maybe not way lost, but got on the ª≥§ŒºÍ
+<p>We got way lost, well maybe not way lost, but got on the Â±±„ÅÆÊâã
   line the wrong direction and Yuuko was like, "we are going to
   Shinagawa," which is exactly where we had been before so we checked
   the map and jumped off the train and back on the other direction and
@@ -37,12 +37,12 @@ date: 2003-12-31
   next two things, but she did ride the subsequent everythings,
   including the Pocari Sweat sponsored Wonder Drop; we sat both in the
   back the first time then both in the front the second time.  got a
-  little •”•∑•Á•”•∑•Á but it was still fun.  Then watched a guy do
+  little „Éì„Ç∑„Éß„Éì„Ç∑„Éß but it was still fun.  Then watched a guy do
   mostly a talk performance, but ultimately he rode a giraffe unicycle
   and juggled, including some oddly shaped knives and an apple.  Good
   stuff, but more showmanship than physical performance.</p>
 
-<p>Now we've just eaten in Cafe Danmark. §™§§§∑§§°£</p>
+<p>Now we've just eaten in Cafe Danmark. „Åä„ÅÑ„Åó„ÅÑ„ÄÇ</p>
 
 <p class=date>10:38pm JST Wednesday 31 December 2003</p>
 
@@ -55,17 +55,17 @@ date: 2003-12-31
 
 <p>(*)whatEVER </p>
 
-<p>Having fun with Õµª“.</p>
+<p>Having fun with Ë£ïÂ≠ê.</p>
 
 <p class=date>1:28am JST Thursday 1 January 2004</p>
 
 <p>I'll probably put up a (I've forgotten the word) page of pictures
-  for the aquarium that's in »¨∑ ≈Á•∑°º•—•È•¿•§•π (Hakkeijima Sea
+  for the aquarium that's in ÂÖ´ÊôØÂ≥∂„Ç∑„Éº„Éë„É©„ÉÄ„Ç§„Çπ (Hakkeijima Sea
   Paradise); they've got some pretty fly aquatic animals and an
   annoying number of girls going "kawaiiiii" (cute) fucking over and
   over at every little thing the animals do or are.</p>
 
-<p>Õµª“ and I are running out of energy, which I predicted in half of
+<p>Ë£ïÂ≠ê and I are running out of energy, which I predicted in half of
   my mind when I was like, "welp, I'll bah me a all day pass ifins
   it'll be good fer alla tomorra, but ifin it's only good fer tonight,
   you ken fergit it."  or something like that.</p>
@@ -91,4 +91,4 @@ says "no sleeping."</p>
 
 <p>fuck I'm tired.</p>
 
-<p>I taught Õµª“ the phrase "it's fuckin' cold."</p>
+<p>I taught Ë£ïÂ≠ê the phrase "it's fuckin' cold."</p>
