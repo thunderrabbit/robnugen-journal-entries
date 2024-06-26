@@ -13,3 +13,13 @@ different books for the rest of my life. That will prevent me from
 thinking I have to write One Book To Rule Them All.
 
 https://writerontheside.com
+
+    Hey Hassan
+    
+    Thank you for sharing your wisdom today.  I'll get to work on stuff as best I can.
+    
+    In other news, I was unceremoniously dropped by my internet connection.
+    I just wanted to let you know it wasn't intentional that I left without expressing gratitude!
+    
+       blessings
+        - Rob
