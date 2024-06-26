@@ -16,3 +16,5 @@ messed up characters:
 
 1. C-x RET r  euc-jp   RET  yes  RET
 2. C-c RET f  RET
+
+I guess the next thing would be to detect such files.
