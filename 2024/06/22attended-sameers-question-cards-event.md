@@ -14,7 +14,4 @@ https://www.meetup.com/find-peace-within-community/events/301250557
 
 Photo from after half the attendees had left:
 
-<img
-src="https://b.robnugen.com/journal/2024/sameer_jess_rob_bella.jpeg"
-alt="sameer jess rob bella."
-class="title" />
+[![sameer jess rob bella.](//b.robnugen.com/journal/2024/thumbs/sameer_jess_rob_bella.jpeg)](//b.robnugen.com/journal/2024/sameer_jess_rob_bella.jpeg)
