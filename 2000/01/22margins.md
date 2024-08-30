@@ -38,7 +38,7 @@ Yes!  Wow.  That was easier than I thought.  I encourage everyone to only
 write using fixed width fonts and make their margins auto-self-justifying
 like this one.  For truly, this is simple.  The real test begins with the
 next paragraph from which I will begin shrinking the right margin by just
-one character per line.  I shall still maintain five lines per paragraph.  
+one character per line.  I shall still maintain five lines per paragraph.
 
 Here we are with five lovely five-line paragraphs above, each with lovely
 auto-justification of seventy-three characters in each line.  But watch.
