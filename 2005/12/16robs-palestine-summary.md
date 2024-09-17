@@ -261,7 +261,7 @@ We had an orientation by Ayesh, who told us a lot of things about the history of
 
 I thought, "Yikes stripes what kind of place am I in? I thought we were just going to go pick olives tomorrow. I thought the intifada was over."
 
-[Photos of Nablus](https://robnugen.com/cgi-local/journal.pl?type=all&date=2005/10/30#Old_city_tour)
+[Photos of Nablus](https://perl.robnugen.com/journal.pl?type=all&date=2005/10/30#Old_city_tour)
 
 -----------
 
