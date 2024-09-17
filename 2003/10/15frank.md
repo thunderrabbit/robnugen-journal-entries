@@ -7,8 +7,8 @@ date: 2003-10-15
 
 <p class=date>2:30pm JST Wednesday 15 October 2003</p>
 
-<p><a href="/images/travel/japan2003-2004/peeps/frank.jpg"><img
-src="/images/travel/japan2003-2004/peeps/thumbs/frank.jpg" border=0
+<p><a href="https://b.robnugen.com/travel/japan2003-2004/peeps/frank.jpg"><img
+src="https://b.robnugen.com/travel/japan2003-2004/peeps/thumbs/frank.jpg" border=0
 align=left></a>Frank is packing all his shit into two rather large black
 suitcases.  "Nightmare" about 20 times describes their mass.</p>
 

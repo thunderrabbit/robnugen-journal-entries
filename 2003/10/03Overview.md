@@ -86,13 +86,13 @@ things will be happening.</p>
 <p>ps: we saw some cool stuff: Ginkakuji and Kyoumizu</p>
 
 <p><a
-href="/images/travel/japan2003-2004/005_janette-trip/janette_trip-Images/32.jpg"><img
-src="/images/travel/japan2003-2004/005_janette-trip/janette_trip-Thumbnails/32.jpg"
+href="https://b.robnugen.com/travel/japan2003-2004/005_janette-trip/janette_trip-Images/32.jpg"><img
+src="https://b.robnugen.com/travel/japan2003-2004/005_janette-trip/janette_trip-Thumbnails/32.jpg"
 border=0></a></p>
 
 <p><a
-href="/images/travel/japan2003-2004/005_janette-trip/janette_trip-Images/37.jpg"><img
-src="/images/travel/japan2003-2004/005_janette-trip/janette_trip-Thumbnails/37.jpg"
+href="https://b.robnugen.com/travel/japan2003-2004/005_janette-trip/janette_trip-Images/37.jpg"><img
+src="https://b.robnugen.com/travel/japan2003-2004/005_janette-trip/janette_trip-Thumbnails/37.jpg"
 border=0></a></p>
 
 <p>- - - -</p>

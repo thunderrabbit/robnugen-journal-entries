@@ -195,8 +195,8 @@ seen me and was walking smiling toward me.  Big smiles, big hugs and
 showed her my injuries and summarized the scary parts.  What a great
 climb!</p>
 
-<p><a href="/images/travel/world/hawaii/kawaii/feb-2003/us_at_end_of_road.jpg"><img
-src="/images/travel/world/hawaii/kawaii/feb-2003/thumbs/us_at_end_of_road.jpg" border=1
+<p><a href="https://b.robnugen.com/travel/world/hawaii/kawaii/feb-2003/us_at_end_of_road.jpg"><img
+src="https://b.robnugen.com/travel/world/hawaii/kawaii/feb-2003/thumbs/us_at_end_of_road.jpg" border=1
 align=left></a> HI to Reenie and Zach and we headed back up to the
 car.  Zach took pictures of us by the BEACH CLOSED sign and pictures
 of us in a tree.</p>

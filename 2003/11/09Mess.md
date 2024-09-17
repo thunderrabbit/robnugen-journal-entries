@@ -11,13 +11,13 @@ date: 2003-11-09
 
 <p>Here's proof:</p>
 
-<p><a href="/images/travel/japan2003-2004/rooms/101.1/mess0.jpg"><img src="/images/travel/japan2003-2004/rooms/101.1/thumbs/mess0.jpg"></a></p>
+<p><a href="https://b.robnugen.com/travel/japan2003-2004/rooms/101.1/mess0.jpg"><img src="https://b.robnugen.com/travel/japan2003-2004/rooms/101.1/thumbs/mess0.jpg"></a></p>
 
-<p><a href="/images/travel/japan2003-2004/rooms/101.1/mess1.jpg"><img src="/images/travel/japan2003-2004/rooms/101.1/thumbs/mess1.jpg"></a></p>
+<p><a href="https://b.robnugen.com/travel/japan2003-2004/rooms/101.1/mess1.jpg"><img src="https://b.robnugen.com/travel/japan2003-2004/rooms/101.1/thumbs/mess1.jpg"></a></p>
 
-<p><a href="/images/travel/japan2003-2004/rooms/101.1/mess2.jpg"><img src="/images/travel/japan2003-2004/rooms/101.1/thumbs/mess2.jpg"></a></p>
+<p><a href="https://b.robnugen.com/travel/japan2003-2004/rooms/101.1/mess2.jpg"><img src="https://b.robnugen.com/travel/japan2003-2004/rooms/101.1/thumbs/mess2.jpg"></a></p>
 
-<p><a href="/images/travel/japan2003-2004/rooms/101.1/mess3.jpg"><img src="/images/travel/japan2003-2004/rooms/101.1/thumbs/mess3.jpg"></a></p>
+<p><a href="https://b.robnugen.com/travel/japan2003-2004/rooms/101.1/mess3.jpg"><img src="https://b.robnugen.com/travel/japan2003-2004/rooms/101.1/thumbs/mess3.jpg"></a></p>
 
 ###comments
 

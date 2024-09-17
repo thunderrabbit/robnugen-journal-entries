@@ -29,8 +29,8 @@ what it is, but it's also not why we came to Nara.</p>
 <p>Oh, a deer!</p>
 
 <p><a
-href="/images/travel/japan2003-2004/005_janette-trip/janette_trip-Images/46.jpg"><img
-src="/images/travel/japan2003-2004/005_janette-trip/janette_trip-Thumbnails/46.jpg"
+href="https://b.robnugen.com/travel/japan2003-2004/005_janette-trip/janette_trip-Images/46.jpg"><img
+src="https://b.robnugen.com/travel/japan2003-2004/005_janette-trip/janette_trip-Thumbnails/46.jpg"
 border=0 align=left></a> Geez louise how sidetracked can we get?  (not that it matters,
 we're on a lovely leisurely vacation) I looked over then thought,
 <em>hey a deer!</em> Sure enough, there was a deer.  I got a picture
@@ -68,8 +68,8 @@ my CD burner won't recognize blank CDs and therefore won't burn CDs,
 but hey it's still an idea.)</p>
 
 <p><a
-href="/images/travel/japan2003-2004/005_janette-trip/janette_trip-Images/51.jpg"><img
-src="/images/travel/japan2003-2004/005_janette-trip/janette_trip-Thumbnails/51.jpg"
+href="https://b.robnugen.com/travel/japan2003-2004/005_janette-trip/janette_trip-Images/51.jpg"><img
+src="https://b.robnugen.com/travel/japan2003-2004/005_janette-trip/janette_trip-Thumbnails/51.jpg"
 border=0 align=left></a> Okay, anyway, got cute pictures, including
 some nosing my camera, like that dog in California; I wonder if I can
 start a collection of pictures of animals sniffing the camera.</p>

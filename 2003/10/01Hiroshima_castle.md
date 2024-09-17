@@ -7,8 +7,8 @@ date: 2003-10-01
 
 <p class=date>2:59pm JST Wednesday 1 October 2003</p>
 
-<p><a href="/images/travel/japan2003-2004/005_janette-trip/janette_trip-Images/10.jpg"><img
-src="/images/travel/japan2003-2004/005_janette-trip/janette_trip-Thumbnails/10.jpg"
+<p><a href="https://b.robnugen.com/travel/japan2003-2004/005_janette-trip/janette_trip-Images/10.jpg"><img
+src="https://b.robnugen.com/travel/japan2003-2004/005_janette-trip/janette_trip-Thumbnails/10.jpg"
 border=0 align=left></a>
 After the museum we visited Hiroshima Castle, which had little
 remaining except a pagoda tower thing which had been rebuilt since the

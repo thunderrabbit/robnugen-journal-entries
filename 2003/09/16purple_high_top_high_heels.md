@@ -10,8 +10,8 @@ date: 2003-09-16
 <p>Shibuya shoes</a>
 
 <p><a
-href="/images/travel/japan2003-2004/fashion/purple_high_top_high_heels.jpg"><img
-src="/images/travel/japan2003-2004/fashion/thumbs/purple_high_top_high_heels.jpg" border=1><br>(click)</a></p>
+href="https://b.robnugen.com/travel/japan2003-2004/fashion/purple_high_top_high_heels.jpg"><img
+src="https://b.robnugen.com/travel/japan2003-2004/fashion/thumbs/purple_high_top_high_heels.jpg" border=1><br>(click)</a></p>
 
 <p>Fashion in Shibuya is sometimes bizarre, and sometimes ... wow.</p>
 

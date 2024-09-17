@@ -22,7 +22,7 @@ date: 1998-12-03
 </ul>
 
 <p>Tonight I scanned and uploaded several more pics.  Click <a
-href="/images/travel/costa_rica/1998/">here</a> and the new ones are
+href="https://b.robnugen.com/travel/costa_rica/1998/">here</a> and the new ones are
 numbered 09 - 11.
 
 <p>I'm going to bed.

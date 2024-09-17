@@ -9,10 +9,10 @@ date: 2003-02-18
 
 <p>Wailua Falls rules.</p>
 
-<p><a href="/images/travel/world/hawaii/kawaii/feb-2003/wailua/wailua_falls_far.jpg"><img
-src="/images/travel/world/hawaii/kawaii/feb-2003/wailua/thumbs/wailua_falls_far.jpg"
+<p><a href="https://b.robnugen.com/travel/world/hawaii/kawaii/feb-2003/wailua/wailua_falls_far.jpg"><img
+src="https://b.robnugen.com/travel/world/hawaii/kawaii/feb-2003/wailua/thumbs/wailua_falls_far.jpg"
 align=left border=1></a> <a
-href="/images/travel/world/hawaii/kawaii/feb-2003/wailua/wailua_falls_far_large.jpg">(476 K
+href="https://b.robnugen.com/travel/world/hawaii/kawaii/feb-2003/wailua/wailua_falls_far_large.jpg">(476 K
 version)</a> 
 
 <br>This is the Hawaii I came to see. Waterfalls about 30 meters tall,
@@ -24,8 +24,8 @@ area, past signs saying "DO NOT ENTER" but not past the signs that say
 "PEOPLE HAVE BEEN KILLED." Those signs were at the top of the falls.
 Yeah, if some cat fell from there, he'd be pretty fucked.</p>
 
-<p><a href="/images/travel/world/hawaii/kawaii/feb-2003/wailua/cat.jpg"><img
-src="/images/travel/world/hawaii/kawaii/feb-2003/wailua/thumbs/cat.jpg"
+<p><a href="https://b.robnugen.com/travel/world/hawaii/kawaii/feb-2003/wailua/cat.jpg"><img
+src="https://b.robnugen.com/travel/world/hawaii/kawaii/feb-2003/wailua/thumbs/cat.jpg"
 align=left border=1></a>
 <br>Speaking of cats, a cat was walking down the trail with us, and by
 cat I mean a four legged feline, about 2 years old.  Mostly white with
@@ -41,10 +41,10 @@ Zach was nice and came down slowly with them.</p>
 
 <p class=date>1:19pm</p>
 
-<p><a href="/images/travel/world/hawaii/kawaii/feb-2003/wailua/wailua_falls_close.jpg"><img
-src="/images/travel/world/hawaii/kawaii/feb-2003/wailua/thumbs/wailua_falls_close.jpg"
+<p><a href="https://b.robnugen.com/travel/world/hawaii/kawaii/feb-2003/wailua/wailua_falls_close.jpg"><img
+src="https://b.robnugen.com/travel/world/hawaii/kawaii/feb-2003/wailua/thumbs/wailua_falls_close.jpg"
 align=left border=1></a> <a
-href="/images/travel/world/hawaii/kawaii/feb-2003/wailua/wailua_falls_close_large.jpg">(436 K
+href="https://b.robnugen.com/travel/world/hawaii/kawaii/feb-2003/wailua/wailua_falls_close_large.jpg">(436 K
 version)</a>
 <br>Being behind those waterfalls is one of the coolest things I've
 done in Hawaii.  The wind resulting from the water falling blew so

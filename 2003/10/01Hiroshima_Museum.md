@@ -23,8 +23,8 @@ days?</p>
 
 <p>- - - -</p>
 
-<p><a href="/images/travel/japan2003-2004/005_janette-trip/janette_trip-Images/5.jpg"><img
-src="/images/travel/japan2003-2004/005_janette-trip/janette_trip-Thumbnails/5.jpg"
+<p><a href="https://b.robnugen.com/travel/japan2003-2004/005_janette-trip/janette_trip-Images/5.jpg"><img
+src="https://b.robnugen.com/travel/japan2003-2004/005_janette-trip/janette_trip-Thumbnails/5.jpg"
 border=0 align=left></a>
 LOTS of little kids from elementary to senior high are out here.
 Many are running amok.  janette and I watched a ceremonial offering of
@@ -34,6 +34,6 @@ paper cranes were presented by this elementary class.</p>
 <p>Soon as they were finished, the next elementary class began their
 ceremonial offering of 1000 paper cranes.</p>
 
-<a href="/images/travel/japan2003-2004/005_janette-trip/janette_trip-Images/4.jpg"><img
-src="/images/travel/japan2003-2004/005_janette-trip/janette_trip-Thumbnails/4.jpg"
+<a href="https://b.robnugen.com/travel/japan2003-2004/005_janette-trip/janette_trip-Images/4.jpg"><img
+src="https://b.robnugen.com/travel/japan2003-2004/005_janette-trip/janette_trip-Thumbnails/4.jpg"
 border=0></a>

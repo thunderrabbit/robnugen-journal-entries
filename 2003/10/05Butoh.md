@@ -12,11 +12,11 @@ realized oh I need to go this way instead) and therefore happened
 across a performance that I'm sure was butoh.  Nice.</p>
 
 <p><a
-href="/images/travel/japan2003-2004/005_janette-trip/janette_trip-Images/40.jpg"><img
-src="/images/travel/japan2003-2004/005_janette-trip/janette_trip-Thumbnails/40.jpg"
+href="https://b.robnugen.com/travel/japan2003-2004/005_janette-trip/janette_trip-Images/40.jpg"><img
+src="https://b.robnugen.com/travel/japan2003-2004/005_janette-trip/janette_trip-Thumbnails/40.jpg"
 border=0></a></p>
 
 <p><a
-href="/images/travel/japan2003-2004/005_janette-trip/janette_trip-Images/44.jpg"><img
-src="/images/travel/japan2003-2004/005_janette-trip/janette_trip-Thumbnails/44.jpg"
+href="https://b.robnugen.com/travel/japan2003-2004/005_janette-trip/janette_trip-Images/44.jpg"><img
+src="https://b.robnugen.com/travel/japan2003-2004/005_janette-trip/janette_trip-Thumbnails/44.jpg"
 border=0></a></p>

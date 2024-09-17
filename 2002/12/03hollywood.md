@@ -59,7 +59,7 @@ so she was all trying to wipe it off with a napkin.  Finally I
 convinced her to switch the heat to cool and that helped clear it
 up.</p>
 
-<p><a href="/images/travel/US/California/west_side.jpg"><img src="/images/travel/US/California/thumbs/west_side.jpg" align="left"></a>
+<p><a href="https://b.robnugen.com/travel/US/California/west_side.jpg"><img src="https://b.robnugen.com/travel/US/California/thumbs/west_side.jpg" align="left"></a>
 Drove up and down Hollywood Boulevard and took a few pics of the
 well lighted famous things.  (The width of Hollywood Boulevard is the
 same as West Gray.  But West Gray's Christmas decorations are just

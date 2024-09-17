@@ -122,7 +122,7 @@ scheduling and being busy.
 -------- 
 Vacation
 
-<a href="/images/travel/japan2003-2004/005_janette-trip/index.shtml">https://www.robnugen.com/images/travel/japan2003-2004/005_janette-trip/index.shtml</a>
+<a href="https://b.robnugen.com/travel/japan2003-2004/005_janette-trip/index.shtml">https://www.robnugen.com/images/travel/japan2003-2004/005_janette-trip/index.shtml</a>
 
 Vacation with janette was fantastic.
 

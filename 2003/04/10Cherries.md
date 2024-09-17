@@ -8,7 +8,7 @@ date: 2003-04-10
 <p class=date>12:22am JST Friday 11 April 2003</p>
 
 <p>I've just gotten images of the <a
-href="/images/travel/japan2003-2004/002_cherries/">cherry blossom
+href="https://b.robnugen.com/travel/japan2003-2004/002_cherries/">cherry blossom
 festival in Ueno Park</a> online!</p>
 
 ###comments

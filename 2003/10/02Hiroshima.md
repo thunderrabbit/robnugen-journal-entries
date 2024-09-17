@@ -7,8 +7,8 @@ date: 2003-10-02
 
 <p class=date>12:30pm JST Thursday 2 October 2003</p>
 
-<p><a href="/images/travel/japan2003-2004/005_janette-trip/janette_trip-Images/13.jpg"><img
-src="/images/travel/japan2003-2004/005_janette-trip/janette_trip-Thumbnails/13.jpg"
+<p><a href="https://b.robnugen.com/travel/japan2003-2004/005_janette-trip/janette_trip-Images/13.jpg"><img
+src="https://b.robnugen.com/travel/japan2003-2004/005_janette-trip/janette_trip-Thumbnails/13.jpg"
 border=0 align=left></a>
 Bought postcards, wrote one to Josephine, bought trolley passes,
 rode around on the trolleys while janette yammered with a Japanese

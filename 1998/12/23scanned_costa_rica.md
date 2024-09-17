@@ -14,7 +14,7 @@ date: 1998-12-23
 <p>But that's not all.  Today I have finished scanning and uploading
 all of my pictures from Costa Rica! I have not annotated all of them,
 but they are available in raw form <a
-href="/images/travel/costa_rica/1998/">here</a>.
+href="https://b.robnugen.com/travel/costa_rica/1998/">here</a>.
 
 <p>Yay!
 

@@ -8,8 +8,8 @@ date: 2003-10-05
 <p class=date>4:17pm JST Sunday 5 October 2003</p>
 
 <p><a
-href="/images/travel/japan2003-2004/005_janette-trip/janette_trip-Images/56.jpg"><img
-src="/images/travel/japan2003-2004/005_janette-trip/janette_trip-Thumbnails/56.jpg"
+href="https://b.robnugen.com/travel/japan2003-2004/005_janette-trip/janette_trip-Images/56.jpg"><img
+src="https://b.robnugen.com/travel/japan2003-2004/005_janette-trip/janette_trip-Thumbnails/56.jpg"
 border=0 align=left></a> That thar Buddha is big.</p>
 
 <p>I chose not to buy a 1000 yen tile on which I could write my name,
@@ -29,8 +29,8 @@ was forming, but janette pointed it out: there are little kids
 crawling through the hole in the pillar.</p>
 
 <p><a
-href="/images/travel/japan2003-2004/005_janette-trip/janette_trip-Images/60.jpg"><img
-src="/images/travel/japan2003-2004/005_janette-trip/janette_trip-Thumbnails/60.jpg"
+href="https://b.robnugen.com/travel/japan2003-2004/005_janette-trip/janette_trip-Images/60.jpg"><img
+src="https://b.robnugen.com/travel/japan2003-2004/005_janette-trip/janette_trip-Thumbnails/60.jpg"
 border=0 align=left></a> "<em>I</em> want to crawl through the
 pillar!"  I had heard about it from Sumika and told her that I would
 crawl through it when I went to see the Buddha.  I had forgotten all

@@ -9,8 +9,8 @@ date: 2003-11-12
 
 <p>Huge fun was had tonight.</p>
 
-<p><a href="/images/travel/japan2003-2004/parties/NOVA/unofficial/warawara_2003_nov_12.jpg"><img
-src="/images/travel/japan2003-2004/parties/NOVA/unofficial/thumbs/warawara_2003_nov_12.jpg" align="left"></a>
+<p><a href="https://b.robnugen.com/travel/japan2003-2004/parties/NOVA/unofficial/warawara_2003_nov_12.jpg"><img
+src="https://b.robnugen.com/travel/japan2003-2004/parties/NOVA/unofficial/thumbs/warawara_2003_nov_12.jpg" align="left"></a>
 Miki, Miki, Rachel, Rachel, et al, et al, were all there.  Really felt
 good to be welcomed into the group.  Carla paid 2000 yen for my orange
 juices and gyouza.  Kaori encouraged me to drink sake so I asked for
@@ -22,8 +22,8 @@ Kaori, Mamiko, Miho, Rachel, Lyle</p>
 
 <p>Invited both Miki's to see Nami's tap recital on the 24th.</p>
 
-<p><a href="/images/travel/japan2003-2004/peeps/Miki/miki_rob.jpg"><img
-src="/images/travel/japan2003-2004/peeps/Miki/thumbs/miki_rob.jpg" align="left"></a> KG Miki (she
+<p><a href="https://b.robnugen.com/travel/japan2003-2004/peeps/Miki/miki_rob.jpg"><img
+src="https://b.robnugen.com/travel/japan2003-2004/peeps/Miki/thumbs/miki_rob.jpg" align="left"></a> KG Miki (she
 used to be a kindergarten teacher, so (though no one calls her KG
 Miki), I'm distinguishing her this way) thinks she doesn't know enough
 English to go overseas, but she totally does and I totally told

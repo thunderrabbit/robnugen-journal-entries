@@ -271,7 +271,7 @@ On the day we were to pick olives, Ayesh arranged for a taxi-van to take us to t
 
 He said we could walk the rest of the way across the field where we'd be met by a man who would lead us to where he and his family were picking olives.  We piled out and immediately came across two cow carcasses, that seemed fairly intact except for the faces and tails.  One was in plain sight in the field, and another had fallen down a slope into a rather large ditch and mound that seems to have been dug across the middle of the fields.
 
-[overview of field with ditch near Salem](https://robnugen.com/images/travel/Palestine/2005_olive_harvest/olive_picking_in_salem/overview.jpg)
+[overview of field with ditch near Salem](https://b.robnugen.com/travel/Palestine/2005_olive_harvest/olive_picking_in_salem/overview.jpg)
 
 Shortly, we were met by a man with a yellow hat and headed across a settler road, and met some people picking olives.
 
@@ -291,13 +291,13 @@ We were not harassed by anyone, and once we had finished, we got a call on Ayesh
 
 They counted down in Hebrew from 3, it exploded, Sarah squealed, we got it on video.  
 
-[grenade before](https://robnugen.com/images/travel/Palestine/2005_olive_harvest/olive_picking_in_salem/francois_grenade_before.jpg)
+[grenade before](https://b.robnugen.com/travel/Palestine/2005_olive_harvest/olive_picking_in_salem/francois_grenade_before.jpg)
 
-[soldiers preparing to destroy grenade](https://robnugen.com/images/travel/Palestine/2005_olive_harvest/olive_picking_in_salem/busy_soldiers.jpg)
+[soldiers preparing to destroy grenade](https://b.robnugen.com/travel/Palestine/2005_olive_harvest/olive_picking_in_salem/busy_soldiers.jpg)
 
-[anticlimatic video of grenade destruction](https://robnugen.com/images/travel/Palestine/2005_olive_harvest/olive_picking_in_salem/Salem_grenade_destruction.mov)
+[anticlimatic video of grenade destruction](https://b.robnugen.com/travel/Palestine/2005_olive_harvest/olive_picking_in_salem/Salem_grenade_destruction.mov)
 
-[grenade after](https://robnugen.com/images/travel/Palestine/2005_olive_harvest/olive_picking_in_salem/francois_grenade_after.jpg)
+[grenade after](https://b.robnugen.com/travel/Palestine/2005_olive_harvest/olive_picking_in_salem/francois_grenade_after.jpg)
 
 We were informed it was not a real grenade.  
 
@@ -386,7 +386,7 @@ It was definitely a situation after which I thought of several things I could ha
 
 It turns out this is a brand new facility that opened yesterday according to my friend Sarah who has been going to and from Bethlehem almost every day during her stay in Jerusalem.
 
-[new checkpoint](https://robnugen.com/images/travel/Palestine/2005_olive_harvest/New_Bethlehem_checkpoint/702rampart_soldier_at_new_Bethlehem_checkpoint.jpg)
+[new checkpoint](https://b.robnugen.com/travel/Palestine/2005_olive_harvest/New_Bethlehem_checkpoint/702rampart_soldier_at_new_Bethlehem_checkpoint.jpg)
 
 --------
 

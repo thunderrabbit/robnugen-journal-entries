@@ -11,7 +11,7 @@ date: 2003-08-09
 then got to close out the day with a light schedule: kids, then man to
 man, then voice, then man to man.</p>
 
-<p><img src="/images/travel/japan2003-2004/peeps/hikari.jpg" align=left> Kids
+<p><img src="https://b.robnugen.com/travel/japan2003-2004/peeps/hikari.jpg" align=left> Kids
 lesson was awesome; ‚Ð‚©‚è is 8 and really good.  I went through the ASL
 alphabet with her and she told me how to sign thank you in Japanese (I
 think).  So I taught her how to say "thank you," and how to say "I'm 8

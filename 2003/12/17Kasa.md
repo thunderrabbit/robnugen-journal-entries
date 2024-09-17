@@ -56,8 +56,8 @@ date: 2003-12-17
 <p><em>がんばって</em> ("buck up, buttercup") and I got up to
   continue my journey.  Then I saw what had happened.</p>
 
-<p><a href="/images/travel/japan2003-2004/around_town/tsunashima/kasa.jpg"><img
-  src="/images/travel/japan2003-2004/around_town/tsunashima/thumbs/kasa.jpg" align="left"></a> I'm
+<p><a href="https://b.robnugen.com/travel/japan2003-2004/around_town/tsunashima/kasa.jpg"><img
+  src="https://b.robnugen.com/travel/japan2003-2004/around_town/tsunashima/thumbs/kasa.jpg" align="left"></a> I'm
   really glad I took the time to get a picture and didn't just try to
   get back on schedule.</p>
 

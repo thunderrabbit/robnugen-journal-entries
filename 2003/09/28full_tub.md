@@ -7,8 +7,8 @@ date: 2003-09-28
 
 <p class=date>8:38pm JST Sunday 28 September 2003</p>
 
-<p><a href="/images/travel/japan2003-2004/rooms/101.1/tub.jpg"><img
-src="/images/travel/japan2003-2004/rooms/101.1/thumbs/tub.jpg" align="left"></a> The
+<p><a href="https://b.robnugen.com/travel/japan2003-2004/rooms/101.1/tub.jpg"><img
+src="https://b.robnugen.com/travel/japan2003-2004/rooms/101.1/thumbs/tub.jpg" align="left"></a> The
 bath/shower room in my apartment is cramped, but has a cool feature.
 The shower can spray in the bathtub *or* all over the floor and no one
 minds.</p>
