@@ -8,7 +8,7 @@ draft: false
 
 I see a bunch of orange paint indicating where various sizes of airframes should stop.  A380 is like "um, I'll be over here."
 
-[![2024 oct 03a380 be like 1000](//b.robnugen.com/journal/2024/thumbs/2024_oct_03a380_be_like.jpeg)](//b.robnugen.com/journal/2024/2024_oct_03a380_be_like_1000.jpeg)
+[![2024 oct 03a380 be like 1000](//b.robnugen.com/journal/2024/thumbs/2024_oct_03_a380_be_like.jpeg)](//b.robnugen.com/journal/2024/2024_oct_03_a380_be_like_1000.jpeg)
 
 From phind.com
 
