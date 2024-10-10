@@ -15,15 +15,20 @@ echo "$REMOTE_UNTRACKED_FILES" | while read -r line; do
     mkdir -p $(dirname "$line")
 done
 
-# Build the scp command with all file paths
-SCP_CMD="scp ~/.ssh/config_no_visual_keys bfr:$REMOTE_JOURNAL_DIR/{"
-for line in $REMOTE_UNTRACKED_FILES; do
-    SCP_CMD+="$line,"
-done
-# trim the trailing comma
-SCP_CMD=${SCP_CMD%,}
-
-SCP_CMD+="} ."
+# Check if there's more than one file (space-separated file names)
+if [[ $REMOTE_UNTRACKED_FILES =~ [[:space:]] ]]; then
+    # Build the scp command with all file paths
+    SCP_CMD="scp -F ~/.ssh/config_no_visual_keys bfr:$REMOTE_JOURNAL_DIR/{"
+    for line in $REMOTE_UNTRACKED_FILES; do
+        SCP_CMD+="$line,"
+    done
+    # trim the trailing comma
+    SCP_CMD=${SCP_CMD%,}
+    SCP_CMD+="} ."
+else
+    # If there's only one file, build the scp command without brackets
+    SCP_CMD="scp -F ~/.ssh/config_no_visual_keys bfr:$REMOTE_JOURNAL_DIR/$REMOTE_UNTRACKED_FILES ."
+fi
 
 # Execute the scp command to transfer all files at once
 echo "Executing: $SCP_CMD"
