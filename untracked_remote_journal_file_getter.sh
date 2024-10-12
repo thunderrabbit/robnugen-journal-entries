@@ -15,32 +15,17 @@ echo "$REMOTE_UNTRACKED_FILES" | while read -r line; do
     mkdir -p $(dirname "$line")
 done
 
-# Check if there's more than one file (space-separated file names)
-if [[ $REMOTE_UNTRACKED_FILES =~ [[:space:]] ]]; then
-    # Build the scp command with all file paths
-    SCP_CMD="scp -F ~/.ssh/config_no_visual_keys bfr:$REMOTE_JOURNAL_DIR/{"
-    for line in $REMOTE_UNTRACKED_FILES; do
-        SCP_CMD+="$line,"
-    done
-    # trim the trailing comma
-    SCP_CMD=${SCP_CMD%,}
-    SCP_CMD+="} ."
-else
-    # If there's only one file, build the scp command without brackets
-    SCP_CMD="scp -F ~/.ssh/config_no_visual_keys bfr:$REMOTE_JOURNAL_DIR/$REMOTE_UNTRACKED_FILES ."
-fi
-
-# Execute the scp command to transfer all files at once
-echo "Executing: $SCP_CMD"
-eval $SCP_CMD
-
-if [ $? -eq 0 ]; then
-    echo "All files copied successfully."
-    # Move all remote files to the just-in-case directory
-    for line in $REMOTE_UNTRACKED_FILES; do
+# Loop over each file and execute the scp command individually
+for line in $REMOTE_UNTRACKED_FILES; do
+    SCP_CMD="scp -F ~/.ssh/config_no_visual_keys bfr:$REMOTE_JOURNAL_DIR/$line $line"
+    echo "Executing: $SCP_CMD"
+    eval $SCP_CMD
+    if [ $? -eq 0 ]; then
+        echo "File $line copied successfully."
+        # Move the remote file to the just-in-case directory
         ssh -n -F ~/.ssh/config_no_visual_keys bfr "mv $REMOTE_JOURNAL_DIR/$line $REMOTE_JUSTIN_CASE"
-    done
-else
-    echo "Failed to copy files."
-fi
+    else
+        echo "Failed to copy file $line."
+    fi
+done
 
