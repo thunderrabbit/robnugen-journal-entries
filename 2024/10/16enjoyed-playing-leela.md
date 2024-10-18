@@ -8,4 +8,4 @@ draft: false
 
 Twenty-six tries to roll a 6
 
-Page 153 in book TWENTY-SEVEN
+Page 155 in book TWENTY-SEVEN

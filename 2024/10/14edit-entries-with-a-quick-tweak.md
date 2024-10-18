@@ -8,6 +8,7 @@ draft: false
 
 At this point, Quick can only write files, not edit existing files (though it can blindly overwrite existing files).
 
-I think it would be easy enough to write an editor for files; I just need to write a finder and a parser.
+I think it would be easy enough to write an editor for files:
+I just need to write a finder and a parser.
 
 Just a simple matter of programming!

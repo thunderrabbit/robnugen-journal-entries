@@ -10,6 +10,6 @@ draft: false
 [![2024 oct 13 hammock on roof 1000](//b.robnugen.com/journal/2024/thumbs/2024_oct_13_hammock_on_roof.jpeg)](//b.robnugen.com/journal/2024/2024_oct_13_hammock_on_roof_1000.jpeg)
 [![2024 oct 13 digital hotel 1000](//b.robnugen.com/journal/2024/thumbs/2024_oct_13_digital_hotel.jpeg)](//b.robnugen.com/journal/2024/2024_oct_13_digital_hotel_1000.jpeg)
 
-Did I upload these already? 
+Did I upload these already?
 
 See, I need a Quick editor!

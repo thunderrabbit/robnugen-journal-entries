@@ -1,6 +1,6 @@
 ---
 title: "no power, twice"
-tags: [ "2024", "" ]
+tags: [ "2024", "bali" ]
 author: Rob Nugen
 date: 2024-10-13T17:52:00+09:00
 draft: false
@@ -12,4 +12,4 @@ The power cut off at the juice bar so I decided to go for a walk with 5 hours to
 
 I found a capsule hotel in DPS airport where I can rest.  Yayyyy!
 
-but not plug in my computer. boooo!
+but not plug in my computer!!?! boooo!
