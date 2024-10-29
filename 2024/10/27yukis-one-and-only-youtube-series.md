@@ -1,5 +1,5 @@
 ---
-title: "Yukis One and Only YouTube series"
+title: "Yuki's One and Only YouTube series"
 tags: [ "yuki", "youtube", "rob", "barefoot" ]
 author: Rob Nugen
 date: 2024-10-27T14:20:59+09:00
