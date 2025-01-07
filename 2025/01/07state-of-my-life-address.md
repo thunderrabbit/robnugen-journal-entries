@@ -6,7 +6,7 @@ date: 2025-01-07T10:05:00+09:00
 draft: false
 ---
 
-1. I recently visited Jess in OZ for HNY.  
+1. I recently visited Jess in OZ for HNY.
 4. Dash and Dex were lovely; I cried on my last night there.
 5. I'll go back for 3+ months soon!
 11. Jess and I will visit Gold Coast to meet her mentor Christof
@@ -18,6 +18,7 @@ draft: false
 9. I'm still in unit 101 near Daily Yamazaki
 10. I sometimes eat lunches from Bio c Bon
 12. I love YNAB https://ynab.com/referral/?ref=dCM6_SUo6VX3-E8h
+13. I switched to povo2.0 yesterday to greatly reduce my cellphone costs
 
 Not just me:
 
