@@ -15,6 +15,9 @@ draft: false
 10. ✅ Ask Aika about water pause
 11. ❌ Get black shoe polish
 12. ✅ Use inkpad ink on leather shoes
-7. Create Feb event for Yoko
+13. ✅ See a rainbow and Lin
+14. ✅ Buy two meals of food from Bio c' Bon for 30 yen!
+7. ✅ Create Feb event for Yoko
+9. ✅ Create walking event for May
 8. Create hiking event for May
-9. Create walking event for May
+15. MKP Japan meeting
