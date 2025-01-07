@@ -11,7 +11,7 @@ draft: false
 4. ✅ Write to John Gaughan
 3. ✅ update YNAB
 1. ✅ Add to SOML I switched to povo2.0 yesterday to greatly reduce my cellphone costs
-5. 🔳 Cancel water pause (note on front door)
+5. ✅ Cancel water pause (note on front door)
 10. ✅ Ask Aika about water pause
 11. ❌ Get black shoe polish
 12. ✅ Use inkpad ink on leather shoes
@@ -19,5 +19,6 @@ draft: false
 14. ✅ Buy two meals of food from Bio c' Bon for 30 yen!
 7. ✅ Create Feb event for Yoko
 9. ✅ Create walking event for May
+16. ✅ Begin creating holes in bicycle cover
 8. Create hiking event for May
 15. MKP Japan meeting
