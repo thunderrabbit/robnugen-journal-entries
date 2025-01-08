@@ -25,3 +25,17 @@ Expected behavior: use same `temp_xxx` branch if it's newer than `master`.
 Actually now I've gotten https://github.com/thunderrabbit/Quick working pretty reliably,
 so I think I'm gonna try to have it determine the next word to use as the commit message.
 I'll still have it commit to the `temp_xxx` branch so I can verify I like its choice.
+
+The steps would be something like
+
+* Put a copy of the planned story on Quick's server
+* Parse that story vs existing commits
+* Choose next commit
+
+To parse the story, I want to find the correct place in the story with some careful `regex` magic
+
+The `regex` magic just needs to ignore quotes, commas, and periods,
+but notice spaces, newlines, and double-newlines
+(treating double newlines as a Japanese space).
+
+I wonder if I can explain to Plandex sufficiently well that it can write the above code.
