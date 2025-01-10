@@ -2,7 +2,7 @@
 title: "before getting my annual physical done"
 tags: [ "2025", "" ]
 author: Rob Nugen
-date: 2025-01-10T22:58:00+09:00
+date: 2025-01-10T14:58:00+09:00
 draft: false
 ---
 
@@ -14,7 +14,7 @@ Japan loves paperwork.  It's at least half the reason I haven't had to really le
 
 Via postal mail, they sent me two poop collection vials and a urine collection vial and several papers to fill out.
 
-I purposefully did not fill out the temperature  chart which hoped to get my temperature recorded for the past ten days.  
+I purposefully did not fill out the temperature  chart which hoped to get my temperature recorded for the past ten days.
 
 It's one way of pushing back against the plandemic induced planic, plus no one wears masks anywhere except Japan apparently.
 
@@ -26,7 +26,7 @@ After having a seat for a bit, one of them called my name.
 
 She returned some of the excess papers I had given her and then said in Japanese 「マスク外していは失礼から」(It is rude to not wear your mask.)
 
-I said in Japanese, I don't have a mask. 
+I said in Japanese, I don't have a mask.
 
 She said well downstairs on the first floor, you can buy a mask from the shop.
 
