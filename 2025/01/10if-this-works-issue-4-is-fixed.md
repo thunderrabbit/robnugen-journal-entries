@@ -1,5 +1,5 @@
 ---
-title: "If this works, issue 4 is fixed!"
+title: "If this works, Issue #4 is fixed!"
 tags: [ "2025", "" ]
 author: Rob Nugen
 date: 2025-01-10T22:13:00+09:00
@@ -18,3 +18,7 @@ if($successful_merge){
 </pre>
 
 Let's see!
+
+### 22:15
+
+[Issue 4](https://github.com/thunderrabbit/Quick/commit/b6321701c0bcc0b72ac868740ebe572aeec9e7af)

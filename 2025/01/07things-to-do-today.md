@@ -20,5 +20,5 @@ draft: false
 7. ✅ Create Feb event for Yoko
 9. ✅ Create walking event for May
 16. ✅ Begin creating holes in bicycle cover
-8. Create hiking event for May
-15. MKP Japan meeting
+8. Create hiking event for May --> 11 Jan 2025
+15. ✅ MKP Japan meeting
