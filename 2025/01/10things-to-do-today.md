@@ -13,7 +13,10 @@ draft: false
 * ✅ 16:12 - 17:05 Watch YT shorts (oops)
 * ✅ 17:05 - 17:40 Begin to compare draft to notes on sheet behind me.
 * ✅ 17:40 - 17:51 Look at LaTeX (nah it's too soon and big distraction)
-* 17:52 - Transcribe to long-form markdown
+* ✅ 17:52 - 19:00 Transcribe to long-form markdown (section 1/4)
+* ✅ 19:01 - 19:59 Transcribe to long-form markdown (sections 2/4 and 3/4)
+* ✅ 20:00 - 20:01 Write the line above (and this one)
+
 
 [![2025 jan 11 im fine notes on sheet behind me 1000](//b.robnugen.com/journal/2025/thumbs/2025_jan_11_im_fine_notes_on_sheet_behind_me.jpeg)](//b.robnugen.com/journal/2025/2025_jan_11_im_fine_notes_on_sheet_behind_me_1000.jpeg)
 
