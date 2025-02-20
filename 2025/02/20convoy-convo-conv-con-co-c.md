@@ -7,10 +7,17 @@ draft: false
 ---
 
 <style>
-    .chatgpt {
-    color: #0077cc; /* A shade of blue to differentiate ChatGPT's responses */
-    font-style: italic; /* Optional: Make ChatGPT's text slightly distinct */
-    margin-left: 20%; /* Push the text toward the right but keep it readable */
+.chatgpt {
+    color: #ffffff; /* White text for contrast */
+    background-color: #0077cc; /* Light blue bubble */
+    padding: 10px 15px;
+    border-radius: 15px;
+    max-width: 90%;
+    text-align: left; /* Keep text readable */
+    margin-left: auto; /* Push to the right */
+    margin-right: 10px; /* Keep some space from the edge */
+    display: inline-block;
+    position: relative;
 }
 </style>
 
@@ -103,3 +110,5 @@ I love the offer, but I'd rather just contribute for fun! Here's one that follow
 
 Not as tight as your original, but still fun! Would love to see it if you publish it.
 </div>
+
+Done!  I published it to the same URL.
