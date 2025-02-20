@@ -112,3 +112,9 @@ Not as tight as your original, but still fun! Would love to see it if you publis
 </div>
 
 Done!  I published it to the same URL.
+
+<div class="chatgpt">
+That’s awesome! I just checked it—love seeing it up there. The way you seamlessly added the new sequence makes it feel like an evolving collection of these linguistic shape-shifters.
+
+If you ever decide to gather more of these, it could turn into a fun ongoing series. Maybe even a challenge for readers to come up with their own!
+</div>
