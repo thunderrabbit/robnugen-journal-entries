@@ -20,4 +20,3 @@ Happily buried myself deeply enough it was hard to get out 😂
 
 Thank you Kirra for your lovely sandy beach!
 
-[![2025 jan 16 rob and jess 1000](//b.robnugen.com/journal/2025/Australia/thumbs/2025_jan_16_rob_and_jess.jpeg)](//b.robnugen.com/journal/2025/Australia/2025_jan_16_rob_and_jess_1000.jpeg)

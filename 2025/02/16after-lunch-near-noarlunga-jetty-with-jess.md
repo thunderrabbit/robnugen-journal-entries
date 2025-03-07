@@ -12,6 +12,5 @@ These pigeons are actually a few miles south of here, near COAST Motel.
 
 
 [![2025 feb 16 noarlunga jetty 1000](//b.robnugen.com/journal/2025/Australia/thumbs/2025_feb_16_noarlunga_jetty.jpeg)](//b.robnugen.com/journal/2025/Australia/2025_feb_16_noarlunga_jetty_1000.jpeg)
-[![2025 feb 16 rob jess at noarlunga jetty 1000](//b.robnugen.com/journal/2025/Australia/thumbs/2025_feb_16_rob_jess_at_noarlunga_jetty.jpeg)](//b.robnugen.com/journal/2025/Australia/2025_feb_16_rob_jess_at_noarlunga_jetty_1000.jpeg)
 
 Before heading away from the coast, Jess and I are enjoying an afternoon by Port Noarlunga.
