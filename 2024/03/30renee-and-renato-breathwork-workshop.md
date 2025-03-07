@@ -27,6 +27,4 @@ serving soul-aligned clients.
 
 [![2024 mar 30 group breathwork event 1000](//b.robnugen.com/journal/2024/thumbs/2024_mar_30_group_breathwork_event.jpeg)](//b.robnugen.com/journal/2024/2024_mar_30_group_breathwork_event_1000.jpeg)
 
-[![2024 mar 30 rob and jess at breathwork event 1000](//b.robnugen.com/journal/2024/thumbs/2024_mar_30_rob_and_jess_at_breathwork_event.png)](//b.robnugen.com/journal/2024/2024_mar_30_rob_and_jess_at_breathwork_event_1000.png)
-
 [![2024 mar 30 renato breathwork art 1000](//b.robnugen.com/journal/2024/thumbs/2024_mar_30_renato_breathwork_art.jpeg)](//b.robnugen.com/journal/2024/2024_mar_30_renato_breathwork_art_1000.jpeg)

@@ -18,6 +18,4 @@ Newish for me dance moves included
 
 Afterwards we chatted a bit with organizer Kat Cowling before heading out.  
 
-[![2024 mar 08 rob and jess after ecstatic dance](//b.robnugen.com/journal/2024/thumbs/2024_mar_08_rob_and_jess_after_ecstatic_dance.jpeg)](//b.robnugen.com/journal/2024/2024_mar_08_rob_and_jess_after_ecstatic_dance.jpeg)
-
 I was hungry! We got falafel wrap to eat on the beach while watching the zamboni clean up the sand.  Thank you team Bondi for a beautiful beach experience!

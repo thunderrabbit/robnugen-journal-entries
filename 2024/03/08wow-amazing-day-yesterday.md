@@ -36,11 +36,6 @@ https://en.wikipedia.org/wiki/Happy_Science#Controversy
 
 MBS featured plenty of psychics and crystal shops and a Silent Disco!
 
-<img
-src="https://b.robnugen.com/journal/2024/2024_bondi/20240312_silent_disco_rob_jess.jpg"
-alt="20240312 silent disco rob jess"
-class="title" />
-
 Jess and I enjoyed the vegan crepes, although I had to eat slowly due
 to pain in my tooth.  She subsequently got some CBD oil from a shop;
 it really seems to help with the pain, although it also seems to leave

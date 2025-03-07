@@ -17,10 +17,6 @@ draft: false
 [![2024 01 21 rob standing](//b.robnugen.com/journal/2024/2024_jan_bali/thumbs/2024_01_21_rob_standing.jpg)](//b.robnugen.com/journal/2024/2024_jan_bali/2024_01_21_rob_standing.jpg)
 [![2024 01 23 bed with francois on couch](//b.robnugen.com/journal/2024/2024_jan_bali/thumbs/2024_01_23_bed_with_francois_on_couch.jpg)](//b.robnugen.com/journal/2024/2024_jan_bali/2024_01_23_bed_with_francois_on_couch.jpg)
 
-[![2024 01 25 rob jess after water ceremony](//b.robnugen.com/journal/2024/2024_jan_bali/thumbs/2024_01_25_rob_jess_after_water_ceremony.jpg)](//b.robnugen.com/journal/2024/2024_jan_bali/2024_01_25_rob_jess_after_water_ceremony.jpg)
-[![2024 01 25 jess rob after water ceremony](//b.robnugen.com/journal/2024/2024_jan_bali/thumbs/2024_01_25_jess_rob_after_water_ceremony.jpg)](//b.robnugen.com/journal/2024/2024_jan_bali/2024_01_25_jess_rob_after_water_ceremony.jpg)
-[![2024 01 28 portrait dinner](//b.robnugen.com/journal/2024/2024_jan_bali/thumbs/2024_01_28_portrait_dinner.jpg)](//b.robnugen.com/journal/2024/2024_jan_bali/2024_01_28_portrait_dinner.jpg)
-[![2024 01 28 jess rob landscape dinner](//b.robnugen.com/journal/2024/2024_jan_bali/thumbs/2024_01_28_jess_rob_landscape_dinner.jpg)](//b.robnugen.com/journal/2024/2024_jan_bali/2024_01_28_jess_rob_landscape_dinner.jpg)
 [![2024 01 29 pool day](//b.robnugen.com/journal/2024/2024_jan_bali/thumbs/2024_01_29_pool_day.jpg)](//b.robnugen.com/journal/2024/2024_jan_bali/2024_01_29_pool_day.jpg)
 [![2024 01 29 two pigeons](//b.robnugen.com/journal/2024/2024_jan_bali/thumbs/2024_01_29_two_pigeons.jpg)](//b.robnugen.com/journal/2024/2024_jan_bali/2024_01_29_two_pigeons.jpg)
 [![2024 01 29 wet feet](//b.robnugen.com/journal/2024/2024_jan_bali/thumbs/2024_01_29_wet_feet.jpg)](//b.robnugen.com/journal/2024/2024_jan_bali/2024_01_29_wet_feet.jpg)

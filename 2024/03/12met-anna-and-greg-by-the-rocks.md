@@ -25,10 +25,3 @@ After dinner and conversation, we all went to get ice cream but ended
 up going to different places because the vegan options didn't look
 good at the first location and Anna and Greg had to head home sooner
 than later.
-
-<img
-src="https://b.robnugen.com/journal/2024/2024_bondi/20240312_greg_anna_rob_jess.jpg"
-alt="20240312 greg anna rob jess"
-class="title" />
-
-Greg, Anna, Rob, Jess!

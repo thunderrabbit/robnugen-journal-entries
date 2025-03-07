@@ -10,4 +10,3 @@ Nice walk this morning on Bondi Beach with my stylin new sun hat and Jess in her
 
 [![2024 feb 26 rob in sun hat](//b.robnugen.com/journal/2024/thumbs/2024_feb_26_rob_in_sun_hat.jpeg)](//b.robnugen.com/journal/2024/2024_feb_26_rob_in_sun_hat.jpeg)
 
-[![2024 feb 26 jess rob bondi beach](//b.robnugen.com/journal/2024/thumbs/2024_feb_26_jess_rob_bondi_beach.jpeg)](//b.robnugen.com/journal/2024/2024_feb_26_jess_rob_bondi_beach.jpeg)
