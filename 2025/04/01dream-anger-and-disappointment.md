@@ -1,0 +1,15 @@
+---
+title: "Dream anger and disappointment "
+tags: [ "2025", "dream " ]
+author: Rob Nugen
+date: 2025-04-01T07:36:00+09:00
+draft: false
+---
+
+I was looking through a tube at my Mongolian friend B and she came through it. I could see her face and she came through when we had a sweet kiss by licking tongues and I realized I shouldn't do this and then I realize it was a dream but it was gone. 
+
+Then I was on a small train with a few cars correctly on the rails and a girl on the very front of her family was on a different train that was not just put onto the rails correctly and I said we should go help her but someone on my train was like no fuck them + then the girl I pointed out that the girl could see her family having trouble. So I stopped our train and got out and it was my old van with Mom driving. I had to carefully get out of the right hand side of the van with very little room to walk as it was hovering over some a steep drop into the water in just a few rocks to walk on the edge of the road and I told the girl to be careful as I I held her in my arms to keep her from falling and I walked around the front of the van and I told my mom to back up the van about on foot and then I was able to keith through past the van. It was in a tunnel and I couldn't get in but then I got into the tunnel and was walking the girl toward her family and her family's train and she turned into a duck while I was walking and she was on her back looking up and I realized that she might want to see where she's going. So I held her up kind of upright in my arm so she could see and then when I got to somewhere she was a very tiny little duck and I put her on the head of a duck that was in front of a little house model house. Something + I put the little duck on the head of the ceramic duck at the house and a Japanese or some Chinese man was saying oh you've defiled the shrine and oh my God and I was so suddenly pissed off and I started to yell. It's like fake mockingly apologize in asinine Japanese like 全然申し上げございません。全然わからなかった。だからごめんね。 And I just bullied him into a cowering corner and walked back toward the small duck area and he came up again behind me like wanting to fight and I grabbed the whole table with one hand and whipped it around at him. Hit him full bodily and he collapsed backwards and I then walked away toward something and he came up behind me with a knife or some kind of apparently sharp utensil and he started coming at me in English + I disarmed him. I threw the knife into the water + then he started speaking to me in English saying that he was very disappointed in me and I held both of his hands and I said welcome brother and was really holding space for him and grateful that he would communicate with me in English and I realized that I had acted like an asshole and I just started to cry and was so grateful for him to help me see my asshole side.  
+
+I did Hoʻoponopono and then wrote this dream. 
+
+I think I might try to have AI (Plandex) create a dream logging tool for me.  I'll reach out to the guy who tried to make one a few years ago.
