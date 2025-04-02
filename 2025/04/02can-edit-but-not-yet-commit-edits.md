@@ -11,3 +11,7 @@ Yesterday or so I was able to add some buttons that allow me to easily wrap text
 Then I started to embark on making an editor which proved easy enough but is now facing complexities because of my commit message requirements. 
 
 I'm writing this now just to see if it can save a new entry or not. 
+
+#### 7:07pm
+
+Nearly there, but I need to fix the test to see if the edit was committed to the journal repo.
