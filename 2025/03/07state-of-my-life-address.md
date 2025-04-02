@@ -1,8 +1,8 @@
 ---
 title: "State Of My Life Address"
-tags: [ "soml" ]
+tags: [ "2025", "soml" ]
 author: Rob Nugen
-date: 2025-03-07T04:28:32+09:00
+date: 2025-03-07T04:28:00+09:00
 draft: false
 ---
 
@@ -23,3 +23,4 @@ described it as gold and diamond in the rough.
 8. Cuddle Party was fun in Feb and hopefully fun in April
 9. I'm currently planning to start closing down my apartment in Japan
 when I get back in May.
+10. I was able to go barefoot the entire way to KL.
