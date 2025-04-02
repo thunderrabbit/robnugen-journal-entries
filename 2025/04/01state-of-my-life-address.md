@@ -1,6 +1,6 @@
 ---
 title: "State of My Life Address"
-tags: [ "2025", "soml" ]
+tags: [ "2025", "2025", "2025", "2025", "soml" ]
 author: Rob Nugen
 date: 2025-04-01T22:47:00+09:00
 draft: false
@@ -28,3 +28,4 @@ draft: false
 20. Tonight, I'm gonna shave, too.
 21. I used a ChatGPT I called Dr Defi to write a script to look up the price of SOL every 5 minutes.  It's working nicely!  Draws a graph and everything.
 22. I've been telling people I'm going to start closing up shop in Japan.  When I get there though, I dunno how quickly that will happen.
+23. I can now edit journal entries on Quick! (^-^)V  yayyyyy!
