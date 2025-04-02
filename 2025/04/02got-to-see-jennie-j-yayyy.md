@@ -1,10 +1,12 @@
 ---
 title: "Got to see Jennie J yayyy!"
-tags: [ "2025", "jennie j", "fun", "nugget" ]
+tags: [ "2025", "2025", "jennie j", "fun", "nugget" ]
 author: Rob Nugen
-date: 2025-04-02T20:27:00+09:00
+date: 2025-04-02T12:27:00+09:00
 draft: false
 ---
+
+#### 30 March 2025
 
 So great to see Jennie J today!
 
