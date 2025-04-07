@@ -1,6 +1,6 @@
 ---
 title: "AI ain't quite there yet"
-tags: [ "2025", "2025", "ai", "plandex", "v2", "ugh", "quick" ]
+tags: [ "2025", "2025", "2025", "2025", "ai", "plandex", "v2", "ugh", "quick" ]
 author: Rob Nugen
 date: 2025-04-06T11:06:00+09:00
 draft: false
@@ -45,18 +45,20 @@ UI Components</p>
 
 <p class="ai">### Files</p>
 
-<p class="ai">asses/QuickPoster.php , createPost, createFrontMatter, createFilePath,
-createUrlTitle
-   asses/TempOSpooner.php , addFileToGit, commitChanges,
+<p class="ai">
+<br>classes/QuickPoster.php , createPost, createFrontMatter, createFilePath,createUrlTitle
+<br>classes/TempOSpooner.php , addFileToGit, commitChanges,
 pushChangesToCurrentBranch, addAndPushToGit, getGitLog
-   blic/poster/index.php , (main posting interface)
-   mplates/poster/index.tpl.php , (posting form template)
-   blic/deploy/index.php , (deployment interface)
-   asses/QuickDeployer.php , deployMasterBranch</p>
+<br>public/poster/index.php , (main posting interface)
+<br>templates/poster/index.tpl.php , (posting form template)
+<br>public/deploy/index.php , (deployment interface)
+<br>classes/QuickDeployer.php , deployMasterBranch
+</p>
 
 <p class="ai">Loaded 6 files into context | added → 5476 🪙 |  total → 7640 🪙</p>
 
-<p class="ai">+------------------------------------+------+-------+
+<pre>
++------------------------------------+------+-------+
 |                NAME                | TYPE |  🪙   |
 +------------------------------------+------+-------+
 |  📄 classes/QuickPoster.php        | file | +1104 |
@@ -65,7 +67,8 @@ pushChangesToCurrentBranch, addAndPushToGit, getGitLog
 |  📄 public/poster/index.php        | file | +952  |
 |  📄 templates/poster/index.tpl.php | file | +1722 |
 |  📄 classes/TempOSpooner.php       | file | +1278 |
-+------------------------------------+------+-------+</p>
++------------------------------------+------+-------+
+</pre>
 
 <p class="ai">👇</p>
 
@@ -233,6 +236,7 @@ Oh, and then more errors became apparent.  So far:
 * * this caused Warning: session_start(): Session cannot be started after headers have already been sent
 * ~~FILES ARE NOT BEING SAVED WHATSOEVER~~
 * editor isn't able to see the incoming file
+* tried calling private methods without making them public
 
 <p class="note">10:16am Ugh I just lost an entry because I thought it had been written to disk.</p>
 
@@ -242,7 +246,7 @@ I just recreated the entry (in 20 minutes), so not too bad.
 
 TODO:
 
-* learn that the file was saved, just couldn't be edited smh
-* save this file in my journal via ~~Emacs~~ Quick
-* apply my fixes so far to Plandex
-* fix or revert Plandex changes
+* ️✅ learn that the file was saved, just couldn't be edited smh
+* ️✅ save this file in my journal via ~~Emacs~~ Quick
+* ️✅ apply my fixes so far to Plandex
+* ️✅ fix ~~or revert~~ Plandex changes https://github.com/thunderrabbit/Quick/commit/d375f4183de775b26333e820fc3b7c5b63b88ed3
