@@ -1,6 +1,6 @@
 ---
 title: "Closing my Intuit account because they seem to use plaintext passwords"
-tags: [ "2025", "intuit" ]
+tags: [ "2025", "2025", "intuit" ]
 author: Rob Nugen
 date: 2025-04-07T11:24:00+09:00
 draft: false
@@ -14,7 +14,7 @@ Fuck.  They must be using compromised credentials.  APPARENTLY INTUIT DIDN'T DIS
 
 I saw they offered a way to report it.
 
-`If you didn't make this request, [contact us.](#simulated-link)`
+"If you didn't make this request, [contact us.](#simulated-link)"
 
 The "contact us" bit had a long-ass link with enough identifiers to prove exactly what I was reporting.  But click that link dumped me on a generic contact page.  fffs.
 
