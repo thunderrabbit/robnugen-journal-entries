@@ -1,6 +1,6 @@
 ---
 title: "Closing my Intuit account because they seem to use plaintext passwords"
-tags: [ "2025", "2025", "intuit" ]
+tags: [ "2025", "2025", "2025", "intuit" ]
 author: Rob Nugen
 date: 2025-04-07T11:24:00+09:00
 draft: false
@@ -43,9 +43,13 @@ Seems strong enough! It's even described as STRONG
 [![2025 apr 07 intuit thinks its strong 1000](//b.robnugen.com/journal/2025/thumbs/2025_apr_07_intuit_thinks_its_strong.png)](//b.robnugen.com/journal/2025/2025_apr_07_intuit_thinks_its_strong_1000.png)
 
 
-Intuit rejected it with a vague message: “Invalid password.” No explanation. I tried 64 characters. Then 53. Finally, they accepted a password with just about 30 characters.
+Intuit rejected it with a vague message: “Invalid password.” No explanation. 
 
 [![2025 apr 07 intuit invalid password 1000](//b.robnugen.com/journal/2025/thumbs/2025_apr_07_intuit_invalid_password.png)](//b.robnugen.com/journal/2025/2025_apr_07_intuit_invalid_password_1000.png)
+
+
+I tried 64 characters. Then 53 characters. Finally, they accepted a password with just about 30 characters.
+
 
 Is Intuit still saving passwords in plaintext??
 
