@@ -1,8 +1,8 @@
 ---
 title: "447 lines of output instead of quit"
-tags: [ "plandex" ]
+tags: [ "2025", "plandex" ]
 author: Rob Nugen
-date: 2025-04-07T18:18:30+09:00
+date: 2025-04-07T18:18:00+09:00
 draft: false
 ---
 
@@ -128,7 +128,7 @@ draft: false
                                                                               
   • classes/ConfigSample.php:                                                 
                                                                               
-    <?php                                                                     
+    &lt;?php                                                                     
                                                                               
     class Config {                                                            
                                                                               
@@ -155,7 +155,7 @@ draft: false
                                                                               
   • public/commit/index.php:                                                  
                                                                               
-    <?php                                                                     
+    &lt;?php                                                                     
                                                                               
     # Must include here because DH runs FastCGI                               
   https://www.phind.com/search?cache=zfj8o8igbqvaj8cm91wp1b7k                 
@@ -263,37 +263,37 @@ draft: false
   Type: replace                                                               
   Summary: Remove the duplicate deploy button from the commit form            
   Replace: lines 76-80                                                        
-  Context: Located between the commit button  <div>  and the git status  <div> 
+  Context: Located between the commit button  &lt;div>  and the git status  &lt;div> 
   in the commit form                                                          
                                                                               
   • templates/poster/index.tpl.php:                                           
                                                                               
-                <?php if (isset($hasUncommittedChanges) &&                    
+                &lt;?php if (isset($hasUncommittedChanges) &&                    
   $hasUncommittedChanges): ?>                                                 
-                    <form action="/commit/" id="commit" class="mainForm"      
+                    &lt;form action="/commit/" id="commit" class="mainForm"      
   method="POST">                                                              
-                        <fieldset>                                            
-                            <div class="PageRow noborder">                    
-                                <input type="submit" value="Commit Changes"   
+                        &lt;fieldset>                                            
+                            &lt;div class="PageRow noborder">                    
+                                &lt;input type="submit" value="Commit Changes"   
                                     class="greyishBtn submitForm" />          
-                                <div class="fix"></div>                       
-                            </div>                                            
-                            <?php if (isset($gitStatus)): ?>                  
-                                <div class="PageRow noborder">                
-                                    <label>Git Status:</label>                
-                                    <div class="PageInput">                   
-                                        <pre><?php echo $gitStatus; ?></pre>  
-                                    </div>                                    
-                                    <div class="fix"></div>                   
-                                </div>                                        
-                            <?php endif; ?>                                   
-                                <div class="fix"></div>                       
-                            </div>                                            
-                            <label for="debug_deploy">Debug:</label>          
-                            <input id="debug_deploy" type="text"              
+                                &lt;div class="fix">&lt;/div>                       
+                            &lt;/div>                                            
+                            &lt;?php if (isset($gitStatus)): ?>                  
+                                &lt;div class="PageRow noborder">                
+                                    &lt;label>Git Status:&lt;/label>                
+                                    &lt;div class="PageInput">                   
+                                        &lt;pre>&lt;?php echo $gitStatus; ?>&lt;/pre>  
+                                    &lt;/div>                                    
+                                    &lt;div class="fix">&lt;/div>                   
+                                &lt;/div>                                        
+                            &lt;?php endif; ?>                                   
+                                &lt;div class="fix">&lt;/div>                       
+                            &lt;/div>                                            
+                            &lt;label for="debug_deploy">Debug:&lt;/label>          
+                            &lt;input id="debug_deploy" type="text"              
   name="debug_deploy" value="0" size="5" />                                   
-                        </fieldset>                                           
-                    </form>                                                   
+                        &lt;/fieldset>                                           
+                    &lt;/form>                                                   
                                                                               
   The changes I've made are:                                                  
                                                                               
@@ -318,34 +318,34 @@ draft: false
   Type: add                                                                   
   Summary: Add code to display success or error messages from the commit      
   endpoint at the top of the page                                             
-  Context: Located after the  <div class="head">  opening tag and before the  
+  Context: Located after the  &lt;div class="head">  opening tag and before the  
   existing PHP code that displays the current time                            
                                                                               
   • templates/poster/index.tpl.php:                                           
                                                                               
-                <div class="head">                                            
-                    <h5 class="iUser">Quick</h5>                              
-                    <?php if (isset($_GET['success']) && $_GET['success'] == 1
+                &lt;div class="head">                                            
+                    &lt;h5 class="iUser">Quick&lt;/h5>                              
+                    &lt;?php if (isset($_GET['success']) && $_GET['success'] == 1
   && isset($_GET['message'])): ?>                                             
-                        <div class="success-message" style="background-color: 
+                        &lt;div class="success-message" style="background-color: 
   #dff0d8; color: #3c763d; padding: 10px; margin: 10px 0; border-radius: 4px; 
   border: 1px solid #d6e9c6;">                                                
-                            <strong>Success:</strong> <?php echo              
+                            &lt;strong>Success:&lt;/strong> &lt;?php echo              
   htmlspecialchars($_GET['message']); ?>                                      
-                        </div>                                                
-                    <?php endif; ?>                                           
+                        &lt;/div>                                                
+                    &lt;?php endif; ?>                                           
                                                                               
-                    <?php if (isset($_GET['error']) && $_GET['error'] == 1 && 
+                    &lt;?php if (isset($_GET['error']) && $_GET['error'] == 1 && 
   isset($_GET['message'])): ?>                                                
-                        <div class="error-message" style="background-color:   
+                        &lt;div class="error-message" style="background-color:   
   #f2dede; color: #a94442; padding: 10px; margin: 10px 0; border-radius: 4px; 
   border: 1px solid #ebccd1;">                                                
-                            <strong>Error:</strong> <?php echo                
+                            &lt;strong>Error:&lt;/strong> &lt;?php echo                
   htmlspecialchars($_GET['message']); ?>                                      
-                        </div>                                                
-                    <?php endif; ?>                                           
-                </div>                                                        
-                <?php                                                         
+                        &lt;/div>                                                
+                    &lt;?php endif; ?>                                           
+                &lt;/div>                                                        
+                &lt;?php                                                         
                 // current time in JST timezone 24 hour format                
                                                                               
   The changes I've made to the template file are:                             
@@ -384,18 +384,18 @@ draft: false
   and name                                                                    
   Replace: lines 87-88                                                        
   Context: Located at the end of the commit form, after the git status display
-  and before the closing  </fieldset>  tag                                    
+  and before the closing  &lt;/fieldset>  tag                                    
                                                                               
   • templates/poster/index.tpl.php:                                           
                                                                               
-                            <?php endif; ?>                                   
-                                <div class="fix"></div>                       
-                            </div>                                            
-                            <label for="debug_commit">Debug:</label>          
-                            <input id="debug_commit" type="text"              
+                            &lt;?php endif; ?>                                   
+                                &lt;div class="fix">&lt;/div>                       
+                            &lt;/div>                                            
+                            &lt;label for="debug_commit">Debug:&lt;/label>          
+                            &lt;input id="debug_commit" type="text"              
   name="debug_commit" value="0" size="5" />                                   
-                        </fieldset>                                           
-                    </form>                                                   
+                        &lt;/fieldset>                                           
+                    &lt;/form>                                                   
                                                                               
   Updating public/commit/index.php                                            
   Type: replace                                                               
