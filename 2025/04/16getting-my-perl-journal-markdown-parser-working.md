@@ -1,8 +1,8 @@
 ---
 title: "Getting my Perl journal markdown parser working"
-tags: [ "2025", "journal", "markdown", "perl" ]
+tags: [ "2025", "2025", "journal", "markdown", "perl" ]
 author: Rob Nugen
-date: 2025-04-16T12:15:00+09:30
+date: 2025-04-16T12:15:00+09:00
 draft: false
 ---
 
@@ -12,7 +12,7 @@ I've consistently used `~/journal/yyyy/mm/ddtitle-here.ext` as the filename, whe
 
 I couldn't get the Perl markdown processors installed on Dreamhost, so I asked ChatGPT to write one for me.  This is what we've got so far:
 
-```
+```perl
 # Text/RobMiniMarkdown.pm
 package Text::RobMiniMarkdown;
 use strict;
