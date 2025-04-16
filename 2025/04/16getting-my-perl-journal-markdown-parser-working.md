@@ -2,7 +2,7 @@
 title: "Getting my Perl journal markdown parser working"
 tags: [ "2025", "journal", "markdown", "perl" ]
 author: Rob Nugen
-date: 2025-04-15T14:57:00+09:00
+date: 2025-04-16T12:15:00+08:30
 draft: false
 ---
 
@@ -218,9 +218,8 @@ To Do:
 
 The next **big** trick will be to allow journal entries to be visited at either URL
 
-
+https://www.robnugen.com/journal/2025/04/16/getting-my-perl-journal-markdown-parser-working/
 
 or
 
 https://perl.robnugen.com/journal.pl?type=all&date=2025/04/16 (which can show multiple entries for that date)
-
