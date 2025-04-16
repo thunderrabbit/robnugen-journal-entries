@@ -2,7 +2,7 @@
 title: "Getting my Perl journal markdown parser working"
 tags: [ "2025", "journal", "markdown", "perl" ]
 author: Rob Nugen
-date: 2025-04-16T12:15:00+08:30
+date: 2025-04-16T12:15:00+09:30
 draft: false
 ---
 
