@@ -36,7 +36,7 @@ I wanted to sit down to write a bit in my journal.
 
 I've gotten a good start on moving all my websites' content to their
 own new users, but a couple of them are broken; specifically
-robnugen.com/cgi-bin/journal.pl doesn't work anymore.  I guess it's
+robnugen.com/journal.pl doesn't work anymore.  I guess it's
 because not all the files got copied over.  I think it used some files
 that were outside the webroot, so didn't get copied when Dreamhost
 moved all robnugen.com's files over to new user.

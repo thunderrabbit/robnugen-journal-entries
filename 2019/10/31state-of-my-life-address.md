@@ -9,7 +9,7 @@ date: 2019-10-31T13:16:41+09:00
 
 1. Today is October 31st.  I do not plan to do anything Halloweenie for Halloween
 2. I just scheduled my 3rd [Eye Gazing workshop, to be held November
-   30th at In Gallery](https://www.facebook.com/events/263911317865803/) Mikako's [art gallery](http://www.ingallery.info/) space near Jiyugaoka.
+   30th at In Gallery](https://www.facebook.com/events/263911317865803/) Mikako's [art gallery](https://www.ingallery.info/) space near Jiyugaoka.
 3. I have not yet put a version up on Meetup, but I plan to do so
    under my
    [Tokyo Sōl meetup group](https://www.meetup.com/Tokyo-S%C5%8Dl-barefoot-more/).
@@ -65,14 +65,14 @@ date: 2019-10-31T13:16:41+09:00
     I can say NO to things and the world still goes around.
 20. 2pm Halloween 2019:  Train is arriving in Kawasaki now.  Lessons
     from 14:30 to 16:30, then head to Akihabara for lesson with GG
-    from 18:30 to 19:30.	
+    from 18:30 to 19:30.
 21. I forgot to schedule a language exchange with Akiko.  I wonder
     when she will be available next.
 22. 17:40 Halloween 2019: Lessons at Toshiba were fine.  Azusa was
     apparently too busy to study.  As a student, I can understand.  As
     a teacher, I am like "do you know how much studying will help?"
 	Naoko apparently knows how much studying helps; she has progressed
-    fantastically.  Liliko was not present today. 
+    fantastically.  Liliko was not present today.
 23. I am in Family Mart in 秋葉原, near GG lesson.  I had planned to
     eat my bento lunch, but apparently I left it at home.  Dang,
     because I was looking forward to it.  But I do

@@ -11,13 +11,13 @@ After lesson with Mutsumi, I showed her my svg maker and whipped out a
 quick image
 
 <img
-src="/images/art/graphic/vector/sarupapa/plaid/first_draft_swatch_31_march_2015.svg"
+src="https://b.robnugen.com/art/graphic/vector/sarupapa/plaid/first_draft_swatch_31_march_2015.svg"
 width="10" />
 <img
-src="/images/art/graphic/vector/sarupapa/plaid/first_draft_swatch_31_march_2015.svg"
+src="https://b.robnugen.com/art/graphic/vector/sarupapa/plaid/first_draft_swatch_31_march_2015.svg"
 width="100" />
 <img
-src="/images/art/graphic/vector/sarupapa/plaid/first_draft_swatch_31_march_2015.svg"
+src="https://b.robnugen.com/art/graphic/vector/sarupapa/plaid/first_draft_swatch_31_march_2015.svg"
 width="1000" />
 
 SVG is a vector format so it's super scalable.

@@ -7,7 +7,7 @@ date: 2019-11-02T21:21:31+09:00
 
 Wow wow 9 people joined the barefoot walkshop today!
 
-We started in [Hikarie](http://www.hikarie.jp/en/) 2F, which was great
+We started in [Hikarie](https://www.hikarie.jp/en/) 2F, which was great
 because the originally planned spot was taken up with a huge queueing
 area for people going to see the recently (yesterday) opened building,
 [Shibuya Scramble Square](https://shibuya-scramble-square.com/en/)

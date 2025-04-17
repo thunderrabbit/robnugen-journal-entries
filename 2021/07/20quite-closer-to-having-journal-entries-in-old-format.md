@@ -12,7 +12,7 @@ Tonight I got my old journal code working under the same username as
 now runs my robnugen.com site.
 
 As of now, my old journal setup may be seen at
-https://temp.robnugen.com/cgi-bin/journal.pl
+https://temp.robnugen.com/journal.pl
 
 Also as of now, the final few entries were written in markdown, so
 the journal.pl code does not know how to display them.

@@ -14,7 +14,7 @@ the box!)
 
 ### Well, what is "old" exactly?
 
-I found some pieces that are labeled with http://robnugen.com/art:
+I found some pieces that are labeled with https://robnugen.com/art:
 
 Inner Space Set, with 6 pieces.  They are all 12cm by 13.6cm.  (4.7 x
 5.3 inches)

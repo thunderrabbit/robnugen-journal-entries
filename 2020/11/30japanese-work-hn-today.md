@@ -25,7 +25,7 @@ back fender on TJ Bike.
 
 Just about to go to bed, I opened up Hacker News to find some typed
 transcripts of
-[journal entries by Thomas Edison](http://ariwatch.com/VS/TheDiaryOfThomasEdison.htm).
+[journal entries by Thomas Edison](https://ariwatch.com/VS/TheDiaryOfThomasEdison.htm).
 So amazing that he was so wrong about things as "simple" as dandruff.
 
     It has just occurred to me that the brain may digest certain

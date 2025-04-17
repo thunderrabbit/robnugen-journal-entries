@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2019-07-22T10:03:25+09:00
 ---
 
-I wrote this to [Dean Ramsden](http://deanramsden.com/)
+I wrote this to [Dean Ramsden](https://deanramsden.com/)
 
 ##### 10:03 Monday 22 July 2019 JST
 

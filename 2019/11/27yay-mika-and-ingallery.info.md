@@ -9,7 +9,7 @@ Yay wow wow yay omg nice!
 
 I went to Mika's to help with her website, and some internet stuff.
 Also to see their
-[art gallery space InGallery.info](http://www.ingallery.info/).  I am
+[art gallery space InGallery.info](https://www.ingallery.info/).  I am
 excited about the idea of hanging some of my art there!  I will bring
 some pieces on Saturday for the eye gazing workshop.
 
@@ -18,5 +18,5 @@ have some time, so I will stop by the art supply area in Atre and buy
 some supplies so I can draw a couple pieces before the ~show~ event.
 
 Mika had seen some of my pieces before, but when she saw the
-thumbnails at http://art.robnugen.com/art she was like oh wow there's
+thumbnails at https://art.robnugen.com/art she was like oh wow there's
 a lot! and wanted to see some of them up close again.

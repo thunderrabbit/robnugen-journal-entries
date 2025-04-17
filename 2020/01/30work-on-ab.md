@@ -62,7 +62,7 @@ From https://gist.github.com/ziadoz/3e8ab7e944d02fe872c3454d17af31a5 and https:/
 
     sudo apt-get install default-jdk
     sudo curl -sS -o - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add
-    sudo echo "deb [arch=amd64]  http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list
+    sudo echo "deb [arch=amd64]  https://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list
     sudo apt-get -y update
     sudo apt-get -y install google-chrome-stable xvfb
 

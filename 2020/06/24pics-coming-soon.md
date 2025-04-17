@@ -27,7 +27,7 @@ just want a server that can update my Hugo site.  I found
 what I want, to close approximation, if not exactly.
 
 I set up [skpy/micropub](https://github.com/skpy/micropub) at
-http://hugotest.plasticaddy.com/micropub and it is doing some of the
+https://hugotest.plasticaddy.com/micropub and it is doing some of the
 right things, but not all of them.  One reason may be that the SSL
 certificate is a temporary self-signed cert.  I don't know why Let's
 Encrypt is taking so long (hours now) to approve the certificate.  I

@@ -10,7 +10,7 @@ meetup was fine, but not really enough for me to want to skip SOGO
 again for it.  Happily, the next one will be on a Saturday.
 
 I posted an entry called
-"[Marble Track 3 in a post](http://rabsef-linmyn.arvo.network/~publish/~rabsef-linmyn/marble-track-3-construction/marble-track-3-in-a-post)"
+"[Marble Track 3 in a post](https://rabsef-linmyn.arvo.network/~publish/~rabsef-linmyn/marble-track-3-construction/marble-track-3-in-a-post)"
 on urbit, the title being an homage to "life in a post" on Reddit.  I
 don't know if you can see that URL without being actually on Urbit.
 If that is in fact the case, I do not yet know how to post a page that

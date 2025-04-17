@@ -52,7 +52,7 @@ draft: false
     for an accountability partner for me in this venture.
 11. I studied Japanese with a new teacher, まなみ先生。 She seemed
     really intrigued with
-    [Marble Track 3](http://mt3s.marbletrack3.com/) which reminds me I
+    [Marble Track 3](https://mt3s.marbletrack3.com/) which reminds me I
     need to get [Marble Track 3](https://www.marbletrack3.com/)
     website looking cooler.  I wonder about hiring the guy who quoted
     $4000 to make it awesome and maintainable.  Using Airtable, but I

@@ -14,11 +14,11 @@ We used to use the Lego roof pieces as ramps, down which marbles would roll. Get
 
 One day we saw a huge billiard ball track in a science museum in Tennessee. Something like this https://www.youtube.com/watch?v=Jh3AG8Xlh_U
 
-I started making small versions of those tracks during high school.  Eventually I started making a track and didn't stop until I moved to Japan from the US.   I asked my friend Maggie to take care of that track until I got back...  
+I started making small versions of those tracks during high school.  Eventually I started making a track and didn't stop until I moved to Japan from the US.   I asked my friend Maggie to take care of that track until I got back...
 
 After a few years, when it became apparent I would not come back anytime soon, I created Marble Track 2 as a thank you to Maggie.  It was my intention to give her Marble Track 2 as a thank you for holding Marble Track 1 for so long.
 
-After it was completed, I posted a video of Marble Track 2 online.  http://mt2.robnugen.com/  Comments on the track fell in two main camps: "You wasted your time," and "Wow that is amazing (how did you make it?)"
+After it was completed, I posted a video of Marble Track 2 online.  https://mt2.robnugen.com/  Comments on the track fell in two main camps: "You wasted your time," and "Wow that is amazing (how did you make it?)"
 
 To answer both camps, I have embarked on an even more amazing time sink, creating a stop motion animation of pipe cleaner characters building Marble Track 3.  The resulting stop-motion video will explain how to make a marble track, piece by piece by piece.  The creation of the video has taken a lot of time, rendering baseless the claims that I wasted 8 months making Marble Track 2.
 
@@ -41,7 +41,7 @@ This answers the frequently asked question about Marble Track 2: “how do you m
 *but that’s not all*
 Just in case someone asks “how do you make a stop motion animation of the construction of a marble track?” The creation of the animation is being livestreamed, with over 389 hours broadcast as of this writing. Viewers are welcome to watch and vote as we discover questions within the construction.
 
-I usually stream creation of Marble Track 3 live on Youtube on Tuesday (and sometimes Friday) mornings, Tokyo time. https://channel.marbletrack3.com 
+I usually stream creation of Marble Track 3 live on Youtube on Tuesday (and sometimes Friday) mornings, Tokyo time. https://channel.marbletrack3.com
 
 Some of the previous streams are described at https://www.marbletrack3.com/episode/.
 

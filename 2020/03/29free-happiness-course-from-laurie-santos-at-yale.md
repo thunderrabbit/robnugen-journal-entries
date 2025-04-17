@@ -39,7 +39,7 @@ All together now:
 [![2020 mar 29 overall](//b.robnugen.com/journal/2020/happy/thumbs/2020_mar_29_overall.jpg)](//b.robnugen.com/journal/2020/happy/2020_mar_29_overall.jpg)
 
 
-My [character strengths](http://bit.ly/SWBCharacterStrengths)
+My [character strengths](https://bit.ly/SWBCharacterStrengths)
 
 [![2020 mar 29 strengths](//b.robnugen.com/journal/2020/happy/thumbs/2020_mar_29_strengths.png)](//b.robnugen.com/journal/2020/happy/2020_mar_29_strengths.png)
 

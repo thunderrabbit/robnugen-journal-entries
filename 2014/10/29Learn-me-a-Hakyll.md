@@ -12,13 +12,13 @@ Here is what I started to write to Danny Su on his entry about [using Hakyll 4](
 
     I have decided to take the plunge to a static site, and want my previous journal entries to be stored in yyyy/mm/dd folders as you have on your dannysu.github.com repo.   Have you written about your blogging process?
 
-    Given that almost every folder/file in dannysu.github.com repo is updated 
+    Given that almost every folder/file in dannysu.github.com repo is updated
 
 See the thing I can't grok is why nearly all the files in dannysu.github.com are updated each time the repo is updated.
 
 But I can't formulate the question in a way I think would be easy to understand coming from some random guy online, so I'll hold it for now.
 
-- - - 
+- - -
 
 ##13:17##
 
@@ -54,7 +54,7 @@ abizern.org has a layout closest to what I like, but all source files are in one
 
 However, he's got an [emacs macro to create journal entries](https://abizern.org/2014/01/05/hakyll-new-post-with-emacs/)!!
 
-- - - - 
+- - - -
 
 xinitrc.de has all blog source files in one directory
 

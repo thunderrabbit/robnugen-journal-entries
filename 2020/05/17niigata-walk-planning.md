@@ -59,7 +59,7 @@ I mentioned that I want to pull a wagon.
 
     Pulling a wagon, epic! A man from a circle in Wellington I know
     pulled a wagon from Mongolia to Beijing,
-    http://theslowway.weebly.com/blog/cart-prototype-10-test
+    https://theslowway.weebly.com/blog/cart-prototype-10-test
 
 Bren, relaying some crowdsourced ideas of cool places to go:
 
