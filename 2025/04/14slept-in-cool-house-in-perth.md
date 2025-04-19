@@ -26,5 +26,5 @@ I enjoyed using this literal vision of construction represent
 construction of a new house for me and Hunbun.
 
 Alas, I had to head out toward the airport for my flight to Adelaide
-to see Hunbun in Glenelg, our preferred neighborhood in Adelaide, our
+to see Hunbun in <!-- Glenelg, our preferred neighborhood in --> Adelaide, our
 preferred city in OZ.

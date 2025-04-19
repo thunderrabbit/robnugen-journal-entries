@@ -3,7 +3,7 @@ title: "A tough time in Adelaide"
 tags: [ "2025", "adelaide", "hunbun" ]
 author: Rob Nugen
 date: 2025-04-15T08:36:00+09:00
-draft: false
+draft: true
 ---
 
 Amazingly(?), I'm having a tough time in Adelaide with Jess.
@@ -24,7 +24,7 @@ I woke up early and pet the cat who was meowing for attention.  He had dry food 
 
 Jess got up later and gave wet food then showed me how to clean one of the litter boxes.  I took the lid off the other to help her clean it and Jess said, "you don't do it that way."
 
-Instead of escalating, "yes I do!" I left the room, while she said, "you turn it like this."  I didn't have the capacity to watch Jess's suggested way of rotating a cat box. 
+Instead of escalating, "yes I do!" I left the room, while she said, "you turn it like this."  I didn't have the capacity to watch Jess's suggested way of rotating a cat box.
 
 I walked away wondering what the heck happened.  I was trying to be of service and received unexpected (unwanted) correction on how to access a cat litter box.  I've had cats for far(!) longer than Jess, so I think I can handle cleaning litter.
 

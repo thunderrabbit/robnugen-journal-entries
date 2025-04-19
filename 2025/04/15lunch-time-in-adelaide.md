@@ -3,7 +3,7 @@ title: "Lunch time in Adelaide"
 tags: [ "2025", "jess", "lunch", "glenelg" ]
 author: Rob Nugen
 date: 2025-04-15T14:30:00+09:00
-draft: false
+draft: true
 ---
 
 After writing the previous entry, I went to the bed to hold space for Jess while she slept beautifully.  I caressed her hair the way she likes and held her hand gently until she woke up.  She cuddled me a bit and held space as I cried more.
