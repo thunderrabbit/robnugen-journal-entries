@@ -1,6 +1,6 @@
 ---
 title: "compassion"
-tags: [ "2025", "tired", "jess" ]
+tags: [ "2025", "2025", "tired", "jess" ]
 author: Rob Nugen
 date: 2025-05-03T14:28:00+09:00
 draft: false
@@ -27,3 +27,17 @@ She said she hopes I can have some compassion for her.
 She then said that there's no reason for me to be concerned.  She's just processing her emotions.
 
 *don't ask me how I'm feeling if you can't hold space for the answer.*
+
+### 15:30
+
+When I got back to the room, Jess was awake from her rest.  She apologized for not holding space for me after asking how I felt.
+
+I cried saying "I felt so sad to hear you ask for compassion after I had been expressing compassion all day," 
+
+Then she did it *again*, saying "I just thought it could have been expressed differently."
+
+What the actual fuck.  I felt anger and was able to own it and said, "even just now when I'm crying, it seems like you're defending yourself."
+
+She then really held space for me and I felt acknowledged.
+
+We're good again now.
