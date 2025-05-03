@@ -1,6 +1,6 @@
 ---
 title: "State of My Life Address"
-tags: [ "2025", "SOML", "May" ]
+tags: [ "2025", "2025", "SOML", "May" ]
 author: Rob Nugen
 date: 2025-05-03T05:08:00+09:00
 draft: false
@@ -11,7 +11,7 @@ draft: false
 1. Jess and I are in Hillier, Australia near Adelaide, chilling in Riverdell
 2. Over the past couple of days, I've been helping her with her Transforming Trauma retreat 
 3. It has gone really really really well 
-4.  It was very easy for me to be of service and Jess said it really helped to have my support
+4. It was very easy for me to be of service and Jess said it really helped to have my support
 5. This experience has really brought me and Jess closer together
 6. Last night we had a nice chat with one of the participants because all the others had gone home or out 
 7. This is my first time in Riverdell, so while I can see the loft is in two smaller buildings, I had never seen it all as one unit as Jess had
@@ -32,7 +32,7 @@ draft: false
 23. I'm hoping when this entry is parsed by my perl journal, it will show up with hiragana as the counters 
 24. I just created an Issue for that https://github.com/thunderrabbit/Perl_driven_calendar_journal_from_2012/issues/24
 25. I'm nearing completion of I'M FINE (the version that stays scientific and focuses just on the personal value of noticing emotions)
-26.Deneys just turned in his thoughts after reading my draft but I haven't parsed them yet. 
+26. Deneys just turned in his thoughts after reading my draft but I haven't parsed them yet. 
 27. I expect to get some notes from Jacob as well. 
 28. I reached out to Hassan who's on standby for my final manuscript #wooohoooooo 
 29. I'm not sure when I'll be back in OZ, but I'll be back
