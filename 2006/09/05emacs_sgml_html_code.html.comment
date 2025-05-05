@@ -1,0 +1,25 @@
+
+<p><b>Name:</b> Rick
+
+<p><b>Email:</b> <a href="mailto:frankum@slimy.com">frankum@slimy.com</a>
+
+<p><b>Subject:</b> Japanese date format
+
+<p><b>Comment:</b>
+<br>Hey Rob,<br>
+<br>
+This doesn't work on my end (Win XP using Firefox). The reason: character encoding.<br>
+Your pages are defined as text/html with no encoding specified.<br>
+When you write to your blog, I can read the result as EUC-JP.<br>
+<br>
+BUT, your sgml-mode.el is encoded and saved as UTF-8, so what it<br>
+prints turns out as mojibake. I see "2006にん綛？9??5?ﾜ??" and such.<br>
+<br>
+If I view the page as UTF-8, I see the date but your Japanese entries<br>
+bug out.<br>
+<br>
+No idea if your comments script is set to allow Japanese. Let me sign my name in katakana and tell me if you can't read it.<br>
+<br>
+Hope you have fun studying tomorrow!<br>
+--リック・フランカム
+

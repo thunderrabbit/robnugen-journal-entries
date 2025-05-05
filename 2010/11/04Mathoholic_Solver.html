@@ -1,0 +1,75 @@
+<!-- tags: programming, Python, Mathoholic Solver, Django -->
+<!-- locations: Chigasaki, chez Soness -->
+<p class="date">5:01pm JST Thursday  4 November 2010 (day 14834)</p>
+
+<p>Recently I’ve been writing <a href="https://github.com/thunderrabbit/mathocheater/">Mathoholic
+Solver</a>, a program to solve equations in the iPhone game Mathoholic.  The game is pretty tricky,
+and writing this code has been easier than increasing my math skills enough to solve the problems
+quickly.</p>
+
+<p>It’s written in Python, for django, and I’ve got the code available on GitHub, and have thereby
+been learning Python, django, and reviewing the usage of git.  Travis originally encouraged me to
+use django if I wanted to learn Python, and I’m glad; it’s been pretty easy to get things going.</p>
+
+<p>One mess I almost made was regarding the models and views; I had a bunch of code in the view that
+should have been in the model, so I’ve moved it, and it’s therefore gotten much easier and reduced
+the amount of code needed.</p>
+
+<p>Since Colleen left (3 or 4 days ago), I've spent most of my time on this project.  Once I got
+past the roadblock of include files (instead of 'mathocheater' I needed to include
+'mathoholic.mathocheater' to my list of INSTALLED_APPS in settings.py), coding has been pretty
+smooth.</p>
+
+<p>Biggest roadblocks which I've had to go around:</p>
+
+<ol>
+<li><p>couldn't get .htaccess to rewrite the URLs nicely; I've determined .htaccess *can't* do
+this; it must be done with a redirect from the program.</p>
+
+<p>As I was thinking about it on my way to/from sleep, I realized not even Mediwiki can do what I'd
+like. (*)</p>
+</li>
+
+<li><p>couldn't get javascript to take a textfield, and submit it as a URL path (**)</p></li>
+</ol>
+
+<p>Tiny roadblock that I went around:</p>
+
+<ol>
+<li><p>couldn't figure out how to get django to load static CSS files.  I've got a tiny smidgen of
+CSS so I just included it inline in the template.</p></li>
+</ol>
+
+<p>(*) I've got .htaccess to take the URL http://www.example.com/1234 and send to the server the url http://www.example.com/?digits=1234</p>
+
+<p>And when submitting a form, I send, via GET, digits=1324, where 1234 represents any 4 digits</p>
+
+<p>The resulting URL from the submit is http://www.example.com/?digits=1234</p>
+
+<p>I could probably use python's redirect to refresh this to http://www.example.com/1234</p>
+
+<p>But, I couldn't get .htaccess to change the submitted URL http://www.example.com/?digits=1234 to
+be displayed as http://www.example.com/1234 and yet sent to the server as http://www.example.com/?digits=1234</p>
+
+<p>(**) I *was* able to get Django to properly parse http://www.example.com/1234 without .htaccess at
+all, but then I couldn't get a textfield to be submitted into the same type of URL.  I tried
+Javascript, but was not able to get a javascript framework (e.g. Jquery) to work because of the same
+static files problem I had with CSS.</p>
+
+<p>Problems that gave me fits but I've gotten sorted:</p>
+
+<ol>
+<li><p>Figuring out why digit.statistics_set.create() didn't know the digit.id...  Oh!  I hadn't
+saved the digit yet.</p></li>
+
+<li><p>Figuring out the logic for how to create new Statistics based on the digits sent to the view..  Oh!
+This code should be in the model for Digits.</p></li>
+</ol>
+
+<p>Next challenges that I've not yet faced:</p>
+
+<ol>
+<li><p>save the date and client IP address of each request</p></li>
+
+<li><p>use those to prevent ballot stuffing</p></li>
+</ol>

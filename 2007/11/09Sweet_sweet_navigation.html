@@ -1,0 +1,75 @@
+<!-- tags: navigation, wiki, castle -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">3:05pm JST Friday  9 November 2007 (day 13743)</p>
+
+<p>Lovely.  I created a MediaWiki extension that will convert a &lt;navigation/&gt; tag into a
+string according to a &quot;map&quot; I've created.</p>
+
+<p>The map is an array of room names that point to an array of room names and how to get there from
+the current room:</p>
+
+<pre>
+$castle_navigation = array(
+        'Sandbox' => array('Main Page' => 'climb out to the', 'monkey biznass' => 'jump into', 'your shirt' => 'wear'));
+</pre>
+
+<p>This means that from the room named &quot;Sandbox,&quot; they can climb out to the Main Page,
+jump into monkey biznass, or wear your shirt.</p>
+
+<p>Now, this in <em>*no* *way* *whatsoever*</em> controls their ability to go anywhere the wiki
+normally lets them go.  It just prints this line wherever there's a &lt;navigation/&gt; tag:</p>
+
+<pre>
+You can climb out to the Main Page, jump into monkey biznass, or wear your shirt.
+</pre>
+
+<p>And the names of the pages to which they can go are linked, of course.</p>
+
+<p>Here's the extension:</p>
+
+<pre>
+&lt;?php
+$wgExtensionFunctions[] = 'efNavigationForPagesAsRooms';
+
+function efNavigationForPagesAsRooms() {
+    global $wgParser;
+    $wgParser-&gt;setHook( 'navigation', 'efRenderNavigationLine' );
+}
+
+$castle_navigation = array(
+        'Sandbox' =&gt; array('Main Page' =&gt; 'climb out to the', 'monkey biznass' =&gt; 'jump into', 'your shirt' =&gt; 'wear'));
+
+$_navigation_array_array = $castle_navigation;
+
+function efRenderNavigationLine( $input, $args, $parser ) {
+        global $_navigation_array_array;
+        $roomTitle = $parser-&gt;mTitle-&gt;mTextform;
+
+        $prefix = "You can ";
+        $postfix = ".  (while laying out the pages, remember to add &lt;navigation/&gt;)";
+        $exit_directions = array();
+
+        if(!array_key_exists($roomTitle, $_navigation_array_array))
+                return "nowhere to go from \"{$roomTitle}.\"";
+
+        foreach($_navigation_array_array[$roomTitle] as $page_title =&gt; $technique )
+                $exit_directions[] = $technique . " " . $parser-&gt;recursiveTagParse("[[" . $page_title . "]]");
+        if(count ($exit_directions) &gt; 1)
+        {
+                $the_last_room = array_pop($exit_directions);
+                $output_or_and_after = ", or " . $the_last_room . $postfix;
+        }
+        else
+        {
+                $output_or_and_after = $postfix;
+        }
+
+        $output_before_or = $prefix . implode( ', ', $exit_directions );
+        return $output_before_or . $output_or_and_after;
+}
+?&gt;
+</pre>
+
+<p>I'm not going to explain it all here; if I do that, I'll do it in my wiki.</p>

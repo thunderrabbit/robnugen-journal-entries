@@ -1,0 +1,26 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Motosumiyoshi, Sakura House -->
+<p class="date">2:53pm JST Thursday  5 February 2009 (day 14197)</p>
+
+<p>Perhaps foolishly, I'm transcribing this from the video Using iPhone Features in Your
+Application, at approximately 3:30 into the vid.</p>
+
+<pre>
+// Make sure the library isn't empty
+if ([UIImagePickerController isSourceTypeAvailable:
+        UIImagePickerControllerSourceTypePhotoLibrary]) {
+
+   UIImagePickerConroller *picker;
+   picker = [[UIImagePickerController alloc] init];
+   picker.sourceType = UIImagePickerControllerSourceTypePhotoLibrary;
+
+   picker.allowsImageEditing = YES;
+
+   picker.delegate = self;
+
+   [currentViewController presentModalViewController:picker
+                                              animated:YES];
+
+}

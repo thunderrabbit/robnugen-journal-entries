@@ -1,0 +1,126 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Sakura House, Motosumiyoshi -->
+<p class="date">9:44am JST Sunday  9 December 2007 (day 13773)</p>
+
+<p>Goal: write an answer to Marcel's Question.</p>
+
+<p>Steps:</p>
+
+<ol>
+<li><p>find the question</p></li>
+
+<li><p>notice he gave instructions for renewing my license</p></li>
+
+<li><p>begin to renew my license</p></li>
+
+<li><p>realize they probably won't be happy that I'm saying my CC address is in Japan, but my residence is in Texas.</p></li>
+
+<li><p>Ask Fred if I can use his CC:</p>
+<pre>
+9:01 AM me: hey
+  can I use your CC to charge $25 to get my TDL renewed?
+</pre></li>
+
+<li><p>Notice a dramatic flaw on the sample image on their site.</p></li>
+
+<li><p>Realize another problem:</p>
+
+<pre>
+9:05 AM oh wait; nevamind
+9:06 AM The address on my license is my old one; they will send the new license there
+  and I can't change my address online because the license is expired
+</pre></li>
+
+<li><p>Post a copy of the mistake to my site, for hilarity's sake:</p>
+<ol>
+<li>take a screenshot of the error</li>
+<li>rename it from Picture 1.png to example_TDL_number.png</li>
+<li>wonder if I can get an emacs extension to scp the image to my site</li>
+<li>I can!  <a href="http://savannah.gnu.org/projects/tramp">scp in emacs with Tramp</a>!</li>
+<li>download tramp</li>
+<li>read the README
+<br/><pre>
+System Requirements
+===================
+
+Tramp has been used successfully on GNU Emacs 21, GNU Emacs 22,
+and on XEmacs 21 (starting with 21.4).  For XEmacs 21, you need the
+package `fsf-compat' for the `with-timeout' macro.
+
+For installation, it requires at least the following program versions:
+
+  - GNU Autoconf 2.50 if sources are taken from CVS
+  - GNU make 3.76
+  - GNU texinfo 4.6
+
+On MS Windows, you need Posix programs for installation.  These and
+other useful Posix utilities can be obtained from one of several
+projects:
+
+  - http://www.mingw.org/msys.shtml               ( MSYS     )
+  - http://www.cygwin.com/                        ( Cygwin   )
+  - http://unxutils.sourceforge.net/              ( UnxUtils )
+  - http://gnuwin32.sourceforge.net/              ( GnuWin32 )
+
+Tramp is part of GNU Emacs 22.  Tramp is available as XEmacs package.
+</pre></li>
+<li>Oh, snap!  I have version 22 of emacs, so I have Tramp already!!</li>
+</ol>
+</li>
+
+<li><p>Have been chatting with Colleen while researching Tramp</p></li>
+
+<li><p>Learn <a href="http://jeremy.zawodny.com/blog/archives/000983.html">how to use Tramp</a>
+(this is the site that came up when I searched for emacs scp)</p>
+
+<ol>
+<li>copy <pre>(require 'tramp)
+(setq tramp-default-method "scp")</pre> to my .emacs file</li>
+<li>try to edit /robnugen.com:robnugen.com/images/</li>
+<li>no joy because I haven't told it my password</li>
+<li>WTF?  FF just died in the background.</li>
+<li>write a report to Apple: &quot;I was actually using emacs at the time of the crash; FF died in
+the background.  I was trying to scp to my site at the time, I don't know if/how this could kill FF,
+but...&quot;</li>
+<li>try to copy this entry to my site directly using emacs (it didn't error, but was a bit wonky;
+my home internet connection could have caused that.)</li>
+<li>ssh to my site via terminal</li>
+<li>change oct to dec as default journal date in .emacs</li>
+<li>the scp via local emacs didn't work</li>
+<li>give up on Tramp for now</li>
+</ol>
+</li>
+
+<li><p>create a directory for the image on my site</p>
+<ol>
+<li>not remember the site name from which I got the image</li>
+<li>reload FF to get it</li>
+<li>FF seems hosed; could it be that I've disabled cookies? could it be that it just updated to a
+new version?  could it be whatever problem caused it to crash before?</li>
+<li>oh, nevermind; it was asking for a password in a different window.</li>
+<li>get the domain name of the site</li>
+</ol>
+</li>
+
+<li><p>scp the image to my site using terminal</p>
+
+<img src="http://robnugen.com/images/software/bad/us.tx.state.texasonline.www/example_TDL_number.png"
+     alt="wonky example image" />
+</li>
+
+<li><p>Have lunch, thanks to Ami!</p></li>
+
+<li><p>Go to Ultimate frisbee!</p></li>
+
+<li><p>Go to Pink Cow!</p></li>
+
+<li><p>Come home</p></li>
+
+<li><p>Talk to Ami</p></li>
+
+<li><p>Happy fun time</p></li>
+
+<li><p>Sleepy sleep time</p></li>
+</ol>

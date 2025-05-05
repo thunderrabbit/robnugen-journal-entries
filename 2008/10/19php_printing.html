@@ -1,0 +1,72 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Natalia's apartment -->
+<p class="date">7:42pm JST Sunday 19 October 2008 (day 14088)</p>
+
+<p>Jesse's been working on a PHP project for his church Christmas event.  He wrote to me, using our old hackey sack names:</p>
+
+<pre>
+Dr. Kick,
+
+Can you give me some tips about echo.
+
+Example, mixing variable and HTML on one line. When is print more appropriate?
+
+Echo and arrays vs print, printr and arrays.
+
+The web tuts are not so detailed ,ad don't put such tricks you seem to know.
+
+Turbo
+</pre>
+
+<p>My reply:</p>
+
+<pre>	
+Konnichiwa, Stall-san.
+
+I'm traveling in Japan at the moment, so I don't know if I can give a great answer, but I think:
+
+echo just prints stuff straight to the screen.  It's not good for printing arrays, but it can print scalar text and html just fine.
+
+print_r can print to the screen or into a variable.
+
+It's something like
+
+$greeting = print_r("hello" . $name,true);   // true means print to the variable, and not to the screen.
+
+print_r can print arrays, nicely formatted:
+
+print_r($array);
+
+and the output will be easy for you to read (*).  I've never had a reason to write arrays out to users in that way, but I use it for debugging a lot.
+
+(*) if you're writing to a web browser, you need to basically do this:
+
+echo "&lt;pre&gt;";  // or use print_r("&lt;pre&gt;");   but echo doesn't require parenthesis
+print_r($array);
+echo "&lt;/pre&gt;";
+
+I wrote a function
+
+function print_rob($item)
+{
+    echo "&lt;pre&gt;";
+    print_r($array);
+    echo "&lt;/pre&gt;";
+}
+
+So it prints the &lt;pre&gt; tags for me so I can easily read the output on the web browser.
+
+And that's about the extent of my php printing prowess.
+
+(I know php has a printf function, which allows formatted printing a la C, but I don't know its syntax by heart.)
+
+I learned most things I know about PHP from <a href="http://php.net/">http://php.net/</a>
+
+   Dr Kick
+
+-- 
+Freestyle art and healing
+drkick@robnugen.com
+</pre>

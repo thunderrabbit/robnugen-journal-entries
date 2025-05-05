@@ -1,0 +1,39 @@
+<!-- tags: AMI, Amazon, EC2 -->
+<!-- events: created an AMI on Amazon EC2 -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">4:35pm JST Friday 19 October 2007 (day 13722)</p>
+
+<p>But that's not why I'm writing.  I have just been poking around
+with <a href="http://www.amazon.com/gp/browse.html?node=201590011">Amazon's EC2</a>, which seems
+interesting, though I'm not really sure how I can use it.  Basically 10 cents per hour to use their
+CPUs.  I was hoping it would be 10 cents per effective CPU hour (a bajillion times cheaper), and
+then I would look into ways of putting my website hosted from their virtual machine.  Not sure that
+I can do that, though.</p>
+
+<p class="date">7:52pm JST Friday 19 October 2007 (day 13722)</p>
+
+<p>Hmm.  Well, I just looked up my &quot;usage&quot; on the service</p>
+
+<ol>
+<li><p>They don't offer an HTML format for usage reports; only XML or CSV</p></li>
+
+<li><p>They charge for each instantiation start as a full hour, and don't actually count the total
+usage and charge for each portion of an hour.</p></li>
+</ol>
+
+<p>So, I can keep costs down by not starting and stopping services willy-nillfully.</p>
+
+<p>I can keep costs down even more by not starting services at all.</p>
+
+<p>The thing is, I can't really see how I would *use* the service.  I successfully created my own
+AMI (Amazon Machine Image), and even included little executable files to zip it up and copy it to
+my S3 space.</p>
+
+<p>But, .. well, I guess I could put a webserver on an AMI.  I guess I could even put my site on
+it.  But the URL would be all wonky: something like ec2-72-44-35-143.z-2.compute-1.amazonaws.com,
+which was my most recent one.  <a href="http://notlong.com/">notlong.com</a> could take care of
+that, but...  then what?</p>
+
+<p>Hmmmm.</p>
+
+<p>Are we allowed to make AMIs and then sell them?</p>

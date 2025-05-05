@@ -1,0 +1,36 @@
+<!-- tags: challenge -->
+<!-- events: slept in internet cafe -->
+<!-- people: Alfonzo -->
+<!-- locations: Shibuya, work -->
+<p class="date">8:42am JST Wednesday 18 November 2009 (day 14483)</p>
+
+<p>I've been way focused on work recently; our project is supposed to be done now and in testing,
+but we're sorta two days behind on that (really we'd like another month).  I stayed late to work on
+a page that I thought would take a day, but ended up taking me three days.  Gah.  Can't quite
+pinpoint what was the huge difficulty, but a clearly new part for me were having the popup window
+ask the parent window to refresh its popup window code so new popup windows would be available.
+This was all done with javascript libraries, and though it pretty much works, there's still a bug in
+that if I create a new non-popup-requiring item from the popup window and *then* create a new item
+that needs a popup, the second item's popup won't work.</p>
+
+<p>Ah that reminds me of a second major difficulty: creating two distinct types of items.  One type
+comes from data already in the DB and one type comes from the user's own data.  Though both types
+show up in the same list, only the user-created ones are editable.  Another trick was they can only
+create an item if they search the DB first for an existing item.</p>
+
+<p>And then the last one, which Alfonzo and I shoulda caught from the beginning; we were using the
+ID of the *other* item in the DB as the unique ID for the items, but if the item was created by the
+user, it won't <em>have</em> that other ID.  So that wasted some time in adding a unique ID to the
+table and retooling how the data was read and saved.  (With no unique IDs, we just wipe and rewrite
+whatever we got from the POST, but with unique IDs, we have to keep track of which ones were
+inserted or updated, and delete all the ones that were *not* sent in the POST.)</p>
+
+<p>So anyway, I was at work till like 11pm Monday, then slept in internet cafe in Shibuya, and then
+back at work at 8am yesterday.</p>
+
+<p>Left at a normal time Tuesday for vegan buffet and meeting Arwen, and now back at work at
+9:08am:</p>
+
+<p class="date">9:09am JST Wednesday 18 November 2009 (day 14483)</p>
+
+<p>back to work!</p>

@@ -1,0 +1,44 @@
+<!-- tags: git -->
+<!-- events: githubbed lilURL -->
+<!-- locations: Ebisu, work -->
+<p class="note">(written 9:45pm JST Wednesday  7 April 2010 (day 14623))</p>
+
+<p>Left home around noon thirty and got to the office at 1:45 to clean out my desk.  But first I
+played online, trying to learn git a bit.  I had downloaded lilURL from sourceforge, and made some
+updates.  Wanted to upload those to github, but (fortunately) had the brainstorm that perhaps, just
+perhaps, someone had already uploaded it there.  And someone had.  I
+<a href="http://help.github.com/forking/">forked</a> <a href="http://github.com/gbremer/lilurl">gbremer's copy of lilURL</a>
+to <a href="http://github.com/thunderrabbit/lilurl">thunderrabbit's copy of lilURL</a>, and then
+did something like the following:</p>
+
+<pre>
+$ git clone git@github.com:thunderrabbit/lilurl.git
+</pre>
+
+<p>But I kept getting publickey denied errors (or something), and then I realized I needed to
+<a href="http://help.github.com/key-setup-redirect">generate a public key</a> on my server.</p>
+
+<p>Did that, told github the public key part, and the clone worked perfectly.</p>
+
+<pre>
+$ git clone git@github.com:thunderrabbit/lilurl.git
+</pre>
+
+<p>Made my changes, (actually they were already made in a different folder, so I just copied them
+over) and then did</p>
+
+<pre>
+$ git add *
+</pre>
+
+<p>In the /trunk directory to add all the files.</p>
+
+<p>Then</p>
+
+<pre>
+$ git commit
+</pre>
+
+<p>And that was it! (*)</p>
+
+<p>(*) I think.</p>

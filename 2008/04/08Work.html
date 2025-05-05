@@ -1,0 +1,23 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">6:24pm JST Tuesday  8 April 2008 (day 13894)</p>
+
+<p>Today I got nearly as far today as I did yesterday on work related pursuits, BUT, today included
+*not* losing a lot of my changes by doing svn switch before doing svn ci.  Fortunately, yesterday's
+coding had been a bit optimistic, and I was trying to do more than feasible..  or, I'll say the
+changes multiplied as I realized the scope of the problems with this code, one of which I
+screenshotted this morning.  </p></p>
+
+<p>I'm basically reducing the duplicates down to none, and adding some functionality to the code.
+The code must have been abandoned before it was finished properly; there are some bits that don't
+make any sense otherwise.</p>
+
+<p>For example, a whole set of defines in the main constants class, but then only 1 of them is used
+elsewhere in the code.  The code is designed to display a banner ad, but the banner ads can be
+specified as one of 13 different types (only half the types have been named), but the code is such
+that only 1 type can be displayed, because it's hard coded.</p>
+
+<p>Need to do something like randomly choose which to display, BUT also have to see what ones are
+available.  I'll need some  feedback before deciding how to handle that.</p>

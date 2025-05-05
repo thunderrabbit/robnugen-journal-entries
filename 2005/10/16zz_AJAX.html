@@ -1,0 +1,106 @@
+<p class="date">late 16 October 2005</p>
+
+<p>Tonight I started messing with the concept popularized recently as
+<a href="http://www.google.com/search?q=AJAX">AJAX</a>.</p>
+
+<p>I have made a tool to help me include photos on my website; it
+basically shows thumbnails and HTML including sppecific URLs needed to
+include hose pics in my journal.</p>
+
+<p>With this tool I have been including images in my journal
+pages.</p>
+
+<p>But I can make it even easier to use.  Once I have copied the HTML
+for a specific picture, I don't need to see that picture in the list
+anymore.</p>
+
+<p>
+
+<script>
+// Wikipedia JavaScript support functions
+
+function showTocToggle() {
+  if (document.createTextNode) {
+    // Uses DOM calls to avoid document.write + XHTML issues
+
+    var linkHolder = document.getElementById('toctitle')
+    if (!linkHolder) return;
+
+    var outerSpan = document.createElement('span');
+    outerSpan.className = 'toctoggle';
+
+    var toggleLink = document.createElement('a');
+    toggleLink.id = 'togglelink';
+    toggleLink.className = 'internal';
+    toggleLink.href = 'javascript:toggleToc()';
+    toggleLink.appendChild(document.createTextNode(tocHideText));
+
+    outerSpan.appendChild(toggleLink);
+
+    linkHolder.appendChild(document.createTextNode(' '));
+    linkHolder.appendChild(outerSpan);
+
+     toggleToc();
+  }
+}
+
+ function changeText(el, newText) {
+   // Safari work around
+   if (el.innerText)
+     el.innerText = newText;
+   else if (el.firstChild && el.firstChild.nodeValue)
+     el.firstChild.nodeValue = newText;
+ }
+  
+function toggleToc() {
+  var img = document.getElementById('toc').getElementsByTagName('img')[0];
+  var form = document.getElementById('toc').getElementsByTagName('form')[0];
+  var toggleLink = document.getElementById('togglelink')
+  
+ 	if(img && toggleLink && img.style.display == 'block') {
+	    changeText(toggleLink, tocShowText);
+		img.style.display = 'none';
+		form.style.display = 'none';
+	} else {
+	     changeText(toggleLink, tocHideText);
+ 		img.style.display = 'block';
+ 		form.style.display = 'block';
+	}
+}
+</script>
+
+<table>
+<tr>
+<td id='toc'>
+<div id='toctitle'>
+</div>
+<img src="http://robnugen.comhttps://b.robnugen.com/travel/Pb/49th_May-Aug_2005/diving_in_acapulco/diving_in_acapulco-Thumbnails/3.jpg" / >
+</td>
+</tr>
+</table>
+<p><script type="text/javascript">
+ if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } 
+</script></p>
+
+<p>I snagged code from wikipedia that hides and shows the table of
+contents for larger entries (the one for <a
+href="http://en.wikipedia.org/wiki/AJAX">AJAX</a>, actually) and have
+culled it down to a test thing that shows or hides a single
+picture.</p>
+
+<p>By the way it's written, though, it will only work easily for one
+HTML tag entity.  I need to extend it to work for multiple images on
+one page.  </p>
+
+<p>It was at tht point that I got stuck last night.  I could make on
+picture vanish on command, but when I tried to extend it to two,
+nothing.</p>
+
+<p>I actually made two sets of changes to the code.  One by adding
+HTML and function calls for a second picture, and the other by adding
+a numeric parameter to the function calls so it would know which HTML
+image to hide.</p>
+
+<p>I think I will remove the second image from the HTML side and see
+if I can get one picture to hide using the parmeter with function
+call.</p>

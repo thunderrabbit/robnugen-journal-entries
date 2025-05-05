@@ -1,0 +1,98 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">5:35pm JST Monday 19 November 2007 (day 13753)</p>
+
+<p>This morning 井上さん uploaded the code that I finished last week.  For some reason it wasn't
+working, but I told 中谷さん that I couldn't research it without access to the production system.
+So I got the root password.  Nice.</p>
+
+<p>Turned out the problem was pretty simple: I hadn't specified to make a change to the DB so the
+data could be stored.  I'm surprised actually that the system didn't crash when we tried to run the
+code against a misshapen DB.</p>
+
+<p>Anyways, I added the field and the code worked.</p>
+
+<p>I requested a new project after that, which was really easy.  Basically it was a cosmetic change
+to one of the reports.  For some reason, they basically wanted me to change</p>
+
+<pre>
+stuff stuff stuff stuff stuff 1500
+stuff stuff stuff stuff stuff 1200
+stuff stuff stuff stuff stuff 2300
+stuff stuff stuff stuff stuff 1000
+stuff stuff stuff stuff stuff 2200
+stuff stuff stuff stuff stuff 1900
+stuff stuff stuff stuff stuff 3200
+stuff stuff stuff stuff stuff 2400
+                       total 15700
+</pre>
+
+<p>to</p>
+
+<pre>
+stuff stuff stuff stuff stuff 1500 - 100 =  1400
+stuff stuff stuff stuff stuff 1200 - 100 =  1100
+stuff stuff stuff stuff stuff 2300 - 100 =  2200
+stuff stuff stuff stuff stuff 1000 - 100 =   900
+stuff stuff stuff stuff stuff 2200 - 100 =  2100
+stuff stuff stuff stuff stuff 1900 - 100 =  1800
+stuff stuff stuff stuff stuff 3200 - 100 =  3100
+stuff stuff stuff stuff stuff 2400 - 100 =  2300
+                      totals 15700 - 800 = 14900
+</pre>
+
+<p>, <em>hardcoding</em> the 100 into place.  I asked three times about the harcoding, just to make
+sure I can get lots of time to make the real change if they ever want to make it variable.  I made
+the change, tested the code a couple times, moved it to the production server with my new root
+access.</p>
+
+<p class="date">8:15pm JST Monday 19 November 2007 (day 13753)</p>
+
+<p>Finished another little project today of getting some totals to show up on another page.  I'm
+quite pleased I was able to do it with such a little change to the code I had just written a couple
+of days ago.  I mean in two cases I had written the code so that it could be easily expanded.</p>
+
+<pre>
+foreach (array('already', 'added_today') as $var)
+{
+    print shtuffs
+}
+</pre>
+
+<p>I had written it as a loop with an array even though there was one (1) element in the array.
+Today I just made it two elements.  So beautiful.</p>
+
+<p>The other part I had to change was to the mySQL code; this was a bit trickier</p>
+
+<p>From this:</p>
+
+<pre>
+        SELECT
+	    up.*,
+        FROM
+	    U_P as up
+        {$where_sql}
+        {$order_by}
+        {$limit_sql}
+</pre>
+
+<p>To this:</p>
+
+<pre>
+        SELECT
+            up.*,
+            SUM(up2.ms) as total
+        FROM
+	    U_P as up
+	    INNER JOIN U_P as up2
+	    ON up.id = up2.id
+        {$where_sql}
+	GROUP BY up.id
+        {$order_by}
+        {$limit_sql}
+</pre>
+
+<p>ps: the variable names in the real code are nicely longer, but I'm being super cautious about
+what code I give out.</p>

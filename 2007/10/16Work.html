@@ -1,0 +1,51 @@
+<!-- tags: code, work, progress -->
+<!-- events: progress on code at work -->
+<!-- people: -->
+<!-- locations: Tokyo, Shibuya -->
+<pre>
+This is being written with my phone. 2.5 presses per char average.
+
+Today and yesterday good progress on work project, even though on both days I felt totally stuck at
+times.  Today I finished the PHP-HTML-form framework so my next step is to convert some mySQL class
+to work with my new table. Fortunately, I was just looking at it today and it appears it will be
+easier than I had guessed.
+
+A big part of the challenge before was figuring out how the previous author was moving data around,
+and I believe the code was sloppily cut-n-pasted from itself because by Occam's razor that's how
+there's superfluous code, especially in some rarely traveled error catchers.
+
+Not sure that I will clean up those modules soon, but I'm trying to make my code as lovely as
+possible.
+</pre>
+
+<p class="date">12:47am JST Wednesday 17 October 2007 (day 13720)</p>
+
+<p>Okay, now I'm on my computer.  Regarding &quot;moving data around,&quot; I mean the pages are
+presented to the user after going through three .php files each.  The first is called _____Action
+(where _____ is a description of the page) which does calls to mySQL through a different class.
+Then _____View, which seems to set up some HTML bits, and then _____Template, which is included at
+the bottom of _____View and just presents all the stuff to the user.</p>
+
+<p>The documentation did not explain the order of these page calls (and it still doesn't; perhaps I
+should write some explanation), and I don't have access to an object called &quot;context&quot;
+which I am sure is not in standard PHP because there's a misspelling in its member functions:
+getAtrributes and setAtrributes.  But I can't seem to find where it's defined.  Anyway, this context
+object is used to let _____Action tell _____View the state of the process, but I think he was just
+setting everything that might be needed, without regard for what might be useful.</p>
+
+<p>The code I found that makes me sure it was all just cut-n-pasted:</p>
+
+<pre>
+                $context->setAtrributes('miscInfo', $inputData);
+                $context->setAtrributes('inputData', $inputData);
+                $context->setAtrributes('error_msg', $error_msg);
+</pre>
+
+<p>Why would he set $inputData into the $context object under both 'miscInfo' and 'inputData' when
+there is also a variable called $miscInfo, which means the code obviously should be</p>
+
+<pre>
+                $context->setAtrributes('miscInfo', $miscInfo);
+                $context->setAtrributes('inputData', $inputData);
+                $context->setAtrributes('error_msg', $error_msg);
+</pre>

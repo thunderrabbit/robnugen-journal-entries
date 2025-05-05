@@ -1,0 +1,25 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyu Toyoko Line -->
+<p class="date">10:03pm JST Monday 15 December 2008 (day 14145)</p>
+
+<p>Worked pretty solidly today, though I took a break around 6pm to watch The (last) Daily Show (of 2008) (funny),
+(the equally last) Colbert Report (¤Þ¤Þ), and &quot;The List&quot; episode (last of Season 11) of
+Southpark (pretty funny).</p>
+
+<p>The code pretty much gets all the right numbers, but doesn't yet put them all in the right order.
+I semi-sorta know what's happening, but I don't know exactly where it's happening (or maybe I do),
+and I'm not sure how to fix it.</p>
+
+<p>Oh.  I just figured out a way to fix it.</p>
+
+<p>Basically there were two sets of sort orders, and when the items were getting merged, one of the
+sets was having its sort_order field re-set correctly, but the other was not.</p>
+
+<p><em>However</em>, they were all being inserted into the table in the correct order, so once they
+are all in place, I can just set the sort_order = the (autoincrementing) id.  Perfect.   The sort
+orders won't start from 0 nor 1, but they'll be in order.</p>
+
+<p>hahaha it may be the case that I made the sort_order a smallint or something.  That'll teach me
+to try to save space!  I'ma make it an unsigned INT!</p>

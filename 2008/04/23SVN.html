@@ -1,0 +1,24 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">4:04pm JST Wednesday 23 April 2008 (day 13909)</p>
+
+<p>I had had the great idea of versioning all the image files for our website, but it just clicked
+that these depend on the DB, and therefore on the working copy.  Each working copy will have a
+different set of images, so I can't just put them all in the same repository.  Or at least I don't
+know how.</p>
+
+<p>SO, I copied the image directory to /tmp/, svn removed the image dir from ~, then used two sweet
+commands: find and xargs to kill all the .svn directories from within the image directory tree
+(about 60 different dirs)</p>
+
+<pre>find . -name .svn | xargs rm -rf</pre>
+
+<p class="date">4:12pm JST</p>
+
+<p>Hmmm.  I made the change in a branch, and now I need to make the same change in the trunk (cause
+if I merge it back, I know it will just kill the images directory).</p>
+
+<p>But what I don't know is how subversion will handle two identical merges.  I guess it should
+work well enough.  Nothing else to do but try it.</p>

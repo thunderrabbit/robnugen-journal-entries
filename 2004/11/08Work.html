@@ -1,0 +1,36 @@
+<p class=date>2:35pm JST Monday 8 November 2004</p>
+
+<p>Not going to ride TJ Bike to work.  It will be 57 degrees with 20%
+chance of rain on the way home.</p>
+
+<p class=date>8:45pm</p>
+
+<p>Hiromi no-showed again today.  That's seven in a row for her.  I
+doubt I'll see her again.</p>
+
+<p>- - - -</p>
+
+<p>I went to my semi-local wireless hotspot near work during an empty
+lesson and worked a bit on my site.  Had a problem with getting the
+days to print correctly, and once I decided the printing code was
+correct:</p>
+
+<pre>
+print HTML_OUTPUT join ", ", (sort keys %{ $list_of_days_per_year_month{"$year/$month"} });
+</pre>
+
+<p>I went to where the keys were being populated, and found the error
+there after a little bit of debug via printing research. I had</p>
+
+<pre>
+                $dd = $_ =~ m!_?(\d\d)!;
+</pre>
+
+<p>instead of</p>
+
+<pre>
+                ($dd) = $_ =~ m!_?(\d\d)!;
+</pre>
+
+<p>So $dd was getting the value 1 (true) instead of the actual digits
+I wanted.</p>

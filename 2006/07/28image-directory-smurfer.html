@@ -1,0 +1,23 @@
+<!-- tags: svn -->
+<!-- events: deleted image-directory-smurfer -->
+<!-- locations: Tokyo, Jesse's -->
+<p class="date">10:55pm JST Friday 28 July 2006</p>
+
+<p>Damn.  I had created a project &quot;image-directory-smurfer&quot; on code.google.com, and
+finally figured out how to import source code to it.  BUT, I didn't want to import my entire cgi-bin
+directory, so I made a subdirectory with symlinks to the necessary files in cgi-bin.</p>
+
+<p>The first import was flawed in that I had created a local version of tags/ branches/ and trunk/,
+and they all got copied into the trunk/ in the repository, so my code was available in trunk/trunk/
+which is just stupid.</p>
+
+<p>I fixed that, and then went to check my handywork.</p>
+
+<p>Unfortunately, the previously imported directories were still there, cluttering up the directory
+structure.  But even worse, the import didn't follow the symbolic links.  Just made a file with the text
+&quot;Link to /full/path/filename.ext&quot; for whatever files I had symlinked.</p>
+
+<p>I deleted the project.  But I really liked the name.</p>
+
+<p>Knowing Google's (in)ability to handle individual users' issues, I bet it would be a huge pain to
+recover the name and start over with the source.</p>

@@ -1,0 +1,41 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">3:00pm JST Thursday 17 April 2008 (day 13903)</p>
+
+<p>Aight; that worked well enough.  I needed to put our live directory into subversion, but without
+versioning the session directory, and without disturbing users.</p>
+
+<p>/home/livedata/ needs to be put into an SVN repository.</p>
+
+<p>We'll do stuff in the /home directory, so</p>
+
+<pre>cd /home</pre>
+
+<p>First, copy the live data to some temporary location</p>
+
+<pre>cp -r /home/livedata  /home/tmplivedata</pre>
+
+<p>Now remove files / directories that should not be versioned.  In this example, it's just
+session.</p>
+
+<pre>rm -rf /home/tmplivedata/session</pre>
+
+<p>Tell ~/.subversion to ignore the files we just removed, so when they are replaced, it will
+ignore them.  (See <a href="http://svnbook.red-bean.com/en/1.1/ch07s02.html#svn-ch-7-sect-2.3.3">http://svnbook.red-bean.com/en/1.1/ch07s02.html#svn-ch-7-sect-2.3.3</a></p>
+
+<p>do the initial SVN upload</p>
+
+<pre>svn import tmplivedata   https://svn.repository.goes.here/trunk</pre>
+
+<p>Now check the data out to a new location.</p>
+
+<pre>svn co https://svn.repository.goes.here/trunk  newlivedata</pre>
+
+<p>Now this is the trick that worked well for me: rapidly moving the current session information to
+the new versioned directory, and then moving *that* directory back to the live location (after
+moving the live location out of the way).  Three moves, linked by semicolons:</p>
+
+<pre>mv /home/livedata/session /home/newlivedata/session; mv /home/livedata /home/oldlivedata; mv /home/newlivedata /home/livedata</pre>
+

@@ -1,0 +1,33 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Motosumiyoshi, Sakura House -->
+<p class="date">8:45am JST Saturday 21 March 2009 (day 14241)</p>
+
+<p>In one of my mental excursions, I also had an insight on how to rewrite my journal to include
+comments, and where and how the journal code should be written.</p>
+
+<p>Written in</p>
+
+<pre>robnugen.com/journal/index.php</pre>
+
+<p>it will take successive parts of the URL</p>
+
+<pre>robnugen.com/journal/2009/03/21/Comment_system</pre>
+
+<p>as parameters to decide what to display.</p>
+
+<p class="date">8:49am JST</p>
+
+<p>To that end, I'll make the path in </p>
+
+<pre>
+&lt;div class="js-kit-comments" path="/journal/2009/03/21/Comment_system"
+permalink="http://robnugen.com/journal.pl?type=all&date=2009/03/21#Comment_system"&gt;&lt;/div&gt;
+</pre>
+
+<p>include /journal so that it's the actual path after the domain robnugen.com</p>
+
+<div class="js-kit-comments" path="/journal/2009/03/21/Comment_system" permalink="http://robnugen.com/journal.pl?type=all&date=2009/03/21#Comment_system"></div>
+
+<script src="http://js-kit.com/comments.js"></script>

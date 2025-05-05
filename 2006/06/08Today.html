@@ -1,0 +1,44 @@
+<p class="date">17:49pm Thursday 8 June 2006</p>
+
+<p>Today I learned a semi-sad thing regarding <a href="http://furius.ca/curator/">Curator, the awesome static image indexer</a>:</p>
+
+<pre>
+I just read through most of the docs, and noticed a fundamental difference
+in what we are trying to do.
+
+(Damn.)
+
+I am looking for a thing to generate indexes on my website in realtime.
+
+I *might* rethink my workflow and incorporate Curator.   But now it
+seems I need to rethink the original design and make sure I am on
+track.
+</pre>
+
+<p>Past that, I have been writing my first python script.  It's *very* cute, and by cute, I mean small.</p>
+
+<pre>
+import cgi
+
+print "Content-type: text/html\n"
+
+fields = cgi.FieldStorage()
+name = fields.getvalue('name') or ''
+if re.search(r'[^ a-zA-Z0-9]',name):
+    name = None
+
+if name is None:
+    message = "only alphanumeric"
+elif name is '':
+    message = "what's yer name?"
+else:
+    message = "hello %s! What's yer friend's name?" % (name)
+
+print """
+&lt;html&gt;&lt;body&gt;
+%s
+&lt;form action="curating" method="post"&gt;
+&lt;input type="text" name="name"&gt;
+&lt;input type="submit"&gt;
+&lt;/form&gt;&lt;/body&gt;&lt;/html&gt; """  % (message)
+</pre>

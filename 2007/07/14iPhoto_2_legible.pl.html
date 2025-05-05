@@ -1,0 +1,527 @@
+<!-- tags:  -->
+<!-- events:  -->
+<!-- people:  -->
+<!-- locations: Tokyo, Sakurashinmachi -->
+<p class="date">4:13am JST Sunday 15 July 2007 (day 13626)</p>
+
+<p>This version allows me to click the images to get them out of the .html frame.  This is
+particularly useful because the html file displays them in full resolution, but outside the html,
+Firefox automagically resizes them to fit the screen.</p>
+
+<pre>
+#!/usr/bin/perl
+
+#####################################################################
+#
+# iPhoto_2_legible.pl: convert numeric image names to human-readable ones
+# version 0.5  (makes images clickable in image files)
+#
+# Copyright (C) 2006 Rob Nugen, iPhoto_2_legible@robnugen.com
+# 
+# This program is free software; you can redistribute it and/or modify
+# it under the same terms as Perl itself.
+#
+#####################################################################
+
+#####################################################################
+#
+#  This code is supposed to solve the problem of iPhoto (at least
+#  until version 4.0.3) using 0.jpg, 2.jpg, 3.jpg, ... as filenames
+#  when it writes a photo album for the web.
+#
+#  The basic idea is to use the image titles as the image names.  It
+#  removes any messy punctuation, converts spaces into underscores,
+#  then updates the .html files to use the new names.  If you need
+#  to tweak the name conversion, do it at STEP 2.
+#
+#  However, I *don't* want to use the album name as the filename for
+#  the main index file to the album.  So this code converts that name
+#  to "index.shtml"; therefore visiting http://domain.com/album_name/
+#  will NOT give a directory listing.
+#  
+#  Starting with version 0.1 of this code, it also adds to each index
+#  page a webserver pre-processor line, quite specific to my domain,
+#  and probably not useful for anyone else.  I have labeled two
+#  sections of code that should be removed in the likely event you
+#  don't want this functionality.  Search for "BEGIN robnugen.com"
+#
+#  (( If you *do* want this functionality, but need to change it for
+#  your site, search for "navigation_line" ))
+#
+#  As part of this, the main index pages are converted into .shtml
+#  files.  A quick search for .shtml in this code will let you quickly
+#  cut that out.
+#
+#  Also cut out the references to unique_nav_id, though they won't
+#  hurt anything if left in.  (They'll just be a little annoying!)
+#
+#  THINGS TO DO:
+#
+#  These will probably never get done, but they'd be nice:
+#    * Optionally loading the updated index file in browser of choice
+#
+#  The author can be reached at iPhoto_2_legible@robnugen.com
+#
+#####################################################################
+
+use strict;
+
+my ($input_dir_name,$unique_nav_id);
+
+my (@input_dir_contents,%image_name_changes,%index_name_changes);
+
+my $verbose = 1;
+
+undef %image_name_changes;
+undef %index_name_changes;
+
+#####################################################################
+#
+# STEP 0 = error checking
+#
+#####################################################################
+unless (($input_dir_name = $ARGV[0]) && ($unique_nav_id = $ARGV[1])) {
+    print "usage: $0 iPhoto-created_directory_name unique_nav-id\n";
+    print "\n";
+    print "  unique_nav-id  must match an id in ~/setup_journal/navigation_definitions.txt\n";
+    print "\n";
+    print "\n";
+    exit;
+}
+
+# If input_dir_name started with leading slash, assume it's a fully
+# qualified name.  Otherwise, start with the local directory
+unless ($input_dir_name =~ /^\//) {
+    my $working_dir = "$ENV{PWD}/";
+    $input_dir_name = $working_dir . $input_dir_name;
+}
+
+# Add a final / unless it's there
+$input_dir_name .= "/" unless ($input_dir_name =~ /\/$/);
+
+unless (-d $input_dir_name) {
+    print "can't find $input_dir_name\n";
+    exit;
+}
+
+##--- BEGIN robnugen.com specific code section 1 of 2 ---
+my $navigation_line = "&lt;!--#include virtual=\"/cgi-bin/draw_navigation_for_static_pages.pl?0main\&japan2007\&day_trip\&$unique_nav_id\" --&gt;";
+my $navigation_line = "&lt;!--#include virtual=\"/cgi-bin/draw_navigation_for_static_pages.pl?0main\&peeps\&students\&tomoko\&$unique_nav_id\" --&gt;";
+my $navigation_line = "&lt;!--#include virtual=\"/cgi-bin/draw_navigation_for_static_pages.pl?0main\&art\&painting\&four2007\&$unique_nav_id\" --&gt;";
+my $navigation_line = "&lt;!--#include virtual=\"/cgi-bin/draw_navigation_for_static_pages.pl?0main\&art\&mt2\&$unique_nav_id\" --&gt;";
+my $navigation_line = "&lt;!--#include virtual=\"/cgi-bin/draw_navigation_for_static_pages.pl?0main\&peeps\&ami\&$unique_nav_id\" --&gt;";
+my $navigation_line = "&lt;!--#include virtual=\"/cgi-bin/draw_navigation_for_static_pages.pl?0main\&japan2007\&around_town\&shibuya\&$unique_nav_id\" --&gt;";
+
+print "We are processing $input_dir_name\n";
+print "\n$navigation_line\n";
+
+########
+## Make sure the navigation line is right
+########
+
+print "\nIs this correct?  (y/n/q)\n";
+my $key = getc(STDIN);  # reads a single key after enter is typed
+    
+if ($key =~ /n/i) {  # if user specifically enters 'n', run emacs to edit the offending code
+    # -q = don't read startup files
+    # +LINE:COL = start cursor here
+    # $0 is perl-supplied filename of this program
+    # -f = run emacs function
+    exec("emacs -q +97:108 $0 -f normal-erase-is-backspace-mode -f font-lock-mode -f recenter");   # replaces this program with emacs
+}
+
+unless ($key =~ /y/i) { # 'y' continues execution.  Any other key (or null) exits
+    exit;
+}
+##--- END robnugen.com specific code section 1 of 2 ---
+
+@input_dir_contents = `ls "$input_dir_name"`;
+
+#####################################################################
+#
+# STEP 1
+#
+# First we need to find all the .html files in the main directory and
+# extract name-change info from them.
+#
+#####################################################################
+foreach my $input_dir_item (@input_dir_contents) {
+    chop $input_dir_item;   # remove the CR from the end
+    my $name = "$input_dir_name$input_dir_item";
+    if ($name =~ /.html$/) {
+	print "Extracting name-change info from $name\n";
+	&update_hash_of_changes($name);
+	&check_for_index_name_updates($name);
+    }
+}
+{
+    my $num_keys = keys %image_name_changes;
+    print "We plan to rename $num_keys files.\n\n\n";
+}
+
+#####################################################################
+#
+# STEP 2
+#
+# Edit the titles so they'll make filenames more likely to work online.
+#
+#####################################################################
+foreach my $key (keys %image_name_changes) {
+    $image_name_changes{$key} =~ s/ /_/g;               # space =&gt; underscore
+    $image_name_changes{$key} =~ s/[^_[:alnum:]]//g;    # drop any , ' : ( or )
+    $image_name_changes{$key} .= ".jpg";                # add .jpg to the end
+}
+
+#####################################################################
+#
+# STEP 3
+#
+# Check to see if there are any repeated titles, which would result in
+# lost (overwritten) files when they are renamed.
+#
+#####################################################################
+my %reversed_hash = reverse %image_name_changes ;
+my %no_duplicate_values_hash = reverse %reversed_hash;
+
+my $duplicate_names = 0;
+
+while (my ($key, $value) = each %image_name_changes) {
+    unless (exists $no_duplicate_values_hash{$key}) {
+	print "$value is a repeated filename for $key.\n";
+	$duplicate_names = 1;
+    }
+}
+
+if ($duplicate_names) {
+    print "Some names are duplicated; fix these then run again.\n";
+    exit;
+}
+
+if ($verbose) {
+    print "These are the changes we plan to make:\n";
+    foreach my $key (sort keys %image_name_changes) {
+	print "$key = $image_name_changes{$key}\n";
+    }
+}
+
+{
+    my $key = getc(STDIN);  # reads a single key after enter is typed
+
+    unless ($key =~ /y/i) {
+	print "for security, gotta press Y twice";
+	exit;
+    }
+}
+# past this point, files start getting renamed and edited
+
+#####################################################################
+#
+# STEP 4
+#
+# This is where the main work is done.  We loop through the contents
+# of the supplied directory name and do different renames depending on
+# what type of thing they are.
+#
+# This only works on iPhoto-created files and directories
+#
+#####################################################################
+foreach my $input_dir_item (@input_dir_contents) {
+
+    if ($verbose) {
+	print "Now processing $input_dir_item\n";
+    }
+    
+    ##----------------------------------------------------------
+    #
+    # If it ends with -Images, then the files need to be renamed and
+    # moved to parent directory
+    #
+    ##----------------------------------------------------------
+    if ($input_dir_item =~ /-Images$/) {
+	print "Renaming files in $input_dir_name$input_dir_item/ to $input_dir_name ... ";
+	my ($update_counter, $error_counter) = (0,0);
+	foreach my $key (keys %image_name_changes) {
+	    if (-f "$input_dir_name$input_dir_item/$key") # is it a file in the directory?
+	    {
+		$update_counter ++;
+		unless (rename "$input_dir_name$input_dir_item/$key", "$input_dir_name$image_name_changes{$key}") {
+		    $error_counter ++;
+		}
+	    }
+	}
+	if ($error_counter) {
+	    print "\n\n $error_counter ERRORS updating $update_counter files in $input_dir_item/!!\n";
+	}
+	else
+	{
+	    rmdir "$input_dir_name$input_dir_item/";
+	    print "success.\n";
+	}
+    }
+
+    ##----------------------------------------------------------
+    #
+    # If it ends with -Thumbnails, then the files need to be renamed
+    # and moved to thumbs directory
+    #
+    ##----------------------------------------------------------
+    if ($input_dir_item =~ /-Thumbnails$/) {
+	print "Renaming files in $input_dir_name$input_dir_item/ ... ";
+	my ($update_counter, $error_counter) = (0,0);
+	foreach my $key (keys %image_name_changes) {
+	    if (-f "$input_dir_name$input_dir_item/$key") # is it a file in the directory?
+	    {
+		$update_counter ++;
+		unless (rename "$input_dir_name$input_dir_item/$key", "$input_dir_name$input_dir_item/$image_name_changes{$key}") {
+		    $error_counter ++;
+		}
+	    }
+	}
+	if ($error_counter) {
+	    print "\n\n $error_counter ERRORS updating $update_counter files in $input_dir_item/!!\n";
+	}
+	else
+	{
+	    print "success.\n";
+	    print "Renaming files in $input_dir_name$input_dir_item/ to $input_dir_name/thumbs/ ... ";
+	    unless (rename "$input_dir_name$input_dir_item/", "$input_dir_name/thumbs") {
+		$error_counter ++;
+	    }
+	    else
+	    {
+		print "success.\n";
+	    }
+	}
+
+
+    }
+
+    ##----------------------------------------------------------
+    #
+    # If it's the directory of pages, they need to be updated
+    # internally according to %index_name_changes and %image_name_changes
+    #
+    #  And in version 0.4, they need to refer to the image in thumbs/
+    #  not the crazy iPhoto directory name
+    #
+    ##----------------------------------------------------------
+    elsif ($input_dir_item =~ /-Pages$/) {
+	my $page_dir = "$input_dir_name$input_dir_item";
+	my @page_list;
+	my $page_contents;
+	my ($update_counter, $error_counter) = (0,0);
+
+	# version 0.4:
+        my $image_directory_name = $input_dir_item;
+	$image_directory_name =~ s/-Pages/-Images/;
+
+	print "Updating pages in $page_dir/ ... ";
+	@page_list = `ls "$page_dir"`;
+	foreach my $page (@page_list) {
+	    $update_counter ++;
+	    chop $page;
+	    my $page_name = "$page_dir/$page";
+	    $verbose && print "updating $page_name\n";
+	    if (open (IN, "$page_name")) {
+		local $/;     # $/ is the eoln marker.  This makes file reads be file slurps!
+		$page_contents = &lt;IN&gt;;
+		close IN;
+	    }
+	    else
+	    {
+		print "\nERROR: Can't open $page_name for reading!";
+		$error_counter ++;
+	    }
+
+	    # Figure out what N.jpg we are looking for; 
+            # it should match the filename ImageN.html
+	    my ($num) = $page_name =~ m/Image(\d+)\.html$/m;
+	    my $old_filename = "$num.jpg";
+	    my ($A, $B) = ($image_directory_name . "/" . $old_filename, $image_name_changes{$old_filename});
+
+	    if ($verbose) {
+		print "replacing $A with $B in $page\n";
+	    }
+	    $page_contents =~ s/$A/$B/;
+
+	    # change any occurences of index filename links in the page
+	    foreach my $key (keys %index_name_changes) {
+		my ($A, $B) = ($key, $index_name_changes{$key});
+		$page_contents =~ s|$A|$B|;
+	    }
+
+           # Allow image to be clicked and viewed without its surrounding html page
+           $page_contents =~ s/(&lt;img.*(src=("[^"]*"))[^&gt;]*&gt;)/&lt;a href=$3&gt;$1&lt;\/a&gt;/;
+
+	    if (open (OUT, "&gt;$page_name")) {
+		print OUT $page_contents;
+		close OUT;
+	    }
+	    else
+	    {
+		print "\nERROR: Can't open $page_name for writing!";
+		$error_counter++;
+	    }
+	}
+	if ($error_counter) {
+	    print "\n\n $error_counter ERRORS updating $update_counter pages.\n";
+	}
+	else
+	{
+	    print "success.\n";
+	}
+
+    }
+
+    ##----------------------------------------------------------
+    #
+    # If they are index (.html) files, then we need to do three things:
+    #    1: update internal filenames according to %index_name_changes
+    #       and %image_name_changes
+    #    2: add a line for .shtml navigation
+    #    3: rename them according to %index_name_changes
+    #
+    ##----------------------------------------------------------
+    elsif ($input_dir_item =~ /\.html$/) {
+	my $page_name = "$input_dir_name$input_dir_item";
+	my $page_contents;
+	my $error_counter;
+
+	print "Updating index file $page_name ... ";
+
+	#
+	#    0: read the contents of the page
+	#
+	if (open (IN, "$page_name")) {
+	    local $/;     # $/ is the eoln marker.  This makes file reads be file slurps!
+	    $page_contents = &lt;IN&gt;;
+	    close IN;
+	}
+	else
+	{
+	    $error_counter ++;
+	    print "\n\nERROR: Can't open $page_name for reading";
+	}
+
+	#
+	#    1: update internal filenames...
+	#
+	foreach my $old_filename (keys %image_name_changes) {
+	    my ($A, $B) = ($old_filename, $image_name_changes{$old_filename});
+	    $page_contents =~ s|(src=")[^/]*/$A|$1thumbs/$B|;   # must match preceeding slash, else 0.jpg and
+					    # 10.jpg will be changed into 0.jpg's new name
+	}
+
+	foreach my $key (keys %index_name_changes) {
+	    my ($A, $B) = ($key, $index_name_changes{$key});
+	    $page_contents =~ s|$A|$B|;
+	}
+
+	#
+	#    2: add a line for .shtml navigation
+	#
+##--- BEGIN robnugen.com specific code section 2 of 2 ---
+	$page_contents =~ s|(&lt;body[^&gt;]+&gt;)|$1\n$navigation_line|;
+##--- END robnugen.com specific code section 2 of 2 ---
+
+	#
+	#    *: write the contents of the page
+	#
+	if (open (OUT, "&gt;$page_name")) {
+	    print OUT $page_contents;
+	    close OUT;
+	}
+	else
+	{
+	    $error_counter ++;
+	    print "\n\nERROR: Can't open $page_name for writing";
+	}
+
+
+	#
+	#    3: rename the page according to %index_name_changes
+	#
+	my $new_page_name = "$input_dir_name$index_name_changes{$input_dir_item}";
+	unless (rename "$page_name", "$new_page_name") {
+	    $error_counter ++;
+	    print "\n\nERROR renaming $page_name to $new_page_name.\n";
+	}
+
+	#
+        #    4: report success or failure
+	#
+	if ($error_counter) {
+	    print "\nPROBLEMS encountered with $page_name (see above for details).\n";
+	}
+	else
+	{
+	    print "success.\n";
+	}
+    }
+}
+
+# Finished!  Show the directory listing of the input directory:
+##### my $ls_command = "ls -l $input_dir_name";
+##### print "\n\n&gt; $ls_command\n";
+##### exec ("$ls_command");
+
+####################################################################################
+#
+#  sub check_for_index_name_updates
+#
+#  Creates index-name change information.
+#
+#  Basically I want http://domain.com/unique_name/ to NOT give a
+#  directory listing, and want files to be .shtml so they'll be
+#  server-side processed (to add a navigation bar at the top).
+#
+#  /sample/dir/unique_name/unique_name.html  -&gt;  /sample/dir/unique_name/index.shtml
+#  /sample/dir/unique_name/PageN.html        -&gt;  /sample/dir/unique_name/PageN.shtml
+#
+####################################################################################
+sub check_for_index_name_updates {
+
+    my ($name) = @_;
+    my @split_name = split ('/', $name);
+    my $filename = pop @split_name;          # We only want the filename after the final /
+    if ($filename =~ /^Page\d+\.html/) {
+	    my $newname = $filename;
+	    $newname =~ s/\.html/.shtml/;
+	    $index_name_changes{$filename} = $newname;
+	} 
+	else
+	{
+	    $index_name_changes{$filename} = "index.shtml";
+	}
+}
+
+####################################################################################
+#
+#  sub update_hash_of_changes
+#
+#  This creates/appends a hash that will solve the core problem of renaming
+#  brain-dead named files into files with human-readable names.
+#
+####################################################################################
+sub update_hash_of_changes {
+    my ($name) = @_;                # the filename where we'll get the HTML that relates N.jpg to better filenames.
+
+    my $index_contents;  # the HTML of the iPhoto-created main page.
+
+    open (IN, "$name") or die "Can't open $name for reading";
+    local $/;     # $/ is the eoln marker.  This makes file reads be file slurps!
+    $index_contents = &lt;IN&gt;;
+    close IN;
+
+    my @local_array = $index_contents =~ m/(\d+\.jpg)["&gt;&lt;\/a&gt;\sb]*r&gt;&lt;b&gt;([^&lt;]*)&lt;\/b&gt;/g;
+
+    # above, @local_array becomes a list of pairs:
+    # ("0.jpg", "title for 0th image",
+    #  "1.jpg", "title for 1st image",
+    #  "2.jpg", "title for 2nd image", etc )
+
+    %image_name_changes = (%image_name_changes, @local_array);
+
+}
+
+</pre>

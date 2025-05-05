@@ -1,0 +1,44 @@
+<!-- tags: Chairapy -->
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- people: Lin, Colleen -->
+<!-- people: Colleen -->
+<!-- people: Lin -->
+<!-- people: Joel, Jaime -->
+<!-- people: Soness -->
+<!-- people: Paola, Emiko -->
+<!-- locations: Kawasaki -->
+<!-- locations: Tokyo, Shibuya -->
+<!-- locations: Tokyo, Shibuya, The Pink Cow -->
+<!-- locations: Chigasaki, chez Soness -->
+<p class="date">4:51pm JST Saturday 30 October 2010 (day 14829)</p>
+
+<p>I've been trying to get this djang django installation to work, but haven't yet been quite
+successful.  So far I have determined that I need to kill all processes with the name
+&quot;python&quot; (and I've been killing &quot;php5.cgi&quot; for good measure), and I've got
+Paste set up to report errors as suggested in
+the <a href="http://wiki.dreamhost.com/Passenger_WSGI#500_Errors_with_Passenger_WSGI_Workaround">server
+500 django python dreamhost passenger workaround</a> entry on DH's wiki.</p>
+
+<p>I'm getting the admin screen as described
+in <a href="http://docs.djangoproject.com/en/dev/intro/tutorial02/">Part 2 of Writing your first
+Django app</a> tutorial, but when I edit settings.py
+in <a href="http://docs.djangoproject.com/en/dev/intro/tutorial01/">Part 1 of Writing your first
+Django app</a> tutorial to include my app, I get a 500 error.</p>
+
+<p>If I restore settings.py, the 500 error is resolved.</p>
+
+<p>If I change the passenger_wsgi.py file according to the workaround mentioned above, I get</p>
+
+<pre>
+error while loading passenger_wsgi.py
+</pre>
+
+<p>(or something to that effect), whether or not I've changed settings.py.</p>
+
+<p>So it's like the workaround is making it fail more gracefully, but failing each time instead of
+just when I've changed settings.py</p>
+
+<p>I tried dissecting passenger_wsgi.py, but that didn't affect the error message regarding the
+file.  I replaced the new passenger_wsgi.py with the old one and the admin screen worked again.</p>

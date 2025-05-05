@@ -1,0 +1,37 @@
+<p class="date">8:21pm JST Friday 09 December 2005</p>
+
+<p>Today I have declared my rob_update_mailer done enough to transfer
+all 191 names to the new database.  I even have a mechanism for making
+opt-outs from the old list remove them from the new list.  It's a
+manual one, but it should work; I don't expect many optouts from the
+old list; they usually hit pretty quickly after I send out emails.</p>
+
+<p>The new db has a way to let me specify (to a rough degree of
+precision) how long until they should get the question, "are you sure
+you want to keep receiving these messages?"  It amounts to an
+equivalent of Angelique's mass-email cleansing line:</p>
+
+<pre>If you no longer want to receive these messages, simply Do Nothing.</pre>
+
+<p>or something like that.  My db keeps track of when they were added
+(everyone was added today, but after this it will remember new people)
+and until when they should not receive the This Is Your Last Message
+warning.  It will also keep track of when they dropped off the list,
+but doesn't remember if they dropped themselves or they fell off the
+end of their 'subscription'</p>
+
+<p>It allows opt-outs to be in English or Japanese, and could be
+easily extended to other languages.  It specifically does *not* do
+the list purge message in any language but English, because maybe the
+person isn't enjoying the list because they can't read English well
+enough.</p>
+
+<p>That certainly happens for me and Japanese emails.  Sheesh.</p>
+
+<p>I'm pretty happy with the code, and invite people to use it if
+they want.</p>
+
+<p>It's not the crystal clear perfection of an alpha release, but here
+is the <a
+href="http://robnugen.com/cgi-local/source_viewer.pl?file=rob_update_mailer.pl">source
+code of rob_update_mailer.pl</a></p>

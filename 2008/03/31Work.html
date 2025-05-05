@@ -1,0 +1,39 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">1:33pm JST Monday 31 March 2008 (day 13886)</p>
+
+<p>Good stuff today at work.  I assured 中谷さん that I could change all occurences of the old
+server name with the new name in the entire file system.  I didn't know how to do it, but I knew it
+could be done, and I even knew with what tools it could be done.  Just had to figure out how to use
+them.  Finally I ended up with this:</p>
+
+<pre>
+find . -name .svn -prune -o -exec sed -i 's/oldtext/newtext/g' {} \;
+</pre>
+
+<p>My understanding:</p>
+
+<p>find files starting with . (local directory)</p>
+
+<p><b>-name .svn -prune</b> means if you find .svn for a filename (directory name), skip it.</p>
+
+<p><b>-o</b>  OR</p>
+
+<p><b>-exec</b> execute</p>
+
+<p><b>sed -i</b> sed is the stream editor.  -i means change the files in place.</p>
+
+<p><b>'s/new/old/g'</b> Substitute old text for new text Globally.</p>
+
+<p><b>{}</b> sends the filenames that find found to sed</p>
+
+<p><b>\;</b> ; terminates the -exec from find, and \ escapes it so the shell won't think it means
+to end <b>its</b> command.</p>
+
+<p class="date">7:43pm JST</p>
+
+<p>Not sure why this ain't workin'.</p>
+
+<p>But there's a byebye party for とびたさん tonight, so we're heading out.</p>

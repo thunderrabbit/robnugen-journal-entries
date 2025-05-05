@@ -1,0 +1,66 @@
+<!-- tags:  -->
+<!-- events:  -->
+<!-- people:  -->
+<!-- locations: Tokyo, Sakurashinmachi -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">9:27am JST Monday 19 March 2007 (day 13508)</p>
+
+<p>Good morning, backup.  I see now there is still 4116 MB of music to be archived to Amazon S3.</p>
+
+<p>Apparently due to all the data OS X stores about files, this number is greater than the actual
+amount of data to be stored.  In the Pending Operations list, I see this for each song:</p>
+
+<pre>
+Write /path/title.mp3 (0 KB)
+Write /path/._title.mp3 (0 KB)
+Write /path/._title.mp3 (0 KB)
+Write /path/title.mp3 (3 MB)
+Delete /path/._title.mp3 (0 KB)
+Copy /path/NN title.mp3 (3 MB)
+Delete /path/title.mp3 (0 KB)
+</pre>
+
+<p>Where NN is the song number within the album.  Only the 4th Write command seems to take any
+(much) time.  Even the Copy (though it lists the same amount of data) doesn't take (much) more time
+than the 0 KB operations.</p>
+
+<p>Anyway, it's now 9:40am and we're at 4045 MB remain, which means roughly 5.5 MB /
+minute or 740 minutes (12 hours) remain</p>
+
+<p>So it should be done before I get back from work tonight.</p>
+
+<p class="date">9:46am JST</p>
+
+<p>4008 MB remain.  6.2 MB / minute</p>
+
+<p>I've just turned off BOINC, to see if it makes any difference.  I imagine not, since it's CPU
+intensive while the backup is bandwidth intensive.</p>
+
+<p class="date">9:55am JST</p>
+
+<p>3954 MB.  6 MB / minute.  No real difference.</p>
+
+<p class="date">10:55am JST</p>
+
+<p>3553 MB.  6.7 MB / minute.</p>
+
+<p class="date">10:57am JST Monday 19 March 2007 (day 13508)</p>
+
+<p>3539 MB.  Now turning BOINC back on.</p>
+
+<p class="date">12:49pm JST</p>
+
+<p>2880 MB: 5.9 MB / minute.</p>
+
+<p>So maybe BOINC does have some effect on the thing.</p>
+
+<p class="date">1:43pm JST Monday 19 March 2007 (day 13508)</p>
+
+<p>2461 MB remain.  I'm going to pull the ethernet cable, take my computer to work, come back and
+plug it back in.  This should effectively simulate a network outage.  We'll see how JungleDisk
+handles it.</p>
+
+<p class="date">2:02pm JST Monday 19 March 2007 (day 13508)</p>
+
+<p>Hmmm.  While writing the next entry, JungleDisk seems to be trying and then discarding write
+operations.  That ain't what I had hoped would happen.</p>

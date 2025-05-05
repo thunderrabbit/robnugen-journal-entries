@@ -1,0 +1,41 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">2:08pm JST Tuesday 27 May 2008 (day 13943)</p>
+
+<p>I've not searched for any jobs yet today; like I haven't even thought about it.  Oh wait, I did
+a little bit: Dude sent me a link to rentacoder.com and I signed up as a coder on that site, but I
+haven't yet bid on any jobs.</p>
+
+<p>Near the end of yesterday I was asked to figure out why a particular user's data seems wonky.  On
+this page it says PAID, while on this page it says PENDING.</p>
+
+<p>After a bit of research, the answer returned to my brain.  In fact, this is already something I
+had noticed, but from the code / DB point of view.  I was like, &quot;wtf: the code is written such
+that it's a pain in the arse to set the user's items to PAID.  They get stuck at
+PENDING....&quot;</p>
+
+<p>That was back in December, and I told my boss.  He shrugged it off, perhaps because I said it
+would be difficult to update the data properly. (*)</p>
+
+<p>I was busy with other stuff, and I blew it off because <em>it's been that way since the beginning
+of time,</em> at least from the perspective of the program, and I figured if no one has complained
+about it, the issue must not be visible to users.</p>
+
+<p>It's visible to users.</p>
+
+<p>I had never seen it before because I'm ineligible to be paid by our own website (or so I
+thought; the above mentioned user is an employee who sits quite near me).</p>
+
+<p>(*) I don't remember the details, but I think when the PAID data is written, that code only has
+a sum of the data, and no access to the individual records that made that sum.</p>
+
+<p>So now I'ma try to find where the code should be changed, discover just how hard it will be to
+correct, and see from there.</p>
+
+<p class="date">4:54pm JST</p>
+
+<p>Hahahaah</p>
+
+<p>The solution was to change the status from PENDING to REQUESTED.</p>

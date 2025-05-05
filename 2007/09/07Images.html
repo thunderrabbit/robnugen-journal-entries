@@ -1,0 +1,24 @@
+<!-- tags:  -->
+<!-- events:  -->
+<!-- people:  -->
+<!-- locations: Sakura House, Motosumiyoshi -->
+<p class="date">3:51am JST Saturday  8 September 2007 (day 13681)</p>
+
+<p>All day &quot;today&quot; has been focused on images.  During actual today, I got all the images
+from my computer moved online.  Then I started digging back into my image indexing code to see if I
+can make sense of it, or better yet: make it work.</p>
+
+<p>So far...  I've gotten it running with perl -wT switches.  But it doesn't run very far.</p>
+
+<p class="date">11:54am JST Saturday  8 September 2007 (day 13681)</p>
+
+<p>I found this <a href="http://www.roblocher.com/technotes/regexp.aspx">Regular Expression
+Tester</a>, which helped me make sure my regex for parsing valid paths is pretty good.</p>
+
+<pre>
+(\w{1}[\w\-\.]*\/?)*
+</pre>
+
+<p>That's after any leading . or / have been stripped.</p>
+
+<p>It does not allow directory names to start with . but I don't care because none of my image directories do.</p>

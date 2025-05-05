@@ -1,0 +1,28 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">12:31pm JST Tuesday 11 March 2008 (day 13866)</p>
+
+<p>I think I'm getting better at this mysql and php installation junk.  Seems that the commands to
+install are consistently</p>
+
+<pre>
+configure
+make
+make install
+</pre>
+
+<p>It's just the option to be sent to configure, and the php.ini that are troublesome.</p>
+
+<p class="date">1:54pm JST</p>
+
+<p>°æ¾å¤µ¤ó figured it out.  For some reason the mysql config file was in a directory where it
+wasn't being read.  He moved it to /etc/my.cnf (which is the default, but I think quite a dumb file
+path cause I wouldn't think &quot;my&quot; necessarily means mySQL.</p>
+
+<p>Anyway, he moved it and it still didn't work, and after addition of several lines setting the
+defaults to be UTF-8, all of which didn't help, he added skip-character-set-client-handshake to the
+[mysqld] section.  It had been down in [mysql] section, which makes no sense to me because I didn't
+put it there; I didn't even edit the file...  I think it must have been copied over from
+somewhere;..  I'm going to try to figure out from where it must have come.... after lunch.</p>

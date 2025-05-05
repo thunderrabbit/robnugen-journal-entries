@@ -1,0 +1,89 @@
+<!-- tags: procedureless programming, spaghetti code -->
+<!-- events: need to move some code for work -->
+<!-- people: Marcel -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">1:12pm JST Friday  9 November 2007 (day 13743)</p>
+
+<p>Hmmm..</p>
+
+<p>(( there's a funny story from Marcel...  I'll let him tell it:</p>
+
+<pre>
+ Rob: Can you, for publishment in my journal, tell the story of one of your first programs?
+
+ Marcel: HAHAHAHAHAHA!
+         I remember that!  I'm amazed you remember it.
+
+         Oh, man.  The assignment was (duh-nuh-nuh-nuh-nuh, duh-nuh-nuh-nuh-nuh &lt;waveylines/&gt;
+         duh-nuh-nuh-nuh-nuh)...  
+
+         ...to write a program like Candy Land, where each player drew a
+         card with a random color on it.  The player would then proceed to the next tile of the same
+         color.  The first player to reach the end of the "maze" won.
+
+         The program was written for a programming contest for a group called ACLS (or some such
+         acronym) so I called my program ACLS-Land.
+
+         The program was written in Pascal (probably on a Commodore 64) 80x24 text screen (in my
+         day, we had 16 colors and we liked it that way).
+
+         My game featured an S-shaped board complete with borders (using the extended ASCII
+         character set; you remember the single and double lines?).  Anyway, it was decked out
+         pretty nice.  I might have been overachieving.
+
+         So to top off my work, I added opening credits to the game.  The credits started with dark
+         gray text, then light gray text, then white text for several seconds... you know, so it had
+         that nice fade-in/fade-out touch.
+
+         So proud of my success, I invited my teacher, Mr. Halbert, to play my game.  He was rather
+         impressed.  He wanted to see the code.
+
+         He laughed hard.
+
+         Despite the fact that we weren't going to be getting to procedures for a bit, he introduced
+         me to the concept of reusable code.  (dun-nuh-nuh-nuh-nuh, dun-nuh-nuh-nuh-nuh
+         &lt;waveylinesthingagain/&gt; dun-nuh-nuh-nuh-nuh)
+
+        Honestly, I don't recall how I did it, and I wish I had the code.  And, come to think of it,
+        I might not have had the entire program finished when he taught me procedures, but that's
+        how I remember it.
+</pre>
+
+<p>))</p>
+
+<p>So, that story comes to mind as I'm just realizing I've got to move a block of
+code, and little blocks of supporting code..  eeeek.</p>
+
+<p>The code is *working*, but I've got it in the wrong file, so it's slowly making modifications
+more and more difficult.</p>
+
+<p>There may be a name for this paradigm, but I never learned it in school.</p>
+
+<p>* Action.php is a file that grabs the data sent, does some benihana chef on it, and throws it to
+some objects that write the data to a DB.</p>
+
+<p>* View.php is a file that grabs the results of the data mashing and decides with which template to
+display it, then includes that template.</p>
+
+<p>* Template.php simply displays the data, and has *very minimal* logic built in.</p>
+
+<p>So, the assignment here is to change the number of columns and add this and that and other
+stuff...  so I put the new number of columns into Template.php.  The number depends on the length
+of an array that will be display, so the top of the column has a colspan tag that = the length, so
+the top will span all the elements of the array.</p>
+
+<p>Now I realize all that should not be in the template.  I <em>think</em> it should be in the
+view.  That's where I'm likely to put it.  I think.</p>
+
+<p>Dang.  It's really tempting to just blow through the assignment in the template, because then
+I'd finish it probably today or Monday.  Yesterday I told them it would take a week, and then this
+morning I was like, &quot;oh wait, this is easy!&quot; and started to make changes, but then I see
+to make it work nicely I've got to move the code.</p>
+
+<p>I'm going to take a bit of a break (and by break I mean work on my website; I've semi-sorta got
+a workable way to put navigation in pages of the castle wiki) and then come back to the work on job
+related code.</p>
+
+<p>Ironically, I'm probably writing the PHP code in an almost identically problematic way, but I
+have even less of a grasp on the way the MediaWiki files are set up, so I'm just going to plow
+through and learn as I go.</p>

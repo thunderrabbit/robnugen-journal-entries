@@ -1,0 +1,73 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">1:04pm JST Thursday  3 April 2008 (day 13889)</p>
+
+<p>The good news: we got the live system moved to svn.  That's good.</p>
+
+<p>The bad news: fucking guy didn't follow the instructions I gave which specified the use of asvn
+so that the directory permissions would be set along with the file download.  I think that must be
+what happened, but I don't know yet, because we are &quot;too busy&quot; looking at a different
+directory permissions issue.</p>
+
+<p>There's some code in one of our php files that's something like</p>
+
+<pre>
+if(!isfile($dirname))
+{
+    mkdir ($dirname);
+}
+</pre>
+
+<p>And we need to add code that changes the directory permissions.  Although I don't actually know
+why it's suddenly a problem *now*, given that 43 directories had been created with the old code,
+and they apparently worked just fine.</p>
+
+<p>One way to test the code by making it trigger the mkdir code would be to mv the current directory
+somewhere and run the code.  That would be pretty fast.</p>
+
+<p>Another way would be to add an else</p>
+
+<pre>
+if(!isfile($dirname))
+{
+    mkdir ($dirname);
+}
+else
+{
+    $crapdirname = &quot;/tmp/monkey&quot;;
+    mkdir ($crapdirname);
+    chmod ($crapdirname, 0777);
+}
+</pre>
+
+<p>And then move the code once we know it works.</p>
+
+<p>Or, and this is the way that's been suggested, we'll upload 62 (sixty-two) files until the
+existing directory reaches capacity and triggers the next mkdir.</p>
+
+<p>- - - -</p>
+
+<p>But that's not what's got me all riled up.  One of my key personal triggers is being ignored or
+people not listening when I speak.  This keeps me quiet a lot.  So when guy apparently didn't
+follow the instructions I sent, that triggers me.  Fucking why did I spend all day yesterday
+writing up that shit if you're not going to use it?  I could have just wanked off all day and we'd
+be just as well off now, and I wouldn't be pissed off.</p>
+
+<p>AND, trying to speak Japanese, and repeatedly repeatedly repeatedly always not fucking being
+understood is a nice way to trigger me.  That keeps me quiet as well.  I need to get to the bottom
+of this issue.</p>
+
+<p>- - - -</p>
+
+<p>There was a time in my I-group that we were looking at this, in regards to Allen the dork at my
+ex-ex-...ex-ex-job not listening or something, and I flashed on a scene where I was in the war and
+my buddy didn't listen as I told him he was incorrectly loading a bazooka or some shit and when he
+fired it, something blew out the back as well and ripped him in half dead (or as dead as one would
+be when ripped in half, but with brain still working, going &quot;oh shit that hurts; what am I
+doing on the ground?&quot;).  The scene was quite vivid; I remember it even now though it's been
+ten years since I had the memory.  Only weird thing about it: I was never in a war with army
+buddies, etc.  wtf was that?</p>
+
+<p>Anyway, there's obviously more work to be done in this department of my mind.</p>

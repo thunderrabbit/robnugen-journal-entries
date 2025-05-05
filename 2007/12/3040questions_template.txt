@@ -1,0 +1,164 @@
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;What did you do in 2007 that you'd never done before?
+&lt;br/&gt;
+&lt;/p&gt;
+
+&lt;li&gt;&lt;p&gt;Did you keep your new years' resolutions, and will you make more for next year?
+&lt;br/&gt;
+&lt;/p&gt;
+
+&lt;li&gt;&lt;p&gt;Did anyone close to you give birth?
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Did anyone close to you die?
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;What countries did you visit?
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;What would you like to have in 2008 that you lacked in 2007?
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;What date(s) from 2007 will remain etched upon your memory, and why?
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;What was your biggest achievement of the year?
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;What was your biggest failure?
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Did you suffer any illness or injury?
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;What was the best thing you bought?
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Whose behavior merited celebration?
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Whose behavior made you appalled and depressed?
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Where did most of your money go?
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;What did you get really, really, really excited about?
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;What song will always remind you of 2007?
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Compared to this time last year, are you:
+&lt;ul&gt;
+&lt;li&gt;i. happier or sadder?
+&lt;br/&gt;&lt;/li&gt;
+&lt;li&gt;ii. thinner or fatter?
+&lt;br/&gt;&lt;/li&gt;
+&lt;li&gt;iii. richer or poorer?
+&lt;br/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;What do you wish you'd done more of?
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;What do you wish you'd done less of?
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;How will you be spending Christmas?
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Did you fall in love in 2007?
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;How many one-night stands?
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;What was your favorite TV program?
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Do you hate anyone now that you didn't hate this time last year?
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;What was the best book you read?
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;What was your greatest musical discovery?
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;What did you want and get?
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;What did you want and not get?
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;What was your favorite film of this year?
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;What did you do on your birthday, and how old were you?
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;What one thing would have made your year immeasurably more satisfying?
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;How would you describe your personal fashion concept in 2007?
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;What kept you sane?
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Which celebrity/public figure did you fancy the most?
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;What political issue stirred you the most?
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Who did you miss?
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Who was the best new person you met?
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Tell us a valuable life lesson you learned in 2007:
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Quote a song lyric that sums up your year:
+&lt;br/&gt;
+&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;

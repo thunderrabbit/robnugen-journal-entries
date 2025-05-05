@@ -1,0 +1,13 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Kagoshima, CPC Clinic -->
+<p class="date">1:50pm JST Tuesday 29 January 2008 (day 13824)</p>
+
+<p>Toying around with catastrophic errors in ctbriefs.net.  Basically want to have it gracefully
+recover from the DB going down.  This is a rather unlikely scenario, so if it's not easy to handle,
+I may not worry about it.  I haven't given it a thorough inspection though.</p>
+
+<p>Next steps are to handle users going to the template files directly instead of the main files.
+Like I have admin.php which includes admin.template.php.  If they visit admin.template.php, it will
+croak.  So I need to have it automagically refresh to its parent.</p>

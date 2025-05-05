@@ -1,0 +1,23 @@
+<!-- tags: work, android -->
+<!-- locations: Shibuya -->
+<p class="date">10:28pm JST Thursday 10 February 2011 (day 14932)</p>
+
+<p>85% chance Nate and Alfonzo can hire me back on full time.  Sweet as.  I did some Android Hello
+World tutorials, and got a bit stuck on the HelloTab one.  It runs but no tabs are displayed.  I
+think I got a bit too cocky with my class names oohhhh I think I know what it may be.  Yeah the
+project was supposed to be called HelloTab or something, and I called it HelloDog, which was one of
+the tabs, so the Activity which runs is the Dog tab, not the tabs' parent view.  I just gotta
+figure out how to tell the parent to be the correct parent and not the dog.</p>
+
+<p class="date">4:19am JST Friday 11 February 2011 (day 14933)</p>
+
+<p>Sweet!  I got it.  Thanks to the <a href="http://developer.android.com/guide/developing/debug-tasks.html">awesome debugger</a>:</p>
+
+<pre>
+02-11 04:17:03.462: ERROR/AndroidRuntime(498): Caused by: android.content.ActivityNotFoundException:
+Unable to find explicit activity class
+{com.robnugen.helloTabWidget/com.robnugen.helloTabWidget.DogActivity}; have you declared this activity
+in your AndroidManifest.xml?
+</pre>
+
+<p>Why, no, in fact, I had not declared that activity in my AndroidManifest.xml, thankyouverymuch.</p>

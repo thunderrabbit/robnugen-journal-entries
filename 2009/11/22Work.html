@@ -1,0 +1,54 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Shibuya, work -->
+<p class="date">10:51pm JST Sunday 22 November 2009 (day 14487)</p>
+
+<p>Worked late today (Sunday) and yesterday (Saturday) after sleeping a bit late (cause I downloaded
+and watched half of 2012 last night), and waking up early (to attend yoga lessons with Paola
+starting at 8:45am Saturday), respectively.  In both cases, I got to work at around noon thirty.
+Alfonzo was on a similar schedule both days; we're pushing hard to get the site done before its
+release on the first.</p>
+
+<p>Helpful in that regard, our possible new Cow-Go student Takayuki did not respond to my offer of
+Saturday 7pm for a lesson with Mark.  I canceled the meeting with Mark and kept on working.</p>
+
+<p>Today I finished retooling all the finish_time variables..  We had had a checkbox
+&quot;finished&quot; and later added a timestamp &quot;finish_time,&quot; but then realized they
+are ripe for conflict, so removed the boolean &quot;finished&quot; from the DB tables and I
+retooled the code that displayed those values.</p>
+
+<p>The coolest bits of code keeps the timestamp at (most recent) five minute intervals.
+Basically:</p>
+
+<pre>
+	timestamp = (floor(NOW / 5 mins) * 5 mins)
+</pre>
+
+<p>In PHP I essentially wrote</p>
+
+<pre>
+	$time_without_minute = Date("Y-m-d H:");
+	$nearest_five_minute = floor(Date("i") / 5) * 5;		// most recent 5 minute
+	$record['finish_time'] = $time_without_minute . &quot;:&quot; . $nearest_five_minute;
+</pre>
+
+<p>In javascript I essentially wrote</p>
+
+<pre>
+	var currentTime = new Date();
+	var moon = currentTime.getMonth() + 1;
+	var date = currentTime.getDate();
+	var year = currentTime.getFullYear();
+	var hour = currentTime.getHours();
+	var five = Math.floor(currentTime.getMinutes() / 5) * 5;
+	$("finish_time").set("value",year+"-"+moon+"-"+date+" "+hour+":"+five);     // requires mootools
+</pre>
+
+<p>And in MySQL (via PHP), I essentially wrote</p>
+
+<pre>
+	$rounder = 5 * 60;  // to nearest five minutes
+	$db-&gt;do("UPDATE " . $table . " SET `finish_time` = FROM_UNIXTIME(FLOOR(UNIX_TIMESTAMP() /
+		(" . $rounder . ")) * (" . $rounder . ")) WHERE `id` = ". $id);
+</pre>

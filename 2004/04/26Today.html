@@ -1,0 +1,22 @@
+<p class=date>5:34pm JST Monday 26 April 2004</p>
+
+<p>So far today I've written in my japanese diary and worked a lot on
+my work project.  At this point there's so functionality, though it's
+not very useful *quite* yet.  One query isn't working like I want,
+and I'm not sure why.</p>
+
+<pre>
+SELECT * FROM lessons_taught
+  WHERE date < "2004/04/26" and studentID =
+  ( select studentID from lessons_taught WHERE date = "2004/04/26" );
+</pre>
+
+<p>I tried "and studentID in" for "and studentID =" but that didn't help.
+The subquery works and the main query without the "and studentID"
+sub-query works; I'm not sure what's the dealio.</p>
+
+<p>Anywayses, right now the code can smurf in an html report and throw
+the pertinent data into the db, and it can output all the records in
+the db for a particular instructor.</p>
+
+<p>次は自由ヶ丘です。</p>

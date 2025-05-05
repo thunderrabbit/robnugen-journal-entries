@@ -1,0 +1,121 @@
+<h1>handling 404 errors with perl</h1>
+
+<form><textarea rows="30" cols="100">
+#!/usr/bin/perl
+
+#####################################################################
+#
+# 404.pl: basic 404 handler
+# version 0.1
+#
+# Copyright (C) 2006 Rob Nugen, 404_handler@robnugen.com
+# 
+# This program is free software; you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation; either version 2 of the License, or
+# (at your option) any later version.
+# 
+# This program is distributed in the hope that it will be useful, but
+# WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+# 
+# You should have received a copy of the GNU General Public License along
+# with this program; if not, write to the Free Software Foundation, Inc.,
+# 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
+#
+#####################################################################
+
+#####################################################################
+#
+#  This code is supposed to solve the problem of 404s resulting from
+#  me moving pages around my site.
+#
+#  Modify %redirect_404s to match your site
+#
+#  in the rest of the code, change occurences of yoursite.com, and
+#  modify the location of sendmail to match your server if needed
+#
+#  History:
+#  2004 or so: initial write
+#  2006-may-22: added ability to handle (.*) pattern matches at the end of URLs
+#
+#####################################################################
+
+use strict;
+use CGI qw(:all fatalsToBrowser);
+
+my ($subject,$match_quality,$body);
+my %redirect_404s =      qw(
+                            /old/url/and/page1.html          /new_improved_url/and_new_page1.html
+                            /old_url/foo2.html               /cgi-bin/new.pl?foofile=foo2.html
+			    /old_dir3/(.*)                   /new_dir3/
+			    \b.*?(?:keyword4).*\b            /cgi-bin/new_keyword_handler.pl?keyword=keyword4
+			 );
+
+my $refresh_to_URL; # in case we match a regex above
+
+my $query = new CGI;
+
+# the sort below makes / keys come before \ keys
+foreach my $regex (sort keys %redirect_404s) {
+    if  ($ENV{'REQUEST_URI'} =~ m!$regex!i) {
+	$refresh_to_URL = $redirect_404s{$regex} . $1;  # $1 is replaced with the files after /old_dir3/ or ignored in the other cases
+	$match_quality = ($regex =~ m!^/!) ? "nicely" : "generically";
+	last;
+    }
+}
+
+if ($refresh_to_URL) {
+    print &lt;&lt;__END__;
+Content-type: text/html
+
+&lt;head&gt;
+&lt;meta http-equiv="refresh" content="0;url=$refresh_to_URL"&gt;
+&lt;script language=Javascript1.0&gt;
+  window.location.href="$refresh_to_URL"
+  &lt;/script&gt;
+
+&lt;/head&gt;
+&lt;body&gt;
+redirecting to &lt;a href="$refresh_to_URL"&gt;$refresh_to_URL&lt;/a&gt;
+&lt;/body&gt;
+__END__
+
+    $subject = "404 Refreshed $match_quality: $ENV{'REQUEST_URI'}";
+    $body = $ENV{"REQUEST_URI"} . "-&gt; http://yoursite.com$refresh_to_URL\n";
+    $body .= $ENV{"HTTP_COOKIE"} . " " . $ENV{"REMOTE_HOST"} . "\n";
+    $body .= ($ENV{"HTTP_REFERER"} || "no referer") . " \n " . $ENV{"HTTP_USER_AGENT"};
+
+} else {
+
+    print $query-&gt;header, $query-&gt;start_html("404: not found");
+
+    print $query-&gt;h3("404: not found");
+
+    print $query-&gt;p("Sorry; we couldn't find it.");
+
+    print $query-&gt;p("An email is being sent to let me know what you were looking for.");
+    print $query-&gt;end_html;
+
+    $subject = "404 Not Found: $ENV{'REQUEST_URI'}";
+    $body = "http://yoursite.com" . $ENV{"REQUEST_URI"} ." \n";
+    $body .= $ENV{"HTTP_COOKIE"} . " " . $ENV{"REMOTE_HOST"} . "\n";
+    $body .= ($ENV{"HTTP_REFERER"} || "no referer") . " \n" . $ENV{"HTTP_USER_AGENT"};
+}
+
+if ($ENV{"HTTP_REFERER"}) {
+    # only if http_referer exists, implying the page was not recrawled by a spider from its cache
+
+    # mail the error to you
+    my $mail_prog = "/usr/sbin/sendmail"; # location of sendmail on server;
+
+    open(MAIL,"|$mail_prog -t");
+    print MAIL "To: you\@yoursite.com\n";
+    print MAIL "From: 404handler\@yoursite.com\n";
+    print MAIL "Subject: $subject\n\n";
+    print MAIL "\n$body";
+    print MAIL"\n\n";
+    close (MAIL);
+}
+</textarea></form>

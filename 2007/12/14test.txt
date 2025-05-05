@@ -1,0 +1,4 @@
+Oh yes.
+
+Emacs rules.  I'm writing this on my local machine, but using tramp, it's being saved directly to my
+website via an ssh encrypted connection.  Fucking fantastic!

@@ -1,0 +1,52 @@
+<p class=date>12:56am JST Wednesday 16 March 2005</p>
+
+<p>According to _Fermat's Last Theorem_, according to Pythagoras and
+his Brotherhood, if the divisors of a number (not including itself)
+add together to equal the number, it is a perfect number.</p>
+
+<p>According to _Fermat's Last Theorem_, no one knows how many perfect
+numbers there are.  No one knows if they are all even.  The 30 or so
+found so far are all even.</p>
+
+<p>Here is a little crappy bit of code I tossed together to search for
+perfect numbers.</p>
+
+<pre>
+#!/usr/bin/perl
+
+foreach $P (1..9992800)
+{ 
+    undef $sum;
+    undef @Pstack;
+
+    $halfP = int($P / 2);  # don't try to divide evenly by numbers bigger than half the size of the number.
+    foreach $a (1..$halfP)
+    {
+	push @Pstack, $a unless ($P % $a);   # if $P modulus $a has no remainder, throw $a on P's stack of divisors
+    }
+    foreach (@Pstack) {
+	$sum += $_;   # add up the prime divisors of $P
+    }
+    if ($sum == $P) {      # These are Perfect numbers
+	printf ("%8d: ", $P);
+        $list = join(", ", @Pstack);
+	print $list;
+	print " = $sum\n";
+    }
+}
+</pre>
+
+<p>I ran the code above and got 6, 28, 496, and 8128.  _Fermat's Last
+Theorem_ gave the next two, so I tweaked the first line of the
+code:</p>
+
+<p>foreach $P (6,28,496,8128,33550336,8589869056)</p>
+
+<pre>
+       6: 1, 2, 3 = 6
+      28: 1, 2, 4, 7, 14 = 28
+     496: 1, 2, 4, 8, 16, 31, 62, 124, 248 = 496
+    8128: 1, 2, 4, 8, 16, 32, 64, 127, 254, 508, 1016, 2032, 4064 = 8128
+33550336: 1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048, 4096, 8191, 16382, 32764, 65528, 131056, 262112, 524224, 1048448, 2096896, 4193792, 8387584, 16775168 = 33550336
+Range iterator outside integer range at ./crap.pl line 9.
+</pre>

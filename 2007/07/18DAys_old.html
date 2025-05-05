@@ -1,0 +1,143 @@
+<!-- tags:  -->
+<!-- events:  -->
+<!-- people:  -->
+<!-- locations: 37000 feet, American Airlines flight 176 -->
+<p class="date">5:38am CDT Wednesday 18 July 2007 (day 13630)</p>
+
+<p>Okay, I'm going to switch my timezone back and see what happens.</p>
+
+<p class="date">5:41am CDT Wednesday 18 July 2007 (day 13630)</p>
+
+<p class="date">7:41pm JST Wednesday 18 July 2007 (day 13629)</p>
+
+<p>Okay, I think I've found the problem, but I have no idea how I came to write the code this
+way.</p>
+
+<pre>
+  (concat " (day " (number-to-string (- (time-to-days (current-time)) (time-to-days '(109 0 0)))) ")")
+</pre>
+
+<p>I'm sure the problem is with the value '(109 0 0) given to the function time-to-days.</p>
+
+<p>Emacs' documentation says:</p>
+
+<pre>
+time-to-days is a compiled Lisp function in `time-date.el'.
+(time-to-days time)
+
+The number of days between the Gregorian date 0001-12-31bce and time.
+time should be a time value.
+The Gregorian date Sunday, December 31, 1bce is imaginary.
+</pre>
+
+<p>I checked time-date.el and I think we're getting somewhere.</p>
+
+<pre>
+;;;###autoload
+(defun time-to-days (time)
+  "The number of days between the Gregorian date 0001-12-31bce and TIME.
+TIME should be a time value.
+The Gregorian date Sunday, December 31, 1bce is imaginary."
+  (let* ((tim (decode-time time))
+	 (day (nth 3 tim))
+	 (year (nth 5 tim)))
+    (+ (time-to-day-in-year time)	; 	Days this year
+       (* 365 (1- year))		;	+ Days in prior years
+       (/ (1- year) 4)			;	+ Julian leap years
+       (- (/ (1- year) 100))		;	- century years
+       (/ (1- year) 400))))		;	+ Gregorian leap years
+</pre>
+
+<p>decode-time should give the answer.</p>
+
+<p>Holy crap.  How is the function working at all?</p>
+
+<pre>
+decode-time is a built-in function in `C source code'.
+(decode-time &optional specified-time)
+
+Decode a time value as (SEC MINUTE HOUR DAY MONTH YEAR DOW DST ZONE).
+The optional specified-time should be a list of (HIGH LOW . IGNORED),
+as from `current-time' and `file-attributes', or nil to use the
+current time.  The obsolete form (HIGH . LOW) is also still accepted.
+The list has the following nine members: SEC is an integer between 0
+and 60; SEC is 60 for a leap second, which only some operating systems
+support.  MINUTE is an integer between 0 and 59.  HOUR is an integer
+between 0 and 23.  DAY is an integer between 1 and 31.  MONTH is an
+integer between 1 and 12.  YEAR is an integer indicating the
+four-digit year.  DOW is the day of week, an integer between 0 and 6,
+where 0 is Sunday.  DST is t if daylight saving time is in effect,
+otherwise nil.  ZONE is an integer indicating the number of seconds
+east of Greenwich.  (Note that Common Lisp has different meanings for
+DOW and ZONE.)
+</pre>
+
+<p>I've only given it 3 parameters but it wants <em>nine</em>!</p>
+
+<p>Oh......</p>
+
+<pre>
+current-time is a built-in function in `C source code'.
+(current-time)
+
+Return the current time, as the number of seconds since 1970-01-01 00:00:00.
+The time is returned as a list of three integers.  The first has the
+most significant 16 bits of the seconds, while the second has the
+least significant 16 bits.  The third integer gives the microsecond
+count.
+
+The microsecond count is zero on systems that do not provide
+resolution finer than a second.
+</pre>
+
+<p>I imagine 109 is the number of days from 1970-01-01 to my um.. ahem.</p>
+
+<p>Nope.  Not even close.  Hmmmmm!</p>
+
+<p>Okay, I'm just going to ignore the 109 for now and put in the values I think should be there.</p>
+
+<p>OOOOhhhhhhh wait wait wait wait</p>
+
+<pre>
+Decode a time value as (SEC MINUTE HOUR DAY MONTH YEAR DOW DST ZONE).
+</pre>
+
+<p>This means the *output* is as above.  What is a 'time value' of (109 0 0) ???</p>
+
+<p>But first, check the usage of the output of the function above.</p>
+
+<p>Well, I'm not even using the output; just feeding two such outputs to the function -.</p>
+
+<p>Okay, *now* we're getting somewhere:</p>
+
+<pre>
+;; Time values come in three formats.  The oldest format is a cons
+;; cell of the form (HIGH . LOW).  This format is obsolete, but still
+;; supported.  The two other formats are the lists (HIGH LOW) and
+;; (HIGH LOW MICRO).  The first two formats specify HIGH * 2^16 + LOW
+;; seconds; the third format specifies HIGH * 2^16 + LOW + MICRO /
+;; 1000000 seconds.  We should have 0 &lt;= MICRO &lt; 1000000 and 0 &lt;= LOW
+;; &lt; 2^16.  If the time value represents a point in time, then HIGH is
+;; nonnegative.  If the time value is a time difference, then HIGH can
+;; be negative as well.  The macro `with-decoded-time-value' and the
+;; function `encode-time-value' make it easier to deal with these
+;; three formats.  See `time-subtract' for an example of how to use
+;; them.
+</pre>
+
+<p class="date">8:09pm JST Wednesday 18 July 2007 (day 13629) </p>
+
+<p>Hmmm.</p>
+
+<p>Okay, 109 appears to be the number of multiples of 2^16 seconds from 1970 Jan 1 to my birthday,
++/- 1 day, which in this case is significant.</p>
+
+<p>- - - -</p>
+
+<p>bah; fuck; I'm tired of this.</p>
+
+<p>I'm gonna watch the latter 2/3rds of Bourne Identity again.</p>
+
+<p class="date">11:29am CDT Wednesday 18 July 2007 (day 13630)</p>
+
+<p>I tried working on it for another hour, but still didn't make any headway.</p>

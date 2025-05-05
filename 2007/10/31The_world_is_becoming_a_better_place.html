@@ -1,0 +1,61 @@
+<!-- tags: oss, free, good, code -->
+<!-- events: updating Flickr extension via wiki -->
+<!-- people: Ed Simpson -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">5:27pm JST Wednesday 31 October 2007 (day 13734)</p>
+
+<p>Thanks to free software, the world is getting better and better.</p>
+
+<pre>
+HI Ed
+
+Thank you for your Flickr extension!
+
+Unfortunately, it won't work on my webserver.  I tracked down the
+reason and added a check to your code.
+<a href="http://wiki.edsimpson.co.uk/index.php/Flickr_Extension#Installation">http://wiki.edsimpson.co.uk/index.php/Flickr_Extension#Installation</a>
+
+I added
+
+       if(! ini_get('allow_url_fopen')) {
+               $output = "&lt;strong class='error'&gt;Flickr.php error: this PHP install does not allow_url_fopen&lt;/strong&gt;";
+               return $output;
+       }
+
+I'm going to check into my webhost provider (dreamhost) to see if I
+can change the setting.
+
+   Thanks!
+   - Rob
+
+--
+The love that you give is the pain that you release.
+</pre>
+
+<p>Basically, I found some awesome free software extension that lets me add to the already awesome
+free software that powers wikipedia.  The extension, unfortunately, won't work on my server because
+of a security thing they've got set up.  So I went to the extension author's site and made the
+change (in his wiki) as mentioned above, then sent him the email.  Awesome.</p>
+
+<p class="date">6:04pm JST</p>
+
+<p>Even better: Dreamhost documentation showed <em>exactly</em> how to use a more secure tool to do
+this.  Even gave the code sample.  Now it works on my server, and I've patched the code mentioned
+above with the code below.</p>
+
+<pre>
+        #  use cURL if we can't use file_get_contents
+        if(ini_get('allow_url_fopen')) {
+                $rsp = file_get_contents($url);
+        }
+        else
+        {
+                $ch = curl_init();
+                $timeout = 5; // set to zero for no timeout
+                curl_setopt ($ch, CURLOPT_URL, $url);
+                curl_setopt ($ch, CURLOPT_RETURNTRANSFER, 1);
+                curl_setopt ($ch, CURLOPT_CONNECTTIMEOUT, $timeout);
+                $rsp = curl_exec($ch);
+                curl_close($ch);
+        }
+</pre>

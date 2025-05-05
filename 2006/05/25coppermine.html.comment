@@ -1,0 +1,31 @@
+
+<p><b>Name:</b> Lorne
+
+<p><b>Email:</b> <a href="mailto:ltyndale@tyndaleweb.com">ltyndale@tyndaleweb.com</a>
+
+<p><b>Subject:</b> Coppermine and thumbnails
+
+<p><b>Comment:</b>
+<br>Hi Rob,<br>
+<br>
+I've been using Coppermine for a while and quite like it.  It is possible to use already created thumbnails, just not all that clear.<br>
+<br>
+The trick I've found is to use the "Batch Add" option - where you can put files in a directory and batch add them.  And have already renamed the thumbnail files that you have to fit the Coppermine naming scheme.<br>
+<br>
+Let's say you have a file called:<br>
+<br>
+mypicture1.jpg<br>
+<br>
+When you add it, Coppermine will create 2 additional files called:<br>
+<br>
+normal_mypicture1.jpg<br>
+thumb_mypicture1.jpg<br>
+<br>
+So let's say you already have all 3 of these files (or 2 of them).  Rename the files to follow the above convention.  Then Just create a new directory off the /albums/ directory, dump the files in there (or if you only have the main picture and a thumbnail, dump those 2 files and Coppermine will create the 3rd).<br>
+<br>
+Then go into Coppermine's admin / login area, create your new Category and Album, click on the "Batch Add" menu option, select your directory, and your files (along with their thumbnails) should show up.  Then just use the "insert into selected album" option.   This should avoid re-creating all the thumbnails, as long as the file naming convention is followed.<br>
+<br>
+Good luck!<br>
+Lorne Tyndale<br>
+
+

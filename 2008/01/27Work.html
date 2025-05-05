@@ -1,0 +1,11 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Kagoshima, CPC Clinic -->
+<p class="date">7:20pm JST Sunday 27 January 2008 (day 13822)</p>
+
+<p>Some months ago, I split a big hairy query into a temp table and tossed an index on that.  This
+sped the query up by quite a bit.  The resulting query still had a subquery in it so I pulled that
+out today, after I noticed it was causing a bit of a problem with calculating the number of users
+(we want that instead of the number of websites they have).  The counting problem is fixed, but even
+with an index on this temp table as well, the overall query is not any faster.</p>

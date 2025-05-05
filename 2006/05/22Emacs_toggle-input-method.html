@@ -1,0 +1,68 @@
+<p class="date">8:48am JST Monday 22 May 2006 (day 13207)</p>
+
+<p>I found this after a mistype of the variety C-\ instead of C-&rsqb; to
+replace the escape key (sometimes it registers two (or more) ESC's
+when I hit the escape key, so I've turned to C-&rsqb;</p>
+
+<p>Anyway, C-\ is toggle-input-method, which put me into typing
+Japanese, which was annoying for a second until I remembered what I
+had pressed to get into that mode, and pressed it again to get
+out.</p>
+
+<p>Then I had to check wtf happened.</p>
+
+<p>C-h c</p>
+
+<pre>Describe key briefly: C-\</pre>
+
+<pre>C-\ runs the command toggle-input-method</pre>
+
+<p>Cool.</p>
+
+<p>BUT, <em>that's</em> not why I'm writing.</p>
+
+<p><em>Previously</em>, I had been changing the keyboard input at the
+OS X level, and emacs would handle it by giving me an external bar
+into which I could type, and then it would put the characters into
+the buffer.</p>
+
+<p>It worked perfectly well, like this:</p>
+
+<p>ひらがな、カタカナ、漢字。</p>
+
+<p>But it's a bit annoying to have to look in a different line-window
+to type, etc.</p>
+
+<p><em>Now</em>, I can just type C-\ and type right in the big
+window, like <em>this</em> ひらがな、カタカナ、漢字。</p>
+
+<p>Wow!  And this way, when I type control characters to add
+html-markup, it knows not to try making those into Japanese at first
+(though it gracefully recovers even if I'm in line-window mode).</p>
+
+<p>This is totally phat.</p>
+
+<p>Emacs rules!</p>
+
+<p>Holy shit; I just noticed one more thing: when I type something
+like this: てすと, and then hit the space bar, it gives me a
+selection of choices in the bottom line, [1 テスト]which I can choose by typing
+the identifying number of the item I want, or by repeatedly typing
+space.</p>
+
+<p>Oh, wait; I have to hit the spacebar a couple times before that
+comes up.  It's to save keystrokes (and not waste processor time)
+because usually one or two SPCs will get to the desired kana or
+kanji.</p>
+
+<p>The only limitation I see: up to 10 options are available at a
+time, even if there are more than that many options.</p>
+
+<p>But still, given that it remembers the chosen selection and favors
+the ones selected often/recently (I don't know which; it's been so
+transparent that I don't care) it's not an issue.</p>
+
+<p>Okay, <em>now</em> I found an annoyance: I can't get it to print
+the kanji for my name without typing one character at a time: 路 武</p>
+
+<p>でも、すごいです！</p>

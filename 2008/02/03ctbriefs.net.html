@@ -1,0 +1,50 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyo, Shibuya -->
+<!-- locations: Motosumiyoshi, Sakura House -->
+
+<p class="date">11:53pm JST Sunday  3 February 2008 (day 13829)</p>
+
+<p>I've got the sort worked out... I think I may have mentioned that last night.  Today I got the
+core of the pagination worked out.  I know how many records are in the original query, discounting
+the LIMIT clause.</p>
+
+<p>For the sake of free software, here is code for using mysqli to get number of rows with limit:
+(this code is snipped out of the middle of a method in my object, so it will require some changes
+around the $this-&gt; parts.)</p>
+
+<pre>
+		$query = "SELECT <b>SQL_CALC_FOUND_ROWS</b> * FROM theories as t left join users as u using(uid) " .
+			{$where_clause} . 
+			"LIMIT " . $min .  ", " . $per_page;
+
+		if($statement = $this->mysqli->prepare($query))
+		{
+		
+			$statement->bind_param(&quot;dd&quot;, $var, $var2);
+			$statement->execute();
+			$statement->bind_result(&lt;snip&gt;);
+			while ($statement->fetch())
+			{
+			    stuff;
+			}
+			$statement->close();
+
+<b>
+			$statement=$this->mysqli->prepare("Select FOUND_ROWS()");
+			$statement->execute();
+			$statement->bind_result($num_records);
+			$statement->fetch();
+</b>		
+			$num_pages = ceil($num_records / $_SESSION['theories_per_page']);
+			
+			print_rob($num_records, "num records");
+			print_rob($num_pages, "num pages");
+		}
+</pre>
+
+<p class="date">1:02am JST Monday  4 February 2008 (day 13830)</p>
+
+<p>Ah, cool.  Now I know how to send the user's choice to the program.  Now I just need to get the
+current DB query to feed back to the UI which page of how many they are on.</p>

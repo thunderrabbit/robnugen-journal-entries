@@ -1,0 +1,29 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">6:43pm JST Thursday 11 September 2008 (day 14050)</p>
+
+<p>Work has featured some coding to let new users know where they are along the registration
+process.  I was having problem with infinite looping at one point, but I think I figured it out.
+Instead of checking where they should be, making sure they aren't there and sending them there, I
+check where they should be, then make sure they aren't there and send them there.  Hmmm; those are
+the same.  I'm not sure what the actual logic difference is, but basically I split the
+assertions(?) out of the If statements into other If statements.</p>
+
+<p>I have no idea how to explain what I did, but it's done, and now I'm going to meet Romi for a
+little translation work.</p>
+
+<p class="date">11:54pm JST</p>
+
+<p>On the train in Shibuya now.  At the end of the evening, I showed Malek what takeout looks like
+so far.  I finally got the account creation logic to work correctly (and now we've decided to
+change it a bit, but it will be easy now that I've figured out <em>how</em> to do it easily), so
+Malek went through that whole process.  Good news to have messages for the users so they know their
+stuff was saved and what to do next.</p>
+
+<p>Oh, I also need to add a field that asks what kind of venue they are.  This will be cool and
+similar to the logic I use when choosing the location of the venue: when choosing United States as
+the country, the next field down asks for State, but if they choose Japan, the next field is
+Prefecture.  But it will be one step easier than that because for *that* code, changing the country
+includes an AJAX call, but this will just be javascript.  Well, they're both mootools, but.</p>

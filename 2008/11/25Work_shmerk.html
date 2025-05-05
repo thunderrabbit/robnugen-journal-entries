@@ -1,0 +1,53 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">7:03pm JST Tuesday 25 November 2008 (day 14125)</p>
+
+<p>argh</p>
+
+<p>I've been working on the billing project for like 2.5 months now, maybe 3.  The project started
+with Malek saying &quot;just make it really quick and dirty&quot; but instead of doing that I made
+it good and functional.</p>
+
+<p>I got kudos for that, and then it was determined that the project could be tied to the actual
+system and turn off clients' websites if they haven't paid.  Great!  Andrew even designed a way to
+connect the databases, and I've re-tooled 2.5 or 3 weeks of work (that may be an exaggeration) to
+get the new technique in place.</p>
+
+<p>I *almost* got the system to a state that Sho could use it to bill our clients this month, but
+because it will take him some time to get used to the system and make sure all the data is correct,
+he/we decided not to use it.  So I went back to cleaning up the GUI and have been working on getting
+past one point on which I've been stuck for a bit: getting mootools to populate some fields into
+sortable table rows after getting some data with a JSON request.</p>
+
+<p>Because it's taken Sho all day to get the invoicing done with his old system, Malek is back to
+saying, &quot;I want to redo the whole system; I don't even want to worry about telling them what
+they're being billed for.&quot;</p>
+
+<p>Ah fuck.  That's exactly the part that I've been working so hard to finish.  Which way will it
+be?  Throw away all my code?  Keep going and make something cool?</p>
+
+<p class="date">8:34pm JST Tuesday 25 November 2008 (day 14125)</p>
+
+<p>Got the bit of code finished.  One problem that took me a while to realize: I had essentially
+this code:</p>
+
+<pre>
+var css_name = 'class';
+var css_value = 'classname';
+
+css_object = { css_name : css_value };
+
+var myTD = new Element('td', css_object);
+</pre>
+
+<p>but myTD ended up being &lt;td css_name='classname'&gt;</p>
+
+<p>wtf?</p>
+
+<p>That totally killed my plan to generalize the code (the first two lines are simplified
+versions of code that was being read from DB and parsed, etc.).  bah.</p>
+
+<p>Thanks to Andrew for helping me get it solved.  I hope I survive well without him over the next
+6 work days (he'll be in Kagoshima getting paid to get drugged).</p>

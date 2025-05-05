@@ -1,0 +1,26 @@
+<p class="date">9:38am JST Sunday 16 April 2006 (day 13171)</p>
+
+<p>Totally awesome.  I have now fixed a long-standing problem: making
+paragraph tags automagically be class="dream" or not, depending on
+the name of the file.</p>
+
+<pre>
+;; robnugen.com
+(define-skeleton html-rob-paragraph
+  "Prints HTML paragraph tag depending on filename.
+
+If filename contains \"Dream\" or \"dream\", then paragraphs with 
+class=\"dream\" are used.  Otherwise, un-classed paragraphs are used."
+  nil
+  (if (string-match "[Dd]ream" (buffer-file-name))
+      (skeleton-insert (cons (html-dream-paragraph) nil))
+    (skeleton-insert (cons (html-paragraph) nil))))
+</pre>
+
+<p>What took forever was getting the skeleton-insert line right.  The
+documentation was too technical (and the error codes too terse) for me
+to really understand, so I spent a good deal of time making guesses as
+to how to call it.  I was <em>nearly</em> at the point of giving up
+and just repeating the code in the html-dream-paragraph and
+html-paragraph skeletons...  and I just guess-coded a skeleton-insert
+call that worked.</p>

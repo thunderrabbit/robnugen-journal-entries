@@ -1,0 +1,39 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">1:39pm JST Friday 14 December 2007 (day 13778)</p>
+
+<p>Okay, now Emacs does in fact, officially rule fo sheezy.  I'm running my local emacs, and have
+just opened a remote file via ssh using tramp, *and* have run my days old calculatin' stuff and
+shtuff...  Basically I just run a macro on my local emacs and the rest is handled transparently.
+
+<p>Put this in .emacs:</p>
+
+<pre>
+(require 'tramp)
+</pre>
+
+The filename to load is</p>
+
+<pre>/ssh:username@machine.domain.tld:/directory/name/file.extension</pre>
+
+<p>These can be given default values in .emacs:</p>
+
+<pre>
+(setq tramp-default-method "ssh"
+      tramp-default-user "username"
+      tramp-default-host "machine.domain.tld")
+</pre>
+
+<p>And it's allllll groovy.</p>
+
+<p>Just a couple more tests before I switch my default to do journal files remotely like this.
+One: can it write ÆüËÜ¸ì and send the characters properly?</p>
+
+<p>Yes.  Good.</p>
+
+<p>And next, what happens if I try to save, but have no internet connection?</p>
+
+<p>Hmmmm.  That wasn't as good.  It seemed to lock up emacs' brain for the duration of the internet
+outage (about 2 minutes), but once internet was restored, it recovered as if nothing had happened.</p>

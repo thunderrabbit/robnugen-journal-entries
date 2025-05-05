@@ -1,0 +1,63 @@
+<!-- tags: fly2.nu, image-dropbox, git -->
+<!-- events: got abj.fly2.nu basically working with image-dropbox -->
+<!-- people: Richard -->
+<!-- locations: Chiang Mai -->
+<p class="date">12:53am ICT Tuesday  1 June 2010 (day 14678)</p>
+
+<pre>
+HI Richard
+
+I've made several changes to the image-dropbox code so it will work on my system.  Eventually I'd
+like to get it so the code will work on both your system and mine with no modifications.
+
+Right now, though I doubt you'd want all my code, I did find a bug that disallows newly created
+users to log in.
+
+<a href="http://github.com/thunderrabbit/image-dropbox/commit/be867652c40833d798d48ea568a4862024731596#L1L38">http://github.com/thunderrabbit/image-dropbox/commit/be867652c40833d798d48ea568a4862024731596#L1L38</a>
+
+Basically your DB INSERT is saving the plaintext $password to the users table instead of SHA1
+$hash_password
+
+- - -
+
+Also, I see you've got the schema.sql and schema-update.sql written so they can be imported on the
+command line.  I think it would be better for users if those were written as .php files that could
+be run from the web.
+
+Two reasons: It would be easier for most users (who don't do command line stuff), AND the files
+could use the conf.php values for the DB name so they would "just work" with no modifications.
+
+To make the DBs via web, I started to write fixes/install.php, but realized it would be a mess to
+keep a .PHP verson and a .sql version of the DB create files.
+
+<a href="http://github.com/thunderrabbit/image-dropbox/commit/3829ab5a0cb1c4a078eae207ea65519e02a0baa9#diff-0">http://github.com/thunderrabbit/image-dropbox/commit/3829ab5a0cb1c4a078eae207ea65519e02a0baa9#diff-0</a>
+
+What are your thoughts on converting the files from .sql to .php?
+
+   Thanks
+    - Rob
+
+ps: I'm sorry for my email about "fixing" the template system that already worked.  :-)
+
+-- 
+Freestyle art and healing
+rob@robnugen.com
+</pre>
+
+<p>I'm pretty excited to have gotten what I think will be the solution for my fly2.nu animals.</p>
+
+<p>A guy named Richard has written some code called &quot;image-dropbox&quot; and has the source
+hosted via github.</p>
+
+<p>It pretty much looks like it does all the things I want it to do, without much extra.  And it's
+small.</p>
+
+<p><a href="http://abj.fly2.nu/">http://abj.fly2.nu/</a> <em>basically</em> works now, though it's
+got a way to go.  Please don't upload any pics unless they include my bear Johnny.  (yes I know I
+uploaded Spaghetti Spoon, but that will be deleted as soon as the delete functionality works.)</p>
+
+<p class="date">1:39am ICT</p>
+
+<p>It works now.</p>
+
+<p>crap I gotta go to bed.</p>

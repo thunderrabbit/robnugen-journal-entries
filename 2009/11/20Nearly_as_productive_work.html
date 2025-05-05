@@ -1,0 +1,33 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: Alfonzo -->
+<!-- locations: Shibuya, work -->
+<p class="date">9:54pm JST Friday 20 November 2009 (day 14485)</p>
+
+<p>After I got home yesterday, I finished the task I was going to do this morning, so I was able to
+get started quickly on today's stuff: a list of fixes before the site goes live soon.  Eeep!</p>
+
+<p>Alfonzo was in much better spirits, though there's still a lot of work to be done, we can see the
+proverbial finish line.  A few items were working correctly but the DB data was bad (in which cases
+I tweaked the code a bit to explain why the program didn't seem to do anything, &quot;um yeah you
+can't view that record because it doesn't exist.&quot;</p>
+
+<p>Another fix was super easy: we were checking the value of a variable, but somehow its initiation
+code had been wiped.  So I rewrote the initiation code: (*)</p>
+
+<pre>
+      $action = $_REQUEST['action'];
+</pre>
+
+<p>and bang two whole sections of code suddenly
+began to work!</p>
+
+<p>(*) That's the only line that was missing.  All the validation code was still in place, which is
+why the sections didn't work.  Basically $action was an invalid value (NULL) so the program quickly
+and silently did nothing.</p>
+
+<p>The super difficult bits that I haven't finished yet involve CSS.  Ack; I hate CSS, which I guess
+isn't a very good way to learn it.  Have to make some divs be sortable, &quot;oh, and make them
+&lt;li&gt;s so the number shows up, and move the delete button from the bottom to the top.&quot;</p>
+
+<p>Gah.</p>

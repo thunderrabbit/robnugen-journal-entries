@@ -1,0 +1,15 @@
+<!-- tags: code, emacs, lips -->
+<!-- locations: Tokyo, Setagaya -->
+<p class="date">2:22am JST Tuesday  5 September 2006 (day 13313)</p>
+
+<p>I'm happy to have my day counter back in operation.  I did it a far better way this time.  Last
+time I had written a macro that opened calendar and all sorts of crap.  This time it's all function
+driven:</p>
+
+<pre>
+  (print (concat " (day " (number-to-string (- (time-to-days (current-time)) (time-to-days '(109 0 0)))) ")"))
+</pre>
+
+<p>But now, for some reason html-rob-paragraph is not working.  Perhaps I can figure that out
+tomorrow.  It's the code that prints either a dream paragraph or a plain paragraph depending on the
+file name.</p>

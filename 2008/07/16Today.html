@@ -1,0 +1,44 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">6:15pm JST Wednesday 16 July 2008 (day 13993)</p>
+
+<p>Woke up pretty late today cause I had been talkin' to Natalia until 2am-ish, but still got my
+reiki and antakharana (sp) stuff done, but not neti.</p>
+
+<p>At work now and spent a good deal of time squarshin' a bug that would happen the first time some
+code was run, but not the second time.  Each registration (iteration of bug creation and detection) took a bit
+because it involved validating two email addresses per registration: a pc address and a mobile phone
+address.  The PC addresses were easy enough to verify, but the mobile phones took the time:  Each
+mobile phone has a unique serial number (at least in Japan) which is sent as part of its useragent
+when browsing the web.  We keep a list of those unique serial numbers to make sure only one phone is
+used per user.</p>
+
+<p>So, right there meant I could only use my phone a single time (or keep deleting the entry from
+the DB, but this kinda sneaky behind-the-scenes hack wouldn't allow proper debugging; that could be
+affecting the outcome).  So I installed
+an <a href="http://chrispederick.com/work/user-agent-switcher/">add-on for Firefox to allow
+emulation of different browsers</a>, and told the add-on I was Docomo somethin' something serial
+number.</p>
+
+<p>That worked once, and then for the next iteration, it would take several mouse clicks deep into
+menus to adjust the serial number of my faux useragent, and then mouse clicks to select that agent
+to emulate so I could do it again.</p>
+
+<p>Anyway, finally determined that the bug had to do with the DB entry not yet being filled in the
+first time, so a value wasn't being returned.  But on the next run, the DB entry had been filled in
+so the value existed.  anyway, I found the bug and informed Andrew that he needed to change his copy
+of the code as well.  His fix was a bit different than mine, and at first I liked my fix better, but
+then I just put in both fixes.</p>
+
+<p>He said the bug was there cause the code hadn't been fully tested, and has never been put on a
+production system with users.</p>
+
+<p>About to zip outta here and meet Ami at Softbank (actually 109 cause she wasn't sure which
+Softbank I mean in Shibuya (there's only 1 huge one, but she couldn't tell their relative sizes by
+looking at a list of addresses online.   I imagine every little nook-store that sells Softbank has
+its address on that list). . . .  Anyway she's been having issues getting her iPhone set up with a
+softbank email address, so in the likely case that I'm not able to help her (it's all gonna be in
+Japanese and therefore more frustration for me than its worth), I suggested we have the cats of
+Softbank hook it up.</p>

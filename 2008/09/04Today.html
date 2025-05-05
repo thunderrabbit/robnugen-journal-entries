@@ -1,0 +1,35 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">6:29pm JST Thursday  4 September 2008 (day 14043)</p>
+
+<p>Decently productive day at work: got some logic worked out for auto-updating a map or not, and I
+think it's relatively user-friendly as well.  Basically if they move the location while zoomed in
+at better than level 14, a boolean is set so that the dropdowns will not refresh the map.  So the
+basic idea is the dropdowns choose roughly where they are, and then the user finetunes it.  After
+finetuning, their work won't be lost.  Cool points: (!) if they move the marker while not-so-zoomed,
+the dropdowns will still update the marker. (@) they can easily toggle the boolean if
+they <em>want</em> the dropdowns to update the map.</p>
+
+<p>It was this last point that gave me some trouble..  How to lock it at the right time, and how to
+let them know why the dropdowns aren't working.   I had originally designed it so the boolean==true
+means the map is locked, and it was down by the map, not near the dropdowns.  Now the logic is
+opposite.  If boolean==true, the dropdowns work, and it's up by the dropdowns, so it makes sense to
+the user.</p>
+
+<p>I officially claim the above ideas as of noon 4 September 2008.  No more M$ weak patents on pgup
+and pgdn or some crap like that.</p>
+
+<p>Also got the new universal login code from our other systems merged with takeout.  Just as
+sbstrm was supposed to go live, Andrew and Malek were like, &quot;hmmmm we should have a universal
+login for our systems,&quot; and spent about 2 weeks on that and some other ideas that came up.
+Now the takeout system has it as well, so anyone who can log into sbstrm will automagically be able
+to logonto (*) takeout as well.</p>
+
+<p>(*) I considered &quot;login to&quot; and &quot;log on to&quot;</p>
+
+<p>Um, so that was good.  Oh, and then I played with Google's face recognition service on Picasa.
+It did relatively well, considering most of the faces I had on their servers were me an' Hitomi
+making funny faces.</p>
+

@@ -1,0 +1,28 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">12:33pm JST Thursday 18 October 2007 (day 13721)</p>
+
+<p>I was searching for a way in PHP to split the REQUEST_URI into its constituent parts.  Didn't find it, so wrote this:</p>
+
+<pre>
+&lt;?php
+$path = $_SERVER['REQUEST_URI'];
+$parameters = basename($path);
+
+// get the parameters into $params hash
+$pairs = explode("&",$parameters);
+foreach ($pairs as $pair) {
+	$parts = explode ("=",$pair);
+	$params[$parts[0]] = $parts[1];
+}
+
+foreach ($params as $key =&gt; $value) {
+	echo "&lt;p&gt;" . $key . " is " . $value;
+}
+?&gt;
+</pre>
+
+<p>I'm sure it can be used (by someone way smarter than me) to hack yer system, so don't use it.
+But against my own advice, I'm using it (cause I'm not way smarter than myself).</p>

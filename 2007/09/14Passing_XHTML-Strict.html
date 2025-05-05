@@ -1,0 +1,33 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">6:29pm JST Friday 14 September 2007 (day 13687)</p>
+
+<p>Cool.</p>
+
+<p>It took me a bit, but I figured out a way to replace instances of &lt;! ... &gt; with &lt;!--
+... &gt; in my journal entries.  I thought about perl first, then thought the code has probably been
+written already, but the tools I found (HTML Tidy, et. al.) were all way too difficult for what I
+wanted to do.</p>
+
+<p>It's just a simple search and replace, and then I realized either awk or sed is perfectly suited
+for that.  Turns out it's sed.</p>
+
+<p>My resulting code:</p>
+
+<pre>
+for fl in `find . -name "*.html"`; do
+sed  -i 's/&lt;!\([^-]\)\([^&gt;]*\)/&lt;!-- \1\2 --/' $fl
+done
+</pre>
+
+<p>The first part of the match may be more difficult than needed, but I wanted it to not flub up
+files if I ran it twice, nor if they were already in correct format.</p>
+
+<p class="date">6:36pm JST</p>
+
+<p>Hahahaha at first I had put the sed code up there without htmlifying the &lt; and &gt; chars.
+Suddenly the page was no longer XHTML Strict!!  hahahaahahah</p>
+
+<p>Headed home now.  Actually going to meet Ami in Shibuya.</p>

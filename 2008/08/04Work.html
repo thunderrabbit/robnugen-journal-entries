@@ -1,0 +1,30 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">11:54pm JST Monday  4 August 2008 (day 14012)</p>
+
+<p>On the train in Shibuya.  In the end, I essentially got the stuff done that I hoped to finish
+today.  Strictly speaking, I got exactly what I requested to get done, but not as much as I thought
+I wanted.</p>
+
+<p>Anyway</p>
+
+<p>I finished code that populates some select dropdown lists depending on values that ar available
+in the database.  Basically the dropdowns are country, state and area, where those names will depend
+on the country / state.  The country table is read one time from the DB, and the select and area
+tables are read one time each time the country is changed.  So those arrays could be pretty big
+given that they'll hold every area in every state in the country (according to our DB), but
+hopefully not *too* big, given that they don't include all the countries in the DB.</p>
+
+<p>I wrote a class that takes the country id and returns the states and areas as a big array.  Then
+that is sent as a json string to javascript through mootools' 1.2 Request.JSON function.  Then the
+array is used to populate the state dropdown and the areas dropdown each time a state is
+selected.</p>
+
+<p>Things to add tomorrow: pre-select the country/state/area according to what the user has already
+chosen, and fill in the correct name of the state/area depending on the country/state.</p>
+
+<p>Man..  just looking back on this bit of the project: it's taken a lot longer than I had hoped.
+Like basically a week longer, but I've got a pretty solid solution, which can hopefully get reused
+pretty easily.</p>

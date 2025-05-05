@@ -1,0 +1,78 @@
+<p class=date>6:42pm JST Thursday 20 January 2005</p>
+
+<p>Was woken up by Riho; I forgot our lesson again.  Went over there
+and chatted a bit and helped her with pronunciation of English words.
+I don't want to study Chinese right now, so it's no longer an
+exchange, but just me giving her a couple free lessons cause I forgot
+twice.  Last week she called me and I was like, "ferget it," and
+didn't go.</p>
+
+<p>I don't know if she will pay me for lessons after next lesson; it
+seems weird to switch from language exchange to money exchange, but
+hey.</p>
+
+<p>- - - -</p>
+
+<p>Came back home and studied a bit, but primarily took a phat nap
+and then chatted on AIM with Fred and worked on my days_old counter;
+he gave me some ideas on how to add predictive calculations.  I've
+written a basic version of that interface, but it doesn't do the
+calculations yet.</p>
+
+<p>- - - -</p>
+
+<p>Right now I'm at Starbucks in Shibuya waiting for Takako for our
+lesson.  I only had about 150 yen so I couldn't buy a drink, but they
+still let me come in and take up a chair even though they are crowded.
+oops.  Sorry, Starbucks, but I'm sure you can afford it.</p>
+
+<p>- - - -</p>
+
+<p>I'll sketch out the logic for the date calculator:</p>
+
+<pre>
+
+if ($predict = 'predict' paramter) {
+    $addYears = trunc($predict / $avg_num_days_in_a_year);
+    $monthsremain = $predict % $avg_num_days_in_a_year;
+
+    $addMonths = trunc ($remain * $avg_num_days_in_a_month);
+    $daysremain = $months_remain % (crap this is not going to work);
+    # I need to have a better way to get the quotient and divisor
+    # if that is what they are called.
+
+    $guess_End_Date = $startDate + $daysremain;
+}
+</pre>
+
+<p>Hmmmm. That's getting messy.  I'm going to try a different way.</p>
+
+<pre>
+
+# $predict_days is the days old date they want to know
+if ($predict_days = 'predict' paramter) {  
+
+    $guessDate = $startDate   # start guessing here
+
+    while ($predict_days > $daysInYear($guessYear + 1)) {
+	$predict_days -= $daysInYear($guessYear + 1);
+	$guessYear += 1;
+    }
+    while ($predict_days > $daysInMonth($guessMonth + 1)) {
+	$predict_days -= $daysInMonth($guessMonth + 1);
+	$guessMonth += 1;
+    }
+    $guessDate += $predict_days;
+}
+</pre>
+
+<p>Oooh; I think that will work, and it's way cleaner.  And probably
+faster!</p>
+
+<p class=date>7:12pm</p>
+
+<p>Where is Takako????</p>
+
+<p>Fuckfuckfuck fuck.  I didn't write down in my book that she
+couldn't meet today. Crap. Forgot a lesson that was scheduled, and
+went to a lesson that was not.</p>

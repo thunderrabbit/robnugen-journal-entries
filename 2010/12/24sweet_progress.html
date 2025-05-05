@@ -1,0 +1,34 @@
+<!-- tags: programming, django -->
+<!-- locations: Chigasaki, chez Soness -->
+<p class="date">2:13am JST Saturday 25 December 2010 (day 14885)</p>
+
+<p>Nice.  I just got two good things:</p>
+
+<ol>
+<li><p><a href="https://git.wiki.kernel.org/index.php/GitSubmoduleTutorial">submodules working in
+git</a></p></li>
+
+<li><p>my django site to work at *all* (*).</p></li>
+</ol>
+
+<p class="date">11:23am JST Saturday 25 December 2010 (day 14885)</p>
+
+<p>(*) good morning.  Okay, the problem (for me): in
+the <a href="http://docs.djangoproject.com/en/dev/intro/tutorial01/#activating-models">Activating
+Models section of the django tutorial</a> I like to use, the say put &quot;polls&quot; as the
+application name.  If I do the equivalent, the SQL commands work, BUT <em>the website does
+not</em>.</p>
+
+<p>note to self:</p>
+
+<pre>
+INSTALLED_APPS = (
+    'django.contrib.auth',
+    'django.contrib.contenttypes',
+    'django.contrib.sessions',
+    'django.contrib.sites',
+    '<b>myproject</b>.polls'
+)
+</pre>
+
+<p>I must have the project name as well as the application name on that line.</p>

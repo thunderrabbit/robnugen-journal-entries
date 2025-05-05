@@ -1,0 +1,31 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">6:02pm JST Wednesday 17 September 2008 (day 14056)</p>
+
+<p>Good progress at work today; I fixed a bug that disallowed the saving of posted items in a form:
+basically the global_include file (which handles stuff like auto-timed-logout) noticed that the user
+needed to be on the billing page which they were *almost* on when they saved the first part of the
+client data (they were on the billing skin, but not actually on the billing page), so when the data
+was saved, even though it would be saved properly by the program, before it could be saved, the
+global_include refreshed them to the billing page.  So it *looked* like the same page, except the
+data had simply been discarded.  But then upon entering the data again, the save worked
+perfectly.</p>
+
+<p>I did a diff on the source and found them to be identical (not suprising give that they were the
+same skin), so I realized where the problem must be, and pretty quickly sorted out the solution: the
+billing skin form must actually specify the billing program as the action.  That way the
+global_include will be happy to see they are already on the billing program page when it realizes
+they need to be there.</p>
+
+<p>Then I added defined constants to the keitai website class so they'd be defined for any programs
+that include it, and therefore would be able to specify whether or not to read the latest blog
+entries and menu items along with the website.</p>
+
+<p>Then I remembered that I already had booleans in the DB to let the user specify these things, so
+I wiped the defines replaced them with those DB fields.</p>
+
+<p>THEN had a meeting with Sho to get an understanding of the billing project I'm to write next.
+(almost nothing to do with the billing stuff I mentioned above).  This will be to automate sending
+of invoices each month.</p>

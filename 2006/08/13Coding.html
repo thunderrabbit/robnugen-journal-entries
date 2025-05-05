@@ -1,0 +1,34 @@
+<!-- tags: maps, google, route, code, status -->
+<!-- events: close to finishing first version of maps code -->
+<!-- people: TJ Bike -->
+<!-- locations: Tokyo, Setagaya -->
+<p class="date">2:03pm JST Sunday 13 August 2006</p>
+
+<p>Good progress this morning on my maps code.  I am definitely closer than I was last night.  Now
+it can read from the DB the names of the routes.  Next step is to select a name and actually load
+the route.  Pretty sure I know how to do that, and get all the points from the db loaded into my
+javascript points array.</p>
+
+<p>At this rate, I will <em>probably</em> have my first day of TJ Bike trek available by tonight!</p>
+
+<p>I know *I* will be able to see the route, but will the code be good enough to let everyone bang
+on it?  That's the question..</p>
+
+<p>Right now, it's showertime, cause it's been a couple days..</p>
+
+<p class="date">5:15pm JST Sunday 13 August 2006</p>
+
+<p>Crud.  Closer, but a bit stuck (mostly lack of concentration) but only a bit.  Naptime.</p>
+
+<p class="date">3:17am JST Monday 14 August 2006</p>
+
+<p>Ah.  Nice.  I figured out how to get the script to work.</p>
+
+<ol>
+<li>The points in Google map's API are not just arrays of points, but actually objects of type
+GLatLng.</li>
+<li>GLatLng is only defined once the page has loaded, so can only be used inside function
+definitions.</li>
+</ol>
+
+<p>Tomorrow: hopefully, something worthy of public display.</p>

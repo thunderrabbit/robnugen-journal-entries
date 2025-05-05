@@ -1,0 +1,135 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Motosumiyoshi, Sakura House -->
+<p class="date">12:13am JST Tuesday  1 July 2008 (day 13978)</p>
+
+<p>OFF on the Slashdot Effect:</p>
+
+<pre>
+da1l6	the initial URLs are installed in/usr/share/off/initial_workspace/local_URLs.txt
+da1l6	they should contain 7 nodes
+Kabuto	Hia all! I seem to be having the same problem as plink. All default OFF nodes register as offline, so no way to connect to the network and try it out.
+plink	That's right. Those 7 urls were there when I first started OFF.
+da1l6	Kabuto, is it an install or self build? what OS?
+plink	If the bootstrapping was working, there should be gazillions of online peers. OFF has been mentioned on slashdot.
+Kabuto	da1l6: ubuntu amd64 pkg
+da1l6	try adding 90.134.11.195:54012 to the nodelist
+plink	da1l6: Happened to me on a self-built (cli-version, the gui wouldn't compile) and the gui thing I downloaded from sf.
+plink	Ubuntu Hardy AMD64 here, too.
+plink	How do I "asknodelist" from the gui thing?
+hpj	the faq says "System rules assure that hash collisions cannot be propagated." how is that exactly?
+da1l6	plink, this should happen automatically (as long as there is at least one node online)
+plink	da1l6: Ta.
+Kabuto	da1l6: isn't there some online node list site or smthing for OFF?
+hpj	intuitively, i think the excessive use of random data will unavoidably lead to hash collision in a very short time
+da1l6	hpj, the propability for 2 random blocks to have the same hash is 2^-80 afaik
+da1l6	Kabuto, no there is not
+Kabuto	da1l6: so there is no way for newcommers to get connected until any of those nodes comes up?
+da1l6	unfortunately yes :(
+hpj	da1l6: yes, now use the birthday dilemma and calculate how fast a collision in 2^80 can happen
+Spectral_Morning	well, if you consider 50 quadrillion times the age of the universe a "very short time", I agree about the hash collisions.
+Andylee	hi
+Andylee	spec.
+Andylee	there was a suggestion on a forum...
+Andylee	to analyse the data of a file... the 0 and 1 and find similar strings of them to reduce file sice...
+Kabuto	in that case someone should make those nodes come up fast, because poor slashdotters will get a negative impression of off
+Spectral_Morning	slashdot?
+da1l6	slashdot?!
+Andylee	I think that's silly but I don't relly find the wrong part in it ;)
+Spectral_Morning	please tell me, no.
+Kabuto	yeah, OFF is/was on /.
+mibbit	Sorry, the mibbit client doesn't understand that yet, please email us and request it as a feature!
+hpj	well, i believe if you collect all data indexed by google, cut them into 128 KB pieces and hash them, you will likely get hash collision already
+Kabuto	<a href="http://yro.slashdot.org/article.pl?sid=08/06/30/1214220&from=rss">http://yro.slashdot.org/article.pl?sid=08/06/30/1214220&from=rss</a>
+hpj	and quite a lot of them
+Spectral_Morning	oh fuck.
+da1l6	omg ,thats propably the WORST possoble timing!
+Spectral_Morning	fuck, fuck, fuck.
+tonofun	<a href="http://www.p2pchat.net/security.php">http://www.p2pchat.net/security.php</a> is an ivalid url :-(
+Spectral_Morning	front page of YRO.
+thunderrabbit	I came via slashdot
+tonofun	me too
+plink	I came via /. too.
+Spectral_Morning	fuck, fuck, fuck, fuck fuck.
+hpj	now back to the statement "System rules assure that hash collisions cannot be propagated."
+plink	(I've been playing with freenet and i2p for a couple of weeks, so off looked interesting.)
+hpj	can anyone explain what "system rule" is making sure that collision doesn't happen, and how?
+thunderrabbit	I was able to add the IP that da16 mentioned a bit ago, but none of the others listed in the local_URLs.txt file
+Spectral_Morning	ok, I'm dePurifying my main node.
+Spectral_Morning	it should be more responsive shortly
+Kabuto	Spectral, seems to be working :)
+Spectral_Morning	oh this is Not good.
+Spectral_Morning	this is Not Good At All.
+goblin	Hello
+Spectral_Morning	we're not ready to scale!
+goblin	I've just installed an OFF client and it seems it can't connect to any node
+yob	heh
+	yob is sensing a pattern
+Spectral_Morning	don't tell me, Debian?
+goblin	it's got 7 IPs it knows about and can't connect to any of them -- is that normal?
+goblin	Spectral_Morning, yeah, the .deb package from sourceforge
+goblin	should I build from source?
+da1l6	try adding 90.134.11.195:54012 to the nodelist
+hpj	well, maybe all p2p projects in its start phase should have a slashdot response strategy in the first place...
+goblin	da1l6, yay! that worked :-) thanks! :-)
+mad	Is there any way to move the storage directory without changing the install directory of the OFF exe?
+Spectral_Morning	yeah, well I've been too busy working on our SEGFAULT response strategy.
+hpj	what exactly is the system bottleneck?
+hpj	the "search engine"?
+thunderrabbit	woah!
+thunderrabbit	my node list just jumped to a full page +
+da1l6	mad, yes switch the GUI to developer mode and select "Configure Cache locations" from the File menu
+mad	da1l6: kk thx
+Comet	hi everyone
+Comet	anyone here
+Comet	?
+da1l6	yes
+Comet	just got curious about off since it seams to deal with lots of the issues of bittorrent
+Comet	but in terms of speed
+Comet	is it fast?
+Spectral_Morning	right now. no
+Spectral_Morning	thank fuck.
+CaptainMorgan	hey
+CaptainMorgan	who the fuck did that?
+Spectral_Morning	I know not.
+hpj	"lots of the issues of bittorrent"?
+Spectral_Morning	glad the summons worked though.
+Spectral_Morning	eye of newt and all that. :)
+da1l6	CaptainMorgan, do you run a bootstrap node?
+CaptainMorgan	always here for you
+CaptainMorgan	It is shut down now
+CaptainMorgan	I guess I should put it back up
+da1l6	please bring it up ASAP
+CaptainMorgan	that machine was being flaky
+hpj	i'm not seeing a lot of similarity to bittorrent
+CaptainMorgan	firing it now
+Comet	not like it
+CaptainMorgan	have people been showing up?
+da1l6	lots ---->
+thunderrabbit	aye, captain
+hpj	judging by the size of this channel, i'd say the slashdot effect could've been much, much worse
+CaptainMorgan	hey guys
+Comet	well on paper from what i can see on the site off has quite some good possibilities to over take other popular systems..
+CaptainMorgan	yes, it is a different way of thinking about p2p storage
+CaptainMorgan	still working out some of the details though
+Comet	does the program allow any sort of file?
+Spectral_Morning	yes
+Andylee	spec?
+Andylee	Spectral_Morning:
+Andylee	how is work going on?
+Andylee	is the crasher going to be fixed?
+Spectral_Morning	I've not found it yet, to my knowledge.
+CaptainMorgan	hey Andylee
+Andylee	ah, CaptainMorgan :)
+Spectral_Morning	I think I might go and live in a cave for a week or two. :)
+plink	Seems OFF storage is some sort of distributed implementation of Madore's "random pads": http://www.madore.org/~david/misc/freespeech.html
+da1l6	CaptainMorgan, how is your node doing?
+CaptainMorgan	it is coming up right now
+CaptainMorgan	yes plink
+CaptainMorgan	that is very much what it is, but with some additional tweeks.
+CaptainMorgan	OFF finishes up some of the details that Madore didn't continue with.
+CaptainMorgan	such as how to handle large files, and how to create distributable references to resources.
+CaptainMorgan	and also how to manage the system as a whole.
+plink	Great work. I'm looking forward to following OFF.
+</pre>

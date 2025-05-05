@@ -1,0 +1,22 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">11:52am JST Friday 14 March 2008 (day 13869)</p>
+
+<p>Okay, it's fixed.</p>
+
+<p>I had deleted the directory to which the log files are written.  It's recreated.  Nobody panic!</p>
+
+<p>The good news: I figured out why <a href="http://m.robnugen.com/j">my mobile journal</a> wasn't
+working (as a temporary way to view my journal while my main was borked).</p>
+
+<p class="date">12:49pm JST Friday 14 March 2008 (day 13869)</p>
+
+<p>Ah cool.  I just added a rule to .htaccess to refresh from the root to my mobile journal writer:</p>
+
+<pre>
+Options +FollowSymlinks
+RewriteEngine on
+RewriteRule ^$ journal_writer_filename
+</pre>

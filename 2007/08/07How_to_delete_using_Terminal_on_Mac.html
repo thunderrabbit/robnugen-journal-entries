@@ -1,0 +1,71 @@
+<!-- tags:  -->
+<!-- events:  -->
+<!-- people:  -->
+<!-- locations: Houston, Texas -->
+<p class="date">3:59pm CDT Tuesday  7 August 2007 (day 13650)</p>
+
+<p>I just spent several minutes writing how to use rm to delete a file or directory on OS X with
+Terminal.  These directions are freeware, and come with no warranty.</p>
+
+<pre>
+Open Finder --&gt; Applications --&gt; Utilities --&gt; Terminal
+
+Hit return a few times.
+
+Each time you hit return, you should see a new line appearing on the screen, with a little box or line at the right hand end.
+
+Hitting return a few times is not necessary to delete anything, but it will show you what I mean by "the command line prompt."
+That's the name of the line that appears each time you hit Return.  The computer is waiting for you to tell it what to do.  
+When you hit return, the computer does whatever is on the line.
+
+In this case, that's nothing, so the computer quickly does nothing and then waits for the next command.
+
+Each time you want to talk to the computer through Terminal, you do it by typing things on the command line and hitting return.
+
+In this email, I'm representing the command line with $ 
+
+There are some hundred commands that can be done on the command line, but we're going to focus on the semi-dangerous command rm.
+
+I say it's dangerous because anything that is removed with rm DOES NOT COME BACK.  No recycle bin, no "oops" command, nothing.  
+It's gone gone gone.
+
+(1) HOW TO DELETE A FILE
+
+If you want to delete a file (not a directory), simply type 
+
+$ rm 
+
+with a space after it.  Then drag from Finder to the Terminal window the file you want to delete.  This will write the full 
+path of the file to terminal so you don't have to.
+
+The result will look something like
+
+$ rm /Users/Sue/Movies/dumb_and_dumber/dumb.mov
+
+If you are sure you dragged the correct icon to the terminal, then hit return and the file should be deleted.  If you get no 
+response, then it's gone.  If you get a Y/N prompt, then hit Y and return and it should be deleted.  If you get an error, then 
+the problem is out of the scope of this email.
+
+(look for the command chmod online for likely ways to solve it)
+
+(2) HOW TO DELETE A DIRECTORY (folder)
+
+If you want to delete a directory, add an -r after rm:
+
+$ rm -r /Users/Sue/Documents/I_want_to_delete_this_directory/
+
+
+
+Then to close the terminal, type
+
+$ exit
+
+and hit return.
+
+Alt-Q to remove the window if it doesn't go away.
+
+
+Happy deleting!
+
+Just remember, like in The Matrix, there is no undo.
+</pre>

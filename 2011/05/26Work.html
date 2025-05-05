@@ -1,0 +1,18 @@
+<!-- tags: work, android -->
+<!-- locations: Shibuya -->
+<p class="date">7:33pm JST Thursday 26 May 2011 (day 15037)</p>
+
+<p>Been busy busy with work work work; it's nice to have an interesting project that I pretty much am
+getting to design myself.  We're making an Android application, and though it's got specs (or does
+it??), I get to decide how to implement the details.</p>
+
+<p>I wiped out some AsyncTasks that I thought I needed to kick off some audio, but turns out I
+don't need them, and today I implemented the pageElement duration design that I sketched out last
+night.  That took about 4 hours, and then I was trying to get sounds to fade between elements, but
+I couldn't do that without fading *all* the sounds, so there goes the concept of letting some audio
+streams last for multiple page elements.  But it's still good that I got that most implemented;
+last night, the sounds were being culled before they got to play at all.  *Now* they know if
+they're allowed to keep playing by virtue of when they were created.</p>
+
+<p>Tomorrow I've got to refine the elements a bit, allowing the first part of the element to fade
+into view, and *then* kick off the next part.  (visual fades in and then audio starts)</p>

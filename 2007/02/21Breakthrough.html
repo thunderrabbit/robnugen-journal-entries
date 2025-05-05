@@ -1,0 +1,37 @@
+<!-- tags: flash, code -->
+<!-- events:  -->
+<!-- people: Sophistikat -->
+<!-- locations: Tokyo, Sakurashinmachi -->
+<p class="date">11:50am JST Wednesday 21 February 2007 (day 13482)</p>
+
+<p>Just had a good breakthrough in flash coding.  I was trying for some days, but not until this
+morning, thanks to <a href="http://www.actionscriptblog.net/">Marlon Valenzuela aka Sophistikat</a>,
+was I able
+to <a href="http://www.actionscript.org/forums/showpost.php3?p=440163&postcount=4">figure out when a
+loaded movie ends</a>.  Now I can.</p>
+
+<p>My code:</p>
+
+<pre>
+// these are the movies in the order we will load them.
+swfArray = new Array("movie1.swf","movie2.swf","movie3.swf");
+
+var next_movie:Number = 0;   // start with the first movie and roll on from there
+
+this.createEmptyMovieClip("targ1_mc", 1);
+
+targ1_mc.loadMovie(swfArray[next_movie]);
+ 
+this.onEnterFrame = function(){
+        <b>if (targ1_mc._totalframes == targ1_mc._currentframe) {  //  this is the key  </b>
+	next_movie ++;
+	targ1_mc.loadMovie(swfArray[next_movie]);
+        trace("next movie please");
+    }else{
+        trace(targ1_mc._currentframe);
+    }
+}
+</pre>
+
+<p>There is an obvious issue with running over the end of the array, but that's outside the scope
+of my original problem.</p>

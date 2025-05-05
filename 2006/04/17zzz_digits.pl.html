@@ -1,0 +1,95 @@
+<p class="date">11:16pm JST Monday 17 April 2006 (day 13172)</p>
+
+<p>For some reason I just wrote a program called digits that prints
+the sum of digits in a list of numbers; basically:</p>
+
+<pre>
+1 = 1
+2 = 2
+3 = 3
+...
+10 =&gt; 1 + 0 = 1
+...
+15 =&gt; 1 + 5 = 6
+...
+258 =&gt; 2 + 5 + 8 = 15 =&gt; 1 + 5 = 6
+</pre>
+
+<p>I don't remember why I wanted to write it, but I remember wondering
+if the pattern was simple or complex.  It's simple.  I think I've come
+up with a proof by induction that the pattern indefinitely repeats in
+the way it does in the first, oh, 2000000000 whole numbers.</p>
+
+<pre>
+#!/usr/bin/perl
+
+#####################################################################
+#
+# digits.pl: print the sum of digits
+# version 0.1
+#
+# Copyright (C) 2006 Rob Nugen, digits@robnugen.com
+# 
+# This program is free software; you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation; either version 2 of the License, or
+# (at your option) any later version.
+# 
+# This program is distributed in the hope that it will be useful, but
+# WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+# 
+# You should have received a copy of the GNU General Public License along
+# with this program; if not, write to the Free Software Foundation, Inc.,
+# 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
+#
+#####################################################################
+
+#####################################################################
+#
+#  This code is supposed to add digits of a number and then add those
+#  digits until a single digit is the result.  I wonder if the pattern
+#  is simple or a bit complicated.
+#
+#  The pattern is simple.  I wonder if I can prove it to be true for
+#  all whole numbers?
+#
+#####################################################################
+
+$prediction = 0;
+for $number (1 .. 2000000000) {
+    $prediction ++;
+    if ($prediction == 10) {
+	$prediction = 1;
+    }
+#    print "$number: ", &sum_list($number), "\n";
+}
+
+
+sub sum_list {
+    ($num) = @_;
+    my $string;
+    while (1) {
+	$string .= " " . &sum_digits;
+	if ($num &lt;= 9) {
+	    if ($num != $prediction) {
+		die "$number didn't match prediction of $prediction\n";
+	    }
+	}
+	last if ($num &lt;= 9);
+    }
+    $string;
+}
+
+sub sum_digits {
+    my $string = "$num";
+    my $sum;
+    my @array = $string =~ /(.)/g;  # split the digits into characters
+    foreach (@array) {
+	$sum += $_;
+    }
+    $num = $sum;
+    return $sum;
+}
+</pre>

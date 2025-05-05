@@ -1,0 +1,29 @@
+<!-- tags: maps, javascript, perl, ajax, cgi -->
+<!-- events: nearly finishing maps alpha code -->
+<!-- locations: Tokyo, Setagaya -->
+<p class="date">10:51am JST Monday 14 August 2006</p>
+
+<p>Even closer to getting an alpha version out.  Plus, last night I found GLatLng.distanceFrom, and
+am using that to calculate the total distance of the route.</p>
+
+<p>Right now working on the interface to allow display of data points so that I can write them to
+mySQL.  Basically I have figured out how to pull data from mySQL into the Javascript map, but not
+figured out how to write the lat/lng data from Javascript to mySQL (through perl).  I am using
+CGI::Ajax, which can send information from Javascript to perl, but it can't (by default (which I
+don't know if/how/where to change)) send the large volume of data for hundreds of points at a
+time.</p>
+
+<p class="date">1:36pm JST Monday 14 August 2006</p>
+
+<p>Nice.  I've gotten data to save (via a cut-n-paste) from javascript to mySQL.  I believe I've
+figured out how to get it to happen with a single button click via perl, but haven't implemented it
+yet.  Now just need to correctly load data, and we'll be set.</p>
+
+<p>Oh, actually I need to add two more parameters to the route saving: mapCenter and zoomLevel.</p>
+
+<p class="date">3:40pm JST Monday 14 August 2006</p>
+
+<p>Yes!  I got it to load a set of points from db.  I forgot to add the parameters mentioned above,
+though.  They will come soon.</p>
+
+<p>Time now, however, to start getting ready for I-group.</p>

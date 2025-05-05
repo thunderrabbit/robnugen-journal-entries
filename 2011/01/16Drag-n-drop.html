@@ -1,0 +1,32 @@
+<!-- tags: code -->
+<!-- locations: Kawasaki -->
+<p class="date">8:46am JST Sunday 16 January 2011 (day 14907)</p>
+
+<p>Though the success response doesn't get displayed, I finally got file uploads to work!  I had to
+install a new version of <a href="http://www.python.org/download/releases/2.7.1/">Python
+(2.7.1)</a>, <a href="http://pypi.python.org/pypi/setuptools">setuptools
+0.6c11</a>, <a href="http://sourceforge.net/projects/mysql-python/">mysql-python 1.2.3</a>, and
+<a href="http://www.djangoproject.com/download/">Django 1.3</a> (even though it's still in beta),
+make a couple of tweaks
+to <a href="http://kuhlit.blogspot.com/2010/12/ajax-uploads-in-django-with-little-help.html">Alex
+Kuhl's ajax uploads in django</a></p>
+
+<pre>
+HI Alex
+
+I ended up installing Python 1.7.1 and Django 1.3 (my project won't go
+live before 1.3 becomes stable), and I got your code to work with two (?) 
+little fixes from what's in your article.
+
+1) I had to import json at the top of the views.py
+2) You have an extra colon near the bottom of your example views code
+
+   # save the file
+   success = save_upload( upload, filename, is_raw ):
+
+It must have been copied from the function definition line.
+
+Again, thanks very much for the code; I hope I can put it to good use!
+
+  - Rob
+</pre>

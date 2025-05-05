@@ -1,0 +1,57 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">10:26am JST Friday  5 October 2007 (day 13708)</p>
+
+<p>I just SVNed the four directories of code I'll be working on for the next part of this project.
+Would have been optimal to SVN them <em>before</em> I made any changes, but しょがない。</p>
+
+<p>First task will be to trim unnecessary carriage returns from the code.  Currently, for some
+reason there are two carriage returns per line.</p>
+
+<pre>
+&lt;?php
+
+/* vim: set expandtab tabstop=4 shiftwidth=4 softtabstop=4: */
+
+// +----------------------------------------------------------------------+
+
+// | PHP version 5                                                        |
+
+// +----------------------------------------------------------------------+
+
+// |                                                                      |
+
+// |  メール登録/編集/削除の確認                                          |
+
+// |                                                                      |
+
+// +----------------------------------------------------------------------+
+
+// | Authors: K.Asano &lt;asano@...co.jp&gt;                                 |
+
+// +----------------------------------------------------------------------+
+</pre>
+
+<p>That's obviously crap for reading, and especially for printing.  Dang.</p>
+
+<pre>
+&lt;?php
+/* vim: set expandtab tabstop=4 shiftwidth=4 softtabstop=4: */
+// +----------------------------------------------------------------------+
+// | PHP version 5                                                        |
+// +----------------------------------------------------------------------+
+// |                                                                      |
+// |  メール登録/編集/削除の確認                                          |
+// |                                                                      |
+// +----------------------------------------------------------------------+
+// | Authors: K.Asano &lt;asano@...co.jp&gt;                                    |
+// +----------------------------------------------------------------------+
+</pre>
+
+<p>Much nicer.</p>
+
+<p>There's not *exactly* one extra carriage return for all lines, so I am setting up a set of emacs
+macros to smurf the lines out about 20 at a time with visual inspection of the extracted lines,
+hoping to find nothing visible.  If I do, then just do several undos and fix that portion by hand.</p>

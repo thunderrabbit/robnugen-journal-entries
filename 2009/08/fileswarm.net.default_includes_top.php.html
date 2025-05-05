@@ -1,0 +1,103 @@
+<?php
+
+require_once("searchpath.inc.php");
+
+
+
+//Utilities Class
+
+require_once("class.utilities.php");
+
+
+
+//Property Manager
+
+require_once("class.property_manager.php");
+
+
+
+//Default values
+
+$siteDeployPath = PropertyManager::getProperty("site.deploy_path");
+
+$templatePath = $siteDeployPath."/templates";
+
+$domain = PropertyManager::getProperty("site.http_domain");
+
+$secureDomain = PropertyManager::getProperty("site.https_domain");
+
+$cookieDomain = PropertyManager::getProperty("site.cookie_domain");
+
+
+
+$requestedLocation = explode('?', $_SERVER['REQUEST_URI']);
+
+$requestedLocation = trim($requestedLocation[0], "/ ");
+
+$topMenu = split("/", $requestedLocation);
+
+
+
+//Start Memcache
+
+$memcacheServers = PropertyManager::getProperty("memcache.servers");
+
+$memcacheEnabled = PropertyManager::getProperty("memcache.enabled") && count($memcacheServers) && extension_loaded("memcache");
+
+// load array of servers from config.php
+
+if($memcacheEnabled){
+
+	$memcache = new Memcache;
+
+	foreach($memcacheServers as $server){
+
+		$server = explode(":", $server);
+
+		$memcache->addServer($server[0], $server[1]);
+
+	}
+
+}
+
+
+
+//Database
+
+require_once("mysql/class.db_mysqli.php");
+
+$host = PropertyManager::getProperty("database.host");
+
+$username = PropertyManager::getProperty("database.login");
+
+$passwd = PropertyManager::getProperty("database.password");
+
+$dbname = PropertyManager::getProperty("database.dbname");
+
+$charEncoding = PropertyManager::getProperty("database.outputencoding");
+
+$reportErrors = PropertyManager::getProperty("site.error_reporting");
+
+$db = new DBMysqli($host, $username, $passwd, $dbname, $charEncoding, PropertyManager::getProperty("site.query_reporting"));
+
+if($memcache){
+
+	$db->useMemcache($memcache);
+
+}
+
+
+
+//Required PEAR packages
+
+require_once("HTTP.php");		// using HTTP::Redirect("domain.com|/local/path")
+
+//require_once('Date.php');
+
+
+
+mb_http_output("UTF8"); 
+
+ob_start("mb_output_handler");
+
+?>

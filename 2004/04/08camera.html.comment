@@ -1,0 +1,10 @@
+
+<p><b>Name:</b> jesse
+
+<p><b>Email:</b> <a href="mailto:you have it in your address book">you have it in your address book</a>
+
+<p><b>Subject:</b> encoding for kana
+
+<p><b>Comment:</b>
+<br>I think if you encode JP_EUC the problem will be fixed with Mozilla and not affect the others.
+

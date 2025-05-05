@@ -1,0 +1,10 @@
+<p class=date>5:19pm JST Wednesday 13 October 2004</p>
+
+<p>Okay, now I've gotten my code to check the timestamps and
+extensions of files to see which ones we should look at.  The
+timestamp thing was working, but it took me a while to get a debug
+version of it working; I don't want to process every file every time
+while debugging, so I tried to subtract 1000 seconds from the last
+run time but it looked like it was running all the files since a few
+days ago...  Turns out the subtract was inside a loop so it was being
+subtracted multiple times.  D'oh.  All good now.</p>

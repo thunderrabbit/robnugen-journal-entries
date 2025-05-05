@@ -1,0 +1,44 @@
+<p class="date">8:51am JST Thursday 25 May 2006 (day 13210)</p>
+
+<p>Hmm.  <a href="http://python.org">Python</a>.  I've just started
+looking into this as a viable option for writing my image thing.</p>
+
+<p>I was up until 4am reading about Python on pages I had downloaded
+at the university.  I'm nearly convinced it would be a good tool for
+the project.</p>
+
+<p>But I gots to get more images off this HD before I dive into a new
+project.  But here is my first bit of python code:</p>
+
+<pre>
+class Image:
+      def __init__(self,name,w=0,h=0,tn=None,):
+      	  self.name=name
+	  self.dim=[`w`,`h`]
+	  self.tn=tn
+      def __str__(self):
+      	  str = "Image:" + self.name + " - " + ':'.join(self.dim)
+	  if self.tn:
+	     str = str + " thumb: " + self.tn
+	  else:
+	     str = str + " thumb: none"
+	  return str
+      def thumb_src(self):
+          str = '&lt;img src="' + self.tn + '"&gt;'
+	  return str
+      def html_src(self):
+          str = '&lt;img src="' + self.name + '"&gt;'
+	  if self.tn:
+	     str = '&lt;a href="' + self.name + '"&gt;' + self.thumb_src() + '&lt;/a&gt;'
+   	  return str
+
+cat = Image('cat.jpg',100,50)
+dog = Image('dog.jpg',100,50,'thumbs/dog.jpg')
+
+print cat.html_src()
+print dog.html_src()
+</pre>
+
+<p>Thing is, I'm not sure about the CGI interface.  The examples I
+saw don't have the slick perl CGI module abilities.  print
+CGI->header type stuff.</p>

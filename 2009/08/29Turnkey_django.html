@@ -1,0 +1,51 @@
+<!-- tags: turnkey, django -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokaido Line -->
+<p class="date">2:55pm JST Saturday 29 August 2009 (day 14402)</p>
+
+<p>And now, while ubuntu is running in a virtual computer on my MacBook, I'm installing a software
+appliance version of Django on another virtual computer on my computer.</p>
+
+<pre>
+You may access this Django appliance over the network using the following methods:
+
+Web:    http://10.0.2.15
+        https://10.0.2.15
+Webmin: https://10.0.2.15.12321
+SSH:    ssh root@10.0.2.15
+
+
+
+For more information visit the TurnKey Linux Website
+             http://www.turnkeylinux.org
+</pre>
+
+<p>I'ma try it out now.</p>
+
+<p>Hmm, well I entered those URLs in my web browser, but no response.</p>
+
+<p>But the cool thing is that VirtualBox is running two virtual machines at the same time.</p>
+
+<p class="date">3:58pm JST Saturday 29 August 2009 (day 14402)</p>
+
+<p>Aha!  I watched the first 70 seconds of Appliance Installation and Usage
+on <a href="http://www.turnkeylinux.org">http://www.turnkeylinux.org</a>, and see I need to set
+VirtualBox to Bridged Adapter.  Now it looks like this, </p>
+
+
+<pre>
+You may access this Django appliance over the network using the following methods:
+
+Web:    http://192.168.0.5
+        https://192.168.0.5
+Webmin: https://192.168.0.5.12321
+SSH:    ssh root@192.168.0.5
+
+
+
+For more information visit the TurnKey Linux Website
+             http://www.turnkeylinux.org
+</pre>
+
+<p>And it works!</p>

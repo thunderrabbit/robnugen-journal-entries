@@ -1,0 +1,20 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyu Toyoko Line -->
+<p class="date">8:06pm JST Wednesday  3 December 2008 (day 14133)</p>
+
+<p>Yesterday wasn't just work shmerk, and today was similar.  Working on the payment system for
+invoices now.  As of leaving today, I have an invoice payment screen with a form that can submit
+payment information for particular not-yet-paid invoices, though the information isn't yet being
+saved to DB.</p>
+
+<p>Yesterday I made a payment_2_invoice table that will allow a many to many relationship between
+payments and invoices, allowing payments to be too much or too little.</p>
+
+<p>Today, during Komatsu's English class, in which he did much better than normal, at a level I
+might call beginner, I wrote a few versions of a flow chart for displaying payment information,
+showing what invoices were paid with which payments *and* which payments still have credit remaining
+to apply to new payments.  I know what it's going to look like, but I'm not sure the logic I wrote
+will do it <em>quite</em> the way I want.  It smells like there's a small change required, perhaps a
+misplaced END (closing curly brace) or perhaps I'm using the wrong variable name somewhere.</p>

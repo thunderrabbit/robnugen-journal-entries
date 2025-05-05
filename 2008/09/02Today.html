@@ -1,0 +1,183 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Motosumiyoshi, Sakura House -->
+<p class="date">11:40pm JST Tuesday  2 September 2008 (day 14041)</p>
+
+<p>Today was the day &quot;Chrome&quot; was announced, Andrew ranted about how terribly he didn't
+want to test for another browser, and I carefully read the comic and told him how great it would
+be.  He finally came around to, &quot;it could be really great or really bad..&quot;</p>
+
+<p>I added lat/long/zoom values to some of the areas in the database..  I wasn't able to find a
+list of all the cities, and even if I did, that wouldn't be as helpful as having a list of all the
+popular clubbin' areas of town.</p>
+
+<p>Our new product is available!  Check out <a href="http://sbstrm.com/">sbstrm.com</a>.</p>
+
+<p>My artist page is at <a href="http://thunderrabbit.sbstrm.com/">thunderrabbit.sbstrm.com</a>.
+The picture of me and Francois was taken on our most recent day together, back in February of this
+year.</p>
+
+<p>Ami came over to give Andrew her iPhone for a day.  I went home with her and gave her my phone
+for the day, but somehow in all the silliness, my phone ended up in my pocket, so Ami doesn't have
+a phone for tomorrow.  Ooops!</p>
+
+<p>Tonight's the night Curry asked why the water didn't drain out of thw washing machine when she
+did laundry <em>two days ago</em> (the clothes were still there tonight, though I had tried to
+restart the cycle when I found them a couple days ago, Ami said they were Karen's, cause she stops
+the washer in the middle of the load and lets them sit.</p>
+
+<p>Today was Ulrike's second day of work.  She looked pretty happy when I queried her about her job
+so far.  Says everyone is friendly, etc.</p>
+
+<p>For the past couple of hours I've been trying to sort out how to use Ubiquity to access the
+innards of a frame in another tab.  I can get to the frame, (I think), but I can't seem to find a
+way to access the stuff inside it.  Part of the problem: I'm using Growl as my alert, and it only
+prints so much info before running out of screen.</p>
+
+<p>The code I have so far:</p>
+
+<pre>
+CmdUtils.CreateCommand({
+
+_dump: function (arr,level) {
+	var dumped_text = "";
+	if(!level) level = 0;
+	
+	//The padding given at the beginning of the line.
+	var level_padding = "";
+	for(var j=0;j&lt;level+1;j++) level_padding += "#";
+	
+	if(typeof(arr) == 'object') { //Array/Hashes/Objects 
+		for(var item in arr) {
+
+			var value = arr[item];
+			
+			if(typeof(value) == 'object') { //If it is an array,
+				dumped_text += level_padding + "'" + item + "' ...";
+                                if(level &lt; 1)
+ 				{
+                                   dumped_text += this._dump(value,level+1);
+                                }
+			} else {
+				dumped_text += level_padding + "'" + item + "' =&gt; \"" + value + "\"X";
+			}
+
+		}
+	} else { //Stings/Chars/Numbers etc.
+		dumped_text = "===&gt;"+arr+"&lt;===("+typeof(arr)+")";
+	}
+	return dumped_text;
+},
+
+  name: "ejorudan",
+  author: { name: "Rob Nugen", email: "thunderrabbit+jorudan@gmail.com"},
+  license: "MPL",
+  icon: "chrome://ubiquity/content/icons/email.png",
+  modifiers: {to: noun_type_station, from: noun_type_station},
+  description:"How to get around Tokyo.",
+  help:"Currently smurfing the email command to be jorudan",
+  preview: function(pblock, directObj, modifiers) {
+
+    var html = "How to get";
+
+    if (modifiers.from.text) {
+      html += " from " + modifiers.from.text;
+    }
+
+    if (modifiers.to.text) {
+      html += " to " + modifiers.to.text;
+    }
+
+    if (html == "How to get")
+    {
+       html += " around Tokyo.";
+    } else {
+       html += ".";
+    }
+    pblock.innerHTML = html;
+  },
+
+  execute: function(directObj, headers) {
+    var html = directObj.html;
+    var document = context.focusedWindow.document;
+    var title;
+    var toAddress = "";
+
+    if (document.title)
+      title = document.title;
+    else
+      title = html;
+
+    var gmailTab = findTab('http://www.jorudan.co.jp');
+
+    html = "body of message";
+
+    title = "'" + title + "'";
+    if (headers.to)
+      if (headers.to.text)
+	toAddress = headers.to.text;
+
+    if (gmailTab) {
+          gmailTab.focus();
+//.document.FM_key.from_in.value
+      displayMessage({text: gmailTab.document.getElementsByName('noribody')[0].src});
+// var dave = gmailTab.document.getElementsByName('noribody').frames;
+ var dave = gmailTab.document['defaultView'].frames[1];
+      displayMessage({text: this._dump(dave)});
+      // Note that this is technically insecure because we're
+      // accessing wrappedJSObject, but we're only executing this
+      // in a Gmail tab, and Gmail is trusted code.
+// gmailTab.frames[1].location;
+      var console = gmailTab.document.defaultView.wrappedJSObject.console;
+      var gmonkey = gmailTab.document.defaultView.wrappedJSObject.gmonkey;
+
+      var continuer = function() {
+        // For some reason continuer.apply() won't work--we get
+        // a security violation on Function.__parent__--so we'll
+        // manually safety-wrap this.
+	try {
+          var gmail = gmonkey.get("1.0");
+          var sidebar = gmail.getNavPaneElement();
+          var composeMail = sidebar.getElementsByTagName("span")[0];
+	  //var composeMail = sidebar.getElementById(":qw");
+          var event = composeMail.ownerDocument.createEvent("Events");
+          event.initEvent("click", true, false);
+          composeMail.dispatchEvent(event);
+          var active = gmail.getActiveViewElement();
+	  var toField = composeMail.ownerDocument.getElementsByName("to")[0];
+	  toField.value = toAddress;
+          var subject = active.getElementsByTagName("input")[0];
+          if (subject) subject.value = title;
+          var iframe = active.getElementsByTagName("iframe")[0];
+          if (iframe)
+            iframe.contentDocument.execCommand("insertHTML", false, html);
+          else {
+            var body = composeMail.ownerDocument.getElementsByName("body")[0];
+            html = ("Note: fix this jorudan more.\n\n" + html);
+            body.value = html;
+          }
+          gmailTab.focus();
+        } catch (e) {
+          displayMessage({text: "A gmonkey exception occurred.",
+                          exception: e});
+        }
+      };
+
+      gmonkey.load("1.0", continuer);
+    } else {
+      // No gmail tab open?  Open a new one:
+      var params = {from_in:headers.from.text, to_in:headers.to.text};
+ //         displayMessage({text: "hi" + headers.to.text});
+
+// document.FM_key.from_in.value
+
+     frank = Utils.openUrlInBrowser("http://www.jorudan.co.jp/english/norikae/e-norikeyin.html");
+     displayMessage({text: frank.document.location});
+
+    }
+  }
+});
+</pre>
+
+<p>The code requires a <a href="http://ubiquitously.org/forum/viewtopic.php?f=5&t=34">small tweak to the builtin.js</a>.</p>

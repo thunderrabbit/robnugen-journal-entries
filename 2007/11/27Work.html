@@ -1,0 +1,24 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">7:13pm JST Tuesday 27 November 2007 (day 13761)</p>
+
+<p>At the end of work today, I did a brain dump detailing that I had been working on the mission
+reporting portion; making the interface a bit more strict so that it will not let them choose which
+mission they want to report, but only allow the mission they most recently clicked.  I think it was
+done the first way because it made the SQL queries easier; didn't have to distinguish the reasons
+they weren't allowed to select the mission.</p>
+
+<p>I'm making the error reporting a bit more useful..  actually it isn't there at all now.  If they
+click http://.......&amp;mission=50, but they can't do 50 either because it doesn't exist, they've
+already done it, or the mission is closed, it simply won't show up in the drop down list.</p>
+
+<p>Now instead of giving a drop down list that doesn't include what they wanted to do, it will give
+an error, and explain why they can't do it.  Unfortunately it will only distinguish between
+Already-Done, and Other-Problems, because the way the first page is set up, the only way they would
+get Other-Problems is if they enter the wrong URL by hand.</p>
+
+<p>Which reminds me we should be doing better (and by &quot;better&quot; I mean &quot;&quot;) error
+checking on the user input on this URL.  It's the only place I know of where we don't error check,
+and I'm not sure why.</p>

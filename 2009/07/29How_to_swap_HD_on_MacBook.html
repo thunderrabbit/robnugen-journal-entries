@@ -1,0 +1,154 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- locations: Chigasaki -->
+<p class="date">9:57pm JST Wednesday 29 July 2009 (day 14371)</p>
+
+<p>I've just recently purchased a Lacie external 1TB and a Seagate 500 GB internal drive to replace
+my existing 70GB internal drive. </p>
+
+<p>I've got OS X Leopard (10.5.7) and figure I might as well use Time Machine instead of SuperDuper
+or CarbonCopyCloner.</p>
+
+<p>Now, the thing is, Time Machine requires having the Leopard DVD handy for the restore process,
+which apparently SuperDuper and CCC don't require.</p>
+
+<p>I've done a modicum of research
+(<a href="http://www.google.com/search?q=time+machine+bootable">time machine bootable</a>
+and <a href="http://www.google.com/search?q=time+machine+new+internal+drive">time machine new
+internal drive</a>), and came up with the following steps that I'm  implementing now:</p>
+
+<p>(I got all my hardware at Ω©Õ’¥€ (Akibakan) in Akihabara, the electronics paradise in Tokyo)</p>
+
+<ol>
+<li><p>Find your Leopard DVD install disk</p></li>
+
+<li><p>Buy an external backup drive.  I got a Lacie d2 quadra 1 TB for 20,400 yen</p></li>
+
+<li><p>Buy an internal drive.  I got a Seagate 500 GB 5400 RPM drive for 9,990 yen</p></li>
+
+<li><p>Buy Torx screwdriver set.  Online I heard we need size 8, but the guy at the shop said size
+9.  I got both in a handy screwdriver handle with various tips inside.</p></li>
+
+<li><p>Open and plug in the external drive.  Your instructions may vary depending on the brand you
+got, which is a good thing because I'm about to wing it.</p></li>
+
+<li><p>Format the drive according to <a href="http://support.apple.com/kb/TS1550">apple
+support</a>.  I've got an intel based mac so I'll be using GUID</p></li>
+
+<li><p>Make the backup drive bootable
+by <a href="http://www.macosxhints.com/article.php?story=2008011623365026">restoring Leopard DVD to
+the drive</a></p></li>
+
+<li><p>Restart the machine and press Alt during bootup to choose the DVD copied to your external
+drive.  Make sure you can boot from that drive.</p></li>
+
+<li><p>If not, stop reading this and seek professional support.</p></li>
+
+<li><p>If so, do not install OS X!  Choose your preferred language and then quit, either with Alt-Q, or from the top menu Mac OS X Installer -&gt; Quit Mac OS X Installer.  Reboot from original internal drive.</p></li>
+
+<li><p>run Time Machine and backup the existing internal drive</p></li>
+
+<li><p>Shut down your machine and remove the internal drive (subset of instructions
+from <a href="http://www.macinstruct.com/node/130">How to upgrade your MacBook's Hard Drive</a>
+by <a href="http://www.macinstruct.com/">MacInstruct</a>)</p></li>
+
+<li><p><del>See if you can boot from Time Machine backup</del></p></li>
+
+<li><p><del>If not, shut down the machine and put your old internal drive back in and seek professional support.</del></p></li>
+
+<li><p><del>If so, shut down the machine and</del> insert the new internal drive and hope the rest of this continues to work.</p></li>
+
+<li><p>Boot again from Time Machine backup.</p></li>
+
+<li><p>Follow instructions
+from <a href="http://blog.duncandavidson.com/2008/01/restoring-from-time-machine.html">Restoring
+from Time Machine</a> by James Duncan Davidson</p></li>
+
+<li><p>Boot from new drive.  Hooray!</p></li>
+</ol>
+
+<p class="date">10:25pm JST Wednesday 29 July 2009 (day 14371)</p>
+
+<p>Okay, so the above is my plan.  Here's how it all went down:</p>
+
+<ol>
+<li><p>Found my Leopard DVD install.  It was in the shed in a box labeled old electronic stuff.</p></li>
+
+<li><p>Bought an external backup drive.  I got a Lacie d2 quadra 1 TB for 20,400 yen</p></li>
+
+<li><p>Bought an internal drive.  I got a Seagate 500 GB 5400 RPM drive for 9,990 yen</p></li>
+
+<li><p>Bought Torx screwdriver set.  Online I heard we need size 8, but the guy at the shop said size
+9.  I got both in a handy screwdriver handle with various tips inside.</p></li>
+
+<li><p>10:27pm so far so good!  I'm following the Lacie instructions and going through the whole
+setup process, formatting the drive as a 1000 GB single partition.</p></li>
+
+<li><p>Bonus!  OS X detected the drive and asked if I want to use Time Machine to do backups.  I
+have actually cancelled that to make sure the drive is formatted GUID</p>
+
+<p>First, I moved to my internal HD the docs and utils from the Lacie installation.  I deleted all
+the non Mac and non English stuff.</p>
+
+<p>Now running /Applications/Utilities/Disk Utility.app and formatted the drive according to <a href="http://support.apple.com/kb/TS1550">apple
+support</a>.  I've got an intel based mac so I used GUID, and formatted it as Mac OS X Extended
+(Case-sensitive, Journaled)</p>
+
+<p>moved from the internal HD the docs and utils <em>back</em> to the Lacie drive</p></li>
+
+<li><p>Made the backup drive bootable
+by <a href="http://www.macosxhints.com/article.php?story=2008011623365026">restoring Leopard DVD to
+the drive</a>:</p>
+
+<p>insert Leopard DVD</p>
+
+<p>Do not close the window that pops up</p>
+
+<p>Click Restore tab in Disk Utility</p>
+
+<p>drag Mac OS X Install DVD to Source</p>
+
+<p>drag LaCie (or whatever you called your formatted drive) to Destination</p>
+
+<p>click okay or start or something (I forgot what)</p>
+
+<p>wait 33 minutes.</p>
+</li>
+
+
+<li><p>Okay, this is where things start to get spooky, but we still should be okay for now.  I'm going
+to shut down my machine (after uploading this file) and try to boot from the external drive.</p>
+
+<p>It worked!  I chose English and then quit.  Rebooted from original internal drive.</p></li>
+
+<li><p>Now time to turn on Time Machine and backup the existing internal drive.</p>
+
+<p>System Preferences -&gt; Time Machine -&gt; ON</p>
+
+<p>In the top menu bar you can click a little icon to start the backup immediately.  Mine failed at first, but then I reselected the backup drive.  Now my backup is progressing.</p>
+
+<p>12:30am now as I start the backup.  See ya tomorrow, computer, to continue this fun!</p>
+</li>
+
+<li><p>Good morning; it's 8:12am and I have hourly backups going back to 2:29am, so the original backup took 2 hours.</p>
+
+<p>Now shutting down my machine to replace the internal drive.</p>
+</li>
+
+<li><p>9:47am, and now back up with my new drive, and my system is so much faster!  Whoohooo!!</p>
+
+<p>Be sure to run Disk Utility first to create the partition on the new drive.</p>
+
+<p>Then Restore from Backup, and it works like magic.</p>
+</li>
+</ol>
+
+<p>Er, make that not like magic.  Seems that I can't open Firefox or Flock now.  Hmmmm.  Spotlight is
+indexing things, but that shouldn't affect it...  I stopped Time Machine's most recent backup; it
+was 500GB complete in backing up 50GB.  Hmmm.</p>
+
+<p>Well, Safari works, so I'm going to dl FF and Flock.</p>
+
+<p class="date">10:59am JST Thursday 30 July 2009 (day 14372)</p>
+
+<p>downloading didn't help.  But super thanks to Sha for this fix: <a href="http://forums.mozillazine.org/viewtopic.php?f=38&t=1279415&start=0&st=0&sk=t&sd=a">Firefox fails after restoring via Time Machine</a>!</p>

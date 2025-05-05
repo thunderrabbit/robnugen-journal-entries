@@ -1,0 +1,112 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyo, Shibuya -->
+<!-- locations: Motosumiyoshi, Sakura House -->
+<!-- locations: Tokyu Toyoko Line -->
+<p class="date">9:39am JST Tuesday  9 December 2008 (day 14139)</p>
+
+<p>This might be a great idea, but it would be better to do it on paper.</p>
+
+<p>invoice = 1, month = 11:</p>
+<p>total due 10500; total paid 0</p>
+<ol>
+<li><p>item1 5000 yen</p></li>
+<li><p>item2 5000 yen</p></li>
+<li><p>tax 500 yen</p></li>
+<li><p>total 10500 yen</p></li>
+</ol>
+
+<p>(no payment was made)</p>
+
+<p>Creating new invoice (month = 12):</p>
+
+<pre>
+* Get recent invoice id.  (1)
+* create new invoice header (id = 2)
+* Get recent invoice month (11)
+* find all prev_due items in recent invoice 
+  (none)
+* find all prev_paid items in recent invoice 
+  (none)
+* add prev_payments to corresponding prev_due items
+  $payment_added_to_due_items = (none)
+* find total of all not (prev_due, prev_paid, payment) items in recent invoice
+  $most_recent_due = (item_price = 10500, item_type = prev_due, month = 11, invoice_id = 2)
+* find all payment items in recent invoice (none)
+  $most_recent_paid = (item_price = 0, item_type = prev_paid, month = 11, invoice_id = 2)
+* put all of these items together
+  $total_historical_items = ($payment_added_to_due_items, $most_recent_due, $most_recent_paid)
+* insert total_historical_items into new invoice (2)
+* void old invoice (1)
+
+* insert contracted items into new invoice (2)
+</pre>
+
+<p>invoice = 2, month = 12:</p>
+<p>total due 21000; total paid 0</p>
+<ol>
+<li><p>prev_due month 11 10500 yen</p></li>
+<li><p>prev_paid month 11 0 yen</p></li>
+<li><p>item1 5000 yen</p></li>
+<li><p>item2 5000 yen</p></li>
+<li><p>tax 500 yen</p></li>
+<li><p>total 21000 yen</p></li>
+</ol>
+
+<p>Payment for 20000 yen:
+<br />gets applied to month 11 (10500 yen) and remainder to month 12 (9500 yen)</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p>invoice = 2, month = 12:</p>
+<p>total due 21000; total paid 20000</p>
+<ol>
+<li><p>prev_due month 11 10500 yen</p></li>
+<li><p>prev_paid month 11 10500 yen</p></li>
+<li><p>item1 5000 yen</p></li>
+<li><p>item2 5000 yen</p></li>
+<li><p>tax 500 yen</p></li>
+<li><p>total 21000 yen</p></li>
+<li><p>payment 9500 yen</p></li>
+</ol>
+
+<p>creating new invoice (month 1):</p>
+
+<pre>
+* Get recent invoice id.  (2)
+* create new invoice header (id = 3)
+* Get recent invoice month (12)
+* find all prev_due items in recent invoice
+  (prev_due month 11 10500 yen)  
+* find all prev_paid items in recent invoice
+  (prev_paid month 11 10500 yen)
+* add prev_payments to corresponding prev_due items
+  $payment_added_to_due_items = (prev_due month 11 0 yen) = 0 yen, therefore does not show up
+  (none)
+* find total of all not (prev_due, prev_paid, payment) items in recent invoice
+  $most_recent_due = (item_price = 10500, item_type = prev_due, month = 12, invoice_id = 2)
+* find all payment items in recent invoice
+  (payment month 12 9500 yen)
+  $most_recent_paid = (item_price = 9500, item_type = prev_paid, month = 12, invoice_id = 2)
+* put all of these items together
+  $total_historical_items = ($payment_added_to_due_items, $most_recent_due, $most_recent_paid)
+* insert total_historical_items into new invoice (3)
+* void old invoice (2)
+
+* insert contracted items into new invoice (3)
+</pre>
+
+<p>invoice = 3, month = 1:</p>
+<p>total due ; total paid </p>
+<ol>
+<li><p>prev_due month 11 10500 yen</p></li>
+<li><p>prev_paid month 11 10500 yen</p></li>
+<li><p>item1 5000 yen</p></li>
+<li><p>item2 5000 yen</p></li>
+<li><p>tax 500 yen</p></li>
+<li><p>total 21000 yen</p></li>
+<li><p>payment 9500 yen</p></li>
+</ol>

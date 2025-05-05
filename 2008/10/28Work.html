@@ -1,0 +1,70 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyu Toyoko Line -->
+<p class="date">9:21pm JST Tuesday 28 October 2008 (day 14097)</p>
+
+<p>In the middle of some pretty big changes, and a bit (unnecessarily) nerve-wracking because I've
+spent a good deal of time on this data, though it's officially a test database.  I should just do a
+backup first thing tomorrow and then feel better about doing whateva I want with the data. </p>
+
+<p>The changes will allow entire invoices to be changed at once, whereas before the code only
+supported changing a single aspect / line item at a time.  The new system is necessarily a bit more
+complicated, including the ability to sort the items before saving them.  As such, I need to store
+sort_by values, and to make the coding a bit easier, I'm just wiping all of the line items for the
+invoice and then writing all the ones that were on the screen at the time of the save.  That way we
+can delete/add/sort the items all day and they'll show up perfectly upon save.</p>
+
+<p>Right *now*, I'm in the middle of removing the contract_id from the invoice items.  I knew from
+the start that it wasn't 3rd normal to have it in there, but at the very start I didn't allow a
+single contract to have two invoices, so invoice_id and contract_id were effectively the same.  I've
+got all the code fixed to not write contract_ids in the invoice items, but those functions still
+take contract_id (and invoice_id (I was smart enough to do that)) as a parameter.  I'll be removing
+those parameters on function calls and from the function definitions tomorrow.  There's still one
+bit of code that I think reads by contract_id, though I might have confused that with code that
+reads from the invoice table using contract_id (which makes sense according to 3rd normal
+rules).  Anyway, that shouldn't take too long to fix.</p>
+
+<p>I ran my save for some test data, and it saved okay and read okay except for one detail: I hadn't
+saved all the bits I needed.  D'oh!  Suddenly all the previous-balances and discounts and tax-items
+and late fees all became the default type: &quot;products&quot; because I hadn't needed to specify
+their types when I was just saving an item at a time.  I just adjusted the item with that ID and
+all the non-adjusted bits stayed the same.  But now that I'm deleting them all first, I have to
+recreate them all from nothin'.</p>
+
+<p>Fortunately, I've got a pretty legible technique for writing the fields for the items.  To write
+the invoice items on the screen, I'm running a foreach over all the existing items in the DB, and
+for each field, I'm outsourcing to a different function which will write the field according to what
+type of item it is.  For example, the produts need to have a quantity attribute.  But the tax item
+does not.  There's five different products in the invoice, 3 of which are quantity 10 units and the
+others are quantity 4 hours, but the tax is just the tax.  No quantity nor units needed (well,
+currency is a unit, but).</p>
+
+<p>So I'll just expand that paridigm and make hidden fields where I'm not allowing them to be
+changed, but still need to remember the values.  (well garsh, that's what hidden fields are
+for!)</p>
+
+<p>Okay, so tomorrow:</p>
+
+<ol>
+<li><p>* archive my DB</p></li>
+
+<li><p>* remove contract_id from various functions' calls and definitions that should just be using
+invoice_id</p></li>
+
+<li><p>* add hidden fields where I've got none when writing the invoice items</p></li>
+
+<li><p>make a button to actually add items to the invoice.  (in this case, all the fields will be
+editable, until the item is saved.)</p></li>
+
+<li><p>* the delete button is already written</p></li>
+
+<p>basically copy the technique I've used to allow editing of invoices to allow editing of
+contracts.  If I do it smartly, I can reuse the functions that write the fields for each part of
+each item. (*)</p>
+
+<li><p>sort out why the sort code isn't working</p></li>
+</ol>
+
+<p>(*) by design, the items in the contracts are essentially the same as the items in the invoices:
+for it's precisely the items in the contracts that are slapped right into the invoice.</p>

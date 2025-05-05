@@ -1,0 +1,68 @@
+<p class=date>10:39pm JST Monday 02 May 2005</p>
+
+<p>I came over to Jesse's today and we've been totally nerding out.
+I've been working on a new Marble Blast level, using a bit of perl
+code to create some Antigravity things.</p>
+
+<pre>
+#!/usr/bin/perl -w
+
+use strict;
+ use Math::Trig;
+
+my $pi = 3.1415926;
+
+my ($radians, $x, $y, $z, $angle, $Xm, $Ym, $Zm, $Xo, $Yo, $Zo, $degrees);
+
+$Xm = 14;
+$Ym = 4;
+$Zm = 4;
+$degrees = 0;
+
+$Xo = -220;
+$Yo = 4;
+$Zo = -255;
+
+$radians = $pi;
+while ($radians &lt; (5 * $pi)) {
+    $x = sprintf ("%3.3f", ($Xo + $Xm * ($radians - $pi)));
+    $y = sprintf ("%3.3f", ($Yo + $Ym * sin($radians)));
+    $z = sprintf ("%3.3f", ($Zo + $Zm * cos($radians)));
+    $degrees = sprintf ("%3.3f", (($pi + $radians) * 360 / (2 * $pi)));
+    
+    &p($radians, $x, $y, $z, $angle, $Xm, $Ym, $Zm, $Xo, $Yo, $Zo, $degrees);
+    $radians = $radians += ($pi / 8);
+}
+
+sub p {
+    my ($radians, $x, $y, $z, $angle, $Xm, $Ym, $Zm, $Xo, $Yo, $Zo, $degrees) = @_;
+
+    print &lt;&lt;DONE;
+   new Item() {
+      position = "$x $y $z";
+      rotation = "1 0 0 $degrees";
+      scale = "1 1 1";
+      dataBlock = "AntiGravityItem";
+      collideable = "0";
+      static = "1";
+      rotate = "1";
+   };
+DONE
+
+}
+</pre>
+
+<p>I'm also cleaning off my HD, and found a cache of pictures.  Here
+are two worth keeping.  The day was rainy and blurred most of the
+pictures.</p>
+
+<p><a
+href="/images/coasters/Hakkeijima_Sea_Paradise/self_portrait.jpg"><img
+src="/images/coasters/Hakkeijima_Sea_Paradise/thumbs/self_portrait.jpg"
+/></a></p>
+
+<p><a
+href="/images/coasters/Hakkeijima_Sea_Paradise/surf_coaster.jpg"><img
+src="/images/coasters/Hakkeijima_Sea_Paradise/thumbs/surf_coaster.jpg"
+/></a></p>
+

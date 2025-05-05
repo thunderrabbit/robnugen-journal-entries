@@ -1,0 +1,81 @@
+<!-- tags: plans, cake git -->
+<!-- events: -->
+<!-- locations: Chiang Mai, Imm Eco -->
+<p class="date">8:11am ICT Thursday 20 May 2010 (day 14666)</p>
+
+<p>I'm going to try again to install cakephp, like when
+I <a href="http://php.robnugen.com/cake_2008feb22,_1.1.19.6305/">installed Cake version 1.1.19.6305
+in Feb 2008</a>, but this time using git.</p>
+
+<p>But, right now I don't have time (gotta go to class), so I'm using this entry as a placeholder
+for a couple of URLs.  mostly the first one.</p>
+
+
+<ol>
+<li><p><a href="http://discuss.joyent.com/viewtopic.php?id=25590">Joyent - Using Git for web
+development and security considerations</a></p></li>
+
+<li><p><a href="http://lincolnloop.com/blog/2009/sep/22/easy-fabric-deployment-part-1-gitmercurial-and-ssh/">Lincoln
+Loop - Easy Fabric Deployment, Part 1: Git/Mercurial and SSH</a></p></li>
+
+<li><p><a href="http://www.forwardthinkingdesign.com/blog/manage-and-deploy-drupal-code-securely-git-gitosis-and-capistrano">ForwardThinkingDesign
+- Manage and deploy Drupal code securely with Git, gitosis and Capistrano</a></p></li>
+
+<li><p><a href="http://joemaller.com/2008/11/25/a-web-focused-git-workflow/">Joe Maller - A web-focused Git workflow</a></p></li>
+
+<li><p><a href="http://www.google.com/search?ie=UTF-8&oe=UTF-8&sourceid=navclient&gfns=1&q=git+security+clone+web+deploy">Google
+- git+security+clone+web+deploy</a></p></li>
+</ol>
+
+<p class="date">6:08pm ICT Thursday 20 May 2010 (day 14666)</p>
+
+<pre>
+04:09:03 (~/php.robnugen.com):$ git clone git://github.com/cakephp/cakephp.git cake_2010may20,_1.3
+Initialized empty Git repository in /home/thunderrabbit/php.robnugen.com/cake_2010may20,_1.3/.git/
+remote: Counting objects: 84004, done.
+remote: Compressing objects: 100% (16561/16561), done.
+remote: Total 84004 (delta 67394), reused 82870 (delta 66339)
+Receiving objects: 100% (84004/84004), 12.07 MiB | 2.48 MiB/s, done.
+Resolving deltas: 100% (67394/67394), done.
+04:09:37 (~/php.robnugen.com):$ cd cake_2010may20,_1.3/
+04:09:47 (~/php.robnugen.com/cake_2010may20,_1.3):$ ls
+README  app  cake  index.php  plugins  vendors
+04:09:49 (~/php.robnugen.com/cake_2010may20,_1.3):$ 
+</pre>
+
+<pre>
+Notice (1024): Please change the value of 'Security.salt' in app/config/core.php to a salt value
+specific to your application [CORE/cake/libs/debugger.php, line 684] 
+
+Notice (1024): Please change the value of 'Security.cipherSeed' in app/config/core.php to a numeric
+(digits only) seed value specific to your application [CORE/cake/libs/debugger.php, line 688]
+</pre>
+
+<p class="date">6:21pm ICT</p>
+
+<p>Changed the values and the warnings went away.</p>
+
+<pre>
+Your database configuration file is NOT present.
+Rename config/database.php.default to config/database.php
+</pre>
+
+<p class="date">6:25pm ICT Thursday 20 May 2010 (day 14666)</p>
+
+<p>Database already existed, and I just entered the info for it.</p>
+
+<p class="date">6:29pm ICT</p>
+
+<p>20 minutes have elapsed and I'm as far as last time when I took 58 minutes to install.
+Basically using git instead of wget made things WAY easier.  Ah.  I need to set up .htaccess.</p>
+
+<p class="date">6:33pm ICT</p>
+
+<p>Nevamind.  .htaccess is handled already.  .git folder is not web accessible.</p>
+
+<p class="date">7:12pm ICT Thursday 20 May 2010 (day 14666)</p>
+
+<p>Well, holy snappers; I was able to set up a blog, though it doesn't have any authentication;
+anyone who finds the URL can add entries!  eeep!</p>
+
+<p>I'll see what happens to it over the weekend.  Peace!!</p>

@@ -1,0 +1,96 @@
+<!-- tags: smugmug exporter -->
+<!-- events: wrote to Aaron about Smugmug exporter -->
+<!-- people: AaronE -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">6:20pm JST Thursday 15 November 2007 (day 13749)</p>
+
+<pre>
+HI Aaron
+
+Thanks for your hard work on the <a href="http://aarone.org/smugmugexport/">smugmug exporter</a>!
+
+I looked for a FAQ on your site, but couldn't find one.
+
+If you don't mind, I've got a few questions that I've listed in order
+of importance to me.  ;-)
+
+1) can I upload pics such that the image title ends up on Smugmug?
+The comments map to Smugmug's Description, but I don't see the iPhoto
+titles anywhere.
+
+2) How can I tell what version I've got installed?  I just downloaded
+your October release, and in iPhoto, it works as suggested (shortcut
+keys, etc), but I wonder if there's a way to check the actual version
+to be sure.
+
+3) In what language is Smugmug Exporter written?  I can probably
+search online to figure it out, but I could easily come up with the
+wrong answer, so I'm asking you.
+
+4) do you think a code change to make #1 work above would be very
+difficult?  I checked out the code from SVN, scanned through it a bit,
+and was like, "I should probably email him first," before I try to
+learn a new language figure out how to compile and install it.
+
+If you're interested, I wrote an extension to embed Smugmug pics to
+MedaiWiki wikis.
+<a href="http://robnugen.com/wiki/index.php?title=Smugmug_extension_for_MediaWiki">http://robnugen.com/wiki/index.php?title=Smugmug_extension_for_MediaWiki</a>
+
+  Thanks!
+   - Rob
+
+--
+The love that you give is the pain that you release.
+</pre>
+
+<p class="date">7:19pm JST</p>
+
+<p>Three hours later, his reply:</p>
+
+<pre>
+Hi Rob,
+  I'll post a FAQ on my site soon to answer these questions for others.
+
+For now, see my responses below:
+
+&gt; 1) can I upload pics such that the image title ends up on Smugmug?
+&gt; The comments map to Smugmug's Description, but I don't see the iPhoto
+&gt; titles anywhere.
+
+ my understanding is that the smugmug api for uploading pictures does
+not support titles for pictures.  Pictures can have file names and
+descriptions.  I *could* set the filename of an image to the iPhoto
+title for that image.  I may add an option for this in the next release.
+
+&gt; 2) How can I tell what version I've got installed?  I just downloaded
+&gt; your October release, and in iPhoto, it works as suggested (shortcut
+&gt; keys, etc), but I wonder if there's a way to check the actual version
+&gt; to be sure.
+
+ This is more painful than it should be.  I'll make the version of
+the plugin displayed in the user interface for the next release.
+
+&gt; 3) In what language is Smugmug Exporter written?  I can probably
+&gt; search online to figure it out, but I could easily come up with the
+&gt; wrong answer, so I'm asking you.
+
+ Objective-C
+
+&gt; 4) do you think a code change to make #1 work above would be very
+&gt; difficult?  I checked out the code from SVN, scanned through it a bit,
+&gt; and was like, "I should probably email him first," before I try to
+&gt; learn a new language figure out how to compile and install it.
+
+ it should be as simple as changing the following line in SMRequest.m
+(uploadImageData:) from:
+ CFHTTPMessageSetHeaderFieldValue(myRequest, CFSTR("X-Smug-
+FileName"), (CFStringRef)[self cleanNewlines:filename]);
+to
+ CFHTTPMessageSetHeaderFieldValue(myRequest, CFSTR("X-Smug-
+FileName"), (CFStringRef)[self cleanNewlines:title]);
+
+hope this helps.
+
+thanks!
+-ae
+</pre>

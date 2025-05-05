@@ -1,0 +1,28 @@
+<p class=date>2:53am JST Tuesday 13 January 2004</p>
+
+<p>Got close, but can't compile even the included projects.</p>
+
+<pre>
+/usr/bin/jam -d1
+JAMBASE=/Developer/Makefiles/pbx_jamfiles/ProjectBuilderJambase
+JAMFILE=- build ACTION=build _DEFAULT_GCC_VERSION=2.95.2
+_GCC3_IS_IN_OFFICIAL_LOCATION=YES BUILD_STYLE=Development
+CPP_HEADERMAP_FILE=/Users/rob/HelloNewSwingApplet/build/HelloNewSwingApplet.build/HelloNewSwingApplet.build/HelloNewSwingApplet.hmap
+SRCROOT=/Users/rob/HelloNewSwingApplet
+OBJROOT=/Users/rob/HelloNewSwingApplet/build
+SYMROOT=/Users/rob/HelloNewSwingApplet/build
+DSTROOT=/tmp/HelloNewSwingApplet.dst
+
+warning: unknown rule ProcessJavaArchiveFiles
+...updating 13 target(s)...
+Mkdir /Users/rob/HelloNewSwingApplet/build/HelloNewSwingApplet.build/HelloNewSwingApplet.build/JavaClasses 
+JavaCompile.default <CompileJava>HelloNewSwingApplet 
+BuildPhase <DeriveAndCompileSources>HelloNewSwingApplet 
+/bin/sh: line 2: DeriveAndCompileSources: No such file or directory
+
+    echo  Completed phase <DeriveAndCompileSources>  for <DeriveAndCompileSources>HelloNewSwingApplet 
+
+...failed BuildPhase <DeriveAndCompileSources>HelloNewSwingApplet ...
+</pre>
+
+<p>I'm quite tired enough for bed now.</p>

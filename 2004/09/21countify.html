@@ -1,0 +1,28 @@
+<p class=date>7:15pm JST Tuesday 21 September 2004</p>
+
+<p>Now I know why the default args didn't work for my lisp countify
+function.  Emacs doesn't support default values.</p>
+
+<p><a
+href="http://www.delorie.com/gnu/docs/elisp-manual-21/elisp_164.html">http://www.delorie.com/gnu/docs/elisp-manual-21/elisp_164.html</a></p>
+
+<p>So now my code looks like this:</p>
+
+<pre>
+(defun countify (&optional start finish)
+  (unless start 
+    (setq start 0))
+  (unless finish
+    (setq finish 100))
+  (setq number start)
+  (while (<= number finish)
+    (princ (number-to-string number))
+    (terpri)
+    (setq number (+ 1 number))))
+
+(countify -5 5)
+(countify 10)
+(countify)
+</pre>
+
+<p>Next step is to write the output to the kill ring.</p>

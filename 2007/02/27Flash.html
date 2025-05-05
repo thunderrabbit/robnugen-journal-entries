@@ -1,0 +1,75 @@
+<!-- tags:  -->
+<!-- events:  -->
+<!-- people:  -->
+<!-- locations: Tokyo, Sakurashinmachi -->
+<p class="date">1:30pm JST Tuesday 27 February 2007 (day 13488)</p>
+
+<p>Flash flash flash</p>
+
+<p>from adding parts to parts that already work, to discovering the whole thing doesn't work at all
+on Tariq nor Hitoshi's machine (so we need to fix that more urgently), to figuring out how to make
+it work, and therefore jumping back to the first plan, with an augmentation of adding another movie
+to the series, and updating graphics to make them more consistent.</p>
+
+<p>&quot;Oh shit I have to go&quot;</p>
+
+<p>Taking an extra moment to snarf down some web pages detailing how to do the stuff that will
+solve the not-working on T and H's machines, ควกข</p>
+
+<p>jog down the street, up the street, pacing a girl in heel-shoes with short heels down the steps
+(well-impressed she was wearing those heels and almost as fast as me!) and made my train.</p>
+
+<p>From <a
+href="http://www.kirupa.com/developer/actionscript/moviecliploader2.htm">http://www.kirupa.com/developer/actionscript/moviecliploader2.htm</a>:</p>
+
+<pre>
+
+bar._visible = false;
+border._visible = false;
+this.createEmptyMovieClip("container", "100");
+my_mc = new MovieClipLoader();
+preload = new Object();
+my_mc.addListener(preload);
+preload.onLoadStart = function(targetMC) {
+
+trace("started loading "+targetMC);
+container._visible = false;
+bar._visible = true;
+border._visible = true;
+pText._visible = true;
+
+};
+preload.onLoadProgress = function(targetMC, lBytes, tBytes) {
+
+bar._width = (lBytes/tBytes)*100;
+pText.text = "% "+Math.round((lBytes/tBytes)*100);
+
+};
+preload.onLoadComplete = function(targetMC) {
+
+container._visible = true;
+border._visible = false;
+bar._visible = false;
+pText._visible = false;
+trace(targetMC+" finished");
+
+};
+//default image
+my_mc.loadClip("picture1.jpg", "container");
+//buttons
+button1.onPress = function() {
+
+my_mc.loadClip("picture1.jpg", "container");
+
+};
+button2.onPress = function() {
+
+my_mc.loadClip("picture2.jpg", "container");
+
+};
+button3.onPress = function() {
+
+my_mc.loadClip("picture3.jpg", "container");
+
+};
+</pre>

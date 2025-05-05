@@ -1,0 +1,60 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">10:08am JST Wednesday 12 March 2008 (day 13867)</p>
+
+<p>This is a tentative plan:</p>
+
+<ol>
+<li><p>* figure out why old version (5.2.0) of PHP did *not* give an error when session() was started in the
+middle of output (version 5.2.5 does)
+<br/>answer: the error occurs, but is not being reported to the browser</p></li>
+
+<li><p>* figure out why error is being reported to browser on new server when display_errors = Off in
+php.ini</p>
+
+<p>answer: php variables can be set in at least 4 places.  Here are the places I know of in the
+order that the server reads them (so basically the defaults are set in php.ini and the source file
+supercedes the others (assuming that the server is configured to allow the php source file to change
+the value (beyond the scope of this little tidbit))):</p>
+
+<ol>
+<li><p><a href="http://php.net/results.php?q=php.ini">php.ini</a> file:
+<br/>varname = value</p></li>
+
+<li><p><a href="http://www.google.com/search?q=http.conf+OR+httpd.conf">http.conf</a> file:
+<br/>php_flag varname value</p></li>
+
+<li><p><a href="http://www.google.com/search?q=htaccess">.htaccess</a> file:
+<br/>php_value varname value</p></li>
+
+<li><p>php source file:
+<br/>&lt;?php <a href="http://php.net/manual/en/function.ini-set.php">ini_set</a>('varname',
+'value'); ?&gt;</p></li>
+</ol>
+</li>
+
+<li><p>* ask 丸山さん if he knows why the session_start was moved to the top of a file that's called in
+the middle of the page
+<br/>
+answer: he doesn't know.  He doesn't know what session_start() does</p></li>
+
+<li><p><del>fix it</del> 丸山さん said he'll ponder on it when he gets back from a meeting.
+Basically it literally doesn't work where it is, so it must be moved back to where it was.  I'm
+hoping this will prove my case that we need to be using a CMS.  I'm shooting for SVN, but that's
+just because it's the one I know.
+</p></li>
+
+<li><p>* go to lunch</p></li>
+</ol>
+
+<p class="date">3:01pm JST</p>
+
+<p>Okay, the plan continues:</p>
+
+<ol>
+<li><p>think of something to do</p></li>
+
+<li><p></p></li>
+</ol>

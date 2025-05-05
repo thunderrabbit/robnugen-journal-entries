@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <meta name="title" content="MapBuilder - GoogleMap API Source Code Generator." />
+    <meta name="description" content="MapBuilder.net lets you tag locations on a map and publish it on your own site. Mapping is now easier than ever. It's free." />
+    <meta name="keywords" content="Google Maps API, PHP, AJAX, XML" />
+    <meta name="author" content="Andrew Bidochko. http://www.mapbuilder.net" />
+    <title>Personal Map - Default</title>
+
+   <style type="text/css">
+      v\:* {
+        behavior:url(#default#VML);
+      }
+      #MapBuilder {font: normal small verdana, arial, helvetica, sans-serif; font-size: 10pt; margin: 0px;}
+      #MapBuilder a {text-decoration: none; color: #0066CC; background-color: transparent;}
+      #MapBuilder a:hover {color: #F60; background-color: transparent;}
+      #MapBuilder h1 {font-weight: bold; font-size: 16pt; color: #369; background-color: transparent; border-bottom: 2px solid #369;}
+      #MapBuilderIW { width: 350px; height: 200px;}
+      #MapBuilderIWContent {height: 120px; overflow:auto;}
+      #MapBuilderIW h1 {font-weight: bold; font-size: 12pt; color: #369; background-color: transparent; border-bottom: 2px solid #369;}
+      #MapBuilderIWFooter {margin-top: 5px; font-family: Arial, Helvetica, sans-serif; font-weight: normal; font-size: 8pt; }
+      #MapBuilderIWFooter h1 { margin: 2px 0px 4px font-weight: normal; font-size: 8pt; color: #369; background-color: transparent; border-top: 2px solid #369; border-bottom: 0px;}
+ 
+      #MapBuilderSideBar {float:left; margin-left: 10px; }
+ 
+    </style>
+
+    <!-- Please, request sign up for your own GMAP KEY at http://www.google.com/apis/maps/signup.html and replace 'GMAPKEY' entry with generated key in the line below. -->
+    <script src="http://maps.google.com/maps?file=api&v=1&key=ABQIAAAAXMHwCUq381E_Cy2EYzxthBRbMXuv5wLmqXhgs8QfSNUupYnF1hSD6H_1A6kyHo3JZhsB9_v2TFcHsQ" type="text/javascript"></script>
+    
+    <script src="http://www.mapbuilder.net/maps/js.php?UserName=thunderrabbit&Map=3127" type="text/javascript"></script>
+    <script type="text/javascript">
+    //<![CDATA[
+
+    function onLoad() {
+      map = new GMap(document.getElementById("MapBuilderMap"));
+      MapBuilder = new MapBuilder();
+      map.addMapBuilder(MapBuilder);
+    }
+
+    //]]>
+    </script>
+  </head>
+  <body onload="onLoad()">
+	<div id="MapBuilder">
+      <h1>My Personal Map - Default</h1>
+      <p>Auto Created Map</p>
+ 
+      <div id="MapHolder" style="float:left;">
+        <div id="MapBuilderMap" style="width: 600px; height: 500px;"></div>
+        <!-- Please KEEP RESPECT to MapBuilder.net team and DO NOT DELETE line below if you want to keep MapBuilder service free. -->
+        Created by <a href="http://www.MapBuilder.net">MapBuilder.net</a>.
+      </div>
+ 
+      <div id="MapBuilderSideBar">
+        <div id="SideBarAction">Map Locations [<a href="#" onclick="HideLocationList()">-</a>]</div>
+        <ul id="LocationList"></ul>
+      </div>
+ 
+    </div>
+  </body>
+</html>

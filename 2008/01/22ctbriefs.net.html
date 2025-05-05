@@ -1,0 +1,28 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">2:11pm JST Tuesday 22 January 2008 (day 13817)</p>
+
+<p>Got the code tucked into SVN; I still haven't perfected that process, but close enough for single
+user work.  I noticed <a href="http://darcs.net/">darcs</a> yesterday or so; I am interested in
+learning how that works.</p>
+
+<p>Currently having a bit of a problem that I believe is either due to typos or scoping issues.  I
+don't really like the way PHP does scoping.  Actually I don't like the way it doesn't require
+declaration of variables.</p>
+
+<p class="date">2:58pm JST</p>
+
+<p>Yah; I was right.  For some reason (perhaps I should check more carefully), when index.php
+includes common.php, a variable is available to navigation.php, but when finish_auth.php includes
+common.php that var is not available to navigation.php.</p>
+
+<p class="date">4:59pm JST Tuesday 22 January 2008 (day 13817)</p>
+
+<p>Got it.  The openid code has a function called run() that has an include 'index.php'; at the end.
+I moved that *out* of the function, so it could actually run, and then did require_once 'index.php'
+after the function had run.  That way all the variables get defined and all good. </p>
+
+<p>Feel free to log in at <a href="http://ctbriefs.net/">ctbriefs.net</a>.  It will be great fun.
+And then you can log back out again!  Wooo!</p>

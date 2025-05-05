@@ -1,0 +1,13 @@
+<p class="date">7:41am JST Friday 12 May 2006 (day 13197)</p>
+
+<p>I tweaked my sgml-mode.el code, (adding the end-of-line) so now if
+my point is still inside the &lt;/p&gt; tag, I can do an html newline
+and it keeps the tags from getting confused.</p>
+
+<pre>
+(define-skeleton html-paragraph
+  "HTML paragraph tag."
+  nil
+  (if (bolp) nil (progn (end-of-line) "\n\n"))
+  "&lt;p>" _ (if sgml-xml-mode "&gt;/p>"))
+</pre>

@@ -1,0 +1,40 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations:  -->
+<p class="date">12:10pm JST Saturday 26 September 2009 (day 14430)</p>
+
+<p>Created a git repository on my local machine and on my server at ~/php_file_journal.git AND on
+my server at ~/git.robnugen.com/php_file_journal.git, which is where I wanted it in the first
+place.  I think I committed README.TXT (visible below (though with lowercased filename)) to the
+local repository and pushed it to the first one mentioned on my server, but not yet to the second
+one, which is actually where I think I want it.</p>
+
+<p>But I might not want it web-accessible like that..  welllll I guess I do, but perhaps in a more
+thoughtfully constructed file path than the site's root.</p>
+
+<p>Right now, I wanna figure out how my current local git thing even knew about the.. oh wait I bet
+I know.  I have a script that created a remote copy and then created a local dir and pulled the
+remote to the local.  That was when I had forgotten to include git.robnugen.com as part of the file
+path so it was written to a non-web-accessible location on my server.  When I created a new remote
+repsoitory but the same local repository, the local already knew its original source so when I did
+the push, it went to the first source.</p>
+
+<p>So, the solution I see is to either</p>
+
+<ol>
+<li>wipe everything and start again (crude, but effective)</li>
+
+<li>wipe just the local and create it using the correct remote (I'll probably do this)</li>
+
+<li>figure out how to tell/trick the local into thinking it has a different origin than it does.</li>
+</ol>
+
+<p class="date">12:21pm JST Saturday 26 September 2009 (day 14430)</p>
+
+<p>Ah.  Number 3 was trivially easy.  There's a file called .git/config in the repository.  I set
+its source to be url = ssh://thunderrabbit@git.robnugen.com:git.robnugen.com/php_file_journal.git</p>
+
+<p class="date">12:24pm JST Saturday 26 September 2009 (day 14430)</p>
+
+<p>Hmm.  I just set ignorecase = false, cause that's how I prefer my filesystem to work.</p>

@@ -1,0 +1,20 @@
+<p class=date>10:15am JST Tuesday 27 April 2004</p>
+
+<p>Thanks to Tim for offering help on the query and oooooooh special
+thanks to Maggie for thinking of a new way to structure the
+query!  I haven't tried it yet, but here's the new structure:</p>
+
+<pre>
+select L1.* from lesson_taught L1 INNER JOIN lessons_taught L2
+  ON L1.studentID = L2.studentID 
+  WHERE L1.date <= '2004/04/26' and L2.date = '2004/04/26'
+</pre>
+
+<p>Hey, that reminds me that we hadn't tried select l1.* with the
+original query.</p>
+
+<p>One challenging thing about the development of this code is that
+while I'm in the live environment (office), I don't have access to the
+code.  I've emailed myself copies of the source data from the live
+environment, but it's not *quite* as satisfying to make it work in the
+non-live environment.</p>

@@ -1,0 +1,104 @@
+<p class=date>1:56pm JST Tuesday 20 July 2004</p>
+
+<pre>
+        From:     rob@robnugen.com
+        Subject:  new db ideas
+        Date:     12:15pm JST Tuesday 20 July 2004
+        To:       maggie
+
+Maggie!!
+
+How are you?
+
+I've just written a long email to you, and I didn't lose it, BUT half
+of me wants to scrap it.  (It's included below)
+
+I want to redo my site.  I thought mysql holding all my journal
+entries and stories would be a great idea.  But now I'm wondering if I
+should just put everything in careful directory structures and write
+more perl index-code to navigate everything.
+
+I basically want users to be able to search by date or by content type
+(journal, skate stories, rally reviews, state of my life updates,
+coaster pics, etc).  I want to have RSS feeds to advertise what is the
+latest cool thing at my site.  I want images to be included in this
+searchable thingamajig.
+
+sigh.
+
+If you have time and ideas, I'd love to know them.  I've worn out my
+brain on this email (and searching the web); I need to take a break
+for now.
+
+	With Love
+	- Rob!
+
+original email:
+
+Maggie!
+
+How are you, my dear friend?
+
+It's been too long since I've really worked with you, so I'll jump into it:
+
+I wanna put the content of my site in a db, and I'm considering
+different structures.  I'd like to use mysql, since that's what's
+available at no extra cost on my server.  Right now I don't really
+care about encryption (and I know "adding encryption later" would
+likely be a nightmare, unless I layer the application carefully), but
+I do care about the following:
+
+1) allowing users to read by date (preferably in a format similar to
+   what I have online now)
+2) allowing users to read by genre  (*)
+3) allowing the concept of multi page "articles" or multi-day stories
+   to be linked (**)
+4) number 2 makes me realize I might as well have different language
+   versions of my site available - just put all the content in a db
+   and serve it up like hotcakes
+
+(*) "next wild skating adventure" or "next rally review" or "next
+Japanese entry" or "next super secret private entry about Maggie and
+her wild nights"
+
+(**) Like on many e-magazines they have page 1, page 2 etc for
+articles.  I'd like to similarly link the chapters of _The PIN_ or
+other long stories.
+
+
+-------------- moving files from my computer to my server  -------------
+
+I'd like to have automated ways to smurf my writings into the db.
+Right now I write them on my laptop, and then scp (secure copy) them
+to my server to the appropriate directory.
+
+Right now I do the following two steps to get journal entries online
+
+1) scp LOCALFILES www.robnugen.com:journal where LOCALFILES are the
+   names of the files on my machine.  On my server ~/journal is
+   symlinked to ~/public/journal/2004/07 (today's year and month in my
+   journal directory)
+
+2) run robnugen.com/cgi/updatedb.pl which recreates the index of my
+   journal
+
+
+So, in the more generalized version, I'm thinking I could do something
+like the following to get entries online:
+
+1) scp LOCALFILES www.robnugen.com:FILETYPE
+
+where LOCALFILES are the names of the files, and FILETYPE corresponds
+to directories on my server.
+
+2) Initiate a process on my server (via the web) to grab the files
+from the various FILETYPE directories and put them in the DB in the
+right places.
+
+------------ ideas I hope to get from Maggie -----------
+
+I'm looking to you for database table design.
+
+table of genres
+table of 
+</pre>

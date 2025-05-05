@@ -1,0 +1,92 @@
+<!-- tags: work, android, json -->
+<!-- locations: Chigasaki, Chez Soness -->
+<p class="date">1:24pm JST Wednesday 16 February 2011 (day 14938)</p>
+
+<p>Sweet as.
+From <a href="http://www.softwarepassion.com/android-series-parsing-json-data-with-gson/">Software
+Passion: Android ... JSON .. GSON</a>, I got a bit of JSON decoded.</p>
+
+<p>Per <a href="http://primalpop.wordpress.com/2010/06/05/parsing-json-using-gson-in-android/">Parsing
+JSON using GSON in Android</a>, to add the <a href="http://code.google.com/p/google-gson/">GSON</a>
+jar, right click when editing your project in Eclipse, and select</p>
+
+<p>Properties -&gt; Java Build Path -&gt; Libraries -&gt; Add External JARs</p>
+
+<p>and point to gson-1.6.jar (where 1.6 indicates the version of GSON).</p>
+
+<p>Because he doesn't <em>quite</em> spell it out, this is after editing my main .java file that was
+created by default when I created a new project.</p>
+
+<pre>
+package com.softwarepassion.jsonexample;
+
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.io.Reader;
+import java.net.URI;
+
+import org.apache.http.HttpResponse;
+import org.apache.http.client.methods.HttpGet;
+import org.apache.http.impl.client.DefaultHttpClient;
+
+import com.google.gson.Gson;
+
+import android.app.Activity;
+import android.os.Bundle;
+import android.util.Log;
+
+public class Twitter_JSON extends Activity {
+    /** Called when the activity is first created. */
+
+    @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.main);
+        runJSONParser();
+    }
+    public InputStream getJSONData(String url){
+        DefaultHttpClient httpClient = new DefaultHttpClient();
+        URI uri;
+        InputStream data = null;
+        try {
+            uri = new URI(url);
+            HttpGet method = new HttpGet(uri);
+            HttpResponse response = httpClient.execute(method);
+            data = response.getEntity().getContent();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        
+        return data;
+    }
+
+    public void runJSONParser(){
+        try{
+        Log.i("MY INFO", "Json Parser started..");
+        Gson gson = new Gson();
+        Reader r = new InputStreamReader(getJSONData("http://search.twitter.com/trends.json"));
+        Log.i("MY INFO", r.toString());
+        Twitter_trends objs = gson.fromJson(r, Twitter_trends.class);
+        Log.i("MY INFO", ""+objs.getTrends().size());
+        for(TwitterTrend tr : objs.getTrends()){
+            Log.i("TRENDS", tr.getName() + " - " + tr.getUrl());
+        }
+        }catch(Exception ex){
+            ex.printStackTrace();
+        }
+    }
+}
+</pre>
+
+<p class="date">4:24pm JST Wednesday 16 February 2011 (day 14938)</p>
+
+<p>Grr.  For some reason I can't get the more complicated version I need to work for work to work.</p>
+
+<p class="date">12:40am JST Thursday 17 February 2011 (day 14939)</p>
+
+<p>While talking to Lin about what I was trying to do, I realized why I couldn't get it to work.  I
+was neglecting the first part of the JSON input.  Silly.  At least it's basically easy to fix.</p>
+
+<p class="date">3:53am JST Thursday 17 February 2011 (day 14939)</p>
+
+<p>yep; easy fix.  Now I need to put the data onto the screen instead of the log file.</p>

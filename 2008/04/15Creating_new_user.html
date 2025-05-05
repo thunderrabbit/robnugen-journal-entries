@@ -1,0 +1,29 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">1:00pm JST Tuesday 15 April 2008 (day 13901)</p>
+
+<p>Problems creating username:</p>
+
+<p>I created a new username on Larac: monkeybutt</p>
+
+<p>I got the Success message via email:
+<br/>DreamHost Shell Account Activated</p>
+
+<p>But when I tried to ssh to the account, it went something like this:</p>
+
+<pre>
+robs-computer:~ rob$ ssh monkeybutt@robnugen.com
+Password:
+Could not chdir to home directory /home/monkeybutt: No such file or directory
+monkeybutt@larac:/$ ls -al /home/monkeybutt/
+ls: /home/monkeybutt/: No such file or directory
+monkeybutt@larac:/$ ls -al /home/monkeybutt
+lrwxrwxrwx 1 root staff 21 2008-04-14 20:27 /home/monkeybutt -> .doesnotexist/monkeybutt
+monkeybutt@larac:/$ id
+uid=2(monkeybutt) gid=2(*) groups=2(*),1(*)
+monkeybutt@larac:/$ cd ~
+-bash: cd: /home/monkeybutt: No such file or directory
+monkeybutt@larac:/$ 
+</pre>

@@ -1,0 +1,34 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">6:21pm JST Thursday 27 November 2008 (day 14127)</p>
+
+<p>Second half of work featured pretty much the same stuff save an impromptu meeting with Yuu, who,
+upon arrival, found she had nothing to do because Sho and Malek were in a meeting with a couple of
+other cats.</p>
+
+<p>Basically I showed her how the new billing system is set up, including its flaws
+(&quot;home&quot; means &quot;company&quot; and &quot;blog&quot; means &quot;payment&quot;) and she
+took careful notes as appropriate and was able to re-explain in fluent Japanese what I had told her
+in Crapanese, er, not-so-fluent Japanese.</p>
+
+<p>I'm 90% sure I'm on the final stretch of getting the billing thing working pretty well.  Granted
+there are a couple of screens that haven't even been written yet
+(<del>blog</del> <ins>payment</ins>) and the reports screen, but those should be easy compared to
+the mootools stuff I've been doing so far.</p>
+
+<p>Tomorrow the plan is to get the invoice-finalizing code fixed so to use the new system of
+finalizing invoices.  I had been keeping finalized invoices untouched, but Sho wants to be able to
+apply payments to them so payments are easier to track.  I was planning just to do it on a rolling
+basis, carrying balances forward and recording payments for last month on this month's invoice,
+basically like credit card statements.</p>
+
+<p>So now the invoice finishing code is even easier.  Just slap a finished flag on it and then
+create a new invoice.  There's a bit of extra code required if there's a contract to be updated as
+well.  This isn't 3rd normal (well <em>there</em>'s your problem), but I did that to make reporting
+easier.  The contracts keep track of what the most recent invoice is, the second to most recent
+invoice, and their respective due dates.</p>
+
+<p>Buttttt, I might wipe that part out now that I have my invoice status flag.  (actually an
+enumerated list: 'edit', 'sent', 'received', 'paid', 'overdue')</p>

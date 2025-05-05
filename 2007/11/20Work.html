@@ -1,0 +1,43 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Sakura House, Motosumiyoshi -->
+<p class="date">8:44pm JST Tuesday 20 November 2007 (day 13754)</p>
+
+<p>Good day at work today.  Arguably the best so far.  I learned a good bit about how our system is
+set up, and a great technique for optimizing mySQL queries.</p>
+
+<p>I almost wrote a message to php.general on usenet:</p>
+
+<pre>
+HI All
+
+I have been asked to optimize a query here at work, and suffice to say the query is big and ugly.
+SELECT (SELECT * on JOIN z JOIN B JOIN (SELECT * on w JOIN x JOIN y JOIN z) as wxyz) as z JOIN JOIN
+JOIN..  that kinda thing.
+
+There are indexes on all the columns that are part of the JOIN clauses.  I ran an EXPLAIN and got this:
+
+<a href="/images/software/bad/work/BS/explain_big_SQL.png"><img src="/images/software/bad/work/BS/thumbs/explain_big_SQL.png"
+alt="EXPLAIN big SQL query" /></a>
+
+Pretty quickly I see 22000 * 22000 = too many rows with no index!!
+
+I found a suggestion to make a temporary table and put an index on that:
+<a href="http://forums.mysql.com/read.php?115,104645,104645">http://forums.mysql.com/read.php?115,104645,104645</a>
+
+However, I ...
+
+
+oh.  Nevamind.
+</pre>
+
+<p>I was going to say &quot;However, I keep getting an error,&quot; when I realized I didn't know
+what the error message was.</p>
+
+<p>Turned out that the error was something trivial like &quot;permission denied,&quot; and once I
+fixed that, it turned out that my technique was perfectly ready to work.  Woohoo!</p>
+
+<p>Once I got all the details sorted, I had reduced the search time from between 60 to 90+ seconds
+(90 is timeout) to between 6 and 20 seconds.  Whoo to the Hoo.  That rulesez.  I *think* I should
+be able to get it down even more now that I have a sense of what technique I can use to optimize.</p>

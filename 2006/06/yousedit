@@ -1,0 +1,3 @@
+for fl in `find . -name "*.html"`; do
+sed  -i 's/<!\([^-]\)\([^>]*\)/<!-- \1\2 --/' $fl
+done 

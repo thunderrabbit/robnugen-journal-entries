@@ -1,0 +1,51 @@
+<html>
+  <head>
+
+<script type="text/javascript" language="JavaScript">
+function munge()
+<!--
+    {
+    address = document.mungeForm.emailInput.value
+//    link= (document.mungeForm.linkInput.value.length==0 ? link=address : link=document.mungeForm.linkInput.value)
+//    address = '<a href=\"mailto:' + address + '\">' + link + '<'+'/a>'
+
+    txt =       '<script type=\"text/javascript\" language=\"javascript\">\n' +
+            '<!-'+'-\n' +
+                '// eMail Obfuscator Script 1.31 by Tim Williams - freeware\n' +
+                '    {     document.write(String.fromCharCode('
+    
+    for (j=0; j<address.length; j++)
+        {
+            txt += address.charCodeAt(j)+ (j<address.length-1 ? ",":")")
+        }
+
+
+
+
+        txt +=')\n' +
+                '     }\n' +
+                '//-'+'->\n' +
+            '<' + '/script>\n'
+
+    document.output.source.value=txt
+    }
+// -->
+</script>
+    <form name="mungeForm" action="">
+      Put what you want to munge into this box:
+      <br><textarea name="emailInput" rows="20" cols="80"></textarea>
+      <br><input type="button" onclick="munge()"
+      value="Obfuscate!" />
+    </form>
+
+    <form name="output" action="">
+      <textarea name="source" rows="20" cols="80">
+          
+      </textarea>
+    </form>
+
+<p>Code stolen from <a
+href="http://www.u.arizona.edu/~trw/spam/spam.htm">http://www.u.arizona.edu/~trw/spam/spam.htm</a>.</p>
+
+  </body>
+</html>

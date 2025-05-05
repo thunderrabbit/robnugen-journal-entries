@@ -1,0 +1,84 @@
+<p class="date">5:49pm JST Friday 12 November 2010 (day 14842)</p>
+
+<pre>
+Hey Travis!
+
+Thanks for asking again about django; I'm a bit sidetracked, but I have been composing a question
+for you... I wanted to get some code up on github first so I could show you examples.  Right now,
+though, you can see the data which I'm trying to process at http://dev.pekoneko.com/statistics/
+
+Quick version of my question:  how do I display QuerySets that may need some special display depending
+on the values in the rows?  Templates aren't really smart enough, it seems.  Maybe by including
+templates within templates, but even then, how does the parent template know *when* to include the child?
+
+Speaking in general terms, I am retrieving a QuerySet which returns many rows from many
+one-to-many relationships.
+
+A --&gt; a
+A --&gt; b
+A --&gt; c
+B --&gt; d
+B --&gt; e
+C --&gt; g
+C --&gt; i
+
+When I display these, I want to show the one as a title, and then the many related records below that
+
+&lt;div class='title'&gt;A&lt;/div&gt;
+&lt;div &gt;a&lt;/div&gt;
+&lt;div &gt;b&lt;/div&gt;
+&lt;div &gt;c&lt;/div&gt;
+
+&lt;div class='title'&gt;B&lt;/div&gt;
+&lt;div &gt;d&lt;/div&gt;
+&lt;div &gt;e&lt;/div&gt;
+
+&lt;div class='title'&gt;C&lt;/div&gt;
+&lt;div &gt;g&lt;/div&gt;
+&lt;div &gt;i&lt;/div&gt;
+
+BUT, the template doesn't have the logic to keep track of last item.title to see if it's different
+than current item.title and display the new title as a title instead of just div.
+
+So (getting to more specifics) I've written a function called beautify() which takes the QuerySet
+and returns an array of dictionaries (correct term??) that looks something like this when printed
+without processing:
+
+	{'count': 2L, 'four_digits': u'3455'}
+	{'answer': u'(3+4-5)*5'}
+	{'count': 3L, 'four_digits': u'0019'}
+	{'answer': u'0-0+(1+9)'}
+	{'answer': u'0*0+(1+9)'}
+	{'answer': u'(0+0)+(1+9)'}
+	{'answer': u'(0-0)+(1+9)'}
+	{'answer': u'(0*0)+(1+9)'}
+	{'answer': u'(0+0+1)+9'}
+	{'answer': u'(0-0+1)+9'}
+	{'answer': u'(0*0+1)+9'}
+	{'answer': u'0+(0+1+9)'}
+	{'answer': u'0-(0-1-9)'}
+	{'count': 1L, 'four_digits': u'4444'}
+	{'answer': u'none'}
+	{'count': 1L, 'four_digits': u'2828'}
+	{'answer': u'2+8*2-8'}
+	{'answer': u'2-8+2*8'}
+	{'answer': u'2*8+2-8'}
+	{'answer': u'(2-8)+2*8'}
+	{'answer': u'(2*8)+2-8'}
+	{'answer': u'2+(8*2)-8'}
+	{'answer': u'2-8+(2*8)'}
+	{'answer': u'2*8+(2-8)'}
+	{'answer': u'(2-8)+(2*8)'}
+	{'answer': u'(2*8)+(2-8)'}
+
+The lines with 'count' and 'four_digits' are basically the title lines, and the 'answer' lines are
+the items that should be printed below the titles.
+
+I have a sinking feeling that the templates can't even do enough logic to process this elegantly. I
+could possibly use {% is_equal %} but 'four_digits' is not always defined, so it's clearly a flawed
+process of outputting ...
+
+I think I should search Google for [process queryset before template] or something like that..  for
+now this email will just be in my journal; I can't bear to bother you much before I've tried a bit
+harder on it.  :-)
+</pre>

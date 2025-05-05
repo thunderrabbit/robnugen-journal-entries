@@ -1,0 +1,92 @@
+<pre>
+HI Chris
+
+Your analysis of what I did is correct: it allows me to use my personal SGP from any computer.  I'm
+not so much concerned about your site being down (it's always been up when I need it), but I like to
+have my SGP settings already set: length, mIxEd cAsE, and my master password embedded.
+
+The reason for my comment is simply that it took me about half an hour to figure out exactly how to
+post SGP on my site.  The bookmark is automagic, but as part of an html page.. I didn't know if it
+needed to be inside &lt;script /&gt; tags, or what.
+
+The answer is easy enough, but I wanted to save people the time to figure out how to post their SGP to their site.
+
+As per your comment below, I *can* now run SGP directly from my website, though I have to click [+]
+and enter the URL of the site for which I want my password.
+
+Regarding KTRU, I wasn't a Rice student, but a community DJ at KTRU for a couple of years (some 5
+years ago now).  Great great fun.
+
+Did you go to Rice?  How do you know KTRU?  You don't happen to live in Houston, do you?  (I did for
+25+ years, but I'm in Tokyo now).
+
+    - Rob
+
+
+On 8/23/07, Chris Zarate wrote:
+
+
+    Rob,
+
+    Thanks for your comment. I'm not sure I understand what is being
+    accomplished, though. The only reason I can think to put SGP on your Web
+    site is to have a quick, easily accessible way to add the SGP bookmarklet
+    to a new browser -- or as insurance for the possibility of my Web site
+    being down. But you seem to be implying that you are modifying SGP to run
+    directly from this link on your Web site. Is that correct, or am I missing
+    something? I guess I'm asking: what does this allow you to do? I may be
+    missing a good idea here.
+
+    I also noticed on your site a reference to KTRU. Did you go to Rice?
+
+    -Chris
+
+
+
+
+    On Mon, 20 Aug 2007 22:42:10 -0400, Rob Nugen wrote:
+    &gt; Posted 2007-08-20 22:42:10:
+    &gt;
+    &gt; I love SGP!  Thanks so much for it.
+    &gt;
+    &gt; I note above that [I can safely post my SGP
+    &gt; bookmarklet](http://labs.zarate.org/passwd_new/#Comment24) to my website
+    &gt; as long as I don't hardcode the master password into the script.
+    &gt;
+    &gt; What I don't see above is exactly *how* to do that.  I figured it out
+    &gt; though.  This is for anyone who wants to post their version of SGP
+    online.
+    &gt;  It works for me on Firefox and OS X; not sure about IE.
+    &gt;
+    &gt; 1. After [creating your
+    &gt; bookmarklet](http://labs.zarate.org/passwd_new/builder.html), somehow
+    copy
+    &gt; the resulting bookmarklet and paste it in the html markup below (replace
+    &gt; square brackets with angle brackets):
+    &gt;
+    &gt;
+    &gt;    `[a href="`**javascript:(function(){ *[-- ~30K SNIPPED --]*
+    &gt; ,true);})();**`"]SGP[/a]`
+    &gt;
+    &gt; 2. Upload this to your website.  (It will not work on your local
+    computer,
+    &gt; I imagine because SGP won't parse the URI for a local filename.  (As
+    Chris
+    &gt; says, it's not designed for local use.))
+    &gt;
+    &gt; --
+    &gt;
+    &gt; Another option: After creating your bookmarklet, cut-n-paste the
+    &gt; bookmarklet with its surrounding html code, and then remove
+    &gt; **onclick="return false;"** from just after the bookmarklet.  (This code
+    &gt; is designed to keep the bookmarklet from being run on the bookmarklet
+    &gt; creation page, and would keep it from working on your site.)
+    &gt;
+    &gt; The resulting html should work on your website.
+    &gt;
+    &gt; I hope this helps!
+    &gt;
+
+-- 
+The love that you give is the pain that you release. 
+</pre>

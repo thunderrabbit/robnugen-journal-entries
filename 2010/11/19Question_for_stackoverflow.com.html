@@ -1,0 +1,94 @@
+<pre>
+I've read several discussions of passing char * in C.
+
+[stackoverflow - passing-an-array-of-strings-as-parameter-to-a-function-in-c](http://stackoverflow.com/questions/486075/passing-an-array-of-strings-as-parameter-to-a-function-in-c#486095)  
+[stackoverflow - how-does-an-array-of-pointers-to-pointers-work](http://stackoverflow.com/questions/1015944/how-does-an-array-of-pointers-to-pointers-work/1015970#1015970)  
+[stackoverflow - pet peeve: char * are not arrays](http://stackoverflow.com/questions/423823/whats-your-favorite-programmer-ignorance-pet-peeve/484900#484900)  
+[drexel.edu - C tutorial: char](http://einstein.drexel.edu/courses/Comp_Phys/General/C_basics/#character)
+
+Many of them include discussions of arrays, but I want to stay away from that.
+
+I'm writing a sample program to teach myself about the passing of `char *` and `char **` in C.   This is an exercise in passing char *, without using (pointers to) arrays. Also no concerns for execution efficiency.  :-)
+
+    #include &lt;stdlib.h&gt;
+    #include &lt;stdio.h&gt;
+    #include &lt;string.h&gt;
+    
+    int get_args_works(int, char **, char **);
+    int get_args_broken(int, char **, char *);
+    char *get_string(int, char **);
+    
+    int main(int argc, char **argv)
+    {
+      char *string_works;
+      char *string_broken;
+    
+      get_args_works(argc, argv, &string_works);
+      get_args_broken(argc, argv, string_broken);
+    
+      printf("in main string_works (%p) = %s\n",string_works,string_works);
+      free(string_works);
+    
+      printf("in main string_broken (%p) = %s\n",string_broken,string_broken);
+      free(string_broken);
+    }
+    
+    int get_args_works(int argc, char **argv, char **string)
+    {
+        *string = get_string(argc, argv);
+        printf("in get_args_works %p string %s\n",*string,*string);
+    }
+    
+    int get_args_broken(int argc, char **argv, char *string)
+    {
+      string = get_string(argc, argv);
+      printf("in get_args_broken %p string %s\n",string,string);
+    }
+    
+    char * get_string(int argc, char **argv)
+    {
+      int i;
+      char *string;
+      string = malloc(40);
+      
+      // placeholder in case -s switch not found below
+      strcpy(string,"-s switch not found below");
+    
+      for(i = 0; i &lt; argc; i++)
+        {
+          if(argv[i][0] == '-')
+            {
+              switch(argv[i][1])
+                {
+                case 's':
+                  // release above malloc(40) for "-s switch not found below"
+                  free(string);
+                  // make room for storing variable
+                  string = malloc(strlen(argv[++i]) + 1);
+                  // the argv just after -s
+                  strcpy (string,argv[i]);
+                  break;
+                }
+            }
+        }
+      return string;
+    }
+
+
+You can also view the [same code on github](https://github.com/thunderrabbit/sea-review/blob/327bcda133ada7a124be423400e72fef997e5e5d/stackoverflow.c)
+
+
+The above code is somewhat self documenting.  `main()` passes two variables as parameters to their respective `get_args()` functions.
+
+Each `get_args()` function calls `char * get_string(int, char **)`, using the exact same call.
+
+`get_string()` works fine; it does a `malloc()` and returns the pointer back to the calling function.  That code works, and each `get_args()` function receives the return value as I expect.
+
+But then, when they return to `main()`, why does the doubly dereferenced pointer get back to main, but not the singly dereferenced pointer?
+
+I can see that if I dereference the pointer (`&XXXXXX_works`) when sending as a parameter, it works.  But why?  Isn't it already a pointer?  Why does it need the "extra" (*) dereference when sending as a parameter?
+
+I'm hoping for a winning answer that explains how you (yes, you) conceptualize sending char * as a parameter vs receiving it as the function's return value.
+
+(*) it seems extra to me, but apparently it's not.
+</pre>

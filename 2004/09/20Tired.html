@@ -1,0 +1,41 @@
+<p class=date>5:00pm JST Monday 20 September 2004</p>
+
+<p>I'm tired.</p>
+
+<p>Heading to Hitomi's house now; we're going to see "I, Robot" tonight.</p>
+
+<p>I figured out how to get emacs to print a list of numbers:</p>
+
+<pre>
+(defun countify (number)
+  (while (<= number 100)
+    (princ (number-to-string number))
+    (terpri)
+    (setq number (+ 1 number))))  ; do C-x C-e before this comment
+
+(countify 5)  ; do C-x C-e before this comment
+</pre>
+
+<p>Next steps will be how to make the start and finish numbers
+optional and then how to put the output into the kill-ring.</p>
+
+<p>- - - -</p>
+
+<p>I don't know why these don't work on my version of emacs.</p>
+
+<pre>
+(defun countify (&amp;optional (start 0) (finish 100))
+  (setq number (start))
+  (while (<= number finish)
+    (princ (number-to-string number))
+    (terpri)
+    (setq number (+ 1 number))))
+
+(countify 5)
+
+
+(defun argtester (a b &amp;optional (c t) (d "yes"))
+  (mapc #'print (list a b c d e f)))
+
+(argtester 'aa 'bb 'cc 'dd)
+</pre>

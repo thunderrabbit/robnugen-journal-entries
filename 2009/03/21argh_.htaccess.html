@@ -1,0 +1,20 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Motosumiyoshi, Sakura House -->
+<p class="date">12:49am JST Sunday 22 March 2009 (day 14242)</p>
+
+<p>Argh.  I tried a buncha variants to get just a little rewriteRule working for my journal, but nothin' wanted to do the right thing.  Nor the rewrite thing.  Argh.</p>
+
+<p></p>
+
+<pre>
+RewriteEngine on
+RewriteRule ^alice.html$   bob.html
+# RewriteRule ^test.html(.*)$      /journal/index.php?date=$1&amp;type=$2
+# RewriteRule   ^/journal/(\d\d)/([^/])     /$1
+# RewriteRule   ^/journal/index.php?type=([^&amp;]+)&amp;date=(.*)    /u/$1/$2  [R]
+# RewriteRule   ^/~([^/]+)/?(.*)    /u/$1/$2  [R]
+</pre>
+
+<p>The first one above works, but none of the rest do, even when they're not commented out.</p>

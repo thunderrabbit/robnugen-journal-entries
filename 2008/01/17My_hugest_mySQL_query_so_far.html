@@ -1,0 +1,49 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">4:35pm JST Thursday 17 January 2008 (day 13812)</p>
+
+<p>My biggest, meanest, hairiest, scariest mySQL so far (with some table names changed to imrove security):</p>
+
+<pre>
+(SELECT up.uid, up.status, up.request_date, up.expect_date, up.amount
+ FROM (SELECT r_recs.uid, r_recs.status, r_recs.request_date, r_recs.expect_date, sum(r_recs.amount1) as amount
+       FROM   (
+	SELECT up.uid, ur.status, ur.request_date, ur.expect_date, (ur.amount + ur.bonus_amount) AS amount1
+	     FROM Upper_Remun AS ur
+	     LEFT JOIN User_Publish AS up ON ur.publish_id = up.publish_id
+	     WHERE ur.status =4
+	     AND up.uid =5 
+       UNION ALL SELECT
+	      fo.blogger1_uid as uid
+	      ,fp.status
+	      ,fp.request_date
+	      ,fp.expect_date
+	      ,fp.amount as amount1
+	      FROM
+	      Find_Peyton as fp 
+	      LEFT JOIN
+	      First_Off as fo
+	      USING (firstoff_id)
+	      WHERE fp.status = 4 
+	     AND fo.b1_uid =5 
+       ) AS r_recs 
+       GROUP BY r_recs.uid, r_recs.status, r_recs.request_date, r_recs.expect_date
+ ) AS up)
+    UNION (
+    SELECT uid,
+    STATUS , request_date, expect_date, amounts AS amount
+    FROM Upper_Peyton
+    WHERE uid =5
+    )
+</pre>
+
+<p>Before I started messing with it, it already had the second union.  It took me a while to add the
+second select to top via the UNION ALL, but now that I've done it, I can call my project complete;
+just need to fill in Japanese where I have English.</p>
+
+<p class="date">5:43pm JST</p>
+
+<p>ÃæÃ«¤µ¤ó helped me with about 80% of the Japanese translations, but then had to go do other
+stuff.  I'm left to play online!  I think I'll work on one of *my* websites.</p>

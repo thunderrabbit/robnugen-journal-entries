@@ -1,0 +1,55 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyu Toyoko Line -->
+<p class="date">8:17pm JST Friday  5 December 2008 (day 14135)</p>
+
+<p>Have some functions written that will apply outstanding balances to the new invoices, though
+they don't quite work correctly yet.  Basically I'm having some item_type conflicts; I already have
+item types called amt_paid, and the tax adds that to the apparent amount due and is like, &quot;oh
+hey there's no tax due!&quot;</p>
+
+<p>So I basically need to either redesign how amt_paid is handled, or create new item_types for the
+historical balances.</p>
+
+<p>I'll check the number of times amt_paid appears in the code; if it seems intractable, I'll do
+the add item_type method of fixing this.</p>
+
+<p>Let's see if I can fix it now:</p>
+
+<p>This is basically what I want:</p>
+
+<dl>
+<dt>
+amt_due
+</dt>
+<dd>
+amount due on most recent invoice
+</dd>
+<dt>
+amt_paid
+</dt>
+<dd>
+amount paid on most recent invoice  (could be plural)
+</dd>
+<dt>
+previous_balance
+</dt>
+<dd>
+balance(s) from old invoices' amt_due and amt_paid (combined)
+</dd>
+</dl>
+
+<p>Hmmmm; I have the code open in <a href="http://www.panic.com/coda/">Coda</a>; though I can't
+save it (I never could get local copies to work correctly), I can search through it, and it appears
+that I can adjust the way amt_due is used in the system with the following:</p>
+
+<ol>
+<li><p>save yer old code</p></li>
+
+<li><p>completely rewrite definition of get_overview_amount_due()</p></li>
+
+<li><p>in get_invoice_items_for_output(), include amt_due in the $output_array[items] array</p></li>
+
+<li><p>remove <em>AND item_type != 'amt due'</em> from next query's where clause</p></li>
+</ol>

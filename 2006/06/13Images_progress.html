@@ -1,0 +1,32 @@
+<p class="date">3:28pm JST Tuesday 13 June 2006</p>
+
+<p>Been making forward progress on my images code.  Just now saving
+table creation code, created by phpMyAdmin, which, despite its php
+roots, seems to be worthy of use.  In fact, it's pretty kick ass.</p>
+
+<pre>
+CREATE TABLE `tags` (
+  `tagID` INT( 6 ) UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY ,
+  `tag_sortname` VARCHAR( 20 ) NOT NULL ,
+  `tag_displayname` VARCHAR( 25 ) NOT NULL ,
+INDEX ( `tag_sortname` ) ,
+UNIQUE ( `tag_displayname` )
+) TYPE = MYISAM COMMENT = 'tags created with phpMyAdmin 13 June 2006';
+</pre>
+
+<p class=date>11:39pm JST Tuesday 13 June 2006</p>
+
+<p>Nice.  Now I've got the code so it's being run through CGI::Ajax,
+which will allow me to do neat things without full browser refreshes.
+The first neat thing I got it to do is pull up tags that match a
+search query.  The query is run with each keystroke, so no need to hit
+return.</p>
+
+<p>It's not has fast as I would like it to be, but I pretty much ain't
+even gonna worry 'bout dat.</p>
+
+<p>Next step: to learn how to hide and display things.  Right now the
+tag search field is hardcoded onto the front page. Instead, it needs
+to have a hideable sidebar with various content in it.  Hideable is
+optional, but gotta allow tags/calendar/event/random to be
+browsed/searched</p>

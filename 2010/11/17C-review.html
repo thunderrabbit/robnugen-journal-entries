@@ -1,0 +1,18 @@
+<!-- locations: Chigasaki, chez Soness -->
+<p class="date">3:19am JST Thursday 18 November 2010 (day 14848)</p>
+
+<p>Though the overall code is shocking, I've been working for a ouple days on refreshing my C
+brain.  Just getting back into the grammar and functions and pointers and stuff.  I created a
+<a href="https://github.com/thunderrabbit/sea-review/blob/master/args.c">little thing that plays wth command line args</a>, and then created  a <a href="https://github.com/thunderrabbit/sea-review/blob/master/mysql.c">cute semi-functional command line
+thing to talk to MySQL</a>.</p>
+
+<p>I wanted to review reading and writing files, so for each MySL query, I'm actually creating the
+query, saving it to a file, loading it from the file before executing it.  Also recording each set
+of command line args in a log file.</p>
+
+<p>I've got a terrible solution for how to return a char * from a function.  I'm actually returning
+the value of strcat(destination,final_bit) at the end of the function that creates the string.  I'm
+sure there's got to be a better way.  In one case, I don't even have anything in final bit.  Just
+an empty string.</p>
+
+<p>Oh wait; nevermind.  That particular bit of code isn't used anymore, so I've <a href="https://github.com/thunderrabbit/sea-review/commit/bdb2a5970f649c596a20484b3e0f7a7c749c9bc5#L0R78">removed it</a>.</p>

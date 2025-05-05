@@ -1,0 +1,27 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyo, Shibuya -->
+<!-- locations: Sakura House, Motosumiyoshi -->
+<p class="date">10:06pm JST Thursday  8 November 2007 (day 13742)</p>
+
+<p>Dang.  I've been searching for how to find the title of the current MediaWiki page in my
+extension. I got it this way:</p>
+
+
+<pre>
+<?php
+$wgExtensionFunctions[] = 'efSampleSetup';
+
+function efSampleSetup() {
+    global $wgParser;
+    $wgParser->setHook( 'sample', 'efSampleRender' );
+}
+
+function efSampleRender( $input, $args, $parser ) {
+        return $parser->mTitle->mTextform;
+}
+?>
+</pre>
+
+<p>So *now*, I can write an array somewhere with titles as keys and room exits as values.  Word.</p>

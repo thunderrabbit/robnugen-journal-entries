@@ -1,0 +1,62 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">3:41pm JST Wednesday  2 April 2008 (day 13888)</p>
+
+<p>Good progress today: my task is to create a plan for shifting our production server to running
+files that are an SVN working directory.  The first time I did a test shift, it didn't work at all,
+and didn't produce any errors.  I figured out what else needs to change, cleaned up that code and
+am about to test everything again...  after a little break.</p>
+
+<p class="date">7:16pm JST</p>
+
+<p>Aight; I'm rockin' out of work now.  Got the plan written for tomorrow.  This is my great
+accomplishment for today:</p>
+
+<pre>
+ユーザnameはアップロドをやめて
+
+cd /home01/old/htdocs/templates
+ls -al upload.*
+cp upload.tpl upload.tpl080403
+ls -al upload.*
+mv upload.tpl.no_up upload.tpl
+
+
+まだユーザnameは新しいプロダクトコードをダウンロドして
+cd /home01/
+mv /http_local /http_local_production_mae
+asvn co svn.server.repository/http_local http_local
+cd http_local
+find . -name templates_c
+find . -name templates_c -exec ls -l {}/../ \; | grep templates_c
+
+ユーザrootは新しい httpd.confをインスタールして
+
+cd /usr/local/apache/conf
+ls -al httpd.*
+diff httpd.conf httpd.conf.production_svn
+mv httpd.conf  httpd.conf.before_svn
+mv httpd.conf.production_svn httpd.conf
+/usr/local/apache/bin/apachectl -k graceful
+
+
+===============================================================
+
+大変だったらバークして
+
+ユーザname
+
+cd /home01/old/htdocs/templates
+cp upload.tpl080403 upload.tpl
+
+ユーザroot
+
+cd /usr/local/apache/conf
+ls -al httpd.*
+diff httpd.conf.before_svn httpd.conf
+mv httpd.conf httpd.conf.production_svn
+mv httpd.conf.before_svn  httpd.conf
+/usr/local/apache/bin/apachectl -k graceful
+</pre>

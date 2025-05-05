@@ -1,0 +1,24 @@
+<p class="date">11:39am IST Monday 24 October 2005</p>
+
+<p>I have just about finished my <a
+href="/cgi-local/daysold.pl">daysold calculator</a>!  It's way way way
+better than the old one.</p>
+
+<p>I just want to add the ability for users to request the date for an
+arbitrary Nth day.</p>
+
+<p>Once I do that, I'll make it available from my top navigation bar,
+and make robnugen.com/ refresh to robnugen.com/journal.</p>
+
+<p class="date">1:16pm</p>
+
+<p>Hmmm.  Oliver (*) tried it out and found a bug when selecting 30000
+days.  It told him some date in 1919. That code uses a quick
+convert-the-date-to-a-(long?)word-add-(30000*24*60*60)-seconds-convert-back-to-a-date.
+I bet it's overflowing the word.  I'll try briefly to figure out how
+to make it use more bits in the word, and barring that, I will wipe
+out 30000 as an option, and then when I add user-choice Nth day, write
+a note about the limitation until I figure out a solution, which will
+probably be coding it myself.</p>
+
+<p>(* I got the same 1900 result when I tried 30000, but simply didn't notice.)</p>

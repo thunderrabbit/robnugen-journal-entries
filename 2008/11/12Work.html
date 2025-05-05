@@ -1,0 +1,24 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">8:31pm JST Wednesday 12 November 2008 (day 14112)</p>
+
+<p>Late day at work; our official stop hour is 8pm, but that's gotten a bit lax.  I've gotten to a
+point that I had hoped I might get to more quickly, but I have solved the issue to the point that
+now the next part is stuff I've solved already.</p>
+
+<p>For the record, <a href="http://mootools.net/">mootools</a> rules.</p>
+
+<p>Formatted for clarity:</p>
+
+<pre>
+$$('.select_id').addEvent('change', function() 
+  { 
+     this.getParent().getNext('.inject_select').set('text',
+     'Now we need to do a JSON call and HTML inject the select items that correspond to id '
+     + this.getSelected().get('value'));
+  });
+</pre>
+
+<p>For another record, Andrew is pretty smart.</p>

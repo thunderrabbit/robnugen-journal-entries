@@ -1,0 +1,108 @@
+<!-- tags: -->
+<!-- events: -->
+<p class="date">7:26am JST Tuesday 30 June 2009 (day 14342)</p>
+
+<p>After a day of searching, I'm composing a message to Joomla forum to see how to get en and jp
+translations of Joomla working together.</p>
+
+<pre>
+HI
+
+My goal is to have Japanese and English versions of Joomla working together with Joom!Fish.
+
+According to Joomla! Accredited Translations, because the Japanese language pack has only been done up to 1.5.10
+(see http://joomlacode.org/gf/project/jtranslation/frs/?action=FrsReleaseBrowse&frs_package_id=33),
+
+I installed the Japanese/English (jp-JP/en-GB) version of Joomla 1.5.10 by downloading from http://joomla.jp/ . 
+
+I added Joom!Fish Version V2.0.3 (Flash).
+
+It seems to have installed properly, but when I switch between languages, though some of the
+language changes, the main menu headings (e.g. &quot;main menu&quot;) do not.
+
+The menu headings remain in Japanese.  I installed the en-US language pack to see if that would
+&quot;fill in the blanks&quot; but the basic menu titles still don't change.
+
+In Components > Joom!Fish > Translation, I manually added a Japanese translation for
+&quot;Home&quot; as &quot;ホーム&quot; and that works when I change from EN to JP.  (But if I'm not
+logged in, it doesn't work, but that's a seprate issue.)
+
+The site is visible at http://php.robnugen.com/joomla1.5.10jp/
+
+As you can see, &quot;written by Administrator&quot; changes to &quot;作者： Administrator&quot; in
+Japanese version.   But why don't basic translations like &quot;main menu&quot; seem translated?
+
+Another option would be to install a 1.5.10 English version, and then add 1.5.10 Japanese language
+pack.  But I don't see where to get old versions of Joomla.
+http://joomlacode.org/gf/project/joomla/frs/ seems to only have ways to upgrade to 1.5.11
+
+    Thanks
+    - Rob
+
+server:
+Joomla! version 1.5.10 (can't do 1.5.11 cause Japanese translation is only 1.5.10)
+Joom!Fish version 2.0.3
+PHP version 5.2.6
+Installed at http://php.robnugen.com/joomla1.5.10jp/
+
+
+client:
+Mac OS X 10.5.7
+Firefox 3.0.11
+</pre>
+
+<p class="date">9:22am JST Tuesday 30 June 2009 (day 14342)</p>
+
+<p>And now, I've just read this thread,
+<a href="https://www.joomfish.net/forum/viewtopic.php?f=28&t=3872&p=17461#p17266">https://www.joomfish.net/forum/viewtopic.php?f=28&t=3872&p=17461#p17266</a>,
+which seems to say that the translations (done only to the &quot;Joomla! core&quot;) are so minor
+that most of the work still has to be done.</p>
+
+<p>So now my whole question will focus on installing 1.5.10 in English.</p>
+
+<p>Actually, just for fun, I'm going to install the Japanese 1.5.10 pack in my 1.5.11 installation
+and see how that goes.</p>
+
+<p>Actually I'll make a new 1.5.11 install for that purpose.</p>
+
+<p>Steps:</p>
+
+<ol>
+<li><p>* parallel install Joomla! 1.5.11 in <em><b>en-US</b></em> and NO sample content</p>
+<p><a href="http://php.robnugen.com/joomla1.5.11/2_sample_data_DNE/en_install/installation/index.php">URL</a>
+<br/>admin pw = en
+<br/>table prefix = enSDNE_</p></li>
+
+<li><p>* parallel install Joomla! 1.5.11 in <em><b>jp-JP</b></em> and NO sample content</p>
+<p><a href="http://php.robnugen.com/joomla1.5.11/2_sample_data_DNE/jp_install/installation/index.php">URL</a>
+<br/>admin pw = jp
+<br/>table prefix = jpSDNE_</p></li>
+
+<li><p>* Can language be selected by admin?  user?</p>
+
+<p><b>NO.</b> Turns out, though the installation screens were in Japanese for the Japanese one, the
+only thing that's Japanese now is the title of the site and the &quot;Site Offline&quot; message.</p>
+</li>
+
+<li><p>* install Joom!Fish on NO sample content</p></li>
+
+<li><p>* install Joom!Fish on NO sample content</p></li>
+
+<li><p>* install Japanese language pack 1.5.10</p></li>
+
+<li><p>Does it work?  Do menus flip from English to Japanese?  Stay only in English?  What about
+when I'm logged out?</p></li>
+
+<li><p>If translations can be translated, then manually copy from 1.5.10jp installation and be happy</p></li>
+
+<li><p>Else ask about getting a 1.5.10 version of English Joomla! and install Japanese on that (maybe)</p></li>
+
+<li><p>install English Joomla!  1.5.11 with sample content</p></li>
+
+<li><p>install Joom!Fish with sample content</p></li>
+
+</ol>
+
+<p class="date">2:58pm JST Friday 10 July 2009 (day 14352)</p>
+
+<p>PS: I never posted the above except now for my site..</p>

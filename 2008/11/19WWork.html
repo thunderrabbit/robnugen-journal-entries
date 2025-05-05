@@ -1,0 +1,45 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyu Toyoko Line -->
+<p class="date">8:21am JST Thursday 20 November 2008 (day 14120)</p>
+
+<p>I thought I had written some yesterday.</p>
+
+<p>Finally finished some coding to the point that I could show someone, and basically say it's
+useable.  There are a few issues in data input, but once data is in the DB, it's okay.</p>
+
+<p>Two big issues are with automagic fill-in of data.</p>
+
+<ol>
+<li><p>when I click (add product) to add an item to the contract, a JSON query gets the allowed
+products for this company, and inserts a list item (several fields in a table) into the list of
+products on the screen, which includes a dropdown list of the actual product that will be invoiced
+each month.</p>
+
+<p>However, the price will only be written to the price field when the product selection field
+is changed.  One imperfect solution would be to make the default &quot;please select&quot; so they
+select a product and the price gets filled in.</p>
+
+<p>The optimal solution would be to select the most common product *and* fill in its price.</p></li>
+
+<li><p>Also, if I set some prices of products and then add *new* products, all the newly added
+products are reset to the default, and their prices reset to &quot;&quot;</p></li>
+</ol>
+
+<p>I imagine these two issues are related.  Oh, in fact they *almost* have to be; they are the
+same.  When I add produts, they are set without prices, and when I add products all the prices are
+set to have no price.</p>
+
+<p>Thanks.  THat helps me know where to find the bug.</p>
+
+<p>In related news, having declared the contract creation page &quot;good enough,&quot; I moved on
+to the invoice page, which will use mostly the same code.  Definitely the same objects and
+functions, but just little tweaks because the invoice items have one extra field: the month field,
+indicating for which month the item has been charged.  (the contract indicates in general if they
+must pay ahead of time or after the fact, and the invoice remembers what month in particular.)</p>
+
+<p>I'm going to think of a way to archive this source code; perhaps in my gmail would be an okay
+place.  I can release it publically when it gets replaced...  There's a lot of code that I remember
+writing but don't have anymore.  I've wanted to go back and look at my old code and be like
+&quot;dayyyammm!&quot;</p>

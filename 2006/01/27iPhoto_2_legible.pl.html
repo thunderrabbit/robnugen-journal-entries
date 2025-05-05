@@ -1,0 +1,191 @@
+<p class="date">1:44am SAST Friday 27 January 2006</p>
+
+<p>Nice.   I've basically finished the code for my picture renamer.</p>
+
+<p class="date">11:14am JST Tuesday 11 April 2006</p>
+
+<p>(update: new version available: go to <a
+href="/cgi-local/journal.pl?type=all&date=2006/05/17#iPhoto_2_legible.pl">17
+May 2006</a> in my journal.)</p>
+
+<form><textarea rows="30" cols="150">
+#!/usr/bin/perl
+
+# iPhoto_2_legible.pl v0.0: convert numeric image names to human-readable ones
+#
+# Copyright (C) 2006 Rob Nugen, iPhoto_2_legible@robnugen.com
+# 
+# This program is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License
+# as published by the Free Software Foundation; either version 2
+# of the License, or (at your option) any later version.
+# 
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+# 
+# You should have received a copy of the GNU General Public License along
+# with this program; if not, write to the Free Software Foundation, Inc.,
+# 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
+
+use strict;
+
+my ($DIR,$OUTFILE,$input_dir_name);
+
+my (@list,%filename_changes);
+
+undef %filename_changes;
+
+$DIR = "/journal/images/";
+
+unless ($input_dir_name = $ARGV[0]) {
+    print "usage: $0 iPhoto-created_directory_name\n";
+    exit;
+}
+
+$input_dir_name = $DIR . $input_dir_name;
+
+unless (-d $input_dir_name) {
+    print "can't find $input_dir_name\n";
+    exit;
+}
+
+print "We are processing $input_dir_name\n";
+@list = `ls "$input_dir_name"`;
+
+# First we need to find all the .html files in the main directory and extract name-change info from them.
+foreach my $list (@list) {
+    chop $list;   # remove the CR from the end
+    my $name = "$input_dir_name$list";
+    if ($name =~ /.html$/) {
+	print "Extracting name-change info from $name\n";
+	&update_hash_of_changes($name, \%filename_changes);
+    }
+}
+
+# Now smurf the filenames so they don't have wack chars in them.
+foreach my $key (sort keys %filename_changes) {
+    # on my website, I don't want spaces in filenames.  Call me old fashioned.
+    $filename_changes{$key} =~ s/ /_/g;
+    $filename_changes{$key} =~ s/(,|\')//g;
+    $filename_changes{$key} .= ".jpg";
+}
+
+## Now we will check to see if there are any repeated values, which would result in lost files
+my %reversed_hash = reverse %filename_changes ;
+my %no_duplicate_values_hash = reverse %reversed_hash;
+
+my $duplicate_names = 0;
+
+while (my ($key, $value) = each %filename_changes) {
+    unless (exists $no_duplicate_values_hash{$key}) {
+	print "$value is a repeated filename.\n";
+	$duplicate_names = 1;
+    }
+}
+
+if ($duplicate_names) {
+    print "Some names are duplicated; fix these then run again.\n";
+    exit;
+}
+
+print "These are the changes we plan to make:\n";
+foreach my $key (sort keys %filename_changes) {
+    print "$key = $filename_changes{$key}\n";
+}
+
+# exit;
+
+foreach (@list) {
+    if (/-Images$|-Thumbnails$/) {
+	print "About to rename files in $_\n";
+	my $update_counter = 0;
+	my $success_counter = 0;
+	foreach my $key (keys %filename_changes) {
+	    if (-f "$input_dir_name$_/$key") {
+		$update_counter ++;
+		$success_counter ++ if rename "$input_dir_name$_/$key", "$input_dir_name$_/$filename_changes{$key}";
+	    }
+	    else 
+	    {
+		print "$input_dir_name$_/$key is not a file.\n";
+	    }
+	}
+	print $update_counter - $success_counter, " errors updating $update_counter files.\n";
+    }
+    elsif (/-Pages$/) {
+	my $page_dir = "$input_dir_name$_";
+	my @page_list;
+	print "We are updating pages in $page_dir\n";
+	@page_list = `ls "$page_dir"`;
+	foreach my $page (@page_list) {
+	    chop $page;
+	    my $page_name = "$page_dir/$page";
+	    print "updating $page_name\n";
+	    open (IN, "$page_name") or die "Can't open $page_name for reading";
+	    local $/;     # $/ is the eoln marker.  This makes file reads be file slurps!
+	    my $page_contents = &lt;IN&gt;;
+	    close IN;
+
+	    # Figure out what N.jpg we are looking for; it should match the filename ImageN.html
+	    my ($num) = $page_name =~ m/Image(\d+)\.html$/m;
+	    my $key = "$num.jpg";
+	    my ($A, $B) = ($key, $filename_changes{$key});
+
+	    $page_contents =~ s/$A/$B/;
+	    
+	    open (OUT, "&gt;$page_name") or die "Can't open $page_name for writing";
+	    print OUT $page_contents;
+	    close OUT;
+	}
+    }
+    elsif (/\.html$/) {
+	my $page_name = "$input_dir_name$_";
+
+	print "updating $page_name\n";
+	open (IN, "$page_name") or die "Can't open $page_name for reading";
+	local $/;     # $/ is the eoln marker.  This makes file reads be file slurps!
+	my $page_contents = &lt;IN&gt;;
+	close IN;
+
+	foreach my $key (keys %filename_changes) {
+	    my ($A, $B) = ($key, $filename_changes{$key});
+	    $page_contents =~ s|/$A|/$B|;
+	}
+
+	open (OUT, "&gt;$page_name") or die "Can't open $page_name for writing";
+	print OUT $page_contents;
+	close OUT;
+
+    }
+}
+
+####################################################################################
+#
+#  sub update_hash_of_changes
+#
+#  This creates/appends a hash that will solve the core problem of renaming
+#  braindead named files into files with cool names.
+#
+#
+####################################################################################
+sub update_hash_of_changes {
+    my $name;               # the filename where we'll get the HTML that relates N.jpg to better filenames.
+    my $filename_changes;   # this is the hash that dictates how to rename the N.jpg files
+
+    ($name, $filename_changes) = @_;
+
+    my $index_contents;  # the HTML of the iPhoto-created main page.
+
+    open (IN, "$name") or die "Can't open $name for reading";
+    local $/;     # $/ is the eoln marker.  This makes file reads be file slurps!
+    $index_contents = &lt;IN&gt;;
+    close IN;
+
+    my @local_array = $index_contents =~ m/(\d+\.jpg)["&gt;&lt;\/a&gt;\sb]*r&gt;&lt;b&gt;([^&lt;]*)&lt;\/b&gt;/g;
+
+    %filename_changes = (%filename_changes, @local_array);
+
+}
+</textarea></form>

@@ -1,0 +1,58 @@
+<!-- tags: code, javascript, date, sweet  -->
+<!-- events: made some awesome javascript date field code -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">1:55pm JST Friday 26 October 2007 (day 13729)</p>
+
+<p>Oh sweet.  I am really happy with this awesome code I put together.  Basically it will nicely
+set start and end month/date fields based on the setting of the year field.</p>
+
+<p>Here's the javascript code:  I'm going to go to lunch before I explain it or make a working
+example.</p>
+
+<pre>
+function changeMonthAndDay(nameID,start_bool)    // yearID is something like "regist_start_year
+{
+	if(start_bool == null) { start_bool = true; }    // start_bool == true means start of year / month.  false means end of year / month
+	
+	var name_prefix = nameID.substring(0,nameID.length-4);   // regist_start_year  => regist_start_   ||  regist_start_mnth = regist_start_
+	var yearID = name_prefix + "year";
+	var monthID = name_prefix + "mnth";
+	var dayID = name_prefix + "day";
+	var year = document.getElementById(yearID);
+	var month = document.getElementById(monthID);
+	var day = document.getElementById(dayID);
+	if (year.selectedIndex > 0)
+	{
+		// change the month to the first or last month depending on start_bool
+		if(month.selectedIndex == 0) 
+		{
+			if (start_bool) {	month.selectedIndex = 1 }
+			else
+			{
+				month.selectedIndex = 12;
+			}
+		}
+		
+		// change the day to the first or last day depending on start_bool
+		if (start_bool) {
+			if (day.selectedIndex == 0)
+			{
+				day.selectedIndex = 1
+			}
+		}
+		else
+		{
+			var dd = new Date(document.getElementById(yearID).options[year.selectedIndex].value, month.selectedIndex, 0);
+			if ((day.selectedIndex == 0) || (day.selectedIndex > dd.getDate()))
+			{
+				day.selectedIndex = dd.getDate();
+			}
+		}
+	}
+	else
+	{
+		month.selectedIndex = 0;
+		day.selectedIndex = 0;
+	}
+}
+</pre>

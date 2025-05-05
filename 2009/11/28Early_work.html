@@ -1,0 +1,32 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Shibuya, work -->
+<p class="date">12:17pm JST Saturday 28 November 2009 (day 14493)</p>
+
+<p>Got a good start on my first page on the front end of the website.  These are way way way easier
+than the back end.  Not reading any data from the users so nothing to validate; just grab an id
+(okay we have to validate an id, big whoop, I can do that with my eyes closed):</p>
+
+<pre>
+typing this with my eyes closde.  Really:
+
+$id = intval($_GET]'id']);
+if(is_numeric($id)
+{
+    // process that id
+}
+else
+{
+    // bad id
+}
+</pre>
+
+<p>Ah, one mistake: the fisrt line should be $id = intval($_GET['id']); but that's just cause I was
+nervous about mistyping weird characters with my eyes closde.</p>
+
+<p>Oh one more mistake: should be two close parenthesis on the next line.</p>
+
+<p>Okay, so maybe I can't validate ids with my eyes closed, but they sure are easier than
+validating HTML input, date input, phone number input, etc etc etc across multiple input pages eeek!</p>
+

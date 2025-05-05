@@ -1,0 +1,47 @@
+<p class="date">2:47am IST Wednesday 26 October 2005</p>
+
+<p>I got my <a href="/cgi-local/daysold.pl">daysold code</a> working
+for all cases of adding or subtracting days to/from dates to see when
+I'll be that many days old.  The code is pretty ingenious, I think,
+once I finally figured it out.  But the real champ is perl.</p>
+
+<p>I haven't even optimized it *at all* and perl whizzes through
+99999 / 30 iterations faster than it takes me to notice.</p>
+
+<pre>
+sub incDate {
+    my ($year, $month, $date, $add) = @_;
+
+    $$date += $add;
+
+    # now check to see if we went over $month length
+    while ($$date > $daysInMonths[$$month]) {
+	$$date -=  $daysInMonths[$$month];
+	&incMonth($year, $month,1);
+    }
+    # now check to see if we went under 1
+    while ($$date < 1) {
+	&incMonth($year, $month, -1);
+	$$date +=  $daysInMonths[$$month];
+    }
+}
+
+sub incMonth {
+    my ($year, $month, $add) = @_;
+    $$month += $add;
+    while ($$month > 12) {
+	$$month -= 12;    # if $add put $$month == 15, it will become 3
+	&incYear($year,1);  # pointer to year, as sent to &incMonth
+    }
+    while ($$month < 1) {
+	$$month += 12;    # if $add put $$month == -2, it will become 10
+	&incYear($year,-1);  # pointer to year, as sent to &incMonth
+    }
+}
+
+sub incYear {
+    my ($year, $add) = @_;
+    $$year += $add;
+    &setFeb($$year);
+}
+</pre>

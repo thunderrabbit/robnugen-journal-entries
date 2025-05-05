@@ -1,0 +1,108 @@
+<pre>
+HI Joe
+
+I came across your code called Mailer on github a bit ago, and, given that you have several
+github-hosted Cake-plugins that appear to have straightforward installation instructions, I'm
+guessing you kinda know what you're doing.  :-)
+
+I'd like to ask a couple of Qs, after I give a bit of background:
+
+I have some Perl code I wrote some years ago that sends emails to my list of a few hundred names.
+http://robnugen.com/wiki/Rob_updates.pl
+
+The feature that my code has that no other email sender has (that I've found) is "automatic address
+removal," meaning basically I want to periodically require users to say "I wanna stay on the list."
+I can set each users delete-date independently.  So my family won't be asked until the year 2100,
+but the guy I just met at the bar will be removed in 2011, unless he requests otherwise.
+
+I'd like to rewrite my code in a bit more robust manner, so I'm looking at Cake and possibly forking
+your Mailer as a starting point.
+
+My question:
+
+does the "automatic address removal" feature seem easy to add to your code?
+(I won't ask you to add it, but I bet you know your code offhand better than I could figure out in a
+couple hours)
+
+I think it would just require two bits:
+
+1) adding a removal date field to the user table (might get messy if that involves changing the Cake table)
+
+2) then checking that date field when processing and do this:
+http://robnugen.com/wiki/Rob_updates.pl#faux-technical_explanation_of_automatic_email_removal
+
+   Cheers
+   - Rob
+
+-- 
+http://robnugen.com
+</pre>
+
+<pre>
+Rob, 
+
+Firstly, thanks for the email! Sounds like a pretty neat setup you've got going on.
+
+While you certainly could accomplish what you're doing currently with CakePHP, the functionality for
+periodically opting "back" into the email would have to be done outside of the Mailer plugin, reason
+being that it has no concept of outside rules that it should adhere to when sending email.
+
+You could easily utilize it however for sending your email after it's been vetted through your
+processes. This way you would still maintain your functionality without having to merge it into the
+plugin while still letting it do what it does best, send the email.
+
+I hope this answers your question. If you have any others please feel free to drop me a line.
+
+Sincerely,
+Joe
+</pre>
+
+<pre>
+HI Joe
+
+And thank you for your email!
+
+I scanned through the source of Mailer today, and distinctly did not notice any recipient handling
+code... but yes, as you say, plenty of code to handle sending messages.
+
+I'm guessing you must have some code not in the Mailer source that instantiates the classes defined
+in Mailer.  In fact, I don't think I saw any code that wasn't a class definition.  Is that right?
+
+Given what I saw in the code, and what you're saying below, I think I'd need to write a class that
+just maintains the statii of possible recipients, and then some code that orchestrates everything.
+
+Do you have examples of code that instantiates and calls Mailer classes?
+
+  - Rob
+
+PS: though I'm replying immediately after yours, I'll probably not be able to get back to this until
+after the weekend (I'm going to Hong Kong for a workshop) (unless I can't get out of Chiang Mai at
+all due to protests, in which case I'll have plenty of time to play online.)
+</pre>
+
+<pre>
+Rob,
+The process for mailing is fairly straightforward. You add emails using the QueueComponent which
+lines up the emails for sending, from there the QueueShell attempts to send the emails out using
+your "transport" of choice. The plugin ships with a couple "transports" already available.
+
+If the QueueShell is unsuccessful it will increase the "tries" count for the email in question. It
+will, by default, attempt to send the email three times. If it is successful it will mark the
+"processed" column in your database to "1" to indicate a successful mailing. The system also
+defaults to using the "debug transport" for mailing which lets you monitor what it's trying to
+do. You can change this by passing a parameter when you start the shell.
+
+We have a crontab that runs the QueueShell periodically which allows it to clear out the email
+queue. You can execute the QueueShell like any other CakePHP shell. Here's a quick example of
+starting the QueueShell and passing it various parameters...
+
+$ cake mailer.queue process -transport pear -test true -limit 100
+
+This would start the QueueShell and tell it to begin processing. It would attempt to use the PEAR
+transport (it ships with this) and it will do so in its testing mode (it won't actually send
+anything) and it will only work on the first 100 emails that are waiting to go out.
+
+Hopefully this helps get you on your feet. Have fun in Hong Kong and be safe!
+
+-Joe
+</pre>

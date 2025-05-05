@@ -1,0 +1,38 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">9:24pm JST Tuesday 11 December 2007 (day 13775)</p>
+
+<p>Note to self:</p>
+
+<p>Self, if you need to write a hairy mySQL query, and you have a choice between</p>
+
+<ul><li>editing, saving, running code</li>
+<li>using phpMyAdmin</li></ul>
+
+<p>use phpMyAdmin.</p>
+
+<p>What I couldn't do all day (I'm talkin' 8 hours) via the first method, I did in 1 hour the
+second way.  Here is the resulting mySQL:</p>
+
+<pre>
+SELECT um.uid, mi.mission_type, up.mission_id, up.publish_id, ur.status
+FROM User_Remun AS ur
+RIGHT JOIN User_Publish AS up
+USING ( publish_id )
+LEFT JOIN Mission_Info AS mi
+USING ( mission_id )
+LEFT JOIN User_Master AS um
+USING ( uid )
+WHERE uid =4
+AND mi.start_term &lt;= now( ) AND mi.end_term &gt;= now( )
+AND ((mi.mission_type = 'normal' AND ur.status IS NULL)
+     OR (mi.mission_type = 'monitor' AND ur.status = 9))
+{AND mi.mission_id = 46}
+</pre>
+
+<p>The last line is optional, depending on whether the user said &quot;tell me what I can do&quot;
+or asked &quot;can I do this?&quot;</p>
+
+<p>All in one beautiful query, that merges four (4) tables and runs in about 0.0006 seconds...</p>

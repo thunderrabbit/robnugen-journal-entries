@@ -1,0 +1,15 @@
+<p class=date>2:34am JST Saturday 22 January 2005</p>
+
+<p>I'm up way too late for my own good of waking up tomorrow at 7:40,
+but I got my days old thing working nearly the way I want.  Given
+perfect input, it will calculate the date I will be a certain number
+of days old.  It uses perl's localtime and timelocal which means two
+things:  1) it's fast.  2) it doesn't have a very big range.</p>
+
+<p>The previous code could mess with dates between 1568 (?) and 9999.
+This code can only do dates from 1970 to 2020 or so.  Not so
+impressive.  But it's fast.</p>
+
+<p>I don't really care to write a version that can handle a larger
+span of dates.  I just want to know how old *I* am, and 1970 as a
+bottom range fits that bill.  I might might might do more later.</p>

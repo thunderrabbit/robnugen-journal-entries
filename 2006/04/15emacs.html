@@ -1,0 +1,83 @@
+<p class="date">9:49pm JST Saturday 15 April 2006 (day 13170)</p>
+
+<p>Kick ass.</p>
+
+<p>All this time messin' around with emacs has just paid off
+nicely...  I've just finished tweaking sgml-mode.el so that I can
+automatically print a full date in Japanese format:</p>
+
+<p class="date">2006年4月15日（土）21時51分</p>
+
+<p>Just like that.</p>
+
+<p>For the record, here is the code:</p>
+
+<pre>
+(define-skeleton html-full-japanese-date
+  "Prints the full date in Japanese format in a class=\"date\" paragraph."
+  nil
+  ;; set the Japanese symbol for the day of the week
+  '(setq j-dow (cond 
+		((string= (format-time-string "%w") "0") "日")
+		((string= (format-time-string "%w") "1") "月")
+		((string= (format-time-string "%w") "2") "火")
+		((string= (format-time-string "%w") "3") "水")
+		((string= (format-time-string "%w") "4") "木")
+		((string= (format-time-string "%w") "5") "金")
+		((string= (format-time-string "%w") "6") "土")))
+
+  (if (bolp) nil ?\n)
+  "&lt;p class=\"date\"&gt;" (format-time-string "%Y年%-1m月%e日（")
+                       j-dow
+                       (format-time-string "）%H時%M分")
+  (if sgml-xml-mode "&lt;/p&gt;")
+  "\n\n&lt;p&gt;" _ (if sgml-xml-mode "&lt;/p&gt;"))
+</pre>
+
+<p>(I've replaced &lt; and &gt; with their &amp; equivalents.  Also,
+on my browser, the backslash characters are showing up as Y yen
+symbols.  They should be backslashes.)</p>
+
+<p>- - - -</p>
+
+<p>Also, I had been using some crazy function in my .emacs file to
+print the full (English) date, but I've moved that to sgml-mode.el as
+well:</p>
+
+<pre>
+(define-skeleton html-full-date
+  "Prints the full date in a class=\"date\" paragraph."
+  nil
+  (if (bolp) nil ?\n)
+  "&lt;p class=\"date\"&gt;" (format-time-string "%-1l:%M%P %Z %A %e %B %Y")
+  (if sgml-xml-mode "&lt;/p&gt;")
+  "\n\n&lt;p&gt;" _ (if sgml-xml-mode "&lt;/p&gt;"))
+</pre>
+
+<p>Here they are in action:</p>
+
+<p class="date">10:01pm JST Saturday 15 April 2006</p>
+
+<p class="date">2006年4月15日（土）22時01分</p>
+
+<p>Awwright.</p>
+
+<p>(Feel free to use the code as per GNU Copyleft.  I can barely take
+credit for it myself.)</p>
+
+<p class="date">2006年4月16日（日）00時08分</p>
+
+<p>Kick even more ass!  I was just reading about the M-x compile
+command, and see that it will automagically go to the line number of a
+particular error message..  The interface is a bit crude, but this bit
+of code added to ~/.emacs file automatically sets the compilation
+command for perl files.</p>
+
+<p>(g, you might be interested in this:)</p>
+
+<pre>
+(add-hook 'perl-mode-hook 
+	  (lambda ()
+	    (set (make-local-variable 'compile-command)
+		 (concat "perl -wc " (buffer-file-name)))))
+</pre>

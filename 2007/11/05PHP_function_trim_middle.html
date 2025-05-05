@@ -1,0 +1,46 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">1:42pm JST Monday  5 November 2007 (day 13739)</p>
+
+<p>I've found need for a trim_middle function in PHP.  Basically I'm printing URLs, and if they are
+something like</p>
+
+<pre>
+http://super.really.long.urls/so/long/they/cannot/really_fit_in_one/field,then
+</pre>
+
+<p>I'd like to reduce the middle of the URL to &quot;[...]&quot;</p>
+
+<pre>
+http://super.really.long.urls[...]/really_fit_in_one/field,then
+</pre>
+
+<p>the field will look a bit nicer and still have useful information.</p>
+
+<p>So far, the code I have is:</p>
+
+<pre>
+&lt;?php
+/***********************************************/
+//     echo trim_middle("this is a long string", 10);
+//     thi[...]ng
+/***********************************************/
+function trim_middle($string, $len = 33, $center = "[...]")
+{
+
+	if(strlen($string) &lt;= $len)
+	{
+		return($string);
+	}
+	else
+	{
+		return "too long";
+	}
+}
+?&gt;
+</pre>
+
+<p>Okay, now the code I have is
+here: <a href="http://robnugen.com/wiki/index.php?title=PHP_functions:trim_middle">PHP Function: trim_middle</a></p>

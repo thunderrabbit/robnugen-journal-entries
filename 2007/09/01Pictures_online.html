@@ -1,0 +1,72 @@
+<!-- tags:  -->
+<!-- events:  -->
+<!-- people:  -->
+<!-- locations: Sakura House, Motosumiyoshi -->
+<p class="date">8:54pm JST Saturday  1 September 2007 (day 13674)</p>
+
+<p>I've made my picture uploading process more efficient by not requiring my brain to think as much
+during the process of uploading.  The step I've removed is one of creating a &quot;directory
+path&quot; for the images.  Each time I would have to figure out a proper structure, and likely
+make it match the directory into which they would be copied.</p>
+
+<p>However, I wasn't keeping the navigation index updated, so the directory path in the index.shtml
+file was being wasted.</p>
+
+<p>SO, I don't specify that line any more.  Just convert using iPhoto_2_legible which makes the
+image file names human readable and make the index.html filename *not* human readable (so that the
+directory listing won't be visible if people go to just that directory name.</p>
+
+<p>Before I forget, I should upload the updated version of iPhoto_2_legible.</p>
+
+<p class="date">7:33am JST Sunday  2 September 2007 (day 13675)</p>
+
+<p>Slept, woke up, back to work on uploading pics.</p>
+
+<p>Uploaded pictures
+of <a href="http://robnugen.com/images/travel/japan2007/around_town/denentoshi_line/construction/sakurashinmachi/">Sakurashinmachi
+construction</a>.</p>
+
+<p>Wondering how to
+do <a href="http://groups.google.com/group/gnu.bash/browse_thread/thread/79f6b308d2c208da/409c98e2c5e4cf6f?#409c98e2c5e4cf6f">command
+line replacement in bash</a>:</p>
+
+<pre>
+Hello
+
+I'd like to replace a word in my most recent command with a new word.
+
+For example, I just ran
+
+&gt; scp -r  local_dir_A/  mydomain.com:directory/
+
+and now I want to do
+
+&gt; scp -r  local_dir_B/  mydomain.com:directory/
+
+I can do it with a substitution, but it requires actually explicitly
+typing "local_dir_A" again:
+
+&gt; ^local_dir_A^local_dir_B^
+
+Is there some quick way to tell the substitution to use the 2nd
+argument of the previous command?
+
+After reading documentation, I've tried the following:
+
+&gt; ^:2^local_dir_B^
+&gt; ^2-2^local_dir_B/^
+&gt; ^!!2-2^local_dir_B^
+&gt; ^!2^local_dir_B^
+&gt; ^!2-2^local_dir_B^
+&gt; !!:s%:2%local_dir_B/%
+&gt; !:s%:2%local_dir_B%
+&gt; !:s%!:2%local_dir_B%
+
+These all result in "substitution failed"
+
+Any help is appreciated.
+
+Thanks in advance!
+
+   - Rob
+</pre>

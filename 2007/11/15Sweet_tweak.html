@@ -1,0 +1,151 @@
+<!-- tags: nerd, code, mySQL, query, tweak -->
+<!-- events: figured out some mySQL code -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">6:12pm JST Thursday 15 November 2007 (day 13749)</p>
+
+<p>Hells yeah.  After procrastinating / reading mySQL toots about joins and temporary tables, I
+felt I had enough knowledge to tweak the following SELECT:</p>
+
+<pre>
+    SELECT
+        um.*
+        ,us.url
+        ,us.site_name
+        ,cl.category_name
+    FROM
+        (
+            SELECT
+                um.uid ,um.name ,um.nickname ,um.pc_email ,um.sex ,um.prefecture_code
+                ,um.regist_date ,um.apply_cnt ,um.deny_cnt ,um.consent_cnt ,um.request_cnt
+                ,um.no_pay_cnt ,um.pay_cnt ,um.max_consent_date ,um.status
+            FROM 
+                (SELECT 
+                    um.*
+                    ,count(up.status) as apply_cnt
+                    ,count(case when ur.status = 2 then 1 else  null end) as deny_cnt
+                    ,count(case when ur.status = 3 then 1 else  null end) as consent_cnt
+                    ,count(case when ur.status = 4 then 1 else  null end) as request_cnt
+                    ,count(case when ur.status = 5 then 1 else  null end) as no_pay_cnt
+                    ,count(case when ur.status = 6 then 1 else  null end) as pay_cnt
+                    ,max(ur.consent_date) as max_consent_date
+                FROM
+                    User_Master as um 
+                    left join User_Publish as up on um.uid = up.uid
+                    left join User_Remun as ur   on up.publish_id = ur.publish_id
+                GROUP BY 
+                    um.uid
+                )  as um
+                left join User_Site as us on um.uid = us.uid and us.status &lt;&gt; 9
+                left join Category_List as cl on us.caid = cl.caid
+                {$this-&gt;_where_sql}
+            GROUP BY
+                um.uid
+            ORDER BY
+                um.uid DESC
+            {$limit_sql}
+        ) as um
+        left join User_Site as us on um.uid = us.uid and us.status &lt;&gt; 9
+        left join Category_List as cl on us.caid = cl.caid
+        {$this-&gt;_order_by_string}
+</pre>
+
+<p>Cause when I first looked at what I had to grok, I was like, &quot;eep!&quot;</p>
+
+<p>But, after the toots and a break, emailing AaronE, and shtuff, I looked at the code and realized it was
+actually an easy change:</p>
+
+<pre>
+    SELECT
+        um.*
+        ,us.url
+        ,us.site_name
+        ,cl.category_name
+    FROM
+        (
+            SELECT
+                um.uid ,um.name ,um.nickname ,um.pc_email ,um.sex ,um.prefecture_code
+                ,um.regist_date ,um.apply_cnt ,um.deny_cnt ,um.consent_cnt ,um.request_cnt
+                ,um.no_pay_cnt ,um.pay_cnt ,um.max_consent_date ,um.status
+            FROM 
+                (SELECT 
+                    um.*
+                    ,count(up.status) as apply_cnt
+                    ,sum(up.mission_score) as mission_score_total
+                    ,count(case when ur.status = 2 then 1 else  null end) as deny_cnt
+                    ,count(case when ur.status = 3 then 1 else  null end) as consent_cnt
+                    ,count(case when ur.status = 4 then 1 else  null end) as request_cnt
+                    ,count(case when ur.status = 5 then 1 else  null end) as no_pay_cnt
+                    ,count(case when ur.status = 6 then 1 else  null end) as pay_cnt
+                    ,max(ur.consent_date) as max_consent_date
+                FROM
+                    User_Master as um 
+                    left join User_Publish as up on um.uid = up.uid
+                    left join User_Remun as ur   on up.publish_id = ur.publish_id
+                GROUP BY 
+                    um.uid
+                )  as um
+                left join User_Site as us on um.uid = us.uid and us.status &lt;&gt; 9
+                left join Category_List as cl on us.caid = cl.caid
+                {$this-&gt;_where_sql}
+            GROUP BY
+                um.uid
+            ORDER BY
+                um.uid DESC
+            {$limit_sql}
+        ) as um
+        left join User_Site as us on um.uid = us.uid and us.status &lt;&gt; 9
+        left join Category_List as cl on us.caid = cl.caid
+        {$this-&gt;_order_by_string}
+</pre>
+
+<p>Except for one detail.  It didn't work!</p>
+
+<p>But, it didn't break, so I was halfway okay.</p>
+
+<p>I scanned it again...  Ohhhhh.  Of course!</p>
+
+<pre>
+    SELECT
+        um.*
+        ,us.url
+        ,us.site_name
+        ,cl.category_name
+    FROM
+        (
+            SELECT
+                um.uid ,um.mission_score_total ,um.name ,um.nickname ,um.pc_email ,um.sex ,um.prefecture_code
+                ,um.regist_date ,um.apply_cnt ,um.deny_cnt ,um.consent_cnt ,um.request_cnt
+                ,um.no_pay_cnt ,um.pay_cnt ,um.max_consent_date ,um.status
+            FROM 
+                (SELECT 
+                    um.*
+                    ,count(up.status) as apply_cnt
+                    ,sum(up.mission_score) as mission_score_total
+                    ,count(case when ur.status = 2 then 1 else  null end) as deny_cnt
+                    ,count(case when ur.status = 3 then 1 else  null end) as consent_cnt
+                    ,count(case when ur.status = 4 then 1 else  null end) as request_cnt
+                    ,count(case when ur.status = 5 then 1 else  null end) as no_pay_cnt
+                    ,count(case when ur.status = 6 then 1 else  null end) as pay_cnt
+                    ,max(ur.consent_date) as max_consent_date
+                FROM
+                    User_Master as um 
+                    left join User_Publish as up on um.uid = up.uid
+                    left join User_Remun as ur   on up.publish_id = ur.publish_id
+                GROUP BY 
+                    um.uid
+                )  as um
+                left join User_Site as us on um.uid = us.uid and us.status &lt;&gt; 9
+                left join Category_List as cl on us.caid = cl.caid
+                {$this-&gt;_where_sql}
+            GROUP BY
+                um.uid
+            ORDER BY
+                um.uid DESC
+            {$limit_sql}
+        ) as um
+        left join User_Site as us on um.uid = us.uid and us.status &lt;&gt; 9
+        left join Category_List as cl on us.caid = cl.caid
+        {$this-&gt;_order_by_string}
+</pre>
+
+<p>And now it works poifectly.</p>

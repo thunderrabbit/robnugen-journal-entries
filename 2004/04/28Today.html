@@ -1,0 +1,8 @@
+<p class=date>12:58am JST Thursday 29 April 2004</p>
+
+<p>Though it's minimal (only displays students' IDs (no names)), my
+student reminder thing works.  Awesome.  It didn't work today because
+I snagged the date as $year + 1900 . "$mon/$mday" but the month is
+returned with 0 = January, so it returned 3 which I was interpreting
+as March instead of April.  Fixed that, cleaned up the code a bit,
+and now it works.</p>

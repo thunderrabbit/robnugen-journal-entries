@@ -1,0 +1,23 @@
+<!-- tags: -->
+<!-- events: -->
+<!-- people: -->
+<!-- locations: Tokyo, Shibuya -->
+<p class="date">6:49pm JST Thursday 18 September 2008 (day 14057)</p>
+
+<p>On the test box, my login doesn't have permission to create new tables, so I logged onto the
+closer-to-live staging machine and created some tables in an old DB made for Malek's brother some
+months ago.  Since Jalal is no longer in Japan, I figured he won't mind, nor even notice, so.  No
+biggie.</p>
+
+<p>Just about to start doing some SQL queries to throw some data around, but gotta go to lesson with
+Yurika right about now.</p>
+
+<p>But I did do this much:</p>
+
+<pre>
+INSERT INTO invoice_items (invoice_id, item_name, item_price, item_type, product_id)
+SELECT '1', item_name, item_price, item_type, product_id FROM contract_items
+WHERE contract_id='1';
+</pre>
+
+<p>It's a start.</p>

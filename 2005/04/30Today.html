@@ -1,0 +1,61 @@
+<p class=date>12:19pm JST Sunday 01 May 2005</p>
+
+<p>After work yesterday I wondered if Hitomi left her computer so I
+could write some files to DVD.  My computer can't write DVD, but can
+read them.  She did, so I copied all my files to her computer.. well,
+all my images and music and non porn movies and the contents of my
+desktop to her computer.  I must give props to Mac for making this
+super easy.  I used a straight cable (not crossover) to connect the
+machines directly and it worked easily, just by turning on Sharing on
+Hitomi's computer.  I turned off her airport card so no one could
+access her machine wirelessly while sharing was enabled.</p>
+
+<p>She bought Roxio Toast, which makes burning CDs and DVDs a snap.
+Somethng that Panther (OS X 10.3) can't do with Finder, but apparently
+Tiger (OS X 10.4) will be able to do.  I might get Tiger, but I may
+wait until I get a new machine.  Hopefully that won't be for a while.
+I'm interested to know what jungle cat will be next.  I can't think of
+any more such names that end with R, discounting jaguar, which was the
+first version? 10.2?  I don't know if 10.1 had a cat name.</p>
+
+<p>ANYWAY, the pics directory was 5 gigs, and the music directory was
+5 gigs and I couldn't think of a logical way to split them.  So I just
+tarred all four directories into a tarball using -L to limit the size
+f the archive.  I used google to determine how many kilobytes in 4.7
+gigabytes, but tarballs that big were too big.  4.4 gigs of writable
+space on the DVDs.  I tried again, but was over by like 4 k.  Tried
+again and got it just the right size for the DVDs.  burned 3 DVDs
+overnight.</p>
+
+<pre>
+tar --create -L 4596699 --file rob_arc_2005apr30.tar rob
+</pre>
+
+<p>rob is the directory where all my files were.</p>
+
+<p>Actually I burned the first two volumes then realized her HD ran
+out of space during the burn of the third, but tar didn't report an
+error; it just finished the file with 52<em>K</em> remaining on her HD
+and waited for me to clear space for the next one.</p>
+
+<p>I had burned the first two .tar files, but wasn't going to waste
+space burning the third; it was only 2 something gigs.</p>
+
+<p>So I wiped all the .tar files from the HD and recreated them, and
+had at most two at a time on the drive.  Toast writing one to DVD and
+tar creating the next.</p>
+
+<p>I burned all three DVDs that way, and wondered if the two copies of
+the first volume of the archive was the same on each copy of DVD 1 and
+DVD 2.  Wiped all the files from the HD then copied 1 from the DVD and
+used diff to compare it to the next DVD.  Both copies were exactly the
+same.  Awesome.  Thank you, tar.  Thank you, Toast.</p>
+
+<p><em>That</em> basically took all night and this morning as I was
+leaving for OM, I was neeeearly finished copying the third DVD to
+make a duplicate of it as well.  I left Hitomi's computer running
+while I'm at work (and probably while I meet Satoko tonight).</p>
+
+<p>The next step is to use tar to test extraction of the files.  I
+was hoping to do that today while at work, but it will have to wait
+until tonight.</p>
