@@ -1,6 +1,6 @@
 x0x0x0*
 .plandex/
 .aider*
-journal/*.rss
-journal/preformat*
-journal/ls-1R2.txt
+*.rss
+preformat*
+ls-1R*
