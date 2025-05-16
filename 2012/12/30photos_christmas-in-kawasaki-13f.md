@@ -10,6 +10,8 @@ draft: false
 
 [![2012 dec 30 puzzles in japan 1000](//b.robnugen.com/journal/2012/Japan/thumbs/2012_dec_30_puzzles_in_japan.jpeg)](//b.robnugen.com/journal/2012/Japan/2012_dec_30_puzzles_in_japan_1000.jpeg)
 
-<p class="note">I just found this photo on 16 May 2025 while filtering photos on FS.</p>
+<p class="note">I just found these photos on 16 May 2025 while filtering photos on FS.</p>
 
-I remember the day, but I don't know were all those puzzles went!  Did Fred bring them from and back to USA?  I don't recall playing with all of them; just some of them.
+I remember the day, but I don't know were all those puzzles went!  Did
+Fred bring them from and back to USA?  I don't recall playing with all
+of them; just some of them.

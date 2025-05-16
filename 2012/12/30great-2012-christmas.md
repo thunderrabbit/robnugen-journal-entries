@@ -7,7 +7,7 @@ tags: [ "christmas", "family" ]
 
 ##22:55 Sunday 30 December 2012
 
-No pics yet but they might be on my mom's FB wall already.
+~~No pics yet~~ but they might be on my mom's FB wall already.
 
 Ma, Mama, Lin, Fred, and I shared gifts and laughter.   I had the most fun watching Lin unwrap her teddy bear.  The outer box was apparently mailed from Fred to me, the next inner box was from me to Fred; the next inner box was from Fred to Lin; the next inner box was from Lin to Lin; the next inner box was from Lin to Ma; the next inner bag was from Ma to Mama; the next inner box was from Mama to me, but that box was actually for Lin, which she could see very clearly from its branding.  Lin was totally excited, and I'm totally pleased that it worked so well.
 
