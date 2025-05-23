@@ -1,0 +1,156 @@
+body {
+   color : black;
+   font-family : Arial, sans-serif;
+   font-size : 12pt;
+   background : white;
+}
+
+h1 {
+   font-size : 24pt;
+   color : red;
+   font-family : Arial;
+   text-align : center;
+}
+
+h1.black {
+   font-size : 24pt;
+   color : black;
+   font-family : Arial;
+   text-align : center;
+}
+
+pre {
+   color : blue;
+}
+
+pre.calendar {
+   color : blue;
+   letter-spacing : -0.15em;
+}
+
+img.nada {
+   border : none;
+}
+
+img.left {
+  float : left;
+  margin-right : 5px;
+}
+
+img.right {
+  float : right;
+  margin-left : 5px;
+}
+
+td.sidebar {
+   width : 10%;
+   vertical-align: top;
+}
+
+td.mainbar {
+   width : 90%;
+   vertical-align: top;
+}
+
+del { text-decoration: line-through; }
+ins { text-decoration: underline; }
+
+p.entry_title {
+	text-align : center;
+        font-weight : bold;
+	}
+
+table.highlighted_calendar {
+   border-width : 1px 1px 1px 1px;
+   border-style : dotted dotted dotted dotted;
+   background-color : #CCCCFF;
+}
+
+p {
+   color : black;
+   font-family : Arial, sans-serif;
+   font-size : 12pt;
+}
+
+p.small {
+   color : black;
+   font-family : Arial, sans-serif;
+   font-size : 8pt;
+}
+
+p.description {
+   color : green;
+   font-family : Arial, sans-serif;
+   font-size : 24pt;
+}
+
+p.dream {
+   color : green;
+   font-family : Arial, sans-serif;
+   font-size : 12pt;
+   font-style : italic;
+}
+
+p.lucid {
+   color : green;
+   font-family : Arial, sans-serif;
+   font-size : 12pt;
+}
+
+p.grafitti {
+   color : red;
+   font-family : Arial, sans-serif;
+   font-size : 12pt;
+   font-style : italic;
+}
+
+p.message {
+   color : blue;
+   font-family : Arial, sans-serif;
+   font-size : 12pt;
+}
+
+p.date {
+   color : blue;
+   font-family : Arial, sans-serif;
+   font-size : 16pt;
+}
+
+p.note {
+   color : blue;
+   font-size : 10pt;
+}
+
+p.anger {
+   color : red;
+   font-size : 24pt;
+   font-style : italic;
+}
+
+ol {
+   list-style-type: hiragana;
+}
+
+ol.hiragana {
+   list-style-type: hiragana;
+}
+
+ol.katakana {
+   list-style-type: katakana;
+}   
+
+ol.decimal {
+   list-style-type : decimal;
+}
+
+ol.lower-roman {
+   list-style-type : lower-roman;
+}
+
+ol.upper-roman {
+   list-style-type : upper-roman;
+}
+
+.done {
+   text-decoration: line-through;
+}
