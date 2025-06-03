@@ -137,7 +137,7 @@ ol.hiragana {
 
 ol.katakana {
    list-style-type: katakana;
-}   
+}
 
 ol.decimal {
    list-style-type : decimal;
@@ -225,3 +225,14 @@ ol.upper-roman {
     color: #003366";
 }
 
+.gemini {
+   border: 1px solid #9e3b14;
+   background-color: #e9aebd;
+   color: #003366";
+}
+
+.bard {
+   border: 1px solid #4a8c02;
+   background-color: #d0e9d0;
+   color: #003366";
+}
