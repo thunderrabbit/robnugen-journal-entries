@@ -252,3 +252,145 @@ For this discussion, let's call my currently-mounted 500GB disk "Mr Boot".   The
 
 My main question now is if I should partition the new drive or just use directories to keep stuff separate.  I'm leaning toward directories so I won't be limited by storage space, but it sure looks like I won't be limited because it's twice as big as what I've had so far.
 
+### 10:51
+
+Given that I was only using 500GB for all 4.5 years on Lemur `lemp10`, I will not order an extra drive on Lemur `lemp12`; its drive is already 1TB, so twice what I have been using until today.
+
+What is likeliehood that I can buy an SSD in 4 years and pop it into the slot to give my machine an upgrade then, with possibly better SSD than I can buy now?
+
+::: ai chatgpt
+
+Fantastic forward-thinking question. The good news? **The odds are very much in your favor.** Here's a grounded breakdown:
+
+---
+
+## 🧠 TL;DR
+
+> **Very likely** (85–95%) that you'll be able to buy a better, cheaper SSD in 4 years and drop it right into your Lemur — **especially if you buy one with an extra NVMe slot now.**
+
+---
+
+## 🔍 Why it's likely:
+
+### ✅ 1. **NVMe M.2 is extremely standardized**
+
+* Your future Lemur will almost certainly use **M.2 NVMe drives** (PCIe Gen4 or Gen5).
+* These slots are **backward compatible** — you’ll be able to use newer SSDs in older slots (they just won’t run at full Gen5 speeds, which is still fine).
+* M.2 isn’t going away any time soon — it’s everywhere.
+
+### ✅ 2. **Prices will drop, performance will rise**
+
+* SSD prices have **historically halved every 2–3 years**.
+* In 4 years, you’ll likely get **double the speed and capacity for half the price** of today.
+* Example: Gen5 SSDs today are cutting-edge — in 2029, they’ll be mid-range.
+
+### ✅ 3. **System76 supports user upgrades**
+
+* Their machines are **meant to be opened**.
+* You’ll likely still be able to open your Lemur and pop in a new SSD with a single screw and a thermal pad.
+
+---
+
+## 🔧 Risks / Caveats
+
+| Risk                                                | Likelihood                          | Impact               | Mitigation                                             |
+| --------------------------------------------------- | ----------------------------------- | -------------------- | ------------------------------------------------------ |
+| M.2 slot type changes (e.g. BGA-only soldered SSDs) | Very low (System76 avoids this)     | Upgrade impossible   | Stick with System76-style laptops                      |
+| Gen5 SSDs run hot, may need heatsinks               | Moderate (esp. for high-end models) | Thermal throttling   | Buy SSD with integrated heatsink or proper thermal pad |
+| BIOS compatibility (very rare)                      | Very low                            | Boot issues          | Easily solvable with firmware updates                  |
+| SSD supply chain weirdness                          | Low                                 | Temporary price hike | Buy when needed, not in panic                          |
+
+---
+
+## 🛒 So what should you do now?
+
+* ✅ Buy the Lemur with a **single 1TB SSD**
+* ✅ Make sure it has **two NVMe slots** (most do)
+* ❌ Don't buy the second SSD now — you’ll overpay and underuse it
+* 🕓 Plan to revisit SSD options in 2029 — prices will be better, and you may want 4–8TB by then anyway!
+
+:::
+
+ooh I wonder if I can move mrfree to the new laptop once my lemp10 has finished its work on my stop motion...
+
+::: ai chatgpt
+
+🎉 Yes, Rob — **you absolutely can move Mr Free to your new Lemur (lemp12)** once it retires from stop motion duty on lemp10. It’s a smart and sustainable plan.
+
+Here’s how to make that transition smooth and safe:
+
+---
+
+## ✅ Why it’ll work:
+
+* Both laptops use **M.2 NVMe slots** (Mr Free is an NVMe SSD).
+* The drive is already **ext4 formatted** and labeled (`mrfree`).
+* You already know how to **mount it via label** in `/etc/fstab`.
+* Linux (especially Pop! OS) will detect and mount it just fine — it’s filesystem-agnostic.
+
+---
+
+## 🔄 Migration Strategy
+
+### 1. **Wait until lemp10 has fully wrapped its duties**
+
+* Final stop motion files backed up? ✅
+* Confirm rsync to Mr Free? ✅
+* Final files copied off Mr Boot? ✅
+
+### 2. **Power down both machines**
+
+* Be careful of ESD (touch metal before handling components).
+* Unscrew the back of **lemp10**, remove Mr Free.
+* Insert Mr Free into an available NVMe slot in **lemp12**.
+
+### 3. **Mount it on the new system**
+
+Assuming the label `mrfree` is still present, you can:
+
+```bash
+sudo mkdir -p /mnt/mrfree
+sudo mount /dev/nvme1n1p1 /mnt/mrfree
+```
+
+Or (once you confirm the label still exists):
+
+```bash
+sudo mount LABEL=mrfree /mnt/mrfree
+```
+
+Then you can update `/etc/fstab` on lemp12 just like you did before.
+
+---
+
+## 🧠 Bonus Tips
+
+* 🧪 **Do a dry run**: After inserting it in the new machine, run:
+
+  ```bash
+  lsblk -o NAME,SIZE,MOUNTPOINT,LABEL,MODEL
+  sudo blkid
+  sudo e2label /dev/nvme1n1p1
+  ```
+
+* 📁 You can continue to use Mr Free as:
+
+  * A backup location
+  * A read-only archive of your stop motion years
+  * A new working drive for future animation
+
+---
+
+## 💡 Long-Term Options
+
+Once you’ve moved Mr Free:
+
+* You can clone it
+* Retire it to external USB-C housing
+* Or use it as a dedicated render scratch disk if you start animation again
+
+---
+
+Let me know when you're near the migration point — we can prepare a clean unmount + fstab removal + safety backup checklist. You're stewarding your creative and technical resources with real intention 👑
+
+:::
