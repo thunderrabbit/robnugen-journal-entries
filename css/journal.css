@@ -219,6 +219,12 @@ ol.upper-roman {
   color: #003366;
 }
 
+.claude {
+    border: 1px solid #8b4513;
+    background-color: #f5deb3;
+    color: #654321;
+}
+
 .plandex {
     border: 1px solid #cc8400;          /* Soft orange */
     background-color: #fff9cc;          /* Pale yellow */
