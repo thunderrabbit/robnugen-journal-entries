@@ -10,11 +10,15 @@ I was curious about the issues with an LLM not showing US Presidents correctly, 
 
 Please show images of the first 7 US Presidents and their names
 
+::: chatgpt ai
+
 [![2025 aug 16 first seven us pres by chatgpt 1000](//b.robnugen.com/journal/2025/thumbs/2025_aug_16_first_seven_us_pres_by_chatgpt.png)](//b.robnugen.com/journal/2025/2025_aug_16_first_seven_us_pres_by_chatgpt_1000.png)
+
+:::
 
 Very nice.  I guess you heard what happened when some other people asked for the first 12 US presidents.  Do you know why that happened?
 
-::: chatgpt ai 
+::: chatgpt ai
 
 Ah, yes — I think I know what you’re referring to.
 
@@ -71,7 +75,11 @@ How about the letters shown in reverse order in wooden frames and the names of e
 
 [![2025 aug 16 testing chatgpt 5 1000](//b.robnugen.com/journal/2025/thumbs/2025_aug_16_testing_chatgpt_5.png)](//b.robnugen.com/journal/2025/2025_aug_16_testing_chatgpt_5_1000.png)
 
+::: chatgpt ai
+
 [![2025 aug 16 alphabet backwards by chatgpt 5 1000](//b.robnugen.com/journal/2025/thumbs/2025_aug_16_alphabet_backwards_by_chatgpt_5.png)](//b.robnugen.com/journal/2025/2025_aug_16_alphabet_backwards_by_chatgpt_5_1000.png)
+
+:::
 
 Wow very creative!
 
@@ -81,7 +89,10 @@ I’m glad you enjoyed it 😄✨ The model definitely had fun improvising those
 
 :::
 
-Yes please. 
+Yes please.
+
+::: chatgpt ai
 
 [![2025 aug 16 second try alphabet backwards by chatgpt 1000](//b.robnugen.com/journal/2025/thumbs/2025_aug_16_second_try_alphabet_backwards_by_chatgpt.png)](//b.robnugen.com/journal/2025/2025_aug_16_second_try_alphabet_backwards_by_chatgpt_1000.png)
 
+:::
