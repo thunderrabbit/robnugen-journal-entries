@@ -57,7 +57,7 @@ information board. In Terminal 2 if you are unable to locate our staff
 please make your way to the ABC Luggage delivery counter and our staff
 will meet you there. 
 
-If, after 20 minutes or so, you still haven’t located our staff then
+If, after 20 minutes or so, you still havenâ€™t located our staff then
 please call our office on 03 - 6688 - 4441. We will liase with the
 staff at the airport who will then come and find you. Our staff may
 also page you if they fail to locate you.
