@@ -1,6 +1,6 @@
 ---
 title: "Fixing encoding of elderly journal entries"
-tags: [ "2025", "2025", "utf8", "internet", "encoding", "ai", "cool", "funny" ]
+tags: [ "2025", "2025", "2025", "utf8", "internet", "encoding", "ai", "cool", "funny" ]
 author: Rob Nugen
 date: 2025-08-22T22:28:00+09:00
 draft: false
@@ -164,10 +164,15 @@ It was amazing indeed. Pre-internet, but post-pager for sure!
 :::
 
 I just documented the last bit of our conversation.  You can see it at 
-  https://www.robnugen.com/journal.pl?type=all&date=2025/08/22#fixing-encoding-of-elderly-journal-entries   
-  This is produced by my retro cool static journal using Perl, parsing .md files, including some `::: ai 
-  claude` lines to start the sections that you wrote and `:::` to end those sections.   It uses hiragana as 
-  counters in my <ol><li></ol> lists because I thought it was cool so I've just kept it as my way of writing.
+https://www.robnugen.com/journal.pl?type=all&date=2025/08/22#fixing-encoding-of-elderly-journal-entries   
+
+This is produced by my retro cool static journal using Perl, parsing .md files, 
+including some `::: ai claude` 
+lines to start the sections that you wrote 
+and `:::` to end those sections.   
+
+It uses hiragana as 
+  counters in my &lt;ol>&lt;li>&lt;/ol> lists because I thought it was cool so I've just kept it as my way of journaling.
 
 ::: ai claude
 
