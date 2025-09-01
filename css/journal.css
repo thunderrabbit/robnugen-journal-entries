@@ -238,6 +238,12 @@ ol.upper-roman {
 }
 
 .bard {
+    border: 1px solid #001F3F;
+    background-color: #A9CCE3;
+    color: #003366;
+}
+
+.grok {
    border: 1px solid #4a8c02;
    background-color: #d0e9d0;
    color: #003366";
