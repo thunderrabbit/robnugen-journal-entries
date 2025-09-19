@@ -1,0 +1,9 @@
+---
+title: "Dream safely through storm and balance"
+tags: [ "2025", "dream", "not-lucid", "storm" ]
+author: Rob Nugen
+date: 2025-09-20T04:11:00+09:00
+draft: false
+---
+
+<p class="dream">I was coming out of a building and saw very dark thunderclouds and lightning and was very excited about the storm because I miss storms back from my living in Houston, while climbing up to the top of a hill and then had to go over an edge of the road and then saw some light, no, some electricity of something that was kind of a short-circuiting and there was a piece of metal or a large mechanical thing in between two other metal things that were arcing electrically in a rhythmic type of manner. And then while I was with a guy who saw the thing I showed him excitedly to look at it and he didn't seem as happy as me, he seemed a little bit scared about it. And we watched the arc cycle happen a couple of times as the electricity would discharge. And one of the times the metal in the middle jumped over to the side with like instantly and I think I could have realized it was a dream at that point but I did not. Then we needed to walk down across some small columns that were over, like, looked like they were over garbage or something and we had to walk across. I was holding his hand to keep him balanced and I was basically fine. I balance on this kind of stuff all the time and was walking, holding, making sure that he was safe. And then we got through all of that scary bit and he was melting down more and more, getting more and more scared and finally once we got past all the dangerous part he jumped down. He's like, I can't take any more and he was crying and stuff. And I was like, wow, I'm just trying to help you stay safe as I literally have no idea how he could have gotten across without my help.</p>
