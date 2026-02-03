@@ -201,7 +201,7 @@ $ git push
 **Bad:**
 ```
 $ git add .
-$ git commit -m "Update tags, fix typos, add entry"  # Bundles unrelated changes
+$ git commit -m "Update tags, fix typos, add entry"  # NEVER DO THIS - Destroys narrative sequence
 $ git push --force  # NEVER DO THIS
 ```
 
