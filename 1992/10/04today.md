@@ -19,7 +19,7 @@ Ooh, very nice. I hugged her and then got up.
 After studying, I met ma at my house and we went to the UH football game at Rice against
 USL University of Southwest Louisiana.
 We left after the halftime show so we could see Fred perform. Cool.
-Mikah(sp), a dude, who volunteered in the pharmacy is a cheerleader. Very cool.
+Mikah(sp), a dude who volunteered in the pharmacy is a cheerleader. Very cool.
 I watched (in awe) as he popped a girl into this position.
 
 [![cheerleader sketch](//robnugen.com/journal/2026/thumbs/2026_feb_03_oct_4_1992_cheerleader_double_stunt_sketch_page_1_book_three.jpeg)](//b.robnugen.com/journal/2026/2026_feb_03_oct_4_1992_cheerleader_double_stunt_sketch_page_1_book_three_1000.jpeg)
