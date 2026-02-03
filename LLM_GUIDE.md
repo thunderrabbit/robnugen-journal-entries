@@ -192,9 +192,9 @@ Always ask Rob to tell you the commit message he wants to use.
 ```
 $ git pull  # ALWAYS pull first!
 $ git add 2025/02/*.md
-$ git commit -m "Oh,"
-$ git add scripts/new-script.sh
 $ git commit -m "that"
+$ git add scripts/new-script.sh
+$ git commit -m "Oh,"
 $ git push
 ```
 
