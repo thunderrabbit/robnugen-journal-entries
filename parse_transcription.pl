@@ -4,6 +4,7 @@ use warnings;
 use JSON;
 use File::Path qw(make_path);
 use File::Basename;
+use Text::Wrap;
 
 # parse_transcription.pl
 # Converts LLM-preprocessed JSON data into properly formatted journal markdown files
@@ -36,6 +37,9 @@ my @created_files;
 # Get current date for transcription note in human-readable format
 my $transcription_date = `date '+%-d %b %Y'`;
 chomp $transcription_date;
+
+# Set up text wrapping at 100 characters
+$Text::Wrap::columns = 100;
 
 # Process each entry
 foreach my $entry (@$entries) {
@@ -92,12 +96,26 @@ EOF
 
     # Build entry body with transcription note including source
     my $transcription_note = "Transcribed $transcription_date from $journal_name Page $page";
+
+    # Wrap content paragraphs at 100 characters, preserving blank lines
+    my @paragraphs = split(/\n\n/, $content);
+    my @wrapped_paragraphs;
+    foreach my $para (@paragraphs) {
+        # Don't wrap image markdown (starts with [![)
+        if ($para =~ /^\[!\[/) {
+            push @wrapped_paragraphs, $para;
+        } else {
+            push @wrapped_paragraphs, wrap('', '', $para);
+        }
+    }
+    my $wrapped_content = join("\n\n", @wrapped_paragraphs);
+
     my $body = <<"EOF";
 <div class="note">$transcription_note</div>
 
 #### $date_spoken
 
-$content
+$wrapped_content
 EOF
 
     # Combine frontmatter and body

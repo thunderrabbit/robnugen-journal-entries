@@ -22,6 +22,6 @@ We left after the halftime show so we could see Fred perform. Cool.
 Mikah(sp), a dude who volunteered in the pharmacy is a cheerleader. Very cool.
 I watched (in awe) as he popped a girl into this position.
 
-[![cheerleader sketch](//robnugen.com/journal/2026/thumbs/2026_feb_03_oct_4_1992_cheerleader_double_stunt_sketch_page_1_book_three.jpeg)](//b.robnugen.com/journal/2026/2026_feb_03_oct_4_1992_cheerleader_double_stunt_sketch_page_1_book_three_1000.jpeg)
+[![cheerleader sketch](//b.robnugen.com/journal/2026/thumbs/2026_feb_03_oct_4_1992_cheerleader_double_stunt_sketch_page_1_book_three.jpeg)](//b.robnugen.com/journal/2026/2026_feb_03_oct_4_1992_cheerleader_double_stunt_sketch_page_1_book_three_1000.jpeg)
 
 Then ma and I came home and discussed what she will do with her furniture. Now I'm going to bed.
