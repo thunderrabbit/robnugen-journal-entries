@@ -1,0 +1,1 @@
+# Transcriptions Directory\n\nThis directory contains files for the voice transcription workflow.\n\n- **transcription_YYYY-MM-DD.txt** - Raw voice transcriptions\n- **preprocessed_YYYY-MM-DD.json** - LLM-processed structured data\n- **manifest_YYYY-MM-DD.txt** - Lists of generated markdown files
