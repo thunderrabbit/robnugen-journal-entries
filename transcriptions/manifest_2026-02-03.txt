@@ -1,5 +1,5 @@
 # Manifest for transcriptions/preprocessed_2026-02-03.json
-# Generated: 2026-02-03
+# Generated: 3 Feb 2026
 # Journal: BOOK THREE
 # Entries processed: 1
 

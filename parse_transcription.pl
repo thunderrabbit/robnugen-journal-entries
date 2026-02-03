@@ -33,8 +33,8 @@ print "Processing " . scalar(@$entries) . " entries from $journal_name\n";
 # Track created files for manifest
 my @created_files;
 
-# Get current date for transcription note
-my $transcription_date = `date +%Y-%m-%d`;
+# Get current date for transcription note in human-readable format
+my $transcription_date = `date '+%-d %b %Y'`;
 chomp $transcription_date;
 
 # Process each entry
@@ -90,9 +90,10 @@ draft: false
 ---
 EOF
 
-    # Build entry body
+    # Build entry body with transcription note including source
+    my $transcription_note = "Transcribed $transcription_date from $journal_name Page $page";
     my $body = <<"EOF";
-<div class="note">Transcribed $transcription_date</div>
+<div class="note">$transcription_note</div>
 
 #### $date_spoken
 

@@ -57,7 +57,14 @@ This is the next journal entry
 #### Process Special Commands
 - **"LLM note ... end LLM note"**: Extract instructions, don't include in content
   - Example: "LLM note this is now page 73 end LLM note" → update page tracking
+  - Image URLs: "LLM note here is the URL ... end LLM note" → format as markdown image
 - **"LLM Paragraph"**: Insert two newlines (empty line)
+
+#### Handle Images
+When LLM notes contain image URLs, format as clickable thumbnails:
+- **Thumbnail path**: `//robnugen.com/journal/YYYY/thumbs/filename.jpeg` (NO _1000 suffix)
+- **Full-size path**: `//b.robnugen.com/journal/YYYY/filename_1000.jpeg` (WITH _1000 suffix)
+- **Format**: `[![alt text](thumbnail-url)](full-size-url)`
 
 #### Generate Title
 - Create era-appropriate title based on content
