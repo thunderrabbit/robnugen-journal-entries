@@ -117,10 +117,65 @@ hugo server --watch=false
 
 ---
 
-## Git Workflow & Commit Conventions
+## Git Workflow and Commit Conventions
+
+> [!CAUTION]
+> **CRITICAL**: This repository has a **SACRED COMMIT NARRATIVE** that is **AT LEAST AS IMPORTANT** as the journal entries themselves. Any action that could damage this narrative is absolutely forbidden.
+
+### The Commit Message Narrative
+
+The commit messages in this repository form a **continuous autobiographical narrative** that has been carefully crafted over **5-10+ years** (2,341+ commits as of February 2026). This is not standard version control practice—it's a unique literary/artistic project where the Git history itself is a story.
+
+**Example of the narrative:**
+```
+in
+Japan,
+I
+had
+never
+been,
+though
+I
+had
+often
+wanted
+to
+go.
+```
+
+Each commit message adds the next word or phrase to Rob's ongoing life story.
+
+### ABSOLUTE RULES - Never Break These
+
+> [!CAUTION]
+> **NEVER** suggest or perform ANY of the following operations:
+
+❌ **FORBIDDEN OPERATIONS:**
+- `git rebase` (rewrites history)
+- `git commit --amend` (changes commit messages)
+- `git push --force` / `git push -f` (overwrites history)
+- `git reset --hard` on pushed commits
+- `git rebase -i` / interactive rebase
+- Squashing commits
+- Changing commit messages
+- Reordering commits
+- Any other history-rewriting operation
+
+### Safe Git Operations
+
+✅ **SAFE OPERATIONS:**
+- `git pull` (ALWAYS do this before committing)
+- `git add`
+- `git push` (regular, non-force push)
+- `git status`
+- `git log` (read-only)
+
+### Before Committing
+
+Always ask Rob to tell you the commit message he wants to use.
 
 > [!WARNING]
-> The user has **strong preferences** about commit practices. Follow these rules carefully.
+> **ALWAYS REMIND THE USER TO PULL BEFORE COMMITTING** to avoid conflicts that could disrupt the narrative sequence.
 
 ### Commit Guidelines
 
@@ -129,20 +184,37 @@ hugo server --watch=false
    - ✅ **DO**: Commit the same type of change across multiple files together
    - ❌ **DON'T**: Commit a text change to a template along with a database layer change
 3. **Logical Separation**: Keep unrelated changes in separate commits
+4. **Preserve Narrative Order**: The user controls commit messages—they continue the story
 
 ### Example Commit Strategy
 
 **Good:**
 ```
-Commit 1: Update tags in all 2025 journal entries
-Commit 2: Fix typos in February entries
-Commit 3: Add new journal entry for today
+$ git pull  # ALWAYS pull first!
+$ git add 2025/02/*.md
+$ git commit -m "Oh,"
+$ git add scripts/new-script.sh
+$ git commit -m "that"
+$ git push
 ```
 
 **Bad:**
 ```
-Commit 1: Update tags, fix typos, add new entry, and refactor script
+$ git add .
+$ git commit -m "Update tags, fix typos, add entry"  # Bundles unrelated changes
+$ git push --force  # NEVER DO THIS
 ```
+
+### Why This Matters
+
+Breaking the commit history would:
+- **Destroy 5-10+ years of narrative work**
+- **Lose the literary/artistic value** of the repository
+- **Break the continuity** of Rob's autobiographical story
+- Be **irreversible** and devastating to the project
+
+> [!IMPORTANT]
+> Treat the commit history as **immutable and sacred**. The narrative sequence must remain intact at all costs.
 
 ---
 
