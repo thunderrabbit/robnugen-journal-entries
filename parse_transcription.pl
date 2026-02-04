@@ -4,7 +4,34 @@ use warnings;
 use JSON;
 use File::Path qw(make_path);
 use File::Basename;
-use Text::Wrap;
+
+# Custom line wrapping function - only wraps lines > 100 chars, preserves URLs
+sub wrap_line {
+    my ($line, $max_length) = @_;
+    $max_length ||= 100;
+
+    # Don't wrap if line is short enough or contains a URL
+    return $line if length($line) <= $max_length || $line =~ m!https?://!;
+
+    # Break at word boundaries
+    my @words = split(/\s+/, $line);
+    my @wrapped_lines;
+    my $current_line = '';
+
+    foreach my $word (@words) {
+        if (length($current_line) == 0) {
+            $current_line = $word;
+        } elsif (length($current_line) + 1 + length($word) <= $max_length) {
+            $current_line .= " $word";
+        } else {
+            push @wrapped_lines, $current_line;
+            $current_line = $word;
+        }
+    }
+    push @wrapped_lines, $current_line if $current_line;
+
+    return join("\n", @wrapped_lines);
+}
 
 # parse_transcription.pl
 # Converts LLM-preprocessed JSON data into properly formatted journal markdown files
@@ -37,9 +64,6 @@ my @created_files;
 # Get current date for transcription note in human-readable format
 my $transcription_date = `date '+%-d %b %Y'`;
 chomp $transcription_date;
-
-# Set up text wrapping at 100 characters
-$Text::Wrap::columns = 100;
 
 # Process each entry
 foreach my $entry (@$entries) {
@@ -97,7 +121,7 @@ EOF
     # Build entry body with transcription note including source
     my $transcription_note = "Transcribed $transcription_date from $journal_name Page $page";
 
-    # Wrap content paragraphs at 100 characters, preserving blank lines
+    # Process content paragraphs, preserving line breaks under 100 chars
     my @paragraphs = split(/\n\n/, $content);
     my @wrapped_paragraphs;
     foreach my $para (@paragraphs) {
@@ -117,7 +141,13 @@ EOF
         elsif ($para =~ /^\[!\[/) {
             push @wrapped_paragraphs, $para;
         } else {
-            push @wrapped_paragraphs, wrap('', '', $para);
+            # Only wrap lines longer than 120 characters, preserve existing line breaks
+            my @lines = split(/\n/, $para);
+            my @processed_lines;
+            foreach my $line (@lines) {
+                push @processed_lines, wrap_line($line, 120);
+            }
+            push @wrapped_paragraphs, join("\n", @processed_lines);
         }
     }
     my $wrapped_content = join("\n\n", @wrapped_paragraphs);

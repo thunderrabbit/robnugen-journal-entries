@@ -1,0 +1,8 @@
+# Manifest for transcriptions/preprocessed_2026-02-04.json
+# Generated: 4 Feb 2026
+# Journal: BOOK THREE
+# Entries processed: 3
+
+1992/10/05lane.md
+1992/10/07Sweetie.md
+1992/10/08cuddled.md

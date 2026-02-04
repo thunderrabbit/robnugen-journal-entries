@@ -48,7 +48,8 @@ This is the next journal entry
 - Day of week may be missing (calculate from date)
 - Time may be missing
 - Timezone may be missing (use same as previous)
-- Convert to ISO 8601: `YYYY-MM-DDTHH:MM:SS±HH:MM`
+- **Convert to ISO 8601 for `date_iso`**: `YYYY-MM-DDTHH:MM:SS±HH:MM`
+- **Preserve exact text for `date_spoken`**: Copy the date/time text EXACTLY as written in the transcript (including "AM" vs "a.m.", spacing, etc.) - this will be displayed in the journal entry body
 
 #### Validate Day of Week
 - Calculate day-of-week from date and year
@@ -58,7 +59,12 @@ This is the next journal entry
 - **"LLM note ... end LLM note"**: Extract instructions, don't include in content
   - Example: "LLM note this is now page 73 end LLM note" → update page tracking
   - Image URLs: "LLM note here is the URL ... end LLM note" → extract URL and place it inline in content
-- **"LLM Paragraph"**: Insert two newlines (empty line)
+- **"LLM Paragraph"**: Insert two newlines (empty line between paragraphs)
+
+**IMPORTANT**: Preserve ALL newlines from the original transcript in the JSON content field:
+- Single newlines (`\n`) = line breaks within a paragraph
+- Double newlines (`\n\n`) = paragraph breaks (blank line)
+- The user manually formats their transcripts with intentional line breaks - preserve them exactly
 
 #### Handle Images
 When LLM notes contain image URLs ending in `_1000.jpeg`:

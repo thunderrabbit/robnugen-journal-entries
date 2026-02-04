@@ -1,0 +1,38 @@
+{
+  "journal_name": "BOOK THREE",
+  "entries": [
+    {
+      "page": "2",
+      "pages": ["2"],
+      "date_iso": "1992-10-05T01:40:00-05:00",
+      "date_spoken": "1:40AM Monday 5 Oct '92",
+      "timezone": "CDT",
+      "content": "Today I painted Doug's bathroom and change the oil in the van. Then I went to the VAX to meet Linda at 2PM.\nWhile there, I met Lane, who wears braces. Excellent!\n\nLane wears braces, and in fact, she just got them put on. She's 21, and will wear them for 2 years. Perfect!\nSo I helped her with her program and she helped me with my program. Then we exchanged some mail messages,\nincluding an invitation for her to play frisbee with me. She accepted, and we played frisbee out by the aluminum people.\nThat was so excellent. She had to go home after a while, so I walked her to her car.  Then I went to Sara's to study.\nI didin't study due to hunger, so I brought her to my house and ate and then studied digital logic for 45 minutes",
+      "title": "Lane",
+      "filename": "lane.md",
+      "flags": []
+    },
+    {
+      "page": "3",
+      "pages": ["2", "3"],
+      "date_iso": "1992-10-07T00:30:00-05:00",
+      "date_spoken": "12:30AM Wednesday 7 October 1992",
+      "timezone": "CDT",
+      "content": "\"Today\" I got to the VAX really early with the hopes that maybe Joni would be there\nin need of my services. She was not there. I wrote to Lane a nice letter thanking her for plaing frisbee with me.\nAfter school, I played with Kim some and I played frisbee with Celeste.\nToday was the day I borrowed socks from Fred so I could go to Bowling.\nI met him by chance while I was en route to Bowling. Amazing. I said, \"Fred, give me your socks.\" Cool.\n\nWhen I got home tonight, I called the VAX and I had received 2 mail messages from Lane.\nShe opened with \"HI Sweetie!\" in one. Excellent! So I wrote her back and gave her my 24hour hotline phone #,\nand I asked her to meet me after her Thursday class. We'll see what happens. Later",
+      "title": "Sweetie",
+      "filename": "Sweetie.md",
+      "flags": []
+    },
+    {
+      "page": "4",
+      "pages": ["3", "4"],
+      "date_iso": "1992-10-08T00:25:00-05:00",
+      "date_spoken": "12:25AM Thursday 8 October 1992",
+      "timezone": "CDT",
+      "content": "\"Today\" after school I did my digital logic lab write up and\nI finished 2 of my LISP functions. I cuddled with Maggie for about an hour and talked to her\n\nI went to Marble Slab with Molly, Maggie, Patricia, & Judy at 10:30PM. Patricia wore red leather pants.\n\n\"Tomorrow\" I'm going to school early to VAX. I really hope to see Lane.\nShe opened her letter to me with \"HI, Sweetie!\" (Shit. I just told you that)\nOK, so you can tell it made my day in a big way.\nI'm sure I will kiss her.\n\nOh - Jeff (Poet on Castle of Dreams) called me at Molly's. He took notes as I dictated a letter to him\ndescribing what Thunder Rabbit is doing. As I was talking to him, I had my head on Molly's floor and my\nlegs on her bed.\n\nMolly unvelcroed my shors and said, \"Maggie, look,\" to Maggie, who was sitting at Molly's desk.\nWhen Maggie looked, Molly lifted my underwear. Maggie says she didn't see anything, \"or else [she] would\npummell Molly\" Those twins are crazy--",
+      "title": "Cuddled",
+      "filename": "cuddled.md",
+      "flags": []
+    }
+  ]
+}
