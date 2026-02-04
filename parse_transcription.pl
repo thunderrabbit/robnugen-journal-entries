@@ -101,8 +101,20 @@ EOF
     my @paragraphs = split(/\n\n/, $content);
     my @wrapped_paragraphs;
     foreach my $para (@paragraphs) {
+        # Convert standalone _1000.jpeg URLs to clickable thumbnail markdown
+        if ($para =~ m!^(https?://\S+/)([^/]+)_1000\.jpeg$!) {
+            my $base_url = $1;
+            my $filename = $2;
+            my $full_url = "${base_url}${filename}_1000.jpeg";
+            my $thumb_url = "${base_url}thumbs/${filename}.jpeg";
+            # Use filename as alt text (replace underscores with spaces)
+            my $alt = $filename;
+            $alt =~ s/_/ /g;
+            $para = "[![$alt]($thumb_url)]($full_url)";
+            push @wrapped_paragraphs, $para;
+        }
         # Don't wrap image markdown (starts with [![)
-        if ($para =~ /^\[!\[/) {
+        elsif ($para =~ /^\[!\[/) {
             push @wrapped_paragraphs, $para;
         } else {
             push @wrapped_paragraphs, wrap('', '', $para);
