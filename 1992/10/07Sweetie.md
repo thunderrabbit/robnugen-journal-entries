@@ -16,6 +16,8 @@ After school, I played with Kim some and I played frisbee with Celeste.
 Today was the day I borrowed socks from Fred so I could go to Bowling.
 I met him by chance while I was en route to Bowling. Amazing. I said, "Fred, give me your socks." Cool.
 
+[![2026 feb 04 1992 socks](https://b.robnugen.com/journal/2026/thumbs/2026_feb_04_1992_socks.jpeg)](https://b.robnugen.com/journal/2026/2026_feb_04_1992_socks_1000.jpeg)
+
 When I got home tonight, I called the VAX and I had received 2 mail messages from Lane.
 She opened with "HI Sweetie!" in one. Excellent! So I wrote her back and gave her my 24hour hotline phone #,
 and I asked her to meet me after her Thursday class. We'll see what happens. Later
