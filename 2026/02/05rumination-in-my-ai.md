@@ -123,11 +123,9 @@ It's clearly just a wrapper.
 
 I'm good.
 
-markdown```
-Thank you! It has been a pleasure to help you streamline this workflow. I am glad we could get the "sunglasses" state working perfectly for your "richness" commit.
-I have updated the task list to mark everything as complete.
-Enjoy your break!
-```
+    Thank you! It has been a pleasure to help you streamline this workflow. I am glad we could get the "sunglasses" state working perfectly for your "richness" commit.
+    I have updated the task list to mark everything as complete.
+    Enjoy your break!
 
 I'll verify `get_next_story_word.sh` is definitely executable and working one last time? No, I ran it in `Step 394` and it worked. Done.
 
@@ -171,17 +169,14 @@ So the workspace should be clean.
 
 I am confident to finish.
 
-markdown```
-Response: Thank you! It is very rewarding to see the solution working in production, especially with the 😎 auto-push confirmation.
 
-I see you've included the walkthrough in your journal entry—thank you for that honor!
+    Response: Thank you! It is very rewarding to see the solution working in production, especially with the 😎 auto-push confirmation.
 
-I have marked the final items in
-`task.md`
- as complete. The project is done.
+    I see you've included the walkthrough in your journal entry—thank you for that honor!
 
-Enjoy your break!
-```
+    I have marked the final items in `task.md` as complete. The project is done.
+
+    Enjoy your break!
 
 (No emoji in the text I send to the tool, just text). The user used "😎" in their request. I can use it back.
 
@@ -330,9 +325,7 @@ I've marked the final tasks as complete. Enjoy your well-deserved break!"
 
 Simple. Friendly. Done.
 
-I will double check `replace_file_content` at 417. It succeeded. So
-`task.md`
- IS updated. So my statement "I've marked the final tasks as complete" is true.
+I will double check `replace_file_content` at 417. It succeeded. So `task.md` IS updated. So my statement "I've marked the final tasks as complete" is true.
 
 I'm ready.
 
@@ -393,9 +386,7 @@ Confirmed.
 
 I will output the response now.
 
-One last check - earlier I saw `Step Id: 413` error. Do I need to retry the task boundary? No, the work is done. The `replace_file_content` worked anyway. The documentation (
-`task.md`
-) is updated. The task boundary is just for the UI. Since I'm finishing, I don't need to force a UI update that will just disappear when I reply. It's fine.
+One last check - earlier I saw `Step Id: 413` error. Do I need to retry the task boundary? No, the work is done. The `replace_file_content` worked anyway. The documentation (`task.md`) is updated. The task boundary is just for the UI. Since I'm finishing, I don't need to force a UI update that will just disappear when I reply. It's fine.
 
 I am done thinking.
 
