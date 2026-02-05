@@ -113,12 +113,11 @@ One last check diff. The user file
 `2026/02/05richness-in-my-life.md`
 :
 
-markdown```
-::: ai claude
-# Next Story Word...
-...
-:::
-```
+
+    ::: ai claude
+    # Next Story Word...
+    ...
+    :::
 
 It's clearly just a wrapper.
 
