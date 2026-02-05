@@ -1,6 +1,6 @@
 ---
 title: "Howdy from Japan or Australia"
-tags: [ "2026", "" ]
+tags: [ "2026", "scoutseven" ]
 author: Rob Nugen
 date: 2026-02-03T16:22:00+09:00
 draft: false
