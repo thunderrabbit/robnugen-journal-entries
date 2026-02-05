@@ -14,6 +14,9 @@ The user will say something like:
 - **"LLM Paragraph"**: Insert two newlines (empty line between paragraphs)
 - **Specific Replacements**:
   - "ab" or "a b" -> "**AB**" (Client initials, always capitalize)
+- **Time Markers**:
+  - "LLM note Time [Timestamp]..." -> Insert `#### [Timestamp]` header in 24-hour format at that point in the text.
+
 
 # Steps
 
