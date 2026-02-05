@@ -9,7 +9,7 @@ draft: false
 Today AI and I added functionality to my journaling system so I can easily keep the backwards story ongoing.
 
 
-::: ai claude
+::: ai gemini
 
 # Next Story Word SSH Automation Walkthrough
 
