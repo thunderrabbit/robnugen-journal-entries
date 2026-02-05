@@ -9,7 +9,7 @@ draft: false
 Today AI and I added functionality to my journaling system so I can easily keep the backwards story ongoing.
 
 
-::: ai
+::: ai claude
 
 # Next Story Word SSH Automation Walkthrough
 
@@ -62,4 +62,4 @@ The following workflow was verified:
 - **Next Word**: "and"
 - **Continuity**: "... and richness into my life. Like just recently..."
 
-::: ai
+:::
