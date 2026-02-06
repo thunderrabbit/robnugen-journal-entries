@@ -127,7 +127,11 @@ draft: false
 EOF
 
     # Build entry body with transcription note including source
-    my $transcription_note = "Transcribed $transcription_date from $journal_name";
+    my $preposition = "from";
+    if ($journal_name =~ /Voice Journal/i) {
+        $preposition = "via my";
+    }
+    my $transcription_note = "Transcribed $transcription_date $preposition $journal_name";
     if ($page) {
         $transcription_note .= " Page $page";
     }
