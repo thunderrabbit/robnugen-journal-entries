@@ -51,7 +51,7 @@ if [ "$LOCAL_HASH" != "$SERVER_HASH" ]; then
     # CASE B: Local is 1 commit ahead AND message matches server's expected next word
     if [ "$LOCAL_PREV_HASH" == "$SERVER_HASH" ] && [ "$LOCAL_HEAD_MSG" == "$SERVER_WORD" ]; then
         echo "" >&2
-        echo "😎  Local repository is 1 commit ahead, but the commit message matches the next story word." >&2
+        echo "😎 Local repository is 1 commit ahead, and the commit message matches the next story word." >&2
         echo "   Message: '$LOCAL_HEAD_MSG'" >&2
         echo "   Action:  Will now auto-push to sync repositories..." >&2
         echo "" >&2
