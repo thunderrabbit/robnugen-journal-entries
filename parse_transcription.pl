@@ -101,10 +101,18 @@ foreach my $entry (@$entries) {
     my $filepath = "$dir/$day$filename";
 
     # Build page tags
-    my @page_tags = map { "page $_" } @$pages;
+    my @page_tags = ();
+    if ($page) {
+        @page_tags = map { "page $_" } @$pages;
+    }
 
     # Build tags array
-    my @tags = ($journal_name, @page_tags, "transcribed");
+    my $extra_tags = $entry->{tags} || [];
+    my @tags = ($journal_name, @page_tags, @$extra_tags, "transcribed");
+    # Remove duplicates from tags
+    my %seen;
+    @tags = grep { !$seen{$_}++ } @tags;
+
     my $tags_string = join(", ", map { "\"$_\"" } @tags);
 
     # Build YAML frontmatter
@@ -119,7 +127,10 @@ draft: false
 EOF
 
     # Build entry body with transcription note including source
-    my $transcription_note = "Transcribed $transcription_date from $journal_name Page $page";
+    my $transcription_note = "Transcribed $transcription_date from $journal_name";
+    if ($page) {
+        $transcription_note .= " Page $page";
+    }
 
     # Process content paragraphs, preserving line breaks under 100 chars
     my @paragraphs = split(/\n\n/, $content);

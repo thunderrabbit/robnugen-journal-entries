@@ -23,7 +23,7 @@ I'm currently standing outside with about 50 to-do list items floating in my hea
 
 Things to do (sometime in the mysterious future)
 
-1. Tell my phone that when I type `mg` It should expand that out into `https://mg.robnugen.com/`
+1. ✅ Tell my phone that when I type `mg` It should expand that out into `https://mg.robnugen.com/`
 2. ✅ Make the unique link to my meditation (above) public.
 When that's done it should show basically what's in this image:
 
@@ -31,14 +31,16 @@ When that's done it should show basically what's in this image:
 
 3. ✅ Upload the above image that's currently just a screenshot on my phone showing 40:27 with a green background
 4. ✅ Mention that means I meditated for 50 minutes because I started with 10 minutes for my countdown timer and it then counted up 40 minutes and 27 seconds
-5. Pray 🙏, writing in BOOK TWENTY-NINE page ??
-8. Fill in the page numbers in my journal
-12. Call Infinity Books to see if they still allow smoking in their bookstore
+5. ✅ Pray 🙏, writing in BOOK TWENTY-NINE page 93
+8. ✅ Fill in the page numbers in my journal (93-99)
+13. 🕰️ Transfer my POVO eSIM to my new phone
+12. ✅  Call Infinity Books to see if they still allow smoking in their bookstore
 6. Invite people to my emotional awareness workshop and book launch party
 7. ✅ Fix the link to my upcoming barefoot grounding event. I think it's broken because the title must be unique.
 9. ✅ Copy this entry from my phone into my journal parsing LLM, Gemini via Google Antigravity
 10. ✅ Message Jess (in London)
-11. Call Yuki
+11. ✅ Call Yuki
+14. ✅ Schedule a meeting with Tariq in Shinjuku next weekish
 
 #### 11:04
 
