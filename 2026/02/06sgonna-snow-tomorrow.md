@@ -6,7 +6,7 @@ date: 2026-02-06T17:40:00+09:00
 draft: false
 ---
 
-<div class="note">Transcribed 6 Feb 2026 from Antigravity Voice Journal</div>
+<div class="note">Transcribed 6 Feb 2026 via my Antigravity Voice Journal</div>
 
 #### 17:40 pm Friday, February 6th 2026
 
