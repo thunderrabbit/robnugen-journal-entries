@@ -125,30 +125,32 @@ EOF
     my @paragraphs = split(/\n\n/, $content);
     my @wrapped_paragraphs;
     foreach my $para (@paragraphs) {
-        # Convert standalone _1000.jpeg URLs to clickable thumbnail markdown
-        if ($para =~ m!^(https?://\S+/)([^/]+)_1000\.jpeg$!) {
-            my $base_url = $1;
-            my $filename = $2;
-            my $full_url = "${base_url}${filename}_1000.jpeg";
-            my $thumb_url = "${base_url}thumbs/${filename}.jpeg";
-            # Use filename as alt text (replace underscores with spaces)
-            my $alt = $filename;
-            $alt =~ s/_/ /g;
-            $para = "[![$alt]($thumb_url)]($full_url)";
-            push @wrapped_paragraphs, $para;
-        }
-        # Don't wrap image markdown (starts with [![)
-        elsif ($para =~ /^\[!\[/) {
-            push @wrapped_paragraphs, $para;
-        } else {
-            # Only wrap lines longer than 120 characters, preserve existing line breaks
-            my @lines = split(/\n/, $para);
-            my @processed_lines;
-            foreach my $line (@lines) {
+        my @lines = split(/\n/, $para);
+        my @processed_lines;
+
+        foreach my $line (@lines) {
+            # Convert standalone _1000.jpeg/png URLs to clickable thumbnail markdown
+            if ($line =~ m!^(https?://\S+/)([^/]+)_1000\.(jpeg|jpg|png)$!) {
+                my $base_url = $1;
+                my $filename = $2;
+                my $ext = $3;
+                my $full_url = "${base_url}${filename}_1000.${ext}";
+                my $thumb_url = "${base_url}thumbs/${filename}.${ext}";
+                # Use filename as alt text (replace underscores with spaces)
+                my $alt = $filename;
+                $alt =~ s/_/ /g;
+                $line = "[![$alt]($thumb_url)]($full_url)";
+                push @processed_lines, $line;
+            }
+            # Don't wrap image markdown (starts with [![ handled by regex above or already present)
+            elsif ($line =~ /^\[!\[/) {
+                push @processed_lines, $line;
+            } else {
+                # Only wrap lines longer than 120 characters, preserve existing line breaks
                 push @processed_lines, wrap_line($line, 120);
             }
-            push @wrapped_paragraphs, join("\n", @processed_lines);
         }
+        push @wrapped_paragraphs, join("\n", @processed_lines);
     }
     my $wrapped_content = join("\n\n", @wrapped_paragraphs);
 

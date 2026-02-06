@@ -18,27 +18,41 @@ The user will say something like:
   - "LLM note Time [Timestamp]..." -> Insert `#### [Timestamp]` header in 24-hour format at that point in the text.
 
 
-# Steps
-
-1.  **Extract Content**: Everything spoken after the trigger phrase is the content.
-2.  **Generate Metadata**:
-    *   **Title**: Create a short, era-appropriate title based on content.
-    *   **Slug**: Kebab-case version of title (e.g., `walk-in-park`).
-    *   **Date**: Current system time (`YYYY-MM-DD`).
-3.  **Determine Filename**:
-    *   Format: `journal/journal/YYYY/MM/ddslug.md`
-    *   Example: `2026/02/06walk-in-park.md`
-4.  **Create File Content**:
-    *   Frontmatter:
-        ```yaml
-        ---
-        title: "Title Here"
-        tags: [ "2026" ]
-        author: Rob Nugen
-        date: 2026-02-06T10:30:00+09:00
-        draft: false
-        ---
-        ```
-    *   Body: The transcribed text.
-5.  **Action**: Use `write_to_file` to create the new entry.
-6.  **Notify**: Inform the user the file has been created.
+21. # Steps
+22.
+23. 1.  **Extract Content**: Everything spoken after the trigger phrase is the content.
+24. 2.  **Generate Metadata**:
+25.     *   **Title**: Create a short, era-appropriate title based on content.
+26.     *   **Slug**: Kebab-case version of title (e.g., `walk-in-park`).
+27.     *   **Date**: Current system time.
+28. 3.  **Construct JSON Content**:
+29.     *   Create a JSON object following the schema in `journal/journal/LLM_PREPROCESSING_GUIDE.md`.
+30.     *   **Structure**:
+31.         ```json
+32.         {
+33.           "journal_name": "Antigravity Voice Journal",
+34.           "entries": [
+35.             {
+36.               "page": "1",
+37.               "pages": ["1"],
+38.               "date_iso": "2026-02-06T10:30:00+09:00",
+39.               "date_spoken": "Friday, February 6, 2026, 10:30 AM",
+40.               "timezone": "JST",
+41.               "content": "The transcribed text...",
+42.               "title": "Title Here",
+43.               "filename": "title-here.md",
+44.               "flags": []
+45.             }
+46.           ]
+47.         }
+48.         ```
+49. 4.  **Create Temporary JSON File**:
+50.     *   Target: `transcriptions/preprocessed_YYYY-MM-DD-slug.json` (use actual date/time in filename to avoid collisions).
+51.     *   Action: Use `write_to_file`.
+52. 5.  **Process Entry**:
+53.     *   Action: Use `run_command` to execute the Perl script.
+54.     *   Command: `./parse_transcription.pl transcriptions/preprocessed_YYYY-MM-DD-slug.json`
+55.     *   // turbo
+56. 6.  **Cleanup & Notify**:
+57.     *   Delete the temporary JSON file (optional, or keep for debugging).
+58.     *   Notify the user that the entry has been created.
