@@ -26,4 +26,4 @@ It has a vertical fall from like Y=222 all the way down to like Y=22 and thanks
 to minecraft railcart physics, people don't die when they hit the tracks at the
 bottom.
 
-[![2026 feb 08 roller coaster entrance](https://b.robnugen.com/journal/2026/thumbs/2026_feb_08_roller_coaster_entrance.png)](https://b.robnugen.com/journal/2026/2026_feb_08_roller_coaster_entrance_1000.png)
+[![2026 feb 08 roller coaster entrance](https://b.robnugen.com/journal/2026/thumbs/2026_feb_08_roller_coaster_entrance.png)](https://b.robnugen.com/journal/2026/2026_feb_08_roller_coaster_entrance.png)
