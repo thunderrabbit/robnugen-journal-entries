@@ -112,5 +112,18 @@ git log --oneline -9 | while IFS= read -r line; do
 done
 echo "" >&2
 
+# 7. Check for staged changes and commit if present
+if ! git diff --cached --quiet; then
+    echo "⚡ Staged changes detected. Committing with message: '$SERVER_WORD'" >&2
+    if git commit -m "$SERVER_WORD" >&2; then
+        echo "✅ Commit successful." >&2
+    else
+        echo "❌ Commit failed." >&2
+        exit 1
+    fi
+else
+    echo "ℹ️ No staged changes detected. Skipping commit." >&2
+fi
+
 # 7. Output ONLY the word to stdout
 printf "%s\n" "$SERVER_WORD"
