@@ -1,6 +1,6 @@
 ---
 title: "Sgonna Snow Tomorrow"
-tags: [ "2026", "Antigravity Voice Journal", "2026", "transcribed", "snow", "postpone" ]
+tags: [ "2026", "2026", "Antigravity Voice Journal", "2026", "transcribed", "snow", "postpone" ]
 author: Rob Nugen
 date: 2026-02-06T17:40:00+09:00
 draft: false
@@ -27,4 +27,4 @@ Kaz and Clare replied.  We decided to move it to next week which should be warme
 
 Yikes! Monday prediction is getting even colder!
 
-[![2026 feb 07 brrrrrr 1000](//b.robnugen.com/journal/2026/thumbs/2026_feb_07_brrrrrr.jpeg)](//b.robnugen.com/journal/2026.jpeg)
+[![2026 feb 07 brrrrrr 1000](//b.robnugen.com/journal/2026/thumbs/2026_feb_07_brrrrrr.jpeg)](//b.robnugen.com/journal/2026/2026_feb_07_brrrrrr.jpeg)
