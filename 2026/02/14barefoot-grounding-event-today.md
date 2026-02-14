@@ -1,10 +1,12 @@
 ---
 title: "Barefoot grounding event today"
-tags: [ "2026", "" ]
+tags: [ "2026", "2026", "" ]
 author: Rob Nugen
 date: 2026-02-14T16:19:00+09:00
 draft: false
 ---
+
+#### 16:19 Saturday 14 February 2026
 
 We had a great barefoot grounding event today I'm Shin Yuri Art Park.
 
