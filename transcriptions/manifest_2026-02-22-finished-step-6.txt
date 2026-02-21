@@ -1,0 +1,6 @@
+# Manifest for transcriptions/preprocessed_2026-02-22-finished-step-6.json
+# Generated: 22 Feb 2026
+# Journal: Antigravity Voice Journal
+# Entries processed: 1
+
+2026/02/22finished-step-6.md
