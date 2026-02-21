@@ -7,3 +7,5 @@ draft: false
 ---
 
 Yay Anthropic Claude for helping me through the steps!
+
+https://www.robnugen.com/en/blog/2026/02/20/debugging-site-deploy-with-ai-help/
