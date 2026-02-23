@@ -24,6 +24,6 @@ Oh - Jeff (Poet on Castle of Dreams) called me at Molly's. He took notes as I di
 describing what Thunder Rabbit is doing. As I was talking to him, I had my head on Molly's floor and my
 legs on her bed.
 
-Molly unvelcroed my shors and said, "Maggie, look," to Maggie, who was sitting at Molly's desk.
+Molly unvelcroed my shorts and said, "Maggie, look," to Maggie, who was sitting at Molly's desk.
 When Maggie looked, Molly lifted my underwear. Maggie says she didn't see anything, "or else [she] would
 pummell Molly" Those twins are crazy--
