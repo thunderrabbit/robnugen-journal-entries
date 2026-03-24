@@ -18,7 +18,13 @@ SERVER_OUTPUT=$(ssh -o BatchMode=yes quick "php quick.robnugen.com/bin/get-next-
 SSH_EXIT=$?
 
 if [ $SSH_EXIT -ne 0 ]; then
+    echo "" >&2
     echo "Error: Failed to connect to server or execute script." >&2
+    echo "The SSH key probably needs unlocking. Run:" >&2
+    echo "" >&2
+    echo "  ssh-add ~/.ssh/barefoot_rob_dh" >&2
+    echo "" >&2
+    echo "Enter the passphrase, then try this script again." >&2
     exit 1
 fi
 
