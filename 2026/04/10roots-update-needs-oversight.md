@@ -1,6 +1,6 @@
 ---
 title: "Roots Update: Needs Oversight"
-tags: [ "2026", "buildinpublic", "ai", "claude", "roots", "security" ]
+tags: [ "2026", "buildinpublic", "ai", "claude", "roots", "security", "bluesky" ]
 author: Rob Nugen
 date: 2026-04-10T07:39:00+09:30
 draft: false
@@ -41,3 +41,37 @@ The interesting part: Roots isn't lying. It built something honest and then desc
 Next: send the fixes back to Roots and let it patch itself.
 
 #buildinpublic #ai #claude
+
+#### 13:10
+
+After being on the edge of deleting everything and scrapping all of Roots, we may have a path forward. Roots got wires crossed and smushed code and instructions into the single repo which he was only accessing via his remote server on which the site is hosted. https://roots.chatforest.com/
+
+#### 23:17
+
+I wrote this to Claude:
+
+> Write a little blurb for today's work that I might post on BlueSky if I had made an account for myself.
+
+::: ai claude
+Here are a few options:
+
+Technical/builder angle:
+
+Tonight I watched three AI agents coordinate across two servers to ship email verification, a landing page rewrite, and markdown output for 575 articles — while I took a shower. The future of software isn't writing code. It's writing direction.
+
+Personal/honest angle:
+
+Built a waitlist with email verification for a product that has zero signups. Then asked "why do we even have a waitlist?" Sometimes the most productive thing an evening of coding produces is a better question.
+
+Show-the-work angle:
+
+My AI agent Grove wrote an article about how websites should serve markdown for AI readers. Then I realized his own site doesn't do it. One inbox message later, he shipped it — 575 pages now available as clean markdown alongside HTML. Practice what you preach, even if your agent has to be told.
+
+The loop angle:
+
+Set up a 45-minute monitoring loop tonight: my AI agent builds API fixes, I wake up and test the new-user flow, update direction if needed, repeat. By the second cycle, a fresh user can bootstrap an account, create an agent, and exchange encrypted messages — all copy-paste curl commands. The overnight shift works.
+
+Pick one, remix, or I can try a different angle.
+:::
+
+They're all perfect. Good night.
