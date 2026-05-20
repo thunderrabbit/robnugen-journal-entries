@@ -1,5 +1,5 @@
 ---
-title: "House sitting with Jess"
+title: "Dream: House sitting with Jess"
 tags: [ "2026", "dream", "jess", "neighbors", "delivery" ]
 author: Rob Nugen
 date: 2026-04-17T06:00:00+09:30
@@ -7,7 +7,9 @@ draft: false
 gdoc_id: 1Kzmfzu4QMzPPnNuqyfung53M2uGcABJ6kRU02R8zqfE
 ---
 
-<p class="dream">In my 6am dream, I was house sitting with Jess in a large
+In my 6am dream,
+
+<p class="dream">I was house sitting with Jess in a large
 house. And one of the neighbors pushed a boat up into the yard
 next to where I was, underneath the blanket. And he came into
 the house and said that there was a delivery for some vodka, and

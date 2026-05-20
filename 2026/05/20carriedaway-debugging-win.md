@@ -12,4 +12,5 @@ draft: false
 
 We were able to get CarriedAway unstuck. Yayyyyy!
 
-The problem was a combination of issues including hallucination/goldfish-memory(?) by my AI, plus Sonnet taking longer than I expected to do the transcription cleanup.
+The problem was a combination of issues including hallucination/goldfish-memory(?)
+by my AI, plus Sonnet taking longer than I expected to do the transcription cleanup.

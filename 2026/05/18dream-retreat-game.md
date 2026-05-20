@@ -1,5 +1,5 @@
 ---
-title: "Retreat game"
+title: "Dream: Retreat game"
 tags: [ "2026", "dream", "men", "retreat", "games" ]
 author: Rob Nugen
 date: 2026-05-18T06:00:00+09:30
@@ -7,7 +7,9 @@ draft: false
 gdoc_id: 14P2_HX5b423G-0nwUlvCIZXxOWkOKZ5yvQo3Ekzpsq4
 ---
 
-<p class="dream">6 a.m. dream. I was with a group of men in some kind
+#### 6 a.m. dream.
+
+<p class="dream">I was with a group of men in some kind
 of retreat of sorts that was not particularly organized, but we had
 been playing games and one particular one we were rolling a wooden
 ball at some blocks like a weird version of bowling versus a marble

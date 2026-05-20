@@ -7,9 +7,9 @@ draft: false
 gdoc_id: 1IPr_vHkdCO-iVcrXFC5zcT2gmHYzWzqDdydWggFHxQU
 ---
 
-<p class="dream">2 am dream.</p>
+#### 2 am
 
-<p class="dream">Was facing someone. Maybe it's like a spiritual someone,
+<p class="dream">I was facing someone. Maybe it's like a spiritual someone,
 or someone who was aware that I was dreaming. Was inviting me to
 wake up within the dream. I could. I knew I was dreaming, and I
 could see him clearly, even though I was dreaming. And there was

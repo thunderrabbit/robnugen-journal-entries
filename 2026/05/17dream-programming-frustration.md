@@ -1,5 +1,5 @@
 ---
-title: "Programming frustration"
+title: "Dream: Programming frustration"
 tags: [ "2026", "dream" ]
 author: Rob Nugen
 date: 2026-05-17T12:20:00+09:30
@@ -20,10 +20,10 @@ angry, so furious that the computer wasn't working correctly.</p>
 
 <p class="dream">And I said, I was going to die, like it was so angry I
 would die, and they were suddenly like, oh, don't kill
-yourself, and I'm like, f*** you. I'm not gonna kill myself.
+yourself, and I'm like, fuck you. I'm not gonna kill myself.
 I'm just literally gonna die, and you're making it worse.
 I went upstairs to get away from everybody, and then my
-mother or the Divine mother came up.</p>
+mother or the Divine mother came up to help me.
+And I was feeling better. I was feeling better,</p>
 
-<p class="dream">Help me. And I was feeling better. I was feeling better,
-and I woke up. I started to feel better.</p>
+I woke up. I started to feel better.
