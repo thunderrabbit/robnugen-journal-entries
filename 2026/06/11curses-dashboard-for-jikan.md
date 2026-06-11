@@ -1,6 +1,6 @@
 ---
 title: "Curses Dashboard for Jikan"
-tags: [ "2026", "2026", "ai", "claude", "dashboard", "jikan", "todo" ]
+tags: [ "2026", "2026", "2026", "ai", "claude", "dashboard", "jikan", "todo" ]
 author: Rob Nugen
 date: 2026-06-11T15:11:00+09:00
 draft: false
@@ -12,4 +12,4 @@ And also, OMG, this dashboard is amazing.  Hilarously, it's mouse-enabled so I c
 
 [![2026 jun 11 dashboard v1 1000](//b.robnugen.com/journal/2026/thumbs/2026_jun_11_dashboard_v1.jpeg)](//b.robnugen.com/journal/2026/2026_jun_11_dashboard_v1_1000.jpeg)
 
-I'm so happy and so excited to keep my priorities straighter 😊
+I'm so happy and so excited to keep my priorities straight(er) 😊
