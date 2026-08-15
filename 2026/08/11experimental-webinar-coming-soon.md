@@ -13,10 +13,10 @@ Ring Ring!
 Your Life is Calling.
 Are You Willing to Answer?
 
-* You have lived many lives 
+* You have lived many lives
 * But right now you have just one life to live
-* Life is happening for you not to you 
-* A man lives two lives.  The second one starts when he realizes he only has one. 
+* Life is happening for you not to you
+* A man lives two lives.  The second one starts when he realizes he only has one.
 
 My second life may have started last night. Listening to a podcast, I heard about a man whose two children had been killed in a tragic car accident; he went into a state of numbness for one year, and painted over all his windows so he couldn't see outside his house.
 
