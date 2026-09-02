@@ -2,14 +2,16 @@
 title: "Australia Farewell"
 tags: [ "2026", "dream", "bootcamp", "australia", "friends", "university" ]
 author: Rob Nugen
-date: 2026-08-28T13:46:00+09:00
+date: 2026-08-27T13:46:00+09:00
 draft: false
 gdoc_id: 1t-Ozb8ACr3C1aWjCc3UGm8aHUVl8AzP0VUFXm7jx8Ak
 ---
 
-<p class="dream">I did meditation this morning and after 21 minutes
+I did meditation this morning and after 21 minutes
 only. I was so falling asleep, so I went back to
-sleep. And I just now had a dream that I was back in
+sleep. And I just now had a dream that
+
+<p class="dream">I was back in
 University and seeing some of my people from boot
 camp, including Emi who no longer is a boot camp
 leader, and Stanley, who has never been a leader but

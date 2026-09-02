@@ -2,7 +2,7 @@
 title: "Time travel bicycle"
 tags: [ "2026", "dream" ]
 author: Rob Nugen
-date: 2026-08-28T03:00:00+09:00
+date: 2026-08-29T03:00:00+09:00
 draft: false
 gdoc_id: 1A0QWDyfAe4ffY7gHkIPEqQTyKHua0fy7HdM-udGUFmc
 ---

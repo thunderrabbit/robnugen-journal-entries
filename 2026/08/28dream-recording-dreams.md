@@ -27,25 +27,28 @@ something like getting into a physical capsule when
 going to sleep.
 </p>
 
-<p class="dream">
 I heard a sound come from my phone, which was a literal
 physical sound. I'm going to switch my phone to airplane
 mode. To be clear, the audio happened because my phone
 was unplugged since I've been doing these different
 recordings. Now I'm going to plug in my phone and it
 will switch to do-not-disturb mode.
-</p>
 
 <p class="dream">
 I was again dreaming of recording a dream, which I had
 been thinking about how Tom Bilyeu said that governments
 tend to lose the things that they tax. When states are
-taxing billionaires, they tend to lose billionaires. I
-read some text and read it again. I just heard the
+taxing billionaires, they tend to lose billionaires.
+</p>
+
+I just heard the
 audio cue to read some text and read it again. I'm
 looking at August 28th. I closed my eyes, it opened my
 eyes, it still says August 28th. That counts as a
-lucidity check. I was thinking about things that are
+lucidity check.
+
+<p class="dream">
+I was thinking about things that are
 taxed tend to go away and could see a large structure,
 like an edifice, maybe a government building trying to
 do something but actually doing the exact opposite. I
@@ -64,7 +67,6 @@ means "Can it be entered?" with an incredulous marker.
 He was surprised it was even possible to enter the road.
 </p>
 
-<p class="dream">
 Before that I was wondering if I had recorded. The
 architecture of the app would be optimal if it could
 record with a buffer. I could connect to the same Google
@@ -86,7 +88,6 @@ useful for others. That part is my financial mind
 thinking about things. My heart is just saying keep
 exploring what I enjoy and keep praying for support
 from guides and higher power.
-</p>
 
 <p class="dream">
 I was at an outdoor picnic type thing while watching
