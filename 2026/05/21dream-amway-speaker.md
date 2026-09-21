@@ -1,5 +1,5 @@
 ---
-title: "Amway speaker in classroom"
+title: "Dream: Amway speaker in classroom"
 tags: [ "2026", "dream", "amway", "mlm", "speaker" ]
 author: Rob Nugen
 date: 2026-05-21T06:00:00+09:30

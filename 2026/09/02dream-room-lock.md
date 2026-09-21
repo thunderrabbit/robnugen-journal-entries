@@ -1,5 +1,5 @@
 ---
-title: "Room, lock, and ice"
+title: "Dream: Room, lock, and ice"
 tags: [ "2026", "dream" ]
 author: Rob Nugen
 date: 2026-09-02T06:32:00+09:00

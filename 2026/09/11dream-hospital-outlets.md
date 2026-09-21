@@ -1,5 +1,5 @@
 ---
-title: "Hospital electrical outlets"
+title: "Dream: Hospital electrical outlets"
 tags: ["2026", "dream"]
 author: Rob Nugen
 date: 2026-09-11T07:04:00+09:00

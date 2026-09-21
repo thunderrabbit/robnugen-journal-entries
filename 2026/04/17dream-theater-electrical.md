@@ -1,5 +1,5 @@
 ---
-title: "Theater electrical"
+title: "Dream: Theater electrical"
 tags: [ "2026", "dream", "theater" ]
 author: Rob Nugen
 date: 2026-04-17T04:00:00+09:30

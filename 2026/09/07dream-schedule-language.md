@@ -1,5 +1,5 @@
 ---
-title: "Schedule and language model"
+title: "Dream: Schedule and language model"
 tags: ["2026", "dream"]
 author: Rob Nugen
 date: 2026-09-07T01:44:00+09:00

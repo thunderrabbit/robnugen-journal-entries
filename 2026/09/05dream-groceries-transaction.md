@@ -1,5 +1,5 @@
 ---
-title: "Groceries transaction"
+title: "Dream: Groceries transaction"
 tags: ["2026", "dream"]
 author: Rob Nugen
 date: 2026-09-05T06:33:00+09:00

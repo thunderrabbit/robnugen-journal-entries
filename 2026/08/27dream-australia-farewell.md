@@ -1,5 +1,5 @@
 ---
-title: "Australia Farewell"
+title: "Dream: Australia Farewell"
 tags: [ "2026", "dream", "bootcamp", "australia", "friends", "university" ]
 author: Rob Nugen
 date: 2026-08-27T13:46:00+09:00

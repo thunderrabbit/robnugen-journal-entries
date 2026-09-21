@@ -1,5 +1,5 @@
 ---
-title: "Jet engine, beach playground, actors"
+title: "Dream: Jet engine, beach playground, actors"
 tags: [ "2026", "dream" ]
 author: Rob Nugen
 date: 2026-09-01T05:45:00+09:00

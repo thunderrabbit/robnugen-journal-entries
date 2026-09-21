@@ -1,5 +1,5 @@
 ---
-title: "Gymnasium, Jesse, and the Angry Lego Collector"
+title: "Dream: Gymnasium, Jesse, and the Angry Lego Collector"
 tags: [ "2026", "dream" ]
 author: Rob Nugen
 date: 2026-04-15T18:22:00+09:30

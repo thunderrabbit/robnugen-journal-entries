@@ -1,5 +1,5 @@
 ---
-title: "Holding space for a workshop"
+title: "Dream: Holding space for a workshop"
 tags: [ "2026", "dream" ]
 author: Rob Nugen
 date: 2026-06-01T07:00:00+09:30

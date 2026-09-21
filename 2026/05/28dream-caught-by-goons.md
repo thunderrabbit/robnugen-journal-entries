@@ -1,5 +1,5 @@
 ---
-title: "Caught by Goons"
+title: "Dream: Caught by Goons"
 tags: [ "2026", "dream" ]
 author: Rob Nugen
 date: 2026-05-28T10:16:39+09:30

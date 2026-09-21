@@ -1,5 +1,5 @@
 ---
-title: "Time capsule buried keys"
+title: "Dream: Time capsule buried keys"
 tags: [ "2026", "dream", "frisbee", "japan", "travel" ]
 author: Rob Nugen
 date: 2026-05-25T12:22:13+09:30
