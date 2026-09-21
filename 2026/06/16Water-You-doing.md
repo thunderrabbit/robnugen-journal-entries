@@ -6,8 +6,6 @@ date: 2026-06-16T09:11:00+09:00
 draft: false
 ---
 
-<div class="note">Originally compiled by <a href="/en/blog/2026/03/20/meet-carrie-my-quiet-librarian-agent/">Carrie</a>.</div>
-
 #### 09:11
 
 Last night I got back to my apartment in Yurigaoka. Everything looks untouched; and my neighbor put a stack of bills for me at the entry.

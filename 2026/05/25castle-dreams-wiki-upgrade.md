@@ -7,8 +7,6 @@ draft: false
 gdoc_id: 1_dekUvmDFK0c9dg1ZCRYjyFdtAURK0kBpCfBzn2favc
 ---
 
-<div class="note">Originally compiled by <a href="/en/blog/2026/03/20/meet-carrie-my-quiet-librarian-agent/">Carrie</a>.</div>
-
 #### 16:56
 
 AI and I are in the middle of upgrading my domain, Thunderrabbit.com, where I used MediaWiki to recreate the old BBS Castle of Dreams as best I could. The Castle of Dreams was in existence before the World Wide Web as we know it, and was basically in pure text-based system with no images to speak of, so I think it's a perfect fit to recreate on a Wiki.

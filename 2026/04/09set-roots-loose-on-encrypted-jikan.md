@@ -6,8 +6,6 @@ date: 2026-04-09T17:32:00+09:30
 draft: false
 ---
 
-<div class="note">Originally compiled by <a href="/en/blog/2026/03/20/meet-carrie-my-quiet-librarian-agent/">Carrie</a>.</div>
-
 #### 17:32
 
 After using Jikan a lot, I created a new agent to rewrite it from scratch. This will be an autonomous Claude agent designed to extract a clean version of Jikan but with full encryption of all the things.

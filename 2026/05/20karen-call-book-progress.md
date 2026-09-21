@@ -6,8 +6,6 @@ date: 2026-05-20T08:25:00+09:30
 draft: false
 ---
 
-<div class="note">Originally compiled by <a href="/en/blog/2026/03/20/meet-carrie-my-quiet-librarian-agent/">Carrie</a>.</div>
-
 #### 08:25
 
 I had a great call this morning with Karen, my book accountability buddy who was happy to hear how well I've been doing with book translation to Japanese and perhaps amazed to hear how much is possible with AI agents.

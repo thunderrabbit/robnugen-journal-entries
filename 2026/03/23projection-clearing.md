@@ -6,8 +6,6 @@ date: 2026-03-28T15:44:00+08:00
 draft: false
 ---
 
-<div class="note">Originally compiled by <a href="/en/blog/2026/03/20/meet-carrie-my-quiet-librarian-agent/">Carrie</a>.</div>
-
 #### 15:44
 
 I just did a great piece of inner work, clearing some projections

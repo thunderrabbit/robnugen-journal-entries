@@ -6,8 +6,6 @@ date: 2026-03-21T11:49:00+10:30
 draft: false
 ---
 
-<div class="note">Originally compiled by <a href="/en/blog/2026/03/20/meet-carrie-my-quiet-librarian-agent/">Carrie</a>.</div>
-
 #### 11:49
 
 We're back from the beach, and Reggie is happy to see us.

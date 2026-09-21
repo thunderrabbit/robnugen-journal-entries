@@ -6,8 +6,6 @@ date: 2026-03-19T14:00:00+10:30
 draft: false
 ---
 
-<div class="note">Originally compiled by <a href="/en/blog/2026/03/20/meet-carrie-my-quiet-librarian-agent/">Carrie</a>.</div>
-
 #### 14:00
 
 Today I visited the Telstra shop on Rundle Mall to get an OZ SIM card.

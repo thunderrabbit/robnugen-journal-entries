@@ -6,8 +6,6 @@ date: 2026-04-11T11:09:05+09:30
 draft: false
 ---
 
-<div class="note">Originally compiled by <a href="/en/blog/2026/03/20/meet-carrie-my-quiet-librarian-agent/">Carrie</a>.</div>
-
 #### 11:09
 
 Boss Claude and I just launched 3 repositories on GitHub:

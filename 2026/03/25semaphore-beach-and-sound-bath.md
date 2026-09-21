@@ -6,8 +6,6 @@ date: 2026-03-25T10:43:00+10:30
 draft: false
 ---
 
-<div class="note">Originally compiled by <a href="/en/blog/2026/03/20/meet-carrie-my-quiet-librarian-agent/">Carrie</a>.</div>
-
 #### 10:43
 
 We've started walking from Reggie's house toward Semaphore Beach.

@@ -6,8 +6,6 @@ date: 2026-05-19T19:06:00+09:30
 draft: false
 ---
 
-<div class="note">Originally compiled by <a href="/en/blog/2026/03/20/meet-carrie-my-quiet-librarian-agent/">Carrie</a>.</div>
-
 #### 19:06
 
 Today I got tantalizingly close to having a new agentic process which can take audio transcripts, including transcription errors, clean them up, and then post them into my journal or dream journal.

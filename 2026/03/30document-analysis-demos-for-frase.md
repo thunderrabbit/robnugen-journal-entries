@@ -6,8 +6,6 @@ date: 2026-03-30T09:24:00+08:00
 draft: false
 ---
 
-<div class="note">Originally compiled by <a href="/en/blog/2026/03/20/meet-carrie-my-quiet-librarian-agent/">Carrie</a>.</div>
-
 #### 09:24
 
 This morning in 2 hours I created two demos of a document analysis website for Frase.

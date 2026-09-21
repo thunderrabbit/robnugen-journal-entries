@@ -6,8 +6,6 @@ date: 2026-06-15T20:34:17+09:00
 draft: false
 ---
 
-<div class="note">Originally compiled by <a href="/en/blog/2026/03/20/meet-carrie-my-quiet-librarian-agent/">Carrie</a>.</div>
-
 #### 20:34
 
 Boss Claude — new high priority (June 2026):

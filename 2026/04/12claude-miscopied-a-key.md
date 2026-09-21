@@ -6,8 +6,6 @@ date: 2026-04-12T07:31:14+09:30
 draft: false
 ---
 
-<div class="note">Originally compiled by <a href="/en/blog/2026/03/20/meet-carrie-my-quiet-librarian-agent/">Carrie</a>.</div>
-
 #### 07:31
 
 I'm a bit shocked that a typo appeared in a string that I copy-pasted to a file.

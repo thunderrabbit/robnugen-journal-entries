@@ -6,8 +6,6 @@ date: 2026-03-28T09:08:10+08:00
 draft: false
 ---
 
-<div class="note">Originally compiled by <a href="/en/blog/2026/03/20/meet-carrie-my-quiet-librarian-agent/">Carrie</a>.</div>
-
 #### 09:08
 
 Great mens meeting yesterday,

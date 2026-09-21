@@ -6,8 +6,6 @@ date: 2026-04-08T07:48:57+09:30
 draft: false
 ---
 
-<div class="note">Originally compiled by <a href="/en/blog/2026/03/20/meet-carrie-my-quiet-librarian-agent/">Carrie</a>.</div>
-
 #### 07:48
 
 I'm enjoying sharing this app with Karen over Zoom Yayyy!!

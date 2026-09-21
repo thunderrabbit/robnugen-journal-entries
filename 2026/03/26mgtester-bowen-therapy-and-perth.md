@@ -6,8 +6,6 @@ date: 2026-03-26T15:24:00+10:30
 draft: false
 ---
 
-<div class="note">Originally compiled by <a href="/en/blog/2026/03/20/meet-carrie-my-quiet-librarian-agent/">Carrie</a>.</div>
-
 #### 15:24
 
 Boss Claude and I have been working with a new agent call mgTester who has created tests to make sure https://mg.robnugen.com/ does all the right things with respect to permissions for inbox and todos, etc.

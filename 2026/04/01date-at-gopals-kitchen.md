@@ -6,8 +6,6 @@ date: 2026-04-01T14:30:00+10:30
 draft: false
 ---
 
-<div class="note">Originally compiled by <a href="/en/blog/2026/03/20/meet-carrie-my-quiet-librarian-agent/">Carrie</a>.</div>
-
 #### 14:30
 
 Jess and I enjoyed a great date at Gopal's Kitchen. We enjoyed the buffet and then had two flavors of ice cream each.  I got chocolate chip cookie dough + chocolate.  Jess got strawberry and caramel.  We ended up switching chocolate for caramel.

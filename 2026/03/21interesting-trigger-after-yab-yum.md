@@ -6,8 +6,6 @@ date: 2026-03-21T22:00:00+10:30
 draft: false
 ---
 
-<div class="note">Originally compiled by <a href="/en/blog/2026/03/20/meet-carrie-my-quiet-librarian-agent/">Carrie</a>.</div>
-
 #### 22:00
 
 <div class="note">written 10:17 22nd March 2026</div>

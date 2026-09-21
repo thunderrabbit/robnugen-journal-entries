@@ -6,8 +6,6 @@ date: 2026-03-28T21:15:32+10:30
 draft: false
 ---
 
-<div class="note">Originally compiled by <a href="/en/blog/2026/03/20/meet-carrie-my-quiet-librarian-agent/">Carrie</a>.</div>
-
 #### 21:15
 
 Yayyyy I'm so happy to show Marble Track 3 to Paul and Jo!  Thanks to Frase for mentioning it to our group at dinner.

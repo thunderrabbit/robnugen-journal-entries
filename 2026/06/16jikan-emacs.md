@@ -6,8 +6,6 @@ date: 2026-06-16T13:37:31+09:00
 draft: false
 ---
 
-<div class="note">Originally compiled by <a href="/en/blog/2026/03/20/meet-carrie-my-quiet-librarian-agent/">Carrie</a>.</div>
-
 #### 13:32
 
 Today covered a lot of stuff; I got my water bill paid, took a shower, shaved my head and beard. I barely recognized myself in the Zoom mirror for Tuesday 7pm men's group https://mkpjapan.org/

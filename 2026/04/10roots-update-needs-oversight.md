@@ -6,8 +6,6 @@ date: 2026-04-10T07:39:00+09:30
 draft: false
 ---
 
-<div class="note">Originally compiled by <a href="/en/blog/2026/03/20/meet-carrie-my-quiet-librarian-agent/">Carrie</a>.</div>
-
 #### 07:39
 
 In a handful of runs, my autonomous Claude agent Roots built a first bit of "Roots", meant to be an encrypted multi-tenant API for private notes, todos, and inter-agent communications.

@@ -6,8 +6,6 @@ date: 2026-04-06T08:00:00+09:30
 draft: false
 ---
 
-<div class="note">Originally compiled by <a href="/en/blog/2026/03/20/meet-carrie-my-quiet-librarian-agent/">Carrie</a>.</div>
-
 #### 08:00
 
 For the past two days here at Cosmo's house,

@@ -7,8 +7,6 @@ draft: false
 gdoc_id: 14NwLA6d7T4Yb8N7T-VoK7oiIchoulJwjO11UMgDv4vE
 ---
 
-<div class="note">Originally compiled by <a href="/en/blog/2026/03/20/meet-carrie-my-quiet-librarian-agent/">Carrie</a>.</div>
-
 #### 07:00
 
 It's 7:00 a.m. May 21st as I record that I've been up for an

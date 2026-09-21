@@ -6,8 +6,6 @@ date: 2026-03-20T10:00:00+10:30
 draft: false
 ---
 
-<div class="note">Originally compiled by <a href="/en/blog/2026/03/20/meet-carrie-my-quiet-librarian-agent/">Carrie</a>.</div>
-
 #### 10:00
 
 Jess and I are ready to meet Reggie's dad who will take us to his house where we'll stay to watch Reggie.

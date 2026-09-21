@@ -7,8 +7,6 @@ draft: false
 gdoc_id: 14E-eUVGEpPGQbUghjkpya4a-oCr65TDEWEg7zRasun8
 ---
 
-<div class="note">Originally compiled by <a href="/en/blog/2026/03/20/meet-carrie-my-quiet-librarian-agent/">Carrie</a>.</div>
-
 #### 13:00
 
 After Jess's workshop, we went to the sanctuary for the

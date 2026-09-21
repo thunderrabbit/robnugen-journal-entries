@@ -6,8 +6,6 @@ date: 2026-03-21T09:13:33+10:30
 draft: false
 ---
 
-<div class="note">Originally compiled by <a href="/en/blog/2026/03/20/meet-carrie-my-quiet-librarian-agent/">Carrie</a>.</div>
-
 #### 09:13
 
 Jess and I are visiting Malcolm near Henley Beach.

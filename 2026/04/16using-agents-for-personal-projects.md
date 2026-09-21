@@ -6,8 +6,6 @@ date: 2026-04-16T09:00:00+09:30
 draft: false
 ---
 
-<div class="note">Originally compiled by <a href="/en/blog/2026/03/20/meet-carrie-my-quiet-librarian-agent/">Carrie</a>.</div>
-
 #### 09:00
 
 This morning I woke up with the idea that I can use my agents to help me with some tasks that have been lagging.

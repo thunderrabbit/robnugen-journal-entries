@@ -7,8 +7,6 @@ draft: false
 gdoc_id: 1AtCkSjH1JUSVwLSufTmpvHU9GJGcb1pmVERyYNekb-c
 ---
 
-<div class="note">Originally compiled by <a href="/en/blog/2026/03/20/meet-carrie-my-quiet-librarian-agent/">Carrie</a>.</div>
-
 #### 23:00
 
 Carrie, prepend title with "zzzzz"
