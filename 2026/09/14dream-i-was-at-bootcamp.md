@@ -2,7 +2,7 @@
 title: "Dream: I Was At Bootcamp"
 tags: [ "2026", "dream" ]
 author: Rob Nugen
-date: 2026-09-14T04:29:00+09:00
+date: 2026-09-14T04:29:00+09:30
 draft: false
 gdoc_id: dream-20260914-042915
 ---

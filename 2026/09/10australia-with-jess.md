@@ -2,7 +2,7 @@
 title: "Australia with Jess"
 tags: [ "2026", "australia", "jess", "travel" ]
 author: Rob Nugen
-date: 2026-09-10T06:48:00+09:00
+date: 2026-09-10T06:48:00+09:30
 draft: false
 gdoc_id: journal-20260910-0648
 ---

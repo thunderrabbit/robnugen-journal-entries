@@ -2,7 +2,7 @@
 title: "Morning full night sleep"
 tags: [ "2026", "health", "tooth", "jess" ]
 author: Rob Nugen
-date: 2026-09-21T07:02:00+09:00
+date: 2026-09-21T07:02:00+09:30
 draft: false
 gdoc_id: journal-20260921-070250
 ---

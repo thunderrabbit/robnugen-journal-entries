@@ -2,7 +2,7 @@
 title: "Adelaide morning schedule"
 tags: [ "2026", "adelaide", "schedule", "work" ]
 author: Rob Nugen
-date: 2026-09-16T06:19:00+09:00
+date: 2026-09-16T06:19:00+09:30
 draft: false
 gdoc_id: journal-20260916-061925
 ---

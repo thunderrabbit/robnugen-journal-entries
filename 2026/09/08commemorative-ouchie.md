@@ -2,7 +2,7 @@
 title: "commemorative ouchie"
 tags: [ "2026", "" ]
 author: Rob Nugen
-date: 2026-09-08T18:01:00+09:00
+date: 2026-09-08T18:01:00+09:30
 draft: false
 ---
 

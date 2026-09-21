@@ -2,7 +2,7 @@
 title: "banana lunch and matchmaking"
 tags: [ "2026", "" ]
 author: Rob Nugen
-date: 2026-09-20T12:18:00+09:00
+date: 2026-09-20T12:18:00+09:30
 draft: false
 ---
 

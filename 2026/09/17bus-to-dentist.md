@@ -2,7 +2,7 @@
 title: "Bus to dentist"
 tags: [ "2026", "dentist", "travel" ]
 author: Rob Nugen
-date: 2026-09-17T14:44:00+09:00
+date: 2026-09-17T14:44:00+09:30
 draft: false
 gdoc_id: journal-20260917-144434
 ---

@@ -2,7 +2,7 @@
 title: "first day in OZ "
 tags: [ "2026", "" ]
 author: Rob Nugen
-date: 2026-09-09T20:50:00+09:00
+date: 2026-09-09T20:50:00+09:30
 draft: false
 ---
 

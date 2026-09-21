@@ -2,7 +2,7 @@
 title: "Panic in front of a camera"
 tags: [ "2026", "jess", "marketing" ]
 author: Rob Nugen
-date: 2026-09-13T20:08:00+09:00
+date: 2026-09-13T20:08:00+09:30
 draft: false
 gdoc_id: journal-20260913-200807
 ---

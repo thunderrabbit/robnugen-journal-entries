@@ -2,7 +2,7 @@
 title: "Insights with Jess"
 tags: [ "2026", "jess", "relationship", "vulnerability" ]
 author: Rob Nugen
-date: 2026-09-16T06:17:00+09:00
+date: 2026-09-16T06:17:00+09:30
 draft: false
 gdoc_id: journal-20260916-061709
 ---

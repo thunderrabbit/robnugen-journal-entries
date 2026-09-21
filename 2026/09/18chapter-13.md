@@ -2,7 +2,7 @@
 title: "Chapter 13 — spiritual support & consciousness technology"
 tags: [ "2026", "book", "i-m-fine", "jess", "spirituality", "consciousness", "technology" ]
 author: Rob Nugen
-date: 2026-09-17T07:21:00+09:00
+date: 2026-09-17T07:21:00+09:30
 draft: false
 gdoc_id: journal-20260918-072148
 ---

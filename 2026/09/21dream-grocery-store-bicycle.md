@@ -2,7 +2,7 @@
 title: "Grocery store bicycle dream"
 tags: [ "2026", "dream" ]
 author: Rob Nugen
-date: 2026-09-21T07:00:00+10:30
+date: 2026-09-21T07:00:00+09:30
 draft: false
 gdoc_id: dream-20260921-070004
 ---

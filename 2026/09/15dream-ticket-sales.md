@@ -2,7 +2,7 @@
 title: "Dream: Theater ticket sales layout"
 tags: [ "2026", "dream" ]
 author: Rob Nugen
-date: 2026-09-15T06:31:00+10:30
+date: 2026-09-15T06:31:00+09:30
 draft: false
 gdoc_id: dream-20260915-063129
 ---

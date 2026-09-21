@@ -2,7 +2,7 @@
 title: "Dream: Phone screen check"
 tags: ["2026", "dream"]
 author: Rob Nugen
-date: 2026-09-13T07:43:00+09:00
+date: 2026-09-13T07:43:00+09:30
 draft: false
 gdoc_id: dream-20260913-0743
 ---
