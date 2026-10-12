@@ -9,17 +9,23 @@ gdoc_id: journal-20261008-190726
 
 #### 19:07
 
-Okay, so this story happened when I was visiting Oregon in the United
-States, where marijuana is legal. It was the first time I had been in a
-place where marijuana was legal. So I talked to my host. I was like,
-hey man, I understand that marijuana is legal here. He's like, oh yeah,
-I've got some. I've got some cookies at home that you can try if you
-want to. I was like, okay, that sounds fine.
+I had come to Oregon to attend a leadership training with ManKind Project. After that training weekend was over. I was staying one night
+at a fellow parcipant's house before my flight home.
 
-I had been there to attend a leadership training, what was called
-leadership training with ManKind Project. So this is after that training
-weekend was over. I was staying at his house for one night, but until or
-before my flight to go home. And at his house he was working on cutting
+This was my first time I had been to a place where marijuana was legal,
+so I wanted to take the opportunity to explore something new.
+
+I asked my host, "hey....," with a pause on the `...` to bring up
+what I thought might be a
+possibly sensiive topic, "I understand that marijuana is legal here."
+
+He's like, "oh yeah, we can get you some if you want,
+and I've got some cookies at home that you can try."
+
+I was glad he had cookies as an option!  I'd far prefer edibles
+over smoking.
+
+And at his house he was working on cutting
 some shelves for some, he's making shelves basically, and he was cutting
 them in the, he had not in his garage, but he had a patio area where he
 was cutting out outside. And before he went to work on that, he went in
