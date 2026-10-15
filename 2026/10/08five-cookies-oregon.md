@@ -25,46 +25,55 @@ and I've got some cookies at home that you can try."
 I was glad he had cookies as an option!  I'd far prefer edibles
 over smoking.
 
-And at his house he was working on cutting
-some shelves for some, he's making shelves basically, and he was cutting
-them in the, he had not in his garage, but he had a patio area where he
-was cutting out outside. And before he went to work on that, he went in
-his freezer. He pulled out five, basically, pot cookies that had
-marijuana in them. He put them — I don't remember how many it was
-exactly — but he gave me one. He said, okay, have this one. If you don't
-feel anything within 30 minutes, here are some others. And I'm like,
-okay. So I had the one, and then we went out. I was helping him, not
-helping. I was kind of watching and talking with him about cutting the
+At his house he had a patio area where he was working on cutting boards to make some shelves.
+Before he went to work on that, he went to
+his freezer. He pulled out five pot cookies.
+He gave me one. He said, "okay, have this one. If you don't
+feel anything within 30 minutes, here are some others."
+
+And I'm like,
+okay. So I had the one, and then we went outside to work on the shelves.
+I was watching him, not helping *per se* but talking with him about cutting the
 shelves and what he's planning to do.
 
 After about 30 minutes I was like, eh, not really feeling anything. So I
-went back into the kitchen, and I ate not one or two or three. I ate all
-the rest of the cookies, so it was at least four, maybe five. I don't
-remember. It was five total, or five, but I ate all of them.
+went back into the kitchen, and I ate (guess how many?) all
+the rest of the cookies; it was either five or six altogether.
 
-And pretty soon thereafter it was like, whoa, shit, what is happening?
-Because I could feel — it's hard to describe — this sense of time going
-very slowly. If I can move my hand, it's like I can see every millimeter
-of motion happening, and it seems like every millimeter is taking a
-hundred years to happen. It was just this really weird sense of time
-dilation, and I couldn't understand much details. Logic was just out
-the window. Well, how the fuck is it taking 100 years to move my hand?
-That's the kind of the characterization of it. But I think before that
-happened, I ate the cookies. I went outside to where he was still
+I went outside to where he was still
 cutting the wood, and it was while I was out there that this sensation
-just hit me. And I was like, holy shit, this is weird. And I told him,
-I was like, whoa, I can feel it. I mean, it's really bizarre. I can't
-tell how long things are happening. I don't know what's — not what's
-going on — but I know you're still you. I know you're making shelves.
-But the story was easily 10 years ago, almost.
+just hit me.
+
+And pretty soon thereafter it was like, -*BOOM*- **NOW** I'm feeling it.
+
+Whoa, shit, what is happening?
+
+I knew who I was but I could feel this sense of time going
+very slowly. So much time passed so quickly, I would continuously feel like
+for every normal moment lasting maybe a second, a hundred years of experience had passed.
+
+I would continuously forget what had happened a moment ago because I had experienced so much time.
+
+If I moved my hand, it's like I can both see it moving normally, but for every millimeter
+of motion happening, it's taking a hundred years to happen.
+
+Because I couldn't remember anything for even a second, logic was just out
+the window.
+
+I told him, "whoa, now I can feel it. I mean, it's really bizarre. I can't
+tell how long things are happening. I know you're making shelves, but I sure
+as heck cannot help you cut them.
 
 For some reason he joked about the length of the shelf that he was
-cutting. He said, if I cut the shelf too short, I can just use my board
-stretcher and stretch the board. And I was like, now I might be high, but
-I know you do not have a board stretcher. That doesn't exist. That's not
-a thing. But I also was like, mad, kind of, why would he say that? Because
-I'm in a sensitive state of mind. That guy is an asshole. You know, just
-really upset that — why would he say such a thing and fuck with me while
+cutting. He said, "if I cut the shelf too short, I can just use my board
+stretcher and stretch the board."
+
+And I was thinking, "now I might be high, but
+I know you do not have a board stretcher." That doesn't exist. That's not
+a thing. But I also was like, mad, kind of,
+*why would he say that? Why would he try to trick me while I'm in a sensitive state of mind?*
+
+I had this simple realization: that guy is an asshole. You know, why would he say such a thing and fuck with me while
 I'm in this altered state?
 
 Somewhere tied in there, I was trying to add two numbers together, but I
