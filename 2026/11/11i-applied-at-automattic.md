@@ -1,6 +1,6 @@
 ---
 title: "I applied at Automattic"
-tags: [ "2026", "2026", "" ]
+tags: [ "2026", "job", "automattic" ]
 author: Rob Nugen
 date: 2026-11-11T07:54:00+09:00
 draft: false
@@ -33,14 +33,25 @@ Integrating this template and process with AI-agents (Claude Code), I have been 
 
 ## How has AI changed your work — if at all?*
 
-In addition to the story above, I made a game of Dots and Boxes in 1990 in *Pascal* on IBM PC. Anthropic was like "hey we'll give you $250 credit if we can connect with your Github account," I was like hmmm and found the old game [] and asked Claude to translate it to run online. I was so happy to see my old game again
+In addition to the story above, I made a game of Dots and Boxes in 1990 in *Pascal*[4] for IBM PC. Last month, Anthropic was like "hey we'll give you $250 credit if we can connect with your Github account," I was like *hmmm*! and found the old game and asked Claude to translate it to run online. I was so happy to see my old game again that I created a whole games website[5] including DOTS and some other games now playable over internet.
 
-[]
-[]
+On my local laptop, I've got N+1 tabs in my terminal with different agent harnesses geared to the project I work on in that terminal. I say N+1 because at any given moment another idea will come up that I can quickly explore. I see lots of new ideas and possibilities coming available with AI; if we can guide them and guide ourselves to learn to work with AI in a good way, I think the world will be better able to make the transition to the post-AI era.
+
+[4] https://github.com/thunderrabbit/dots-in-pascal
+[5] https://games.chatforest.com/dots/
 
 ## What’s an idea, book, blog post, or talk that recently changed how you think about your craft?*
 
+I've been listening to Peter Diamandis podcast [6] regularly speaking about all the possibilities and reasons to be optimistic; things are changing faster and faster. We as humans will have more options to re-invent ourselves multiple times per lifetime, per year, per day??  Where does it end? We humans still have to breathe and our hearts still beat on the order of seconds but the tech will keep diving into the domain of femtoseconds and smaller as the abilities get larger.
+
+My craft is making technology work for humans, allowing humans more time to be creative and present with one another. I love living in this unprecedented shift in technology and want to continue guiding us in a good way.
+
+[6] https://www.youtube.com/@peterdiamandis
+
 ## What’s a controversial or unpopular opinion you hold about software engineering, and why?*
+
+Any opinion is probably controversial to someone; as recently as last year I heard a founder poo-pooing the use of AI in writing code; now it seems inevitable that AI will be writing languages and compilers.
+
 
 ## Is there anything else you’d like us to know?
 
