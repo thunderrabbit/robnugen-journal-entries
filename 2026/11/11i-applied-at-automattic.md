@@ -8,19 +8,31 @@ draft: false
 
 ## What’s motivating you to explore an engineering role at Automattic and why now?*
 
-When I was a boy, we didn't have Wordpress. We didn't even have PHP.  We wrote all of our HTML by *hand*[1], and we liked it that way!
+Motivation to join a8c: Ever since the web started, I have endeavored to keep my part of the web friendly, tidy, and human-readable. I learned HTML with HTMLGoodies back when each page had a cheeky title like "So you want to center your text, huh?" [1]. In those days, we wrote all of our HTML by *hand*, (and we liked it that way!)
 
-This is my ad from around 1997: https://b.robnugen.com/mrlabs/mr-labs-big.jpg
+This is my website design ad from around 1997: https://b.robnugen.com/mrlabs/mr-labs-big.jpg
+
+I love the open nature of the Web!  I always try to make my part of the web a better place to play, explore, create, connect.
+
+One way to keep things tidy: I name my images with human readable directories and names if at all possible.
+I endeavor to keep my sites free from 404s.
+
+My personal website is a static site using Hugo to transform markdown files into HTML.  My personal journal keeps its roots as a static site using perl, originally written by my brother for me with a bunch of regex magic back in 1998 I think.
 
 I've been a developer for most of my professional life. I've been working mostly in PHP for the past 15 years. I've got personal and client websites written in PHP, nurturing some of them over the years from PHP 5.3 to now PHP 8+ for all of them.
 
-As you may have noticed (ha!), AI tools are poised to transform the world. I am applying with Automattic now because want to work with heart-centered humans and learn more best AI and PHP practices even as I have heaps of agent harnesses working with and for me.
+Why apply to a8c now?
 
-In mid-2027, after 23 years in Japan, I will be moving from Tokyo Japan to Adelaide Australia, so I have begun an AI-powered job search process... within which Automattic showed up very high on the list of great matches for my work and style.
+The core answer: until a couple of days ago, I had no idea Automattic has such a human-centric mindset! Lured in by "Fully Remote" and PHP, I started looking at your application process, ethos, flat org chart, values, including things I characterize as "say 'no' instead of breaking trust."  Plus everything is open source and *wait, what?  40+ offerings besides WordPress, including a 100 Year Website? Sign me up!*
+
+The boring answer: I have been working for a real estate company in Japan in a role that's nearing completion as I'm moving to Australia.
+
+As you may have noticed (ha!), AI tools are poised to transform the world. I am applying with Automattic now because want to work with heart-centered humans and learn more best AI and PHP practices even as I have heaps of agent harnesses working with and for me.
 
 Until my AI-powered search, I had *NO* idea that Automattic tries carefully to keep humans first. I'm happy to hear this because I've been involved with heart-centered communication with MKP (ManKind Project) since 1997; I established a men's group in Tokyo[2] because I have a need for heart-to-heart communication with others!
 
-[1] https://www.htmlgoodies.com/
+
+[1] https://web.archive.org/web/19970529013632/http://htmlgoodies.com/basics.html
 [2] https://mkpjapan.org/
 
 ## Tell us about a project or piece of work you’re especially proud of
