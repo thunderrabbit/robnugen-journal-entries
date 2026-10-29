@@ -11,4 +11,3 @@ My surgeon just came by to say hi and check on me.
 He said a thin layer of bone had grown over the plate (during the 19 years since it was attached to my clavicle)
 
 I'm bummed they didn't give me a picture of that.
-

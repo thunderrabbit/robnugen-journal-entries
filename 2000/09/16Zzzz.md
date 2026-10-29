@@ -30,4 +30,3 @@ before anyone comes over.  We're getting better.
 <p>I'm hooked up with DSL! Wheee!!
 
 <p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
-

@@ -21,4 +21,3 @@ could apparently be arranged to fill a tetrahedronal shape.  BUT
 (there's a trick): <!-- there are hollow spots in the middle -->
 <del>view source to view</del> (hmmm I don't have spoiler tags set up
 on this thing, but I hid the spoiler within html comments).
-

@@ -14,4 +14,3 @@ twice (joy for me) and both men said it was very helpful.  yay!
 Headed to work now, slightly later than my arrive-early target, but
 still early enough to be on time.  The weather is clear blue chilly
 with snow melting in the sun and frozen solid in the shade.
-

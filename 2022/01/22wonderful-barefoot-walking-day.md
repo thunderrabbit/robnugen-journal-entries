@@ -21,6 +21,3 @@ Now arrived at Musashi Koyama station, later than I expected but still earlier t
 #### 16:00
 
 We had a great time filming and doing an interview plus walking around the meeting space.  The meeting space is aptly named because we met a couple there.  Carlos and Kayla made join our next barefoot walking event in 林試の森 park, scheduled for February 26th.
-
-
-

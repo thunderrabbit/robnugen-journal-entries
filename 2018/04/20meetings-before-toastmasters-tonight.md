@@ -59,4 +59,3 @@ and leading two peer counseling circles here.
 He listens patiently, allowing his clients time to feel and be present
 in the moment.  He models being vulnerable and imperfect.  "The key to
 happiness is letting myself be me."
-

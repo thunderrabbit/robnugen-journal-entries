@@ -69,10 +69,3 @@ date: 2017-12-03T10:02:44+09:00
     have worked 4.8 days on it, according to the livestreams I have on Youtube.
 22. Just left Noborito.  Gonna change trains at the next station.
     Peace out and see ya later, computer.
-
-
-
-
-
-
-

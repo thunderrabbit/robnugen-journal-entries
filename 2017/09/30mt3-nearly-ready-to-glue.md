@@ -19,4 +19,3 @@ https://www.grun1.com/utils/timeCalc.html?t1=4:14:42&c1=June%202017&t2=10:16:10&
 
 Two livestreams today https://www.youtube.com/watch?v=EeY85MnK_y4 and
 https://www.youtube.com/watch?v=tZAxfzXo63I
-

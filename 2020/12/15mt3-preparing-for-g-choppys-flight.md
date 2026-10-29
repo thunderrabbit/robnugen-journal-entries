@@ -41,4 +41,3 @@ In the middle of the stage Mr mcclue is turning toward ell to glue elb once Mr G
 Candy mama is watching them as they walk by her on the snake plate.
 
 Here are the frames I took in this first live stream today:
-

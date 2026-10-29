@@ -73,4 +73,3 @@ I am optimistic for getting it done by next week.
 
 16. I walked from Tokyo Tower to Shibuya station today (with teaching
 at the restaurant as a two hour pit stop in the middle)
-

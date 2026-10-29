@@ -16,4 +16,3 @@ This is about the third time in our lives that Maxence and I have met semi rando
 In this case, we both were on our way to Practical Philosophy meeting, both heading towards the location on the map, not knowing it was the wrong Bunkyo Civic Center.
 
 Depending on my definition of "wrong" because it gave Maxence and I a chance to catch up on the train before arriving 45 or 50 minutes late to the meeting.
-

@@ -36,5 +36,3 @@ about that. I should go take a picture of the two lost shoes.
 Now they're sole mates again.
 
 [![2026 sep 20 blue sole mates 1000](//b.robnugen.com/journal/2026/thumbs/2026_sep_20_blue_sole_mates.jpeg)](//b.robnugen.com/journal/2026/2026_sep_20_blue_sole_mates_1000.jpeg)
-
-

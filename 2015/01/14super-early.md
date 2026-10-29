@@ -22,5 +22,3 @@ as an assistant to the CEO." She couldn't quite articulate
 Headed home now.  Spoke with Chris who I'll see again on the morning
 of the 21st to join the kids lesson so they won't be like, "wha?" when
 he's there for their presentation and I'm not.
-
-

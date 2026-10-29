@@ -17,5 +17,3 @@ Five lessons complete:
 * ✔ Ayane, Yuuka, Nagomi: reflexive pronouns
 * ✔ Hide, Akiko: all elementary schools in Japan will have students using tablets by 2023 as part of Giga School program
 * ✔ Tatsuya, Chinatsu: Cost*Co just opened a new store in Chiba and had backhoes, Harley Davidson bikes, and Porches on sale.  The backhoes were priced at 7,000,000 yen, ~$70,000
-
-

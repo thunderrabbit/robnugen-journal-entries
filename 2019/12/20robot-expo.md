@@ -20,5 +20,3 @@ date: 2019-12-20T10:55:32+09:00
 [![2019 dec 20 robot francois](//b.robnugen.com/journal/2019/robot_expo/thumbs/2019_dec_20_robot_francois.jpg)](//b.robnugen.com/journal/2019/robot_expo/2019_dec_20_robot_francois.jpg)
 [![2019 dec 20 sorting francois](//b.robnugen.com/journal/2019/robot_expo/thumbs/2019_dec_20_sorting_francois.jpg)](//b.robnugen.com/journal/2019/robot_expo/2019_dec_20_sorting_francois.jpg)
 [![2019 dec 20 francois not nut](//b.robnugen.com/journal/2019/robot_expo/thumbs/2019_dec_20_francois_not_nut.jpg)](//b.robnugen.com/journal/2019/robot_expo/2019_dec_20_francois_not_nut.jpg)
-
-

@@ -18,4 +18,3 @@ Perfect!
 Funny: he also wrote a little cheater in Perl to search for strings.
 His included just a counter inside a string, so I added a counter to
 my md5 count cheater as well.  It makes for really short strings!
-

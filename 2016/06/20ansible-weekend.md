@@ -12,4 +12,3 @@ This weekend, I went through the excellent
 on [Code Review Videos](https://codereviewvideos.com/).  I had gone
 through most of it in January, and this refresher helped me grok it
 more.
-

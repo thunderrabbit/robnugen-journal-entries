@@ -12,4 +12,3 @@ my first.  The meeting was not in their normal location, but it
 included lots of mini-presentations and presentations about
 presentations and an overview presentation of the evening of
 presentations.
-

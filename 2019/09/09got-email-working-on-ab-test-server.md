@@ -14,4 +14,3 @@ been using [PHPMailer](https://github.com/PHPMailer/PHPMailer).
 But eff me I could not figure out what was different from the setup on
 our old server which was sending emails from itself using Exim no
 problem.
-

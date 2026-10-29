@@ -27,4 +27,3 @@ changed them into less-unhealthy food items.  I haven't tried to solve it yet, b
 5. The Norwegian lives next to the blue house.
 
 Now, who drinks water? Who owns the zebra?
-

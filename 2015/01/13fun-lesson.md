@@ -10,4 +10,3 @@ date: 2015-01-13
 Fun lesson with Yoshi today, and then went to dinner with Yoshi and
 Mutsumi. Yummy and great plus we got free drinks because I found a
 fish scale in the liver pâté.
-

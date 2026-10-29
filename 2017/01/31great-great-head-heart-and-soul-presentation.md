@@ -10,4 +10,3 @@ date: 2017-01-31T22:55:24+09:00
 Aight so last night Head Heart and Soul presentation was at least as
 good as I thought it might possibly be.  Super great questions from
 Rohini and Mitsue.
-

@@ -16,4 +16,3 @@ Looking at my phone oh snap!  I gotta bounce soon! I had a seat, checked Google 
 Thank you Google Maps for sharing realtime walking directions and train departure information.  You let me live on the edge of being late, on the edge of clueless, and ... Hey wait a minute those aren't necessarily optimal states!
 
 Anyway, I'm glad I'll make it to Reiki Level 1 on time.
-

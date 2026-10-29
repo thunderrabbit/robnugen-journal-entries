@@ -35,4 +35,3 @@ https://www.humanclock.com/ is still kickin' it!
 I
 [previously mentioned human clock](/journal/2001/08/23/human_clock_dot_com/)
 before Airplane Day, but I cannot find any of the old pics we took.
-

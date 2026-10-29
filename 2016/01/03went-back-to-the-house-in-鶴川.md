@@ -22,5 +22,3 @@ Lin spoke with builder, who is also the agent.  I want to ask him
     What was the original price of the house?
     Are house values over the last 10 years trending up in this area?
     Are these cracks anything to worry about?
-
-

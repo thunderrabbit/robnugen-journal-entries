@@ -25,4 +25,3 @@ On the way back up the hill she got a bit tired and ワガママ haha but the hi
 Her feet were tender from her shoes being too tight/loose, and mine were a bit tender for having walked an extra few kilometers that day.
 
 I estimate I walked 15 km yesterday if I include my morning walk and the evening walk with Lin.
-

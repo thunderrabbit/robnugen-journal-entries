@@ -34,5 +34,3 @@ to be
 *During lucid dreaming, recognize your mind is generating the
 dream... and "deactivate"(?) the dream to find your perception clearly
 in the astral* (without the veil of the dream blocking my perception.)
-
-

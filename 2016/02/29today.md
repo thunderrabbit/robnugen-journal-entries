@@ -14,4 +14,3 @@ I logged on to streamen (NSFW) to broadcast my feet today.  Today was
 the first time I chatted with anyone on the site!  One person seemed
 to really like my feet, but didn't send any tips.  But it was enough
 to encourage me to keep trying.
-

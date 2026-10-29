@@ -12,4 +12,3 @@ Twenty copies of my book arrived 🎉 get yours here
 https://www.amazon.com/dp/B0FYQ3RHCV/
 
 I just booked air tickets to Melbourne so I can staff the NWTA there in early June.  It will be my first time to staff in Melbourne.
-

@@ -16,4 +16,3 @@ looking at the URL link (The TLD is .rocks)
 Clicking that sends me to a sales website to get the latest doodads
 from nothing related to Medicare.  Yeah, I don't think Adobe sold my
 address to them.  I think Adobe got hacked.
-

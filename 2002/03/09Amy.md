@@ -41,4 +41,3 @@ getting chlorine tablets now)</p>
 tape.</p>
 
 <p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
-

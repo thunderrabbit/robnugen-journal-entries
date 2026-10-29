@@ -238,4 +238,3 @@ and here:
     
     (provide 'journal)
     ;;; hakyll.el ends here
-

@@ -180,6 +180,3 @@ Sorry for the rant, but there is simply no evidence that 911 was an inside job a
 
 
 Lastly, I am not saying that there are not unanswered questions.  I think that the 911 commission was way too easy on alot of people.  The mere fact that the president got a brief titled "Bin Laden Determined to Attack USA" on 08/06/2001 is evidence that these clowns were goofing around in the white house when they should have been protecting America.  At least when Clinton was getting head in the oval office, no one attacked the country.  Bush took a 6 week vacation right before both Katrina and 911!!!
-
-
-

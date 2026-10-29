@@ -24,4 +24,3 @@ a ride!
 
 Looking forward to the world more fleshed out; hopefully the series
 will be a detailed mega-thriller!
-

@@ -9,4 +9,3 @@ draft: false
 Instead of relying on bash and dealing with all that I'm going to use git which has much more effectively allows me to get the remote files from my server. 
 
 The only issue now is I need to change the commit message for each commit to match my backwards story. 
-

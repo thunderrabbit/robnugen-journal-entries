@@ -18,5 +18,3 @@ back down in my seat.  (thankfully no one else took it!)
 
 I had already transferred in Noborito, and had fallen asleep on the
 Nambu line train which *starts* in Noborito.
-
-

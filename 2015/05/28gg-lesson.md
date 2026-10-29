@@ -72,4 +72,3 @@ see her notebook (which I had just corrected).
     M: "I asked her if she would show me her notebook."
     M: "I aksed her if I could see her notebook."
     M: "I asked for her notebook."
-

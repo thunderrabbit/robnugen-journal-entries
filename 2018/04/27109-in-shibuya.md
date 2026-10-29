@@ -36,4 +36,3 @@ date: 2018-04-27T18:05:41+09:00
 （<ruby><rb>社会</rb><rt>しゃかい</rt></ruby><ruby><rb>部記</rb><rt>
 ぶき</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby> <ruby><rb>藤島
 </rb><rt>ふじしま</rt></ruby><ruby><rb>新也</rb><rt>しんや</rt></ruby>）
-

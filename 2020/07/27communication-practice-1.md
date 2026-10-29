@@ -26,4 +26,3 @@ Step 2
 ### Write "going to" sentences for five things you will do together.
 
 On Tuesday, we are going to lunch together in Shinjuku.
-

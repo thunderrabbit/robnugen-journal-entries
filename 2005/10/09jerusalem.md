@@ -27,4 +27,3 @@ So so much to learn; so many people I'll be meeting tomorrow!
 
     Peace and Love
       - Rob 
-

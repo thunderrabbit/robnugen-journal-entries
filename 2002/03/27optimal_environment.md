@@ -51,6 +51,3 @@ tank built into one wall, maintained by my fish tank maintainer, not
 me.</p>
 
 <p>one room has books and beanbags in it.  and pillows.</p>
-
-
-

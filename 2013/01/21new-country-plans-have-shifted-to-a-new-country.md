@@ -10,4 +10,3 @@ tags: [ "journal" ]
 Lin's uncle was here this weekend, and he planted the seed of moving to Taiwan instead of Thailand.  I've never been, but I understand many Taiwanese are super friendly and outgoing, plus the weather is nice and warm.
 
 Lin will look into visas and stuff soon.  yay!!
-

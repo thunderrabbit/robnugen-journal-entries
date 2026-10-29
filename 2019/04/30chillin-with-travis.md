@@ -26,4 +26,3 @@ Deji and I sat on Yokohama line for a bit, talking about what racism
 actually means.  He made a distinction between "pre judging" (making
 predictions about someone) and "prejuduce" (assuming superiority over
 someone).
-

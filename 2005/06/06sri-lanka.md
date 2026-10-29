@@ -51,4 +51,3 @@ My GET classes (each GET teacher has two classes) are bonding nicely.  At 9:30am
 - - -
 
 I've recorded 4.25 cassette tapes worth of stuff; I think each tape is 120 minutes long.  One is nearly filled with conversations, including one with LeLy Hayslip, author of Heaven and Earth, which was made into a movie by Oliver Stone.  After getting herself started with the book and movie, she has started a foundation and opened orphanages and hospitals..  and all this in only 20 years.  I feel inspired that I can do great things, though I still don't know what I want to do yet.
-

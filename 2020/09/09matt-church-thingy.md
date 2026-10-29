@@ -72,4 +72,3 @@ Rubberducking on the compass
 --------------
 
 * brainstorm how to ___ daily morning to something
-

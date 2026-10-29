@@ -18,4 +18,3 @@ Hopefully:
 
 1. Allow me to name photos manually
 2. Easily embed photos where I want in the written entries
-

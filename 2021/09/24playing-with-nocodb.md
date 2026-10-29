@@ -13,4 +13,3 @@ draft: false
 5. Create username
 6. Create new project `robone templatifier`
 7. Rest APIs
-

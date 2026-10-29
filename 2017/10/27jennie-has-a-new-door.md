@@ -16,5 +16,3 @@ Impossible.  He used a diamond tip to make a circle and then a smaller
 circle, and then a grid of cuts in the middle of the small circle,
 then tap tap tapped with a metal rod.  It was nothing like silent spy
 stuff in the movies.
-
-

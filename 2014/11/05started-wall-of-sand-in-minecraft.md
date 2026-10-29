@@ -43,4 +43,3 @@ started a wall which is probably about 200 blocks tall.
 [![looking up at corner of sand wal](/images/2014/minecraft/thumbs/looking up at corner of sand wall 5 nov 2014.png)](/images/2014/minecraft/looking up at corner of sand wall 5 nov 2014.png)
 [![go sand in the corne](/images/2014/minecraft/thumbs/go sand in the corner 5 nov 2014.png)](/images/2014/minecraft/go sand in the corner 5 nov 2014.png)
 [![sand wal](/images/2014/minecraft/thumbs/sand wall 5 nov 2014.png)](/images/2014/minecraft/sand wall 5 nov 2014.png)
-

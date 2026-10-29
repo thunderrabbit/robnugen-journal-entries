@@ -9,4 +9,3 @@ date: 2019-11-10T22:22:43+09:00
 
 [![2019 nov 10 sogo massage](//b.robnugen.com/journal/2019/thumbs/2019_nov_10_sogo_massage.jpg)](//b.robnugen.com/journal/2019/2019_nov_10_sogo_massage.jpg)
 [![2019 nov 10 sogo group](//b.robnugen.com/journal/2019/thumbs/2019_nov_10_sogo_group.jpg)](//b.robnugen.com/journal/2019/2019_nov_10_sogo_group.jpg)
-

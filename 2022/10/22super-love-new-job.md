@@ -20,4 +20,3 @@ We do something called "code reviews" and "tests" on the code!
 Other teammates are helpful and thoughtful.
 
 Yayyyyy!
-

@@ -21,5 +21,3 @@ Posted at https://forums.meteor.com/t/new-easy-silly-game-pop-pop-chaos-my-first
     Thanks to https://github.com/brettle/meteor-accounts-deluxe, you can play anonymously!
     
     Feedback welcome.
-
-

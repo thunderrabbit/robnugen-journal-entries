@@ -13,4 +13,3 @@ Book A Free Clarity Call: https://calendly.com/lifeinconfidence/clarity-call-wit
 Enrol Into Divine Prosperity: https://www.lifeinconfidence.com/divineprosperity
 
 Attend Full Moon Ancestral Trauma Clearing Circle: https://www.lifeinconfidence.com/ancestraltraumaclearingcircle
-

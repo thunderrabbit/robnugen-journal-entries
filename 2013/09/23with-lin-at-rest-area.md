@@ -16,4 +16,3 @@ which I hope to transcribe into here, but in case I don't, the TLDW
 (too long didn't write) version is: "10 hours up; 4.5 hours down."  In
 the extra space, I'll write "Saw four guys carrying mountain bikes up
 the mountain (but didn't see them ride down)"
-

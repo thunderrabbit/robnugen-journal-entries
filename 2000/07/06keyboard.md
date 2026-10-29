@@ -18,4 +18,3 @@ date: 2000-07-06
 <p>Sweet!!
 
 <p><img src="//b.robnugen.com/rob/wL-ROB.gif">
-

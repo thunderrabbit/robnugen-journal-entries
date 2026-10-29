@@ -20,5 +20,3 @@ Mr McGlue is moving forward to glue the Triple Splitter Medium Catcher Ridge whi
 Meanwhile, the small orange marble has hit a support near the Lower Zig Zag 1F, and had begun to careen of the track, with Pinky soon to follow.
 
 Oh and I determined Candy Mama will go help unload the chopsticks from Backpack Jack.  Having her unload them makes more sense than him magically floating off them.
-
-

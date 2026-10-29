@@ -22,4 +22,3 @@ tags: [ "news" ]
 
 Francois in Ibusuki
   
-

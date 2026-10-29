@@ -30,4 +30,3 @@ And redoing the images (and documenting the process) has taken 4 hours (almost d
 ##next day
 
 I think I studied Japanese about 30 minutes
-

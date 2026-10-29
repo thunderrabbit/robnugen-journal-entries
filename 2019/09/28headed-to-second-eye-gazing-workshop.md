@@ -15,4 +15,3 @@ other pretty well, but we have never met!
 Currently 4 people are scheduled to attend, which is better than the
 Past Lives workshop!  I apparently need to do a better job promoting
 next time. :-)
-

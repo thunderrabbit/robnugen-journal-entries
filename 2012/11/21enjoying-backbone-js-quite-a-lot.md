@@ -18,5 +18,3 @@ User can click [buildings] or [units] button to add where components to the sear
 **update 5:39pm**
 
 Now I'm starting to look at [Marionette](https://github.com/marionettejs/backbone.marionette).  I found a [tutorial on Marionette](https://davidsulc.com/blog/2012/05/06/tutorial-a-full-backbone-marionette-application-part-1/); apparently it can make a [neat little bookshelf webapp](https://davidsulc.github.com/backbone.marionette-atinux-books/#search/Neuromarketing).  As I start digging into the tutorial, [I wonder if there's a CDN for Marionette](https://webmasters.stackexchange.com/questions/38073/is-there-a-cdn-for-backbone-marionette).
-
-

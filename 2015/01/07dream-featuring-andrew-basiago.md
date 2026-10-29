@@ -140,4 +140,3 @@ AB was written for brevity.  AB is *not* the same AB when I write about "website
 [https://dcfossils.org/index.php/gallery11/#fossils](https://dcfossils.org/index.php/gallery11/#fossils)
 
 [Cordova Shell Limestone images](https://encrypted.google.com/search?q=%E2%80%9CCordova+Shell+Limestone%E2%80%9D&hl=en&biw=1338&bih=801&source=lnms&tbm=isch&sa=X&ei=gmSsVJvrCoaE8QXytICQDw&ved=0CAcQ_AUoAg)
-

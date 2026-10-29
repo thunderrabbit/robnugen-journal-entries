@@ -13,6 +13,3 @@ area.
 
 I don't have internet access atm, but I think this URL will let you
 play [pong without scores](/samples/unity3d/pong/pong-without-scores/).
-
-
-

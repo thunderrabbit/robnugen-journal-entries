@@ -122,6 +122,3 @@ was most excited was when I got to travel.)</li>
 </p>
 
 <br><p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
-
-
-

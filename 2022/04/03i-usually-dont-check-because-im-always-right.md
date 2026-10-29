@@ -9,6 +9,3 @@ aliases: [
 ---
 
 　　ー Hiro, age 13, regarding scrambling Rubick's Cube according to notation
-
-
-

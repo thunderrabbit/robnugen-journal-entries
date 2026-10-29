@@ -24,5 +24,3 @@ _But she couldn't handle the idea that I had been sent from the future.. she pus
 _We showed video of a house falling into the river; it was a blue 3 story house, but only one room on each story, so quite tall and narrow.  A homeless person had moved in, and the weight of him walking around had unsettled the building.  It tipped over into the river._
 
 _A guy was explaining something about the train tracks, and had taken the train lines apart at a seam but then the train came so he had to quickly bolt them back together.  He got the rails reconnected but they were quite out of alignment for that section and I was afraid the train would derail, but it sped through the section unscathed.  I was helping him put the rails back to their original straightness when I woke up._
-
-

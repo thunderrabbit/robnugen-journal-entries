@@ -9,4 +9,3 @@ My two most recent blog entries are causing errors with Hugo on
 Netlify.
 
 *And I don't know why!!*   (was that from an SNL character?)
-

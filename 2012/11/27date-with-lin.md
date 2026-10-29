@@ -14,4 +14,3 @@ We were going to go to the cheap and delicious Chinese place with the cute-nosed
 4000 yen for not enough to fill us is not enough to bring us back again.  Sorry, Taro.
 
 SO, we went to the Chinese place to get ramen and gyoza.  The cute girl wasn't there!!!  I was glad she had a day off (she always seems to be there when we're there), but then she came back a bit after we arrived.  Yay!  I mean boo!  I mean Yay!!
-

@@ -29,4 +29,3 @@ shelves don't provide a place for my printer. dang.
 ## Lin's room
 
 [![lins room after i put shelves together in my room](//b.robnugen.com/house/2016_all_electric_yurigaoka/2017/13_jan_2017_new_shelves_in_my_room/thumbs/lins_room_after_i_put_shelves_together_in_my_room.jpg)](//b.robnugen.com/house/2016_all_electric_yurigaoka/2017/13_jan_2017_new_shelves_in_my_room/lins_room_after_i_put_shelves_together_in_my_room.jpg)
-

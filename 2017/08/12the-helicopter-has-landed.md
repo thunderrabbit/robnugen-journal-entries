@@ -30,4 +30,3 @@ https://www.stopmotionanimation.com/profiles/blogs/my-first-flying-object
 
     Special thanks to my friend Kai for providing the toy skeleton to
     be my RC bearing plate pilot!
-

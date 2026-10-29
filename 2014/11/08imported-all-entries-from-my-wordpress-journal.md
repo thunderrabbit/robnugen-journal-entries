@@ -50,4 +50,3 @@ So here's what I did:
 Then with Finder moved the images from ```~/journal-images``` to where they should be in my local hakyll repo. (I used Finder because some of the directory names overlap, and many of the directories were empty!)
 
 Search and replace over all new markdown files: ```https://robnugen.com/blog/wp-content/uploads/``` → ```/images/```
-

@@ -14,4 +14,3 @@ if not)  (or blame me for relying on closed-source stuff.)
 
 Oh, I might be able to use this
 https://github.com/mistic100/Photo-Sphere-Viewer/releases
-

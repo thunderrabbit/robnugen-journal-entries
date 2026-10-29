@@ -27,4 +27,3 @@ Further prep included going to a sewing shop to get some thick thread
 and needles to fix my bag.  I'm bummed that my attempt to buy a Burton
 bag resulted in Goldilock's Syndrome, but I'm not going to buy a new
 bag that's not optimal for my needs.
-

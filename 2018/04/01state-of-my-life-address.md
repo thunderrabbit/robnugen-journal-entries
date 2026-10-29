@@ -62,5 +62,3 @@ date: 2018-04-01T15:25:24+09:00
 18. running out of steam in this SOML.
 19. Oh, I have been using [Complice](https://complice.co/?r=pgej30cphu) to get stuff done.  It is
     thanks to Complice that I remembered I need to write an SOML today.
-
-

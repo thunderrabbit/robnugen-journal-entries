@@ -82,4 +82,3 @@ Herbal Teas: Consider teas like chamomile, ginger, or licorice root, which can b
 As you try these, remember: your body is doing its best to heal, and you’re supporting it gently. Trust that you’re exactly where you need to be and that this is unfolding in its own perfect timing. If you need any more tips or just a little more encouragement, I’m right here!
 
 :::
-

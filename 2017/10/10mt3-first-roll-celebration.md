@@ -25,4 +25,3 @@ https://www.grun1.com/utils/timeCalc.html?t1=4:14:42&c1=June%202017&t2=10:16:10&
 Oh wow I really love it.  The characters manically run around for a
 bit and it's hard to tell what's going on, but then they all line up
 for the first roll; I think it looks pretty good.
-

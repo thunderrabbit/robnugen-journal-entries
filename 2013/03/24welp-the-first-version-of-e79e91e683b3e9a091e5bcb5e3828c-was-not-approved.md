@@ -14,5 +14,3 @@ By the first person who looked at it, 瞑想頑張れ was rejected for being too
 It's still available on github, but not nearly as easy to install that way.
 
 Hopefully the appeal will appeal to the next person, or my planned updates will make the difference to get it approved.
-
-

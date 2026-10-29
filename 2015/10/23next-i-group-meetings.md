@@ -19,4 +19,3 @@ Great I-group today, and we have scheduled the next six meetings:
 I won't be able to attend on the 25th, but someone will be there.
 
 Feeling excited about getting the meetings going again!
-

@@ -27,6 +27,3 @@ date: 2018-07-05T00:13:46+09:00
 12. Going to go get pizza (19:15)
 13. Just got back from buying pizza (20:00)
 14. Just got back upstairs after eating and sitting on the couch (21:12)
-
-
-

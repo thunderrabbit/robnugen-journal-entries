@@ -15,4 +15,3 @@ Lin suggested that I do a short walk to like Gunma or something, so maybe I'll p
 A long time ago, Travis suggested that I walk to prepare for the trip.
 
 It's funny how my current self can't be bothered to prepare, and I've placed everything on my future self to be able to do the walk.
-

@@ -25,5 +25,3 @@ Well, UFOs haven't arrived.
 Here's a snapshot of the site linked above, which seems to be slowly vanishing.
 
 [archive.today 7 Nov 2014 snapshot of https://www.ufodigest.com/news/0208/unmeeting.html](https://archive.today/6CsJS)
-
-

@@ -36,4 +36,3 @@ I also hereby invite you to join me in Hawaii for the NWTA, March
 
 Is this the time for you? I don't know.  But if you are interested,
 start here: https://nwta.mkp.org/
-

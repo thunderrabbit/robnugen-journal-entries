@@ -26,4 +26,3 @@ Kunis, the actress who plays Meg in Family Guy.
 Tomoko said they would probably stay out until 2am or so so I went
 home by last train.  I was able to sit down (and sleep) on a train
 that terminated in 登戸 and in a train that terminated in 新百合ヶ丘.
-

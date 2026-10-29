@@ -10,4 +10,3 @@ date: 2015-03-22T11:02:00+09:00
 I plan to use [svg pattern
 fills](https://bocoup.com/weblog/using-svg-patterns-as-fills/) to do
 some of the patterns Mutsumi needs.
-

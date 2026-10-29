@@ -25,5 +25,3 @@ One downside: the code cannot yet make interesting puzzles for 7x7 or 8x8 grids.
 AI and I therefore created a builder mode where I can make those puzzles manually.  It's pretty cool but I'm not sure that they are being used by the game itself after I build them.
 
 Visually, the game grid is a bit too wide for the screen on mobile Firefox, and unplayably wide on DuckDuckGo browser, at least on Android.
-
-

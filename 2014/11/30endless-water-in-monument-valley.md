@@ -19,4 +19,3 @@ Anyway, I think Monument Valley is worth $3.99 for any puzzle
 enthusiast.
 
 [![endless water scene](/images/2014/11/thumbs/endless water Monument Valley 2014-11-30 17.42.31.png)](/images/2014/11/endless water Monument Valley 2014-11-30 17.42.31.png)
-

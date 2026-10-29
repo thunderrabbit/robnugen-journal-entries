@@ -70,6 +70,3 @@ And *now* I think I am about ready to get a domain specifically for
 this project.  Not sure how to have Hugo grab exactly one set of tags
 to make entries though.  Is it too much trouble to maintain two
 different sets of entries?  Can I do hardlinks in OS X?
-
-
-

@@ -22,4 +22,3 @@ I used [archive.today](https://archive.today) today.
 [On the takeover of /r/undelete and the subsequent takeover of the backup subreddit /r/undeleteundelete](https://archive.today/kFQLU)
 
 [Two minutes hate](https://archive.today/eV2ra)
-

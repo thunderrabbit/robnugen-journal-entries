@@ -11,4 +11,3 @@ explored for a year long course.
 
 The overall answer I got was quite in-line with MKP work: find my true
 self and bring that forward into the world.
-

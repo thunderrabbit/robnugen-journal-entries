@@ -14,5 +14,3 @@ title: 'State of My Life Address'
 4. I'm still primarily working with AB and JB, while at the stage of creating Pink Sheets in TLBS.
 5. In TLBS, I've done one accountability session with A and one with S.  Both the session were great.  We will do a shared session next time.
 6. Headed to SCC, suddenly super tired. Zzzzz
-
-

@@ -46,4 +46,3 @@ Nearby, this cloud looked kinda like Godzilla.
 No houses yet where they cut down all the trees.
 
 [![2020 nov 28 no houses yet](//b.robnugen.com/journal/2020/thumbs/2020_nov_28_no_houses_yet.jpg)](//b.robnugen.com/journal/2020/2020_nov_28_no_houses_yet.jpg)
-

@@ -13,4 +13,3 @@ remained the same size overall.
 
 I am thinking as I get started with Adam's program, I may end up using
 Monday nights for one of my new weekly sessions.
-

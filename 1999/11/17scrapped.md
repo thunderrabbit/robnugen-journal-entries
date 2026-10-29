@@ -26,4 +26,3 @@ certain address and strip attachments from the email to a certain
 directory.
 
 I wonder if I could just do it with pine???
-

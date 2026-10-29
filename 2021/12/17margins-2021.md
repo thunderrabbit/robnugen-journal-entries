@@ -43,4 +43,3 @@ On [ascii-collab.app](https://ascii-collab.app/?x=1024&y=1024), I just wrote the
     higher or lower in the future, but looking up the price now, it's at 41,700 Euros which I  
     certainly cannot afford at the moment, but later, I wonder if we will look back and sigh   
     regret or relief that the price has risen to huge highs and we finally finished the text?  
-

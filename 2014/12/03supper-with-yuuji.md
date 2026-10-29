@@ -13,4 +13,3 @@ We're going to eat in Kawasaki at my favorite Chinese restaurant.
 
 yay!  My favorite waitress was there!  She's the one who, on my
 birthday when I asked 誕生日チュは？ exclaimed "ヤダ！"
-

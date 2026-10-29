@@ -46,4 +46,3 @@ date: 2001-08-31
 <p>But, that's nothing.  Marky Mark got <em>four</em> spanks, more ice cream, and one more spank!!  For a total of FIVE spanks!!  FIVE!!</p>
 
 <p>308 miles traveled now.</p>
-

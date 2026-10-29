@@ -13,4 +13,3 @@ which is even closer to where I need to go.  So I got off the bus
 after a couple stops and walked toward 鳥浜駅.
 
 Didn't get too far when I saw a park!
-

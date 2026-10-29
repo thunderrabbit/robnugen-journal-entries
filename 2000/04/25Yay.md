@@ -34,5 +34,3 @@ our house??"
 <p>Thanks to Mike and Edna; whatever they did worked!!
 
 <p><img src='//b.robnugen.com/rob/wL-ROB.gif'>
-
-

@@ -57,4 +57,3 @@ world's one and only git commit
 6e1d44ad623c6c2b31c8d04487b60893f94be2a9 with
 [`README.md` and `.gitignore` for Unity](https://github.com/thunderrabbit/unity3d-starter)
 fully set up!!
-

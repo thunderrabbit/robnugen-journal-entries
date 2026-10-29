@@ -21,4 +21,3 @@ Then, to install
 Okay I've just installed kakoune and am using it to type this sentence.  Funny that it 
 requires pressing the control key to select suggested words.  Seems like down-arrow 
 would be sufficient but maybe the arrow keys are too far away from keyboard.
-

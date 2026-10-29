@@ -17,4 +17,3 @@ liquid nitrogen for super conductive levitation around a small
 circular track.
 
 I hope I can get them to put Francois on the hovering block some time!
-

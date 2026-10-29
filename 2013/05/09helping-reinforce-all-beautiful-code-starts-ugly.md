@@ -68,5 +68,3 @@ My sincere hope is one of two things:
 (*) The request is to add another option to the select that tells what sort order to show results.
 
 They want to add a "group by" option...  it makes no sense!  A user should be able to group by something *and* sort at the same time, but with this request, they can only do one or the other.
-
-

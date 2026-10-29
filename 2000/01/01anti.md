@@ -27,4 +27,3 @@ And I'm excited to write this first journal entry with the new 4 digits!
 
 With Love
 - Rob
-

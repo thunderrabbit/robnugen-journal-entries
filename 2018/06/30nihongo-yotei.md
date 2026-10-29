@@ -17,4 +17,3 @@ fine and could even fly so I think he is okay.
 
 Tシャツで<ruby><rb>包</rb><rt>くる</rt></ruby>んでゆっくり外に出しました。　I covered him with a
 T-shirt then let him outside slowly.
-

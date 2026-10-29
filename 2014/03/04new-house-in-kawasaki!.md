@@ -18,4 +18,3 @@ Yesterday I went to an electric shop looking for coaxial cable for the TV connec
 On the way home, I saw an ~~old guy~~ elderly gentleman in a shop that looked like my dad's garage.   I scoped the signs and could read enough to know he was a handyman.  I was like, "hey, uh, do you happen to have coaxial TV cable?"
 
 He had to dig around a bit, but the short version is YES, he made 15 meters and gave it to me free.  whoooooo!!!!
-

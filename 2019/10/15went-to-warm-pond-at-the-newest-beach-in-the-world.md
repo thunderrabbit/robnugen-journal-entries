@@ -54,4 +54,3 @@ Afterwards, we went shopping and I liked this funny sign that spoke of
 disaster before.
 
 [![2019 oct 15 nice way of saying it](//b.robnugen.com/journal/2019/hawaii/thumbs/2019_oct_15_nice_way_of_saying_it.jpg)](//b.robnugen.com/journal/2019/hawaii/2019_oct_15_nice_way_of_saying_it.jpg)
-

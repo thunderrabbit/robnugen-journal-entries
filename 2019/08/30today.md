@@ -46,5 +46,3 @@ this journal stream, but I think it would be better to make an RSS
 feed of them (but it would not get updated with each scan (if it was
 tied only into this repo of entries)).  It should be a different RSS
 feed, built just for b.robnugen.com
-
-

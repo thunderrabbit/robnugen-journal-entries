@@ -22,5 +22,3 @@ had volunteered for [Peace Boat](https://peaceboat.org/) since I last
 saw her.  So neat to hear that it's growing but still has the same
 genki energy as before.  She said in 2020 they are going to have a new
 eco-friendly ship!
-
-

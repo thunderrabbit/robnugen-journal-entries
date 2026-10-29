@@ -14,5 +14,3 @@ along fine.
 
 After self intros, most of the time they talked about Akiko's challenging business trip
 to Hydrabad, India.  Most of the rest of the time we talked about Hide's work.
-
-

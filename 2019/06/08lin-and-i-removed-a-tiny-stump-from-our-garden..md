@@ -16,4 +16,3 @@ infestation of caterpillars with allergenic hairs and
 ##### 15:43 Saturday 08 June 2019 JST
 
 now we have a sakura tree where the bush used to be.
-

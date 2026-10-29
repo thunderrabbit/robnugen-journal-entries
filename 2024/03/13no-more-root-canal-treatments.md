@@ -27,5 +27,3 @@ Sealing that shit inside eventually causes the bacteria to "morph"(?)
 into anaerobic bacteria which causes damage etc etc blah blah blah.
 
 🤔 Hmmm
-
-

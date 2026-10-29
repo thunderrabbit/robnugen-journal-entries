@@ -17,5 +17,3 @@ respectively.
 I am trying them all out with
 [$50 credit good for 30 days](https://www.vultr.com/?ref=8152715-4F),
 so I am doing the testing in parallel during this $50 credit window.
-
-

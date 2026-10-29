@@ -50,4 +50,3 @@ Oh, sweet: here is a summary
      rename content/quests/walk-to-niigata/2021/{02/08day-by-day-plans-for-walking-route-400km-to-niigata.md => 04/03day-by-day-plans-for-walking-route-400km-to-niigata.md} (81%)
      delete mode 100644 generate-blb-blog-entry.pl
      rename generate_weekly_alignments_event.pl => generate_events.pl (94%)
-

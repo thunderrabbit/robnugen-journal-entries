@@ -26,5 +26,3 @@ I went upstairs to see something I had missed and then went back down and throug
 <p class="dream">
 The room was larger on the inside and I started thinking about Dr Who TARDIS and made a backstory of why he mocked people who entered the TARDIS for the first time.  He was mocked as a child for not understanding the mathematics behind the room so forever mocked those who were surprised upon entry.
 </p>
-
-

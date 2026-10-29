@@ -15,4 +15,3 @@ particular online seller does not process returns so much as throw
 them away.  True?  Probably, because it would be hella lot easier to
 toss something apparently defective than determine its useability +
 refurbish it + resell it.
-

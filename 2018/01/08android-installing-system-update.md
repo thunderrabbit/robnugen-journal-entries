@@ -26,4 +26,3 @@ of 271"
 ## 13:35
 
 Update and reboot complete
-

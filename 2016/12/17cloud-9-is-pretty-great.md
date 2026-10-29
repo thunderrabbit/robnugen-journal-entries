@@ -31,4 +31,3 @@ Rails.
 * https://shrouded-everglades-38559.herokuapp.com/
 * https://shielded-plateau-97696.herokuapp.com/
 * https://fast-citadel-97674.herokuapp.com/
-

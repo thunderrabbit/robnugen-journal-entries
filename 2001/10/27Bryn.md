@@ -25,4 +25,3 @@ know it is difficult for Bryn to cry in front of others.
 Bryn and I talked all the way until the entire rally was leaving
 for Social Action.  So blessed I felt getting to hang out with her
 even longer.
-

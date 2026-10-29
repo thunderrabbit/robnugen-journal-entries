@@ -12,5 +12,3 @@ Wow.   [Google Earth](https://earth.google.com/) rules.
 I am 99% certain I have found Scott, my favorite car parked at my office at FSD about 3 or 4 years ago in Houston.  That is *awesome*.
 
 I sent a 'bookmark' to myself (and Dude and Fred); I wonder if I can post it in here somehow.
-
-

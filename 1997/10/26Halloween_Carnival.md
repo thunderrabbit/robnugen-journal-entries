@@ -27,4 +27,3 @@ The carnival was great fun, especially after rumors that it wouldn't happen. I m
 <p>
 Wende's truck, Bill, had a flattening tire, so we got it fixed on the way home.
 <p>
-

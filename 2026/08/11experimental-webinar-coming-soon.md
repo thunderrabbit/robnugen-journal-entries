@@ -28,4 +28,3 @@ Mark your calendar: TBD
 
 Register here: TBD
 ```
-

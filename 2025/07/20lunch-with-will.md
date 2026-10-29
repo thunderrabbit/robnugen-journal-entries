@@ -10,4 +10,3 @@ draft: false
 
 
 After ultimate today in Yoyogi Park I was able to meet will for lunch! 
-

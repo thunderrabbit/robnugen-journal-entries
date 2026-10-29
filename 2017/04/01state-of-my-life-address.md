@@ -43,9 +43,3 @@ due at the end of April..
 13.plus doing my men's group; I am leading Tokyo men's circle, a place to get shit off our proverbial chests
 14.And I just went to the dentist today
 15.and had a 2 mile flat ground barefoot hike to meet my friend at The Pink Cow!
-
-
-
-
-
-

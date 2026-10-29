@@ -96,4 +96,3 @@ theme = "Binario"   # Pagination only journal / no prev next
 ```
 
 Yeah it's a mess, but it's helping me sort out the best theme.
-

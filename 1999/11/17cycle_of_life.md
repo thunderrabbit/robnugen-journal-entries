@@ -79,6 +79,3 @@ prayer to the bird, "thank you bird, for participating in the cycle of
 life."
 
 FUULUUUSHHHHHHH!!!!!!!!!
-
-
-

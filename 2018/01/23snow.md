@@ -23,4 +23,3 @@ Now getting ready for co-gender meeting.
 
 Great meeting, but got home late after talking in the park and
 slipping in ice 3 times on the way home.
-

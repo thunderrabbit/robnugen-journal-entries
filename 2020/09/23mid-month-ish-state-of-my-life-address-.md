@@ -43,4 +43,3 @@ title: 'mid-month-ish State of My Life Address '
 33. I made first place in the Pearl League in Duolingo, by scoring like 1700 points in 7 days.  Now in the Obsidian League, the top scorer has 3300 points in 3.5 days.
 34. I like to go to SOGO every week, but I didn't go this past Sunday.
 35. The cursor is acting strangely here on this page so I'm going to go ahead and send this now.
-

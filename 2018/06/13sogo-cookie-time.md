@@ -23,4 +23,3 @@ Hung out in the park afterward, chatting and drawing designs in the
 pine needles.  Ended up leaving after a solid hour because the rain
 began in earnest.  Walked back to Cookie Time to get my umbrella,
 which was helpful to have once I got back to Shin Yurigaoka.
-

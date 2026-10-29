@@ -57,4 +57,3 @@ perfectly clean.
 
 Going to KTRU soon; might stop by work first, if not, I'll stop by
 work afterward.  Gotta put some shit online.  small fixes.
-

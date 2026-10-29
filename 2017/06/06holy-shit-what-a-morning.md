@@ -145,4 +145,3 @@ The Hot Soup, she helped me note that there was fear lurking under the
 anger.  Fear that I won't catch the train to make it to my appointment
 on time.  But even deeper, sadness lurking under the anger.  Why
 didn't I feel this cared for when I was little??
-

@@ -21,4 +21,3 @@ Future me has a few things to do:
 * Bring Francois
 * Go and have a great time
 * Set up camera before my speech
-

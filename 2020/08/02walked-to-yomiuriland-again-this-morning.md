@@ -23,6 +23,3 @@ the steps because I was talking to Klaus from BLB and the phone cut
 out just as I started to head down.
 
 [![2020 aug 02 haibiscus](//b.robnugen.com/journal/2020/thumbs/2020_aug_02_haibiscus.jpg)](//b.robnugen.com/journal/2020/2020_aug_02_haibiscus.jpg)
-
-
-

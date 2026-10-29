@@ -14,4 +14,3 @@ This awesome extension is like a dream come true for getting into free registrat
 mailinator.com is quite nice, but this is even *faster*.
 
 btw, mailinator has a cool new look and more functionality, such as a semi-realtime spam map, showing where the most spam is coming from right now....
-

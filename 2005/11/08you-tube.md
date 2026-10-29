@@ -40,6 +40,3 @@ I'm quite impressed with the site.  I just uploaded two videos; it made thumbnai
 
 
 [Sign Up!](https://www.youtube.com/signup.php?referer=thunderrabbit)
-
-
-

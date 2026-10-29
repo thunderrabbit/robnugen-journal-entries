@@ -64,6 +64,3 @@ tags: [ "japan", "state of my life address" ]
 
 	
   * 
-
-
-

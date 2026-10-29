@@ -12,4 +12,3 @@ I attended an I group in Vancouver. After the group, since if the men did a Face
 https://www.facebook.com/darkhorseigroup/videos/2033026273665997/
 
 I think this could be a cool way to promote in Tokyo
-

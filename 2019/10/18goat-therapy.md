@@ -23,4 +23,3 @@ Thank you [@honomu_goat_dairy](https://www.instagram.com/honomu_goat_dairy/)!
 [![2019 oct 18 honomu goat dairy goat on rob](//b.robnugen.com/journal/2019/hawaii/thumbs/2019_oct_18_honomu_goat_dairy_goat_on_rob.jpg)](//b.robnugen.com/journal/2019/hawaii/2019_oct_18_honomu_goat_dairy_goat_on_rob.jpg)
 [![2019 oct 18 honomu goat dairy goat on lin](//b.robnugen.com/journal/2019/hawaii/thumbs/2019_oct_18_honomu_goat_dairy_goat_on_lin.jpg)](//b.robnugen.com/journal/2019/hawaii/2019_oct_18_honomu_goat_dairy_goat_on_lin.jpg)
 [![2019 oct 18 honomu goat dairy goat on lin smiling](//b.robnugen.com/journal/2019/hawaii/thumbs/2019_oct_18_honomu_goat_dairy_goat_on_lin_smiling.jpg)](//b.robnugen.com/journal/2019/hawaii/2019_oct_18_honomu_goat_dairy_goat_on_lin_smiling.jpg)
-

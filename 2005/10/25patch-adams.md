@@ -11,4 +11,3 @@ Just saw most of Patch Adams starring Robin Williams.? I was surprised when The 
 
 
 Kudos to the real Patch Adams for having the courage to be different and silly.  
-

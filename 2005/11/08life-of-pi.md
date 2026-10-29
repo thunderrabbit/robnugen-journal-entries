@@ -20,4 +20,3 @@ I want so much for the story to be true. It truly does prove the courage of life
 I cried twice near the end.  
   
 How funny to see me working so hard to write this description. _Life of Pi_ rules.  
-

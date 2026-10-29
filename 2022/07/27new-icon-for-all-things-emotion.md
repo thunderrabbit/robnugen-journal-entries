@@ -18,4 +18,3 @@ Working with Jimmy, I have a couple of icons.
 src="https://b.robnugen.com/journal/2022/hug_2022_july_27_jimmy.png"
 alt="hug 2022 july 27 jimmy"
 class="title" />
-

@@ -415,4 +415,3 @@ After they were satisfied that I was safe to board a plane, I was led by a guy w
 In all, my experience confirmed the stories I had heard about living conditions there, and showed me how people could get used to anything, and just continue to live as best they can.  I have been so privileged to live in great ignorance of the horrors around the world.  I'm glad to have begun opening my eyes to what's going on...
 
 The reasons behind the scenes are so ingrained, so intermeshed; I've found it nearly impossible to imagine a solution, but education could be a first step.
-

@@ -22,4 +22,3 @@ Legs tired. Ready to quit
 ##13:06.
 
 1/3rd finished, but are going back on a bus that arrives in 1.5 hours. Lunch now
-

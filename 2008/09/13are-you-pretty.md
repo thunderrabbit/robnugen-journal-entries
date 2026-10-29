@@ -26,4 +26,3 @@ This billboard in Yoyogi-Uehara (Tokyo) perfectly captures why I don't like TV. 
 
 To all those people whose hearts this billboard targets: just say YES.
   
-

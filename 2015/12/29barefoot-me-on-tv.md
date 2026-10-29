@@ -72,4 +72,3 @@ And he replied as follows.  (Of course they already have plans for new years!)
     airport again.  In the New Year's Eve, we are going to Comic
     market and film OTAKU foreigners.  So, please wait until next
     year.
-

@@ -25,4 +25,3 @@ Here are a few things to do before then
 (*) Emacs command to start a new journal entry
 
 (**) CLI command to let me see what word to use in my [backwards story](https://bitbucket.org/thunderrabbit/robnugen-journal-entries/commits/).
-

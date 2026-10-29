@@ -15,4 +15,3 @@ Ted's head was more upside down before I started taking the photos.
 Jenny looks like she's still asleep:
 
 [![wait what](/images/2014/11/thumbs/wha 2014-11-27 10.43.01.png)](/images/2014/11/wha 2014-11-27 10.43.01.png)
-

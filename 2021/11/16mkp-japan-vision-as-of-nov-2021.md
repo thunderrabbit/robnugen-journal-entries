@@ -56,5 +56,3 @@ Context: twelve men are just finishing MKP Japan’s first Circle of Men trainin
 3. Replace Rob with bilingual New Warrior
 4. Offer mentoring into younger community in Japan
  
-
-

@@ -246,4 +246,3 @@ excellent advice when I told her I was afraid to leap:
 
     "If you don't do it, you'll be leading by example not to follow
     your dreams."
-

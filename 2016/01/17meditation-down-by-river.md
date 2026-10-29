@@ -13,4 +13,3 @@ side.
 
 Noticed how the stream was literally the archetype of the imagery for
 "stream of thoughts" as the water flows by.
-

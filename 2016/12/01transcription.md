@@ -14,5 +14,3 @@ I seem to have lost the
 Oh, it was on my other phone.
 
 Okay, here's a transcription (maybe)
-
-

@@ -64,4 +64,3 @@ dinner at her house and we're about to wrap presents.
 She works at The Container Store, so has cool rolling
 scissors, cool tube shaped ribbon, and plain ol' flat
 wrapping paper.
-

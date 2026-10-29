@@ -12,4 +12,3 @@ tags: [ "internet", "technology" ]
 This seems pretty sweet.  Google could use this technology to further optimize its image search.  I could use this technology to get the pictures on my website arranged!
 
 Amazing to imagine that we are now living in a time that computers *don't* recognize what's in photographs.  Seriously.
-

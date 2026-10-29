@@ -19,4 +19,3 @@ Happily buried myself deeply enough it was hard to get out 😂
 [![2025 jan 16 half man half monkey 1000](//b.robnugen.com/journal/2025/Australia/thumbs/2025_jan_16_half_man_half_monkey.jpeg)](//b.robnugen.com/journal/2025/Australia/2025_jan_16_half_man_half_monkey_1000.jpeg)
 
 Thank you Kirra for your lovely sandy beach!
-

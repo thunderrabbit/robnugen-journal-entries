@@ -23,4 +23,3 @@ Umm, what?
 **Because** he is always early, we can check out now (allowing time for them check the property, hand over keys, and bring luggage to our pick up spot) and leave a bit earlier (which always seems to be Jess preference).
 
 Anyway, I was right about the timing but I just let it go because it's not that important.
-

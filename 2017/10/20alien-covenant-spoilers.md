@@ -14,4 +14,3 @@ threw away a lot of equipment to kill one little monster.  Why would
 that couple hook up after having apparently been so focused on their
 just deceased partners? Note to safety team: put alarm lights in the
 shower as well.
-

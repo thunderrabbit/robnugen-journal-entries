@@ -43,4 +43,3 @@ but I transferred the balance to a different card) and I had her pay the
 rest via phone, and <em>bang</em> the card is paid off!
 
 I'm gonna send her a thank you note!
-

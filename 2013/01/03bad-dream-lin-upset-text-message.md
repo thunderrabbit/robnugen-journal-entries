@@ -25,5 +25,3 @@ yay
 no thanks to you
 
 And I started to cry and I slid the phone to my mom, "I found Lin," but she didn't hear me. moe joe, so thankful to wake up!
-
-

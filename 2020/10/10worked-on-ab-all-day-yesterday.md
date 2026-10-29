@@ -19,4 +19,3 @@ As I write this the next morning, there is uncommitted code on my local computer
 Yeah, thinking about it now it's very clear that this new way is the right way to go.  Basically I was thinking that some trend reports would use the old system and some would use the new system, but realistically I do not need to keep any of the old code because all trend reports will use the new system.
 
 I'm really enjoying being able to speak my journal entries into my phone.  I still haven't fixed it so it goes to my live server immediately but it's much better.
-

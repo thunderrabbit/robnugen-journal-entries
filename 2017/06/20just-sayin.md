@@ -44,4 +44,3 @@ Third, according to NIST, this tower fell because of fire.
 {{< youtube 0UBHwsp1PAw >}}
 
 American engineering apparently sucks!
-

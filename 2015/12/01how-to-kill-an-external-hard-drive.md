@@ -15,4 +15,3 @@ buy
 ### Step 2
 
 Put the hard drive on them
-

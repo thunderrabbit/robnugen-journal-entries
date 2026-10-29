@@ -31,5 +31,3 @@ These are on top of scheduled things:
 * ✓ Lin hangout after that
 * ✓ Walk and Talk events
 * ✓ Wolfpack presentation next Monday
-
-

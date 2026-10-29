@@ -39,5 +39,3 @@ Congratulations, and thank you, [Word](https://wordpress.org/)[press](https://wo
 
 
 I'm typing right now using [posterous](https://posterous.com/), and earlier today sent several audio snippets, er, boos, with [audioboo](https://audioboo.fm).  For the past few weeks, I've been writing little bits and uploading pics with [Path](https://path.com/), though that *might* fall by the wayside as there's no way yet to really link it with other stuff on the interwebs.
-
-

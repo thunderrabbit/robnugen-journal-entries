@@ -19,5 +19,3 @@ date: 2015-05-03T13:40:49+09:00
 1. Meeting Mutsumi and her husband + Bruno and his wife to see some art by Magritte today.  I thought she had misspelled Maglite at first (or is it Maglight?)
 1. Weather is nice; I'm barefoot today.
 1. Today there's apparently a big fight between two boxers.  I've heard of one of them.
-
-

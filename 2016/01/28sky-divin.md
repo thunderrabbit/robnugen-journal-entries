@@ -24,4 +24,3 @@ more enthusiasm, I guess... Kinda made it more exciting.
 [![three copyright claims](//b.robnugen.com/journal/2016/January_2016_trip_to_Cali_and_Austin/skydiving_in_San_Marcos_28_Jan/lin/thumbs/three_copyright_claims.png)](//b.robnugen.com/journal/2016/January_2016_trip_to_Cali_and_Austin/skydiving_in_San_Marcos_28_Jan/lin/three_copyright_claims.png)
 
 https://www.youtube.com/watch?v=GeI1_TqBLCg
-

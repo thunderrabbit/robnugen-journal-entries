@@ -24,4 +24,3 @@ which is far more complicated.  :-)
 Relic Expedition features a lot more strategy; there are far more
 options available per player per turn, including cases where each
 player gets to move NPCs during another player's turn.
-

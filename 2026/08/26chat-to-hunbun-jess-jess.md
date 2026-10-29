@@ -23,4 +23,3 @@ Now I'm heading to AB to see how S-san inputs data; this will be a first in a lo
 At the Yoyogi Uehara station, I need to remember to NOT go across the platform toward Yoyogi Park (Chiyoda Line) but stay on the same side and wait for the local train to go to AB office.
 
 Success!
-

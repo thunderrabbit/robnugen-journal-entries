@@ -29,4 +29,3 @@ Japanese.  I whipped up my own version, and plan to post them under
 
 後、Rin and Hiro will attend mixed gender group tonight at Christine's
 in Nishi Azabu.  Good thing they like cats!
-

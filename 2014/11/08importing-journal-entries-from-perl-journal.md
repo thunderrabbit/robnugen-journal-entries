@@ -40,4 +40,3 @@ Then the last macro embeds the meta data in the files:
        [?\C-  ?\C-e escape ?w return return ?\C-p ?\C-x ?i ?\C-y ?. ?y tab return ?\C-x ?\C-s ?\C-x ?k return ?R ?\C-y backspace backspace backspace backspace ?m ?d return ?n ?d])
 
 So far, I have embedded comments and created meta-data files for files from 1985 down through the middle of 2003.
-

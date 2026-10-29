@@ -17,4 +17,3 @@ Place, Season 1 (again).
 {{% img-responsive
 "https://b.robnugen.com/journal/2021/2021_aug_13_rob_and_lin_on_pillows.jpg"
 "2021 aug 13 rob and lin on pillows" %}}
-

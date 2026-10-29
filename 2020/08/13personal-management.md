@@ -17,5 +17,3 @@ Learn the skills and receive the tools to find your true authentic self.  your t
 Learn to naturally increase your vibration with vocal techniques designed by AniKiko, allowing you to instantly break through all the emotions and uncover your authentic self.
 
 Improve your natural leadership ability, relationships, life experience by bringing your authentic self to the front of your life.
-
-

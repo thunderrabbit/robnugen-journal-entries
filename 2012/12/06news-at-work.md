@@ -10,4 +10,3 @@ tags: [ "work" ]
 We'll be moving soon, though haven't yet confirmed our new place.  Hopefully it will be near The Pink Cow in Roppongi, so I'll be able to hang out there a bit more easily.
 
 In other news, I'm getting the reporting engine a bit more completed.
-

@@ -17,4 +17,3 @@ This was after coming across a Fuji X70 for 56000 yen at MapCamera in Shinjuku. 
 We had started looking for a Ricoh GR2, but chose the Fuji X70 did its movable screen.
 
 With the 12000 yen Mark saved me by knowing where to go, I bought us curry at Milan.  Great food and conversation!
-

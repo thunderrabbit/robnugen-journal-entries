@@ -57,4 +57,3 @@ None of the email below this run-on sentence is true; it's just another copy pas
     
     If, by any chance I find out that you have shared this message with
     anybody else, I will broadcast your video as mentioned above.
-

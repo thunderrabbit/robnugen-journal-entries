@@ -32,5 +32,3 @@ I think I'll buy iStopMotion, assuming I can find no reviews claiming that it cr
 Sigh Wordpress.   Here are some sideways images because wordpress can't rotate images over 2 MB.
 
 [![IMG_2765](/images/2013/05/IMG_2765-1024x768.jpg)](/images/2013/05/IMG_2765.jpg) [![IMG_2764](/images/2013/05/IMG_2764-1024x768.jpg)](/images/2013/05/IMG_2764.jpg) [![IMG_2762](/images/2013/05/IMG_2762-1024x768.jpg)](/images/2013/05/IMG_2762.jpg) [![IMG_2761](/images/2013/05/IMG_2761-1024x768.jpg)](/images/2013/05/IMG_2761.jpg)
-
-

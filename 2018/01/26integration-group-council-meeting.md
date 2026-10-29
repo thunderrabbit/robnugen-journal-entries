@@ -13,4 +13,3 @@ work in
 [The Work](https://www.theguardian.com/film/2017/sep/10/the-work-review-folsom-prison).
 
 Blessings to all the men who make this work possible.
-

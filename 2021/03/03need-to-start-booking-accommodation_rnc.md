@@ -9,5 +9,3 @@ Feeling super gratitude and relief to have a donor offer to pay $100 per day to 
 My goal this week is to book one week worth of accommodation, so in addition to the single night I've booked so far I will then have eight nights of 21 booked.
 
 The walk is 23 days therefore 22 nights, the first night of which is going to be at my own house so that's booked already.
-
-

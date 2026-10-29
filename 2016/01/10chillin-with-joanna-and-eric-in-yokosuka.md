@@ -17,4 +17,3 @@ met an Australian guy named Geoffrey who had just moved into his house
 really nice, and he said it's the third house he's reformed in this
 type of way, so Lin and I got his infos to see if we can have him work
 on our new house, whenever we end up getting it.
-

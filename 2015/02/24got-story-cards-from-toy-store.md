@@ -27,4 +27,3 @@ on the box!
 
 I'm getting (a little bit) excited about taking lessons again.  Will I
 study?  Will I keep it up?  Who knows??!!!!!
-

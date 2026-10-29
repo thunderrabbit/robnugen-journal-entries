@@ -30,4 +30,3 @@ phone dies or pisses me off enough) and ain't neva come back.
 Oh, in other news, it's Fred's 35th bday soon and we're going to play
 Portal as soon as we can figure out how to set it up on The Internet,
 or "hip hop" as you kids call it.
-

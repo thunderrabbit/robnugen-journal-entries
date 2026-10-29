@@ -20,4 +20,3 @@ https://gtmetrix.com/reports/www.robnugen.com/Ex2jEHuW/
 am sure I can do better, at least on the images, and probably on the
 JS.  TBH I don't know what JS is being used on my site. If I added it,
 I don't recall.
-

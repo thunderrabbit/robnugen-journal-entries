@@ -36,8 +36,3 @@ date: 2018-08-02T09:42:21+09:00
 10. I may have found the backpack that will replace the backpack I
     have had for a while and have kept repairing as it rips in various
     places.
-
-
-
-
-

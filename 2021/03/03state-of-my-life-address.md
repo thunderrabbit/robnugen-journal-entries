@@ -63,4 +63,3 @@ Now using my System76 Lemur 2020 as my full time machine.  Much
 lighter (and smaller and plasticker) and Linuxer (Pop!_OS)
 23. Home now features two nicely made holes in our downstairs
 ceilings.
-

@@ -26,4 +26,3 @@ BP lesson was great and went exactly as planned.  I am super glad we
 had plenty of material; I was afraid I'd have to wing stuff for a long
 time, but everything worked out fine.  We did 3 minutes of eye gazing,
 and that was enough.
-

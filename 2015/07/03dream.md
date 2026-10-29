@@ -29,4 +29,3 @@ After the jet was diverted to crash not in the city, I was sitting on
 a hilltop looking for it.  Somewone had super-zoomed my cameras and
 found it, so I becan to showe people as I zoomed out. after I had seen
 the pilot alive and well, though in a destroyed plane.
-

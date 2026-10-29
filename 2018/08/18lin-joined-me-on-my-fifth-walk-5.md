@@ -13,4 +13,3 @@ had never used before and arriving via different routes in places we
 had been before.  "Oh!  we're *here*!" kinda thing.
 
 Wow!  3.9km in 58 minutes, according to Google maps.
-

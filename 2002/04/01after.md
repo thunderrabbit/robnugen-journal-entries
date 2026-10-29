@@ -46,6 +46,3 @@ worthy'  or something like that.</p>
 <p>- - - - - -</p>
 
 <p>I got to sleep around 11:30pm</p>
-
-
-

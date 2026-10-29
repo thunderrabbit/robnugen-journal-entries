@@ -28,4 +28,3 @@ get toiletries.</p>
 and I can quit being so silly.</p>
 
 <p><img src="//b.robnugen.com/rob/wL-ROB.gif"/></p>
-

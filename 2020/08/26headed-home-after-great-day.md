@@ -46,4 +46,3 @@ Today, roughly in chronological order, I:
 32. turned down her offer as I correctly guessed the rain would quit pretty soon. "I'm very familiar with this kind of weather so it will stop soon"
 
 I miss Houston weather.  I'm grateful to get to experience bigger storms in Tokyo now that we're getting some global warming up in here.
-

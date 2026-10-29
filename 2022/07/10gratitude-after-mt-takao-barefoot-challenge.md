@@ -24,6 +24,3 @@ Please help guide me in Your Light, helping me know Your Will.
 Please continue to guide me moment by moment with Your Grand Design.  May I rest forever in Your Service.
 
 Barefoot Rob!
-
-
-

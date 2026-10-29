@@ -34,4 +34,3 @@ I should text Rin, Hiro, and Soness as well.
     
     I am not yet half way through this training, but I am already thinking
     about how I can do the second training and subsequent trainings.
-

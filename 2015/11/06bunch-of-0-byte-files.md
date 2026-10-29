@@ -27,4 +27,3 @@ Email I wrote to Fred:
 hmm!  The first part was easy: [find . -size 0 -delete](https://stackoverflow.com/a/3157937/194309)
 
 Hmm!  Second part was easy: [find . -type d -empty -delete](https://unix.stackexchange.com/a/46326)
-

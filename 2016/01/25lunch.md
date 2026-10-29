@@ -13,4 +13,3 @@ last night) all had to leave a bit earlier, but we hugged them bye and
 chatted about 35 more minutes during which time Mike de-res'd, and Lin
 presented Karina with the にゃんがる hoodie featuring cat ears and a
 pouch for cats (1 at a time, probably).
-

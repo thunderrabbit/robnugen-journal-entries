@@ -63,4 +63,3 @@ They had me lie down on my mattress for safety.
 I slept until breakfast, and many people checked in on me to see how I was doing. I basically felt loved by the group and humbled by my mind and body.  
 
 And those are the highlights of the retreat! Jess will definitely attend again at the next chance she gets. I’m 50/50. I definitely won’t try taking a double dose on the first night—or ever again!  
-

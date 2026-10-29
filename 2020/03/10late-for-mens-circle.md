@@ -45,4 +45,3 @@ add there are, and they all look spammy to me.)
 
 Arriving in Yoyogi Uehara now.  I'll look for this microservice until
 we arrive in Shinjuku.
-

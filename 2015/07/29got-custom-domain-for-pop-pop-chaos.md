@@ -23,4 +23,3 @@ it's worth.
 [Archive of the game after adding the leaderboard](https://archive.is/9vlpE)
 
 (looks like only one person has bothered to sign in.  I bet it was Fred.)
-

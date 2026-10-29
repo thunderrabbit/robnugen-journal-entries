@@ -15,4 +15,3 @@ I wrote an email to ABのT, asking her about long-term plans for AB, especially 
 "Today," around 10:00 a.m. to noon on Friday February 13th, AI and I made some cool updates to https://mg.robnugen.com/ so that it's easier to long click a field in the dashboard to change that data.  After that I was able to add a way to bulk add todo items.
 
 Oh, I wonder if I finished all the ones I added?
-

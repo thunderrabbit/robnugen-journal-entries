@@ -17,4 +17,3 @@ a 100 page notebook to take over for the 40 page notebook I have used
 for SCC lessons for the past 2+ years.
 
 [![2020 nov 28 one hundred page notebook](//b.robnugen.com/journal/2020/thumbs/2020_nov_28_one_hundred_page_notebook.jpg)](//b.robnugen.com/journal/2020/2020_nov_28_one_hundred_page_notebook.jpg)
-

@@ -14,5 +14,3 @@ of tomatoes so I posted a picture.
 
 今日、いい天気だから窓を開けて鳥たちの音を聞く。 Today the weather
 is nice so I opened my window and can hear birds singing.
-
-

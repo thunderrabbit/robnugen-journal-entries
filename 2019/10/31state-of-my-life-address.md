@@ -115,10 +115,3 @@ Hakone
 7. I should probably just hire someone to bring all those over to my
 existing site
 8. I am thinking about putting ~wanbus on a vultr server
-
-
-
-
-
-
-

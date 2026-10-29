@@ -62,6 +62,3 @@ We got up and got a picture.
 Great day with great friends!
 
 [![2020 mar 21 showa kinen park by yuna light sakura](//b.robnugen.com/journal/2020/2020_mar_21_showa_kinen_park/thumbs/2020_mar_21_showa_kinen_park_by_yuna_light_sakura.jpg)](//b.robnugen.com/journal/2020/2020_mar_21_showa_kinen_park/2020_mar_21_showa_kinen_park_by_yuna_light_sakura.jpg)
-
-
-

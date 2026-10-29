@@ -13,4 +13,3 @@ Talking about what products we can grow in the city that will return
 the highest value per volume.  Apparently not raspberries.
 
 "Raspberries are fucked up."
-

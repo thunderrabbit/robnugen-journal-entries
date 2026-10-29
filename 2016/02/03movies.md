@@ -20,5 +20,3 @@ so I turned it off and turned on _The Martian_, which I really
 enjoyed, partially because it stars Matt Damon.
 
 Just under 2 hours to Narita.
-
-

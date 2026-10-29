@@ -13,5 +13,3 @@ draft: false
 5. ✓ Online Open Men's Group from 18:30
 
 [![2022 feb 15 antimatter dimensions](//b.robnugen.com/journal/2022/thumbs/2022_feb_15_antimatter_dimensions.png)](//b.robnugen.com/journal/2022/2022_feb_15_antimatter_dimensions.png)
-
-

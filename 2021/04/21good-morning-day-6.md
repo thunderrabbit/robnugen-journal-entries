@@ -15,4 +15,3 @@ reason it *did* work yay.
 
 probably here
 https://www.robnugen.com/quests/walk-to-niigata/2021/04/21good-morning-day-6
-

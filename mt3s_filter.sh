@@ -82,5 +82,3 @@ echo mkdir -p \"$mt3_dest_dir\"
 # only the shell can execute shell functions,
 # and so -exec has to run a shell:
 find $year -type f -exec bash -c 'process_file {}' \;
-
-

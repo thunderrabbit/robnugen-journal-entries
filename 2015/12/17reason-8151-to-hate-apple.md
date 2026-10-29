@@ -19,4 +19,3 @@ fack I can't even keep up.
 Yesterday my shit suddenly rebooted for an update which I clicked
 CANCEL do not update.. surprise in the middle of work I had to wait
 for 25 minutes or so for an update.  fuck you Apple.
-

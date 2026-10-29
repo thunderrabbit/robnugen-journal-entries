@@ -14,4 +14,3 @@ nonetheless before)
 
 Afterward, I kept my shoes off, so I'm barefoot on the airplane.  Awww
 yeah so nice.
-

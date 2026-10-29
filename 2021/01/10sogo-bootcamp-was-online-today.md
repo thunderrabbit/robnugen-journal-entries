@@ -17,4 +17,3 @@ All in all, we had the seven people in attendance and each chose different worko
 We worked out like that for just over an hour and then Julien and one of his friends went for a run around the park while Kana and I played a short game of catch with her basketball while Ayumi practiced <del>jump rope doing double rotation jumps (which probably have a specific name)</del> double unders.
 
 Julien and his friends headed out and Kana and Ayumi invited me to join them for lunch.  We ate at Chile's, which features Banana Buñuelos!
-

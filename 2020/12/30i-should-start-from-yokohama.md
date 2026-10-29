@@ -14,4 +14,3 @@ of the island to the other.   It is apparently just an hour from Niigata station
 
 I can start walking from Yokohama's Rinko Park On Monday April 12th,
 then keep all the other dates the same.
-

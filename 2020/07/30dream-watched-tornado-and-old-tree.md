@@ -18,4 +18,3 @@ They agreed and one person had a camera to record another was transcribing by ha
 I was concerned about the continuity but I couldn't really do anything about it.  I kept telling the story but then forgot some details and hoped they would believe it was a true story and not the case and I was making it up.
 
 Then some of my friends had a camera and I laid down to show them how I had laid down but at this point we were on a different road farther away from the intersection because some type of crew had come to the tree to do repair or something.
-

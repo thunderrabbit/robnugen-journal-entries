@@ -47,4 +47,3 @@ toy store!  Photos were taken to commemerate the moment.
 
 Make sure virtualbox settings has a Host Only adapter
 Use that Host only adapter in the machine specific settings
-

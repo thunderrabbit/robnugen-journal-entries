@@ -9,4 +9,3 @@ title: 'late for SOGO today'
 ---
 
 I was already late and then I had to buy a mask because I forgot to bring a mask and now missed a train and I'm super late for SOGO today.
-

@@ -32,4 +32,3 @@ Notes to self:
 * don't have characters carry props that are too heavy for them
 * don't use permanent ink if characters cannot carry it
 * don't worry!
-

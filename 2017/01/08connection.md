@@ -16,4 +16,3 @@ They live kinda kinda close to us
 Same line at least
 
 He seemed really nice so I hope we can hang out more.
-

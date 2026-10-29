@@ -50,4 +50,3 @@ Eventually I want to add audio to the animation… possibly music, dialogue, sou
 
 And I want to add CGI animation behind the animation by rendering
 something in place of the bluescreen background.
-

@@ -12,4 +12,3 @@ With food still onthe table som epeople started to pull the blanket from the bed
 </div>
 
 And through all of that , I didn't pee in the bed.
-

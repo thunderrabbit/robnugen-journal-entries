@@ -37,4 +37,3 @@ Prasun had to leave early then Jack had to go to Shibuya, but then the rest of u
 Mike bought us all some custard type things that were served in actual eggshells. I had one; (not vegan, but) it was yummy.
 
 I fell asleep on the Inokashira Line and Odakyu Line but was able to wake up correctly at my stations. Yayyyyyyy 🙌 
-

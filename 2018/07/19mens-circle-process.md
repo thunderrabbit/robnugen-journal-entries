@@ -50,4 +50,3 @@ he is doing.  Maybe he doesn't.
 I withdrew the projection that escalator-san was doing anything wrong
 by standing there.  Maybe they are keeping back a few seconds so I
 won't get hit by a car later.
-

@@ -36,5 +36,3 @@ resilient in refusing to sing.
 I didn't sing Alice's Restaurant
 
 [![Arlo Guthrie search returns only "City of New Orleans"](//b.robnugen.com/journal/2015/thumbs/no_Alices_Restaurant_2015-12-04_22.01.52.jpg)](//b.robnugen.com/journal/2015/no_Alices_Restaurant_2015-12-04_22.01.52.jpg)
-
-

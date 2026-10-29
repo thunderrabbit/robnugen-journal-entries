@@ -9,4 +9,3 @@ date: 2015-01-20
 
 For
 [this request](https://www.reddit.com/r/mazes/comments/2szfrw/request_custom_maze_with_a_couple_specific/) I drew a maze.
-

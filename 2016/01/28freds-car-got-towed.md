@@ -46,7 +46,3 @@ Fred: `            Oh! Okay.  See you in a sec.`
 Fred (to Rob and Lin): `She's going to swap apartments with us.`
 
 `                  We'll take her car and they'll stay here`
-
-
-
-

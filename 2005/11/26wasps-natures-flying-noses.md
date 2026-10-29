@@ -12,4 +12,3 @@ tags: [ "miscellaneous", "news" ]
 [Wired News: Sting Operation Targets Terror](https://www.wired.com/news/technology/0,1282,69301,00.html?tw=wn_tophead_4)
 
 Woah. This counts for one of them ideas that anyone coulda thunk of. I think.  
-

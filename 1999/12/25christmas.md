@@ -65,4 +65,3 @@ sing along with it."
 As if.  Fred described the sound later as "worse than static, cause at
 least you can ignore static."  It's hard static with blown out screaming
 and halts and it's just tough as hell.
-

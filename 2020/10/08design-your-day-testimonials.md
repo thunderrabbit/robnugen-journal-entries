@@ -21,5 +21,3 @@ I really appreciate the guidance received from Rob.
 I also appreciate everyone else's insight. I learn a lot every day. 
 The consistency, the camaraderie and positivity and sharing of ideas
 amongst the family.
-
-

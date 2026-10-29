@@ -14,4 +14,3 @@ for AB before end of the year. yahooo
 
 I've added two (debug) lines, removed one superfluous line, and now
 I'm ready to write some lines that will hopefully stay for a while.
-

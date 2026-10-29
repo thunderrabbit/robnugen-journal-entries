@@ -15,4 +15,3 @@ Then we went up into the mountains and the pressure inside the cup
 gently squirted coffee out through the straw.
 
 [![physics 2016-12-23 10.50.05](//b.robnugen.com/travel/japan/Niigata_2016/thumbs/physics_2016-12-23_10.50.05.jpg)](//b.robnugen.com/travel/japan/Niigata_2016/physics_2016-12-23_10.50.05.jpg)
-

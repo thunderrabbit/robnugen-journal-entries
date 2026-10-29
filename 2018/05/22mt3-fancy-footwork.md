@@ -12,4 +12,3 @@ things moving without authorization, so I was able to add five seconds
 of video today in just 1.25 hours.
 
 {{< youtube zyaSrQymfSc >}}
-

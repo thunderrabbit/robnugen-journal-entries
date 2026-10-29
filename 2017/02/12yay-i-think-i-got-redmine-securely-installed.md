@@ -13,5 +13,3 @@ site.  As far as I can tell, though the SSL is installed properly.
 Yay!
 
 I may switch to my domain for testing again tomorrow.
-
-

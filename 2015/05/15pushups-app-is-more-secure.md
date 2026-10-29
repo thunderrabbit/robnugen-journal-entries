@@ -19,4 +19,3 @@ to track your own pushups!
 Right now, all pushups are saved after clicking save, but the total
 number of pushups is not displayed.  I'll get to that soon.  But
 first, pushups, shower, and sleep.
-

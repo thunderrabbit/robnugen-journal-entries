@@ -51,4 +51,3 @@ We chatted about life, specifically her plans for the future and my lack of plan
 - - -
 
 In Le Havre, France, I am sitting now on the top deck of our ship on Sunshine Bar.  This place will come alive again in about 7 hours, when people crowd the sides of the boat for the departure ceremony.  Next stop: Norway!
-

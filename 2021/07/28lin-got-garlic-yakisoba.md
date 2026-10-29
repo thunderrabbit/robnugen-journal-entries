@@ -16,6 +16,3 @@ class="title" />
 I saw this at a conveni the other day, and bought two for Lin (at her
 request).  She said they were so hot she could not eat one in a single
 sitting.
-
-
-

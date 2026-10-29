@@ -10,4 +10,3 @@ date: 2015-01-22
 Finished the screening, including some deep breathing exercises.
 Local scuba instructor says it was hard for him since he's been
 practicing *not* fully exhaling.
-

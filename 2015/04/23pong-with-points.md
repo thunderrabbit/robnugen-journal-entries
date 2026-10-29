@@ -12,5 +12,3 @@ I made a version of [pong with points](/samples/unity3d/pong/05-pong-with-points
 Next plans are to add a little delay after all balls are lost, add
 some audio, an options screen to turn off audio, an AI to allow single
 player mode.
-
-

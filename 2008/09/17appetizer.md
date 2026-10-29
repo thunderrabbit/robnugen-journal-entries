@@ -22,4 +22,3 @@ Originally uploaded by [thunderrabbit](https://www.flickr.com/people/thunderrabb
 
 we got 12 chips for an appetizer...
   
-

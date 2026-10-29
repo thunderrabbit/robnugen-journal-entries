@@ -10,4 +10,3 @@ date: 2017-07-27T15:47:35+09:00
 I ate lunch with Esther in Ueno station before she moves to Okinawa.  It
 sounds like she's found a good job down there; I hope it works out
 well!
-

@@ -23,4 +23,3 @@ I had been drinking plenty of water so it won't be all that bad.  I
 used a water hose to rinse the pee away from her bag first because her
 lether bag might soak up the smell. Then I sprayed water on my leg to
 wash it off and everything was fine.</p>
-

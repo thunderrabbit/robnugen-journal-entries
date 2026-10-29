@@ -12,4 +12,3 @@ I went to KUMON in Shibusawa to sign up for Japanese worksheets
 yesterday.
 
 Today signed up for coaching with Freya for starting my business.
-

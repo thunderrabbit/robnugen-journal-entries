@@ -11,4 +11,3 @@ title: 'Isha might work on MT3 website'
 My friend Isha offered to do translation work so I asked if she could look at https://www.marbletrack3.com
 
 It would be neat to get some more eyes and energy on the site!
-

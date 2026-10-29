@@ -35,4 +35,3 @@ Awwww man.
 On the app front, Tariq and I released Pongdemonium to all regions,
 but App store is saying it's not available in Japan.  itunesconnect says
 it is available in Japan.  What to do?
-

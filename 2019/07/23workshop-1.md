@@ -24,6 +24,3 @@ draft: true
 Tokyo Tribe creates a welcoming space
 
 Encourage acceptance  (workshop coming soon to go into detail on this)
-
-
-

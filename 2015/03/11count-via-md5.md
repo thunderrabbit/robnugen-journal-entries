@@ -9,4 +9,3 @@ date: 2015-03-11T16:13:00+09:00
 
 I've bribed a couple people (via /r/bittippers) into adding to the MD5
 count thing, breathing some new life into the thread!
-

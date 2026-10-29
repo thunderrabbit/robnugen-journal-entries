@@ -32,4 +32,3 @@ date: 2019-05-07T18:04:21+09:00
 昨日西麻布で男の人六人はグループに来ました。  Yesterday 6 men came to group in Nishi Azabu
 
 仕事じゃないけど沢山教えたから、終わる時、疲れました。  It's not my job, but I led a lot, so by the end, I was tired.
-

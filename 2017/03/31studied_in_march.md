@@ -15,4 +15,3 @@ date: 2017-03-31T10:31:57+09:00
 [![裸足ろぶー２０１７年０３月０１日（水）１](//b.robnugen.com/journal/2017/study/thumbs/裸足ろぶー２０１７年０３月０１日（水）１.jpg)](//b.robnugen.com/journal/2017/study/裸足ろぶー２０１７年０３月０１日（水）１.jpg)
 [![裸足路武の２０１７年０３月１５日](//b.robnugen.com/journal/2017/study/thumbs/裸足路武の２０１７年０３月１５日.jpg)](//b.robnugen.com/journal/2017/study/裸足路武の２０１７年０３月１５日.jpg)
 [![裸足路武の２０１７年０３月１５日 1](//b.robnugen.com/journal/2017/study/thumbs/裸足路武の２０１７年０３月１５日 1.jpg)](//b.robnugen.com/journal/2017/study/裸足路武の２０１７年０３月１５日 1.jpg)
-

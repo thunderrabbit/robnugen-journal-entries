@@ -21,4 +21,3 @@ which is unusual (exept after party night!)
 I joined the "advanced / super advanced / Menya" group, whereas I had
 joined the "beginner / intermediate" group before.  Wasn't too hard;
 I'll stick with that plan from now on.
-

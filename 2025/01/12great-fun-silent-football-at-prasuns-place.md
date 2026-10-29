@@ -15,5 +15,3 @@ Tortilla de Queso playing.
 For the next game, Mr Onion Head stayed the same. I was Thunder Rabbit, and Mr Dictator renamed Tortilla de Queso to be Quesadilla.
 
 The second Dictator did well for his second time in the role.
-
-

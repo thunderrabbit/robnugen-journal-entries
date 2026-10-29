@@ -29,4 +29,3 @@ We get to see more zombie action, and the zombies do something we haven't seen b
 
 But wait, there's more!! More unfinished stories! More books to
 come!!! I'm looking forward to them!
-

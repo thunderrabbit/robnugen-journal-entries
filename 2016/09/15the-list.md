@@ -32,4 +32,3 @@ redacted)_? Can you believe it?
 
 This book will stand on its own, but you really should pick up the
 whole series; more books are coming and I can hardly wait!
-

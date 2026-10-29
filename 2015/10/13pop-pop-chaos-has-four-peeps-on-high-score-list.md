@@ -11,4 +11,3 @@ date: 2015-10-13T11:39:56+09:00
 
 Man I forgot how to put images via markup via my emacs shortcuts in my
 journal entries.
-

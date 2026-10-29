@@ -219,5 +219,3 @@ And now GEMINI:
 :::
 
 Wow!  Very close, for all the wrong reasons!
-
-

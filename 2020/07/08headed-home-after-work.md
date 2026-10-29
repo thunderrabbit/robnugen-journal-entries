@@ -19,4 +19,3 @@ We also talked about how music concerts have pretty much been put on hold.  I lo
 
 In other news, I wrote to the TV Tokyo director who did my segment two years ago.  I'm looking forward to a reply from the crew to see how we can arrange for them to walk with me on my walk.
 
-

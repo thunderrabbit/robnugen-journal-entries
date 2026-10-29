@@ -47,4 +47,3 @@ I didn't recognize any blatant communication, but I was quite pleased that he lo
 At one point I lost my pager in them all, and we splashed around for a bit looking for it. Wende paged it, but I found it without consciously hearing it beep.  I really enjoyed thrashing around in there.
 </li>
 <p>
-

@@ -25,4 +25,3 @@ Chiaki has a website she hasn't updated in a while:
 https://www.mamaism.org/
 
 Outside, Noah was unimpressed with my barefoot preference.
-

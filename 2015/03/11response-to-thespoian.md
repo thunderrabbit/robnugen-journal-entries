@@ -61,4 +61,3 @@ I think for the command-line Perl version, I'll send an optional regex
 of letters that may have their capitalization changed.  It that regex
 is received, I ... oh good grief that's complicated (and will spew out
 soooo many matches!!!)  nevermind(?)
-

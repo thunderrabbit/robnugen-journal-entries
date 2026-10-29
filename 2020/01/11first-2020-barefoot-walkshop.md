@@ -20,4 +20,3 @@ Great pics from Mark!
 [![2020 jan 11 new ginza platform](//b.robnugen.com/blog/2020/thumbs/2020_jan_11_new_ginza_platform.jpg)](//b.robnugen.com/blog/2020/2020_jan_11_new_ginza_platform.jpg)
 [![2020 jan 11 rob masa 65](//b.robnugen.com/blog/2020/thumbs/2020_jan_11_rob_masa_65.jpg)](//b.robnugen.com/blog/2020/2020_jan_11_rob_masa_65.jpg)
 [![2020 jan 11 toe the line](//b.robnugen.com/blog/2020/thumbs/2020_jan_11_toe_the_line.jpg)](//b.robnugen.com/blog/2020/2020_jan_11_toe_the_line.jpg)
-

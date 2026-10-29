@@ -21,4 +21,3 @@ When it's midnight in Dubai, I think it will be 5am in Tokyo.  I will
 sleep for a few hours, waking up at maybe 9 or 10am Tokyo time, by
 which point I plan to have reversed A and P, and be over any residual
 jetlag.
-

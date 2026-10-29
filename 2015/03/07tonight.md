@@ -13,5 +13,3 @@ or maybe BSJ.
 
 It's running in csh not bash, so my preferred git log replacement
 looks like ass.
-
-

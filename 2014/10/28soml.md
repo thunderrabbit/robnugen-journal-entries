@@ -52,4 +52,3 @@ The very best thing about not using Wordpress or Hoken: I can repeat filenames a
 20. I've been so anti-impressed with Apple for the past 2.25 years that I am sure I'll not buy another Mac with my own monies.   When this one starts to get tired of the OS upgrades, I'll switch to Ubuntu.
 
 21. My phone is "Little Blue Monkey", an iPhone 4S with iOS 7.1.
-

@@ -39,4 +39,3 @@ Snuck my way back out of the ticket gates as the guy was busy with
 other travelers.  I judge it was not worth their busy time to help me
 buy a 150 yen entry ticket.  I plan to buy the correct ticket next
 time.
-

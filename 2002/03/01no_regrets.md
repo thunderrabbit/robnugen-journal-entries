@@ -38,5 +38,3 @@ kitchen/dining area....
 Jon (Ma's husband) - to get to some deeper level stories of his.  To
 communicate with him a bit more.
 </pre>
-
-

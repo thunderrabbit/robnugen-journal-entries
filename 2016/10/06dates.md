@@ -55,4 +55,3 @@ See?
 
 From
 https://stackoverflow.com/questions/251908/how-can-i-insert-current-date-and-time-into-a-file-using-emacs
-

@@ -9,4 +9,3 @@ date: '2022-01-20T16:22:20+09:00'
 Today was the third Thursday, so we had our monthly barefoot walking event in ShinYuri Art Park.
 
 Twelve people attended!  I think that's the highest number, which is neat given how cold it was.  Super happy to see everyone!
-

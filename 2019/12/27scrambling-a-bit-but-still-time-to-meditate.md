@@ -17,4 +17,3 @@ I meditated for 15 minutes this morning after Lughn reminded me the
 value of meditating daily.  Two days in a row so far!
 
 Oh, and I started using https://complice.co again.
-

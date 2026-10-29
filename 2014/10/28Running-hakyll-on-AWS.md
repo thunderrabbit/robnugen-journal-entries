@@ -89,5 +89,3 @@ Make it look like this:
 
 
 // cd $work_tree
-
-

@@ -22,4 +22,3 @@ that, but I figure we'll be too crazy tired to even talk much.</p>
 <p>I'm just so frickin' excited about this!</p>
 
 <p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
-

@@ -40,4 +40,3 @@ Some fragments came to mind while walking to the station
 * Sometimes, when I walk outside in Tokyo, I step on a piece of glass and can feel it lodged in my foot.  I limp for the rest of the day and then ask my wife to dig in there with a needle to pull it out.  
 * But I don't feel helpless, because I trust her.
 * Can I trust her with my soul?  Sure; it's eternal. What about my feelings and emotions?  Uh oh!  Scary!
-

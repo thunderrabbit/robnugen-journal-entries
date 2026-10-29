@@ -25,5 +25,3 @@ I am planning to preview the foot bath this coming Tuesday, January
 
 We will meet in Hikarie and walk to the foot bath, with a route
 optimized for the temperature..  possibly inside all the way to 109.
-
-

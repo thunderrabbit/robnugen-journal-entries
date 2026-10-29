@@ -18,4 +18,3 @@ Yuna joined!
 
 I forgot to take pictures, but we had a good time mindfully walking in
 Shinjuku Gyoen.
-

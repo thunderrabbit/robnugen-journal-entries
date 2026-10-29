@@ -28,4 +28,3 @@ Jackie, Paul, kT, after hanging out at Ma's apartment after Paul and
 Jackie came, after kT arrived after 10am.
 
 or something like that.
-

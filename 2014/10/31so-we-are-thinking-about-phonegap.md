@@ -10,5 +10,3 @@ date: 2014-10-31
 So we are thinking about Phonegap.  I'm trying to install Android SDK now.
 
 ![]()
-
-

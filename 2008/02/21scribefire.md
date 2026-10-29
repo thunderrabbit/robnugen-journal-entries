@@ -20,4 +20,3 @@ This feature is something that I wanted to pluck from Flock and move to FF. Now 
 AND, the interface for ScribeFire is way smoother than the one on Flock. (e.g. just enter the blog URL and it determines the type and the api entry point; e.g. start a blog entry and *then* setup the u/p to the blog)  
   
   
-

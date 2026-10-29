@@ -27,4 +27,3 @@ Channing loved it!  He asked if I would tape a copy for him.  No sweat.
 Work was short and sweet (I ate a lot of chocolate) and we got paid
 early ("Just in case you might need the cash around Y2K").  Phat.  I
 love my job!
-

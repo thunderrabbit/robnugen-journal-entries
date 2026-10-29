@@ -17,5 +17,3 @@ in front of us.  It appears very close because we're in a valley.
 [![rainbow 2016-12-23 10.45.17](//b.robnugen.com/travel/japan/Niigata_2016/thumbs/rainbow_2016-12-23_10.45.17.jpg)](//b.robnugen.com/travel/japan/Niigata_2016/rainbow_2016-12-23_10.45.17.jpg)
 [![rainbow 2016-12-23 10.45.06](//b.robnugen.com/travel/japan/Niigata_2016/thumbs/rainbow_2016-12-23_10.45.06.jpg)](//b.robnugen.com/travel/japan/Niigata_2016/rainbow_2016-12-23_10.45.06.jpg)
 [![rainbow 2016-12-23 10.44.52](//b.robnugen.com/travel/japan/Niigata_2016/thumbs/rainbow_2016-12-23_10.44.52.jpg)](//b.robnugen.com/travel/japan/Niigata_2016/rainbow_2016-12-23_10.44.52.jpg)
-
-

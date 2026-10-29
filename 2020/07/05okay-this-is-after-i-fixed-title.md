@@ -14,4 +14,3 @@ I added this to fix the title
     if (isset($properties['entry_title']) && !isset($properties['title'])) {
         $properties['title'] = $properties['entry_title'];
     }
-

@@ -15,6 +15,3 @@ their combined weight.
 Someone fixed Fred's bathroom tile after the wall declined to stay intact.
 
 [![2020 may freds new tub tiles](//b.robnugen.com/journal/2020/texas/thumbs/2020_may_freds_new_tub_tiles.jpg)](//b.robnugen.com/journal/2020/texas/2020_may_freds_new_tub_tiles.jpg)
-
-
-

@@ -24,5 +24,3 @@ completely so.
 
 Earlier today I did a bit of a livestream on /r/whereintheworld via
 RPAN.
-
-

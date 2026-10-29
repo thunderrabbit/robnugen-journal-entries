@@ -43,5 +43,3 @@ And their reply:
 
 Regards,
 PerfectHash Customer Care
-
-

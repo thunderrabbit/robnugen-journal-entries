@@ -10,5 +10,3 @@ Nico and DeeDee.  Rachel was telling us about her family as we were
 considering how different patterns may have formed.  So great to have
 sisters doing this kind of work, in addition to having my MKP
 brothers.
-
-

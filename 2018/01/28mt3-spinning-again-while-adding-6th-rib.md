@@ -31,4 +31,3 @@ The resulting videos available via https://mt3s.robnugen.com/ are
 [7 minutes 56 seconds](
 https://grun1.com/utils/timeCalc.html?t1=1:08&c1=skeleton%20arrives&t2=1:40&c2=oops%20after%20drawing%20circle%20on%20stage&t3=1:31&c3=attached%20bearing%20to%20stage&t4=2:03&c4=big%20curve%20ball&t5=1:34&c5=spinning%20again&mode=0&fs3=1&ft2=1&f3t1=1&f4t0=1&d=:&o1=1&fps=
 ) long.
-

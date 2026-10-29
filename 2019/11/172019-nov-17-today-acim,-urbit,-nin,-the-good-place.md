@@ -31,4 +31,3 @@ unlinking and relinking the file (or something).
 Thanks to https://superuser.com/a/302083
 
 In my case, I set `backup-by-coping-when-linked` to non-nil.
-

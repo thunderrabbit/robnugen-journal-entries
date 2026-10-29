@@ -117,7 +117,3 @@ one.
 Oh, and Leia really looked like Leia and Uncle Owen did too.
 Great casting.  Not as difficult to find non-speaking actors, I
 guess, but still cool.
-
-
-
-

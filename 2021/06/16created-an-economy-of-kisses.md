@@ -22,5 +22,3 @@ She wanted to save the kisses, so I created a bank with kisses as our
 new currency.
 
 [![2021 june 18 kisses bank](//b.robnugen.com/journal/2021/thumbs/2021_june_18_kisses_bank.jpg)](//b.robnugen.com/journal/2021/2021_june_18_kisses_bank.jpg)
-
-

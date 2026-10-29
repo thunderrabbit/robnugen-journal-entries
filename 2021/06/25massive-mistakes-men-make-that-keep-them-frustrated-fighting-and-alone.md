@@ -93,4 +93,3 @@ Massive Mistakes Men Make that keep them Frustrated Fighting and Alone
 * shame in the game
   should all over yourself
   not accept yourself as you are
-

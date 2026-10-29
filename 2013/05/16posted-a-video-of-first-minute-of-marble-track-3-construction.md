@@ -14,8 +14,3 @@ my third attempt to make Marble Track 3 before it all had to be packed
 up to move to our new house in 2013.
 
 {{< youtube kSdHNDlQ1x8 >}}
-
-
-
-
-

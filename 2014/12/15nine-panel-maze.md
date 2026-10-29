@@ -45,5 +45,3 @@ Done.
 [![6.5.5 panels done 2014-12-15 22:23:58](//b.robnugen.com/2014/12/thumbs/6.5.5 panels done 2014-12-15 22.23.58.png)](//b.robnugen.com/2014/12/6.5.5 panels done 2014-12-15 22.23.58.png)
 [![7.5.5 panels done 2014-12-15 23:58:35](//b.robnugen.com/2014/12/thumbs/7.5.5 panels done 2014-12-15 23.58.35.png)](//b.robnugen.com/2014/12/7.5.5 panels done 2014-12-15 23.58.35.png)
 [![9 panels done 2014-12-16 00:20:01](//b.robnugen.com/2014/12/thumbs/9 panels done 2014-12-16 00.20.01.png)](//b.robnugen.com/2014/12/9 panels done 2014-12-16 00.20.01.png)
-
-

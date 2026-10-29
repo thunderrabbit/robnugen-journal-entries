@@ -11,5 +11,3 @@ I felt really nervous at first and went through stages of being okay and uncomfo
 Other performances included singing Christmas carols (one verse each), oh and singing a Japanese version of the Hungry Caterpillar book.
 
 The last entertainment consisted of homemade candy suddenly raining down from the loft into the main area.  Most of the kids loved it, scooping up as much as they could.
-
-

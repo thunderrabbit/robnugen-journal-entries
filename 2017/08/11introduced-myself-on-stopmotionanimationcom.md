@@ -24,4 +24,3 @@ by merging some images in post processing.  At 4:38 in this video is a
 suggestion for how to handle the images in Dragonframe
 
 {{< youtube 5xEf3djRLg8 >}}
-

@@ -14,6 +14,3 @@ https://sysadmincasts.com/episodes/45-learning-ansible-with-vagrant-part-2-4~~
 * ~~take Jennie to vet (9800 yen moe joe)~~
 * ~~MOOV~~
 * ~~log time on Redmine~~
-
-
-

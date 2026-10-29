@@ -12,4 +12,3 @@ was pretty cool and made me realize I'll never be a famous artist (if
 I don't keep drawing things).  Then Sarupapa treated us to some cream
 filled bread things which were pretty good though maybe not worth the
 line in which we waited nor the price he paid. hrmm.
-

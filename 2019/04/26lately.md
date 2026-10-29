@@ -68,4 +68,3 @@ Lin's face.
   stuff and wonder at the physics behind the scenes.
 
 * 314 or so hours of [Marble Track 3 livestreams](https://www.marbletrack3.com/episode/)
-

@@ -13,4 +13,3 @@ tricks, but in one, Mikarin did a bit of memorization / card
 manipulation. They didn't
 [Fool Us](https://www.imdb.com/title/tt1811179/) (or at least didn't
 fool me), but it better than an obvious misdirect trick.
-

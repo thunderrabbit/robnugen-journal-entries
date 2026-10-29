@@ -31,4 +31,3 @@ hang on my arms.  That part is fun and great, but trying to do a
 lesson during the chaos is chaos.
 
 "Can you say chaos?"
-

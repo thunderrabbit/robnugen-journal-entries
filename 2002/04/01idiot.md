@@ -26,4 +26,3 @@ up, click the hangup button.</p>
 <p>fuck!</p>
 
 <p>Why am I so worked up about this?</p>
-

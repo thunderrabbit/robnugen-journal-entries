@@ -26,5 +26,3 @@ workshop on Nov 30th.
 
 * https://www.meetup.com/Tokyo-S%C5%8Dl-barefoot-more/events/266174716/
 * https://www.facebook.com/events/263911317865803/
-
-

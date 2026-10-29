@@ -19,4 +19,3 @@ D: "Was that the grounding?"
 
 B: "Haha not yet, but I have some sage here, maybe you can smell it in your mind's
 nose.."
-

@@ -17,5 +17,3 @@ scp $@ b.rn:$REMOTE_JOURNAL_YEAR/$DIRECTORY
 
 ssh b.rn "$REMOTE_USER_DIR/scripts/fix_mode_journal_year.sh"
 ssh b.rn "$REMOTE_USER_DIR/scripts/create_thumbs.pl $REMOTE_JOURNAL_YEAR/$DIRECTORY"
-
-

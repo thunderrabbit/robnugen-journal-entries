@@ -12,4 +12,3 @@ I enjoyed wildish nature behind Rosebridge House.
 [![2025 apr 10 magpie 1000](//b.robnugen.com/journal/2025/Australia/thumbs/2025_apr_10_magpie.jpeg)](//b.robnugen.com/journal/2025/Australia/2025_apr_10_magpie_1000.jpeg)
 
 [![2025 apr 10 rosebridge pool 1000](//b.robnugen.com/journal/2025/Australia/thumbs/2025_apr_10_rosebridge_pool.jpeg)](//b.robnugen.com/journal/2025/Australia/2025_apr_10_rosebridge_pool_1000.jpeg)
-

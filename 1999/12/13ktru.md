@@ -23,4 +23,3 @@ crazy!
 Alexis is fun; she helped train me as a DJ when I first started working
 at KTRU, and now I randomly call her or say HI at her show.  She never
 comes to see me... hmmm.
-

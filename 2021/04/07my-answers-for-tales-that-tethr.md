@@ -42,7 +42,3 @@ draft: false
 *Looking back on that time, what advice would you give your younger self?*
 
     Think less and follow my joy/courage/desire more often and with less thinking.
-
-
-
-

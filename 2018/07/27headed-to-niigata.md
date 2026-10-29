@@ -19,4 +19,3 @@ Mikako brought her dog Kodama "little ball" who has been quite quiet,
 far surpassing my expectations when I heard she would be joining us.
 She has uttered nary a bark nor moved from her designated pad on the
 seat.
-

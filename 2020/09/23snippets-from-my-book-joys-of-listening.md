@@ -37,5 +37,3 @@ Our minds are busy. Busy creating a reality for themselves, based in the past ba
 You can be the place for these stories to land without getting caught up in them yourself.
 
 You can bring healing to the world by offering the place for the stories to land.
-
-

@@ -15,4 +15,3 @@ Hide is still absent due to an injury.  I wonder if Akiko will join.  She usuall
 The kids classes were fun today; they are beginning to use the language more creatively. Having a variety of tangible props helps a lot.  Today they choose three animals and ranked their ability to run/walk/sing.
 
 Studying Latin is great.  Words like dormitory, sorority, fraternity, paternity, maternity pop right out like oh wow!
-

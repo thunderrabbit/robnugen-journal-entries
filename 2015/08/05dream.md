@@ -43,4 +43,3 @@ time. That's just an easy-to-explain effect, but the same idea happens
 with their heartbeat, digestion, liver funcitons, everything.  At
 first it's okay, but it adds up over timr and will cause one of them
 to die.  And when one dies,.. well..
-

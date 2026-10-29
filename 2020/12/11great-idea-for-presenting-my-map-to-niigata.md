@@ -10,5 +10,3 @@ Yuri gave me a great idea of just plotting pins of where I plan to
 meet, whereas I had an enormous KLM file of all the turns etc.  Just
 the stopping points will be lighter to load, simpler to understand,
 easier to share.
-
-

@@ -27,5 +27,3 @@ the print before boarding started on my flight!
 [![2019 oct 03 francois in Narita 08](//b.robnugen.com/travel/US/Seattle/2019/thumbs/2019_oct_03_francois_in_Narita_08.jpg)](//b.robnugen.com/travel/US/Seattle/2019/2019_oct_03_francois_in_Narita_08.jpg)
 [![2019 oct 03 francois in Narita 09](//b.robnugen.com/travel/US/Seattle/2019/thumbs/2019_oct_03_francois_in_Narita_09.jpg)](//b.robnugen.com/travel/US/Seattle/2019/2019_oct_03_francois_in_Narita_09.jpg)
 [![2019 oct 03 francois in Narita 10](//b.robnugen.com/travel/US/Seattle/2019/thumbs/2019_oct_03_francois_in_Narita_10.jpg)](//b.robnugen.com/travel/US/Seattle/2019/2019_oct_03_francois_in_Narita_10.jpg)
-
-

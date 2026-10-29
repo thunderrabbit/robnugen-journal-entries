@@ -10,6 +10,3 @@ date: 2018-10-13T10:14:37+09:00
 Matt suggested I go through
 __[Book Yourself Solid](https://smile.amazon.com/Book-Yourself-Solid-Reliable-Marketing-ebook/dp/B076G811V8/)__
 so I bought it today.
-
-
-

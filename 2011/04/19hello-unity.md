@@ -34,5 +34,3 @@ This looks like the easiest tutorial I've found, and he has 4 or 5 parts.
 [https://www.burtonsmediagroup.com/blog/2010/12/game-creation-with-unity3d/](https://www.burtonsmediagroup.com/blog/2010/12/game-creation-with-unity3d/)
 
 update Jan 2012:  found this old entry; apparently didn't get past the tutorial
-
-

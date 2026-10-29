@@ -9,4 +9,3 @@ date: 2015-02-06T03:07:37+09:00
 
 I've essentially given up on Pelican, Middleman, Metalsmith, and maybe
 one other.  I'm still looking at Hexo, Nanoc, Jekyll, and others.
-

@@ -15,6 +15,3 @@ hmmm
 
 I had written Portal 2, but actually it's Portal; I'm downloading
 Portal 2 now, at 5.5 MB/s
-
-
-

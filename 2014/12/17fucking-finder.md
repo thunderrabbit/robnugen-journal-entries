@@ -24,4 +24,3 @@ six (6) and two (2) files, respectively, less than 2MB each.
 [![Terminal is fine](/images/2014/12/thumbs/ls in Terminal displays them fine.png)](/images/2014/12/ls in Terminal displays them fine.png)
 
 [![Emacs is fine](/images/2014/12/thumbs/Emacs display them fine.png)](/images/2014/12/Emacs display them fine.png)
-

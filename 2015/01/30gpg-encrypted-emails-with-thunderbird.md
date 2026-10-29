@@ -10,4 +10,3 @@ date: 2015-01-30
 Cool!  I was able to get GPG set up with [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) + the add-on [Enigmail](https://addons.mozilla.org/en-US/thunderbird/addon/enigmail/)
 
 Thank you, [Patrick](https://addons.mozilla.org/en-US/thunderbird/user/patrick-brunschwig/) for [Enigmail](https://www.enigmail.net/home/index.php)!
-

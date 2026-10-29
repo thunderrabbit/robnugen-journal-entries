@@ -28,4 +28,3 @@ this as a datapoint; I got this in an email from U.S. Embassy Tokyo
     to “designate” the location of your self-quarantine.  Travelers
     should be prepared for travel restrictions to be put into effect
     with little or no advance notice.
-

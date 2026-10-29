@@ -24,4 +24,3 @@ date: 2018-01-11T22:34:47+09:00
 
 * 明日の朝７時ぐらいに起きないとダメです。
 * I have to wake up at 7am tomorrow.
-

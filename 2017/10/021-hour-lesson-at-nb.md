@@ -11,4 +11,3 @@ Worked at NB on Tuesday, my first lesson there that only lasted 1
 hour.  Boo.  It was okay going all the way there for 2 hours, but just
 for 1 hour kinda sucks.  I hope we can work out something else, like
 maybe they buy lunch as well.
-

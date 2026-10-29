@@ -10,4 +10,3 @@ date: 2017-07-27T17:51:38+09:00
 After lunch with Esther I worked on Apple Memory for 90 minutes.  Got
 three instances of deprecated code replaced with ((what I assume is)
 soon-to-be deprecated) code.
-

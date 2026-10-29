@@ -10,4 +10,3 @@ date: 2014-10-30
 Photo taken 30 October 2014
 
 [![Alex](/images/2014/10/thumbs/Alex outside 30 Oct 2014.png)](/images/2014/10/Alex outside 30 Oct 2014.png)
-

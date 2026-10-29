@@ -44,4 +44,3 @@ In `config.rb`:
 set :markdown, :tables => true, :autolink => true, :gh_blockcode => true, :fenced_code_blocks => true, :strikethrough => true
 set :markdown_engine, :redcarpet
 ```
-

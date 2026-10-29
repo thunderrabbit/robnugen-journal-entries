@@ -12,4 +12,3 @@ I feel grateful to Alexis, Misaky, and Takako for attending my first
 walking meditation event in Shinjuku Gyoen.  Wonderfully, they all
 arrived on time; Alex let me know he couldn't attend.  Others simply
 did not show up.
-

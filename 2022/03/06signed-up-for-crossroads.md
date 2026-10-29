@@ -9,6 +9,3 @@ Crossroads is a new ManKind Project training I'll attend soon.
 https://mkpusa.org/crossroads/
 
 The next session starts in about eight days. I'm looking forward to the experience!
-
-
-

@@ -11,4 +11,3 @@ draft: false
 Thank you Sameer for putting together the Questions Cards event
 
 https://www.meetup.com/find-peace-within-community/events/301250557
-

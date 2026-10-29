@@ -13,4 +13,3 @@ changes I made to AB site.
 ## 08:33 Tuesday 24 January 2017 JST
 
 Aha!  Uninitialized value.  PHP ftw!
-

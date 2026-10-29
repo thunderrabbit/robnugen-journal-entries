@@ -10,4 +10,3 @@ date: 2015-11-24T21:48:56+09:00
 Nice lessons with Sarupapa and Sarumama.  They're both so lovely!
 
 And I learned from Lin that Sarupapa is a good person to describe with the word 渋い　(しぶい)
-

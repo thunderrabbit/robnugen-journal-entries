@@ -35,5 +35,3 @@ I came up with the following visions and SMART goals
 
     I know 60 neighbors by name and we spend time together hanging
     out.
-
-

@@ -15,4 +15,3 @@ date: 2014-10-29
     ghc --make -threaded site.hs
     ./site build
     ./site watch
-

@@ -46,4 +46,3 @@ Good:
     * 1201bc1 p
     * 7cfcb9a s
     * 0cdde35 colon
-

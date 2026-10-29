@@ -10,4 +10,3 @@ facilitated a charge clearing process to get a sense of self from
 beneath all the emotions that were coming up.
 
 Super glad it worked out with such great timing!
-

@@ -19,4 +19,3 @@ Via my repo to
     (current) UNIX password: Enter new UNIX password: Retype new UNIX password: passwd: password updated successfully
     if password is reported as changed, then it's now 432 random characters but I didn't keep a copy.  tada!
     [server]$
-

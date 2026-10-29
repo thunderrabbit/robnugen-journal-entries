@@ -26,7 +26,3 @@ date: 2016-02-07T21:14:50+09:00
    power__, so maybe I should tweak it a bit.
 
 [![activity smurfer 2016-02-07 22.01.23](//b.robnugen.com/journal/2016/thumbs/activity_smurfer_2016-02-07_22.01.23.jpg)](//b.robnugen.com/journal/2016/activity_smurfer_2016-02-07_22.01.23.jpg)
-
-
-
-

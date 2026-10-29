@@ -12,5 +12,3 @@ work-life-balance.  He tweaked the theme for Marble Track 3 to fix the
 jumbotron at the top!  Super awesome.  Going to try it out now.
 
 Original:
-
-

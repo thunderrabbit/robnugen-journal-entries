@@ -14,4 +14,3 @@ solved the chain tree.
 
 I didn't memorize either solution, but I probably won't try to do them
 again, either.
-

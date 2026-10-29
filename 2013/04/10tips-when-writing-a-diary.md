@@ -33,5 +33,3 @@ Other tips that are not as important, but may be useful
 
 	
   * Only read old entries if it's been a year since you wrote them.  Otherwise, don't read; just write.
-
-

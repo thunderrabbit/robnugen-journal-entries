@@ -7,4 +7,3 @@ draft: false
 ---
 
 [![2020 july 23 jennie sleepy](//b.robnugen.com/journal/2020/thumbs/2020_july_23_jennie_sleepy.jpg)](//b.robnugen.com/journal/2020/2020_july_23_jennie_sleepy.jpg)
-

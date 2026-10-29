@@ -30,4 +30,3 @@ Thanks to https://emacs.stackexchange.com/a/31376/16333 for the
 Thanks to DuckDuckGo for the "utf8 checkmark" search results.  Thanks
 to https://www.utf8icons.com/character/10003/check-mark for the
 check mark.
-

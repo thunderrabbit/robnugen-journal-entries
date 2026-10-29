@@ -16,4 +16,3 @@ I guess this means I should buy her something kinda special from my
 trip.
 
 I probably should have gotten a picture of our matching bracelets.
-

@@ -9,5 +9,3 @@ date: 2018-07-04T05:34:50+09:00
 
 昨日マットさんに日本語の本をもらった。  Matt gave me some Japanese
 books yesterday.
-
-

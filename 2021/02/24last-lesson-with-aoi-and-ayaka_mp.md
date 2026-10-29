@@ -22,4 +22,3 @@ the painting hanging near our table, as if for safe keeping.
 
 Aoi and Ayaka, if you ever happen to come across this page, thank you
 both for your hard work and for making our lessons entertaining.
-

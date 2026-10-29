@@ -25,4 +25,3 @@ that were unreadable (due to file permissions).
 Well if they're unreadable, what the hell is reading them and why
 can't you let me know what's reading them more precisely than "one or
 more programs may be using it" ???
-

@@ -10,4 +10,3 @@ date: 2016-12-31T23:59:59+09:00
 Happy Birthday 2016!  You're one full year ol
 
 oh, nevermind.
-

@@ -9,4 +9,3 @@ draft: true
 Today I am going to work 3 hours (and be in transit nearly 3 hours).
 I like the people and the topic (science!) and therefore keep doing
 the work even though it's not the most money I could be making.
-

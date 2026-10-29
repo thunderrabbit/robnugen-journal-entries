@@ -9,4 +9,3 @@ date: 2018-05-14T22:49:18+09:00
 
 Two new members today.  Great connection and hopefully many more to
 come.
-

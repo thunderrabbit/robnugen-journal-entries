@@ -20,7 +20,3 @@ Stretch goals on my campaign:
 * 5000 daily showers,
 * 10000 professionally printed book,
 * 30000 hardcover book
-
-
-
-

@@ -140,4 +140,3 @@ Your work is my work.  Why would that be true?  Many people are
 experiencing similar things as one another.  there are patterns and
 simialr behaviours that people have, even in cross cultural
 relationships.
-

@@ -24,4 +24,3 @@ Oh, the sandwich shop with vegan sandwiches was yummy!  I also had
 strawberry milk (which was sweet).  I also also had chai from the shop
 where the guy has a 33.33 rpm vinyl record playing playing so it's
 like his living room.  Sweet!
-

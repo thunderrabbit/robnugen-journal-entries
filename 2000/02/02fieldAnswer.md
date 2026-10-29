@@ -46,4 +46,3 @@ count on ever being able to calculate it.
 Hope this answers your question.
 
 John
-

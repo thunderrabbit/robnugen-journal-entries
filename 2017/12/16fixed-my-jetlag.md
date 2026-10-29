@@ -21,4 +21,3 @@ time available to do the switch.
 For those of you reading from the future, the rate of change for me is
 roughly one timezone per 2 hours of travel time.  (We were in a Boeing
 777 and then an Airbus A-380 (my first time to fly one of those).)
-

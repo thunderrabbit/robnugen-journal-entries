@@ -57,4 +57,3 @@ You may be required to cultivate the soil once again, yet through correct prepar
 <p>
 Wow.  Such incredibly specific answers from Runes and Tarot!!!!!
 <p>
-

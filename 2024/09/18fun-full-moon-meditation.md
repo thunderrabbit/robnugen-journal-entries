@@ -25,4 +25,3 @@ Anyway, yesterday was fun, too.
 
 [![kumorebi 1000](//b.robnugen.com/journal/2024/walk/thumbs/kumorebi.jpg)](//b.robnugen.com/journal/2024/walk/kumorebi_1000.jpg)
 [![praying 1000](//b.robnugen.com/journal/2024/walk/thumbs/praying.jpg)](//b.robnugen.com/journal/2024/walk/praying_1000.jpg)
-

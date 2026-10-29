@@ -38,4 +38,3 @@ then tried 0½0 and got it.  Now it seems to be reset to 000.
 Receipt for the lock is here https://goo.gl/HIhwMv or here
 
 [![receipt for American Tourister Hardside Maximum Volume Plus 19 January 2016](//b.robnugen.com/documentation/receipts/thumbs/receipt_for_American_Tourister_Hardside_Maximum_Volume_Plus_19_January_2016.jpg)](//b.robnugen.com/documentation/receipts/receipt_for_American_Tourister_Hardside_Maximum_Volume_Plus_19_January_2016.jpg)
-

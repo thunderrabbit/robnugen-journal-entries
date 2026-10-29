@@ -29,4 +29,3 @@ so they don't need to be tougher than that.
 
 This is the day that Lin was working in the area so I walked over to
 near the snake cafe and she drove us home from there.
-

@@ -11,6 +11,3 @@ Oh, and this morning I watched this video. The truth is coming out!
 
 
 CENSORED: CIA Asset Susan Lindauer - 911
-
-
-

@@ -46,4 +46,3 @@ how did they get permission to bring in plants from other countries?
 [![2019 oct 18 htbg rob looking up](//b.robnugen.com/journal/2019/hawaii/thumbs/2019_oct_18_htbg_rob_looking_up.jpg)](//b.robnugen.com/journal/2019/hawaii/2019_oct_18_htbg_rob_looking_up.jpg)
 [![2019 oct 18 htbg rob looking tree](//b.robnugen.com/journal/2019/hawaii/thumbs/2019_oct_18_htbg_rob_looking_tree.jpg)](//b.robnugen.com/journal/2019/hawaii/2019_oct_18_htbg_rob_looking_tree.jpg)
 [![2019 oct 18 htbg francois with new leaf](//b.robnugen.com/journal/2019/hawaii/thumbs/2019_oct_18_htbg_francois_with_new_leaf.jpg)](//b.robnugen.com/journal/2019/hawaii/2019_oct_18_htbg_francois_with_new_leaf.jpg)
-

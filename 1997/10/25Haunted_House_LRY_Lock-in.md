@@ -37,4 +37,3 @@ kT and I each made a bracelet for one another. I made her a green one and she ma
 <p>
 Then at 2am (or is it 1am because we set the clock back?) we crashed for the night.
 <p>
-

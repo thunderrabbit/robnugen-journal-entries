@@ -17,5 +17,3 @@ down into sleep.
 I'm on my way to the dentist now, recording this with voice
 transcription.  But I just wanted to add it as a point of reference in
 my eyeball medical history.
-
-

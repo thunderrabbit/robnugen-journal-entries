@@ -16,4 +16,3 @@ its own.
 I asked what to do with the feeling that I've married the wrong
 person.  "If she is wrong for you, then you are wrong for her, so you
 need to make yourself right for her."
-

@@ -11,4 +11,3 @@ After my lessons at SCC, Naoko showed me their relatively large neodymium magnet
 I forgot to take pictures, but I've asked her for some, if possible.
 
 They had some various ferrous and non ferrous items to play with near the magnet, including a 2D card with small magnetic rods inside that let me visualize the magnetic field.
-

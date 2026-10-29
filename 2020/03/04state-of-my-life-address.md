@@ -114,9 +114,3 @@ draft: false
 27. Oh, during the walking meditation I noted how often I am mindful
     during normal life.  Not having to sit down to meditate, but
     trying to be mindful as often as possible has helped a lot.
-
-
-
-
-
-

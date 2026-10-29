@@ -30,4 +30,3 @@ I'll probably arrive at Dr appointment by 8:05 and am happy with that as the 8:0
 I arrived about 8:08 and everything was just fine.  
 
 At the end I got to do the barium sulfate carnival ride as they checked all parts of my stomach while I tried not to burp.
-

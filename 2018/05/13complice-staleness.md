@@ -99,4 +99,3 @@ issue here with repeating tasks either from the built-in dailies or
 from WorkFlowy.
 
 [![reminder to wear a belt](//b.robnugen.com/journal/2018/life/thumbs/reminder_to_wear_a_belt.jpg)](//b.robnugen.com/journal/2018/life/reminder_to_wear_a_belt.jpg)
-

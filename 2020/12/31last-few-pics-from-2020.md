@@ -30,5 +30,3 @@ Cleaning day
 Happy Full Moon Dec 30th or so
 
 [![2020 dec full moon set](//b.robnugen.com/journal/2020/2020_last_few_days_pics/thumbs/2020_dec_full_moon_set.jpg)](//b.robnugen.com/journal/2020/2020_last_few_days_pics/2020_dec_full_moon_set.jpg)
-
-

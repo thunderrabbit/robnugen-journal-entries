@@ -19,4 +19,3 @@ more cocks than Apple.  Fuck I'm so stupid.
 How ironic that just last night I wrote a note that I'm learning a lot
 (related to Amazon Web Services) after talking to them for 1.5 hours
 about an issue I'm seeing on our server.
-

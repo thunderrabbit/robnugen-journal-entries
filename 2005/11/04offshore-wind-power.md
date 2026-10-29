@@ -12,4 +12,3 @@ tags: [ "technology" ]
 [Floating offshore wind energy and hydrogen fuel-generating company tipping to Europe or Asia](https://www.opensourceenergy.org/txtlstvw.aspx?LstID=be4bdf1f-041b-44f5-bc4f-aa653124a093)
 
 How sad and hilarious that the US companies are so moronically staying with the old school, pollution filled, cancer causing, earth destroying ways that will be outdone by newer and cheaper sources of energy.  
-

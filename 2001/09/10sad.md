@@ -27,4 +27,3 @@ class.  Maybe I will request an emergency I group meeting at my house on
 Wednesday.</p>
 
 <p><img src="//b.robnugen.com/rob/wL-ROB.gif">
-

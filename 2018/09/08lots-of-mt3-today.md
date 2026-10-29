@@ -14,5 +14,3 @@ https://www.marbletrack3.com/episode/2018/september/planning-outer-cycle-connect
 https://www.marbletrack3.com/episode/2018/september/planning-the-end-of-sixth-snippet/
 
 https://www.marbletrack3.com/episode/2018/september/bonus-gluing-sticks-started-curtain-rod-creation/
-
-

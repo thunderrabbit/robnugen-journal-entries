@@ -17,4 +17,3 @@ to 6 minutes for the duration of the flight.
 [![2024 jan 20 apparently 42 mins to bali](//b.robnugen.com/journal/2024/thumbs/2024_jan_20_apparently_42_mins_to_bali.jpg)](//b.robnugen.com/journal/2024/2024_jan_20_apparently_42_mins_to_bali.jpg)
 
 [![2024 jan 20 still 6 mins to go](//b.robnugen.com/journal/2024/thumbs/2024_jan_20_still_6_mins_to_go.jpg)](//b.robnugen.com/journal/2024/2024_jan_20_still_6_mins_to_go.jpg)
-

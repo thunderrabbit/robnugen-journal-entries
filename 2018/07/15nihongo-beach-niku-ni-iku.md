@@ -31,4 +31,3 @@ for inviting us!  Let's go to karaoke sometime!
 [![rob and koji sogo](//b.robnugen.com/travel/japan/2018/beach_with_chris_and_them/thumbs/rob_and_koji_sogo.jpg)](//b.robnugen.com/travel/japan/2018/beach_with_chris_and_them/rob_and_koji_sogo.jpg)
 [![rob fake drinking ice](//b.robnugen.com/travel/japan/2018/beach_with_chris_and_them/thumbs/rob_fake_drinking_ice.jpg)](//b.robnugen.com/travel/japan/2018/beach_with_chris_and_them/rob_fake_drinking_ice.jpg)
 [![rob near end of pier](//b.robnugen.com/travel/japan/2018/beach_with_chris_and_them/thumbs/rob_near_end_of_pier.jpg)](//b.robnugen.com/travel/japan/2018/beach_with_chris_and_them/rob_near_end_of_pier.jpg)
-

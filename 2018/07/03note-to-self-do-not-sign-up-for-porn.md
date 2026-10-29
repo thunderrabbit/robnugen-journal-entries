@@ -102,7 +102,3 @@ much.<br></div>
 		<td align="left" valign="middle">Thank you for helping me get over my porn addiction.  Dealing with these credit card charges has removed any desire to ever view porn again.</td>
 	</tr>
 </tbody></table>
-
-
-
-

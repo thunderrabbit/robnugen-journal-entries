@@ -20,5 +20,3 @@ I'm going to buy an analog alarm clock.
 [![Noisy](//b.robnugen.com/hardware/mechanical/clock/Noisy_purchased_02017_jan_26/thumbs/Noisy.jpg)](//b.robnugen.com/hardware/mechanical/clock/Noisy_purchased_02017_jan_26/Noisy.jpg)
 
 I've named him Noisy.
-
-

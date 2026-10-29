@@ -24,4 +24,3 @@ Park" templates for 林試の森公園 near Meguro station.
 https://github.com/thunderrabbit/barefoot_rob/tree/master/event_templates/walk_and_talk
 
 https://github.com/thunderrabbit/barefoot_rob/blob/master/generate_events.pl
-

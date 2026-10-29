@@ -68,7 +68,3 @@ a "things to do" list in quite a while.  I did so this morning and I
 think today (and this week) will be a happily productive week!
 
 - Rob
-
-
-
-

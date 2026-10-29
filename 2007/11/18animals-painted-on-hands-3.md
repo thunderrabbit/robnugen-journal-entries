@@ -15,4 +15,3 @@ Originally uploaded by [thunderrabbit](https://www.flickr.com/people/thunderrabb
 
 This is my favorite of several images that my mom emailed me and I posted on flickr
   
-

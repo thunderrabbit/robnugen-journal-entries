@@ -66,4 +66,3 @@ Nice day!
 [![Family lunch 3 Jan 2013](/images/2013/01/03/thumbs/IMG_0356.png)](/images/2013/01/03/IMG_0356.png)
 [![Family lunch 3 Jan 2013](/images/2013/01/03/thumbs/IMG_0357.png)](/images/2013/01/03/IMG_0357.png)
 [![Family lunch 3 Jan 2013](/images/2013/01/03/thumbs/IMG_0360.png)](/images/2013/01/03/IMG_0360.png)
-

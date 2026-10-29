@@ -11,4 +11,3 @@ I think I wrote something for this already but haven't posted it
 The date above is a guess.
 
 Today is Wednesday March 4th
-

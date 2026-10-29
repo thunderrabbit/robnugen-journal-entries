@@ -36,5 +36,3 @@ The resulting video snippets, available via
 https://mt3s.robnugen.com/, total approximately [9 minutes 8 seconds](
 https://grun1.com/utils/timeCalc.html?t1=1:08&c1=skeleton%20arrives&t2=1:40&c2=oops%20after%20drawing%20circle%20on%20stage&t3=1:31&c3=attached%20bearing%20to%20stage&t4=2:03&c4=big%20curve%20ball&t5=1:57&c5=look%20at%20me&t6=0:49&c6=stopped%20the%20madness&mode=0&fs3=1&ft2=1&f3t1=1&f4t0=1&d=:&o1=1&fps=
 ).
-
-

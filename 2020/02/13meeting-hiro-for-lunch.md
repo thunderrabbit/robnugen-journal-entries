@@ -8,4 +8,3 @@ draft: false
 
 Hiro invited me to meet for lunch and today is the day!  We will eat
 at Mango Tree in Lazona.
-

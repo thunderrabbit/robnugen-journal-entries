@@ -22,4 +22,3 @@ Then adding this to `.bashrc`
 
 I added it to `.profile` first (because `.bash_profile` does not
 exist), but apparently `.profile` isn't being executed.
-

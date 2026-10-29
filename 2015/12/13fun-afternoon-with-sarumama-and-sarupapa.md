@@ -15,4 +15,3 @@ Topics ranged from Jennie to cats to houses to Jennie to the new
 handles I made for our cabinet.
 
 [![Sarupapa in a blue derby with Jennie an orange and white cat](//b.robnugen.com/journal/2015/thumbs/Sarupapa_and_Jennie_2015-12-13_15.44.23.jpg)](//b.robnugen.com/journal/2015/Sarupapa_and_Jennie_2015-12-13_15.44.23.jpg)
-

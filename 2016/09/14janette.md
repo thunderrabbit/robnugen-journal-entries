@@ -12,4 +12,3 @@ moved to Japan.  She knit a hat for me, and this was my reply:
 
     you  _-*! MADE !*-_ this hat???
     Like with a long piece of yarn, wiggle wiggle wiggle presto a hat????
-

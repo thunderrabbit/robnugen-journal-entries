@@ -25,4 +25,3 @@ from SWUUSI 1998, maple leaf from Joana, quilt from Lisa, boomerang
 from Bryn
 
 <p>janette:  box of my photo album stuff, 1 black bag of clothes.</p>
-

@@ -10,4 +10,3 @@ date: 2014-10-15
 ##Oct 2014##
 
 [![train](/images/2014/10/thumbs/Brown Yamanote for Tokyo Station 100th, oct 2014.png)](/images/2014/10/Brown Yamanote for Tokyo Station 100th, oct 2014.png)
-

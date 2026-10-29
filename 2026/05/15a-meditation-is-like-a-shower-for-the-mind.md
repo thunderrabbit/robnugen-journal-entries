@@ -11,4 +11,3 @@ I woke up at 04:27 this morning after a nice conversation with Jess and two part
 Search for The `Miracle of Mind` App or click:
 
 https://miracleofmind.sng.link/Aoy32/pnp0/r_95ad89e815
-

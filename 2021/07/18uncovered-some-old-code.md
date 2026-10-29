@@ -16,6 +16,3 @@ I love the calendar on the left hand side.
 It's time to get that calendar working again.
 
 [![2021 jul journal about old journal](//b.robnugen.com/journal/2021/thumbs/2021_jul_journal_about_old_journal.jpg)](//b.robnugen.com/journal/2021/2021_jul_journal_about_old_journal.jpg)
-
-
-

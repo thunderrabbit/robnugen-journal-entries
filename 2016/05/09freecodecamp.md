@@ -53,4 +53,3 @@ exercises:
         return myThingDoer.publicMethod();
     
     }
-

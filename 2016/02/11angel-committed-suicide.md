@@ -21,4 +21,3 @@ medical issues, but dang..  could that have warranted a bullet to the
 head?
 
 [![angel committed suicide](//b.robnugen.com/journal/2016/thumbs/angel_committed_suicide.jpg)](//b.robnugen.com/journal/2016/angel_committed_suicide.jpg)
-

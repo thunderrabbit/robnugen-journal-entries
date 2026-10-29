@@ -40,6 +40,3 @@ defunct:
 * chairapy.biz / chairapy.com
 * ctbriefs.net
 * mrlaboratories.com
-
-
-

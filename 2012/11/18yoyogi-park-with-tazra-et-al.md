@@ -15,5 +15,3 @@ We ate, stayed up late, woke up late, had fruit smoothies, then joined the dogs 
 
 back row: Lin, Rob, Rodrigo
 front row: Addie, Tess, Tazra
-
-

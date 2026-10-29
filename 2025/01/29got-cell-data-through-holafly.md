@@ -10,4 +10,3 @@ I set up my cellie with eSIM from Holafly.
 
 17,000 yen for 90 days, and 
 hopefully all set up correctly!
-

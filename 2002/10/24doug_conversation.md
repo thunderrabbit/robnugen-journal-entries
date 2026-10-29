@@ -54,4 +54,3 @@ them were based on my safety and covering my ass.</p>
 <p>He appreciated that I listened to him and appear to be taking his
 advice into consideration.  He also suggested that I talk to other
 adults to get input from them.</p>
-

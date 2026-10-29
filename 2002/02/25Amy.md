@@ -21,4 +21,3 @@ so at the end.</p>
 good safe neutral place for us.  But there is no Wednesday night
 dinner there this week, and I don't want to wait all the way until
 next week...  argh.</p>
-

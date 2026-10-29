@@ -19,4 +19,3 @@ people who came:
 
 The fifth looked like a little rubber man whose body was draped over a
 cliff and he was hanging on for his life.  Uh oh!
-

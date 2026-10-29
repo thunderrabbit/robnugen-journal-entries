@@ -28,5 +28,3 @@ another.  They seemed to relate to one another on a deeper level."
 Attending the New Warrior Training Adventure in 1997 was "huge for
 me.  It was the first time in my life I realized I was a man.  I was
 27 at the time."
-
-

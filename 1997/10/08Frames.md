@@ -14,4 +14,3 @@ I certainly don't know if it's any better this way, but now I've had practice wi
 <p>
 I learned all about how to do it at a great HTML tutorial site: <a href=https://www.htmlgoodies.com>www.htmlgoodies.com</a>!
 <p>
-

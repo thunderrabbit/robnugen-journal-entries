@@ -31,5 +31,3 @@ Quite a nice view while looking out from the mountain.
 At the top, I enjoyed seeing the cable connections.
 
 [![2021 may 13 gondola cable connections](//b.robnugen.com/journal/2021/2021/may/thumbs/2021_may_13_gondola_cable_connections.jpeg)](//b.robnugen.com/journal/2021/2021/may/2021_may_13_gondola_cable_connections.jpeg)
-
-

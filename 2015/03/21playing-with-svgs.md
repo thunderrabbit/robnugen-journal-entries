@@ -12,4 +12,3 @@ designs into vector format.  I've looked at
 [Inkscape](https://inkscape.org/) (free), and
 [Artboard](https://www.mapdiva.com/artboard/) (USD $30), and am looking
 at just "hand"-coding SVG files.
-

@@ -7,4 +7,3 @@ draft: false
 ---
 
 Today's lessons were good.
-

@@ -11,4 +11,3 @@ uploaded the fourth meditation today: *[Meditation for Mindfully Cleaning Your P
 which helped me clean my room while listening to it.
 
 I just fed it through [Otter](https://otter.ai) now to help make a transcription.
-

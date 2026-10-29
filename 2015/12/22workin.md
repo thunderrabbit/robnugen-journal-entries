@@ -19,4 +19,3 @@ finished a ticket for AB site, though it's not completely tested yet.
 (gotta test code note written in Hakyll, ya know)
 
 am about to go see Star Wars VII
-

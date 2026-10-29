@@ -22,6 +22,3 @@ the mail, watched a spirit science episode, signed up for their 7 day
 course, confirmed Planio can wipe our old projects, ate some granola,
 added pictures to event for 16 July, wrote this entry, and now about
 to talk to Yuta regarding workshop stuff.
-
-
-

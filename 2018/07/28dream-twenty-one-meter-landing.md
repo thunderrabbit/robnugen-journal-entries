@@ -44,4 +44,3 @@ They smiled and said like wow nice picture how did you get that? And though it w
 </p>
 
 And I woke up.
-

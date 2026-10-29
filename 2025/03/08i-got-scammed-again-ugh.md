@@ -15,4 +15,3 @@ So annoying fuckkkk.   In 2016 money, it was only about $2 worth of
 crypto, so that's how I'm trying to look at it.
 
 Scammers are tricksy so be carefuly out there guys!
-

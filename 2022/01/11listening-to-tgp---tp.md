@@ -9,5 +9,3 @@ I've been listening to The Good Place - The Podcast, after watching the series m
 Interesting to hear the actors and staff talk about the making of the show.
 
 I'm up to episode 8(?), in which Real Eleanor is introduced.
-
-

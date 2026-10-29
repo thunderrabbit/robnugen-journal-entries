@@ -10,4 +10,3 @@ tags: [ "news" ]
 [State of My Life Address](https://base.google.com/base/items?oid=5455121563022099363)   
   
 My first base.google.com thing......  
-

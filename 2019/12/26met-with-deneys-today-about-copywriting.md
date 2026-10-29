@@ -13,7 +13,3 @@ I didn't want to write out by hand.  I will do a pass over it first to
 account for mistranscriptions, but hereby promise not to do any major
 editing of this
 [rough draft](https://bitbucket.org/thunderrabbit/robnugen-journal-entries/commits/12ccd714bfba257b9539de4d3090859e03745375)
-
-
-
-

@@ -23,4 +23,3 @@ It is time to unearth your hidden treasures. Do not make yourself small in order
 THE MEDICINE
 
 Are you one of those people who do not like to face the past? Now your past is calling to be acknowledged, to be heard, and to be embraced. The only way to become unstuck is to honor everything that has transpired in your life, reflect on the lessons learned, and move on. If you bear witness to your past and learn its lessons, it will stop haunting you. As you embrace its gifts, you will recover a missing part of your soul.
-

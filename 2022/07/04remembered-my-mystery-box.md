@@ -25,4 +25,3 @@ Wowwwww I'm so so so grateful for all the things that worked well for me to reco
 15. The guy at ticket gate reset my Pasmo so I could *walk* through the gates
 16. Put the Mystery Box next to my bag while I write this on Yamanote Line so I will remember it.
 17. Thank you Future Rob for continuing to remember the Mystery Box!
-

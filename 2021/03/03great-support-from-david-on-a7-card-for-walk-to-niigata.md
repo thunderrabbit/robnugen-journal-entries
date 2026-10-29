@@ -10,6 +10,3 @@ Special thanks to Jimmy for the original design and David for tweaking
 it to get all the language to fit, plus tweaking the route to match my
 actual route.  And special thanks to Kazu for fixing the Japanese
 translation today!
-
-
-

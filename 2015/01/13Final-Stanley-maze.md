@@ -9,4 +9,3 @@ date: 2015-01-13
 
 Turns out we can only submit one maze; I made a rough draft of what
 will be my final submission today.
-

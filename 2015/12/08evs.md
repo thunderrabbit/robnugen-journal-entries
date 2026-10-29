@@ -28,4 +28,3 @@ date: 2015-12-08T11:21:13+09:00
 * I recently posted to Tokyo I-group FB page
 
 ![docker ps -a shows four VMs](https://b.robnugen.com/toots/letsencrypt-on-dreamhost-shared-hosting/docker_ps_-a_2015-12-08_at_10.20.19_AM.png)
-

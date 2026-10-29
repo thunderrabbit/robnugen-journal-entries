@@ -86,6 +86,3 @@ All of this was already going on when Mr. Bush said just before the election tha
 Yet Mr. Bush still denies reality. Ten days ago [he told the American Enterprise Institute ](https://www.whitehouse.gov/news/releases/2007/02/20070215-1.html) that "the Taliban have been driven from power" and proposed that America help stabilize the Pakistan border by setting up "Reconstruction Opportunity Zones" (remember that " [  Gulf Opportunity Zone](https://www.whitehouse.gov/news/releases/2005/09/20050915-8.html)" he promised after Katrina?) to "give residents the chance to export locally made products to the United States, duty-free." In other words, let's fight terrorism not by shifting America's focus from Iraq to the central front, but by shopping for Taliban souvenirs!
 
 Five years after 9/11, the terrorists would seem to have us just where they want us — asleep — even as the system is blinking red once again.
-
-
-

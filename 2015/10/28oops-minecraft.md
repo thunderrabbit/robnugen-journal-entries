@@ -20,4 +20,3 @@ rock (though it's not apparent while inside the tube).  It just looks
 like a staircase.
 
 Seems a lot like a waste of time, ね.
-

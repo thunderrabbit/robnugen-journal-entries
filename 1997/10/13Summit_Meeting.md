@@ -242,4 +242,3 @@ Near the end of the group meeting, Jason and I started talking about
 Houston Rally stuff and Jon W agreed to be co-dean of the Houston
 Rally 1998. Awesome.
 <p>
-

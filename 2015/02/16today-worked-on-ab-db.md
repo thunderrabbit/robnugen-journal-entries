@@ -22,4 +22,3 @@ About 20 columns in table U are varchar 200, so that's 2k UTF-8
 characters, so 4k bytes per record (if they're all filled, which
 they're not, but it's still overhead that I wonder if I can split into
 other tables).
-

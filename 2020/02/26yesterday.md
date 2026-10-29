@@ -16,4 +16,3 @@ draft: false
 * see a bonsai pine
 * JB School 3:30 - 21:00
 * Discover LUDO requires green die face but there is no green face on the included die
-

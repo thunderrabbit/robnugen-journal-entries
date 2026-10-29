@@ -27,4 +27,3 @@ We played right up until Emi shouted "good morning" to the SOGO group today.
 
 My fingers did pretty well, with only minor bruising on the tips of my
 middle finger and ring finger on my right hand.
-

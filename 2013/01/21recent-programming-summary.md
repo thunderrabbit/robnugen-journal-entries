@@ -70,4 +70,3 @@ commit 7538a521572f333eabbc81fb142cc5d0f3560ace
 
 
 Highlights include the use of blocks (for the first time), nested blocks (for the first first time), and classes that are better encapsulated than previous project.
-

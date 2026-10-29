@@ -29,5 +29,3 @@ I am falling asleep on the train as I write.
 
 Erik created a sweet video comprised of video he took during the
 weekend.  Rohini and I are in it!
-
-

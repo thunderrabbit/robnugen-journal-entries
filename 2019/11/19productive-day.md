@@ -16,4 +16,3 @@ Got Talent for rap.
 
 Headed to men's circle now.  I do not really want to go though.  In
 this case, I just wanna sleep; I think it is better if I go.
-

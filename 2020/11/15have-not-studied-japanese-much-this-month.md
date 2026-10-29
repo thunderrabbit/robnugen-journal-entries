@@ -17,4 +17,3 @@ The good news is that I'm able to write these while walking to the station becau
 I'm on the train headed back home, and still in the Japanese study game.  Sanae 先生 was patient and encouraging, suggesting I could just do one page per day and be ahead of my most recent month doing just seven pages.
 
 そうだね。頑張ろう!
-

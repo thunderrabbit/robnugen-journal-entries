@@ -16,5 +16,3 @@ The most recent app started its life as a mess of blocks, which confuzzed iOS en
 However, the next app will be something like this app plus xyz, so I looked up on SO how to do it and came up with a github repo that shows [multiple targets in xcode](https://github.com/brennanMKE/MultipleTargets).  Thanks, Brennan!
 
 So now one target does pronunciation practice then listening practice, while the other jumps straight into listening practice.  Yay!!
-
-

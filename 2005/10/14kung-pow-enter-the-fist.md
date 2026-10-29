@@ -14,4 +14,3 @@ This is a really silly movie that has us almost continuously in stitches.  So ma
 We weren't laughing as much at the very end, but it's a funny movie.
 
 The [website](https://www.kungpowmovie.com/swf/KPmain.html) includes a [Dub Your Own Flick] link in the top center.  I assume a *lot* of time could be spent there!!!
-

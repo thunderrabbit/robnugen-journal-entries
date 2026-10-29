@@ -13,5 +13,3 @@ have talked about the benefits and you know what? It wasn't that bad!!
 
 Thanks to my friends for having led the way, so to speak: Hiro, Steve,
 Michael S.  And of course recent popularizer Wim Hof.
-
-

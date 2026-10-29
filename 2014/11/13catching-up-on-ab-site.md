@@ -17,4 +17,3 @@ Firefox. Bah.
 While making a ticket for the above request, I found an old request
 intended for me but not assigned to me, so I never saw it. I got it
 sorted today.
-

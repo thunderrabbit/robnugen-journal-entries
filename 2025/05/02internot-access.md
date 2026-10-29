@@ -19,5 +19,3 @@ Is it because my eSIM recently ran out of days it's allowed to work?  I turned i
 I tried renewing my eSIM but used a different email address so it didn't extend my current subscription properly.
 
 I wish their info would say something like (use you's same address) on the Top Up page.
-
-

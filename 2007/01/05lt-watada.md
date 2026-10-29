@@ -282,37 +282,3 @@ Pass this message on to three friends and ask them to join the Lt. Watada Suppor
 
 
 If you received this message from a friend, you can [sign up for Action Center - Lt. Watada Support Campaign](https://ga0.org/ltwatada/join.html?r=EdSZyLn1_LvYE). 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

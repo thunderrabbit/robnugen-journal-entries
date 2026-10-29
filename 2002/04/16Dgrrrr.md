@@ -78,4 +78,3 @@ there is no reason for me to think that.</p>
 <p>But now we've agreed that he is in charge of the project and any
 errors that occur with it are his responsibility to make sure they are
 handled.  Fine by me.</p>
-

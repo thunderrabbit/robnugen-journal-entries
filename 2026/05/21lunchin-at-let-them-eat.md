@@ -17,5 +17,3 @@ Breaking News!  Let Them Eat ain't in Central Markets!
 We're in Gourmet Falafel.
 
 [![2026 may 21 gourmet falafel bowl 1000](//b.robnugen.com/journal/2026/thumbs/2026_may_21_gourmet_falafel_bowl.jpeg)](//b.robnugen.com/journal/2026/2026_may_21_gourmet_falafel_bowl_1000.jpeg)
-
-

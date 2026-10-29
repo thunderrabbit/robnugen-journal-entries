@@ -43,4 +43,3 @@ repeatedly until I enter an empty tag.
 
 I am not asking my non-emacs-using reader *per se*, but just
 articulating this so I can clarify for someone who can do it easily.
-

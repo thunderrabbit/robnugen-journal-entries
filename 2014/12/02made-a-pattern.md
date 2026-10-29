@@ -14,5 +14,3 @@ Mutsumi asked if I can make a pattern for her friend's mom.  Sure thing!
 It is designed to repeat seamlessly.
 
 <div style="background-image: url('/images/2014/12/thumbs/mutsumi mom.png'); width:800px; height:800px"></div>
-
-

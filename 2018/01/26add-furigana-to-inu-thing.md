@@ -65,4 +65,3 @@ Great to get such glowing feedback from Mel!
     （＾∇＾）（＾∇＾）（＾∇＾）
     
     来週(らいしゅう)の木曜日、楽しみにしてまーす！
-

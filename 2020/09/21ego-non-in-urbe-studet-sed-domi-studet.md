@@ -15,5 +15,3 @@ I discovered something interesting about studying.. if I study Duolingo or KUMON
 (*) Study one for 2-3 minutes then swap to the other; repeat.
 
 I just now spent about an hour and a half studying with the mix and match technique.  But if I do them separately I make it about 15 minutes before I get tired and quit.
-
-

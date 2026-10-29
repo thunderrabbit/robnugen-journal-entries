@@ -16,4 +16,3 @@ a puzzle, but it's just fiddly:
 The other is a puzzle called Quattro Formaggi:
 
 [Quattro Formaggi spoiler](/images/puzzles/Quattro_Formaggi_solution_2015-03-27_14.58.24.jpg)
-

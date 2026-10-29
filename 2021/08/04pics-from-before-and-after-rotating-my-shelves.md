@@ -28,5 +28,3 @@ you Lin!
 {{% img-responsive
 "https://b.robnugen.com/journal/2021/rotate_shelves/2021_aug_04_after_rotate_shelves_full.jpg"
 "2021 aug 04 after rotate shelves full" %}}
-
-

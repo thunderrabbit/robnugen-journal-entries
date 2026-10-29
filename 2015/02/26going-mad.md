@@ -51,4 +51,3 @@ counter for the corresponding list of words.
 
 I don't yet have a smart way to loop through a variable number of
 loops, though I think that will have to come next.
-

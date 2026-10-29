@@ -14,4 +14,3 @@ Lin met Nonie at 6pm in Tokyo, where I joined them around 6:30pm.  We hadn't see
 Got to hear fun + weird stories about guests at Nonie's guest house in Chiba.  She's invited us to live there while she visits Europe this summer!  Interesting idea but not part of our reality yet; Lin's applying for a job that would preclude living in Chiba, but we'll see!
 
 Ate surprisingly-expensive cheese and pizza at an Italian place, then not-surprisingly-expensive drinks at Starbucks, then inexpensive yummy ramen at another shop.
-

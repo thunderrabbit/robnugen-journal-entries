@@ -15,4 +15,3 @@ Posting a coffee related event and got us four responses, at least twice as many
 Really proud of Yuna for stepping through her fear and proud of myself for mentoring her.
 
 Today while meeting with Robert Golden, he reminded me I have a huge heart.
-

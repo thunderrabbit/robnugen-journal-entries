@@ -8,4 +8,3 @@ draft: false
 
 Tatsuya said they had a panic at Costco with people going crazy to buy
 toilet paper.
-

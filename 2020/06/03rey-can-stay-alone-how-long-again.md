@@ -26,4 +26,3 @@ alone 30 seconds.
 * 2021 Feb 10: 6+ hours
 * 2021 Mar 02: 7 hours
 * 2021 Apr 07: 9 hours
-

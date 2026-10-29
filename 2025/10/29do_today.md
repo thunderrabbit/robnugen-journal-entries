@@ -19,5 +19,3 @@ correctly) nor the software to convert from the .doc format to .pdf
 for the paperback and .epub for the Kindle version.
 
 So Inam did it all and I'm grateful for his support!
-
-

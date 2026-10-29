@@ -14,4 +14,3 @@ mode so that alarm did not sound.  Fortunately, Lin had set an alarm
 for 5:35.  I had already packed my computer so I got out early enough
 to catch my preferred train, featuring enough seats that I can sit and
 write, or snooze, which I plan to do now.
-

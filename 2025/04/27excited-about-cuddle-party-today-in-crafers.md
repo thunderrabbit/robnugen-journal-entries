@@ -9,4 +9,3 @@ draft: false
 With Jess as my cuddle assistant, we'll present Cuddle Party today in Crafers, including pizza from next door Crafers Pizza Bar.
 
 If everyone shows up, we'll have more attendees than last time.  :-)
-

@@ -76,6 +76,3 @@ output fit more easily without added soft linebreaks.)
     5ea306b2538d        ubuntu              "bash"              9 seconds ago       Exited (0) 6 seconds ago         angry_jennings
 
 (snip)
-
-
-

@@ -32,4 +32,3 @@ For the record, this is flock version 0.5pre
 
 
 Hmmmm. I don't see a way to specify into which category this blog entry is stored.  
-

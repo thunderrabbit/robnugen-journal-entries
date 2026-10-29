@@ -19,4 +19,3 @@ The ticket came through, but it was on the wrong tracker!!  wth?
 I really had a brainfarzzled moment where I thought I was dreaming or taking crazy pills!
 
 Oh, the other tracker is for another client who is also using the same image system.  Shit. I guess it's really broken.  I hope it's an easy fix.
-

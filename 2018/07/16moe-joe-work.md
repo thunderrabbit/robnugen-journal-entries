@@ -10,4 +10,3 @@ date: 2018-07-16T22:39:03+09:00
 Bah.  I've been working for like 12 or 16 hours trying to figure out
 how to keep a button visible, but I cannot figure out this spaghetti
 of code, domains, css, and browsers to figure out what is hiding it.
-

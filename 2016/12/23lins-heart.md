@@ -35,4 +35,3 @@ next stop is the last stop for this bus.  I thought the driver said
 we'll be there by 13:30, so I guess we might be earlier than expected
 (or it's further from "last stop" announcement to the last stop than I
 imagine) (or both).
-

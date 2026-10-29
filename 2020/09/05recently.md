@@ -38,6 +38,3 @@ Then some things that are interesting but usually not important
 1. Email
 2. HN (technology news)
 3. Netflix (Rick and Morty, Lucifer)
-
-
-

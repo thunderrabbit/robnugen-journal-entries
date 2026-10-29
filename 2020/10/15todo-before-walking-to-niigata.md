@@ -19,4 +19,3 @@ title: 'todo before walking to Niigata'
 9. Woolen underwear
 10. Waterproof outerwear
 11. 
-

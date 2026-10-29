@@ -29,4 +29,3 @@ think we should be clear that it will be a good thing for both of us
 before we get started.  We're smart; we can do well.</p>
 
 <p><img src='//b.robnugen.com/rob/wL-ROB.gif'/></p>
-

@@ -46,4 +46,3 @@ jam.
 
 It's apparently a 4 hour, 10,000 yen commute by train to JB, so it
 wouldn't really be worthwhile to continue working there.
-

@@ -9,4 +9,3 @@ date: 2016-12-31T17:38:11+09:00
 
 Sick yesterday and today but getting better and going to Lin's
 family's party.
-

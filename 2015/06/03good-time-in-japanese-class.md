@@ -26,4 +26,3 @@ Today I wrote a few new sentences.
 1. アメリカでは野球が有名です。   Baseball is famous in the US.
 1. ヒューストンで育ちました。   I was raised in Houston.
 1. お桟橋と言うふとうはきれいな形でした。   Osanbashi pier has a beautiful shape.
-

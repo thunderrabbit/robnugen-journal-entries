@@ -7,4 +7,3 @@ draft: false
 ---
 
 Lisa just said a book is just like a heavy business card.
-

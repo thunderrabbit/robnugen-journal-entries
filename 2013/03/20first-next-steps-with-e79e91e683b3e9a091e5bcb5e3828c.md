@@ -18,5 +18,3 @@ I'm going to resist searching for that now until I go through the tutorial, at l
 **12:18am Thursday 21 March 2013**
 
 moe joe I wasn't able to get the prep time working on the timer yet.  I was able to add a second view controller which returns the requested time, but I haven't been smart enough to get that time into the pre-meditation time timer.
-
-

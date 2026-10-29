@@ -13,4 +13,3 @@ I just got on the train headed to Shinjuku on my way to Shinjuku Gyoen for today
 Thanks to Amaru for asking about sitting on the ground, so I brought ground tarps. And thanks to Lin for knowing where they were in the --house-- car!
 
 Seven people said they will attend. Exciting!
-

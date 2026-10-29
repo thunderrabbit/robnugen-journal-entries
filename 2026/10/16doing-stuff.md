@@ -11,4 +11,3 @@ https://badmin.robnugen.com requires a password be sent with every POST but now 
 
 * https://www.php.net/manual/en/mysqli.ping.php
 * https://www.php.net/manual/en/migration84.deprecated.php
-

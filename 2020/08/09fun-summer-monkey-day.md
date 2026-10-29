@@ -24,4 +24,3 @@ I asked the guy who why the monkeys didn't just run away and he said it was calc
 [![2020 aug 09 francois at hells onsen](//b.robnugen.com/journal/2020/nagano/thumbs/2020_aug_09_francois_at_hells_onsen.jpg)](//b.robnugen.com/journal/2020/nagano/2020_aug_09_francois_at_hells_onsen.jpg)
 [![2020 aug 09 summer onsen monkeys](//b.robnugen.com/journal/2020/nagano/thumbs/2020_aug_09_summer_onsen_monkeys.jpg)](//b.robnugen.com/journal/2020/nagano/2020_aug_09_summer_onsen_monkeys.jpg)
 [![2020 aug 09 tossing apples](//b.robnugen.com/journal/2020/nagano/thumbs/2020_aug_09_tossing_apples.jpg)](//b.robnugen.com/journal/2020/nagano/2020_aug_09_tossing_apples.jpg)
-

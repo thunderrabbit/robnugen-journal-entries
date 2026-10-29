@@ -21,4 +21,3 @@ I'm currently aware of
 * A bunch of image generation stuff that I play with on occasion but haven't really used yet.
 
 I've heard a report that while the amount of code is going up, there are more subtle bugs being introduced. The expectation for that reporter is that humans will have more jobs related to programming, but in terms of creating clear specifications instead of doing the coding itself.
-

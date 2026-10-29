@@ -24,4 +24,3 @@ came in.  (and I used an intransitive verb.)
 
 沸かして忘れたお湯を見つけた。  I found boiling water on the stove and
 was like hey who left this boiling?
-

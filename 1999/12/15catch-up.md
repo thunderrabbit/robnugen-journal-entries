@@ -60,4 +60,3 @@ were wrapped up after I reinjured an old injury.
 
 Afterward, we packed up the good stuff, threw away the rest and went
 home.
-

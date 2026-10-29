@@ -18,4 +18,3 @@ to Jess for feedback to make it nicer.
 Thanks to GIMP for removing the background from the original image!
 
 [![2024 jan 13 workshop mens circle](//b.robnugen.com/blog/2024/thumbs/2024_jan_13_workshop_mens_circle.jpg)](//b.robnugen.com/blog/2024/2024_jan_13_workshop_mens_circle.jpg)
-

@@ -22,4 +22,3 @@ In the cafe, conversation was less tangible; what do you believe
 happens after we die? what do you want to be next lifetime? and I
 mentioned David's statement "the spirit world is real," which he told
 us after doing a retreat (featuring ayahuasca) in Peru.
-

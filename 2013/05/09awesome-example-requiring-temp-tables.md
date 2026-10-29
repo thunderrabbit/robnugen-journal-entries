@@ -37,4 +37,3 @@ While digging around for info on temp tables, I found this [gem of an DB example
 
 
 Hooray for toenail ids!
-

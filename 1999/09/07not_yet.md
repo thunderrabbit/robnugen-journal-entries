@@ -11,4 +11,3 @@ date: 1999-09-07
 <p>Maybe we can plan a smaller excursion, or a shorter one, or something.  But for right now, we'll be right here in the greater Houston area.
 
 <p>More later.
-

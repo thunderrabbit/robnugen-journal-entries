@@ -17,4 +17,3 @@ Flock has a local copy of *all* my blog entries, any of which I can edit and (I 
 
 
 Wow!!  
-

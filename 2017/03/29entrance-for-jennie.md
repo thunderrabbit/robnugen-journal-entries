@@ -23,4 +23,3 @@ that," and try to come inside, but it's worth the risk.  I think
 there's a greater risk of Jennie jumping down one day and cracking the
 plastic roof of the sunroof which would certainly be more expensive to
 repair than 3500 yen for these blocks.
-

@@ -26,20 +26,3 @@ quit 30 minutes before it will end.
 
 The next station is Musashi Mizonokuchi, but I have to keep going.  At
 our station, my wife will pick me up, so I can get home without walking.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

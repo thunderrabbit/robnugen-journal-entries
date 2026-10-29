@@ -13,5 +13,3 @@ The mobile version of my interface into the messaging system and to-do list for 
 The long horizontal line includes agents who I don't talk to interactively, so I need to remove those from this list and I need to somehow identify the   agents I talk to interactively and put them into a drop-down list.
 
 I think the easiest thing would be to only list agents in that drop-down if they have actually sent a message that hasn't been processed.
-
-

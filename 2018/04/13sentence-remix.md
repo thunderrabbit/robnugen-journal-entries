@@ -20,4 +20,3 @@ date: 2018-04-13T09:24:09+09:00
 今日ジオキャッシュを探す時間がないので探さない。 I don't have time to look for geocaches today, so I won't find any.
 
 しかし、他の人はジオキャッシュの時間があるから見つけられます。 But someone has time, so a geocache will be found.
-

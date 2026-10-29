@@ -28,4 +28,3 @@ February.  (The free writing was fodder for that.)
 This evening I will head to 高田馬場 for a PB meeting with GET.  Let's
 see how that goes!  Long time no see for all of them.  And Ayse will
 be there too.
-

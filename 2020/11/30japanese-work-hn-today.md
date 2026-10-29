@@ -57,6 +57,3 @@ from the weekend and write this one from today, including my reply to oscare:
     https://www.robnugen.com/journal/
 
     https://www.robnugen.com/journal/2020/11/30/japanese-work-hn-today/
-
-
-

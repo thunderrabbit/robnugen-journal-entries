@@ -18,4 +18,3 @@ date: 2017-04-29T22:39:35+09:00
 9. We are watching an introduction to Bitcoin!  I hope Lin will be more interested in BTC after this.
 10. Aw man.  She was like "meh" despite my passionate plea that she try to understand the future potential.
 11. Now we are watching Secret Life of Pets
-

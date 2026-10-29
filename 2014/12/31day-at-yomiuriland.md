@@ -119,4 +119,3 @@ gondola starts now
 ##20:56
 
 headed to Mikako's house for New Years
-

@@ -7,4 +7,3 @@ draft: false
 ---
 
 (written 08:09 Wednesday 13 January 2021 JST)
-

@@ -20,5 +20,3 @@ The interwebs are based on the concept of hyperlinks, not hypersearchterms. It's
 Maybe Safari is simply trying to hide [Google's new improved  URLs](https://stackoverflow.com/questions/7097270/whats-up-with-this-google-url)
 
 https://www.google.com/#hl=en&sugexp=les%3B&gs_rn=3&gs_ri=psy-ab&qe=ZnVubnkgY2E&qesig=6dbjvA15ZyzNj-pYiqMVVw&pkc=AFgZ2tlwoaAeFle1-MZ1VJeAT5JjH68EbH6kk37DXAhTcWItN38JuEfWBFesvHyRIONaCHPoB_zUFGwGgvXhhFo7UYSRJaIIJw&cp=8&gs_id=u&xhr=t&q=funny+cat+videos&es_nrs=true&pf=p&tbo=d&output=search&sclient=psy-ab&oq=funny+ca&gs_l=&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.42553238,d.dGY&fp=a5a3d6300bcf4b24&biw=1394&bih=596
-
-

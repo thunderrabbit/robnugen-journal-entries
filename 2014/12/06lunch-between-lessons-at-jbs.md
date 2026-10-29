@@ -12,4 +12,3 @@ date: 2014-12-06
 Wow!  What a surprise!
 
 [![yummy lunch at JBs](/images/2014/12/thumbs/lunch at JBs 2014-12-06 13.08.35.png)](/images/2014/12/lunch at JBs 2014-12-06 13.08.35.png)
-

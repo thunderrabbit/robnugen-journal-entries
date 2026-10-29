@@ -11,5 +11,3 @@ after plotting several relatively short days through the mountains I needed to c
 (Is that even a sentence?)
 
 I had to move back the last two reservations by one day each.  The last one is Hotel Googoo, which I just had to use because of its funny name.
-
-

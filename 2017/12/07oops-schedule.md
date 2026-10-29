@@ -18,4 +18,3 @@ Turns out they hadn't sent me the schedule for December, but I
 certainly could have been more proactive to check.  I have set a
 reminder for the 28th of each month to make sure I have the dates in
 my calendar for the subsequent month.
-

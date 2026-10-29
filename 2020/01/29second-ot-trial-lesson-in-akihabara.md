@@ -11,4 +11,3 @@ first lesson, I had no doubt they would sign up for a full course.
 Today I have a bit of a headache so I am looking forward to a nice nap
 before the lesson starts at 3pm It's only 9:22 now.  I'll get to
 Akihabara by 9:45 and hopefully be in an internet cafe to sleep by 10.
-

@@ -14,4 +14,3 @@ more concentrated than regular sunlight; I guess the building is
 slightly curved.
 
 [![Brighter than the sun](/images/2015/01/thumbs/dual shadows 2015-01-08 14.51.26.png)](/images/2015/01/dual shadows 2015-01-08 14.51.26.png)
-

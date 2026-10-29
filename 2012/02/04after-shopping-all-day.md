@@ -8,6 +8,3 @@ tags: [ "shopping" ]
 ##21:00 Saturday 04 February 2012
 
 [listen to 'After shopping all day' on Audioboo](https://audioboo.fm/boos/653350-after-shopping-all-day)
-
-
-

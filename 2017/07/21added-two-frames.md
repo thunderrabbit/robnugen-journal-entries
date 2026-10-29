@@ -14,5 +14,3 @@ backward, it takes a bit of time to move.
 
 Here is the livestream from today
 https://www.youtube.com/watch?v=WUL94mRtWYs
-
-

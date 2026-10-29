@@ -24,4 +24,3 @@ early and annoying and "no one else wants to do it," because one guy
 started doing the lessons and then quit.
 
 8:10am: Aika and Sayuri have arrived.
-

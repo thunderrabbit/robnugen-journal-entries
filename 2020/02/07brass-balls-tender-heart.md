@@ -72,4 +72,3 @@ He replied just 7 minutes later.
     Adam
 
 Excellent.  I am looking forward to the replay.
-

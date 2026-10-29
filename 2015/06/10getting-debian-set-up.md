@@ -30,5 +30,3 @@ Next steps in that direction are
         successkid.jpg
 	    
     first four items complete!
-
-

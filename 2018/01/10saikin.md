@@ -17,5 +17,3 @@ I just finished work and cannot quite bear to think in Japanese.
 電車乗りますので寝ちゃうかも知れない。
 
 I am on the train so I will probably fall asleep.
-
-

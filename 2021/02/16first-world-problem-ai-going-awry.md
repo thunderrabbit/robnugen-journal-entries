@@ -82,4 +82,3 @@ PayPal balance from there.
 
 Do you mean an ATM card from my bank? I do have an ATM card for my
 bank, but I am not sure if that is what you mean.
-

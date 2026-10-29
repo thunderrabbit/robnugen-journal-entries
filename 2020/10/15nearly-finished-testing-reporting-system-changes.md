@@ -15,5 +15,3 @@ Part of my stall has been that AB has not gotten back with me for a time to look
 *puts on sunglasses*
 
 A/B testing.
-
-

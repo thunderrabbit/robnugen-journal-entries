@@ -11,4 +11,3 @@ I'm at JB school now, ready to teach three lessons, then zip over to
 Toshiba and teach two lessons.
 
 Then from 7pm I'll be at a Japanese study group in Akihabara.
-

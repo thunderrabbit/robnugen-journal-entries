@@ -27,4 +27,3 @@ I got fifty bucks and we spent $4 to get back in (we went to the same guy) and $
 <p>
 (more to come)
 <p>
-

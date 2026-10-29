@@ -10,4 +10,3 @@ date: 2015-06-02T18:39:40+09:00
 If I unplug my Mac, the kernel stops going apeshit.  So I unplugged it
 for a while then replugged it after the battery went low.  Closed
 three tickets today.  Yay!
-

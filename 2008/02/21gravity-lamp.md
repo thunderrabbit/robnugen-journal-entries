@@ -19,4 +19,3 @@ tags: [ "green", "news", "technology" ]
 This is a must have item. Too bad it doesn't seem to be for sale yet!  
   
 I'd like to have a version that's as easy to use as an hour glass. Just flip it over and light pours out!  
-

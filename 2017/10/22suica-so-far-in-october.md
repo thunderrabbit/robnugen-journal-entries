@@ -11,5 +11,3 @@ Not sure if I should put this online, but I think anyone who cares can
 get the info in other ways, so here is link to a doc which has aa backup of my Suica info
 
 https://docs.google.com/document/d/18iviJj_fnekTNBPaWQp9aXLCuYMLV-aDKl8KJVyPC-Q/edit
-
-

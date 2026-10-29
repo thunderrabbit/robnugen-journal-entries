@@ -23,7 +23,3 @@ The bleachers were closed so I climbed them a little.  I didn't go all the way u
 Chatted with Tomoko and her friend Mari who recognized me from before.  I didn't recognize her because she had been wearing a mask then.
 
 I told them about my plan to walk to Niigata in April and Mari said "exciting!" Most of the others were like wtf??
-
-
-
-

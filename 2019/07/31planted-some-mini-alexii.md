@@ -24,4 +24,3 @@ The original Alex can be seen in the first two pics here.
 
 I just got super sidetracked looking for Alex pictures, after finding
 a journal entry with a missing image of Alex.  ([Alex outside](/journal/2014/10/30/alex-outside/))
-
