@@ -124,15 +124,15 @@ Definitely.</p></li>
 (setq custom-file "~/.emacs-custom.el")
 (load custom-file)
 
-(tool-bar-mode)  
-(menu-bar-mode)  
+(tool-bar-mode)
+(menu-bar-mode)
 
-(add-hook 'perl-mode-hook 
+(add-hook 'perl-mode-hook
 	  (lambda ()
 	    (set (make-local-variable 'compile-command)
 		 (concat "perl -wc " (buffer-file-name)))))
 
-(add-hook 'java-mode-hook 
+(add-hook 'java-mode-hook
 	  (lambda ()
 	    (set (make-local-variable 'compile-command)
 		 (concat "javac " (buffer-file-name)))))

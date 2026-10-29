@@ -184,7 +184,7 @@ foreach (@input_dir_contents) {
 		my ($A, $B) = ($key, $index_name_changes{$key});
 		$page_contents =~ s|$A|$B|;
 	    }
-	    
+
 	    open (OUT, ">$page_name") or die "Can't open $page_name for writing";
 	    print OUT $page_contents;
 	    close OUT;
@@ -194,7 +194,7 @@ foreach (@input_dir_contents) {
     ##----------------------------------------------------------
     #
     # If they are .html files, then we need to do three things:
-    #    1: rename them according to %index_name_changes, 
+    #    1: rename them according to %index_name_changes,
     #    2: update internal filenames according to %index_name_changes
     #       and %image_name_changes
     #    3: add a line for .shtml navigation
@@ -229,7 +229,7 @@ foreach (@input_dir_contents) {
 	if (rename "$page_name", "$new_page_name") {
 	    print "renamed $page_name to $new_page_name successfully\n";
 	}
-	else 
+	else
 	{
 	    print "PROBLEM renaming $page_name to $new_page_name\n";
 	}
@@ -257,7 +257,7 @@ sub check_for_index_name_updates {
 	    my $newname = $filename;
 	    $newname =~ s/\.html/.shtml/;
 	    $index_name_changes{$filename} = $newname;
-	} 
+	}
 	else
 	{
 	    $index_name_changes{$filename} = "index.shtml";

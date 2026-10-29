@@ -17,7 +17,7 @@ automatically print a full date in Japanese format:</p>
   "Prints the full date in Japanese format in a class=\"date\" paragraph."
   nil
   ;; set the Japanese symbol for the day of the week
-  '(setq j-dow (cond 
+  '(setq j-dow (cond
 		((string= (format-time-string "%w") "0") "Æü")
 		((string= (format-time-string "%w") "1") "·î")
 		((string= (format-time-string "%w") "2") "²Ð")
@@ -76,7 +76,7 @@ command for perl files.</p>
 <p>(g, you might be interested in this:)</p>
 
 <pre>
-(add-hook 'perl-mode-hook 
+(add-hook 'perl-mode-hook
 	  (lambda ()
 	    (set (make-local-variable 'compile-command)
 		 (concat "perl -wc " (buffer-file-name)))))

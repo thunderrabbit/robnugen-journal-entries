@@ -14,7 +14,7 @@
 	     FROM Upper_Remun AS ur
 	     LEFT JOIN User_Publish AS up ON ur.publish_id = up.publish_id
 	     WHERE ur.status =4
-	     AND up.uid =5 
+	     AND up.uid =5
        UNION ALL SELECT
 	      fo.blogger1_uid as uid
 	      ,fp.status
@@ -22,13 +22,13 @@
 	      ,fp.expect_date
 	      ,fp.amount as amount1
 	      FROM
-	      Find_Peyton as fp 
+	      Find_Peyton as fp
 	      LEFT JOIN
 	      First_Off as fo
 	      USING (firstoff_id)
-	      WHERE fp.status = 4 
-	     AND fo.b1_uid =5 
-       ) AS r_recs 
+	      WHERE fp.status = 4
+	     AND fo.b1_uid =5
+       ) AS r_recs
        GROUP BY r_recs.uid, r_recs.status, r_recs.request_date, r_recs.expect_date
  ) AS up)
     UNION (

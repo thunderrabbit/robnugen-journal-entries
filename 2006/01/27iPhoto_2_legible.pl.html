@@ -14,17 +14,17 @@ May 2006</a> in my journal.)</p>
 # iPhoto_2_legible.pl v0.0: convert numeric image names to human-readable ones
 #
 # Copyright (C) 2006 Rob Nugen, iPhoto_2_legible@robnugen.com
-# 
+#
 # This program is free software; you can redistribute it and/or
 # modify it under the terms of the GNU General Public License
 # as published by the Free Software Foundation; either version 2
 # of the License, or (at your option) any later version.
-# 
+#
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 # GNU General Public License for more details.
-# 
+#
 # You should have received a copy of the GNU General Public License along
 # with this program; if not, write to the Free Software Foundation, Inc.,
 # 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
@@ -107,7 +107,7 @@ foreach (@list) {
 		$update_counter ++;
 		$success_counter ++ if rename "$input_dir_name$_/$key", "$input_dir_name$_/$filename_changes{$key}";
 	    }
-	    else 
+	    else
 	    {
 		print "$input_dir_name$_/$key is not a file.\n";
 	    }
@@ -134,7 +134,7 @@ foreach (@list) {
 	    my ($A, $B) = ($key, $filename_changes{$key});
 
 	    $page_contents =~ s/$A/$B/;
-	    
+
 	    open (OUT, "&gt;$page_name") or die "Can't open $page_name for writing";
 	    print OUT $page_contents;
 	    close OUT;

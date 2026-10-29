@@ -29,7 +29,7 @@ while ($radians &lt; (5 * $pi)) {
     $y = sprintf ("%3.3f", ($Yo + $Ym * sin($radians)));
     $z = sprintf ("%3.3f", ($Zo + $Zm * cos($radians)));
     $degrees = sprintf ("%3.3f", (($pi + $radians) * 360 / (2 * $pi)));
-    
+
     &p($radians, $x, $y, $z, $angle, $Xm, $Ym, $Zm, $Xo, $Yo, $Zo, $degrees);
     $radians = $radians += ($pi / 8);
 }

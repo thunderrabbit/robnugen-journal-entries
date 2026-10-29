@@ -9,7 +9,7 @@ the name of the file.</p>
 (define-skeleton html-rob-paragraph
   "Prints HTML paragraph tag depending on filename.
 
-If filename contains \"Dream\" or \"dream\", then paragraphs with 
+If filename contains \"Dream\" or \"dream\", then paragraphs with
 class=\"dream\" are used.  Otherwise, un-classed paragraphs are used."
   nil
   (if (string-match "[Dd]ream" (buffer-file-name))

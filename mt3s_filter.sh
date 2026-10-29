@@ -1,16 +1,16 @@
 #!/bin/bash
-# 
+#
 # USAGE:
 #   $0 [year] |less     # visually confirm correct output
 #   $0 [year] |bash     # execute output.  dangerous!
-#   
-# Warning: 
-#   The output of this script is NOT protected against 
+#
+# Warning:
+#   The output of this script is NOT protected against
 #   funny characters in filenames or other bugs/unusual output.
 #   That's why this script does NOT change any file!
 #   It outputs a guess at the commands to perform the desired change.
 #   YOU MUST VISUALLY INSPECT THE OUTPUT BEFORE EXECUTING IT
-#  
+#
 
 
 # set variable values.
@@ -25,7 +25,7 @@ export mt3_dest_dir
 # return value is an exit status
 is_mt3() {
   local f="$1"
-    
+
   # set these values
   local num_lines=4
   local string="mt3"
@@ -41,12 +41,12 @@ is_mt3() {
 
   return $?;                                # grep's exit code
 }
-  
+
 
 # do a thing if file is an mt3 file
 process_file() {
   local g="$1"
-   
+
   if is_mt3 "$g"   # need quotes in case filename has whitespace
   then
     local d=`dirname "$g"`
@@ -76,7 +76,7 @@ export -f process_file
 
 
 echo mkdir -p \"$mt3_dest_dir\"
- 
+
 
 # main()
 # only the shell can execute shell functions,

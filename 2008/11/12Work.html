@@ -13,8 +13,8 @@ now the next part is stuff I've solved already.</p>
 <p>Formatted for clarity:</p>
 
 <pre>
-$$('.select_id').addEvent('change', function() 
-  { 
+$$('.select_id').addEvent('change', function()
+  {
      this.getParent().getNext('.inject_select').set('text',
      'Now we need to do a JSON call and HTML inject the select items that correspond to id '
      + this.getSelected().get('value'));

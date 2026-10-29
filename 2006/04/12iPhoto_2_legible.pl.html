@@ -16,17 +16,17 @@ text editor.</p>
 # version 0.3  (better error trapping and reporting)
 #
 # Copyright (C) 2006 Rob Nugen, iPhoto_2_legible@robnugen.com
-# 
+#
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
 # the Free Software Foundation; either version 2 of the License, or
 # (at your option) any later version.
-# 
+#
 # This program is distributed in the hope that it will be useful, but
 # WITHOUT ANY WARRANTY; without even the implied warranty of
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
 # General Public License for more details.
-# 
+#
 # You should have received a copy of the GNU General Public License along
 # with this program; if not, write to the Free Software Foundation, Inc.,
 # 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
@@ -48,7 +48,7 @@ text editor.</p>
 #  the main index file to the album.  So this code converts that name
 #  to "index.shtml"; therefore visiting http://domain.com/album_name/
 #  will NOT give a directory listing.
-#  
+#
 #  Starting with version 0.1 of this code, it also adds to each index
 #  page a webserver pre-processor line, quite specific to my domain,
 #  and probably not useful for anyone else.  I have labeled two
@@ -127,7 +127,7 @@ print "\n$navigation_line\n";
 print "\nIs this correct?  (y/n/q)\n";
 my $key = getc(STDIN);  # reads a single key after enter is typed
 
-    
+
 if ($key =~ /n/i) {  # if user specifically enters 'n', run emacs to edit the offending code
     # -q = don't read startup files
     # +LINE:COL = start cursor here
@@ -229,7 +229,7 @@ foreach my $input_dir_item (@input_dir_contents) {
     if ($verbose) {
 	print "Now processing $input_dir_item\n";
     }
-    
+
     ##----------------------------------------------------------
     #
     # If they end with -Images or -Thumbnails, then they are
@@ -286,7 +286,7 @@ foreach my $input_dir_item (@input_dir_contents) {
 		$error_counter ++;
 	    }
 
-	    # Figure out what N.jpg we are looking for; 
+	    # Figure out what N.jpg we are looking for;
             # it should match the filename ImageN.html
 	    my ($num) = $page_name =~ m/Image(\d+)\.html$/m;
 	    my $old_filename = "$num.jpg";
@@ -299,7 +299,7 @@ foreach my $input_dir_item (@input_dir_contents) {
 		my ($A, $B) = ($key, $index_name_changes{$key});
 		$page_contents =~ s|$A|$B|;
 	    }
-	    
+
 	    if (open (OUT, "&gt;$page_name")) {
 		print OUT $page_contents;
 		close OUT;
@@ -435,7 +435,7 @@ sub check_for_index_name_updates {
 	    my $newname = $filename;
 	    $newname =~ s/\.html/.shtml/;
 	    $index_name_changes{$filename} = $newname;
-	} 
+	}
 	else
 	{
 	    $index_name_changes{$filename} = "index.shtml";
@@ -483,17 +483,17 @@ sub update_hash_of_changes {
 # version 0.3  (better error trapping and reporting)
 #
 # Copyright (C) 2006 Rob Nugen, iPhoto_2_legible@robnugen.com
-# 
+#
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
 # the Free Software Foundation; either version 2 of the License, or
 # (at your option) any later version.
-# 
+#
 # This program is distributed in the hope that it will be useful, but
 # WITHOUT ANY WARRANTY; without even the implied warranty of
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
 # General Public License for more details.
-# 
+#
 # You should have received a copy of the GNU General Public License along
 # with this program; if not, write to the Free Software Foundation, Inc.,
 # 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
@@ -515,7 +515,7 @@ sub update_hash_of_changes {
 #  the main index file to the album.  So this code converts that name
 #  to "index.shtml"; therefore visiting http://domain.com/album_name/
 #  will NOT give a directory listing.
-#  
+#
 #  Starting with version 0.1 of this code, it also adds to each index
 #  page a webserver pre-processor line, quite specific to my domain,
 #  and probably not useful for anyone else.  I have labeled two
@@ -594,7 +594,7 @@ print "\n$navigation_line\n";
 print "\nIs this correct?  (y/n/q)\n";
 my $key = getc(STDIN);  # reads a single key after enter is typed
 
-    
+
 if ($key =~ /n/i) {  # if user specifically enters 'n', run emacs to edit the offending code
     # -q = don't read startup files
     # +LINE:COL = start cursor here
@@ -696,7 +696,7 @@ foreach my $input_dir_item (@input_dir_contents) {
     if ($verbose) {
 	print "Now processing $input_dir_item\n";
     }
-    
+
     ##----------------------------------------------------------
     #
     # If they end with -Images or -Thumbnails, then they are
@@ -753,7 +753,7 @@ foreach my $input_dir_item (@input_dir_contents) {
 		$error_counter ++;
 	    }
 
-	    # Figure out what N.jpg we are looking for; 
+	    # Figure out what N.jpg we are looking for;
             # it should match the filename ImageN.html
 	    my ($num) = $page_name =~ m/Image(\d+)\.html$/m;
 	    my $old_filename = "$num.jpg";
@@ -766,7 +766,7 @@ foreach my $input_dir_item (@input_dir_contents) {
 		my ($A, $B) = ($key, $index_name_changes{$key});
 		$page_contents =~ s|$A|$B|;
 	    }
-	    
+
 	    if (open (OUT, "&gt;$page_name")) {
 		print OUT $page_contents;
 		close OUT;
@@ -902,7 +902,7 @@ sub check_for_index_name_updates {
 	    my $newname = $filename;
 	    $newname =~ s/\.html/.shtml/;
 	    $index_name_changes{$filename} = $newname;
-	} 
+	}
 	else
 	{
 	    $index_name_changes{$filename} = "index.shtml";

@@ -13,7 +13,7 @@ example.</p>
 function changeMonthAndDay(nameID,start_bool)    // yearID is something like "regist_start_year
 {
 	if(start_bool == null) { start_bool = true; }    // start_bool == true means start of year / month.  false means end of year / month
-	
+
 	var name_prefix = nameID.substring(0,nameID.length-4);   // regist_start_year  => regist_start_   ||  regist_start_mnth = regist_start_
 	var yearID = name_prefix + "year";
 	var monthID = name_prefix + "mnth";
@@ -24,7 +24,7 @@ function changeMonthAndDay(nameID,start_bool)    // yearID is something like "re
 	if (year.selectedIndex > 0)
 	{
 		// change the month to the first or last month depending on start_bool
-		if(month.selectedIndex == 0) 
+		if(month.selectedIndex == 0)
 		{
 			if (start_bool) {	month.selectedIndex = 1 }
 			else
@@ -32,7 +32,7 @@ function changeMonthAndDay(nameID,start_bool)    // yearID is something like "re
 				month.selectedIndex = 12;
 			}
 		}
-		
+
 		// change the day to the first or last day depending on start_bool
 		if (start_bool) {
 			if (day.selectedIndex == 0)

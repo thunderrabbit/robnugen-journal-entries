@@ -11,10 +11,10 @@ and &gt; replaced with &amp;lt; and &amp;gt;</p>
 (setq custom-file "~/.emacs-custom.el")
 (load custom-file)
 
-(tool-bar-mode)  
-(menu-bar-mode)  
+(tool-bar-mode)
+(menu-bar-mode)
 
-(add-hook 'perl-mode-hook 
+(add-hook 'perl-mode-hook
 	  (lambda ()
 	    (set (make-local-variable 'compile-command)
 		 (concat "perl -wc " (buffer-file-name)))))
@@ -2069,7 +2069,7 @@ Can be used as a value for `html-mode-hook'."
   "Prints the full date in Japanese format in a class=\"date\" paragraph."
   nil
   ;; set the Japanese symbol for the day of the week
-  '(setq j-dow (cond 
+  '(setq j-dow (cond
 		((string= (format-time-string "%w") "0") "日")
 		((string= (format-time-string "%w") "1") "月")
 		((string= (format-time-string "%w") "2") "火")
@@ -2122,7 +2122,7 @@ Can be used as a value for `html-mode-hook'."
 (define-skeleton html-rob-paragraph
   "Prints HTML paragraph tag depending on filename.
 
-If filename contains \"Dream\" or \"dream\", then paragraphs with 
+If filename contains \"Dream\" or \"dream\", then paragraphs with
 class=\"dream\" are used.  Otherwise, un-classed paragraphs are used."
   nil
   (if (string-match "[Dd]ream" (buffer-file-name))

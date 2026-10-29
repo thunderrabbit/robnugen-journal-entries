@@ -185,15 +185,15 @@ it could be fun again.</p></li>
 (setq custom-file "~/.emacs-custom.el")
 (load custom-file)
 
-(tool-bar-mode)  
-(menu-bar-mode)  
+(tool-bar-mode)
+(menu-bar-mode)
 
-(add-hook 'perl-mode-hook 
+(add-hook 'perl-mode-hook
 	  (lambda ()
 	    (set (make-local-variable 'compile-command)
 		 (concat "perl -wc " (buffer-file-name)))))
 
-(add-hook 'java-mode-hook 
+(add-hook 'java-mode-hook
 	  (lambda ()
 	    (set (make-local-variable 'compile-command)
 		 (concat "javac " (buffer-file-name)))))
@@ -247,7 +247,7 @@ journal_header.txt\C-m\C-x\C-x\C-cT\C-cJ")
 (rename-buffer "HTML-journal-files")
 
 ('MAKE THIS ALL ONE LINE)
-(fset 'gimme-digits 
+(fset 'gimme-digits
    [?\C-x ?b ?* ?d ?i ?g ?i ?t ?s ?* ?\C-m ?\C-x ?k ?\C-m ?\C-x ?b ?* ?d ?i ?g ?i ?t ?s ?* ?\C-m
    ?\C- ?0 ?\C-m ?1 ?\C-m ?2 ?\C-m ?3 ?\C-m ?4 ?\C-m ?5 ?\C-m ?6 ?\C-m ?7 ?\C-m ?8 ?\C-m ?9 ?\C-x ?r
    ?k ?\C-x ?\C-x ?\C-x ?r ?y ?\C-b ?\C-x ?r ?t ?0 ?\C-m ?\C-e ?\C-m ?\C-x ?r ?y ?\C-b ?\C-x ?r ?t

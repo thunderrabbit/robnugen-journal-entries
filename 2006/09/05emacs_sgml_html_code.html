@@ -19,7 +19,7 @@ Cool!</p>
   "Prints the full date in Japanese format in a class=\"date\" paragraph."
   nil
   ;; set the Japanese symbol for the day of the week
-  '(setq j-dow (cond 
+  '(setq j-dow (cond
 		((string= (format-time-string "%w") "0") "日")
 		((string= (format-time-string "%w") "1") "月")
 		((string= (format-time-string "%w") "2") "火")
@@ -43,8 +43,8 @@ Cool!</p>
 (define-skeleton html-full-date
   "Prints the full date in a class=\"date\" paragraph."
   nil
-  (if (bolp) 
-      nil 
+  (if (bolp)
+      nil
     (progn (end-of-line) (newline) (newline))) ; work even if not at eol
   "<p class=\"date\">" (format-time-string "%-1l:%M%P %Z %A %e %B %Y")
   (concat " (day " (number-to-string (- (time-to-days (current-time)) (time-to-days '(109 0 0)))) ")")
@@ -64,8 +64,8 @@ Cool!</p>
 (define-skeleton html-paragraph
   "HTML paragraph tag."
   nil
-  (if (bolp) 
-      nil 
+  (if (bolp)
+      nil
     (progn (end-of-line) (newline) (newline))) ; works even if not at eol
   "<p>" _ (if sgml-xml-mode "</p>"))
 
@@ -80,7 +80,7 @@ Cool!</p>
 (define-skeleton html-rob-paragraph
   "Prints HTML paragraph tag depending on filename.
 
-If filename contains \"Dream\" or \"dream\", then paragraphs with 
+If filename contains \"Dream\" or \"dream\", then paragraphs with
 class=\"dream\" are used.  Otherwise, un-classed paragraphs are used."
   nil
   (if (string-match "[Dd]ream" (buffer-file-name))
@@ -2076,7 +2076,7 @@ Can be used as a value for `html-mode-hook'."
   "Prints the full date in Japanese format in a class=\"date\" paragraph."
   nil
   ;; set the Japanese symbol for the day of the week
-  '(setq j-dow (cond 
+  '(setq j-dow (cond
 		((string= (format-time-string "%w") "0") "日")
 		((string= (format-time-string "%w") "1") "月")
 		((string= (format-time-string "%w") "2") "火")
@@ -2100,8 +2100,8 @@ Can be used as a value for `html-mode-hook'."
 (define-skeleton html-full-date
   "Prints the full date in a class=\"date\" paragraph."
   nil
-  (if (bolp) 
-      nil 
+  (if (bolp)
+      nil
     (progn (end-of-line) (newline) (newline))) ; work even if not at eol
   "&lt;p class=\"date\"&gt;" (format-time-string "%-1l:%M%P %Z %A %e %B %Y")
   (concat " (day " (number-to-string (- (time-to-days (current-time)) (time-to-days '(109 0 0)))) ")")
@@ -2121,8 +2121,8 @@ Can be used as a value for `html-mode-hook'."
 (define-skeleton html-paragraph
   "HTML paragraph tag."
   nil
-  (if (bolp) 
-      nil 
+  (if (bolp)
+      nil
     (progn (end-of-line) (newline) (newline))) ; works even if not at eol
   "&lt;p&gt;" _ (if sgml-xml-mode "&lt;/p&gt;"))
 
@@ -2137,7 +2137,7 @@ Can be used as a value for `html-mode-hook'."
 (define-skeleton html-rob-paragraph
   "Prints HTML paragraph tag depending on filename.
 
-If filename contains \"Dream\" or \"dream\", then paragraphs with 
+If filename contains \"Dream\" or \"dream\", then paragraphs with
 class=\"dream\" are used.  Otherwise, un-classed paragraphs are used."
   nil
   (if (string-match "[Dd]ream" (buffer-file-name))

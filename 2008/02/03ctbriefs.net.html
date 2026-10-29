@@ -16,12 +16,12 @@ around the $this-&gt; parts.)</p>
 
 <pre>
 		$query = "SELECT <b>SQL_CALC_FOUND_ROWS</b> * FROM theories as t left join users as u using(uid) " .
-			{$where_clause} . 
+			{$where_clause} .
 			"LIMIT " . $min .  ", " . $per_page;
 
 		if($statement = $this->mysqli->prepare($query))
 		{
-		
+
 			$statement->bind_param(&quot;dd&quot;, $var, $var2);
 			$statement->execute();
 			$statement->bind_result(&lt;snip&gt;);
@@ -36,9 +36,9 @@ around the $this-&gt; parts.)</p>
 			$statement->execute();
 			$statement->bind_result($num_records);
 			$statement->fetch();
-</b>		
+</b>
 			$num_pages = ceil($num_records / $_SESSION['theories_per_page']);
-			
+
 			print_rob($num_records, "num records");
 			print_rob($num_pages, "num pages");
 		}

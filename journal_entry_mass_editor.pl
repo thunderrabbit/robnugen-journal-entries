@@ -51,5 +51,5 @@ sub edits() {
             close FILE;                             # save in place
         }
     }
-    
+
 }

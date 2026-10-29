@@ -18,8 +18,8 @@ felt I had enough knowledge to tweak the following SELECT:</p>
                 um.uid ,um.name ,um.nickname ,um.pc_email ,um.sex ,um.prefecture_code
                 ,um.regist_date ,um.apply_cnt ,um.deny_cnt ,um.consent_cnt ,um.request_cnt
                 ,um.no_pay_cnt ,um.pay_cnt ,um.max_consent_date ,um.status
-            FROM 
-                (SELECT 
+            FROM
+                (SELECT
                     um.*
                     ,count(up.status) as apply_cnt
                     ,count(case when ur.status = 2 then 1 else  null end) as deny_cnt
@@ -29,10 +29,10 @@ felt I had enough knowledge to tweak the following SELECT:</p>
                     ,count(case when ur.status = 6 then 1 else  null end) as pay_cnt
                     ,max(ur.consent_date) as max_consent_date
                 FROM
-                    User_Master as um 
+                    User_Master as um
                     left join User_Publish as up on um.uid = up.uid
                     left join User_Remun as ur   on up.publish_id = ur.publish_id
-                GROUP BY 
+                GROUP BY
                     um.uid
                 )  as um
                 left join User_Site as us on um.uid = us.uid and us.status &lt;&gt; 9
@@ -66,8 +66,8 @@ actually an easy change:</p>
                 um.uid ,um.name ,um.nickname ,um.pc_email ,um.sex ,um.prefecture_code
                 ,um.regist_date ,um.apply_cnt ,um.deny_cnt ,um.consent_cnt ,um.request_cnt
                 ,um.no_pay_cnt ,um.pay_cnt ,um.max_consent_date ,um.status
-            FROM 
-                (SELECT 
+            FROM
+                (SELECT
                     um.*
                     ,count(up.status) as apply_cnt
                     ,sum(up.mission_score) as mission_score_total
@@ -78,10 +78,10 @@ actually an easy change:</p>
                     ,count(case when ur.status = 6 then 1 else  null end) as pay_cnt
                     ,max(ur.consent_date) as max_consent_date
                 FROM
-                    User_Master as um 
+                    User_Master as um
                     left join User_Publish as up on um.uid = up.uid
                     left join User_Remun as ur   on up.publish_id = ur.publish_id
-                GROUP BY 
+                GROUP BY
                     um.uid
                 )  as um
                 left join User_Site as us on um.uid = us.uid and us.status &lt;&gt; 9
@@ -116,8 +116,8 @@ actually an easy change:</p>
                 um.uid ,um.mission_score_total ,um.name ,um.nickname ,um.pc_email ,um.sex ,um.prefecture_code
                 ,um.regist_date ,um.apply_cnt ,um.deny_cnt ,um.consent_cnt ,um.request_cnt
                 ,um.no_pay_cnt ,um.pay_cnt ,um.max_consent_date ,um.status
-            FROM 
-                (SELECT 
+            FROM
+                (SELECT
                     um.*
                     ,count(up.status) as apply_cnt
                     ,sum(up.mission_score) as mission_score_total
@@ -128,10 +128,10 @@ actually an easy change:</p>
                     ,count(case when ur.status = 6 then 1 else  null end) as pay_cnt
                     ,max(ur.consent_date) as max_consent_date
                 FROM
-                    User_Master as um 
+                    User_Master as um
                     left join User_Publish as up on um.uid = up.uid
                     left join User_Remun as ur   on up.publish_id = ur.publish_id
-                GROUP BY 
+                GROUP BY
                     um.uid
                 )  as um
                 left join User_Site as us on um.uid = us.uid and us.status &lt;&gt; 9

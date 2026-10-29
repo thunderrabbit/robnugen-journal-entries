@@ -21,7 +21,7 @@ var next_movie:Number = 0;   // start with the first movie and roll on from ther
 this.createEmptyMovieClip("targ1_mc", 1);
 
 targ1_mc.loadMovie(swfArray[next_movie]);
- 
+
 this.onEnterFrame = function(){
         <b>if (targ1_mc._totalframes == targ1_mc._currentframe) {  //  this is the key  </b>
 	next_movie ++;
