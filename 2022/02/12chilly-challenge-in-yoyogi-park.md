@@ -19,7 +19,7 @@ soil for Flower Land.
 
 [![2022 feb 12 james and rob on snow](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_feb_12_james_and_rob_on_snow.jpeg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_feb_12_james_and_rob_on_snow.jpeg)
 [![2022 feb 12 apple in tree](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_feb_12_apple_in_tree.jpeg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_feb_12_apple_in_tree.jpeg)
-[![2022 feb 12 fresh soil line](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_feb_12_fresh_soil_line.jpeg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_feb_12_fresh_soil_line.jpeg)          
+[![2022 feb 12 fresh soil line](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_feb_12_fresh_soil_line.jpeg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_feb_12_fresh_soil_line.jpeg)  
 [![2022 feb 12 old grass and new grass](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_feb_12_old_grass_and_new_grass.jpeg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_feb_12_old_grass_and_new_grass.jpeg)
 
 

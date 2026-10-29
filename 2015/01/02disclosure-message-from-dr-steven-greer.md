@@ -16,7 +16,7 @@ I got an email from Dr Steven Greer, and am taking the liberty of copying the bo
     acknowledge this reality](https://www.educatinghumanity.com/2011/01/list-of-countries-that-have-disclosed.html). However the US- the crown jewel in the world
     of super-secret technologies- has resisted Disclosure. We are not
     surprised.
-     
+
     From 1992-2001, I personally briefed countless senior US Government
     and other officials around the world: President Clinton's CIA
     Director, members of the Senate Intelligence Committee, Foreign
@@ -30,7 +30,7 @@ I got an email from Dr Steven Greer, and am taking the liberty of copying the bo
     projects and operations that we have proven to exist that deal with
     UFOs and ETs.  As the CIA Director said: "How can we Disclose that
     which we have no access to?".
-     
+
     This means Disclosure - AND Contact- is in the hands of We The People.
     The acknowledged leaders of government rarely if ever have access to
     the deep-black Unacknowledged Special Access Projects (USAPs) dealing
@@ -40,7 +40,7 @@ I got an email from Dr Steven Greer, and am taking the liberty of copying the bo
     completely illegally and unconstitutionally. They constitute a shadowy
     international Fourth Branch of government that, frankly, does as it
     pleases.
-     
+
     Further Disclosure will come two ways: First, more people must form
     CE-5 Contact teams, make contact and document these events as
     thoroughly as possible. When a critical mass of humans say to the ET's
@@ -48,7 +48,7 @@ I got an email from Dr Steven Greer, and am taking the liberty of copying the bo
     by us being passive and waiting for others to do it. I assure you, the
     ETs are waiting for a critical mass of us to send the signal that WE
     are ready. They are waiting, ever so patiently.
-     
+
     Second: I am calling for a second large wave of Disclosure Witnesses:
     Government, Defense, Intelligence and Corporate witnesses to UFO and
     ET-related events, projects, research and technology.  These
@@ -56,7 +56,7 @@ I got an email from Dr Steven Greer, and am taking the liberty of copying the bo
     AGREEMENTS SINCE THE PROJECTS RELATED TO UFOS ARE ILLEGAL,
     UNCONSTITUTIONAL AND THEREFORE THEY CANNOT USE THE LAW TO SILENCE
     THEM.
-     
+
     This strategic policy was established in 1998 when we wrote to every
     relevant branch of the US government stating that 1) the UFO related
     operations were illegal and that 2) therefore we would come forward
@@ -67,7 +67,7 @@ I got an email from Dr Steven Greer, and am taking the liberty of copying the bo
     plan of action and assume your silence equals agreement. We were never
     officially informed otherwise, hence the launch of the global
     Disclosure movement at the [National Press Club on May 9, 2001](https://www.youtube.com/watch?v=lkswXVmG4xM).)
-     
+
     It is time for Wave Two of this process: I call on all of you to
     identify friends, co-workers, family members, neighbors and so forth
     who have worked in a DIRECT capacity and have first hand knowledge of
@@ -76,7 +76,7 @@ I got an email from Dr Steven Greer, and am taking the liberty of copying the bo
     [www.SiriusDisclosure.com](https://www.SiriusDisclosure.com). NOTE: we are not interested in hearsay,
     second hand accounts and we require corroboration of the persons
     claims, employment record, military service etc.
-     
+
     All of us need to do this together and create a second massive Wave of
     Disclosure.  The President and the Congress are unlikely to act,
     though it is fine to ask them to fulfill their duties. Why? They do
@@ -89,19 +89,19 @@ I got an email from Dr Steven Greer, and am taking the liberty of copying the bo
     and wind power investment and assets. This Disclosure, it is no
     exaggeration to say, would constitute the greatest change in human
     history.  And entrenched powers do not like change.
-     
+
     But remember: Large changes in history have NEVER come from the
     centers of power. They have come from 'left field' , from outliers,
     from the average person doing extraordinary things. Thats where We The
     People come in.
-     
+
     In 2015, it is our turn.
-     
+
     Wishing all of you a happy, health and peaceful 2015!
-     
+
     In Universal Peace,
-     
-     
+
+
     Steven M. Greer MD
     [www.SiriusDisclosure.com](https://www.SiriusDisclosure.com)
-    
+

@@ -20,7 +20,7 @@ WTC complex, I spoke about the events on the day.  What happened?
 Plane hit building.  Right. Then what happened?  Plane hit other
 building.  Right. Then what happened to the buildings?  Collapse.
 Right.  So how many buildings collapsed?  Two. Okay, and you guys,
-what do you think?  Two. 
+what do you think?  Two.
 
 ブッブー  [buzzer onomatopoeia]  Three.
 

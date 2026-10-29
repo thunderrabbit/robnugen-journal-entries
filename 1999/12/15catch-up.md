@@ -48,14 +48,14 @@ thought I did, but I musta only scanned two.
 
 I loved my water altar!  I took an <a href="/journal/images/TCM/water-art.jpg">artsy</a> pic of it.
 
-There was a gospel singer and a <a href="/journal/images/TCM/rap.jpg">rapper</a>, and dancers and 
+There was a gospel singer and a <a href="/journal/images/TCM/rap.jpg">rapper</a>, and dancers and
 all kinds of fun.
 
 Some funny person put a bar of <a href="/journal/images/TCM/soap-frog.jpg">soap</a> in the water altar!  
 The funniest thing is that someone <em>had</em> a bar of soap at the
 event!
 
-Dion took this picture of <a href="/journal/images/TCM/rob-frog.jpg">me</a> after the event.  My fingers 
+Dion took this picture of <a href="/journal/images/TCM/rob-frog.jpg">me</a> after the event.  My fingers
 were wrapped up after I reinjured an old injury.
 
 Afterward, we packed up the good stuff, threw away the rest and went

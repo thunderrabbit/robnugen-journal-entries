@@ -8,4 +8,4 @@ draft: false
 
 Talking to Horus, Emico, and Mamiko, I'm thinking the sanctuary in Philippines might be more effective than randomly in India.  🤔🤔🤔
 
-I can certainly see how much Mamiko has changed since she went. 
+I can certainly see how much Mamiko has changed since she went.

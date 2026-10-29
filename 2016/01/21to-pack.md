@@ -63,7 +63,7 @@ art
     ~~highligher markers~~
     ~~thin markers~~
 	~~fat markers~~
-	
+
 computer:
 
     ~~computer

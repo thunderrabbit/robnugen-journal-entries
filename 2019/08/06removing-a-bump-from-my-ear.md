@@ -23,20 +23,20 @@ Hopefully I can get pictures.
 No pictures.  And quite a shock, which [I posted on FB](https://www.facebook.com/thunderrabbit/posts/10162144887075716).
 
     Shocked, I am!
-    
+
     I had a sebaceous cyst behind my ear lobe (like against the skull,
     not ear lobe itself) and I asked the doctor if he could take it
     out.
-    
+
     He said yes, and did it today.
-    
+
     I didn't know he would take the skin too!!!
-    
+
     I asked to see the cyst and they were like "that's the cyst and
     this side is skin."
-    
+
     That was my favorite behind-my-left-earlobe skin!!!
-    
+
     Is that normal to remove a square cm of skin? Like a cubic cm
     altogether.
 

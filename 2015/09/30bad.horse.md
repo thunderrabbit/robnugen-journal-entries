@@ -42,4 +42,4 @@ date: 2015-09-30T11:25:12+09:00
     40  there-s.no.recourse (162.252.205.155)  205.816 ms  206.210 ms  206.256 ms
     41  it-s.hi-ho.silver (162.252.205.156)  209.885 ms  211.503 ms  211.480 ms
     42  signed.bad.horse (162.252.205.157)  205.570 ms  205.052 ms  206.800 ms
-    rob@debian:~$ 
+    rob@debian:~$

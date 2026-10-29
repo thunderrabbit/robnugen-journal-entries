@@ -6,7 +6,7 @@ date: 2025-04-20T16:20:00+09:00
 draft: false
 ---
 
-Wow yay I got a great proof of concept for AB to have 2FA in their login flow.  😁 
+Wow yay I got a great proof of concept for AB to have 2FA in their login flow.  😁
 
 And with ChatGPT support, I finished in well less than half the time it would have taken otherwise.
 

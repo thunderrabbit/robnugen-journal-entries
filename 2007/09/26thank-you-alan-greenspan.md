@@ -12,7 +12,7 @@ tags: [ "airplane day", "terror" ]
 [Crooks and Liars » Shuster on Hardball: Blood for Oil](https://www.crooksandliars.com/2007/09/18/shuster-on-hardball-blood-for-oil/)
 
 
-I hope the video stays available on the site. 
+I hope the video stays available on the site.
 
 Also
 

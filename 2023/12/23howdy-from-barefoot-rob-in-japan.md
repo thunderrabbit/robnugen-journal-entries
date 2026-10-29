@@ -16,7 +16,7 @@ journal entries, which my brother designed based on my concept.  He
 can regex like a pro, but maybe not a Gohd / Ghod (which way do you
 spell it?)
 
-I chatted with Laura in the past two years, but not you in the past decade(s) or more. 
+I chatted with Laura in the past two years, but not you in the past decade(s) or more.
 
 Anyway, I found CgiUtils.pm[2] in this repo and thought I'd give you a holler.
 My non-Perl-powered journal is here https://www.robnugen.com/journal/

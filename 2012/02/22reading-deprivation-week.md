@@ -9,10 +9,10 @@ tags: [ "journal" ]
 
 Since I've ignored my email for the better part of a week, Reading Deprivation Week should be no problem.
 
- 
+
 
 But ignoring Minecraft for a week will certainly be a change for me.
 
- 
+
 
 I plan to log on for one moment tomorrow morning when everyone is on to say BYE for a WEEK!

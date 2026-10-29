@@ -29,42 +29,42 @@ RELEASE: 00-134
 
 ATLANTIS LIFTOFF SET FOR SEPT. 8 TO OPEN DOORS TO NEW STATION MODULE
 
-     Following a thorough review of mission preparations 
-yesterday, the launch of Space Shuttle Atlantis has been set for 
-Sept. 8, on a mission that will open the doors to the 
+     Following a thorough review of mission preparations
+yesterday, the launch of Space Shuttle Atlantis has been set for
+Sept. 8, on a mission that will open the doors to the
 International Space Station's new living quarters.
 
-     "This mission begins a series of Station assembly flights 
-aboard the Shuttle during the next year that will be as complex 
-and challenging as anything NASA has ever done, including landing 
-a man on the moon," Space Shuttle Program Manager Ron Dittemore 
-said. "I believe these flights will be as impressive as they are 
-complex. The team has done a fantastic job preparing Atlantis for 
+     "This mission begins a series of Station assembly flights
+aboard the Shuttle during the next year that will be as complex
+and challenging as anything NASA has ever done, including landing
+a man on the moon," Space Shuttle Program Manager Ron Dittemore
+said. "I believe these flights will be as impressive as they are
+complex. The team has done a fantastic job preparing Atlantis for
 this mission, and we're excited and ready to get started."
 
-     Atlantis's liftoff from the Kennedy Space Center on Shuttle 
-mission STS-106 will be targeted for 8:45 a.m. EDT at the opening 
-of a launch window that will be less than five minutes long. 
-During the planned 11-day flight, the crew of seven will spend a 
-week docked to the International Space Station, unloading more 
-than one and a half tons of equipment and supplies from both the 
-Shuttle and from a docked Russian Progress cargo craft. 
+     Atlantis's liftoff from the Kennedy Space Center on Shuttle
+mission STS-106 will be targeted for 8:45 a.m. EDT at the opening
+of a launch window that will be less than five minutes long.
+During the planned 11-day flight, the crew of seven will spend a
+week docked to the International Space Station, unloading more
+than one and a half tons of equipment and supplies from both the
+Shuttle and from a docked Russian Progress cargo craft.
 
-     This mission will set the stage for the arrival of the first 
-resident Station crew, planned to launch and begin living aboard 
+     This mission will set the stage for the arrival of the first
+resident Station crew, planned to launch and begin living aboard
 the outpost later this year.
 
-     Terry Wilcutt will command Atlantis and Scott D. Altman will 
-be shuttle's pilot. The crew also includes mission specialists 
-Edward T. Lu, Richard A. Mastracchio and Daniel C. Burbank. 
-Atlantis will also carry two cosmonauts from the Russian Space 
-Agency who will server as mission specialists, Yuri I. Malenchenko 
-and Dr. Boris V. Morukov. 
+     Terry Wilcutt will command Atlantis and Scott D. Altman will
+be shuttle's pilot. The crew also includes mission specialists
+Edward T. Lu, Richard A. Mastracchio and Daniel C. Burbank.
+Atlantis will also carry two cosmonauts from the Russian Space
+Agency who will server as mission specialists, Yuri I. Malenchenko
+and Dr. Boris V. Morukov.
 
-While Atlantis is docked to the Station, Lu and Malenchenko 
+While Atlantis is docked to the Station, Lu and Malenchenko
 are scheduled to perform one spacewalk to conduct assembly tasks.
 
-            Atlantis is scheduled to land at the Kennedy Space 
+            Atlantis is scheduled to land at the Kennedy Space
 Center at about 4 a.m. EDT Sept. 19.
 
                                 - end -

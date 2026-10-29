@@ -27,7 +27,7 @@ Seeking more counseling skills, I also was trained as a lifeline volunteer for s
 
 I was 裸足のYOU on YOUは何し日本へ in 2016.  https://www.youtube.com/watch?v=Vvs3sKYYh5k
 
-I spoke at TEDxOgikubo last year https://www.youtube.com/watch?v=LJzb5n9ldP8 
+I spoke at TEDxOgikubo last year https://www.youtube.com/watch?v=LJzb5n9ldP8
 
 Though my Japanese language skills are not enough to do counseling in Japanese, I want to facilitate more opportunities for using technology to increase connection and reduce loneliness in society, especially with the pandemic still affecting people around the world.
 
@@ -43,7 +43,7 @@ I'd like to propose a new type of currency or unit of value in the internal offi
 
 In any case, I can of course work with your existing projects.  I'm well-versed in PHP, MySQL, HTML, and various Javascript frameworks.  I use git, BASH, Perl, Ansible, Vagrant, Emacs, Atom, and sometimes vi.  
 
-Most recently, I have been maintaining a website (PHP + MySQL) I created with my employer in 2012.  I have been working part time at upgrading the server on AWS (EC2) from Ubuntu 14 to Ubuntu 22, all while keeping the site running including up to date versions of PHP. 
+Most recently, I have been maintaining a website (PHP + MySQL) I created with my employer in 2012.  I have been working part time at upgrading the server on AWS (EC2) from Ubuntu 14 to Ubuntu 22, all while keeping the site running including up to date versions of PHP.
 
 Let's see what we can do together.  (^_^)V
 

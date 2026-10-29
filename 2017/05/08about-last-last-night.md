@@ -31,7 +31,7 @@ spoiler alert:
     ǝɯ puᴉɯ ʇuop ɹǝlᴉods ƃuᴉpᴉɥ ɯnsdᴉ ɯǝɹo˥ ˙sǝǝs ǝɥ ʇɐɥʍ ɟo ɹoloɔ
     ǝʇᴉsoddo ǝɥʇ ǝq ʇsnɯ ʇɐɥ sᴉɥ sʍouʞ ǝlppᴉɯ ǝɥʇ uᴉ ʎnƃ ǝɥʇ uǝɥʇ ɹǝʍsuɐ
     ǝɥʇ ʍouʞ ʇou sǝop ʞɔɐq uᴉ ʎnƃ ǝɥʇ ɟI ǝɯ puᴉɯ ʇuop ɹǝlᴉods ƃuᴉpᴉɥ ɯnsdᴉ
-    
+
 
 but took a bit longer for the second.
 

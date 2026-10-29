@@ -16,13 +16,13 @@ There were flowers and such
 [![2021 may 13 neat white flowers](//b.robnugen.com/journal/2021/2021/may/thumbs/2021_may_13_neat_white_flowers.jpeg)](//b.robnugen.com/journal/2021/2021/may/2021_may_13_neat_white_flowers.jpeg)
 [![2021 may 13 francois near red tulip](//b.robnugen.com/journal/2021/2021/may/thumbs/2021_may_13_francois_near_red_tulip.jpeg)](//b.robnugen.com/journal/2021/2021/may/2021_may_13_francois_near_red_tulip.jpeg)
 
-We rode the gondola up the mountain. Very few people around, so I took a picture of François not getting on the gondola. 
+We rode the gondola up the mountain. Very few people around, so I took a picture of François not getting on the gondola.
 
 [![2021 may 13 francois was scared](//b.robnugen.com/journal/2021/2021/may/thumbs/2021_may_13_francois_was_scared.jpeg)](//b.robnugen.com/journal/2021/2021/may/2021_may_13_francois_was_scared.jpeg)
 
 Don't worry; I got him on.
 
-[![2021 may 13 francois on sanroku gondola](//b.robnugen.com/journal/2021/2021/may/thumbs/2021_may_13_francois_on_sanroku_gondola.jpeg)](//b.robnugen.com/journal/2021/2021/may/2021_may_13_francois_on_sanroku_gondola.jpeg)          
+[![2021 may 13 francois on sanroku gondola](//b.robnugen.com/journal/2021/2021/may/thumbs/2021_may_13_francois_on_sanroku_gondola.jpeg)](//b.robnugen.com/journal/2021/2021/may/2021_may_13_francois_on_sanroku_gondola.jpeg)  
 
 Quite a nice view while looking out from the mountain.
 

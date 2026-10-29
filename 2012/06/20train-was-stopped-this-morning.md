@@ -11,6 +11,6 @@ tags: [ "journal" ]
 
 [See the full gallery on Posterous](https://stream.robnugen.com/train-was-stopped-this-morning)
 
-I forgot to upload these pics when they were relevant. 
+I forgot to upload these pics when they were relevant.
 
 Lin and I ate at a cafe featured in the line "fresh like a box of ..." by Beastie Boys while waiting for the crowds to pass.

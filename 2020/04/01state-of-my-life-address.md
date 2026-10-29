@@ -11,7 +11,7 @@ draft: false
 Adapted from mini book ONE:
 
 01. Working on AB
-02. Using SB-hosted Redmine to track hours 
+02. Using SB-hosted Redmine to track hours
 03. Working on ConSwi
 04. Lessons with Yuna (every other Saturday?)
 05. Taking to Celine about Jason Winter tea EOS (MLM)
@@ -23,7 +23,7 @@ Adapted from mini book ONE:
 11. Doing MT3
 12. Talking to Mohamed
 13. 8 peeps at recent barefoot walking meditation
-14. I've been talking to Robert Golden 
+14. I've been talking to Robert Golden
 15. I started creating a soak-through art piece using 100 pages of A4 newsprint paper
 16. Lin and I doing well
 17. Trying to do Bold Life Brotherhood

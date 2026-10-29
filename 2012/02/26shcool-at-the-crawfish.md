@@ -11,6 +11,6 @@ tags: [ "journal" ]
 
 [See the full gallery on Posterous](https://stream.robnugen.com/shcool-at-the-crawfish)
 
-Kevin and Lyle each performed for the last (and first) time in the jazz quartet Shcool, pronounced like school, but spelled like it's cool. 
+Kevin and Lyle each performed for the last (and first) time in the jazz quartet Shcool, pronounced like school, but spelled like it's cool.
 
 We sat in the back with Demi and her housemate Kiyo.

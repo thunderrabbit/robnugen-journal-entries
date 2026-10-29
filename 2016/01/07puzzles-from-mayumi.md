@@ -11,13 +11,13 @@ Extracted from emails to Mayumi:
 
     At this point, I've only solved one puzzle.  I tried briefly to solve
     one of the others, but was unable to do so after a few minutes.
-    
+
     But, more importantly, yes you guys certainly made great progress on
     the one I finished for you!  It's a variant of one of my grandad's old
     puzzles.  In a way, it's mathematically a variant of the round black
     puzzle I showed you (with pegs that move in and out).
-    
-    
+
+
     Regarding the puzzle, actually that one is the most difficult!  I was
     able to solve the long chain puzzle in about 3 minutes, and I solved
     the butterfly-looking puzzle in about 6 minutes.  The last one I still

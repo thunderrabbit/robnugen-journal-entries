@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2017-10-13T18:19:03+09:00
 ---
 
-## 18:19 Friday 13 October 2017 
+## 18:19 Friday 13 October 2017
 
 Virtual Group was good today.  I got some feedback on how to better
 handle a man joining in the middle of the call.  Essentially, he knew

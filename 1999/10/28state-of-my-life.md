@@ -19,7 +19,7 @@ date: 1999-10-28
 
 <p>USM is Univeristy of Santa Monica, where he received his masters in Spiritual Psycology with and emphasis in consciousness, health and healing. I have felt myself pulled in that direction-ish.</li>
 
-<p><li>I was dating someone until... Monday night I guess.  Now we are broken up.  It didn't happen in one swoop; she was distant over the weekend, I called her on it, and she said "I have 
+<p><li>I was dating someone until... Monday night I guess.  Now we are broken up.  It didn't happen in one swoop; she was distant over the weekend, I called her on it, and she said "I have
 been feeling weird about us lately, like I'm not getting what I need from our relationship."
 
 <p>I was basically, "okay," and "I'm glad you told me."  When I said, "maybe we should just be friends," she said "okay" as soon as I uttered "friends."  Fair enough.

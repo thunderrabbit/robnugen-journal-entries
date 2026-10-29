@@ -12,14 +12,14 @@ My build script was like this:
     #!/bin/bash
     echo "pushing"
     git push
-    
+
     echo "pulling"
     cd ~/journal-hugo
     git submodule foreach git pull
-    
+
     echo "building"
     hugo
-    
+
     echo "deploying"
     rsync -r public/* newrobnugen:/home/nrnc/new.robnugen.com
     rsync public/.* newrobnugen:/home/nrnc/new.robnugen.com

@@ -12,8 +12,8 @@ tags: [ "news" ]
 
 > Friending has subsumed the ol' Rolodex. Granted, it's often convenient to have all of your contacts under one roof. But the great thing about the Rolodex was that it never talked back, it didn't throw virtual octopi or make you take movie quizzes, and it never, ever poked you.
 
-  
-  
+
+
 
 
 Excellent (and funny!) description of what's happened to the word "friend" in the online world...

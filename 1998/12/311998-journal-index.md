@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 1998-12-31
 ---
 
-<BODY BGCOLOR="00CCFF" TEXT ="000000" LINK ="0000FF" 
+<BODY BGCOLOR="00CCFF" TEXT ="000000" LINK ="0000FF"
 ALINK ="FF0000" VLINK ="FF00FF">
 <p>
 
@@ -13,7 +13,7 @@ ALINK ="FF0000" VLINK ="FF00FF">
 
 <p>
 <center>
-<a href=../1997/index.html>1997 index</a> 
+<a href=../1997/index.html>1997 index</a>
  -- <a href="/cgi-local/journal.pl?date=1999">1999 index</a>
 
 </center>
@@ -146,7 +146,7 @@ ALINK ="FF0000" VLINK ="FF00FF">
 
 <p><h3>June 1998</h3>
 <ul>
-<!-- 
+<!--
 <li><a href=></a></li>
 <li><a href=></a></li>
 -->
@@ -193,7 +193,7 @@ ALINK ="FF0000" VLINK ="FF00FF">
 
 <h3>April 1998</h3>
 <ul>
-<!-- 
+<!--
 <li><a href=></a></li>
 -->
 <li>22 April 1998<a href=lry_ninfas.html> LRY dinner at Ninfa's!</a></li>

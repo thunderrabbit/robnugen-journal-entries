@@ -5,7 +5,7 @@ date: '2021-04-07T14:59:39+09:00'
 ---
 
     "90% of injuries happen within a mile of home"
-    
+
     - they
 
 After [walking around outside barefoot for nearly two hours on concrete, asphalt, and forest, over rocks, grates, sticks, steps..](https://www.reddit.com/rpan/r/whereintheworld/mlli0b) (1)

@@ -39,6 +39,6 @@ Some of my time wasting is due to not taking care of myself when Lin is working 
 
 Sometimes I miss having a partner with whom I can speak easily.  Lin and I use English, but she's self taught, and has a few rough spots.  I feel sadness/anger if I judge I'm not being heard, so when she can't understand me, it's a nice opportunity for me to be aware of those feelings.
 
-On the golden side, I've started studying Japanese to help a bit with communication, though it's a challenging language (as you may know)!   
+On the golden side, I've started studying Japanese to help a bit with communication, though it's a challenging language (as you may know)!  
 
 Studying Japanese also helps me feel joy (what's the opposite of shame?); I feel/felt some shame each time I tell people how long I've been in Japan (12 years) and how terrible my Japanese language still is (but getting better step by step).

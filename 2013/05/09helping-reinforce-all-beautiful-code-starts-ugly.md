@@ -12,32 +12,32 @@ tags: [ "journal", "programming" ]
 "[All beautiful code starts ugly](https://nbsoftsolutions.com/blog/all-beautiful-code-starts-ugly)" was my mantra today as I hacked in some changes to the abstract search class.  It now features a new function
 
 
-    
-    
+
+
         public function setRidiculousStationJoin($bool = true) {
             $this->ridiculous_station_join = $bool;
         }
-    
+
 
 
 
 The search() function went from this
 
 
-    
-    
+
+
          protected function search($search_text = "", $limit = 0, $page_num = 1){
              return $this->runSearchLimitOffset($search_text, $limit, $limit * (($page_num > 0) ? $page_num - 1 : 0));
          }
-    
+
 
 
 
 to this
 
 
-    
-    
+
+
          protected function search($search_text = "", $limit = 0, $page_num = 1){
              if($this->ridiculous_station_join) {
                  $this->creating_temp_table = true;
@@ -49,7 +49,7 @@ to this
              }
              return $this->runSearchLimitOffset($search_text, $limit, $limit * (($page_num > 0) ? $page_num - 1 : 0));
         }
-    
+
 
 
 
@@ -63,7 +63,7 @@ My sincere hope is one of two things:
 
 2) I can clean up the code, or at least make it a bit more generalized
 
-- - - - 
+- - - -
 
 (*) The request is to add another option to the select that tells what sort order to show results.
 

@@ -21,11 +21,11 @@ Version 2 is clearly superior to version 1.  I gave it a complex query and it re
 
 In my local Quick directory:
 
- 💬 User prompt 👇 
+ 💬 User prompt 👇
 
 <p class="note">Can you allow entries to be saved to disk without immediately committing them in their git repo?  Then add a separate button near the Deploy button to allow committing entries.</p>
 
- 🤖 Plandex reply 👇 
+ 🤖 Plandex reply 👇
 
 ::: ai plandex
 
@@ -157,7 +157,7 @@ your files.
 
 Wow that's a lot!  And it looks great!  But I wanted to take things step by step.  I know part of its selling points include handling multi-step processes, but given that it's my first time to play with it, I asked it to just do the first part.
 
- 💬 User prompt 👇 
+ 💬 User prompt 👇
 
 <p class="note">First please just add a way to see the output of `git status` or something like "All changes committed."</p>
 
@@ -165,7 +165,7 @@ It did the first step first, but then just rolled on through the steps.
 
 On the plus side, it has an easy interface for looking over the changes, much like a code review.  I saw that it killed the most important bit of code and replaced it with boilerplate.  Hmmm better fix that.
 
- 💬 User prompt 👇 
+ 💬 User prompt 👇
 
 <p class="note">Okay, I didn't explain this, but in public/poster/index.php the NextStoryWord is
 literally the most important part of the git commit.  This is the commit message
@@ -173,13 +173,13 @@ and one hundred percent aabsolutely MUST be used to determine what git message
 to use.  The reason is complex, and I'm happy to explain it after you restore
 the NextStoryWord code and use it to determine the git message.
 
- 🤖 Plandex reply 👇 
+ 🤖 Plandex reply 👇
 
 ::: ai plandex
 
 I understand that I need to restore the NextStoryWord functionality in the git commit process. This is a critical component that was removed during our modifications to separate saving from committing. The NextStoryWord class appears to be used to generate commit messages, and according to you, it's absolutely essential to the system.
 
-Looking at the codebase, I need to examine how NextStoryWord was previously used in the poster/index.php file and then restore this functionality in our new commit process. I'll need to look at the NextStoryWord class implementation and how it was integrated with the git commit process before our changes.                    
+Looking at the codebase, I need to examine how NextStoryWord was previously used in the poster/index.php file and then restore this functionality in our new commit process. I'll need to look at the NextStoryWord class implementation and how it was integrated with the git commit process before our changes.  
 
 :::
 

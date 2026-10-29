@@ -11,13 +11,13 @@ date: 2016-11-30T22:19:06+09:00
 # ✔ Put it in envelope
 # ✔ Address it
 # ~~Add stamp~~
-# ✔ Set alarm to remind me to send it tomorrow 
+# ✔ Set alarm to remind me to send it tomorrow
 # ✔ Email dentist link to PK presentation
 # ✔ Add file to Krimms.com
 # ✔ Ask for image for Krimms.com
 # ✔ Run elastic beanstalk creation script
 # ~~Get support if needed~~
-# Point nosedowns source to new eb instance 
+# Point nosedowns source to new eb instance
 # See if they go through to mlab
 # ✔ Ask Fred about diary
 # ✔ Write in diary

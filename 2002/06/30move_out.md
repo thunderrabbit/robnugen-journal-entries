@@ -91,7 +91,7 @@ wealthful life without a 40 hour per week job.</p>
 <p>Old news:</p>
 
 <p><!-- begin table of pros and cons -->
-<table border=1> 
+<table border=1>
 <tr><td align=center>Pros</td><td align=center>Cons</td></tr>
 <tr><td>
 <!-- Pros start here -->

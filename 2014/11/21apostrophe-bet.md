@@ -16,7 +16,7 @@ I came across this prediction:
 ["By 2030, the apostrophe will have functionally disappeared from American English."](https://longbets.org/658/).
 To that I say "ha!"
 
-I began to compose a dorky reply, 
+I began to compose a dorky reply,
 
     A post positing
     a post apostrophe society

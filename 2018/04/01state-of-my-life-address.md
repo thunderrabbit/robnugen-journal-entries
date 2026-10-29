@@ -46,7 +46,7 @@ date: 2018-04-01T15:25:24+09:00
     with it.  For now it is all volunteer.
 11. And volunteering a couple times a month on
     [7 Cups](https://www.7cups.com/), etc.
-12. I just received in the mail 
+12. I just received in the mail
     _Sacred Circles_ by Robin Deen Carnes and Sally Craig,
     _The Gifts of Imperfection_ by Brené Brown, and
 	_Planet on Purpose_ by Brandon Peele.

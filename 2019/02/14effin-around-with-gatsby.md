@@ -34,8 +34,8 @@ making the marble track itself.
     npm WARN deprecated browserslist@1.7.7: Browserslist 2 could fail on reading Browserslist >3.0 config used in other tools.
     npm WARN deprecated gulp-util@3.0.8: gulp-util is deprecated - replace it, following the guidelines at https://medium.com/gulpjs/gulp-util-ca3b1f9f9ac5
     error Command failed: npm install
-    
-    
+
+
       Error: Command failed: npm installvagrant@sb:~$ gatsby new my-project https://github.com/davad/gatsby-hampton-theme
     gatsby: command not found
     vagrant@sb:~$ npx gatsby new davad https://github.com/davad/gatsby-hampton-theme
@@ -55,8 +55,8 @@ making the marble track itself.
     npm WARN deprecated browserslist@1.7.7: Browserslist 2 could fail on reading Browserslist >3.0 config used in other tools.
     npm WARN deprecated gulp-util@3.0.8: gulp-util is deprecated - replace it, following the guidelines at https://medium.com/gulpjs/gulp-util-ca3b1f9f9ac5
     error Command failed: npm install
-    
-    
+
+
     Error: Command failed: npm install
 
 

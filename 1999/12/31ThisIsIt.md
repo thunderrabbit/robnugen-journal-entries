@@ -35,7 +35,7 @@ a few hours but yeah!
 
 <p><hr>
 
-<p>At work today I installed Win NT 4.0 into one of the three machines. 
+<p>At work today I installed Win NT 4.0 into one of the three machines.
 Had a little bit of frustration, but I think I got it all down now.
 
 <p>First problem was I couldn't get it to recognize the new DMA66 IDE
@@ -51,7 +51,7 @@ Administrator.  Cool.
 
 <p>One down, three to go!
 
-<p>- - - - 
+<p>- - - -
 
 <p>Fred and I are now at Wende's, about to go play on his unicycle and
 stuff.  Y2K downtown on skates tonight!!!!

@@ -9,4 +9,4 @@ tags: [ "journal", "movies" ]
 
 Lin and I watched the Kill Bills today.  She enjoys movies a lot; one of her ways of enjoying them is falling asleep in front of them.  Apparently she had seen the opening scene of Kill Bill, but didn't remember any of the rest.
 
-I prodded her awake as needed and she quite enjoyed the movies! 
+I prodded her awake as needed and she quite enjoyed the movies!

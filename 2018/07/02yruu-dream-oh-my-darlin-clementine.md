@@ -32,6 +32,6 @@ a continuous stream of such made up lyrics.
 We went down to the stage, but it was roped off for cleaning. I asked
 the person if we could use it, but was denied.  We would have to come
 back in 30 minutes.  So we all lined up and started a freestyle dance
-while in line when 
+while in line when
 </p>
 my alarm woke me up.

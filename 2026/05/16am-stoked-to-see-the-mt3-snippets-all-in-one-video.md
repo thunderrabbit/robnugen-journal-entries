@@ -21,8 +21,8 @@ This morning when I woke up, I got to watch the full length of the frames taken 
 
 Here is what I wrote to the agent after our success:
 
-Can you write a blog entry about this?  Use the blog format at 
-`/home/thunderrabbit/barefoot_rob_master/content/blog` 
+Can you write a blog entry about this?  Use the blog format at
+`/home/thunderrabbit/barefoot_rob_master/content/blog`
 I want to capture in your voice and mine how we discussed options and created issues (and sub issues) then produce the longest existing MT3 video of the workers building the track that has ever existed, all without touching Dragonframe GUI, just its output files.
-I want to frame the ending with how helpful AI agents can be 
+I want to frame the ending with how helpful AI agents can be
 if used well, given clear guidance, and proper tooling.

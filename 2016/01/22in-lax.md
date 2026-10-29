@@ -26,7 +26,7 @@ Email to ferp:
     slowly through customs, safely and slowly through security, and
     grabbing a quick bite during our 3 hour layover of which less than
     an hour remains.
-    
+
     We are due to arrive in Sandy Eigo at 1:47pm local time in
     America, the land of the free and home of the litigation!
 

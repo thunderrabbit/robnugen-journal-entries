@@ -14,10 +14,10 @@ Curious about the drip chamber, I turned it sideways, inadvertently sending an a
 
 https://b.robnugen.com/journal/2025/surgery/2025_aug_13_don't_tip_drip_chamber_1000.jpeg
 
-The most unexpected part: 
+The most unexpected part:
 The anaesthesiologist said in Japanese "okay, I'm beginning to inject the medicine.." 薬始まります (or something), I thought "okay, I wonder when.. "  and then the surgery was done!  
 
-There didn't seem to be any passage of time.  It was weird amazing 😳 
+There didn't seem to be any passage of time.  It was weird amazing 😳
 
 But apparently they did it!
 
@@ -38,7 +38,7 @@ One of the nurses elevated my lower arm, so it was hard to use my phone.  I gues
 
 https://b.robnugen.com/journal/2025/surgery/2025_aug_13_keep_arm_elevated_1000.jpeg
 
-I couldn't sleep at first, but I rested without falling asleep and then I noticed the sound from the oxygen tube stopped for a second then came back on. 
+I couldn't sleep at first, but I rested without falling asleep and then I noticed the sound from the oxygen tube stopped for a second then came back on.
 
 It's coming from a supply in the wall, so I'm 99.99% sure it was my ears falling asleep for little micro naps.
 

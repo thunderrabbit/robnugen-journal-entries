@@ -15,12 +15,12 @@ Date:
         too late.
 
 
-the door code has been changed and the stickers have all been removed 
+the door code has been changed and the stickers have all been removed
 from the outside door.  it's over.  and we've lost.
 
 
 i'm up at the station now and it's not a pretty picture. either we do
-something now or not at all, but if we do anything it must be 
+something now or not at all, but if we do anything it must be
 coordinated
 and immediate.
 </pre>
@@ -30,7 +30,7 @@ and immediate.
 <pre>
 ACTION ALERT
 
-O.K.  It's time to take action, everybody.  Here's Camacho's contact 
+O.K.  It's time to take action, everybody.  Here's Camacho's contact
 info.
 
 name: Camacho, Dr Zenaido
@@ -39,7 +39,7 @@ office: 101 Lovett Hall
 phone: 713-348-4996
 email: <a href="mailto:vpsa@rice.edu">vpsa@rice.edu</a>
 
-As many people as possible should email or phone Camacho's office, 
+As many people as possible should email or phone Camacho's office,
 now!...
 express your opinion about this indefinite suspension of KTRU!
 
@@ -59,8 +59,8 @@ the Rice University women's basketball game.  This
 demonstrated a lack of respect for fellow students
 on the basketball team, for a Rice student activity
 and for the listeners.  It demonstrated a lack of
-responsibility in the use of university-owned broadcast 
-facilities.  And  it deliberately subverted programming 
+responsibility in the use of university-owned broadcast
+facilities.  And  it deliberately subverted programming
 approved by the responsible  university parties,
 including the KTRU advisory committee and the Vice
 President for Student Affairs, to whom authority to
@@ -69,15 +69,15 @@ Board of  Trustees, the owners of the FCC license.
 
 As a consequence, the university is reorganizing the
 operation of KTRU. During this reorganization,
-operation by the current volunteers is suspended 
+operation by the current volunteers is suspended
 from 8 a.m., Thursday, November 30 until further
 notice.
 
 Dr. Hutchinson and I have accepted an invitation from
-Johnny to attend a meeting of the KTRU volunteers at 
+Johnny to attend a meeting of the KTRU volunteers at
 6 p.m. this evening.  The decision to reorganize the
 operation of the station is final.  The discussion at
-this point should be about the opportunities for 
+this point should be about the opportunities for
 tudent participation in the reorganized KTRU.  We
 remain committed to the concept of a university-owned,
 student-operated radio station with appropriate lines
@@ -90,7 +90,7 @@ Vice President for Student Affairs
 
 <p>Wow, I say.  Wow.  Interesting that I had already
 mentioned that I might not apply again for the winter
-shift.  Then this morning I decided I would apply. 
+shift.  Then this morning I decided I would apply.
 Now I see this.  I'll still apply, just in case I get
 to DJ more.
 

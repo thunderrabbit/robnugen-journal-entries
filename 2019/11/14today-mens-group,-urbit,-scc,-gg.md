@@ -21,7 +21,7 @@ to be `~zod`, which is galaxy number 0
 
     |=  a=*
     `@ub`a
-     
+
 But when I run it via `+aura 0` it fails as below:
 
     > |commit %sandbox

@@ -33,7 +33,7 @@ import process passed its initial checks and then crashed after a few minutes.
       File "/home/thunderrabbit/minetest/2022feb18minecraft/mcimport/block.py", line 174, in from_section
         self.blocks = self.reverse_X_axis(section["Blocks"])
     KeyError: 'Blocks'
-    
+
 I tracked down the line and added some `print` statements to prove
 that it visited the same, ahem, blocks of code maybe a thousand times
 before crashing with `KeyError: 'Blocks'`

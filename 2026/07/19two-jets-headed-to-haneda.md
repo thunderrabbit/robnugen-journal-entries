@@ -14,6 +14,6 @@ At 0.5x, I could see two jets at 16:15 at these coordinates.
 
 About a year ago I noticed the jets consistently flying over Yoyogi Park in exactly one of two corridors.
 
-I let the mystery percolate for a few months and eventually looked up the situation: only in summer afternoons and only when the winds are right, jets fly over Tokyo to land in Haneda airport. With the magic of LLMs using some Python to analyze pixels and the law of cosines, an LLM determine the planes are about 2 km apart. 
+I let the mystery percolate for a few months and eventually looked up the situation: only in summer afternoons and only when the winds are right, jets fly over Tokyo to land in Haneda airport. With the magic of LLMs using some Python to analyze pixels and the law of cosines, an LLM determine the planes are about 2 km apart.
 
 Pretty good; the runways are 1.7 km apart.

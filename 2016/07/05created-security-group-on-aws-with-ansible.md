@@ -61,7 +61,7 @@ get *something* working, my `playbook.yml`
                     to_port: 443
                     cidr_ip: 0.0.0.0/0
           register: basic_firewall
-    
+
 Can be run with `ansible-playbook playbook.yml`
 
 The next step was to add a couple of variables:

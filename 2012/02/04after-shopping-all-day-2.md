@@ -9,5 +9,5 @@ tags: [ "journal" ]
 
 [![Media_httpaudioboofmb_amhjz](https://getfile3.posterous.com/getfile/files.posterous.com/thunderrabbit/GymikmDngscJgdGdDwxodbcxtlhEftlAmrIkgEcCkdhsigBEFAAvvmesIpiA/media_httpaudioboofmb_AmHJz.jpg.scaled500.jpg)](https://getfile3.posterous.com/getfile/files.posterous.com/thunderrabbit/GymikmDngscJgdGdDwxodbcxtlhEftlAmrIkgEcCkdhsigBEFAAvvmesIpiA/media_httpaudioboofmb_AmHJz.jpg.scaled1000.jpg)
 
-  
+
 [After shopping all day (mp3)](https://audioboo.fm/boos/653350-after-shopping-all-day.mp3?keyed=true&source=embed)

@@ -51,7 +51,7 @@ effect in my life.
 
 Here's one more:  when we were in London, and I hurt my ankle, I
 stuffed my sadness all day (without realizing it).  At the end of the
-night, I hobbled upstairs to Graham's room and just bawled on his bed. 
+night, I hobbled upstairs to Graham's room and just bawled on his bed.
 I was so distraught over having apparently negatively affected your and
 Tanja's day (*).  I believe at that moment, I would have been willing
 to cry in front of you, but not as much in front of Tanja.  The real

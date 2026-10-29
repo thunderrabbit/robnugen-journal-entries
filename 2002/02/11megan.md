@@ -6,11 +6,11 @@ date: 2002-02-11
 ---
 
 <pre>
-Date: Mon, 11 Feb 2002 23:43:59 -0800 (PST) 
+Date: Mon, 11 Feb 2002 23:43:59 -0800 (PST)
 From: "Rob Nugen"
-Subject: chocolate crush 
+Subject: chocolate crush
 To: megan
- 
+
 Hi Megan
 
 I don't have a TV, but when I'm at my friend Dude's

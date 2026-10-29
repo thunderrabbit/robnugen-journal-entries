@@ -6,7 +6,7 @@ date: 2001-12-23
 ---
 
 Date: Sun, 23 Dec 2001 19:39:12 -0800 (PST)
-From: Bryn 
+From: Bryn
 Subject: California.
 To: thunderrabbit
 
@@ -35,7 +35,7 @@ gas station?  yeah, i've beAn to a lot of his book
 signings, our paths cross a lot, though he was never
 in class cause he was always out doing gymnastics
 meets.  after he got back from isreal he said, 'even
-the street cleaners are jewish!!'he was a funny guy." 
+the street cleaners are jewish!!'he was a funny guy."
 
 so!  what a small world it is!  yesterday i finish
 reading this amazing book and today my aunt has gone

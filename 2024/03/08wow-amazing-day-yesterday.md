@@ -44,7 +44,7 @@ a subtly sticky residue on my tooth.
 - - -
 
 Authentic Social Night is a monthly (?) event organized by Simon and
-Laura.  Great to meet lots of great people last night, including Gavin, Mauricio, 
+Laura.  Great to meet lots of great people last night, including Gavin, Mauricio,
 Simon, Laura, Lindsey, Antwon, Bridget, Katharine (sp), Maria.
 
 At the entrance a table offered delicious vegan food, including

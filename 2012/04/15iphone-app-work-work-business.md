@@ -9,4 +9,4 @@ tags: [ "journal" ]
 
 I was going to say "work work work" but it's business as well; I'm part owner.  Spent all Saturday and most of today figuring out how to make CakePHP models work with my many tables and then spent the rest of today making a simple video playing app that will stream different movies when different buttons are clicked
 
- 
+

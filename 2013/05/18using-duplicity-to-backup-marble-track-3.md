@@ -39,7 +39,7 @@ Now back on track, but you should use [latest version of Duplicity](https://dup
 
 Now save the following into ~/.boto
 
-    
+
     [Credentials]
     aws_access_key_id = xxxxxxxx your access key xxxxxxxxx
     aws_secret_access_key = xxxxxxxxxxxx your secret key here xxxxxxxxxxxxxxx
@@ -51,7 +51,7 @@ Yay ready to go
 
 duplicity spooked me at first when it responded with this:
 
-    
+
     Local and Remote metadata are synchronized, no sync needed.
     Last full backup date: none
 

@@ -36,16 +36,16 @@ people who can teach between these languages.
 
     Italian, French, Spanish Just look at the similarities here
     https://ielanguages.com/romance_phrases.html
-    
+
     In my case, I've basically given up learning Japanese; the grammar is
     backwards, the writing is insane, and a great amount of cultural
     knowledge is required just to figure out what's going on.
-    
+
     My American English framework (and sheer laziness) are a poor starting
     place for learning Japanese.
-    
+
     Hmm I seem to have veered off topic.
-    
+
     So the mythical magical teacher who can lead a horse to water *and*
     make him drink is darn near impossible to find.
 

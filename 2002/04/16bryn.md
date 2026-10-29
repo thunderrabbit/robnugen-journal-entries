@@ -8,9 +8,9 @@ date: 2002-04-16
 
 Date: Tue, 16 Apr 2002 19:06:05 -0700 (PDT)
 From: Bryn
-To: rob 
+To: rob
 
-Rob, 
+Rob,
 
 reading your email i cried again.  i saw kris today and to be able to
 reflect on old rally memories is amazing, but he doesn't knwo anything
@@ -43,4 +43,4 @@ i love you.
 
 smile,
 
-me 
+me

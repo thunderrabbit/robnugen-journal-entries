@@ -18,7 +18,7 @@ date: 2018-04-26T09:00:16+09:00
 キャッシュレスは働く人が足りない店などで役に立ちます
 
 会議の時、事務所ではなくてスカイープやズームなどで会話することを「イーミー」と言
-います。（かな。。） Unlike going to an office, meetings 
+います。（かな。。） Unlike going to an office, meetings
 held by Skype or Zoom are called E-mee(tings).
 
 イーミーは働く人がパンツで会議するで役に立ちます。  E-mees are good

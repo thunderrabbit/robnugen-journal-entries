@@ -17,25 +17,25 @@ I signed up for 30 days of Canva pro (so it can auto-remove background for me)..
 Jess quickly gave feedback on the banner:
 
     Hi Rob,
-    
+
     Nice attempt.
-    
+
     Here are my thoughts in making it better below:
-    
+
     1. Remove countries (not relevant)
 
     2. The event title should be the same font, are you able to find a
        different font that's similar to the Men's Circle banner you created?
-    3. You need to add 
-    
-    Date: Saturday 15th June 2024 
-    Time: 5pm-6:30pm 
+    3. You need to add
+
+    Date: Saturday 15th June 2024
+    Time: 5pm-6:30pm
     Venue: The Pink Cow, Akasaka
-    
+
     4. Remove faded background lines
-    
+
     5. What does it look like if you make the font white?
-    
+
 
 I made all the changes, except I'll keep the time in Japanese format:
 17:00 - 18:30

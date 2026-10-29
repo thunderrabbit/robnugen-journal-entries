@@ -9,7 +9,7 @@ title: 'upcoming changes to my site'
 ---
 Hmm I just noticed the CSS for dreams is broken.  I woulda thought that woulda been something I woulda thought of when I updated to the repo barefoot_rob.
 
-I created an issue, 
+I created an issue,
 
 https://github.com/thunderrabbit/barefoot_rob/issues/1
 

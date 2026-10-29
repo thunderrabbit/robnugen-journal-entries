@@ -13,10 +13,10 @@ I went out there to see them.
 I say "helping" because I was an unplanned uninvited guest.  But Alexis
 was happy to have me join.
 
-Philip Gayle is just a solo artist.  He had 2 little mandolins and would 
+Philip Gayle is just a solo artist.  He had 2 little mandolins and would
 make up songs:
 "I call this one 'I have too much sugar in my chloaca'"  and just scribble
-and scratch the strings, for a full five minutes, including licking his 
+and scratch the strings, for a full five minutes, including licking his
 fingers and rubbing/squeaking the wooden surface of the mandolin...
 crazy!
 

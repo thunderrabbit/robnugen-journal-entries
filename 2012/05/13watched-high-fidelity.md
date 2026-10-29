@@ -9,6 +9,6 @@ tags: [ "journal" ]
 
 Lin and I just sat on the couch together while watching High Fidelity, starring Jack Black and the Cusacks.  (I love that they're siblings.)  I had always wanted to see it but hadn't until tonight.  She still hasn't seen it due to her ability to sleep through movies on the couch with me.
 
- 
+
 
 I really liked it!  John Cusack's character, Rob had a similar transformation as me, Rob.  Basically just realized that imaginary relationships, if manifested, would never be as good as the one we Robs have right now.

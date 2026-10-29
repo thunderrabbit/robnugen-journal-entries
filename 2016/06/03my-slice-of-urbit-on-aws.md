@@ -29,4 +29,4 @@ Starting with Ubuntu 14.04 on a t2.micro (free! ?):
 
 something something I think that was all.
 
-	
+

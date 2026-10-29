@@ -15,7 +15,7 @@ the time to the `date:` field in the frontmatter, and set
 ```
 ;;; hakyll.el --- Convenience functions for working with Hakyll.
 ;;
-;;; Commentary:      
+;;; Commentary:  
 ;; Convenience functions for working with Hakyll.
 
 ;;; Code:

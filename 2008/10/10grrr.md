@@ -10,7 +10,7 @@ tags: [ "news", "terror" ]
 [Afghanistan Facing "Downward Spiral", National Intelligence Estimate Draft Report Highlights Afghanistan's Accelerated Deterioration - CBS News](https://www.cbsnews.com/stories/2008/10/09/terror/main4512442.shtml?source=RSSattr=HOME_4512442)
 
 
-> The nearly completed National Intelligence Estimate, the work of 16 intelligence agencies, says Afghanistan's deterioration has accelerated alarmingly in past two months. Bush administration officials say privately that Afghanistan is now the single most pressing security threat in the fight against terrorism. 
+> The nearly completed National Intelligence Estimate, the work of 16 intelligence agencies, says Afghanistan's deterioration has accelerated alarmingly in past two months. Bush administration officials say privately that Afghanistan is now the single most pressing security threat in the fight against terrorism.
 
 
 

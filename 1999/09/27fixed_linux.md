@@ -7,11 +7,11 @@ date: 1999-09-27
 
 <p class=date>27 September 1999</p>
 
-I'm currently on hold with Microsoft support.  Christian is helping me 
-figure out how to get MS Personal Web Server to support SSL encryption. 
+I'm currently on hold with Microsoft support.  Christian is helping me
+figure out how to get MS Personal Web Server to support SSL encryption.
 
-Relatively speaking, the support has been good though Christian is the 
-third person I've spoken with (let me transfer you to the correct 
+Relatively speaking, the support has been good though Christian is the
+third person I've spoken with (let me transfer you to the correct
 department)
 
 But that's not why I'm writing.

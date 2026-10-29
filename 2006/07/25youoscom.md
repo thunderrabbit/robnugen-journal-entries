@@ -7,9 +7,9 @@ tags: [ "internet", "open source" ]
 
 ##02:09 Tuesday 25 July 2006
 
-[youos.com](https://youos.com/)   
+[youos.com](https://youos.com/)  
 
-  
+
 
 
 
@@ -19,7 +19,7 @@ This site is awesome.
 
 
 
-  
+
 
 What a killa dilla idea!  And it's all written in javascript!!
 
@@ -27,7 +27,7 @@ What a killa dilla idea!  And it's all written in javascript!!
 
 
 
-  
+
 
 
 

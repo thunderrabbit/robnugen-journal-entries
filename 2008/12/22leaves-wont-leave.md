@@ -12,11 +12,11 @@ tags: [ "news" ]
 
 
 [![](https://farm4.static.flickr.com/3231/3126860976_b87fd0940d.jpg)](https://www.flickr.com/photos/thunderrabbit/3126860976/)
-  
+
 
 
 [leaves won't leave](https://www.flickr.com/photos/thunderrabbit/3126860976/)
-  
+
 
 Originally uploaded by [thunderrabbit](https://www.flickr.com/people/thunderrabbit/)
 
@@ -24,4 +24,4 @@ Originally uploaded by [thunderrabbit](https://www.flickr.com/people/thunderrabb
 
 
 
-  
+

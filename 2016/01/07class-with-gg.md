@@ -13,7 +13,7 @@ Extracted from emails to Mayumi:
     lesson style.  I hope to give all of you more speaking time!  If you
     think of any activities which might be fun, feel free to let me know.
     :-)
-    
+
     I will be thinking of ways to make the lessons more interesting.
     one idea I have is to break up in pairs..  I think we should mix
     up the pairs each time so we have different partners each time.

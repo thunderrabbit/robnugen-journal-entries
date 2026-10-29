@@ -6,7 +6,7 @@ date: 2025-08-30T08:18:00+09:00
 draft: false
 ---
 
-For the past several days I've been coughing, especially at night. It's kind of a dry cough with not much congestion coming up. 
+For the past several days I've been coughing, especially at night. It's kind of a dry cough with not much congestion coming up.
 
 Not sure if it's due to too much AC, but I have been using my air conditioning less than my neighbors!  I usually have the windows open just except for the few hours of the hottest part of the day.
 

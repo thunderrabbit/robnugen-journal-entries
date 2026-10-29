@@ -15,7 +15,7 @@ session_regenerate_id();
 
 I don't know how that code worked 12 years ago, but it now throws a warning.
 
-session_regenerate_id(): Session ID cannot be regenerated when there is no active session 
+session_regenerate_id(): Session ID cannot be regenerated when there is no active session
 
 I fixed it as
 

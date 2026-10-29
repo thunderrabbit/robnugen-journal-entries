@@ -13,11 +13,11 @@ I reviewed "it's a thing that ______" and then got a fake phone call
 on a hollow tube.
 
     "Hello?"
-    
+
     "Oh hey what's up?"
-    
+
     "Yeah sorry I'm ______-ing right now"
-    
+
     "Okay bye"
 
 I then gave out a paper with 11 action images on it, including 4
@@ -101,13 +101,13 @@ designed a game to put everything together.
     HI This is _______.
     Oh HI What's up?
     Are you busy?
-    
+
     (dice roll)
-    
+
     Yes.  I'm _____-ing now.
     Oh, okay.  May I speak to ______?
     Yes, just a moment.
-    
+
     No. How may I help you?
     Take 3 steps.
 

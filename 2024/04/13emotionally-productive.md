@@ -7,14 +7,14 @@ draft: false
 ---
 
 Today I had a good cry, feeling lonely and isolated
-on my computer and in Japanese language world 
+on my computer and in Japanese language world
 instead of hanging out in Australia with Jess.
 
-As part of hearing God's voice, 
+As part of hearing God's voice,
 I practiced extending love to my sadness as it arose.
 
-Oh, another sad thing that happened was the loss of 
-my [Iris Go](https://irisgo.ch) cup which 
+Oh, another sad thing that happened was the loss of
+my [Iris Go](https://irisgo.ch) cup which
 I wanted to give to my neighbor 愛ちゃん.
 
 I think what happened is that it got stuck by

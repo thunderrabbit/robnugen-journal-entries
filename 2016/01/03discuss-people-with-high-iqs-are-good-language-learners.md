@@ -19,11 +19,11 @@ is clear.  Books don't talk back. (*)
     pronunciation guides, etc.  This person can more easily become
     well-read on the language, but not actually be able to *use* the
     language in a real situation.
-    
+
     But I do not think IQ is related to acquiring a language.  Acquiring a
     language requires practice and simply attempting to speak without
     concern of one's errors.
-    
+
     In one of the recent videos, it was suggested that people with high IQ
     want to maintain their appearance of being smart and therefore are
     less willing to make mistakes required for language acquisition.  I

@@ -152,7 +152,7 @@ Please send the exact command you ran, and I’ll help you figure out the best p
 
 ```
 root@ip-10-0-33-142:/# emacs /usr/local/sbin/
-root@ip-10-0-33-142:/# sudo emacs /usr/local/sbin/                                                               
+root@ip-10-0-33-142:/# sudo emacs /usr/local/sbin/  
 
 [1]+  Stopped                 sudo emacs /usr/local/sbin/
 root@ip-10-0-33-142:/# sudo find . -type f -mtime +1 -delete
@@ -783,10 +783,10 @@ I want the 150GB disk on /mnt/fsreco
 ```
 ubuntu@ip-172-30-1-225:~$ lsblk
 NAME    MAJ:MIN RM  SIZE RO TYPE MOUNTPOINT
-xvda    202:0    0   16G  0 disk 
+xvda    202:0    0   16G  0 disk
 └─xvda1 202:1    0   16G  0 part /
-xvdd    202:48   0  150G  0 disk 
-xvdf    202:80   0   54G  0 disk 
+xvdd    202:48   0  150G  0 disk
+xvdf    202:80   0   54G  0 disk
 ```
 
 ::: ai chatgpt
@@ -847,10 +847,10 @@ Let me know what `lsblk -f` or `fdisk -l /dev/xvdd` shows if you're unsure which
 ```
 ubuntu@ip-172-30-1-225:~$ sudo lsblk -f
 NAME    FSTYPE   LABEL           UUID                                 MOUNTPOINT
-xvda                                                                  
+xvda  
 └─xvda1 ext4     cloudimg-rootfs dd18e5c5-ed48-41dc-812b-8597ba18e2a8 /
-xvdd    ext4                     b9f16d5c-86e7-448d-92ec-2e0c3bb42cfc 
-xvdf                                                                  
+xvdd    ext4                     b9f16d5c-86e7-448d-92ec-2e0c3bb42cfc
+xvdf  
 loop0   squashfs                                                      /snap/snapd/24505
 loop1   squashfs                                                      /snap/core22/1963
 loop2   squashfs                                                      /snap/amazon-ssm-agent/11320

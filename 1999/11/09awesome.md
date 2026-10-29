@@ -38,13 +38,13 @@ index.pl?dir=1999/../../../../../../../etc/ and get a listing of the
 /etc dir on this server!!!!  As proof, here's a list of some of the
 files in it:
 
- cron.daily 
- cron.half-hourly 
- cron.hourly 
- cron.monthly 
- cron.quarter-daily 
- cron.quarter-hourly 
- cron.weekly 
+ cron.daily
+ cron.half-hourly
+ cron.hourly
+ cron.monthly
+ cron.quarter-daily
+ cron.quarter-hourly
+ cron.weekly
 
 Is this a security breach?  I don't know; I didn't have read access on
 anything interesting, so I think they're okay, but still it's a tad

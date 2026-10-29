@@ -12,15 +12,15 @@ There have been times that I've needed lists of numbers in order.  Mostly for pr
 To use it, do M-x edit-kbd-macro and then choose a key combo.  (I always use C-x e).  Then replace whatever is in the buffer with this text:
 
 
-    
-    
+
+
     ;; Keyboard Macro Editor.  Press C-c C-c to finish; press C-x k RET to cancel.
-    
+
     Command: last-kbd-macro
     Key: none
-    
+
     Macro:
-    
+
     C-SPC			;; set-mark-command
     0			;; self-insert-command
     RET			;; newline
@@ -183,7 +183,7 @@ To use it, do M-x edit-kbd-macro and then choose a key combo.  (I always use C-x
     C-x r t			;; string-rectangle
     9			;; self-insert-command
     RET			;; newline
-    
+
 
 
 

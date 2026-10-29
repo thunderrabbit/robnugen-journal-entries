@@ -44,7 +44,7 @@ I am sure I will be envious.
 
 We got freezing cold (40 F) so we back to the house we were talking some
 BS when Fred mentioned that Karen (dad's new girlfriend) said she likes
-all types of music. 
+all types of music.
 
 HA!
 
@@ -56,7 +56,7 @@ He said he would be happy to, so we made sure Karen and Dad could hear
 the stereo.
 
 Fred had never heard such noise and I joined him in eyewatering laughter
-"I like all music!" 
+"I like all music!"
 
 But even better: Curtis came back on after the song and said, "that was
 requested _________  a cover of _________.  It's a nice song; I like to

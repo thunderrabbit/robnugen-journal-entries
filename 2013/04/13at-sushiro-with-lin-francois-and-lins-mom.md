@@ -9,7 +9,7 @@ tags: [ "francois", "sushi" ]
 
 **17:34pm Saturday 13 April 2013**
 
-At 回転すし with Francois, Lin, and Lin's mom. 
-  
-  
+At 回転すし with Francois, Lin, and Lin's mom.
+
+
 [![20130413-173806.jpg](/images/2013/04/20130413-173806.jpg)](/images/2013/04/20130413-173806.jpg)

@@ -43,7 +43,7 @@ Seems strong enough! It's even described as STRONG
 [![2025 apr 07 intuit thinks its strong 1000](//b.robnugen.com/journal/2025/thumbs/2025_apr_07_intuit_thinks_its_strong.png)](//b.robnugen.com/journal/2025/2025_apr_07_intuit_thinks_its_strong_1000.png)
 
 
-Intuit rejected it with a vague message: “Invalid password.” No explanation. 
+Intuit rejected it with a vague message: “Invalid password.” No explanation.
 
 [![2025 apr 07 intuit invalid password 1000](//b.robnugen.com/journal/2025/thumbs/2025_apr_07_intuit_invalid_password.png)](//b.robnugen.com/journal/2025/2025_apr_07_intuit_invalid_password_1000.png)
 

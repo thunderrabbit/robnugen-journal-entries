@@ -8,8 +8,8 @@ draft: false
 
 After working 3.75 hours on Marble Track 3, during which I glued the S
 mall Marble Saver
-and documented the network of parts around the 
-Lowest Small Marble Splitter, 
+and documented the network of parts around the
+Lowest Small Marble Splitter,
 I went to the city tax office and confirme I've paid all my past city taxes and confirmed when I will receive the upcoming city tax bills (in August) and how to pay them online.
 
 I got two vegan obentos from Bio c' Bon for today and tomorrow and ate lunch.

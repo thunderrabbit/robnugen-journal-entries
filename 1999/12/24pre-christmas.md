@@ -10,7 +10,7 @@ date: 1999-12-24
 
 I'm in College Station now after a candle light service at church.  (My
 mom is a UU minister)  The service was full of carols and candles, but I
-didn't feel much like participating; my nose was all snuffly and stuff. 
+didn't feel much like participating; my nose was all snuffly and stuff.
 It's not the same here without Fred.  Also conspicuously missing is
 Karina, me an' Fred's step sister, although Alicia is here (our other
 step-sis), but she is not a boistrous as Karina.
@@ -19,14 +19,14 @@ Big stuff recently:
 
 1) I am HIV negative
 2) I switched our ISP at work (T1 to DSL)
-3) We got nice Christmas bonuses at work $473, which ain't much, 
+3) We got nice Christmas bonuses at work $473, which ain't much,
    but a ton more than at Telecheck
 4) I'm in the process of moving my website to robnugen.com
 5) Wende and I are exclusively dating
 6) I'm still climbing out of debt
-7) Yahoo (YHOO) stock is going crazy up: $405/share now; 
+7) Yahoo (YHOO) stock is going crazy up: $405/share now;
    I bought 5 at $209
-8) I wrapped Fred's gift ridiculously tightly in some 20 layers 
+8) I wrapped Fred's gift ridiculously tightly in some 20 layers
    of tape and cardboard and wrapping paper.
 
 

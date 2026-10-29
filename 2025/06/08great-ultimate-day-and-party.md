@@ -12,7 +12,7 @@ I'm happily exhausted, just arrived home.  Today was a huge wonderful day 💖
 
 I felt pretty strong and good during Bootcamp, during which I met Joe from US, Honoka from Japan, and Britt a woman from Bondi.  I re-met Eric and gave him information about MKP Japan and my coaching as well.
 
-After Bootcamp Ai and I had lunch together (I had a vegan bento from Bio c' Bon) and joined a couple of people who were playing frisbee.  They challenged us to a game of ultimate and we won 2-0 before they had to go.  They were totally puffed and I was just getting started 😂 
+After Bootcamp Ai and I had lunch together (I had a vegan bento from Bio c' Bon) and joined a couple of people who were playing frisbee.  They challenged us to a game of ultimate and we won 2-0 before they had to go.  They were totally puffed and I was just getting started 😂
 
 Ai and I joined our group in the big field and played ultimate there for a while until basically 4pm when we had to leave for Nessa's secret party 🥳 at the Malay restaurant.
 

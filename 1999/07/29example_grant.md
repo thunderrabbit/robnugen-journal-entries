@@ -39,7 +39,7 @@ youth who just want to live on the moon
 * Find $2,699,999,997,500	Freg Garon
 * Purchase a space shuttle.	Dryan Deck		October 12, 1999
 * Paint it cool colors		Panielle Dicard		October 25, 1999
-* Load up sandwiches and 
+* Load up sandwiches and
   building materials		Ken Bidder		November 10, 1999
 * Fly to the moon		Sarah Pappastronaut	November 15, 1999
 * Build a colony		Captain SA Commander of the SC	December 30, 1999
@@ -53,16 +53,16 @@ youth who just want to live on the moon
 <b>When and how do you plan to evaluate the progress of your project?</b>
 
 At the end of MUUN Camp, we'll ask each camper to return an evaluation.  
-Within a week after the camp, MUUN Camp Council will meet to review the 
-evaluations from the campers and decide where we need to improve.   We expect 
-to begin proceedings for incorporating as a city by mid 2000 and to secede by 
+Within a week after the camp, MUUN Camp Council will meet to review the
+evaluations from the campers and decide where we need to improve.   We expect
+to begin proceedings for incorporating as a city by mid 2000 and to secede by
 late 2001.
 
-<b>Please include a process by which YFUUD will be able to analyze the progress 
+<b>Please include a process by which YFUUD will be able to analyze the progress
 of your project.</b>
-A post-camp evaluation report including total project costs will be submitted to 
+A post-camp evaluation report including total project costs will be submitted to
 YFUUD within a month after the first MUUN Camp ends.
-Given this report, 
+Given this report,
 YFUUD will know we used the money and that everyone had a great time.
 
 <b>Has this project been done by you or your group in the past?</b> No

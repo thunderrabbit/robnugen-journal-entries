@@ -32,16 +32,16 @@ Here is what I wrote to myself:
 ## 08:20
 
     Note to self
-    
+
     Do not chew cashew nut case to get the cashew out
-    
+
     Worst taste ever
-    
+
     I have consumed
     Two pieces of cake
     One cup of yogurt
     One glass of orange juice
-    
+
     And I can still taste the cashew shell flavor
 
 ## 08:36

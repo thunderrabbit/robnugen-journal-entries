@@ -33,7 +33,7 @@ Some fragments came to mind while walking to the station
 * Can I tell you that?  Can I be honest with you?
 * Will you still like me?   Still listen to me?
 * My pessimistic side says you won't.  I'll be booed off stage and I'm doing it wrong and no one will understand and it will just be terrrible
-* But I can't control other people's responses.  More important question: 
+* But I can't control other people's responses.  More important question:
 * Will I still like myself?
 * You know when you walk barefoot outside in the city and you step on a piece of glass and you have to ask your wife to dig in there with a needle to pull it out, and you're just lying there feeling helpless with a needle near a sensitive part of your body? I mean the feet!
 * Probably not.  That's why I encourage people to use "I-statements."

@@ -18,7 +18,7 @@ You wrote:
 
 Hello Jess X Goh!
 
-Thank you for reaching out! 
+Thank you for reaching out!
 
     I noticed you share grounding and full moon meditation events and
     I would love to find out if you would be open for me to share my
@@ -29,7 +29,7 @@ Thank you for reaching out!
 
 I would like to get to know you and your work first before
 recommending you to any of my community.
- 
+
 
     If you like what I'm about and the kind of work that I do to
     support humanity to make peace with their past, I'm happy to
@@ -39,14 +39,14 @@ recommending you to any of my community.
 
 Having affiliates is a brilliant way to get the word out.  Good on you
 for moving your business to this level.  :-)
- 
+
 
     You can learn more about me and my work here:
     https://www.lifeinconfidence.com.
 
 
 I had a look; your website seems quite nice!
- 
+
 
     Also if you feel these events would be of help and interest to
     your community and would like to see how this goes temporarily
@@ -58,7 +58,7 @@ I had a look; your website seems quite nice!
 
 I admire your willingness to ask!  I will say no to having a co-host
 on Meetup for now until we get to know one another better, at least.
- 
+
 
     What are your thoughts?
 

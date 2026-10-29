@@ -103,7 +103,7 @@ How amazing I have been planning for a week to buy her flowers tomorrow.
 
 #### 21:55
 
-Sitting in silence inside Bondi Pavilion, I heard someone ask if I was okay. 
+Sitting in silence inside Bondi Pavilion, I heard someone ask if I was okay.
 
 I said, "technically yes; I just had a fight with my girlfriend so I'm
 just sitting here a bit."

@@ -9,11 +9,11 @@ tags: [ "news" ]
 
 
 [![](https://farm3.static.flickr.com/2133/2483135450_33bac6098b.jpg)](https://www.flickr.com/photos/thunderrabbit/2483135450/)
-  
+
 
 
 [cellie-0122.jpg](https://www.flickr.com/photos/thunderrabbit/2483135450/)
-  
+
 
 Originally uploaded by [thunderrabbit](https://www.flickr.com/people/thunderrabbit/)
 
@@ -21,4 +21,4 @@ Originally uploaded by [thunderrabbit](https://www.flickr.com/people/thunderrabb
 
 
 
-  
+

@@ -9,7 +9,7 @@ tags: [ "journal" ]
 
 [![P139](https://getfile9.posterous.com/getfile/files.posterous.com/thunderrabbit/sIkaplttAHkwAmJAoCejyBizBDjGHzAwBmBFayGFqsrxqzudqezDJtJiIJJh/p139.jpg.scaled500.jpg)](https://getfile3.posterous.com/getfile/files.posterous.com/thunderrabbit/sIkaplttAHkwAmJAoCejyBizBDjGHzAwBmBFayGFqsrxqzudqezDJtJiIJJh/p139.jpg.scaled1000.jpg)
 
-Yesterday Anna Bananna stopped by Ebisu for lunch with me on her way to do a bit of shopping before heading to Tohoku to volunteer before going back to her home away from her home away from home. 
+Yesterday Anna Bananna stopped by Ebisu for lunch with me on her way to do a bit of shopping before heading to Tohoku to volunteer before going back to her home away from her home away from home.
 
 Super great to see her and her lovely smile!  She's been in Okinawa and Hokkaido for some months during the winter; I really admire her traveling lifestyle.
 

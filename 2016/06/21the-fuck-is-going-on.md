@@ -15,7 +15,7 @@ Now when I tried to push my journal to bitbucket I get a weird error:
     $ git push
     No user exists for uid 502
     fatal: Could not read from remote repository.
-    
+
     Please make sure you have the correct access rights
     and the repository exists.
     $

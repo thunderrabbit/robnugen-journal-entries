@@ -22,53 +22,53 @@ the next steps.
 I emailed him at 12:50pm
 
     Hey Adam
-    
+
     Thank you for putting together the presentation, and the entire
     program.  The first half hour was quite perfectly in line with
     what I'd like to get involved with.
-    
+
     I look forward to watching the rest of your presentation and
     taking the next steps.
-    
+
     Lots of fear come up for me around self worth especially when
     hearing no when reaching out to men.
-    
+
     The MKP circle in Tokyo has grown steadily for four years.  I am
     beginning to mentor men in leading the circle. I look forward to
     continuing my growth in this process.
-    
+
     Blessings
     Rob
 
 He replied just 7 minutes later.
 
     Great to hear from you!
-    
+
     You already have the experience in leading!
-    
+
     Now you just need the structure to turn that into the revenue you
     deserve.
-    
+
     I'll have the replay up tmw - you will see how many ways you can monetize.
     1. Intro Nights.
     2. One off nights
-    3. 1 Day Deep Dives 
+    3. 1 Day Deep Dives
     4. Weekend Workshops
     5. The ongoing circles
     6. Convert participants into coaching clients if you wish.
-    
+
     As for "rejection" - we can talk about that. In my experience, the
     JOY that men feel doing these circles and the GRATITUDE
     obliterates the feelings around someone not wanting to play.
     Anyway, I don't believe in the concept of rejection.  That's a
     story built around two independent agents in the world.  Been
     teaching THAT around dating for years.
-    
+
     I look forward to speaking with you and planting a flag in Japan.
     How exciting.
-    
+
     Warmly,
-    
+
     Adam
 
 Excellent.  I am looking forward to the replay.

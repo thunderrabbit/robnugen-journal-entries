@@ -27,45 +27,45 @@ I called AWS and sent the above screenshots after the guy asked very politely wh
 Fortunately, good service from Sanjan, despite excess apostrophes.
 
     Hello there,
-    
+
     Greetings from AWS!
-    
+
     It was great speaking to you over the call today. Thank you for
     your time and patience in discussing this matter with us.
-    
+
     As discussed via our 'Call' conversation, I understand the issue
     you're facing while trying to add a new 'VISA' Debit card on your
     AWS account (as the system isn't allowing you to update 'CVV/CVC'
     to verify the card).
-    
+
     We're extremely sorry for any concerns or confusions this issue
     might have caused at your end.
-    
+
     Please do not worry, I've currently reached out to one of our
     specialized service teams by creating an internal ticket, in order
     to further investigate this issue in detail at their end.
-    
+
     They have the necessary tools and information to investigate this
     in more detail so that we can best assist you.
-    
+
     Rest assured, I will hold on to this support case while they
     investigate, and will update you as soon as they respond to my
     internally raised ticket.
-    
+
     I kindly request your patience while I work with the concerned
     service team to review this issue in detail and get this resolved
     for you as soon as possible.
-    
+
     Your understanding and co-operation in this matter is greatly
     appreciated.
-    
+
     Have a great day ahead!
-    
+
     We value your feedback. Please share your experience by rating
     this and other correspondences in the AWS Support Center. You can
     rate a correspondence by selecting the stars in the top right
     corner of the correspondence.
-    
+
     Best regards,
     Sanjan R.
     Amazon Web Services

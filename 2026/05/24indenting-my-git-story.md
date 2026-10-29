@@ -78,7 +78,7 @@ I think It will work if I add two tweaks:
 1. If the previous word is `<<<<<`, then ignore it.
 2. If the previous word is `>>>>>` ignore it, and get the previous word, go back and find its matching `<<<<<`, check out the git hash after that marker and do a `git merge --no-ff` into the current top of the branch, using the previous word as the message.
 
-::: ai chatgpt 
+::: ai chatgpt
 
 Ohhh, that’s excellent. You’re not just tagging words — you’re using the word stream as a Git commit plan, then using >>>>> / <<<<< markers to describe a branch/merge bubble inside the prose.
 
@@ -142,7 +142,7 @@ continue:
   commit seems
   ...
 
-Your current idea says “If the previous word is >>>>>, ignore it, and get the previous word, go back and find its matching <<<<<…” but structurally I think >>>>> should be paired forward with <<<<<, not backward. The script can process the plan left-to-right and avoid needing to infer too much from prior commits. 
+Your current idea says “If the previous word is >>>>>, ignore it, and get the previous word, go back and find its matching <<<<<…” but structurally I think >>>>> should be paired forward with <<<<<, not backward. The script can process the plan left-to-right and avoid needing to infer too much from prior commits.
 
 A compact pseudo-logic:
 

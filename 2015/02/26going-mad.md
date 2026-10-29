@@ -34,15 +34,15 @@ and keep the tokens cause I need to fill them in later:
     	'NOUN'	=> 'nouns.txt',
     	'VERB'  => 'verbs.txt'
     );
-    
+
     my @replaceable_tokens = keys %files;
 
     # Will be 'ADJECTIVE|NOUN|VERB' for use in split regex
-    my $replaceable_tokens_ORed = join('|',@replaceable_tokens);		
-    
+    my $replaceable_tokens_ORed = join('|',@replaceable_tokens);
+
     # grab two unnamed command line parameters
-    my ($string, $target) = @ARGV;		
-    
+    my ($string, $target) = @ARGV;
+
     # tokenize the input string while keeping tokens
     my @tokenized_string = split(/($replaceable_tokens_ORed)/, $string);
 

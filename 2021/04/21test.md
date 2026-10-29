@@ -5,7 +5,7 @@ location: 'geo:36.03058,139.37445;u=65'
 date: '2021-04-21T05:41:17+09:00'
 ---
 
-Seems I cannot post from Quill on my computer          
+Seems I cannot post from Quill on my computer  
 
 Nevermind.. this worked. I don't know what is happening.
 

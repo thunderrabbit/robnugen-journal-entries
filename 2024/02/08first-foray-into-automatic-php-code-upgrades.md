@@ -21,7 +21,7 @@ After Rector added : void, our linter then removed @return void from the phpdocs
 
 Fortunately, Rector doesn't mind the linter's change so at least they are in agreement now.
 
-- - - 
+- - -
 
 Tex pointed out:
 

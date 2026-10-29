@@ -84,7 +84,7 @@ With Love
 
 
   Hi Rob,
-  Looking forward to hearing about future booboos. 
+  Looking forward to hearing about future booboos.
 I am still sore from
 Sunday's game, but the goal makes it a sweet kind of
 soreness.  Actually I'm
@@ -102,7 +102,7 @@ and the hammock in the back yard.
 get your email and sign
 off?
 
-  Yes, I use IM.  My kids are better at it than me. 
+  Yes, I use IM.  My kids are better at it than me.
 They'll have 10
 conversations going at once.
   ll put your name on my buddy list and if you're
@@ -113,7 +113,7 @@ can chat, that would be nice.
 interesting now that I've read
 your journal entries.  I think you use it for many
 purposes, but one is to
-test what is exceptable, like the worm hole idea. 
+test what is exceptable, like the worm hole idea.
 You're right, we had no
 trouble imagining that.  Probably 30 years ago, kids
 would not have been

@@ -17,7 +17,7 @@ I'll ponder it later; but right now I'm going to work on my mountain
 fountain!
 
 Oh, also today I had to scrape together cash to pay for the ashford.com
-stock I bought yesterday.  I am right now resisting looking up their 
+stock I bought yesterday.  I am right now resisting looking up their
 market value.   good job!
 
 

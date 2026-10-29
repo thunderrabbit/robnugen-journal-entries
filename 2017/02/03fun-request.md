@@ -13,7 +13,7 @@ ticket 2978:
 
     The code we gave you before doesn't display the page views correctly.
     Could you switch the code to this?
-    
+
 [![placeholder](//b.robnugen.com/journal/2017/work/thumbs/placeholder.png)](//b.robnugen.com/journal/2017/work/placeholder.png)
 
 Uh, yeah that's not going to work.  `{{$article->title}}` is obviously a placeholder.
@@ -79,11 +79,11 @@ Uh, yeah that's not going to work.  `{{$article->title}}` is obviously a placeho
 Ticket 2978
 
     On Google Analytics, I noticed these news items had title '{{$article->title}}' which matches the code suggested by Google, I guess
-    
+
     /ja/news/63...
     /ja/news/62...
     /ja/news/64...
-    
+
     Instead of waiting for more items to show up on Google Analytics,
     I went through all the published items on Facebook Instant
     articles page. The following items also had '{{$article->title}}'
@@ -104,13 +104,13 @@ Ticket 2978
     List of titles of articles with incorrect analytics code
     List of titles of articles with incorrect analytics code
     List of titles of articles with incorrect analytics code
-    
+
     I corrected all of the above articles manually on Facebook instant article page
-    
+
     This item had title including 'php echo $fb_item_title;'
-    
+
     /ja/news/65...
-    
+
     I have also corrected this item. I believe the incorrect title must
     have been read by Facebook during the time I activated the update of
     the website.

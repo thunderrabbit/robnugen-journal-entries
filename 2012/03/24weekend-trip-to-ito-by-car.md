@@ -9,7 +9,7 @@ tags: [ "journal" ]
 
 [![P146](https://getfile3.posterous.com/getfile/files.posterous.com/thunderrabbit/CCyIgAxxAeicvGiqfgFypebyBdmHnvFgofxFAzGpjFwIeFwejvtveEEflAiH/p146.jpg.scaled500.jpg)](https://getfile6.posterous.com/getfile/files.posterous.com/thunderrabbit/CCyIgAxxAeicvGiqfgFypebyBdmHnvFgofxFAzGpjFwIeFwejvtveEEflAiH/p146.jpg.scaled1000.jpg)
 
-Traveling by car in Japan often sucks.   The running joke is that everyone tries to go to the same place at the same time. Today, everyone is headed to Ito. 
+Traveling by car in Japan often sucks.   The running joke is that everyone tries to go to the same place at the same time. Today, everyone is headed to Ito.
 
 We've been driving for 3.5 hours, and gone 60 miles.  Here's a little hint of the traffic we've been in for a while.
 

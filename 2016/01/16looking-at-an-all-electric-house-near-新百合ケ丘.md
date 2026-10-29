@@ -42,9 +42,9 @@ Here's what I wrote on Lin's phone (because my phone's battery had died)
     insulation on most of the windows and plenty of space ace for Mama to
     live hang clothes etc. cats have ample space to chill and there's a
     fun place to watch downstairs from the top of the stairs.
-    
+
     I'm seriously thankful for the place
-    
+
     Interesting point is they don't yet have a place in mind to move so I
     was thinking they can sell to us and then rent from us.  Turns out
     Japan is Japanese and that kinda thing is "difficult" So instead they
@@ -52,7 +52,7 @@ Here's what I wrote on Lin's phone (because my phone's battery had died)
     wait. I'm happy to stay in touch with the family because I felt really
     nice energy from the mom and daughters, a sibling of whom appears to
     be on the way!
-    
+
     Right now 3:17pm we are rolling round the good as he's showing us
     stuff to which I am paying little attention hahaha
 

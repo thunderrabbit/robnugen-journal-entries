@@ -16,26 +16,26 @@ and this script:
 ```c-sharp
     using UnityEngine;
     using System.Collections;
-    
+
     public class Draggable : MonoBehaviour {
     	// The default Position
     	Vector2 startPos;
-    
+
     	// Use this for initialization
     	void Start () {
-    		startPos = transform.position;    
+    		startPos = transform.position;  
     	}
-    	
-    	void OnMouseDrag() {        
+
+    	void OnMouseDrag() {  
     		// Convert mouse position to world position
     		Vector2 p = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-    		
+
     		// Keep it in a certain radius
     		Vector2 dir = p - startPos;
-    
+
     		// Set the Position
     		transform.position = startPos + dir;
     	}
-    
+
     }
 ```

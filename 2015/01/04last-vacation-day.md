@@ -17,7 +17,7 @@ Today, in remembered order:
 
 Around 9pm I was all "Moe Joe I have a headache; I'm going to lie down."
 
-##daytime 
+##daytime
 
 I worked on AB website, adding to the reporting system.  The first
 thing I tried resulted in code that ran way long, so I broke third

@@ -11,6 +11,6 @@ tags: [ "journal" ]
 
 This week I started listening to my iPhone music library in alphabetical order.  I'm up to (Let's Feed the) Felines by Front 242.  Well I was when started this; now I'm at fender bender by kid koala.  
 
-In the US I got my CDs back from Fred (for $100; he paid me $100 dollars for them when I left for Japan in 2003), though I haven't yet imported them all into my library as my home computer's CD drive is useless as a CD drive. 
+In the US I got my CDs back from Fred (for $100; he paid me $100 dollars for them when I left for Japan in 2003), though I haven't yet imported them all into my library as my home computer's CD drive is useless as a CD drive.
 
 I wonder if there's a reasonable way to import the image files for each imageless song I have.

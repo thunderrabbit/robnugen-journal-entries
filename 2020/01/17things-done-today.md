@@ -15,14 +15,14 @@ draft: false
 I copied this from complice.co but none of them seem important:
 
 3. begin tracking down bug in ConSwi
-0. fill in daily pages 
-5. find page from OT 
+0. fill in daily pages
+5. find page from OT
 5. transcribe page inside OT notebook
 5. look at AB tickets
-0. meditate 
+0. meditate
 0. do one thing online (invite, write, post, host)
-2. eat only after 10am 
-2. eat only until 6pm 
-4. text a man 
-6. write a journal entry 
+2. eat only after 10am
+2. eat only until 6pm
+4. text a man
+6. write a journal entry
 9. draw at least one line or post something online

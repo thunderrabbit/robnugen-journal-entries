@@ -18,7 +18,7 @@ Soness helped me with my
 [Pecha Kucha presentation on Soleful Living](https://www.pechakucha.com/presentations/soleful-living),
 which went awesomely well.
 
-<!-- from 
+<!-- from
 so Hi. My name is Rob. As you may have noticed, I like to walk around
 barefoot. I like to feel connected to the earth. It's like that movie
 grounded, but I've been barefoot and since way before that movie. It

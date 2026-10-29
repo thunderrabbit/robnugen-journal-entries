@@ -9,11 +9,11 @@ tags: [ "guest writer", "news", "terror", "travel" ]
 
 Hello all…  
 
-  
+
 
 So things in Oaxaca are intensifying and fast.  
 
-  
+
 
 Last week there was a 2000+ womens' march of the Popular Assembly of the  
 
@@ -39,7 +39,7 @@ Finances, the General Attorney’s office, the penal tribunals, and other
 
 facilities have all been blockaded.  
 
-  
+
 
 So back to the women, after marching for five miles they nonviolently took  
 
@@ -63,7 +63,7 @@ station also has two affilited radio stations which the women now control
 
 as well.  
 
-  
+
 
 The movement has truly been growing, the largest mass movement I have ever  
 
@@ -79,7 +79,7 @@ to further the struggle.  APPO has set up road blockades through out the
 
 state and have taken over 6o public buses and 18 government cars.  
 
-  
+
 
 Last week it was clear that APPO was acheiving its goals.  The movement  
 
@@ -101,7 +101,7 @@ show up all over the city in a series of events which I will list below to
 
 keep it short...  
 
-  
+
 
 August 7th  
 
@@ -115,7 +115,7 @@ A NGO leader is disappeared.
 
 A university professor is shot dead in his car.  
 
-  
+
 
 August 8th  
 
@@ -129,7 +129,7 @@ Two men enter the state newspaper, Noticias, which has been sympathetic to
 
 the struggle and shoot into the air.  
 
-  
+
 
 August 10th  
 
@@ -141,7 +141,7 @@ including many NGO leaders and leaders within the teachers union Section
 
 the safety” of the state.  
 
-  
+
 
 Also yesterday, a march was called by APPO against this repression and for  
 
@@ -159,7 +159,7 @@ during the march into the center square, thousands attended the funeral
 
 and chants that the struggle will continue were repeated for hours.  
 
-  
+
 
 I believe the movement in Oaxaca has become a strong and diverse class  
 
@@ -175,7 +175,7 @@ brave people who continue to take a strong stand against extreme injustice
 
 and corruption even as they see their fellow compañer@s fall.  
 
-  
+
 
 The photos I took at yesterday's march can be seen at  
 
@@ -187,15 +187,15 @@ Vicente Fox and others to demand an end to this repression and respect for
 
 human rights in the state of Oaxaca.  Contact info to follow...  
 
-  
+
 
 with love,  
 
 Rochelle  
 
-  
 
-  
+
+
 
 Vicente Fox Quesada  
 
@@ -211,7 +211,7 @@ Fax: (55) 52772376
 
 [vicentefox@presidencia.gob.mx](mailto:vicentefox@presidencia.gob.mx)  
 
-  
+
 
 Carlos M. Abascal Carranza  
 
@@ -223,7 +223,7 @@ Fax: (00 52) 5 55 546 5350,
 
 [segob@rtn.net.mx](mailto:segob@rtn.net.mx)  
 
-  
+
 
 Jesús Enrique Jackson Ramírez  
 

@@ -8,12 +8,12 @@ draft: false
 
 (written 16:05 Friday 30 May 2025 JST)
 
-1. I recently got my image server upgraded to Ubuntu 22 after accidentally crippling its Ubuntu 16 instance 
+1. I recently got my image server upgraded to Ubuntu 22 after accidentally crippling its Ubuntu 16 instance
 2. Still working 30 hours per month for AB
 3. I got the calendaring perl version of my journal running on DH at https://www.robnugen.com/journal/
-4. Joe has been helping me get through the edits on I'M FINE 
+4. Joe has been helping me get through the edits on I'M FINE
 5. I'm planning to leave Japan within two years.
-6. Hopefully sooner 
+6. Hopefully sooner
 7. I worked on Marble Track 3 yesterday!  Two hours livestream and got the camera and base basically in place.
 
 (written 05:36 Monday 02 June 2025 JST)

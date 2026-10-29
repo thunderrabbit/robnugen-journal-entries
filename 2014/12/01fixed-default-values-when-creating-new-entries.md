@@ -42,7 +42,7 @@ Thanks to [this answer](https://stackoverflow.com/a/9646268/194309) on SO, my co
          (expand-file-name file-path (concat hakyll-site-location "posts")))
         (switch-to-buffer file-name)
         ))
-    
+
 
 I created a gist for the rest of the code to
 [create markdown journal entries in emacs](https://gist.github.com/thunderrabbit/453c1e1c4a959f113d10/#file-hakyll-el)

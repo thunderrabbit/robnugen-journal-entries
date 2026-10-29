@@ -1,5 +1,5 @@
 ---
-title: Dream 
+title: Dream
 tags: [ "dream" ]
 author: Rob Nugen
 date: 2014-11-23

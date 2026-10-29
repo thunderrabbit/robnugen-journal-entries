@@ -9,6 +9,6 @@ tags: [ "journal" ]
 
 Koko took the same elevator as me yesterday; I hadn't seen her in a couple weeks, so I was like, "HI!"
 
- 
+
 
 Turns out she takes the same train line as me, so we walked to the station together. Her parents are in town to see their first grandbaby. Happy times!

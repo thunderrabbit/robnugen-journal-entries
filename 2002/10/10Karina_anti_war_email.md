@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2002-10-10
 ---
 
-From: Karina Montgomery 
+From: Karina Montgomery
 Sent: Thursday, October 10, 2002 11:24 AM
 To: 'susan.davis@mail.house.gov'; 'lloyd.doggett@mail.house.gov'
 Subject: Dear Representatives,

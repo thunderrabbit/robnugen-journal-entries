@@ -54,4 +54,4 @@ coming from overseas.
    2 months.  She will hopefully enjoy slightly easier lessons than
    what I had been doing to challege her before the new student
    joined.
-1. 
+1.

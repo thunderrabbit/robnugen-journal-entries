@@ -15,6 +15,6 @@ Mia,
 Janene,
 John,
 and
-Lizette 
+Lizette
 
 I had the recommended Trail Road Salad, which was definitely great

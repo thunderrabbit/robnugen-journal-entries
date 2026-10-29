@@ -21,7 +21,7 @@ the speed of light, requires a distortion in time as well.
 
 Light is photons (energy), which neither have mass nor force (not completely
 true, but it has to do for now).  Light isn't directly tied to electricity,
-magnetism, or gravity except as energy released by the first two. 
+magnetism, or gravity except as energy released by the first two.
 
 Magnetism and gravity ARE related in some as yet undetermined way.  We have
 not been able to generate energy levels high enough to unify these forces.
@@ -29,10 +29,10 @@ For example,
 
 Electricity + Magnetism = Electromagnetic force ("room temperature")
 
-Electromagnetic Force + Weak Nuclear Force = Electro-Weak Force 
+Electromagnetic Force + Weak Nuclear Force = Electro-Weak Force
 (very high energies)
 
-ElectroWeak + Strong Nuclear Force = Unified Force 
+ElectroWeak + Strong Nuclear Force = Unified Force
 (very, VERY high energies)
 
 Unified Force + Gravity = Grand Unified Force and Theory of Everything

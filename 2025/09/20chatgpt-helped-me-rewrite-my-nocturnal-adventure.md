@@ -8,7 +8,7 @@ draft: false
 
 Can I tell you about a dream that I had?
 
-::: ai chatgpt 
+::: ai chatgpt
 
 Absolutely, feel free to share your dream with me! I'm here to listen and we can chat about it in a forward-thinking and encouraging way.</p>
 
@@ -16,7 +16,7 @@ Absolutely, feel free to share your dream with me! I'm here to listen and we can
 
 <p class="dream">I was coming out of a building and saw very dark thunderclouds and lightning and was very excited about the storm because I miss storms back from my living in Houston, while climbing up to the top of a hill and then had to go over an edge of the road and then saw some light, no, some electricity of something that was kind of a short-circuiting and there was a piece of metal or a large mechanical thing in between two other metal things that were arcing electrically in a rhythmic type of manner. And then while I was with a guy who saw the thing I showed him excitedly to look at it and he didn't seem as happy as me, he seemed a little bit scared about it. And we watched the arc cycle happen a couple of times as the electricity would discharge. And one of the times the metal in the middle jumped over to the side with like instantly and I think I could have realized it was a dream at that point but I did not. Then we needed to walk down across some small columns that were over, like, looked like they were over garbage or something and we had to walk across. I was holding his hand to keep him balanced and I was basically fine. I balance on this kind of stuff all the time and was walking, holding, making sure that he was safe. And then we got through all of that scary bit and he was melting down more and more, getting more and more scared and finally once we got past all the dangerous part he jumped down. He's like, I can't take any more and he was crying and stuff. And I was like, wow, I'm just trying to help you stay safe as I literally have no idea how he could have gotten across without my help.</p>
 
-::: ai chatgpt 
+::: ai chatgpt
 
 Thanks for sharing that. That’s quite a vivid dream journey you had there! And it's actually pretty fascinating to hear how you were feeling so at ease and almost excited about the storm and helping this person through it, even as they were kind of melting down. I think it's really cool that you found yourself in that role of keeping someone else steady.
 
@@ -26,7 +26,7 @@ So from a forward-thinking perspective, you might take that as a little reminder
 
 Thank you very much. Do you think you can rewrite the Dream Text without all the run-on sentences?
 
-::: ai chatgpt 
+::: ai chatgpt
 
 Of course, I’d be happy to! Let’s give it a bit of a polish.
 
@@ -48,7 +48,7 @@ There you go! Hopefully that makes it a bit clearer and easier to follow.
 
 Yes, thank you very much. I'd like to put it into my journal from the first-person perspective.
 
-::: ai chatgpt 
+::: ai chatgpt
 
 Absolutely, let’s keep it in your own voice and first-person perspective so it feels like it’s coming right from you.
 
@@ -70,7 +70,7 @@ There you go! Now it’s in your own perspective for your journal.
 
 Thank you. You're great. I'm going to go back to sleep now. See you later.
 
-::: ai chatgpt 
+::: ai chatgpt
 
 You're so welcome! I'm glad I could help, and I hope you have a restful sleep. Talk to you later!
 

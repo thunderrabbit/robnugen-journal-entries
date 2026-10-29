@@ -17,7 +17,7 @@ tags: [ "technology" ]
 
 How incredibly ridiculous to imagine this is any kind of good solution.Â  It may keep the ground frozen for a bit, but certainly not for a particularly long time, and it definitely doesn't solve the second-basic issue (*) the ground is shifting!  
 
-  
+
 
 (*) right after the basic issue of global warming
 

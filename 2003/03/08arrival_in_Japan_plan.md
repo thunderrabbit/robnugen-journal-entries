@@ -9,8 +9,8 @@ Tokyo Foreign Personnel Section
 Shinjuku NS Building P.O. Box 6036
 Shinjuku NS Building 23rd Floor
 2 - 4 - 1 Nishi Shinjuku
-Shinjuku - ku, Tokyo 163 - 0823 
-Tel: (03) - 6688 - 4441 
+Shinjuku - ku, Tokyo 163 - 0823
+Tel: (03) - 6688 - 4441
 Fax: (03) - 6688 - 4442
 
 March 4, 2003
@@ -27,7 +27,7 @@ There are two terminals at Narita. Your flight is due to arrive at
 Terminal 1. Most flights will park at the gate, but there may be a bus
 ride to the terminal in some cases. If you are arriving at Terminal 2,
 depending on where your flight disembarks, there may be a short
-shuttle train ride to the main airport concourse. 
+shuttle train ride to the main airport concourse.
 
 The first thing you will need to do at the airport is to go through
 Immigration formalities. You will need to show your passport and the
@@ -55,7 +55,7 @@ way to the Meeting Point. In Terminal 1 the meeting area is an alcove
 room with a sign in English set back just behind the large arrival
 information board. In Terminal 2 if you are unable to locate our staff
 please make your way to the ABC Luggage delivery counter and our staff
-will meet you there. 
+will meet you there.
 
 If, after 20 minutes or so, you still haven’t located our staff then
 please call our office on 03 - 6688 - 4441. We will liase with the
@@ -78,7 +78,7 @@ stay. Obviously, if you are using medication, please keep an adequate
 supply with you to last until your luggage arrives at your permanent
 accommodation. If your luggage fails to arrive by the time stated by
 ABC, then please call our office and we will check with them as to its
-whereabouts. 
+whereabouts.
 
 Once your luggage has been delivered there will be time to change
 money, have a smoke or get something to eat or drink. Our staff will
@@ -90,7 +90,7 @@ There is usually some waiting time before leaving the airport for your
 accommodation. The length of this wait depends on the number of
 recruits and how many different flights they are arriving on. We aim
 to keep waiting time to a minimum, but there may be occasions when a
-longer wait is unavoidable.   
+longer wait is unavoidable.  
 
 As your accommodation will not be ready until March 30, you will be
 spending the first 2 nights in a hotel. We aim to put you up at the

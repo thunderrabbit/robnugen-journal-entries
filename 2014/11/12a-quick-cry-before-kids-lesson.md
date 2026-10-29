@@ -20,18 +20,18 @@ surge of fear like OH FUCK! and just cried for a bit.
 ##11:10 Wednesday 12 November 2014 JST##
 
     HI Matt
-    
+
     I've been teaching English to adults (1-to-1) for several years in Tokyo.
-    
+
     Just recently I was asked to teach some kids classes.  :-O
     20+ kids!  age 5 or so!!   Such a new insane experience!
-    
+
     Thank you for your resources; I linked to the Goodbye song from my
     journal, though my brain went blank when I tried to sing it today
     :-C
-    
+
     I will dig through your site more before I start buggin' you with
 	questions, but for now just want to say thank you.
-    
+
         best
 		- Rob

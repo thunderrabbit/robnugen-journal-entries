@@ -9,14 +9,14 @@ tags: [ "apps", "typos" ]
 
 Browsing through free apps, I found [18000 cool jokes](https://itunes.apple.com/us/app/18-000-cool-jokes/id316973071?mt=8). Its meta-data includes
 
-    
+
     ———————————————
     EXAMPLE JOKE FROM THE APP
     ———————————————
     "If there are any idiots in the room, will they please stand up?" said the sarcastic teacher.
     After a long silence, one freshman rose to his feet.
     "Now then mister, why do you consider yourself an idiot?" enquired the teacher with a sneer
-    "Well, actually I don't..." said the student, "...but I have to 
+    "Well, actually I don't..." said the student, "...but I have to
     see you standing up there all by yourself."
 
 

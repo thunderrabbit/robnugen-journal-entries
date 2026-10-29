@@ -13,7 +13,7 @@ I then followed [this tweet](https://twitter.com/zodisok/status/1115149217972887
 
 But when I type in the talk> field, I do not see my posts anywhere.
 
-Later I saw 
+Later I saw
 
     [%dead-request [i=//http/0v14.urbt1/36/1 t=~]]
 

@@ -15,6 +15,6 @@ Two were easy to fix bugs, and one is a quick request; the other is a bit more i
 
 I look forward to whittling the list down to nothing.
 
-Speaking of nothing, I have eight versions of Wish, though I think some are identical. 
+Speaking of nothing, I have eight versions of Wish, though I think some are identical.
 
 Hope to see you soon Trent.

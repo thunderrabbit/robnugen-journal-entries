@@ -43,7 +43,7 @@ hostel in downtown N.O.  Not much is worked out now,
 its just in our minds as a do-able thing. :)
 
 I would love to spend as much time with you as I can!
-I love you and miss you and hope things are great! 
+I love you and miss you and hope things are great!
 What are you doing now since you no longer have the
 constraints of a job?  Where are you checking email
 from?
@@ -57,15 +57,15 @@ Hey mate!
 Where will you be on August 6th?
 
 Well, the question above presumes you will celebrate
-your birthday on 
+your birthday on
 August 6th.  If you celebrate your birthday in the
-US this year, and you 
+US this year, and you
 celebrate it after SWUUSI, I'd like to be there.
 
 I'm sketching out my travel plans for after SWUUSI.
 
 I'd really enjoy hanging out with you after SWUUSI
-and before you go to 
+and before you go to
 school.  Are you still leaving on 26 August?
 
 	With Love

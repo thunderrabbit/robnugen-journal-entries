@@ -22,7 +22,7 @@ In a trice, I got this back:
     <?php
     $num1 = 20000;
     $num2 = 21000;
-    
+
     if(abs($num1 - $num2) <= 10000) {
         echo "The numbers are within 10000 of each other.";
     } else {
@@ -44,7 +44,7 @@ Wow.  Well, that ain't bad, but it could be better:
     $num1 = 20000;
     $num2 = 21000;
     $difference = 10000;
-    
+
     if(abs($num1 - $num2) <= $difference) {
         echo "The numbers are within $difference of each other.";
     } else {
@@ -74,7 +74,7 @@ Misunderstaning my meaning, it gave an otherwise reasonable response:
     understand. The term "difference tolerance" gives a clear
     indication of what the variable is used for, whereas the term
     "constant" does not.
-    
+
     It could also be named "threshold" or "range", as it represents
     the range within which the two numbers are considered close to
     each other.
@@ -87,14 +87,14 @@ I decided to go easy, using some punctuation:
     $num1 = 20000;
     $num2 = 21000;
     $tolerance = 10000;
-    
+
     if(abs($num1 - $num2) <= $tolerance) {
         echo "The numbers are within $tolerance of each other.";
     } else {
         echo "The numbers are not within $tolerance of each other.";
     }
     ?>
-    
+
     In this code, the variable $tolerance holds the constant value of
     10000, which represents the range within which the two numbers are
     considered to be close to each other. The variable is

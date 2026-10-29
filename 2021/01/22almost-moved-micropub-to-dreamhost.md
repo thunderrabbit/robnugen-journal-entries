@@ -21,7 +21,7 @@ Getting back to my DH server.. In the instructions below, I am repeating paths t
 9. Give some place for Micropub to write files: Manually run the hugo command at the bottom of `config.php` to create the site in the public directory `www.robnugen.com`.  In my case, this is the command: `/home/barefoot_rob/bin/hugo --quiet --config /home/barefoot_rob/barefoot_rob/config.toml -s /home/barefoot_rob/barefoot_rob/ -d /home/barefoot_rob/www.robnugen.com/`
 10. Set up Composer (officially requires VPS on DH)
 11. `cd ~/www.robnugen.com/micropub; php composer.phar install; rm composer.phar`
-12. I also copied changes to Micropub that were on my old machine but not yet ported to the new server.  Not sure how much of that was needed. 
+12. I also copied changes to Micropub that were on my old machine but not yet ported to the new server.  Not sure how much of that was needed.
 
 Well, it is working via Quill but not for the text above. If I remove
 some of the lines it works.  Have not figured out what is crashing

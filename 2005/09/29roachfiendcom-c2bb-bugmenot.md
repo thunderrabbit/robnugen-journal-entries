@@ -9,7 +9,7 @@ tags: [ "internet" ]
 
 [roachfiend.com Â» BugMeNot](https://roachfiend.com/archives/2005/02/07/bugmenot/)
 
-This awesome extension is like a dream come true for getting into free registration sites.   
+This awesome extension is like a dream come true for getting into free registration sites.  
 
 mailinator.com is quite nice, but this is even *faster*.
 

@@ -10,7 +10,7 @@ Yesterday Jess and I left (Milo in) Bateman and came out to Gooseberry Hills
 
 We had to change trains in Perth underground and we were getting off the train when I heard the announcement say it was Elizabeth Quay.
 
-"Jess wait!  This is the wrong station!"  I called to her as she got off the train. 
+"Jess wait!  This is the wrong station!"  I called to her as she got off the train.
 
 She was confused and we got back on the train but then a guy on the train asked " do you want to get off in Perth Underground?"
 

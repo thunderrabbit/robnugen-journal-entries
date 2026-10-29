@@ -10,15 +10,15 @@ date: 2015-05-27T15:49:39+09:00
     sub makeThumbs {
         my ($sourceImagePath, $thumbImagePath) = @_;
         print "making thumbnail $thumbImagePath from\n$sourceImagePath\n";
-    
+
     	$image = Image::Magick->new;
     	open(IMAGE, $sourceImagePath);
     	$image->Read(file=>\*IMAGE);
     	close(IMAGE);
-    
+
     	$image->Thumbnail('200,200');  ## not sure if this will work
-    
-    
+
+
     	open(IMAGE, ">$thumbImagePath");
     	$image->Write(file=>\*IMAGE, filename=>$thumbImagePath);
     	close(IMAGE);

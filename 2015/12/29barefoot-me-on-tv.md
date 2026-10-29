@@ -48,15 +48,15 @@ I replied naively
     Hmmm; I might have some, but I'm not sure.  My wife and I are
     going to the US in late January, so I can take those types of
     pictures in the US and send them to you by February 1.
-    
+
     I'd be happy to do another interview on camera, or even have your
     camera crew with me for a day in my actual normal life.  We could
     go somewhere fun like Yomiuri Land, or Korakuen.. or somewhere
     normal like Yoyogi Park or Meiji Jingu.
-    
+
     As a start, we could simply go to a shrine for New Year's Eve this
     coming Thursday night if you like.
-    
+
     You can interview my wife about my bare feet as well.
 
 And he replied as follows.  (Of course they already have plans for new years!)
@@ -67,7 +67,7 @@ And he replied as follows.  (Of course they already have plans for new years!)
     U.S.  I think pictures of you in Yoyogi park or somewhere in the
     street can be either way to be taken in U.S or Japan.  (Like you
     sitting on the bench, or walking on the street)
-    
+
     As for another filming, it could be true if we meet up in the
     airport again.  In the New Year's Eve, we are going to Comic
     market and film OTAKU foreigners.  So, please wait until next

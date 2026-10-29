@@ -51,7 +51,7 @@ Oh no, not ready to go.
 	allocate executable memory, or set pcre.jit=0
 
 I am on shared hosting, so cannot likely grant PHP permission to
-allocate exexutable memory. 
+allocate exexutable memory.
 
 I determined which version of php file to edit with `php -v`
 

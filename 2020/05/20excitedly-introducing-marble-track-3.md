@@ -57,7 +57,7 @@ Predictably, responses to the video were in two main camps.
 [![awesome 37.36](//b.robnugen.com/art/marble_track_3/website/comments/cool/thumbs/awesome_37.36.png)](//b.robnugen.com/art/marble_track_3/website/comments/cool/awesome_37.36.png)
 
 ### "wasted time" ###
-      
+
 [![wasted time 22.46](//b.robnugen.com/art/marble_track_3/website/comments/haha/thumbs/wasted_time_22.46.png)](//b.robnugen.com/art/marble_track_3/website/comments/haha/wasted_time_22.46.png)
 [![wasted time 23.19](//b.robnugen.com/art/marble_track_3/website/comments/haha/thumbs/wasted_time_23.19.png)](//b.robnugen.com/art/marble_track_3/website/comments/haha/wasted_time_23.19.png)
 [![wasted time 23.28](//b.robnugen.com/art/marble_track_3/website/comments/haha/thumbs/wasted_time_23.28.png)](//b.robnugen.com/art/marble_track_3/website/comments/haha/wasted_time_23.28.png)

@@ -15,7 +15,7 @@ from https://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/
 <script src="https://cdn.jsdelivr.net/react/0.14.0-rc1/react-dom.js"></script>
 <script>
 var rootElement =
-  React.createElement('div', {}, 
+  React.createElement('div', {},
     React.createElement('h1', {}, "React"),
     React.createElement('ul', {},
       React.createElement('li', {},

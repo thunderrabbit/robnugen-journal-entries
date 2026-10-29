@@ -35,39 +35,39 @@ I sent this response
 
 
     HI Sanjay
-    
+
     Thank you for the design.
-    
+
     I really like the video embedded in the header graphic, but it seems too dark to me; can it be made somewhat lighter color?
-    
+
     I like that the site is responsive.
-    
+
     Easy changes:
-    
+
     1a) The VIDEO section should be directly below "These guys are great!
     Just look at them go!".  So please swap the order of OUR WORKERS to be
     below VIDEO
-    
+
     1b) remove rectangle from around VIDEO section so it will seem
     connected to above text "Look at them go!"
-    
+
     2a) In the TRACK (PARTS) section, the Made by sections should not have
     a space before the colon ("Made by: " is correct)
-    
+
     2b) In the TRACK (PARTS) section, there should be no space before
     commas after workers names ("Dr Sugar, Mr McGlue, Squarehead" is
     correct)
-    
+
     3) My friend made a rough logo that can replace the four circles logo.
     He will simplify it so it works at a small size
-    
+
 [![marble track 3 logo rough](//b.robnugen.com/art/marble_track_3/website/v2/thumbs/marble_track_3_logo_rough.jpg)](//b.robnugen.com/art/marble_track_3/website/v2/marble_track_3_logo_rough.jpg)
-    
+
     Harder changes
-    
+
     4) Please add a placeholder for the language selection.  There should
     be two languages for now: English and Japanese
-    
+
     5) The hexagon theme doesn't make sense with the marbles; can the
     theme be round instead of hexagons?  Here are some examples of
     unnecessary hexagons, but there are many
@@ -95,9 +95,9 @@ I sent this response
     7) FYI: The current site has no Javascript, so the new site should
     still work without javascript.  (no fancy graphics need without
     Javascript, but the site should work Web 1.0 if javascript is off)
-    
+
     8) There are many errors in browser console.  Please remove or repair the broken code
-    
+
     XML Parsing Error: not well-formed Location: https://www.deligence.com/clients/marbletrack3/index.html# Line Number 21, Column 70: index.html:21:70
     TypeError: MARBLE.initialize.masonry is not a function[Learn More] app.js:291:7
     init https://www.deligence.com/clients/marbletrack3/js/app.js:291:7 dispatch https://www.deligence.com/clients/marbletrack3/js/jquery.min.js:2:41720 add/y.handle https://www.deligence.com/clients/marbletrack3/js/jquery.min.js:2:39774
@@ -106,10 +106,10 @@ I sent this response
     init https://www.deligence.com/clients/marbletrack3/js/app.js:299:7 dispatch https://www.deligence.com/clients/marbletrack3/js/jquery.min.js:2:41720 add/y.handle https://www.deligence.com/clients/marbletrack3/js/jquery.min.js:2:39774
     Source map error: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data Resource URL: https://www.deligence.com/clients/marbletrack3/css/bootstrap.min.css Source Map URL: bootstrap.min.css.map[Learn More]
     Source map error: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data Resource URL: https://www.deligence.com/clients/marbletrack3/css/bootstrap.min.css Source Map URL: bootstrap.min.css.map[Learn More]
-    
+
     9) How do you plan to receive feedback from users?  This site will be
     hosted on Netlify.
-    
+
     10) OUR WORKERS section should be dynamically generated so as I add
     more workers, they will show up on the top page in OUR WORKERS
     section.

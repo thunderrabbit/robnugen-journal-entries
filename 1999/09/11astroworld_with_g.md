@@ -1,5 +1,5 @@
 ---
-title: astroworld with 
+title: astroworld with
 tags: []
 author: Rob Nugen
 date: 1999-09-11

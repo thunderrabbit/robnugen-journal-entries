@@ -7,8 +7,8 @@ tags: [ "news", "terror", "travel" ]
 
 ##21:19 Saturday 01 March 2008
 
-['Virtual Fence' Along Border To Be Delayed - washingtonpost.com](https://www.washingtonpost.com/wp-dyn/content/article/2008/02/27/AR2008022703747.html) 
- 
+['Virtual Fence' Along Border To Be Delayed - washingtonpost.com](https://www.washingtonpost.com/wp-dyn/content/article/2008/02/27/AR2008022703747.html)
+
 
 > Boeing has already been paid $20.6 million for the pilot project, and in December, the DHS gave the firm another $65 million to replace the software with military-style, battle management software.
 

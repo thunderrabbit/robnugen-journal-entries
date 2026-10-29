@@ -14,42 +14,42 @@ My friends have asked me questions, and I find the answers difficult because I h
 During my travels in summer 2005, I met an Israeli woman named Eilat, and a Palestinian woman named Niveen.  During a series of workshops, they described the conflict with which they live every day.  My short, generalized version of the story goes like this:
 
 
-    
-    
+
+
          In the land basically between the Mediterranean Sea and the
          western border of Jordan, people live with tension and fear on a
          daily basis.  Israelis and Palestinians (taken as a group) each
          believe they have the right to live in the area.
-    
+
          Palestinians say they have lived there for generations and want
          to remain.  Israelis say they are blessed by God to live in the
          area.
-    
+
          Supported by various western governments, Jewish people were
          given financial and military support to move into the area.
          After World War II, Jews from Europe were encouraged to move to
          this area, for it was "a land with no people" and they were "a
          people with no land."
-    
+
          The countries in the middle east were clumped together and it was
          assumed that the arabs who lived in the area could simply move to
          other middle eastern countries with the rest of the arabs.
-    
+
          The area was renamed Israel and declared a nation by the United
          Nations in 1948.
-    
+
          The local Palestinians (as well as other arabs) got angry and in
          1967 fought back against what they saw as an invasion.  The
          Israelis, with superior firepower (via the US and British
          governments) won the war and expanded their territory, assuming
          control of West Bank and Gaza, further displacing Palestinians
          from their cities and villages.
-    
+
          Palestinians fought back with bombings and the Israeli
          government decided the obvious solution was to build a wall
          around Palestinian areas and control access to/from and within
          this area.
-    
+
          There is a separation barrier being built now.  Some of the
          barrier is in the form of an 8 meter tall concrete wall, which
          attracts a great deal of graffiti, both from Palestinian and
@@ -59,22 +59,22 @@ During my travels in summer 2005, I met an Israeli woman named Eilat, and a Pale
          a tracer road on one side (a dirt road kept smooth so that
          footprints can be detected easily), then the fence, then a patrol
          road, then another tracer road.
-    
+
          Checkpoints on highways and in the separation barrier (where
          highways used to be) slow traffic within the occupied
          territory.
-    
+
          Palestinians face great difficulties getting permits to build
          homes, and many therefore resort to building without a permit.
          The resulting "illegal" homes face the threat of demolition at
          any time.
-    
+
          Suicide bombing attacks by Palestinian terrorists on Jewish
          citizens keep some Israelis on edge.
-    
+
          Non-suicide attacks by Israeli terrorists against Palestinian
          citizens keep some Palestinians on edge.
-    
+
 
 
 
@@ -206,13 +206,13 @@ Themes on days I was there:
 
 
 
-      
+
   * Carrying large black "snakes" to represent the wall
 
-      
+
   * Large scissors and cord to represent people being cut off from their land
 
-      
+
   * Playground equipment to allow children to play in the demonstration area
 
 

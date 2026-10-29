@@ -10,18 +10,18 @@ date: 2017-04-25T08:32:34+09:00
 I sent this to Fred yesterday:
 
     I often type `gits` to get the status of git.
-    
+
     There is one directory on my filesystem that has a filename
     starting with 0x0x which I must not commit to git, but I need to
     see each time I get git status.
-    
+
     I wrote this
-    
+
         alias gits='git status; if [[ -f 0x0x* ]]; then echo; ls -1 0x0x*; fi'
-    
+
     And it works to *not* complain if there is no 0x0x* file, but does
     not show the file if it is present.
-    
+
     The problem is prolly small; can you fix this with just an alias?
 
 Fred sorted it out last night.  I replied inline:
@@ -63,9 +63,9 @@ yeah that sounds spooky.
 > is useful here:
 >
 > https://stackoverflow.com/questions/2937407/test-whether-a-glob-has-any-matches-in-bash
-> 
+>
 > The one you want is probably
-> 
+>
 >     if test -n "$(find . -maxdepth 1 -name 'glob*' -print -quit)"
 >     then
 >         echo found

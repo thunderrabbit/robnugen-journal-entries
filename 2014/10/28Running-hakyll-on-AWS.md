@@ -11,12 +11,12 @@ UPDATE: [Run Hakyll for free on AWS](/2014/10/30/tutorial-running-hakyll-for-fre
 
 I gave up trying to install Hakyll on Dreamhost when I realized I probably wouldn't be able to install Haskell at all. I have a ticket in to DH now, but I bet they'll say "sorry, not on shared hosting; why don't you try our VPS?"
 
-The following is based on notes I took from [https://marcanuy.com/en/notes/18-deploying-a-laravel-website-with-git](https://marcanuy.com/en/notes/18-deploying-a-laravel-website-with-git) (currently 404, RIP old link), and 
+The following is based on notes I took from [https://marcanuy.com/en/notes/18-deploying-a-laravel-website-with-git](https://marcanuy.com/en/notes/18-deploying-a-laravel-website-with-git) (currently 404, RIP old link), and
 [https://chrisdone.com/posts/hakyll-and-git-for-you-blog](https://chrisdone.com/posts/hakyll-and-git-for-you-blog)
 
 This is a work in progress; better go elsewhere instead of follow the potholed minefield ahead:
 
-Easy as 
+Easy as
 
 1. get server with root access
 2. set up Hakyll
@@ -71,7 +71,7 @@ On Server, set up bare repo:
 cd ~/
 mkdir bare
 mkdir bare/hakyll.git
-cd bare/hakyll.git 
+cd bare/hakyll.git
 git init --bare
 ```
 

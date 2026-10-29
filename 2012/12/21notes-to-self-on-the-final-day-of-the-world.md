@@ -10,13 +10,13 @@ tags: [ "journal", "work" ]
 because Monday is a holiday, I figure my brain will need some notes to reload its current state.  Some notes on my desk point to a URL that will result in the notes here, spewed out by code in progress:
 
 
-    
-    in code above line 64, we need to fill in the default email 
+
+    in code above line 64, we need to fill in the default email
     from site_text factory (into array shown below)
 
 
 
-    
+
     Array
     (
         [renter_id] => 23
@@ -30,7 +30,7 @@ because Monday is a holiday, I figure my brain will need some notes to reload it
 
 
 
-    
+
     above is info from set 1
 
 

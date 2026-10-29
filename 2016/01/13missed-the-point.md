@@ -19,12 +19,12 @@ But today I got back a steaming pile of useless reply:
 
 
     Hello Rob,
-    
+
     This is ______ from the AWS Billing Department.
-    
+
     Thank you for contacting AWS Billing and Accounts support.  I
     apologize for the issue you've been experiencing with S3.
-    
+
     Unfortunately, the complexity of your question is outside our
     scope of knowledge here in Billing and Accounts ... blah blah
 

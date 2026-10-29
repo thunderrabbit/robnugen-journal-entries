@@ -46,7 +46,7 @@ me</rb><rt>I was pooped on by a bird</rt></ruby> in the park.
 
 先生が私に勉強を勧めました。My teacher encouraged me to study.
 
-私は先生に勉強することを勧められました。　I was encouraged to 
+私は先生に勉強することを勧められました。　I was encouraged to
 study by my teacher.
 
 என் ஆசிரியரால் படிப்பதற்காக நான் ஊக்கப்படுத்தியிருந்தேன்.　＜ー　

@@ -13,7 +13,7 @@ I tagged images with Category:Art so can now display a "gallery" of the images w
 
 I still want to sort the images in this category by most recent first.
 
-Per [this answer][1] 
+Per [this answer][1]
 I tried using the date as [sort key][2] for the images in my category, but the images are still [in order by oldest first][3].
 
 One solution would be to reverse the sort order of the category listing.

@@ -16,7 +16,7 @@ tags: [ "airplane day", "news", "terror" ]
 **Letter from Carolyn Ho – mother of Lt Watada**
 
 
-      
+
 
 
 
@@ -57,7 +57,6 @@ Carolyn Ho (Lt. Watada's Mother)
 
 
 
-      
 
 
 
@@ -71,7 +70,8 @@ Carolyn Ho (Lt. Watada's Mother)
 
 
 
-"The war in Iraq is in fact illegal. It is my obligation and my duty to refuse any orders to participate in this war. An order to take part in an illegal war is unlawful in itself. So my obligation is not to follow the order to go to Iraq." - Lt. Ehren Watada 
+
+"The war in Iraq is in fact illegal. It is my obligation and my duty to refuse any orders to participate in this war. An order to take part in an illegal war is unlawful in itself. So my obligation is not to follow the order to go to Iraq." - Lt. Ehren Watada
 
 
 
@@ -153,13 +153,13 @@ Commanding General Fort Lewis
 Fort Lewis, WA 98433
 Phone 253-967-1110
 
-2. ******Spread the word about Feb. 5, 2007.** [ Forward this email](https://ga0.org/ltwatada/join-forward.html?domain=ltwatada&r=EdSZyLn1_LvY&) and post on blogs, MySpace, student, activist, social justice and media websites. [ Register for campaign updates](https://ga0.org/ct/ipSZyLn1rSAy/). 
+2. ******Spread the word about Feb. 5, 2007.** [ Forward this email](https://ga0.org/ltwatada/join-forward.html?domain=ltwatada&r=EdSZyLn1_LvY&) and post on blogs, MySpace, student, activist, social justice and media websites. [ Register for campaign updates](https://ga0.org/ct/ipSZyLn1rSAy/).
 
-3. ******Encourage your organization to endorse the National Day of Action and mobilize on Feb. 5, 2007.** Please specify national, state, city, chapter/local, and contact person, and send to [action@ltwatada.org](mailto:action@ltwatada.org). 
+3. ******Encourage your organization to endorse the National Day of Action and mobilize on Feb. 5, 2007.** Please specify national, state, city, chapter/local, and contact person, and send to [action@ltwatada.org](mailto:action@ltwatada.org).
 
 4. ******Organize a student walkout, rally or vigil on Feb. 5, 2007.** [Tell us](mailto:action@ltwatada.org) about your action so we can include your event on our website.
 
-                          5. [Donate online](https://ga0.org/ct/k1SZyLn1rSAh/) to Lt. Watada's Defense Fund. 
+                          5. [Donate online](https://ga0.org/ct/k1SZyLn1rSAh/) to Lt. Watada's Defense Fund.
 
 
 **website: **[ **www.thankyoult.org**](https://www.thankyoult.org)
@@ -193,7 +193,7 @@ Tacoma, WA
 National Call to Action
 more details to come
 
-For more information contact [info@ltwatada.org](mailto:info@ltwatada.org). 
+For more information contact [info@ltwatada.org](mailto:info@ltwatada.org).
 
 
 
@@ -212,13 +212,13 @@ For courageously standing up and speaking out against the Iraq War, New Year's E
 
 As civilians, the responsibility ultimately falls on us to demand an end to the Iraq war.  In fact, we owe it to the soldiers who are fighting and dying in Iraq every day, as well as those resisting the war. We must all stand up and speak out against the war and in support Lt. Ehren Watada!  
 
-Currently, the Bush Administration is planning to deploy 30,000 more U.S. troops to Iraq, yet the overwhelming majority of Americans oppose the Iraq war. Since 2003 the war has cost 3,000 U.S. soldiers' lives, approximately 950,000 Iraqi deaths, 2 trillion U.S tax dollars or approximately 8 billion dollars a week. We can no longer stand by and continue to allow this great injustice to occur! 
+Currently, the Bush Administration is planning to deploy 30,000 more U.S. troops to Iraq, yet the overwhelming majority of Americans oppose the Iraq war. Since 2003 the war has cost 3,000 U.S. soldiers' lives, approximately 950,000 Iraqi deaths, 2 trillion U.S tax dollars or approximately 8 billion dollars a week. We can no longer stand by and continue to allow this great injustice to occur!
 
 ___"My fellow soldiers are fighting and dying in Iraq and their families are suffering because of the lies and deceptions crafted by the Bush Administration.  The Iraq war is not only a crime against domestic and international law but [it] is a terrible moral injustice against the Iraqi people."  Lt. Ehren Watada_
 
 As the first Army officer to publicly speak out against the war and refuse deployment to Iraq, Lt Watada will be punished by the U.S. Army with a maximum six years in prison.****** The military's intention IS to SILENCE VOICES OF RESISTANCE and make an example out of Lt. Watada.**
 
-Lt. Watada's bold actions have raised the consciousness of thousands of Americans about the illegality and immorality of this war, but his actions alone will not stop the Iraq war.  If Lt. Watada is willing to sacrifice his freedom, then we, too, must voice our opposition and take action to end the war. 
+Lt. Watada's bold actions have raised the consciousness of thousands of Americans about the illegality and immorality of this war, but his actions alone will not stop the Iraq war.  If Lt. Watada is willing to sacrifice his freedom, then we, too, must voice our opposition and take action to end the war.
 
 ******Take Action Feb. 5, 2007 during Lt. Watada's military court martial and make your 2007 New Year's Resolution to Stand with Lt. Watada Against Illegal and Immoral War.**
 
@@ -281,4 +281,4 @@ Pass this message on to three friends and ask them to join the Lt. Watada Suppor
 
 
 
-If you received this message from a friend, you can [sign up for Action Center - Lt. Watada Support Campaign](https://ga0.org/ltwatada/join.html?r=EdSZyLn1_LvYE). 
+If you received this message from a friend, you can [sign up for Action Center - Lt. Watada Support Campaign](https://ga0.org/ltwatada/join.html?r=EdSZyLn1_LvYE).

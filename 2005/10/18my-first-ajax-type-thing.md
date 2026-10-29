@@ -37,36 +37,36 @@ I don't know why it doesn't work here, but it works on my [journal](https://robn
 
 
 
-    
-    
+
+
     <script>
     // Wikipedia JavaScript support functions
-    
+
     function showTocToggle() {
       if (document.createTextNode) {
         // Uses DOM calls to avoid document.write + XHTML issues
-    
+
         var linkHolder = document.getElementById('toctitle')
         if (!linkHolder) return;
-    
+
         var outerSpan = document.createElement('span');
         outerSpan.className = 'toctoggle';
-    
+
         var toggleLink = document.createElement('a');
         toggleLink.id = 'togglelink';
         toggleLink.className = 'internal';
         toggleLink.href = 'javascript:toggleToc()';
         toggleLink.appendChild(document.createTextNode(tocHideText));
-    
+
         outerSpan.appendChild(toggleLink);
-    
+
         linkHolder.appendChild(document.createTextNode(' '));
         linkHolder.appendChild(outerSpan);
-    
+
          toggleToc();
       }
     }
-    
+
      function changeText(el, newText) {
        // Safari work around
        if (el.innerText)
@@ -74,11 +74,11 @@ I don't know why it doesn't work here, but it works on my [journal](https://robn
        else if (el.firstChild && el.firstChild.nodeValue)
          el.firstChild.nodeValue = newText;
      }
-      
+
     function toggleToc() {
       var img = document.getElementById('toc').getElementsByTagName('img')[0];
       var toggleLink = document.getElementById('togglelink')
-      
+
      	if(img && toggleLink && img.style.display == 'block') {
     	    changeText(toggleLink, tocShowText);
     		img.style.display = 'none';
@@ -88,18 +88,18 @@ I don't know why it doesn't work here, but it works on my [journal](https://robn
     	}
     }
     </script>
-    
+
     <table>
     <tr>
     <td id='toc'>
     <div id='toctitle'>
     </div>
-    
+
     <img src='/images/travel/Pb/49th_May-Aug_2005/diving_in_acapulco/diving_in_acapulco-Thumbnails/3.jpg' />
     </td>
     </tr>
     </table>
     <p><script type='text/javascript'>
-     if (window.showTocToggle) { var tocShowText = 'show'; var tocHideText = 'hide'; showTocToggle(); } 
+     if (window.showTocToggle) { var tocShowText = 'show'; var tocHideText = 'hide'; showTocToggle(); }
     </script></p>
-    
+

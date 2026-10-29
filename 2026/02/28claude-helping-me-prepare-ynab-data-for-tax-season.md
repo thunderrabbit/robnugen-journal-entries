@@ -6,7 +6,7 @@ date: 2026-02-28T11:18:00+09:00
 draft: false
 ---
 
-I think I wrote something for this already but haven't posted it 
+I think I wrote something for this already but haven't posted it
 
 The date above is a guess.
 

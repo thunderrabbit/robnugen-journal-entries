@@ -9,6 +9,6 @@ tags: [ "journal" ]
 
 I've just finished chapter 4 of Beginning iPhone Development. Good stuffs.
 
- 
 
- 
+
+

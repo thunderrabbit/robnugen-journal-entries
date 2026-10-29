@@ -8,4 +8,4 @@ draft: false
 
 When waking up today I did a big stretch and heard my clavicle crack a little bit!
 
-I better not stretch too hard for six more weeks until that bone is all grown back where the screws used to be. 
+I better not stretch too hard for six more weeks until that bone is all grown back where the screws used to be.

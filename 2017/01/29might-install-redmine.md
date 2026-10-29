@@ -18,13 +18,13 @@ Travis replied to my plea and gave some more resources, which I hadn't
 looked at before.
 
     Here is a current guide that covers your target OS:
-    
+
     https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04
-    
+
     As for Redmine, I noticed that Docker has an official Remine repository:
-    
+
     https://hub.docker.com/_/redmine/
-    
+
     I see that it is based on Debian, but that is not too different from
     Ubuntu.  Perhaps the Dockerfiles might be helpful reference, and you
     can always execute a shell in a container and check out the install.

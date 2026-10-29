@@ -24,11 +24,11 @@ I held space for her with compassion as she shared her frustration with me.
 
 We were basically talking about how to wind down our relationship; we have two more events to run and then a clean breaking point as I'm going back to Japan.  
 
-She won't have to deal with me and I won't have to deal with her anger. 
+She won't have to deal with me and I won't have to deal with her anger.
 
-She asked me point blank if there's anything that I want to change about myself. 
+She asked me point blank if there's anything that I want to change about myself.
 
-It was a critical juncture and I knew I had to give the right answer, which I also knew wasn't the answer that her ego brain was looking for. 
+It was a critical juncture and I knew I had to give the right answer, which I also knew wasn't the answer that her ego brain was looking for.
 
 I softened my heart and listened for the answers, sharing them as they arose:
 
@@ -44,9 +44,9 @@ Fair enough.  I continued with my list:
 
 "Not fearing anger, not fearing your anger."
 
-I waited for her to fill in a few from her side but she didn't so I continued. 
+I waited for her to fill in a few from her side but she didn't so I continued.
 
-"Asking for support, praying more..." 
+"Asking for support, praying more..."
 
 I paused, then continued into her silence.
 
@@ -58,9 +58,9 @@ I pet Milo as Jess held space for herself and her inner child.  I witnessed her 
 
 She apologized to me in Ho'opponopono style for being critical of me and my behavior.
 
-I forgave her and apologized in the same style for not walking Milo but also acknowledging the blessings that had arisen just now because I didn't walk Milo. 
+I forgave her and apologized in the same style for not walking Milo but also acknowledging the blessings that had arisen just now because I didn't walk Milo.
 
- Jess acknowledged the positive qualities she sees in me, including my attentiveness, which often draws her ire because I'm attentive to different things than she. 
+ Jess acknowledged the positive qualities she sees in me, including my attentiveness, which often draws her ire because I'm attentive to different things than she.
 
 Jess held space for me to express anything I need to express.  I told her how Jeremy had just recently held space for me and invited me to energetically hold space for Jess in the story that has enmeshed me on Friday (two days ago).  This technique of viewing 'the other' with compassion helped me then, again earlier today, and just now with Jess.
 

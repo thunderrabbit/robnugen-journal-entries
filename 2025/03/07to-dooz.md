@@ -8,7 +8,7 @@ draft: false
 
 (written 04:27 Friday 07 March 2025 ACDT)
 
-Today is March 7th, 2025.  I have been working diligently on I'M FINE.  I'm nearing completion of the first draft. 
+Today is March 7th, 2025.  I have been working diligently on I'M FINE.  I'm nearing completion of the first draft.
 
 Regarding I'M FINE, I may need some extra encouragement to finish the draft, so be on the look out for me ignoring it.  ;-)
 

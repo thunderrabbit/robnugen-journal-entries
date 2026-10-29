@@ -18,4 +18,4 @@ A couple days later, I took this picture of Jennie licking the inside
 of a clean plastic bag.  For some reason she loves licking plastic bags!
 
 [![2020 apr 09 jennie likes licking bags](//b.robnugen.com/journal/2020/thumbs/2020_apr_09_jennie_likes_licking_bags.jpg)](//b.robnugen.com/journal/2020/2020_apr_09_jennie_likes_licking_bags.jpg)
- 
+

@@ -12,8 +12,8 @@ tags: [ "news" ]
 
 > Last week, the aircraft was moved from the barge where it had been docked in Jersey City, N.J., to a secure salvage yard in Kearny, N.J, where it will remain throughout the estimated **12 to 18 months the NTSB investigation could take**.
 
-  
-  
+
+
 (My emphasis)  
-  
+
 Um, why is it that the investigation for birds hitting a plane and killed 0 people will take a year, whereas the planes hitting WTC and killing 3000 people took 90 minutes to place blame?

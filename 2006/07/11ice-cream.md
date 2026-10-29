@@ -15,7 +15,7 @@ tags: [ "internet", "miscellaneous" ]
 
 
 
-  
+
 
 Wow!  I never knew the complexities of ice cream!  
 

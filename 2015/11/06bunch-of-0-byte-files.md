@@ -12,16 +12,16 @@ Email I wrote to Fred:
     I just ran a script that was supposed to create thumbnails of
     images as needed, but it created a bunch of 0 byte files in a
     bunch of directories.
-    
+
     So I want a script which will delete 0 byte files and then a
     script which will delete empty directories.  I'll run the second
     script N times (10 should be enough) because they're not toooo
     deep.
-    
+
     I know you're away for the weekend so I'll probably scratch it out
     myself, but I sure want your Bash brain now.  Or maybe I should
     just do it in Perl.
-    
+
     bah.
 
 hmm!  The first part was easy: [find . -size 0 -delete](https://stackoverflow.com/a/3157937/194309)

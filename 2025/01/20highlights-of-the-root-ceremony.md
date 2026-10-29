@@ -28,7 +28,7 @@ Not sure why, but I shook the snuffer again which dripped wax on the floor.
 
 Due to my generally playful behavior, Jess (from across the room) thought I was mucking around (and breaking the flow of the ceremony).  
 
-She goes "Rob, stoppit!" 
+She goes "Rob, stoppit!"
 
 This hit me like an emotional spear and burst me into gasping sobbing tears.
 
@@ -52,7 +52,7 @@ The next night (the third night of the retreat), the ceremony was entitled "rebi
 
 I consumed far less of the plant medicine (by my calculation, 1/48th of my previous night dosage).  
 
-I didn't have any "visions" on either night, but I was relatively coherent on the rebirth morning.   Enough to do lots of happy wild dancing....   
+I didn't have any "visions" on either night, but I was relatively coherent on the rebirth morning.   Enough to do lots of happy wild dancing....  
 during which I stubbed my left middle finger quite badly (enough that it still hurts in the middle knuckle, but at least the bruising has subsided.)
 
 I lay down on my mattress until my finger-stubbing dizziness wore off, carefully checked that it wasn't broken, and then got back to dancing again amidst cheers from the group (none of whom knew I stubbed my finger).
@@ -65,8 +65,8 @@ I woke up maybe 10 seconds later with Christof crouched down beside me.  I might
 
 They had me lay down on my mattress for safety.
 
-I slept until breakfast and many people checked in on me to see how I was doing.  I basically felt loved by the group and humbled by my mind+body. 
+I slept until breakfast and many people checked in on me to see how I was doing.  I basically felt loved by the group and humbled by my mind+body.
 
-And those are highlights of the retreat!   
+And those are highlights of the retreat!  
 
 Jess will definitely attend again at the next chance she can with them.  I'm like 50/50.  I definitely won't try to take a double dose on the first night (or ever again)!

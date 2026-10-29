@@ -20,7 +20,7 @@ The river water was chilly and the sun was scorching.  Once the sun went down be
 
 Today is the day that my cousin Charlie said hi to me during my first live stream announcing my plan to walk to Niigata. We chatted a bit and I sent him pictures today.
 
-At the river location, day campers had to leave by 5:30 p.m. so we packed up and were out by 6:15 or so. 
+At the river location, day campers had to leave by 5:30 p.m. so we packed up and were out by 6:15 or so.
 
 After the river we went to Travis and Yumi's house for snacks, pizza for me, and ice cream for most.  I was again impressed with Travis who did not eat, as I should not have because of my rule to not eat after 6 p.m.  Not much of a rule I guess.
 

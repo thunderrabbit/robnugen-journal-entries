@@ -14,10 +14,10 @@ during this pandemic.
 
 Completing achievable and essential matter for everyday helps me to
 carry on other daily tasks that I do not mention in the group.
-Seeing dynamics in the group is interesting. 
+Seeing dynamics in the group is interesting.
 I feel that this group is like having an accountability partner.
 I really appreciate the guidance received from Rob.
 
-I also appreciate everyone else's insight. I learn a lot every day. 
+I also appreciate everyone else's insight. I learn a lot every day.
 The consistency, the camaraderie and positivity and sharing of ideas
 amongst the family.

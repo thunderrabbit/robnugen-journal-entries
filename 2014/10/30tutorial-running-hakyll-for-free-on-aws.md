@@ -9,7 +9,7 @@ date: 2014-10-30
 
 These notes should work for *nix, including OS X, which I'm using.  Windows users may have to adapt when it comes to local stuff.
 
-Easy as 
+Easy as
 
 1. get server with root access
 2. set up Nginx on server
@@ -87,7 +87,7 @@ And make it look something like this:
 
     Host *
     ServerAliveInterval 120
-    
+
     Host hakyll
         HostName your.ip.addr.ess
         User ec2-user

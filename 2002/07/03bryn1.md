@@ -42,35 +42,35 @@ me
 ---
 
 | Bryn!
-| 
+|
 | I got your card from GA yesterday; thank you so much
-| for that!  I would 
+| for that!  I would
 | like to send kT a card; if you get this before the
-| end of GA (today?) will 
+| end of GA (today?) will
 | you ask her what is the optimal address to send it?
-| 
+|
 | I'm still in my apartment; it's not rented out yet,
-| but it's 90% likely 
-| that Dave from my ex-work will take over my lease. 
-| I have bought an ad in 
+| but it's 90% likely
+| that Dave from my ex-work will take over my lease.
+| I have bought an ad in
 | Houston Press, which should hit the streets in two
-| days.  Dave is also 
+| days.  Dave is also
 | going to buy my bed and blue recliner.  I will place
-| ads for selling my 
+| ads for selling my
 | futon and chest of drawers and desk.
-| 
+|
 | I get internet access free of charge from Kinko's,
-| which is right across 
+| which is right across
 | the freeway from me, so it's closer than my work
 | was.
-| 
+|
 | I'll enjoy talking with you about plans while we're
 | at SWUUSI.
-| 
+|
 | I'll reply more to this email later, probably
 | tonight.
-| 
+|
 | 	  With Love
 | 	  - Rob!!
-| 
+|
 </pre>

@@ -5,8 +5,8 @@ author: Rob Nugen
 date: 1999-11-22
 ---
 
-I found it!  This is my beautiful description of what journal.cgi does: 
- 
+I found it!  This is my beautiful description of what journal.cgi does:
+
     It reads files in the /journal directory (and below) allowing users to read
     through various items.  It allows me to just write a journal entry and drop
     it into the pile; I don't have to update the index.  It uses CSS to give an

@@ -57,7 +57,7 @@ date: 2017-06-18T09:32:05+09:00
     cartons instead of bottles) and occaional meal-ingredient
     delivery.
 13. I have recently bought a new laptop cooler for my 5 yo Macbook.
-14. 9:57am Just arrived in Meiji-Jingu-Mae/Harajuku so see ya after SOGO	
+14. 9:57am Just arrived in Meiji-Jingu-Mae/Harajuku so see ya after SOGO
 
 ## 13:35 Sunday 18 June 2017 JST
 

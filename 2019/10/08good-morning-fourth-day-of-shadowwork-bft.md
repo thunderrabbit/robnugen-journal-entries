@@ -22,15 +22,15 @@ I texted Mark, Christine, and Demi about bringing this work to Tokyo.
 I should text Rin, Hiro, and Soness as well.
 
     Sonessy!  The training here has been great beyond my expectations.
-    
+
     I think this type of work will be better suited in Japan than the
     Mankind Project work I have been doing.
-    
+
     I want to bring some trainers into Japan to lead a ShadowWork weekend.
     Both men and women can do the work together, so I believe it will be
     easier to find enough people who'd be interested in attending.
-    
+
     https://shadowwork.com
-    
+
     I am not yet half way through this training, but I am already thinking
     about how I can do the second training and subsequent trainings.

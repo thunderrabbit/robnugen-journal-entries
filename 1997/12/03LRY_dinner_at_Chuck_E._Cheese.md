@@ -21,7 +21,7 @@ We played much ski-ball and Adam won the jackpot of 182 tickets by getting 350 p
 But there were two coolest things about the night:
 <p>
 <ul>
-<li>While I played a ball shooting game, a baby and his mother were sitting by me.  I suddenly remembered what Linda L recently told me after I wrote my thing on 
+<li>While I played a ball shooting game, a baby and his mother were sitting by me.  I suddenly remembered what Linda L recently told me after I wrote my thing on
 <a href=../../gravity/gravity06.html>ESP</a>. <font size=-1>(side note: as I tried to type "gravity07.html" I mis-typed "gravity06"  Turns out gravity06 was correct...)</font>
 <p>
 Linda wrote:<br>

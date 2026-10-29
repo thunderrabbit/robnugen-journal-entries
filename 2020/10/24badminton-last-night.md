@@ -8,7 +8,7 @@ slug: badminton-last-night
 title: 'badminton last night'
 ---
 
-After watching The Big Lebowski, I was just about to get to work when Tomoko asked if I planned to join badminton. 
+After watching The Big Lebowski, I was just about to get to work when Tomoko asked if I planned to join badminton.
 
 My reply:
 

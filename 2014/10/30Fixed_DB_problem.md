@@ -1,7 +1,7 @@
 ---
 title: Possible bug in MySQL
 tags: [ "mysql" ]
-description: 
+description:
 author: Rob Nugen
 date: 2014-10-30
 ---

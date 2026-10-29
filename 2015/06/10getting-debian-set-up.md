@@ -26,7 +26,7 @@ Next steps in that direction are
 ## 15:14 Thursday 11 June 2015 JST
 
     Less than 24 hours later,
-    
+
         successkid.jpg
-	    
+
     first four items complete!

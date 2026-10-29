@@ -16,13 +16,13 @@ I checked in to the hospital today to get the titanium plate removed from my sho
 
 ### 14:57
 
-A few nurses have come by to check my vitals and my awareness: 
-"what's your full name?" 
+A few nurses have come by to check my vitals and my awareness:
+"what's your full name?"
 "where on your body will the surgery be?"
 
 I've been asked twice so far, and the second time I asked why she's asking.  She said it's to double check, and they'll ask me again tomorrow before and after surgery (I think)
 
-The most recent nurse asked me if I have any questions.  "Hai~ Can y'all take photos for me during the surgery?" 
+The most recent nurse asked me if I have any questions.  "Hai~ Can y'all take photos for me during the surgery?"
 
 She was like "???" so I showed her the photos from when I got the plate inserted.  She said she'll ask the doctor.  I'm optimistic!
 

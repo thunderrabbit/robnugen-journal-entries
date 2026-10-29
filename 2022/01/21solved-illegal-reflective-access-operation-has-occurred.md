@@ -9,7 +9,7 @@ draft: false
 Running burpsuite on Kali Linux, I got "An illegal reflective access operation has occurred"
 
     ┌──(vagrant㉿kali)-[~]
-    └─$ burpsuite 
+    └─$ burpsuite
     Your JRE appears to be version 11.0.12 from Debian
     Burp has not been fully tested on this platform and you may experience problems.
     WARNING: An illegal reflective access operation has occurred

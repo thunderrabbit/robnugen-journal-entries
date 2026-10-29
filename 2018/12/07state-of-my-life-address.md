@@ -58,4 +58,4 @@ snuff with MLAPHP
   me to [Dan Peña's site](https://www.danpena.co.uk/) and it's like damn.
 * Speaking of castles, how is it that we live like royalty did back in the
   day, but compared to back in the day, we still are like slaves?
-* 
+*

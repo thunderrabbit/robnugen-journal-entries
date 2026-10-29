@@ -106,17 +106,17 @@ As originally typed:
     sidewalk and was spewing pencils upward; I used some of tht pencils to
     attack it, stabbing downward thrug the hole so he couldn't come up.
     He could a
-    
+
     he asked if I stabbed him 562 times with 562 pencils how many stabs
     that would e, and I said jsust 562, on per each penciel  five sixyt
     two.  I closed the hle with a rock and believved he couldn't get up
     past it, given all his injuries.
-    
+
     I went up to the house and told one housemate the problem with the
     monsters being bale to reach tecity and that they shoud be careful
     (the roomates) .  a few more roommates came in and I told them the
     same thing, though one didn't trust me for soe reason.
-    
+
     I left the house and was in a feield watchig some designs on the
     ground wheich I realized were zombie traps. to catch white zombies.
     basically they were  grills in the ground where white paint zombies
@@ -141,11 +141,11 @@ As originally typed:
     hi." and he spoke normally  with me, and  ttold me about the time we
     had goine to w a workshop togehter, and I hadn't understood te
     symbology (aonviously) but they guy had.
-    
+
     He showed me some symbols I had see I had apparently seen before and
     said I had missed the obvious cluse clues which he had mentioned.
     This pattern meant write.  So I was able to read, but not to write.
-    
+
     This portion means travel and this means somethign else .  Some of the
     concepts were eing granslated poorly as through Japanese and I said I
     think I understand.   He pointed out "6 of 25  (six of twenty-five)
@@ -157,7 +157,7 @@ As originally typed:
     look at it, and he explained that the maker had been waiting  for
     people to achiev  to crack the code and said that our little quesitons
     had been wasting his (our) time.
-    
+
     At the end, he was trign to communicated next steps and gvae me a
     phone number which I was hard-pressed to enter into my phone.  he was
     saying 090 and I was typing 090 I thought but the nuberall came out
@@ -165,18 +165,18 @@ As originally typed:
     I dind't know why they were working correctlly.  Then i rezlied that I
     was deleteing othe people phone numbers whilen I was tyring to edit
     this phone numbre.
-    
+
     I tried again and again and nearly got to the end of the nuber which
     had more than 4 digits in the last part, then I realized he was saying
     S2
-    
+
     space space space space it was some sort of pager wait two seconds for
     it to pick up and then send the mesage to the pger, and that was how I
     could communicate my desire to hear tht next part of the mesage.
-    
+
     I thanked him and hugged him and thanked him for his time, looking
     carfully into his eyes for a period of time, but not knowing if I'd be
     able to use his informatin since I hand't been able to enter it into
     my phone.
-    
-    
+
+

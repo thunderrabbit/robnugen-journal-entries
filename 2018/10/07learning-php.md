@@ -12,31 +12,31 @@ I have started going through
 for AB website, and now the database is loaded via an autoloader.
 
     <?php
-    
+
     /**
      * This file is part of "Modernizing Legacy Applications in PHP".
      *
      * @copyright 2014-2016 Paul M. Jones <pmjones88@gmail.com>
      * @license https://opensource.org/licenses/bsd-license.php BSD
      */
-    
+
     /**
      * Autoloads classes.
      *
      */
-    
+
     namespace Mlaphp;
-    
+
     class Autoloader
     {
         public function load($class)
         {
             // strip off any leading namespace separator from PHP 5.3
             $class = ltrim($class, '\\');
-    
+
             // the eventual file path
             $subpath = '';
-    
+
             // is there a PHP 5.3 namespace separator?
             $pos = strrpos($class, '\\');
             if ($pos !== false) {
@@ -47,13 +47,13 @@ for AB website, and now the database is loaded via an autoloader.
                 // remove the namespace portion from the final class name portion
                 $class = substr($class, $pos + 1);
             }
-    
+
             // convert underscores in the class name to directory separators
             $subpath .= str_replace('_', DIRECTORY_SEPARATOR, $class);
-    
+
             // the path to our central class directory location
             $dir = dirname(__DIR__);
-    
+
             // prefix with the central directory location and suffix with .php,
             // then require it.
             $file = $dir . DIRECTORY_SEPARATOR . $subpath . '.php';

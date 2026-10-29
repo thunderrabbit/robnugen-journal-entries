@@ -7,10 +7,10 @@ tags: [ "journal" ]
 
 ##22:59 Wednesday 15 February 2012
 
- 
+
 
 Hmm!!  Very interesting!  My angels say "it's all good" though my mind+ego wonders+hopes there's some exciting events.
 
- 
+
 
 I look forward to sustainable fuel sources being used soon thereafter!!

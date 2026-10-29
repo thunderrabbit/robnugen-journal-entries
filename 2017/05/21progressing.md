@@ -29,7 +29,7 @@ I cried yesterday during my Japanese lesson.  I could not stand not
 knowing the answer because I had not studied.  Basically my teacher was
 quizzing me and I kept getting answers wrong because
 
-1. I had not studied 
+1. I had not studied
 2. I do not yet know the verbs
 3. I do not yet grok (in)transative in Japanese (though I basically
 understand the idea in English)

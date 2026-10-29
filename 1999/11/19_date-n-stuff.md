@@ -7,7 +7,7 @@ date: 1999-11-19
 
 ERRRGG!!
 
-I wrote a beatiful description of what index.pl is designed to do.  Absolutely beautiful. 
+I wrote a beatiful description of what index.pl is designed to do.  Absolutely beautiful.
 The beauty is that it actually correctly described what it did and it was easily read and
 made sense, and it was all perfectly justified.  Same number of characters per line......
 

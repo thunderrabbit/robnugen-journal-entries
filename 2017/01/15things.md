@@ -56,19 +56,19 @@ As I'm writing this, I realize it's probably of zero use to anyone, but this lin
     - name: Redmine | Set debconf vars redmine root passwd
       shell: echo redmine redmine/instances/default/mysql/admin-pass password "{{ mysql_root_password }}" | /usr/bin/debconf-set-selections
         become=true
-    
+
     - name: Redmine | Set debconf vars redmine/instances/default/db/app-user
       shell: echo redmine redmine/instances/default/db/app-user string "{{ redmine_db_login }}" | /usr/bin/debconf-set-selections
         become=true
-    
+
     - name: Redmine | Set debconf vars redmine app-pass passwd
       shell: echo redmine redmine/instances/default/mysql/app-pass password "{{ redmine_db_passwd }}" | /usr/bin/debconf-set-selections
         become=true
-    
+
     - name: Redmine | Set debconf vars redmine db types
       shell: echo redmine redmine/instances/default/database-type select mysql | /usr/bin/debconf-set-selections
         become=true
-    
+
     - name: Redmine | Set debconf vars redmine db name
       shell: echo redmine redmine/instances/default/db/dbname string "{{ redmine_db_name }}" | /usr/bin/debconf-set-selections
         become=true
@@ -77,15 +77,15 @@ Replacing with these lines fixed the problem:
 
     - name: Redmine | Set debconf vars redmine root passwd
       shell: sudo echo redmine redmine/instances/default/mysql/admin-pass password "{{ mysql_root_password }}" | sudo /usr/bin/debconf-set-selections
-    
+
     - name: Redmine | Set debconf vars redmine/instances/default/db/app-user
       shell: sudo echo redmine redmine/instances/default/db/app-user    string  "{{ redmine_db_login }}" | sudo /usr/bin/debconf-set-selections
-    
+
     - name: Redmine | Set debconf vars redmine app-pass passwd
       shell: sudo echo redmine redmine/instances/default/mysql/app-pass password "{{ redmine_db_passwd }}" | sudo /usr/bin/debconf-set-selections
-    
+
     - name: Redmine | Set debconf vars redmine db types
       shell: sudo echo redmine redmine/instances/default/database-type select mysql | sudo /usr/bin/debconf-set-selections
-    
+
     - name: Redmine | Set debconf vars redmine db name
       shell: sudo echo redmine redmine/instances/default/db/dbname  string  "{{ redmine_db_name }}" | sudo /usr/bin/debconf-set-selections

@@ -17,4 +17,4 @@ Originally uploaded by [thunderrabbit](https://www.flickr.com/people/thunderrabb
 
 
 I bought these shoes after I saw Jason with a pair before they were crazy popular.
-  
+

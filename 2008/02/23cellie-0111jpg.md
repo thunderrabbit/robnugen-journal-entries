@@ -9,16 +9,16 @@ tags: [ "news" ]
 
 
  [![](https://farm4.static.flickr.com/3097/2285098147_82913f7d92.jpg)](https://www.flickr.com/photos/thunderrabbit/2285098147/)
-   
 
- 
+
+
   [cellie-0111.jpg](https://www.flickr.com/photos/thunderrabbit/2285098147/)
-    
+
 
   Originally uploaded by [thunderrabbit](https://www.flickr.com/people/thunderrabbit/)
- 
 
 
 
 
-  
+
+

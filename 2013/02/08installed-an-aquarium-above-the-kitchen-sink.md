@@ -17,25 +17,25 @@ My suggested future development, possibly in order of easiest to hardest:
 
 
 
-	
+
   1. larger background so rotating the device doesn't force zoom-in
 
-	
+
   2. make fish out of focus when further away
 
-	
+
   3. add crustaceans
 
-	
+
   4. give fish some flaws (nibbled tails, scratches)
 
-	
+
   5. add dust particles when fish swim near the bottom
 
-	
+
   6. let the fish interact with each other (schools, chasing, fighting)
 
-	
+
   7. make the background 3D instead of just an image
 
 

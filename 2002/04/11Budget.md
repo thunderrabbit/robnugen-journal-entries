@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2002-04-11
 ---
 
-From: "Rob Nugen" 
+From: "Rob Nugen"
 To: Charles T
 Subject: numbers
 Date: Thu, 11 Apr 2002 10:08:29 -0500

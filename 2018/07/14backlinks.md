@@ -10,13 +10,13 @@ date: 2018-07-14T05:00:27+09:00
 I keep getting spammed by people looking for backlinks.
 
 > Heyyy Rob,
- 
+
 > So this is super random... but stick with me. I know you're familiar with a tool called Trello because you linked to the Trello website from this page: https://robnugen.com/blog/2013/02/06/a-few-things-in-my-brain-at-4am/
- 
+
 > I'm a huge fan of the platform so I thought I'd give you a heads up about a review I just published on it. It's 3,000+ words long and very thorough. You can see it here: (REDACTED)
- 
+
 > If you like the review, would you consider linking to it from your page?
- 
+
 > If you don't like it, I'll sit and cry in the corner for a while.
 
 I linked to Trello because it is a service I liked at the time.  Plus,

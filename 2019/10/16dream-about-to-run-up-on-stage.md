@@ -55,7 +55,7 @@ But I had to pee!  I could hear them beginning to announce my name,
 but I was all, "do I have enough time to pee first?" and they said
 sure, and there was a door immediately available behind the stage.
 down a few steps, open the door, turn left, another door with a full
-bathroom, though it was dark, and I started to 
+bathroom, though it was dark, and I started to
 </p>
 
 and I woke up and went to pee for real

@@ -10,7 +10,7 @@ tags: [ "leaps" ]
 My friend Karla recently asked a question about leaps of faith:
 
     *Have you ever jumped off a cliff?*
-    
+
     I don't mean literally. Have you ever taken that leap of faith - left
     it all behind without knowing where it would lead you. How did it turn
     out? What were your feelings before and after the jump? How long did
@@ -133,9 +133,9 @@ Best decision ever, because just a year later, I got an email from my
 best roommate ever, Genkiman Dan:
 
     Yo
-    
+
     This thing looks like something you'd enjoy.
-    
+
     Live the Dream
 
 

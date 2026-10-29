@@ -19,7 +19,7 @@ As I was sending <a href="/writing/old/fgnet/index.html">The Feel Good Net</a>, 
 <p>
 No problem! We went to Kinko's with what he had completed, and totally blatantly used the OKC Rally Registration form as our form. We got the whole thing completed and all good in about 25 minutes.  Awesome.
 <p>
-Drove to the church, and in a huge collision of cardboard, 3 mil plastic, staple guns, weird lights and youth, they built a haunted house. 
+Drove to the church, and in a huge collision of cardboard, 3 mil plastic, staple guns, weird lights and youth, they built a haunted house.
 <p>
 The greatest part is the youth design it, the youth direct the creation, the youth are in charge of their own project! I got to crawl inside a big box and simply watch it unfold.
 <p>

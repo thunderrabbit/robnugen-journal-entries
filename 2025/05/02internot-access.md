@@ -6,7 +6,7 @@ date: 2025-05-02T14:44:00+09:00
 draft: false
 ---
 
-### 14:12 Friday 2 May 2025 
+### 14:12 Friday 2 May 2025
 
 I haven't had consistent access to Ye Olde Worlde Wide Webbe while chilling in Riverdell with Jess.
 

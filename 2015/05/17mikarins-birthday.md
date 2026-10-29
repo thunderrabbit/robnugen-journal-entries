@@ -10,7 +10,7 @@ date: 2015-05-17T20:30:33+09:00
 Headed home from Mikarin's birthday party.  Lin's driving her uncle's
 minivan with me, her mom, aunt, and uncle.
 
-Mikarin played a nice song on piano and then was 
+Mikarin played a nice song on piano and then was
 like, 自分で作りました、"I wrote it." Wow!  I wonder if she can/should
 copyright it.
 

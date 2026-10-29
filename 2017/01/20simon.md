@@ -12,7 +12,7 @@ Via my repo to
 
     [server]$ ./password_fix.sh
     This script will set your password to 432 random characters if you enter your current password now:
-    
+
     Enter your password only if you are CERTAIN you can log in without password:
     Okay interactively changing password. Do NOT enter anything at the next password prompt:
     Changing password for user.

@@ -41,7 +41,7 @@ Shut up and drive
 
 Stop letting fear drive the proverbial car in life
 
-    Write a Haiku or two about it: 
+    Write a Haiku or two about it:
 
 
     Write a story about it:

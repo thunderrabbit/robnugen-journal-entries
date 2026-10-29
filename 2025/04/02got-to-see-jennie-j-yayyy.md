@@ -18,4 +18,4 @@ Thank you Nugget for taking the photo!
 
 We got to see Jen's apartment and she showed us a nice park from where we can see the bay. A pink Hummer arrived before us, and a bunch of middle schoolers hopped out.  They must have had a great time!
 
-Big hug to Jennie J and looking forward to another visit while we're in Perth! 
+Big hug to Jennie J and looking forward to another visit while we're in Perth!

@@ -38,7 +38,7 @@ I can imagine comparing the above list to a list calculated from
 
     f((3,3))
 
-which would return the same list of coordinates by adding (0,0) (0,1) (0,1) (0,1) 
+which would return the same list of coordinates by adding (0,0) (0,1) (0,1) (0,1)
 
 But that is error prone beyond my tolerance. (Esp given that it needs to work both directions, or in eight (8)! directions for the square shape)
 
@@ -82,16 +82,16 @@ Then we have:
     1,1,
     1,1
     ],
-    
+
     Tee: [3,
     1,1,1,
     0,1,0,
     0,1,0
     ],
-    
+
     Vert5: [1,
     1,1,1,1,1],
-    
+
     Horiz5: [5,
     1,1,1,1,1]}
 
@@ -122,7 +122,7 @@ is always
 
     [(0,0),(0,1),(1,-1),(0,1)]
 
-I haven't done Tee yet, but 
+I haven't done Tee yet, but
 
     Diff(Sort(Parse([4,
     0,1,1,0,

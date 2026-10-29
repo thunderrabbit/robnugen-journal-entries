@@ -34,4 +34,4 @@ Things to write
 * it's not about you
 * don't take things personally
 * you are the star of your own life (they are the stars of their own lives)
-* 
+*

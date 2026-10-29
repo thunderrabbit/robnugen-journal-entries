@@ -9,6 +9,6 @@ tags: [ "journal" ]
 
 It's easy to be number 1!!!
 
-  
-  
+
+
 [![20130422-083634.jpg](/images/2013/04/20130422-083634.jpg)](/images/2013/04/20130422-083634.jpg)

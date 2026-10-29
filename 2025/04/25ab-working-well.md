@@ -16,4 +16,4 @@ The only downside of this is some of the low level code needs to receive similar
 
 To boost the security, I added 2FA to the admin site. I even used KMS to store the seeds so they're harder to spill.
 
-In other news, soon I'll be working on my own version of the image server they use. 
+In other news, soon I'll be working on my own version of the image server they use.

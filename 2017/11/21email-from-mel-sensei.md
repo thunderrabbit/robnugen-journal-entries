@@ -27,10 +27,10 @@ Rob!
 
 
     2017-11-20 23:39 GMT+09:00 Mel wrote:
-    
+
     ロブさん、こんにちは。
     今週の木曜日のレッスンでは、何を練習したいですか？
     練習したいものがあれば教えてください。
 	if you want me to prepare something for the class, please let me know in advance!
-    
+
     Mel

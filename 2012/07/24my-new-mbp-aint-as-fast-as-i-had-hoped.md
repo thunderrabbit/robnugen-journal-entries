@@ -9,6 +9,6 @@ tags: [ "journal" ]
 
 I have SSD (512GB) and 16GB RAM on my new MacBook Pro, but still, Finder seems to take its sweet time to do some things. Why??
 
- 
+
 
 Also, why does Xcode suck so much? It's seems completely buggy, especially compared to other Mac applications.

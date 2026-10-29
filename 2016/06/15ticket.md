@@ -9,7 +9,7 @@ date: 2016-06-15T19:24:04+09:00
 
 
     Hi Rob.
-    
+
     Please explain me how to make a link to open in a new tab.
     And how to add a link to an image.
 

@@ -42,7 +42,7 @@ haven't thought of it yet.
 Oh I know a good way.
 
     length = length of string
-   
+
     looper =  (0 to 2^length) {
         look at each of looper's bits / and each of string's letters
         0: make lowercase letter

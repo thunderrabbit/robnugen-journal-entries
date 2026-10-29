@@ -62,7 +62,7 @@ determined, honest, focused
 
 18. Do I have any special talents?  unicycle, juggling
 
-19. What is your clearest memory of me?  phone 
+19. What is your clearest memory of me?  phone
 
 20. Have you ever seen me cry? nope
 
@@ -111,11 +111,11 @@ my car
 
 Oh yeah; I might remember that.  I have a memory that says you knew I was safe because Sarah liked me, or something like that.
 
-3. Take a stab at my middle name: Eunice? 
+3. Take a stab at my middle name: Eunice?
 
 Close!
 
-4. How long have you known me? 
+4. How long have you known me?
 Wow! 11 years
 
 Wow
@@ -132,7 +132,7 @@ Abusing your body
 
 I jokingly gave a list to you; I actually know of no bad habits that you have.
 
-7. Do I believe in God? 
+7. Do I believe in God?
 Benevolent, not the Old Testament
 
 basically correct.   (Who/what/why is God is one of my favorite discussions, if you want to get into such a conversation with me)
@@ -219,7 +219,7 @@ Iron Man
 
 You're too kind.
 
-22. Have I ever been in love? 
+22. Have I ever been in love?
 Yes
 
 yes.  Currently I'm in love with _____ in California.
@@ -235,7 +235,7 @@ Sunshine yellow
 bright primary colors
 
 25. If, in one hour, I'd be gone forever... what would
-you say to me now? 
+you say to me now?
 
 You blow my mind.
 Not just the phone call--although that was

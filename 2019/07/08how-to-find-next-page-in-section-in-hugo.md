@@ -24,5 +24,5 @@ https://github.com/thunderrabbit/purehugo-tr/commit/97b09a88d01a493374ba6231185b
                  {{with .PrevInSection}} <a href="{{.Permalink}}" rel="next" style="float: right!important"> {{.Title}} ❯</a>{{end}}
             </div>
 ```
-			
+
 Nice!

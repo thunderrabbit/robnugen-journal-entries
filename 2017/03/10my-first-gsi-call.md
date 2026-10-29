@@ -16,9 +16,9 @@ I plan to ask how to find the best match for a sponsoring community.
 
     We might not use it, but will have people to contact, in case of
     need choose community I feel will support me.
-    
+
     dont worry about upside down directions.  its about who I can get
     support from energetically.  strongly consider making a connection
     in not so distant future.
-    
+
     prioritize geography.  Hawaii, NZ

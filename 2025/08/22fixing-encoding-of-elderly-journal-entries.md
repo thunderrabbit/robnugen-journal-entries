@@ -101,7 +101,7 @@ Thank you!  So far I have fixed these files.
 
 :::
 
-Thank you.  I found one file that showed up as `DOS` when I loaded it in emacs.   IN addition to those, some 
+Thank you.  I found one file that showed up as `DOS` when I loaded it in emacs.   IN addition to those, some
   have been shift-jis.
 
 ::: ai claude
@@ -163,15 +163,15 @@ It was amazing indeed. Pre-internet, but post-pager for sure!
 
 :::
 
-I just documented the last bit of our conversation.  You can see it at 
-https://www.robnugen.com/journal.pl?type=all&date=2025/08/22#fixing-encoding-of-elderly-journal-entries   
+I just documented the last bit of our conversation.  You can see it at
+https://www.robnugen.com/journal.pl?type=all&date=2025/08/22#fixing-encoding-of-elderly-journal-entries  
 
-This is produced by my retro cool static journal using Perl, parsing .md files, 
-including some `::: ai claude` 
-lines to start the sections that you wrote 
-and `:::` to end those sections.   
+This is produced by my retro cool static journal using Perl, parsing .md files,
+including some `::: ai claude`
+lines to start the sections that you wrote
+and `:::` to end those sections.  
 
-It uses hiragana as 
+It uses hiragana as
   counters in my &lt;ol>&lt;li>&lt;/ol> lists because I thought it was cool so I've just kept it as my way of journaling.
 
 ::: ai claude

@@ -26,7 +26,7 @@ We had so much fun hosting you.
 
 I hope your flight is great and that the next leg of your trip is awesome with Lin.
 
-Love you, 
+Love you,
 
 - - - - -
 

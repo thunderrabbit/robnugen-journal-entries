@@ -33,7 +33,7 @@ Now need to create ```journal.cabal``` like this:
     version:        0.1.0.0
     build-type:     Simple
     cabal-version:  >=1.10
-    
+
     executable site
         main-is:            site.hs
         build-depends:      base == 4.*

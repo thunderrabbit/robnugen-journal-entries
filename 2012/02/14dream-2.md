@@ -9,5 +9,5 @@ tags: [ "journal" ]
 
 ![](https://audioboo.fm/boos/666575-dream.jpg)
 
-  
+
 [Dream (mp3)](https://audioboo.fm/boos/666575-dream.mp3?keyed=true&source=embed)

@@ -7,8 +7,8 @@ tags: [ "news" ]
 
 ##10:14 Monday 25 February 2008
 
-  
-[Citizen.com - Laconia NH, Dover NH, Rochester NH, Portsmouth NH, Sanford ME](https://www.citizen.com/apps/pbcs.dll/article?AID=/20080224/GJNEWS02/12852046/-1/CITNEWS)   
+
+[Citizen.com - Laconia NH, Dover NH, Rochester NH, Portsmouth NH, Sanford ME](https://www.citizen.com/apps/pbcs.dll/article?AID=/20080224/GJNEWS02/12852046/-1/CITNEWS)  
 
 
 

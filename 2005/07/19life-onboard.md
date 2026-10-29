@@ -9,7 +9,7 @@ tags: [ "peace boat", "travel" ]
 
 We 16 GET Teachers (GET stands for Global English/Espanol Training) all teach two classes a day on 35 days of the voyage.  During our free time we have the option of being quite busy with lectures and myriad activities on the ship.  (( One of the biggest "problems" on the ship is deciding what to do next!  Every room usually teems with activity. ))  Somewhere during all that (usually at night when we've got several hours before classes) we plan lessons, with each teacher designing his or her own curriculum to fit the students and hopefully coordinate with the ports we're visiting, etc.  One basic philosophy allows the students to immediately use the English they're learning.
 
-GET Teachers and CCs (Communication Coordinators (translators)) room together, separated by gender, with usually 3 or 4 people per room.  We're on the 3rd floor of the ship, the lowest level for passengers, with only crew below us. 
+GET Teachers and CCs (Communication Coordinators (translators)) room together, separated by gender, with usually 3 or 4 people per room.  We're on the 3rd floor of the ship, the lowest level for passengers, with only crew below us.
 
 Right next to my room is a Water Tight Door.  Every night it closes around 11pm and opens around 6am.   Its loud clanging rumble no longer wakes me, but simply gives me a general gauge of how much longer I can sleep.  I have a plan to stick a piece of cardboard in as it shuts to see what happens, but so far this plan hasn't been executed.
 

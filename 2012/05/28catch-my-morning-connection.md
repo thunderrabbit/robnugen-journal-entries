@@ -9,9 +9,9 @@ tags: [ "journal" ]
 
 Sweet!  I stepped barefootedly onto the Tokaido line and saw Michael Q Todd standing right there!  [https://xeeme.com/michaelqtodd](https://xeeme.com/michaelqtodd)
 
-He's just back from 14 months on The Gold Coast of OZ, and will be finishing his new book soon after doing a speaking tour overseas. 
+He's just back from 14 months on The Gold Coast of OZ, and will be finishing his new book soon after doing a speaking tour overseas.
 
-We were both headed to Shinagawa, and I detected some free time in his schedule so suggested he get a hug from AMMA, right across the street from the station. 
+We were both headed to Shinagawa, and I detected some free time in his schedule so suggested he get a hug from AMMA, right across the street from the station.
 
 He said he wasn't surprised at all the synchronicities; I'm reading A New Earth by Eckhart Tolle, one of the three books Michael owns: "there's a big shift in consciousness that's been accelerating in the past few months."
 

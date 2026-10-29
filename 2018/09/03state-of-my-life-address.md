@@ -37,7 +37,7 @@ date: 2018-09-03T06:12:06+09:00
    * Three, so I can have a [history of the file](https://github.com/marbletracks/marbletrack3.com/commit/16c9e0acfbebcccf8de83e94ae738e61efdc1f47), which currently is *not* sorted by Publish Date, though I would like it to be
      because that would make it easier to figure out what to name the
      livestreams that did not get unique names.
- 
+
 6. I have just linked git commits both directions from Marble Track 3
    source to my journal entries, and from my journal entries to Marble
    Track 3 source.  Which ones will break first?

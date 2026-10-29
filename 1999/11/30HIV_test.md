@@ -20,7 +20,7 @@ concern about writing all kinds of sex stuff on my site.  I asked for
 Wende's opinion and she was all, "isscool with me; just don't describe
 anything explicitly."   That makes sense.
 
-There are more considerations, of course - mainly who will read them. 
+There are more considerations, of course - mainly who will read them.
 In some parts of our lives we are role models to youth, and I know some
 of them read my site.  This is the real me, guys.  Advisors are people
 too.

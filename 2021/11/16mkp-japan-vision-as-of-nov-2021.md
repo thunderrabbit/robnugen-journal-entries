@@ -21,7 +21,7 @@ Context: twelve men are just finishing MKP Japan’s first Circle of Men trainin
 4. Transcreate processes into Japanese language/culture
 
 
-### IMMEDIATE TERM 
+### IMMEDIATE TERM
 
 1. Reconnect with Nathan and other men in our original 7pm Tuesday meeting
 2. Share Circle of Men processes with existing men
@@ -35,7 +35,7 @@ Context: twelve men are just finishing MKP Japan’s first Circle of Men trainin
 1. Have two (or more) groups meeting regularly
 2. Transcreate MKP USA Open Group into Japanese (Rob, Richard, Fabien, Eli have attended those)
 3. Regular posting to newsletter / blog
-4. Strategically post videos of member interviews 
+4. Strategically post videos of member interviews
 5. Have a mentee relationship with an established MKP community
 6. Encourage committed men to attend NWTA
    (so far: Rob, Kevin, Michael, Mark)
@@ -55,4 +55,4 @@ Context: twelve men are just finishing MKP Japan’s first Circle of Men trainin
 2. Lead other MKP trainings in Japanese language
 3. Replace Rob with bilingual New Warrior
 4. Offer mentoring into younger community in Japan
- 
+

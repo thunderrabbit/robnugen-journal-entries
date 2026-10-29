@@ -16,12 +16,12 @@ I wrote this to them:
 
     Super Pumped and realllllly happy that you guys are considering making
     SSL the DEFAULT for all sites!  THat's fantastically fantabulous!!
-    
+
     I've got it set up on one of my sites, and I tried it on another but
     haven't gotten it to work yet, so I'm really thrilled you guys are
     working hard to make this functionality easy.
-    
+
     I'm so excited that I'm happy happy happy to be an alpha or beta tester for this and for the UI that allows us to turn on HTTPS.  
-    
+
     And, I'm telling all my friends how great Dreamhost is to encourage
     encryption!

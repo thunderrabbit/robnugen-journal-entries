@@ -14,16 +14,16 @@ Here's what I wrote to Apple when the dialog said "oh you killed Mail app; do yo
 want to report it?"
 
     Finder won’t start.
-    
+
     I don’t know if that’s affecting Mail, but I had to kill finder
     because its one (1) single window couldn’t display ten (10) ten
     little (less than 1MB each) images.  It just hangs with a blank
     white page and spinning icon.  I can see the images with terminal;
     I can see them with emacs.  I can see them with Cyberduck.  But
     not Finder.
-    
-    Why can’t I see them with Finder? 
-    
+
+    Why can’t I see them with Finder?
+
     I’ll stop here, but I swear on my million times I’ve yelled at my
     computer I will never buy Apple gear again.
 

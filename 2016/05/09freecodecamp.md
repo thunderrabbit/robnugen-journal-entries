@@ -31,25 +31,25 @@ I've been using the following technique to do most of the recent
 exercises:
 
     var ThingDoer = function() {
-    
+
         var tdSecretVar, anotherSecretVar;
-    
+
         this.publicMethod = function(param) {
             var result;
-		
+
             // do something cool, perhaps with tdSecretVar and brethren
-			
+
             return result;
         }
-    
+
         return this;
     }
-    
-    
+
+
     globalTest() {
-    
+
         var myThingDoer = new ThingDoer();
-    
+
         return myThingDoer.publicMethod();
-    
+
     }

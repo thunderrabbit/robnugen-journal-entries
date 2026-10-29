@@ -15,7 +15,7 @@ tags: [ "technology" ]
 
 
 
-  
+
 
 
 
@@ -25,7 +25,7 @@ This should be pretty amazing.   As they say, a paradigm shift.
 
 
 
-  
+
 
 
 

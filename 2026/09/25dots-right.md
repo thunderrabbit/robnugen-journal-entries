@@ -19,7 +19,7 @@ track of the state of the game through JSON files in a directory
 that's not accessible via the web.
 
 I'm happy it worked well enough that I
-was able to send a link to Maiku who happened to be awake and 
+was able to send a link to Maiku who happened to be awake and
 [we
 played a quick game](https://games.chatforest.com/dots/#g=f4e8a4f2dc3b).
 I used a technique to beat him quite handily at

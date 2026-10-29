@@ -16,7 +16,7 @@ turntablism was fresh.
 (These are my definitions; if you have a better or more precise
 definition, use it!)
 
-vinyl n. - twelve inch record with sounds recorded on it. Also "wax" 
+vinyl n. - twelve inch record with sounds recorded on it. Also "wax"
 
 turntable n. - device on which vinyl is played.  has a speed adjuster
 to change the pitch

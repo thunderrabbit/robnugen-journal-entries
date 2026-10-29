@@ -11,10 +11,10 @@ tags: [ "journal" ]
 
 [See the full gallery on Posterous](https://stream.robnugen.com/overnight-to-ippeki-sou)
 
-Stayed at Ippeki Sou near Ippeki Ko last night.  Ippeki is a name that might mean First Blue...  Sou means house.  Ko means lake. 
+Stayed at Ippeki Sou near Ippeki Ko last night.  Ippeki is a name that might mean First Blue...  Sou means house.  Ko means lake.
 
 We went with her aunt and uncle who said the place was nice this time of year, just before sakura blossoms so we had the place to ourselves. Lin and I got to enjoy the hot bath together, and I was going to go back to the onsen late at night when it would be nearly pitch black, but at 2am or so, all tucked in bed, I woke up and thought, "this is my chance," but didn't take it. Zzzzzzz seemed more likely if I went, and not some nice meditative state.  Perhaps next time I'll do it.
 
-U-Cow enjoyed the cascading water, and I had Lin take a video of me rolling into the tub from all fours on its edge.  Might remember to post it, but even if I do I might not be able to for inadvertent non-G rated content. 
+U-Cow enjoyed the cascading water, and I had Lin take a video of me rolling into the tub from all fours on its edge.  Might remember to post it, but even if I do I might not be able to for inadvertent non-G rated content.
 
 Food was normal Japanese style, with several small portions served in decorative dishes.  A slice of baked fish for dinner last night and a whole small grilled fish for breakfast this morning.

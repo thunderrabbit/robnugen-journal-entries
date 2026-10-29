@@ -8,7 +8,7 @@ draft: true
 
 (written 07:18 Wednesday 30 March 2022 JST)
 
-Resistance - Fear of unknown masses on the internet 
+Resistance - Fear of unknown masses on the internet
 
 Body - gut, Shape-slide cold black granite, expanse.
 

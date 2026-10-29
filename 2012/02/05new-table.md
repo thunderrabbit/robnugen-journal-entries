@@ -11,6 +11,6 @@ tags: [ "journal" ]
 
 [See the full gallery on Posterous](https://stream.robnugen.com/new-table)
 
-Lin and I put together a table from a kit we got at Ikea yesterday.  There was actually one (pair of) mistake(s) in the kit, but otherwise it was super simple to make. 
+Lin and I put together a table from a kit we got at Ikea yesterday.  There was actually one (pair of) mistake(s) in the kit, but otherwise it was super simple to make.
 
 Easy as one, two, three, four, five, oops, four, break, break, five, six, seven, eight!!

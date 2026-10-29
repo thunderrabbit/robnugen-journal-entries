@@ -8,7 +8,7 @@ draft: false
 
 Yayy I made my desired train!  I rode my bicycle to Yurigaoka Station but the bicycle parking lot was chokkas so I rode my bicycle to Shin Yurigaoka station along some back streets I don't use often 😀
 
-One of the bicycle parking attendants at Shin Yurigaoka had just finished his shift, but he still offered to guide me to a space and asked me if sandals are only for riding bicycle 😂 
+One of the bicycle parking attendants at Shin Yurigaoka had just finished his shift, but he still offered to guide me to a space and asked me if sandals are only for riding bicycle 😂
 
 I told him yes and he watched as I tucked my sandals into the spokes of my back wheel for safe keeping.
 

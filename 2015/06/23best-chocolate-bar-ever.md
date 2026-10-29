@@ -19,9 +19,9 @@ UPC: 4 901360 314652
 My comment on their site:
 
     これは神さまが自分で作りましたでしょうか？
-    
+
     不思議最高な味。おめでとうございます。ありがとうございます。
-    
+
     God himself made this, right?
-    
+
     It's unbelievably perfectly delicious.  Congratulations; thank you.

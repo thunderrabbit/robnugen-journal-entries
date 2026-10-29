@@ -6,7 +6,7 @@ date: 2020-05-30T16:24:38+09:00
 draft: false
 ---
 
-After walking in the morning I had a BLB men's group meeting and then went to 町田 to meet Sanae for Japanese lesson with KUMON. 
+After walking in the morning I had a BLB men's group meeting and then went to 町田 to meet Sanae for Japanese lesson with KUMON.
 
 It took nearly an hour to correct all my mistakes in part B, and I passed the part C pages to her and passed the part C test pretty easily.
 

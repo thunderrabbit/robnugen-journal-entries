@@ -19,7 +19,7 @@ date: 2019-11-12T23:30:14+09:00
     Can you abort in the middle?
     Is it likely safe?
     What's the temperature?
-    
+
     Let's walk!  How does it feel?
     Is it like you expected?
     What did you expect?
@@ -28,7 +28,7 @@ date: 2019-11-12T23:30:14+09:00
     Are there differences you didn't expect?
     How about different materials? Textures? Colors?
 	   (White paint and black asphalt are quite different temperatures in the summer!)
-    
+
 Some surfaces can have surprises, so keep a close watch where you are
 walking, at least until you are comfortable with the area.  Some
 surfaces (flat black tile along Roppongi Dori) can be surprisingly hot

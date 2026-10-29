@@ -8,7 +8,7 @@ draft: false
 
 (written 19:56 Thursday 11 January 2024 JST)
 
-https://www.youtube.com/watch?v=ZVF2AYJ3zic 
+https://www.youtube.com/watch?v=ZVF2AYJ3zic
 
 Real laws cannot be broken.
 

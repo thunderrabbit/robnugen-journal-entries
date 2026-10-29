@@ -14,7 +14,7 @@ Now I'll photograph each item...
 
 Or probably I should post the event first.
 
-Oooh this is better I think 🤔 
+Oooh this is better I think 🤔
 
 [![2026 jul 14 blue mug thai lock blue whale snoopy glass bali box clockerchief nin cds 1000](//b.robnugen.com/journal/2026/thumbs/2026_jul_14_blue_mug_thai_lock_blue_whale_snoopy_glass_bali_box_clockerchief_nin_cds.jpeg)](//b.robnugen.com/journal/2026/2026_jul_14_blue_mug_thai_lock_blue_whale_snoopy_glass_bali_box_clockerchief_nin_cds_1000.jpeg)
 

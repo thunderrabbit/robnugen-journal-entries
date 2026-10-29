@@ -24,9 +24,9 @@ On Thu, May 18, 2023 at 7:30 PM Travis wrote:
 > Here are links to a KTRU video and article!
 
 You had me at KTRU!
- 
+
 {{< youtube JmOftrE55ms >}}
-    
+
 What a great video and great run down memory lane.  I paused it like
 ten times to read stickers and look for any I recognized.  None!  I
 guess 25 years will do that to a wall of stickers haha

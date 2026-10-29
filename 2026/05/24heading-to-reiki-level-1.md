@@ -8,7 +8,7 @@ draft: false
 
 I arrived at the train station in time yayyyy!
 
-Last night after dinner I went to sleep plenty early 
+Last night after dinner I went to sleep plenty early
 but with the shades drawn, I couldn't tell what time it was and only woke up at bladder-thirty.
 
 Looking at my phone oh snap!  I gotta bounce soon! I had a seat, checked Google Maps and fortunately I had about 15 minutes.  "Sorry, #2; you'll get another chance."

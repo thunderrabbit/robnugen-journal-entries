@@ -11,6 +11,6 @@ tags: [ "journal" ]
 
 I regret to report that [cow clicker](https://www.jwz.org/blog/2012/02/im-clicking-a-cow/) has run out of cows for its new users. This was bound to happen, with so many people picking up on this facinating game.
 
- 
 
- 
+
+

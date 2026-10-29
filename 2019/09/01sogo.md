@@ -12,7 +12,7 @@ I haven't written about Christine's party not Rin's workshop, but
 I'm headed to SOGO!  We are apparently meeting in a new location today. I guess there is some kind of festival covering our normal area.
 I am super glad I checked, and even more glad Ruri posted the change!
 
-- - - - - - - 
+- - - - - - -
 
 Yesterday at the Tokyo Tribe monthly vision planning workshop, we met in B1 of the building from last month.
 

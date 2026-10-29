@@ -10,7 +10,7 @@ I just received my 12oz bottles via Kickstarter; congratulations and gratitude t
 
 I noticed inside the bottle of has the volume indicators. Nice 🙂.  
 
-Oh interesting: 8oz and 12o (not 12oz).  Intentional?  🤔 
+Oh interesting: 8oz and 12o (not 12oz).  Intentional?  🤔
 
 https://b.robnugen.com/journal/2025/2025_aug_01_sky_blue_12o_difold_bottle_1000.jpeg
 

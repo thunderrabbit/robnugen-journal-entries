@@ -15,11 +15,11 @@ But first I need a handy way to read the values and change the values.
 I just discovered unions require distinct values.
 
     SELECT 'jan', `arc_updated`, `marked_new`, `current_status_date`, `occupied_date`, `days_on_market`, `date_on_the_market`, `date_available`  FROM `units_2018_01_01` WHERE `unit_id` = 229
-    UNION 
+    UNION
     SELECT 'feb', `arc_updated`, `marked_new`, `current_status_date`, `occupied_date`, `days_on_market`, `date_on_the_market`, `date_available`  FROM `units_2018_02_01` WHERE `unit_id` = 229
     UNION
     SELECT 'mar', `arc_updated`, `marked_new`, `current_status_date`, `occupied_date`, `days_on_market`, `date_on_the_market`, `date_available`  FROM `units_2018_03_01` WHERE `unit_id` = 229
-    UNION 
+    UNION
     SELECT 'apr', `arc_updated`, `marked_new`, `current_status_date`, `occupied_date`, `days_on_market`, `date_on_the_market`, `date_available`  FROM `units_2018_04_01` WHERE `unit_id` = 229
 
 Because the unit did not change over time, I have to add a fake

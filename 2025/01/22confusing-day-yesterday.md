@@ -23,7 +23,7 @@ I didn't explain it was just joking, knowing there's a kernel of truth behind ea
 She did her own processing after I went down to the dining area for the breakfast buffet.  The maître d' bouncer guy was the same we had seen last week, who asked multiple times to confirm we don't wear shoes.  He finally softened after a while and just said to watch out for glass.
 Today he didn't comment on my bare feet.  For this I was thankful.  I told him something like, "I'm checking in one of two people for our room," to ensure Jess would be able to enter easily when she came down.
 
-I enjoyed food, including fruits, coconut yogurt, hash browns, and baked beans and drinks (orange juice I mixed with pineapple juice).   
+I enjoyed food, including fruits, coconut yogurt, hash browns, and baked beans and drinks (orange juice I mixed with pineapple juice).  
 I also enjoyed the music, including Total Eclipse of the Heart, which reminds me of singing with Sita in Thailand all those years ago. Near the end, I heard a woman behind me singing along as well.  When I looked back, she smiled shyly and then explained, "it's a classic."   I agreed.
 
 Jess arrived after a while and shared what came up for her in her processing.  I actively listened with curiosity and encouraging words.

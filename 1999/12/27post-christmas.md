@@ -14,7 +14,7 @@ butt hurts from unicycling.
 
 Today Channing IMed me and asked about KTRU.  After I told him all our
 music types, he was all, "what's Navrang?"  I told him it was music from
-India (but I'm afraid even that might be wrong), and that's all I know. 
+India (but I'm afraid even that might be wrong), and that's all I know.
 Turns out he was able to listen on RealAudio, so I called Alison at the
 station and requested some Navrang for him.
 

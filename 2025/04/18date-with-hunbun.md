@@ -6,11 +6,11 @@ date: 2025-04-18T12:51:00+09:00
 draft: false
 ---
 
-Today Jess and I went shopping and discovered nearly all the shops are closed on Easter Friday! 🐰 
+Today Jess and I went shopping and discovered nearly all the shops are closed on Easter Friday! 🐰
 
-Close to the beach more things were open and we were able to get a great Indian vegan samosa and pakora which we ate at the beach. 
+Close to the beach more things were open and we were able to get a great Indian vegan samosa and pakora which we ate at the beach.
 
-I saw a pigeon with some fishing line stuck to his foot but I couldn't do anything to help him because I'm sure it would take a net to catch him, plus gloves, and possibly scissors  to safely remove the fishing line. 
+I saw a pigeon with some fishing line stuck to his foot but I couldn't do anything to help him because I'm sure it would take a net to catch him, plus gloves, and possibly scissors  to safely remove the fishing line.
 
 I made a football shaped triangle out of the bag and tried to toss it into the trash can but it didn't make it in.
 

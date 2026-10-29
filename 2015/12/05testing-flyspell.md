@@ -8,7 +8,7 @@ date: 2015-12-05T19:18:39+09:00
 ## 19:18 Saturday 05 December 2015 JST
 
 So if I type a word incorretcly, flyspell should fix it.  I just now
-told flyspell to load, and didn't see any errors, so I 
+told flyspell to load, and didn't see any errors, so I
 
 ## 19:44
 

@@ -45,19 +45,19 @@ auto-justification of seventy-three characters in each line.  But watch.
 Now I shall begin the process of removing a single character from every
 line, thereby slowly shrinking the margins of this message.  Now truly
 this was not my idea.  I have stolen it from a message I saw in 1994.
-                                                                     
+
 But I want my document to be better in some way.  I think with five
 line paragraphs, that will do the trick.  Please notice above, two
 characters have been removed from the first line of the paragraph
 so that the overall smooth diagonal line will be maintained over
 the paragraph boundaries.  I hope that readers appreciate this.
-                                                               
+
 My true goal for writing this is to spread some type of humor
 throughout the Internet, and for my message to be copied and
 forwarded millions of times throughout the globe.  Everyone
 has received far too many fake emails, each promising cash
 rewards or some type of good luck if people forward them.
-                                                         
+
 However, I mostly hate the fake virus warning messages.
 Maybe hate is too strong of a word, but I think people
 who resort to such ridiculous and childish methods of

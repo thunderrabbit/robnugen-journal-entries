@@ -26,5 +26,5 @@ Hike.
 Haiku?
 
     Rob Unsuspecting.
-    Mike, waiting with bated breath 
-    Springs the perfect trap 
+    Mike, waiting with bated breath
+    Springs the perfect trap

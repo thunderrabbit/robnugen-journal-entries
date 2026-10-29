@@ -8,7 +8,7 @@ date: 1999-11-24
 Yesterday at KTRU I played an entire show (2 hours) of only bands that have
 animal names in their name:
 
-Band names like Iron Butterfly, Dead Horse, Hepcat, The Frogs, The Gerbils, 
+Band names like Iron Butterfly, Dead Horse, Hepcat, The Frogs, The Gerbils,
 Michelle Gun Elephant, Radiant Pig...  you get the idea.
 
 I couldn't find enough such bands from playlist to meet playlist requirements

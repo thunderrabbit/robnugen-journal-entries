@@ -43,15 +43,15 @@ $ vagrant init geerlingguy/ubuntu1404; vagrant up --provider virtualbox
     Please verify that these guest additions are properly installed in the
     guest. This is not a bug in Vagrant and is usually caused by a faulty
     Vagrant box. For context, the command attemped was:
-    
+
     set -e
     mount -t vboxsf -o uid=`id -u vagrant`,gid=`getent group vagrant | cut -d: -f3` vagrant /vagrant
     mount -t vboxsf -o uid=`id -u vagrant`,gid=`id -g vagrant` vagrant /vagrant
-    
+
     The error output from the command was:
-    
-    
-    
+
+
+
 
 $ vagrant plugin install vagrant-vbguest
 

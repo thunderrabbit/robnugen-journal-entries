@@ -6,7 +6,7 @@ date: 2025-05-13T23:43:00+09:00
 draft: false
 ---
 
-This is literally just outside my sliding glass door in my apartment. 
+This is literally just outside my sliding glass door in my apartment.
 
 I would call it my patio but it's actually just rocks... I put a blanket on them.
 

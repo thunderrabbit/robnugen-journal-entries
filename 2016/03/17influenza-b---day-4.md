@@ -18,13 +18,13 @@ I'm going to the clinic today, but I can't speak!  hmmm
 I printed this note for the doctor:
 
     Today I feel about 80% of my energy back
-    
+
     My bowels are better, and I can eat
-    
+
     but I cannot speak!  It's been 44 hours that I cannot speak
-    
+
     I still cough a little bit, but my lungs are mostly clear
-    
+
 
 ## 10:51am
 

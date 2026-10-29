@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2014-11-27
 ---
 
-##4:17am 
+##4:17am
 
 <div class="dream">
 "ohhhh, those are *our* boxes!" we kept repeating it because the reality was setting in  We had decided to start a restaurant.  "Oh, those are *our* boxes"

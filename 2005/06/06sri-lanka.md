@@ -12,13 +12,13 @@ Not just Sri Lanka, but Columbo, which is the largest city (though not the capit
 The homes here are often covered in corrugated sheet metal, with patchwork quilt appearance from above.  We got a tour through a university (possibly named Kabilla) and it started raining (we're in monsoon season now) so little red muddy rivers formed between the trees.  We got to do some drumming with cool drumsticks with rings for the mallet part that give a good springy feel and a nice clear drum cadence.
 
 
-    
-    
+
+
     ==========--------.=.
                      /   \
                     |     |   < --- hollow ring
                      \___/
-    
+
 
 
 
@@ -32,7 +32,7 @@ The dinner was lovely; various types of curry and two types of rice.  Then a coo
 
 - - - -
 
-The GET students did presentations on yukatas and tea ceremony and bon odori (a traditional Japanese dance).  I particularly enjoyed the tea ceremony one because I helped Suzuko write her speech before she presented the ceremony.  Most interesting is that it took three minutes for her to prepare a bowl of tea. A real tea ceremony takes two or three *hours*, and includes preparing the meal before the tea. 
+The GET students did presentations on yukatas and tea ceremony and bon odori (a traditional Japanese dance).  I particularly enjoyed the tea ceremony one because I helped Suzuko write her speech before she presented the ceremony.  Most interesting is that it took three minutes for her to prepare a bowl of tea. A real tea ceremony takes two or three *hours*, and includes preparing the meal before the tea.
 
 - - - -
 

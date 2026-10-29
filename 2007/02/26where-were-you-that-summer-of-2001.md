@@ -12,12 +12,12 @@ This is the kind of info that was floating around before the war in Iraq that ev
 
 
 
-> 
+>
 
-> 
+>
 > **This is why the entire debate about the Iraq "surge" is as much a sideshow as Britney's scalp. More troops in Baghdad are irrelevant to what's going down in Afghanistan and Pakistan. The surge supporters who accuse the Iraq war's critics of emboldening the enemy are trying to deflect attention from their own complicity in losing a bigger battle: the one against the enemy that actually did attack us on 9/11. Who lost Iraq? is but a distraction from the more damning question, Who is losing the war on terrorism? **
-> 
-> 
+>
+>
 
 
 

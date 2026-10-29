@@ -32,7 +32,7 @@ none           tmpfs     100M     0  100M   0% /run/user
 root@ip-10-0-33-142:/#
 root@ip-10-0-33-142:/# lsblk
 NAME    MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
-xvda    202:0    0    16G  0 disk 
+xvda    202:0    0    16G  0 disk
 └─xvda1 202:1    0    16G  0 part /
 xvdc    202:32   0   150G  0 disk /var/www/fsnet/filestore
 xvdf    202:80   0   150G  0 disk                                <--- oops
@@ -55,11 +55,11 @@ none           tmpfs     100M     0  100M   0% /run/user
 /dev/xvdf      ext4      148G   52G   90G  37% /var/www/fsnet/cache
 root@ip-10-0-33-142:/# lsblk
 NAME    MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
-xvda    202:0    0    16G  0 disk 
+xvda    202:0    0    16G  0 disk
 └─xvda1 202:1    0    16G  0 part /
 xvdc    202:32   0   150G  0 disk /var/www/fsnet/filestore
 xvdf    202:80   0   150G  0 disk /var/www/fsnet/cache
-root@ip-10-0-33-142:/# 
+root@ip-10-0-33-142:/#
 ```
 
 Via
@@ -76,5 +76,5 @@ root@ip-10-0-33-142:/# cat /etc/fstab
 LABEL=cloudimg-rootfs	/	   ext4	defaults,discard	0 0
 /dev/xvdc /var/www/fsnet/filestore ext4 defaults,nofail 0 0
 /dev/xvdf /var/www/fsnet/cache     ext4 defaults,nofail 0 0
-root@ip-10-0-33-142:/# 
+root@ip-10-0-33-142:/#
 ```

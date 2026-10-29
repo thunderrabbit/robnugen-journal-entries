@@ -6,7 +6,7 @@ date: 2026-08-18T22:10:00+09:00
 draft: false
 ---
 
-After the Practical philosophy meeting, we took some time out from the crowd for a nice check-in in the park. 
+After the Practical philosophy meeting, we took some time out from the crowd for a nice check-in in the park.
 
 Thank you guys for a great conversation!
 

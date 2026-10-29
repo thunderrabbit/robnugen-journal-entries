@@ -21,7 +21,7 @@ My functions ask me for Title, Tag, and date..  then produce output like this:
     author: Rob Nugen
     date: 2017-07-08T14:23:30+09:00
     ---
-    
+
     ## 14:23 Saturday 08 July 2017 JST
 
 I would like emacs to keep asking me for tags so it could produce output like this, for example:
@@ -32,7 +32,7 @@ I would like emacs to keep asking me for tags so it could produce output like th
     author: Rob Nugen
     date: 2017-07-08T14:23:30+09:00
     ---
-    
+
     ## 14:23 Saturday 08 July 2017 JST
 
 

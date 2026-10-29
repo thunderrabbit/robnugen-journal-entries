@@ -13,10 +13,10 @@ Here's my list of today's todos
 * ✅ Refill water dishes (two bird baths and two doggie bowls)
 * ✅ Break fast
 * ✅ Create issues 9 and 10 for Quick
-* ✅ Finish structure for I'M FINE Volume I 
+* ✅ Finish structure for I'M FINE Volume I
 * Fill Part I of Volume I
-* ✅ Call someone re Cuddle Party Communication Workshop 
-* ✅ Add calendar entry for Saturday visiting Materials Trailer with Keith 
+* ✅ Call someone re Cuddle Party Communication Workshop
+* ✅ Add calendar entry for Saturday visiting Materials Trailer with Keith
 * ✅ Update this list
 * Fill Part II of Volume I
 

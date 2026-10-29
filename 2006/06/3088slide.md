@@ -9,7 +9,7 @@ tags: [ "internet" ]
 
 [88SLIDE: The Daily One Minute Trivia Challenge](https://88slide.com/)  
 
-  
+
 
 Holy shit she is hot!!!!!  
 

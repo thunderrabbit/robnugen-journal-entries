@@ -12,4 +12,4 @@ I bought Dr O on the way back from Niigata, in the afternoon before we went to I
 I've just decided to name this plant Dr O
 because it has a label 🏷️ オーロラ
 
-[![2021 may 26 labeled dr o](//b.robnugen.com/journal/2021/thumbs/2021_may_26_labeled_dr_o.jpeg)](//b.robnugen.com/journal/2021/2021_may_26_labeled_dr_o.jpeg)          
+[![2021 may 26 labeled dr o](//b.robnugen.com/journal/2021/thumbs/2021_may_26_labeled_dr_o.jpeg)](//b.robnugen.com/journal/2021/2021_may_26_labeled_dr_o.jpeg)  

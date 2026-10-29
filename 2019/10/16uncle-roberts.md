@@ -23,15 +23,15 @@ exchange for any offering.  I gave him 1000 yen for the following
 poem which he wrote after I gave him the topic "Thunder Rabbit":
 
     Thunder Rabbit
-    
+
     The thump of your leg causes cataclysmic quakes, making the earth
     shake with the vibrance of your being.  The predators of the
     forest think you easy prey, but if they hunt you they won't live
     to see another day for the thunder rabbit doesn't play.
-    
+
     You will shake in the wake make no mistake, and definitely don't
     take my cuteness for granted.
-    
+
     by Brise Lively
 
 [@briselively](https://www.instagram.com/briselively/)

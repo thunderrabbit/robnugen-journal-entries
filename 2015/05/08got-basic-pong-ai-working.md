@@ -18,7 +18,7 @@ public class AIMoveRacket : MonoBehaviour {
 
 	public float speed = 30;
 	public float speedIncreaseMax = 50;
-	
+
 	private GameObject myTarget;
 	private Transform ball;
 	private SliderJoint2D mySlider;

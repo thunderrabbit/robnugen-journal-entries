@@ -42,11 +42,11 @@ AND I'll get to install NT 4.0 on all these machines!
 Rosa is the gentle and polite woman who cleans up our
 building each evening.  Talking to her today, we
 wished each other happy holidays and stuff.  She is
-just learning English, but tries hard to communicate. 
+just learning English, but tries hard to communicate.
 I told her I learned a tiny bit of Spanish while in
 Costa Rica last year, and somehow we got to the
 subject of learning languages, but not knowing the
-"bad words."   
+"bad words."  
 
 "Some day," she said, "I am going to learn the bad
 words. The <em>really</em> bad words."
@@ -60,7 +60,7 @@ Got a great package in the mail!  All the present I
 ordered from Bits and Pieces for Maggie, Molly, John,
 Will, Marcel, Fred and myself.  (I'm not sure what to
 get Wende).   So now Wende and I have just eaten
-dinner at her house and we're about to wrap presents. 
+dinner at her house and we're about to wrap presents.
 She works at The Container Store, so has cool rolling
 scissors, cool tube shaped ribbon, and plain ol' flat
 wrapping paper.

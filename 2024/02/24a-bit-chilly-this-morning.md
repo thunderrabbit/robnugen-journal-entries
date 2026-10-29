@@ -22,7 +22,7 @@ Log of today's entry and exits from train stations
 
 Thank you everyone in the train system for amazing smooth connections!
 
-* ✅ Odakyu Line 
+* ✅ Odakyu Line
 * ✅ JR Nambu Line
 * ✅ Keikyu main line
 * ✅ Keikyu airport line

@@ -12,6 +12,6 @@ Here is Inokashira Line in Shimokitazawa before the gates were installed.
 
 Haha I could just walk right off of the edge here.
 
-[![2021 jun 30 inokashirareally no gates](//b.robnugen.com/journal/2021/thumbs/2021_jun_30_inokashirareally_no_gates.jpeg)](//b.robnugen.com/journal/2021/2021_jun_30_inokashirareally_no_gates.jpeg)          
+[![2021 jun 30 inokashirareally no gates](//b.robnugen.com/journal/2021/thumbs/2021_jun_30_inokashirareally_no_gates.jpeg)](//b.robnugen.com/journal/2021/2021_jun_30_inokashirareally_no_gates.jpeg)  
 
 Or just bump into the train here.

@@ -15,17 +15,17 @@ recent entries online:
     #!/bin/bash
     echo "pushing"
     git push
-    
+
     echo "yayer"
     cd ~/journal-hugo
     git submodule foreach git pull origin master
-    
+
     echo "building"
     hugo
-    
+
     echo "deploying"
     rsync -r public/* newrobnugen:/home/newrob/new.robnugen.com
-    
+
     echo "coming back"
     cd ~/journal
     echo "back jack"

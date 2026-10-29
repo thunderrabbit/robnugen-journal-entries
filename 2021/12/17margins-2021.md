@@ -10,7 +10,7 @@ draft: false
 
 On [ascii-collab.app](https://ascii-collab.app/?x=1024&y=1024), I just wrote the following:
 
-                                                                                               
+
     I scrolled all the way down here to x=1024&y=1024 but forgot what I had planned to write.  
     Today is December 17th, 2021, and it's been a pretty good day so far, from what I recall.  
     Reading this block of text, you will find the lines feature automatic self-justification,  
@@ -41,5 +41,5 @@ On [ascii-collab.app](https://ascii-collab.app/?x=1024&y=1024), I just wrote the
     excitement ebbs and flows. Bitcoin price is lower recently than before, but still you may  
     be wishing you had bought into it back when first hearing about it. Anyway, 1 BTC will be  
     higher or lower in the future, but looking up the price now, it's at 41,700 Euros which I  
-    certainly cannot afford at the moment, but later, I wonder if we will look back and sigh   
+    certainly cannot afford at the moment, but later, I wonder if we will look back and sigh  
     regret or relief that the price has risen to huge highs and we finally finished the text?  

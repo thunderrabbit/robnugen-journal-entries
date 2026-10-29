@@ -11,16 +11,16 @@ tags: [ "journal" ]
 
 I tried to move my furnace to expand the size of my burrow's main room, and saw a weird error come up when it normally would have said "furnace unregistered."
 
- 
+
 
 [LWC] Internal error. Notify an admin immediately. :BLOCK_BREAK
 
- 
+
 
 I was like "wut" and then I was like, O.o, and then I was like lol omg
 
- 
+
 
 The admin shrugged and was like ? when I told him, and life moves on.
 
- 
+

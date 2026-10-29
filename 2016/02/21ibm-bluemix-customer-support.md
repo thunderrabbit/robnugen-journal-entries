@@ -21,13 +21,13 @@ So I wrote them a little email:
     only 31 character passwords?
 
     Why can't I use %^#$%#% as my password?   Or better yet 100 randomized characters?  Why only 31 characters?
-    
+
     I was attracted to Blockchain as a Service, but am running scared from your password limitations.
-    
+
     https://paragonie.com/blog/2016/02/how-safely-store-password-in-2016
-    
+
     But good luck with it; thank you for posting the code as well.
-    
+
     - Rob
 
 I got their response today.

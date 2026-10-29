@@ -17,7 +17,7 @@ the player can win levels.
     commit b550b45e7a225c13f206c257f6176fef91aea80a
     Author: Rob Nugen
     Date:   Fri Dec 29 07:44:51 2017
-    
+
     Tell player if the level is won
-    
+
     Fixes #22

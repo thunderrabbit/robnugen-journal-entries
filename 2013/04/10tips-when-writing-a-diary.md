@@ -25,11 +25,11 @@ Other tips that are not as important, but may be useful
 
 
 
-	
+
   * In a handwritten diary, leave a couple pages in front blank to be an index.  Fill it in with highlights once the book is full
 
-	
+
   * Every month or year or so, write an overview of your situation. I got the idea from the State of The Union Addresses in the US; I call them State of My Life Addresses.
 
-	
+
   * Only read old entries if it's been a year since you wrote them.  Otherwise, don't read; just write.

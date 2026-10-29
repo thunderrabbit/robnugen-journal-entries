@@ -9,7 +9,7 @@ draft: false
 I am on the edge of outsourcing some of the edits I made to my repo.
 I have added PS to the commit message for two commits
 
-I want to hire someone who can add links to convert "upcoming" Weekly Alignments 
+I want to hire someone who can add links to convert "upcoming" Weekly Alignments
 to "past" weekly Alignments with links to my blog entries with the
 content from the alignment.
 

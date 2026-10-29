@@ -10,11 +10,11 @@ date: 1999-11-28
 
 Friday I wasted time at the computer pretty much all day until 5-7pm
 when I DJed at KTRU, covering for Jonathan and Sabrina.  After the show,
-drove to Marcel and Kayse's for Thanksgiving Party.  Wende was 
+drove to Marcel and Kayse's for Thanksgiving Party.  Wende was
 there and I drove her back with me to KTRU from 11pm to 1am covering for
 Tejus MK Ultra show.
 
-After MK Ultra, I dropped Wende off at my apartment and I 
+After MK Ultra, I dropped Wende off at my apartment and I
 went back out to Montrose Radio <a
 href="http:www.firstamendmentradio.org">www.firstamendmentradio.org</a>
 which is rebroadcast illegally in Houston on 94.9fm with a 35 watt
@@ -47,7 +47,7 @@ in my life?
 .
 
 Last night while talking with Wende I expressed how I felt self centered
-and too pestery for sex and that I wanted that to change in my life. 
+and too pestery for sex and that I wanted that to change in my life.
 The dialogue was great; I want to continue it as far as we can.
 
 We went to Family Planning clinic for HIV tests on Tuesday, but the

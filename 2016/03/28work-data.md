@@ -13,7 +13,7 @@ some good news: I found a mistake in the data
 
 surprising news: correcting the mistake will make the dom value even a little lower.
 
-I found a mistake in the data for unit 64935 
+I found a mistake in the data for unit 64935
 
 The values are all correct all the way down through December 2015.  The value of dom for January 2016 should be 0, but it listed as 43.
 

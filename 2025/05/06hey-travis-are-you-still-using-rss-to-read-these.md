@@ -18,7 +18,7 @@ Next steps:
 - [x] Finish writing this list of steps
 
 
-(*) Currently, 
+(*) Currently,
 
 - the Hugo journal sorts entries by the date in the frontmatter.
 - the Hugo journal can show a single entry based on its title

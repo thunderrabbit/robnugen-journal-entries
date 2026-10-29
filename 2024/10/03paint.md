@@ -13,12 +13,12 @@ I see a bunch of orange paint indicating where various sizes of airframes should
 From phind.com
 
 <pre>
-Based on the information provided, here are the key points about 
+Based on the information provided, here are the key points about
 where the A380 likely fits in relation to other aircraft sizes:
 
 Size Comparison
 
-    The Airbus A380 is significantly larger than most other commercial airliners. 
+    The Airbus A380 is significantly larger than most other commercial airliners.
 Its dimensions are:
         Length: 73 meters
         Wingspan: 79.8 meters
@@ -33,29 +33,29 @@ Its dimensions are:
 
 Visual Indicators
 
-    You mention seeing "orange paint indicating where various sizes of airframes should stop". 
+    You mention seeing "orange paint indicating where various sizes of airframes should stop".
 This suggests there are visual markers showing the maximum dimensions of different aircraft types.
 
-    Given the A380's enormous size compared to most other jets, 
+    Given the A380's enormous size compared to most other jets,
 it would likely have its own separate marker indicating where it should stop.
 
 Location Considerations
 
-    Due to its massive size, the A380 would need special handling 
+    Due to its massive size, the A380 would need special handling
 and storage facilities that accommodate its dimensions.
 
-    It would likely be positioned in areas designated specifically 
+    It would likely be positioned in areas designated specifically
 for very large aircraft, separate from regular gates or parking spots.
 
-    At airports, there are often dedicated areas for oversized aircraft 
+    At airports, there are often dedicated areas for oversized aircraft
 like the A380, with wider taxiways and aprons to handle its wingspan.
 
 Summary
 
-Based on its enormous size relative to other commercial aircraft, 
-the A380 would likely have its own distinct marker among the orange paint indicators. 
-It would be positioned in specially designated areas for very large aircraft, 
-separate from standard gates or parking spots. 
-The orange paint you're seeing is probably marking the boundaries for various aircraft sizes, 
+Based on its enormous size relative to other commercial aircraft,
+the A380 would likely have its own distinct marker among the orange paint indicators.
+It would be positioned in specially designated areas for very large aircraft,
+separate from standard gates or parking spots.
+The orange paint you're seeing is probably marking the boundaries for various aircraft sizes,
 with the A380 having its own unique indicator due to its exceptional dimensions.
 </pre>

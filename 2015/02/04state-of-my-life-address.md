@@ -86,7 +86,7 @@ Definitely want to keep the following:
     a. wiki.robnugen.com (for my art)
     b. art.robnugen.com (shortlinks to my art)
     c. www.robnugen.com (blog and shit (hopefully all static))
-    
+
 1. without looking at what exists, I can't think of any others I care about.
 
 1. I was going to be in a drug trial at CPC for the first two weeks of

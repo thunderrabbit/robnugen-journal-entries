@@ -10,7 +10,7 @@ draft: false
 
 Dear God, thank You for myriad ways of speaking to me. I saw 444 twice yesterday or so and woke up to see 555 on my phone while thinking I was late awaking. But I feel great and realizing Your Path Energizes Me. Let's gooooo 555!
 
-Yesterday I prayed for a new journal and today I found the perfect journal in my room.  BOOK TWENTY-SIX is the volume labeled 
+Yesterday I prayed for a new journal and today I found the perfect journal in my room.  BOOK TWENTY-SIX is the volume labeled
 
 YOU DO THE IMPOSSIBLE WHEN YOU'RE HUNGRY AND DRIVEN!!!
 

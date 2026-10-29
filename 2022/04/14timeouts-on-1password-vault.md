@@ -12,13 +12,13 @@ This was the error message in a popup:
 
 
     Failed to load vault.
-    
+
     The request took too long. Check your Internet connection and try again.
-    
+
     ClientError: The request took too long. Check your Internet connection and try again.
-    
+
     Session: SMSSO4WAPNDIJPGVSXCQDHSH64
-    
+
     Time: 2022-04-14T09:22:43.592Z
 
 

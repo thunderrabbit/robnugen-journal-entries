@@ -20,7 +20,7 @@ After the grounding meditation, I skipped the next two planned bits: 1. Go over 
 
 Instead, I jumped straight into the physical activity, basically: "stand up (carefully), close your eyes, stretch your arms, wiggle your fingers, sit down (carefully)."  The intention was to engage some not so commonly enumerated senses, e.g., balance, proprioception, interoception.
 
-We were low on time, and there were native Japanese ESL attendees, so those three senses remained unenumerated during the workshop. 😂 
+We were low on time, and there were native Japanese ESL attendees, so those three senses remained unenumerated during the workshop. 😂
 
 I therefore also didn't talk about emotions as (even less often enumerated) senses, but I did talk about how our emotions are affected by interacting in public, and that if we get stress from interacting with each other, we need to process that stress, otherwise we'll spread stress to other people.
 

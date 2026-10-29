@@ -9,10 +9,10 @@ date: 2001-11-25
 >About 2,254,107 seconds ago (ok...about 26 days), you submitted
 >11 photos for the website.
 >
->Sorry it took so long to get the pictures into the 
->site.  I had to rewrite all of the code that processes 
+>Sorry it took so long to get the pictures into the
+>site.  I had to rewrite all of the code that processes
 >submissions and puts the photos into the clock....but
->things are all better now.  Future submissions to the 
+>things are all better now.  Future submissions to the
 >website will now  only take a few days to put onto the
 >site, instead of a few eons.
 >
@@ -37,7 +37,7 @@ date: 2001-11-25
 > Your photo(s) shares a timeslot with other photos,
 > so it might not always come up at the specified time.  If
 > the clock has more than one photo for a given time, it chooses
-> a picture at random.  If your photo does not come up, hit 
+> a picture at random.  If your photo does not come up, hit
 > reload/refresh on your browser during that minute and it
 > should come up eventually.  If it doesn't come up at all
 > when I said it would, write me and tell me I need to write

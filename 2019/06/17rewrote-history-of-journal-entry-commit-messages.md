@@ -31,17 +31,17 @@ After writing this, I started composing a message on [english.stackexchange.com]
     interviewed.  The man is relaying a story which happened in the
     past.  To describe how long ago it happened, he uses the word
     "some" and then wants to revise it to "several (years ago)."
-    
+
     Without punctuation, it would be transcribed as
-    
+
     ... that was back some well several years ago when he was still ...
-    
+
     I am debating between adding commas to indicate pauses either as
-    
+
     A. that was back some, well, several years ago when he was still ...
-    
+
     or
-    
+
     B. that was back some well, several, years ago when he was still ...
 
 but ended up not posting it as there are several answers already.

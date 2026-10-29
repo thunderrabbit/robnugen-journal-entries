@@ -9,9 +9,9 @@ draft: false
 Message from Torres:
 
     Rob and Dan,
-    
+
     Submit the Special CoM and I think I can get it built by Friday.
-    
+
     1. This is a one time deal. MKP USA operations does not have the
     infrastructure to support trainings for unofficial regions.
     2. When Japan does the work to become an official developing region we

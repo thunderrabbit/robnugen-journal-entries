@@ -33,7 +33,7 @@ off and everything.
 - - -
 
 Woke up; worked on website stuff (Rebecca's Indigo Angel site (which
-will be at https://www.indigoangel.com soon but) for now is at 
+will be at https://www.indigoangel.com soon but) for now is at
 <a href="https://indigoangel.cjb.net">indigoangel.cjb.net</a>) and email and then Rebecca called!
 
 She answered a question I had about her site and then I asked her a

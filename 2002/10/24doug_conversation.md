@@ -37,7 +37,7 @@ and I know that's hard to hear.
 
 The potenetial liability issue if someone says something.
 
-I would urge you to think carefully about it. 
+I would urge you to think carefully about it.
 
 I can understand that you're angry; I would be pissed.
 

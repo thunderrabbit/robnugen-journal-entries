@@ -8,7 +8,7 @@ draft: false
 
 [![2025 may 23 ingredients 1000](//b.robnugen.com/journal/2025/cooking/thumbs/2025_may_23_ingredients.jpeg)](//b.robnugen.com/journal/2025/cooking/2025_may_23_ingredients_1000.jpeg)
 
-It's time for another cooking adventure.  Can you help me?   
+It's time for another cooking adventure.  Can you help me?  
 
 I have a knife, a cutting board, a pot with lid, and a skillet sans lid.   Oh and one IH eye on the stove top.
 
@@ -90,7 +90,7 @@ Would you like to stick with stir-fry, try a stew, or do a warm apple-dessert tw
 [![2025 may 23 my feet 1000](//b.robnugen.com/journal/2025/cooking/thumbs/2025_may_23_my_feet.jpeg)](//b.robnugen.com/journal/2025/cooking/2025_may_23_my_feet_1000.jpeg)
 
 
-Let's do the stir fry. 
+Let's do the stir fry.
 
 I'm cooking the mushrooms now
 
@@ -207,7 +207,7 @@ Want to name this new Rob-original dish? Or shall we just call it “Golden Glow
 [![2025 may 23 topped with tofu 1000](//b.robnugen.com/journal/2025/cooking/thumbs/2025_may_23_topped_with_tofu.jpeg)](//b.robnugen.com/journal/2025/cooking/2025_may_23_topped_with_tofu_1000.jpeg)
 [![2025 may 23 cooked with tofu 1000](//b.robnugen.com/journal/2025/cooking/thumbs/2025_may_23_cooked_with_tofu.jpeg)](//b.robnugen.com/journal/2025/cooking/2025_may_23_cooked_with_tofu_1000.jpeg)
 
-I think I'll just eat the apple as a dessert afterward because there is already plenty here. 
+I think I'll just eat the apple as a dessert afterward because there is already plenty here.
 
 ::: ai chatgpt
 

@@ -23,35 +23,35 @@ shell script `netlify.sh`to slap a bunch of different branches with different
 versions of Hugo requested.
 
     #!/usr/bin/env bash
-    
+
     VERSION=$1
     BRANCH=hugo${VERSION//\./}
     FILE=netlify.toml
-    
+
     echo "version $VERSION"
     echo "branch $BRANCH"
-    
+
     git checkout master
     git branch -f $BRANCH
     sleep 1
     git checkout $BRANCH
-    
+
     sed -i '' s/"0.54.0"/"$VERSION"/g $FILE
-    
+
     git add $FILE
-    
+
     sleep 1
-    
+
     git commit -m "Hugo $VERSION
-    
+
     to narrow down when it stopped working"
-    
+
     sleep 1
-    
+
     git push origin $BRANCH
-    
+
     sleep 1
-    
+
     git log --oneline --graph --decorate --all
 
 The `sleep` commands are there to keep git from locking itself out of the directory.
@@ -166,31 +166,31 @@ or
 Getting closer.  I made a script I called `commitlify.sh`
 
     #!/usr/bin/env bash
-    
+
     COMMIT=$1
     BRANCH=hugo_${COMMIT//\./}
-    
+
     echo "commit $COMMIT"
     echo "branch $BRANCH"
-    
+
     rm -rf public/
-    
+
     ls public/
-    
+
     git checkout $COMMIT --recurse-submodules
-    
+
     git branch -f $BRANCH
-    
+
     sleep 1
-    
+
     git checkout $BRANCH
-    
+
     sleep 1
-    
+
     git push origin $BRANCH
-    
+
     sleep 1
-    
+
     hugo server -w=0
 
 It does a similar thing as the previous script, but deals with

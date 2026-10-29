@@ -52,7 +52,7 @@ Linux](https://forum.audacityteam.org/viewtopic.php?f=48&t=113597)
 which at the very bottom suggests if I remove `~/.xinputrc`, that will
 solve it.
 
-    $ cat ~/.xinputrc 
+    $ cat ~/.xinputrc
     # im-config(8) generated on Sat, 02 Jan 2021 12:47:27 +0900
     run_im xim
     # im-config signature: 3a4bfe2e919afd2d677c1c2f43f9a8aa  -

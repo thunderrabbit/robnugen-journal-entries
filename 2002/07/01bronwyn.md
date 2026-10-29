@@ -58,54 +58,54 @@ On Monday, July 1, 2002, at 03:45 Bronwyn wrote:
 > hope to hear from you soon,
 > love Bron
 > What's your cats name?
->    
+>  
 
->> From: Rob 
+>> From: Rob
 >> To: Bronwyn
 >> Subject: Re: hello to you at 242
 >> Date: Thu, 27 Jun 2002 09:44:18 -0700 (PDT)
->> 
+>>
 >> Lovely Miss Bronwyn!
->> 
+>>
 >> From your email, I am guessing you're thinking I've been traveling a
 >> bit more than I think I have.
->> 
+>>
 >> But, I have recently lost my job and am taking this opportunity to
 >> release my apartment and travel around the US.  So far, I have made it
 >> all the way across the freeway from my apartment (200 meters).  :-)
->> 
+>>
 >> I have drawn some cool yellow business cards.   Are you still at..
 >> OH!!  That's what 242 means in your subject line!  So, yes, you are
 >> still there; I can send you one of my cards.
->> 
+>>
 >> Did you guys get the soap dish I made?  I hope so; I never heard back
 >> from anyone.
->> 
+>>
 >> So it's my intention to have someone take over my apartment lease, and
 >> then I will travel around the US for the rest of the year.  After that,
 >> I'll teach English in Japan for a year or more.  ..  Then I have no
 >> idea what I'll be doing.
->> 
+>>
 >> All of these big changes have happened within the past 10 days.  (From
 >> losing my job to choosing to travel.  Big fast changes.)
->> 
+>>
 >> Once I have my apartment handled, I still need to relinquish my
 >> presidency of my investment club, and find a home for my wonderful cat,
 >> who I'll miss dearly while I travel.
->> 
+>>
 >> I will likely first visit my dad in Magnolia (45 minutes' drive north),
 >> then my mom in Austin (3 hours drive west).  Then maybe friends in San
 >> Antonio (45 minutes south), and then maybe friends in Dallas (3.5 hours
 >> north of Austin).  Then maybe Oklahoma City to see Bryn (who you met)
 >> (4 more hours north of Dallas) and Tulsa (few hours east of OKC).
->> 
+>>
 >> Blessings to you on all your travels and adventures.
->> 
+>>
 >> 	 With Love
 >> 	 - Rob!
->> 
+>>
 >> My permanent address will be at my dad's:
->> 
+>>
 >> Rob Nugen
 >> __redacted__
 >> __redacted__

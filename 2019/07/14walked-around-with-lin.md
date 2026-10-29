@@ -21,7 +21,7 @@ I look forward to finding the video where the transcription came from.
 
     1. Meditate for 15 minutes every day. Getting centered and
        clearing your mind can make a world of difference in our feelings.
-    
+
     2. Go outside no matter what the weather and move around in
        appreciation of this planet. Look up and around and find things
        to acknowledge, and talk about them right out loud: say things
@@ -29,10 +29,10 @@ I look forward to finding the video where the transcription came from.
        bloom, you are my favorite flower not in bloom, you are my
        favorite tree, you are my favorite frog, who kept me awake all
        night, you are my favorite rock. etc
-    
+
     3. Buy a notepad, call it your Book of Positive Aspects, and fill
        5 pages of positive aspects about a thing or subject or a person.
-    
+
     4. And the last thing. Every single day look upward and outward,
        best if you do it outside or standing near a window, and
        acknowledge that there are Universal Forces, God, focused right

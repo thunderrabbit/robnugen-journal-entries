@@ -29,7 +29,7 @@ The project has its own website[3], which reinforces the story that the characte
 
 
 (fake spoiler)
-However, it's actually me behind the scenes moving the characters to make the movie in which they build the track! 
+However, it's actually me behind the scenes moving the characters to make the movie in which they build the track!
 
 300+ hours of livestream[4] answer the question "how do you make a stop motion movie which answers the question of how to make a marble track?"
 

@@ -23,7 +23,7 @@ means "no drugs" (for us straight-edge types)) combination of imagery,
 live and recorded sound, music, singing, rapping, spiritual stuff, big
 giant altars to the four directions/elements, just just just amazing!
 
-Come join us on the 9th!  Or, if you want to help set up the thing, 
+Come join us on the 9th!  Or, if you want to help set up the thing,
 <a href="mailto:thunderrabbitATcheerfulDOTcom">email me</a>!
 
 - - - - -

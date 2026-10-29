@@ -16,9 +16,9 @@ Here is what I wrote as testimonial:
 
     I learned I did a great deal in 2019 already and got good insights
     on what types of behaviors support my continued growth.
-    
+
     Therefore, I can focus on the helpful behaviors and achieve even
     more in the second half of 2019.
-    
+
     I discovered fears from my childhood have kept me from acting in
     my highest joy and inner growth

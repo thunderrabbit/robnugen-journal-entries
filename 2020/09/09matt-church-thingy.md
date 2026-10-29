@@ -67,7 +67,7 @@ exact opposite of that is -A.   (South)
 
 NOW create combinations to at least 8, and then live
 
-Rubberducking on the compass 
+Rubberducking on the compass
 
 --------------
 

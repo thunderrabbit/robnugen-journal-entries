@@ -6,7 +6,7 @@ date: '2022-07-10T18:42:49+09:00'
 
 Gratitude journal
 
-[![2022 jul 10 thank you god ](//b.robnugen.com/journal/2022/thumbs/2022_jul_10_thank_you_god_.jpeg)](//b.robnugen.com/journal/2022/2022_jul_10_thank_you_god_.jpeg)         
+[![2022 jul 10 thank you god ](//b.robnugen.com/journal/2022/thumbs/2022_jul_10_thank_you_god_.jpeg)](//b.robnugen.com/journal/2022/2022_jul_10_thank_you_god_.jpeg)  
 
 Dearest God in All Things --
 

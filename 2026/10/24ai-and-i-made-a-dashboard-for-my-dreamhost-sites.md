@@ -8,7 +8,7 @@ draft: false
 
 [![2026 oct 25 new dh inventory dashboard 1000](//b.robnugen.com/journal/2026/thumbs/2026_oct_25_new_dh_inventory_dashboard.png)](//b.robnugen.com/journal/2026/2026_oct_25_new_dh_inventory_dashboard_1000.png)
 
-I've been happily using Dreamhost Shared Hosting for nearly 20 years.  Over this time I have had multiple domain names, subdomains, databases, users, etc.. far more than I can remember in one sitting and I've lost track of plenty of the details. 
+I've been happily using Dreamhost Shared Hosting for nearly 20 years.  Over this time I have had multiple domain names, subdomains, databases, users, etc.. far more than I can remember in one sitting and I've lost track of plenty of the details.
 
 Dream host has a control panel with which I can control everything, but they no longer have an API that allows me to control the control panel with the API.
 

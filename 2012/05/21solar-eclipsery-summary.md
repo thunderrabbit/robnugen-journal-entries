@@ -9,11 +9,11 @@ tags: [ "journal" ]
 
 Summary: it was cloudy only during the eclipse. Other than that, there was only a thin veil of clouds before and after the eclipse.
 
- 
+
 
 Travis and I had fun chatting outside on his balcony though. (we were going to go hiking to see the eclipse from a nearby mountain hill, but I chose to cancel it when I saw how overcast it was.
 
- 
+
 
 I got a few pics tho
 
