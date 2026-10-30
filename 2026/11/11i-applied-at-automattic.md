@@ -22,7 +22,7 @@ I've been a web developer for most of my professional life, working mostly in PH
 
 The core answer: until a couple of days ago, I had no idea Automattic has such a human-centric mindset! Happy to see keywords like "Fully Remote" and PHP, I felt even more delighted reading your application process, ethos, flat org chart, values, including things I characterize as "say 'no' instead of breaking trust."  Plus everything is open source and ... *wait, what?  40+ offerings besides WordPress, including a 100 Year Website? Sign me up!*
 
-Moreover, I have been working for a company in Japan since 2012 in a role that's nearing completion as I'm moving to Australia. My move to Australia prompted me to start a job search.
+Moreover, I have been working for a company in Japan since 2012 in a role that's nearing completion as I'm moving to Adelaide, Australia in mid 2027. My move to Australia prompted me to start a job search.
 
 Until my recent job search, I had *NO* idea that Automattic tries carefully to keep humans first. I feel thrilled because I've been doing the inner work with MKP (ManKind Project) since 1997; In 2015, I established a men's group in Tokyo[*] because I have a need for heart-to-heart communication with others!
 
@@ -43,7 +43,7 @@ Starting with that template, I set up an efficient way to work with a Japanese c
 
 ## How has AI changed your work — if at all?*
 
-In 1990, I made a game of "Dots and Boxes" in *Pascal*[*] for IBM PC. Last month, Anthropic was like "hey we'll give you $150 credit if you let us connect Claude Code with your Github account," I thought *certainly!* and found my old Pascal code waiting patiently in my Github account. I asked Claude to translate the code to run online; two minutes later, seeing the code come to life in its fabulous 16 color glory felt exciting! I was so happy to see my old game again that I made a two-player online version and published it on my site[*].  I have more game ideas so we kept going. In about a week, AI and I created a whole games website[*] including DOTS and some other games now playable over internet.
+In 1990, I made a game of "Dots and Boxes" in *Pascal*[*] for IBM PC. Last month, Anthropic was like "hey we'll give you $250 credit if you let us connect Claude Code with your Github account," I thought *certainly!* and found my old Pascal code waiting patiently in my Github account. I asked Claude to translate the code to run online; two minutes later, seeing the code come to life in its fabulous 16 color glory felt exciting! I was so happy to see my old game again that I made a two-player online version and published it on my site[*].  I have more game ideas so we kept going. In about a week, AI and I created a whole games website[*] including DOTS and some other games now playable over internet.
 
 On my local laptop, I have N+1 tabs in my terminal with different agent harnesses geared to the project I work on in that directory. I say N+1 because at any given moment another idea will come up that I can quickly explore. I see lots of new ideas and possibilities coming available with AI; how do we stay focused??  If we can guide agents and guide ourselves to learn to work with AI tools in a good way, I think we will be better able to make the transition to a world with ubiquitous AI.
 
@@ -61,9 +61,7 @@ I enjoy making technology work for humans, allowing humans more time to be creat
 
 ## What’s a controversial or unpopular opinion you hold about software engineering, and why?*
 
-Any opinion is probably controversial to someone; as recently as last year I heard a founder denigrating the use of LLMs for writing code; now it seems inevitable that AI will be writing languages and compilers as well as designing chips as they close the recursive loops.
-
-My possibly-controversial opinion: Database primary keys MUST NOT be `id`!  They should be `widget_id` or whatever the TABLE itself is named.  We don't generally create TABLE `table` so why create PK `id`??  Naming the PK thoughtfully allows the queries to read much more smoothly!   ```SELECT `name` FROM `users` `u` JOIN `logins` `l` ON (`user_id`) WHERE `l`.`date` > DATE(SUBTRACT("12 HOURS"))```
+My possibly-controversial opinion: Database primary keys SHOULD NOT be `id`!  They should be `widget_id` or `whatever_id` based on the name of the TABLE itself.  We don't generally create TABLE `table` so why create PK `id`?  Naming the PK thoughtfully allows more legible queries, especially when joining many tables. e.g. ```SELECT `user_id`, `name` FROM `users` JOIN `logins` USING (`user_id`) WHERE `login_time` > NOW() - INTERVAL 12 HOUR```
 
 ## Is there anything else you’d like us to know?
 
@@ -71,7 +69,7 @@ Full disclosure, though I have installed WordPress several times for myself and 
 
 While reading everything I could, I found your Get Acquainted page [*] has videos from as recent as 2022. We're in 2026 now so I started looking for other videos to help you update the page, but there seem to be none past 2022. I'm curious as to why those videos are no longer being created, or are they just no longer public?
 
-As soon as I submit this, I plan to play with WP and make a plugin because I'm excited to get started with stuff.
+As soon as I submit this, I plan to play with WP[*] and make a plugin because I'm excited to get started with stuff.
 
 
 
