@@ -1,10 +1,9 @@
 ---
 title: "I bought a shaver"
-tags: [ "2026", "bondi", "beach", "gratitude", "shaving", "men's circle" ]
+tags: [ "2026", "2026", "bondi", "beach", "gratitude", "shaving", "men's circle" ]
 author: Rob Nugen
-date: 2026-11-04T15:04:00+11:00
+date: 2026-11-04T15:04:00+09:00
 draft: false
-gdoc_id: journal-20261105-050452
 ---
 
 #### 15:04
@@ -32,6 +31,9 @@ shaver for $34. And thought about going up to the woman to say that she
 could buy some for $34 and sell them for $49. But I just went to
 Jacquie's house and dropped off the book and dropped off a copy of my
 book in her mailbox.
+
+[![2026 nov 19 wahl shaver back 1000](//b.robnugen.com/journal/2026/thumbs/2026_nov_19_wahl_shaver_back.jpeg)](//b.robnugen.com/journal/2026/2026_nov_19_wahl_shaver_back_1000.jpeg)
+[![2026 nov 19 wahl shaver front 1000](//b.robnugen.com/journal/2026/thumbs/2026_nov_19_wahl_shaver_front.jpeg)](//b.robnugen.com/journal/2026/2026_nov_19_wahl_shaver_front_1000.jpeg)
 
 And then I went, I walked from her house to the closest beach is
 Tamarama.  I forgot the name, thinking like Tra La La Beach or something. From there, if you walk
@@ -128,7 +130,7 @@ layer of stubble. So I felt a lot of gratitude for having the shaver,
 and it was able to get through all of my, not that I had a ton of beard,
 but it was more than one inch long and it shaved through that and then
 gave me a clean shave. So I'm pretty happy with my purchase of the Wahl waterproof battery operated shaver. It'll definitely go into my
-items website. So
+items website.
 
 #### 05:21
 
